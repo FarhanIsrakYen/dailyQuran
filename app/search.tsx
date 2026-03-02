@@ -5,6 +5,7 @@ import {
 } from 'react-native';
 import { useAudioPlayer, useAudioPlayerStatus, setAudioModeAsync } from 'expo-audio';
 import { AYAH_API } from '../utils/planBuilder';
+import sajdahData from '../assets/sajdah.json';
 
 interface AyahData {
     surahName: string;
@@ -105,6 +106,10 @@ export default function SearchAyah({ onBack }: Props) {
 
     const isPlaying = playerStatus.playing;
 
+    const isSajdahAyah = ayahData ? sajdahData.verses.some(
+        (v) => v.surahNo === ayahData.surahNo && v.ayahNo === ayahData.ayahNo
+    ) : false;
+
     return (
         <View style={styles.container}>
             <View style={styles.topBar}>
@@ -160,6 +165,21 @@ export default function SearchAyah({ onBack }: Props) {
                                 <Text style={styles.ayahBadgeText}>{ayahData.surahNo}:{ayahData.ayahNo} (Total: {ayahData.totalAyah})</Text>
                             </View>
                         </View>
+
+                        {isSajdahAyah && (
+                            <View style={styles.sajdahContainer}>
+                                <Text style={styles.sajdahTitle}>۩ {sajdahData.sajdah.arabic} ۩</Text>
+                                <View style={styles.sajdahLangs}>
+                                    <Text style={styles.sajdahLangText}>{sajdahData.sajdah.english}</Text>
+                                    <Text style={styles.sajdahSeparator}>•</Text>
+                                    <Text style={styles.sajdahLangText}>{sajdahData.sajdah.urdu}</Text>
+                                    <Text style={styles.sajdahSeparator}>•</Text>
+                                    <Text style={styles.sajdahLangText}>{sajdahData.sajdah.hindi}</Text>
+                                    <Text style={styles.sajdahSeparator}>•</Text>
+                                    <Text style={styles.sajdahLangText}>{sajdahData.sajdah.bangla}</Text>
+                                </View>
+                            </View>
+                        )}
 
                         <View style={styles.arabicContainer}>
                             <Text style={styles.arabicText}>{ayahData.arabic1}</Text>
@@ -246,6 +266,22 @@ const styles = StyleSheet.create({
         paddingVertical: 4, marginTop: 12, borderWidth: 1, borderColor: '#1E3348',
     },
     ayahBadgeText: { color: '#8BA7C7', fontSize: 13, letterSpacing: 1 },
+    sajdahContainer: {
+        backgroundColor: '#1E1A0F', borderRadius: 16, padding: 16, marginBottom: 20,
+        borderWidth: 1, borderColor: '#C9A96E', alignItems: 'center',
+    },
+    sajdahTitle: {
+        fontSize: 16, color: '#C9A96E', fontWeight: 'bold', marginBottom: 8,
+    },
+    sajdahLangs: {
+        flexDirection: 'row', flexWrap: 'wrap', justifyContent: 'center', alignItems: 'center',
+    },
+    sajdahLangText: {
+        fontSize: 13, color: '#EAE0D0', marginHorizontal: 4,
+    },
+    sajdahSeparator: {
+        fontSize: 13, color: '#5A7A9A', marginHorizontal: 4,
+    },
     arabicContainer: {
         backgroundColor: '#0A1520', borderRadius: 20, padding: 28, marginBottom: 20,
         borderWidth: 1, borderColor: '#1E3348', alignItems: 'center', minHeight: 140, justifyContent: 'center',

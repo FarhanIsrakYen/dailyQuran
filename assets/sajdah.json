@@ -1,0 +1,71 @@
+{
+    "sajdah": {
+        "arabic": "سجدة",
+        "urdu": "سجدہ",
+        "hindi": "सज्दा",
+        "bangla": "সিজদাহ",
+        "english": "Sajdah"
+    },
+    "verses": [
+        {
+            "surahNo": 7,
+            "ayahNo": 206
+        },
+        {
+            "surahNo": 13,
+            "ayahNo": 15
+        },
+        {
+            "surahNo": 16,
+            "ayahNo": 50
+        },
+        {
+            "surahNo": 17,
+            "ayahNo": 109
+        },
+        {
+            "surahNo": 19,
+            "ayahNo": 58
+        },
+        {
+            "surahNo": 22,
+            "ayahNo": 18
+        },
+        {
+            "surahNo": 22,
+            "ayahNo": 77
+        },
+        {
+            "surahNo": 25,
+            "ayahNo": 60
+        },
+        {
+            "surahNo": 27,
+            "ayahNo": 26
+        },
+        {
+            "surahNo": 32,
+            "ayahNo": 15
+        },
+        {
+            "surahNo": 38,
+            "ayahNo": 24
+        },
+        {
+            "surahNo": 41,
+            "ayahNo": 38
+        },
+        {
+            "surahNo": 53,
+            "ayahNo": 62
+        },
+        {
+            "surahNo": 84,
+            "ayahNo": 21
+        },
+        {
+            "surahNo": 96,
+            "ayahNo": 19
+        }
+    ]
+}
