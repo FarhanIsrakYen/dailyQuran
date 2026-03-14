@@ -1,0 +1,42 @@
+{
+    "surahName": "Az-Zumar",
+    "surahNameArabic": "الزمر",
+    "surahNameArabicLong": "سورة الزمر",
+    "surahNameTranslation": "The Groups",
+    "revelationPlace": "Mecca",
+    "totalAyah": 75,
+    "surahNo": 39,
+    "ayahNo": 9,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/39_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/039009.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/39_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/039009.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/39_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/039009.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/39_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/039009.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/39_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/039009.mp3"
+        }
+    },
+    "english": "˹Are they better˺ or those who worship ˹their Lord˺ devoutly in the hours of the night, prostrating and standing, fearing the Hereafter and hoping for the mercy of their Lord? Say, ˹O Prophet,˺ “Are those who know equal to those who do not know?” None will be mindful ˹of this˺ except people of reason.",
+    "arabic1": "أَمَّنْ هُوَ قَـٰنِتٌ ءَانَآءَ ٱلَّيْلِ سَاجِدًا وَقَآئِمًا يَحْذَرُ ٱلْـَٔاخِرَةَ وَيَرْجُوا۟ رَحْمَةَ رَبِّهِۦ ۗ قُلْ هَلْ يَسْتَوِى ٱلَّذِينَ يَعْلَمُونَ وَٱلَّذِينَ لَا يَعْلَمُونَ ۗ إِنَّمَا يَتَذَكَّرُ أُو۟لُوا۟ ٱلْأَلْبَـٰبِ",
+    "arabic2": "امن هو قانت اناء الليل ساجدا وقائما يحذر الاخرة ويرجو رحمة ربه قل هل يستوي الذين يعلمون والذين لا يعلمون انما يتذكر اولو الالباب",
+    "bengali": "যে ব্যক্তি রাতের প্রহরে সিদজাবনত হয়ে ও দাঁড়িয়ে আনুগত্য প্রকাশ করে, আখিরাতকে ভয় করে এবং তার রব-এর রহমত প্রত্যাশা করে (সে কি তার সমান যে এরূপ করে না) বল, ‘যারা জানে আর যারা জানে না তারা কি সমান?’ বিবেকবান লোকেরাই কেবল উপদেশ গ্রহণ করে।",
+    "urdu": "(بھلا مشرک اچھا ہے) یا وہ جو رات کے وقتوں میں زمین پر پیشانی رکھ کر اور کھڑے ہو کر عبادت کرتا اور آخرت سے ڈرتا اور اپنے پروردگار کی رحمت کی امید رکھتا ہے۔ کہو بھلا جو لوگ علم رکھتے ہیں اور جو نہیں رکھتے دونوں برابر ہوسکتے ہیں؟ (اور) نصیحت تو وہی پکڑتے ہیں جو عقلمند ہیں"
+}

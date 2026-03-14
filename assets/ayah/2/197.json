@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 197,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_197.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002197.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_197.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002197.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_197.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002197.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_197.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002197.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_197.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002197.mp3"
+        }
+    },
+    "english": "˹Commitment to˺ pilgrimage is made in appointed months. Whoever commits to ˹performing˺ pilgrimage, let them stay away from intimate relations, foul language, and arguments during pilgrimage. Whatever good you do, Allah ˹fully˺ knows of it. Take ˹necessary˺ provisions ˹for the journey˺—surely the best provision is righteousness. And be mindful of Me, O  people of reason!",
+    "arabic1": "ٱلْحَجُّ أَشْهُرٌ مَّعْلُومَـٰتٌ ۚ فَمَن فَرَضَ فِيهِنَّ ٱلْحَجَّ فَلَا رَفَثَ وَلَا فُسُوقَ وَلَا جِدَالَ فِى ٱلْحَجِّ ۗ وَمَا تَفْعَلُوا۟ مِنْ خَيْرٍ يَعْلَمْهُ ٱللَّهُ ۗ وَتَزَوَّدُوا۟ فَإِنَّ خَيْرَ ٱلزَّادِ ٱلتَّقْوَىٰ ۚ وَٱتَّقُونِ يَـٰٓأُو۟لِى ٱلْأَلْبَـٰبِ",
+    "arabic2": "الحج اشهر معلومات فمن فرض فيهن الحج فلا رفث ولا فسوق ولا جدال في الحج وما تفعلوا من خير يعلمه الله وتزودوا فان خير الزاد التقوى واتقون يا اولي الالباب",
+    "bengali": "হজের সময় নির্দিষ্ট মাসসমূহ। অতএব এই মাসসমূহে যে নিজের উপর হজ আরোপ করে নিল, তার জন্য হজে অশ্লীল ও পাপ কাজ এবং ঝগড়া-বিবাদ বৈধ নয়। আর তোমরা ভাল কাজের যা কর, আল্লাহ তা জানেন এবং পাথেয় গ্রহণ কর। নিশ্চয় উত্তম পাথেয় তাকওয়া। আর হে বিবেক সম্পন্নগণ, তোমরা আমাকে ভয় কর।",
+    "urdu": "حج کے مہینے (معین ہیں جو) معلوم ہیں تو شخص ان مہینوں میں حج کی نیت کرلے تو حج (کے دنوں) میں نہ عورتوں سے اختلاط کرے نہ کوئی برا کام کرے نہ کسی سے جھگڑے۔ اور جو نیک کام تم کرو گے وہ خدا کو معلوم ہوجائے گا اور زاد راہ (یعنی رستے کا خرچ) ساتھ لے جاؤ کیونکہ بہتر (فائدہ) زاد راہ (کا) پرہیزگاری ہے اور اے اہل عقل مجھ سے ڈرتے رہو"
+}

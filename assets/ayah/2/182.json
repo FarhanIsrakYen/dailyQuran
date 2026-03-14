@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 182,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_182.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002182.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_182.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002182.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_182.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002182.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_182.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002182.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_182.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002182.mp3"
+        }
+    },
+    "english": "Whoever suspects an error or an injustice in the will and brings about a ˹fair˺ settlement among the parties will not be sinful. Surely Allah is All-Forgiving, Most Merciful.",
+    "arabic1": "فَمَنْ خَافَ مِن مُّوصٍ جَنَفًا أَوْ إِثْمًا فَأَصْلَحَ بَيْنَهُمْ فَلَآ إِثْمَ عَلَيْهِ ۚ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ",
+    "arabic2": "فمن خاف من موص جنفا او اثما فاصلح بينهم فلا اثم عليه ان الله غفور رحيم",
+    "bengali": "তবে কেউ যদি অসিয়তকারীর পক্ষ থেকে পক্ষপাতিত্ব ও পাপের আশঙ্কা করে, অতঃপর তাদের মধ্যে মীমাংসা করে দেয়, তাহলে তার কোন পাপ নেই। নিশ্চয় আল্লাহ ক্ষমাশীল, পরম দয়ালু।",
+    "urdu": "اگر کسی کو وصیت کرنے والے کی طرف سے (کسی وارث کی) طرفداری یا حق تلفی کا اندیشہ ہو تو اگر وہ (وصیت کو بدل کر) وارثوں میں صلح کرادے تو اس پر کچھ گناہ نہیں۔ بےشک خدا بخشنے والا (اور) رحم والا ہے"
+}

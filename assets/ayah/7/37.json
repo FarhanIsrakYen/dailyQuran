@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 37,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/7_37.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/007037.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/7_37.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/007037.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/7_37.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/007037.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/7_37.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/007037.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/7_37.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/007037.mp3"
+        }
+    },
+    "english": "Who does more wrong than those who fabricate lies against Allah or deny His revelations? They will receive what is destined for them, until Our messenger-angels arrive to take their souls, asking them, “Where are those ˹false gods˺ you used to invoke besides Allah?” They will cry, “They have failed us,” and they will confess against themselves that they were indeed disbelievers.",
+    "arabic1": "فَمَنْ أَظْلَمُ مِمَّنِ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًا أَوْ كَذَّبَ بِـَٔايَـٰتِهِۦٓ ۚ أُو۟لَـٰٓئِكَ يَنَالُهُمْ نَصِيبُهُم مِّنَ ٱلْكِتَـٰبِ ۖ حَتَّىٰٓ إِذَا جَآءَتْهُمْ رُسُلُنَا يَتَوَفَّوْنَهُمْ قَالُوٓا۟ أَيْنَ مَا كُنتُمْ تَدْعُونَ مِن دُونِ ٱللَّهِ ۖ قَالُوا۟ ضَلُّوا۟ عَنَّا وَشَهِدُوا۟ عَلَىٰٓ أَنفُسِهِمْ أَنَّهُمْ كَانُوا۟ كَـٰفِرِينَ",
+    "arabic2": "فمن اظلم ممن افترى على الله كذبا او كذب باياته اولئك ينالهم نصيبهم من الكتاب حتى اذا جاءتهم رسلنا يتوفونهم قالوا اين ما كنتم تدعون من دون الله قالوا ضلوا عنا وشهدوا على انفسهم انهم كانوا كافرين",
+    "bengali": "সুতরাং তার চেয়ে কে অধিক যালিম, যে আল্লাহর উপর মিথ্যা অপবাদ রটায় কিংবা তাঁর আয়াতসমূহকে অস্বীকার করে। তাদের ভাগ্যে লিখিত অংশ তাদের কাছে পৌঁছবে। অবশেষে যখন আমার ফেরেশতারা তাদের নিকট আসবে তাদের জান কবজ করতে, তখন তারা বলবে, ‘কোথায় তারা, আল্লাহ ছাড়া যাদেরকে তোমরা ডাকতে’? তারা বলবে, ‘তারা আমাদের থেকে হারিয়ে গিয়েছে’ এবং তারা নিজদের বিরুদ্ধে সাক্ষ্য দেবে যে, নিশ্চয় তারা ছিল কাফির ।",
+    "urdu": "تو اس سے زیادہ ظالم کون ہے جو خدا پر جھوٹ باندھے یا اس کی آیتوں کو جھٹلائے۔ ان کو ان کے نصیب کا لکھا ملتا ہی رہے گا یہاں تک کہ جب ان کے پاس ہمارے بھیجے ہوئے (فرشتے) جان نکالنے آئیں گے تو کہیں گے کہ جن کو تم خدا کے سوا پکارا کرتے تھے وہ (اب) کہاں ہیں؟ وہ کہیں گے (معلوم نہیں) کہ وہ ہم سے (کہاں) غائب ہوگئے اور اقرار کریں گے کہ بےشک وہ کافر تھے"
+}

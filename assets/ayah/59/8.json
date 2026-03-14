@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Hashr",
+    "surahNameArabic": "الحشر",
+    "surahNameArabicLong": "سورة الحشر",
+    "surahNameTranslation": "The Exile",
+    "revelationPlace": "Madina",
+    "totalAyah": 24,
+    "surahNo": 59,
+    "ayahNo": 8,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/59_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/059008.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/59_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/059008.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/59_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/059008.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/59_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/059008.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/59_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/059008.mp3"
+        }
+    },
+    "english": "˹Some of the gains will be˺ for poor emigrants who were driven out of their homes and wealth, seeking Allah’s bounty and pleasure, and standing up for Allah and His Messenger. They are the ones true in faith.",
+    "arabic1": "لِلْفُقَرَآءِ ٱلْمُهَـٰجِرِينَ ٱلَّذِينَ أُخْرِجُوا۟ مِن دِيَـٰرِهِمْ وَأَمْوَٰلِهِمْ يَبْتَغُونَ فَضْلًا مِّنَ ٱللَّهِ وَرِضْوَٰنًا وَيَنصُرُونَ ٱللَّهَ وَرَسُولَهُۥٓ ۚ أُو۟لَـٰٓئِكَ هُمُ ٱلصَّـٰدِقُونَ",
+    "arabic2": "للفقراء المهاجرين الذين اخرجوا من ديارهم واموالهم يبتغون فضلا من الله ورضوانا وينصرون الله ورسوله اولئك هم الصادقون",
+    "bengali": "এই সম্পদ নিঃস্ব মুহাজিরগণের জন্য ও যাদেরকে নিজেদের ঘর-বাড়ী ও ধন-সম্পত্তি থেকে বের করে দেয়া হয়েছিল। অথচ এরা আল্লাহর অনুগ্রহ ও সন্তুষ্টির অন্বেষণ করে এবং আল্লাহ ও তাঁর রাসূলকে সাহায্য করেন। এরাই তো সত্যবাদী।",
+    "urdu": "(اور) ان مفلسان تارک الوطن کے لئے بھی جو اپنے گھروں اور مالوں سے خارج (اور جدا) کر دیئے گئے ہیں (اور) خدا کے فضل اور اس کی خوشنودی کے طلبگار اور خدا اور اس کے پیغمبر کے مددگار ہیں۔ یہی لوگ سچے (ایماندار) ہیں"
+}

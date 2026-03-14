@@ -1,0 +1,42 @@
+{
+    "surahName": "Az-Zukhruf",
+    "surahNameArabic": "الزخرف",
+    "surahNameArabicLong": "سورة الزخرف",
+    "surahNameTranslation": "Ornaments of gold",
+    "revelationPlace": "Mecca",
+    "totalAyah": 89,
+    "surahNo": 43,
+    "ayahNo": 33,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/43_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/043033.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/43_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/043033.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/43_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/043033.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/43_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/043033.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/43_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/043033.mp3"
+        }
+    },
+    "english": "Were it not that people might ˹be tempted to˺ become one community ˹of disbelievers˺, We would have supplied the homes of ˹only˺ those who disbelieve in the Most Compassionate with silver roofs and ˹silver˺ stairways to ascend",
+    "arabic1": "وَلَوْلَآ أَن يَكُونَ ٱلنَّاسُ أُمَّةً وَٰحِدَةً لَّجَعَلْنَا لِمَن يَكْفُرُ بِٱلرَّحْمَـٰنِ لِبُيُوتِهِمْ سُقُفًا مِّن فِضَّةٍ وَمَعَارِجَ عَلَيْهَا يَظْهَرُونَ",
+    "arabic2": "ولولا ان يكون الناس امة واحدة لجعلنا لمن يكفر بالرحمن لبيوتهم سقفا من فضة ومعارج عليها يظهرون",
+    "bengali": "যদি সব মানুষ একই জাতিতে পরিণত হয়ে যাওয়ার আশঙ্কা না থাকত, তবে যারা পরম করুণাময়ের প্রতি কুফরী করে আমি তাদের গৃহসমূহের জন্য রৌপ্যনির্মিত ছাদ ও ঊর্ধ্বে আরোহণের সিঁড়ি তৈরী করে দিতাম।",
+    "urdu": "اور اگر یہ خیال نہ ہوتا کہ سب لوگ ایک ہی جماعت ہوجائیں گے تو جو لوگ خدا سے انکار کرتے ہیں ہم ان کے گھروں کی چھتیں چاندی کی بنا دیتے اور سیڑھیاں (بھی) جن پر وہ چڑھتے ہیں"
+}

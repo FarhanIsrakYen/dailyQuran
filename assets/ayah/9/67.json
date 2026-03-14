@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 67,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/9_67.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/009067.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/9_67.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/009067.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/9_67.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/009067.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/9_67.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/009067.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/9_67.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/009067.mp3"
+        }
+    },
+    "english": "The hypocrites, both men and women, are all alike: they encourage what is evil, forbid what is good, and withhold ˹what is in˺ their hands. They neglected Allah, so He neglected them. Surely the hypocrites are the rebellious.",
+    "arabic1": "ٱلْمُنَـٰفِقُونَ وَٱلْمُنَـٰفِقَـٰتُ بَعْضُهُم مِّنۢ بَعْضٍ ۚ يَأْمُرُونَ بِٱلْمُنكَرِ وَيَنْهَوْنَ عَنِ ٱلْمَعْرُوفِ وَيَقْبِضُونَ أَيْدِيَهُمْ ۚ نَسُوا۟ ٱللَّهَ فَنَسِيَهُمْ ۗ إِنَّ ٱلْمُنَـٰفِقِينَ هُمُ ٱلْفَـٰسِقُونَ",
+    "arabic2": "المنافقون والمنافقات بعضهم من بعض يامرون بالمنكر وينهون عن المعروف ويقبضون ايديهم نسوا الله فنسيهم ان المنافقين هم الفاسقون",
+    "bengali": "মুনাফিক পুরুষ ও মুনাফিক নারীরা একে অপরের অংশ, তারা মন্দ কাজের আদেশ দেয়, আর ভাল কাজ থেকে নিষেধ করে, তারা নিজদের হাতগুলোকে সঙ্কুচিত করে রাখে। তারা আল্লাহকে ভুলে গিয়েছে, ফলে তিনিও তাদেরকে ছেড়ে দিয়েছেন*, নিশ্চয় মুনাফিকরা হচ্ছে ফাসিক। \n* টিকা দেখুন পৃষ্ঠা ২০৫।",
+    "urdu": "منافق مرد اور منافق عورتیں ایک دوسرے کے ہم جنس (یعنی ایک طرح کے) ہیں کہ برے کام کرنے کو کہتے اور نیک کاموں سے منع کرتے اور (خرچ کرنے سے) ہاتھ بند کئے رہتے ہیں۔ انہوں نے خدا کو بھلا دیا تو خدا نے ان کو بھلا دیا۔ بےشک منافق نافرمان ہیں"
+}

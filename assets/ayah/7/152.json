@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 152,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/7_152.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/007152.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/7_152.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/007152.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/7_152.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/007152.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/7_152.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/007152.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/7_152.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/007152.mp3"
+        }
+    },
+    "english": "Those who worshipped the calf will certainly be afflicted with Allah’s wrath as well as disgrace in the life of this world. This is how We reward those who invent falsehood.",
+    "arabic1": "إِنَّ ٱلَّذِينَ ٱتَّخَذُوا۟ ٱلْعِجْلَ سَيَنَالُهُمْ غَضَبٌ مِّن رَّبِّهِمْ وَذِلَّةٌ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا ۚ وَكَذَٰلِكَ نَجْزِى ٱلْمُفْتَرِينَ",
+    "arabic2": "ان الذين اتخذوا العجل سينالهم غضب من ربهم وذلة في الحياة الدنيا وكذلك نجزي المفترين",
+    "bengali": "নিশ্চয় যারা গো বাছুরকে (উপাস্য হিসাবে) গ্রহণ করেছে, দুনিয়ার জীবনে তাদেরকে আক্রান্ত করবে তাদের রবের পক্ষ থেকে গযব ও লাঞ্ছনা। আর এভাবে আমি মিথ্যা রটনাকারীদের প্রতিফল দেই।",
+    "urdu": "(خدا نے فرمایا کہ) جن لوگوں نے بچھڑے کو (معبود) بنا لیا تھا ان پر پروردگار کا غضب واقع ہوگا اور دنیا کی زندگی میں ذلت (نصیب ہوگی) اور ہم افتراء پردازوں کو ایسا ہی بدلہ دیا کرتے ہیں"
+}

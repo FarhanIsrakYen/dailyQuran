@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Ahzaab",
+    "surahNameArabic": "الأحزاب",
+    "surahNameArabicLong": "سورة الأحزاب",
+    "surahNameTranslation": "The Clans",
+    "revelationPlace": "Madina",
+    "totalAyah": 73,
+    "surahNo": 33,
+    "ayahNo": 64,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/33_64.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/033064.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/33_64.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/033064.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/33_64.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/033064.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/33_64.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/033064.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/33_64.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/033064.mp3"
+        }
+    },
+    "english": "Surely Allah condemns the disbelievers, and has prepared for them a blazing Fire",
+    "arabic1": "إِنَّ ٱللَّهَ لَعَنَ ٱلْكَـٰفِرِينَ وَأَعَدَّ لَهُمْ سَعِيرًا",
+    "arabic2": "ان الله لعن الكافرين واعد لهم سعيرا",
+    "bengali": "নিশ্চয় আল্লাহ কাফিরদেরকে লা‘নত করেছেন এবং তাদের জন্য জ্বলন্ত আগুন প্রস্তুত রেখেছেন।",
+    "urdu": "بےشک خدا نے کافروں پر لعنت کی ہے اور ان کے لئے (جہنم کی) آگ تیار کر رکھی ہے"
+}

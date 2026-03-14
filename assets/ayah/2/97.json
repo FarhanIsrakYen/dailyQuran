@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 97,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_97.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002097.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_97.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002097.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_97.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002097.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_97.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002097.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_97.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002097.mp3"
+        }
+    },
+    "english": "Say, ˹O Prophet,˺ “Whoever is an enemy of Gabriel should know that he revealed this ˹Quran˺ to your heart by Allah’s Will, confirming what came before it—a guide and good news for the believers.”",
+    "arabic1": "قُلْ مَن كَانَ عَدُوًّا لِّجِبْرِيلَ فَإِنَّهُۥ نَزَّلَهُۥ عَلَىٰ قَلْبِكَ بِإِذْنِ ٱللَّهِ مُصَدِّقًا لِّمَا بَيْنَ يَدَيْهِ وَهُدًى وَبُشْرَىٰ لِلْمُؤْمِنِينَ",
+    "arabic2": "قل من كان عدوا لجبريل فانه نزله على قلبك باذن الله مصدقا لما بين يديه وهدى وبشرى للمؤمنين",
+    "bengali": "বল, ‘যে জিবরীলের শত্রু হবে (সে অনুশোচনায় মরুক) কেননা নিশ্চয় জিবরীল তা আল্লাহর অনুমতিতে তোমার অন্তরে নাযিল করেছে, তার সামনে থাকা কিতাবের সমর্থক, হিদায়াত ও মুমিনদের জন্য সুসংবাদরূপে’।",
+    "urdu": "کہہ دو کہ جو شخص جبرئیل کا دشمن ہو (اس کو غصے میں مر جانا چاہیئے) اس نے تو (یہ کتاب) خدا کے حکم سے تمہارے دل پر نازل کی ہے جو پہلی کتابوں کی تصدیق کرتی ہے، اور ایمان والوں کے لیے ہدایت اور بشارت ہے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-A'laa",
+    "surahNameArabic": "الأعلى",
+    "surahNameArabicLong": "سورة الأعلى",
+    "surahNameTranslation": "The Most High",
+    "revelationPlace": "Mecca",
+    "totalAyah": 19,
+    "surahNo": 87,
+    "ayahNo": 17,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/87_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/087017.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/87_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/087017.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/87_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/087017.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/87_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/087017.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/87_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/087017.mp3"
+        }
+    },
+    "english": "even though the Hereafter is far better and more lasting.",
+    "arabic1": "وَٱلْـَٔاخِرَةُ خَيْرٌ وَأَبْقَىٰٓ",
+    "arabic2": "والاخرة خير وابقى",
+    "bengali": "অথচ আখিরাত সর্বোত্তম ও স্থায়ী।",
+    "urdu": "حالانکہ آخرت بہت بہتر اور پائندہ تر ہے"
+}

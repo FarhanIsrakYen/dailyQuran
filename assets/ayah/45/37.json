@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Jaathiya",
+    "surahNameArabic": "الجاثية",
+    "surahNameArabicLong": "سورة الجاثية",
+    "surahNameTranslation": "Crouching",
+    "revelationPlace": "Mecca",
+    "totalAyah": 37,
+    "surahNo": 45,
+    "ayahNo": 37,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/45_37.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/045037.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/45_37.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/045037.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/45_37.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/045037.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/45_37.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/045037.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/45_37.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/045037.mp3"
+        }
+    },
+    "english": "To Him belongs ˹all˺ Majesty in the heavens and the earth. And He is the Almighty, All-Wise.",
+    "arabic1": "وَلَهُ ٱلْكِبْرِيَآءُ فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۖ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+    "arabic2": "وله الكبرياء في السماوات والارض وهو العزيز الحكيم",
+    "bengali": "আর আসমানসমূহ ও যমীনের সকল অহঙ্কার তাঁর; তিনি মহাপরাক্রমশালী, প্রজ্ঞাময়।",
+    "urdu": "اور آسمانوں اور زمین میں اُسی کے لئے بڑائی ہے۔ اور وہ غالب اور دانا ہے"
+}

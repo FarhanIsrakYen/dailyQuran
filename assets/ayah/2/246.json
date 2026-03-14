@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 246,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_246.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002246.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_246.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002246.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_246.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002246.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_246.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002246.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_246.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002246.mp3"
+        }
+    },
+    "english": "Have you not seen those chiefs of the Children of Israel after Moses? They said to one of their prophets, “Appoint for us a king, ˹and˺ we will fight in the cause of Allah.” He said, “Are you not going to cower if ordered to fight?” They replied, “How could we refuse to fight in the cause of Allah, while we were driven out of our homes and ˹separated from˺ our children?” But when they were ordered to fight, they fled, except for a few of them. And Allah has ˹perfect˺ knowledge of the wrongdoers.",
+    "arabic1": "أَلَمْ تَرَ إِلَى ٱلْمَلَإِ مِنۢ بَنِىٓ إِسْرَٰٓءِيلَ مِنۢ بَعْدِ مُوسَىٰٓ إِذْ قَالُوا۟ لِنَبِىٍّ لَّهُمُ ٱبْعَثْ لَنَا مَلِكًا نُّقَـٰتِلْ فِى سَبِيلِ ٱللَّهِ ۖ قَالَ هَلْ عَسَيْتُمْ إِن كُتِبَ عَلَيْكُمُ ٱلْقِتَالُ أَلَّا تُقَـٰتِلُوا۟ ۖ قَالُوا۟ وَمَا لَنَآ أَلَّا نُقَـٰتِلَ فِى سَبِيلِ ٱللَّهِ وَقَدْ أُخْرِجْنَا مِن دِيَـٰرِنَا وَأَبْنَآئِنَا ۖ فَلَمَّا كُتِبَ عَلَيْهِمُ ٱلْقِتَالُ تَوَلَّوْا۟ إِلَّا قَلِيلًا مِّنْهُمْ ۗ وَٱللَّهُ عَلِيمٌۢ بِٱلظَّـٰلِمِينَ",
+    "arabic2": "الم تر الى الملا من بني اسرائيل من بعد موسى اذ قالوا لنبي لهم ابعث لنا ملكا نقاتل في سبيل الله قال هل عسيتم ان كتب عليكم القتال الا تقاتلوا قالوا وما لنا الا نقاتل في سبيل الله وقد اخرجنا من ديارنا وابنائنا فلما كتب عليهم القتال تولوا الا قليلا منهم والله عليم بالظالمين",
+    "bengali": "তুমি কি মূসার পর বনী ইসরাঈলের প্রধানদেরকে দেখনি? যখন তারা তাদের নবীকে বলেছিল, ‘আমাদের জন্য একজন রাজা পাঠান, তাহলে আমরা আল্লাহর রাস্তায় লড়াই করব’। সে বলল, ‘এমন কি হবে যে, যদি তোমাদের উপর লড়াই আবশ্যক করা হয়, তোমরা লড়াই করবে না’? তারা বলল, আমাদের কী হয়েছে যে, আমরা আল্লাহর রাস্তায় লড়াই করব না, অথচ আমাদেরকে আমাদের গৃহসমূহ থেকে বের করা হয়েছে এবং আমাদের সন্তানদের থেকে (বিচ্ছিন্ন করা হয়েছে)’? অতঃপর যখন তাদের উপর লড়াই আবশ্যক করা হল, তখন তাদের মধ্য থেকে স্বল্প সংখ্যক ছাড়া তারা বিমুখ হল। আর আল্লাহ যালিমদের সম্পর্কে সম্যক অবগত।",
+    "urdu": "بھلا تم نے بنی اسرائیل کی ایک جماعت کو نہیں دیکھا جس نے موسیٰ کے بعد اپنے پیغمبر سے کہا کہ آپ ہمارے لئے ایک بادشاہ مقرر کردیں تاکہ ہم خدا کی راہ میں جہاد کریں۔ پیغمبر نے کہا کہ اگر تم کو جہاد کا حکم دیا جائے تو عجب نہیں کہ لڑنے سے پہلو تہی کرو۔ وہ کہنے لگے کہ ہم راہ خدا میں کیوں نہ لڑیں گے جب کہ ہم وطن سے (خارج) اور بال بچوں سے جدا کردیئے گئے۔ لیکن جب ان کو جہاد کا حکم دیا گیا تو چند اشخاص کے سوا سب پھر گئے۔ اور خدا ظالموں سے خوب واقف ہے"
+}

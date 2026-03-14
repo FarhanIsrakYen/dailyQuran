@@ -1,0 +1,42 @@
+{
+    "surahName": "Luqman",
+    "surahNameArabic": "لقمان",
+    "surahNameArabicLong": "سورة لقمان",
+    "surahNameTranslation": "Luqman",
+    "revelationPlace": "Mecca",
+    "totalAyah": 34,
+    "surahNo": 31,
+    "ayahNo": 29,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/31_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/031029.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/31_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/031029.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/31_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/031029.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/31_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/031029.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/31_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/031029.mp3"
+        }
+    },
+    "english": "Do you not see that Allah causes the night to merge into the day and the day into the night, and has subjected the sun and the moon, each orbiting for an appointed term, and that Allah is All-Aware of what you do?",
+    "arabic1": "أَلَمْ تَرَ أَنَّ ٱللَّهَ يُولِجُ ٱلَّيْلَ فِى ٱلنَّهَارِ وَيُولِجُ ٱلنَّهَارَ فِى ٱلَّيْلِ وَسَخَّرَ ٱلشَّمْسَ وَٱلْقَمَرَ كُلٌّ يَجْرِىٓ إِلَىٰٓ أَجَلٍ مُّسَمًّى وَأَنَّ ٱللَّهَ بِمَا تَعْمَلُونَ خَبِيرٌ",
+    "arabic2": "الم تر ان الله يولج الليل في النهار ويولج النهار في الليل وسخر الشمس والقمر كل يجري الى اجل مسمى وان الله بما تعملون خبير",
+    "bengali": "তুমি কি দেখনি যে, আল্লাহ রাতকে দিনের মধ্যে প্রবেশ করান এবং দিনকে রাতের মধ্যে প্রবেশ করান? আর তিনি সূর্য ও চাঁদকে নিয়োজিত করেছেন। প্রত্যেকেই চলছে একটি নির্দিষ্ট সময় পর্যন্ত। আর নিশ্চয় তোমরা যা কর, আল্লাহ সে সম্পর্কে সম্পূর্ণ অবহিত।",
+    "urdu": "کیا تم نے نہیں دیکھا کہ خدا ہی رات کو دن میں داخل کرتا ہے اور (وہی) دن کو رات میں داخل کرتا ہے اور اُسی نے سورج اور چاند کو (تمہارے) زیر فرمان کر رکھا ہے۔ ہر ایک ایک وقتِ مقرر تک چل رہا ہے اور یہ کہ خدا تمہارے سب اعمال سے خبردار ہے"
+}

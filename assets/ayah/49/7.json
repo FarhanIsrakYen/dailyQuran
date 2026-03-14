@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Hujuraat",
+    "surahNameArabic": "الحجرات",
+    "surahNameArabicLong": "سورة الحجرات",
+    "surahNameTranslation": "The Inner Apartments",
+    "revelationPlace": "Madina",
+    "totalAyah": 18,
+    "surahNo": 49,
+    "ayahNo": 7,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/49_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/049007.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/49_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/049007.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/49_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/049007.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/49_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/049007.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/49_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/049007.mp3"
+        }
+    },
+    "english": "And keep in mind that Allah’s Messenger is ˹still˺ in your midst. If he were to yield to you in many matters, you would surely suffer ˹the consequences˺. But Allah has endeared faith to you, making it appealing in your hearts. And He has made disbelief, rebelliousness, and disobedience detestable to you. Those are the ones rightly guided.",
+    "arabic1": "وَٱعْلَمُوٓا۟ أَنَّ فِيكُمْ رَسُولَ ٱللَّهِ ۚ لَوْ يُطِيعُكُمْ فِى كَثِيرٍ مِّنَ ٱلْأَمْرِ لَعَنِتُّمْ وَلَـٰكِنَّ ٱللَّهَ حَبَّبَ إِلَيْكُمُ ٱلْإِيمَـٰنَ وَزَيَّنَهُۥ فِى قُلُوبِكُمْ وَكَرَّهَ إِلَيْكُمُ ٱلْكُفْرَ وَٱلْفُسُوقَ وَٱلْعِصْيَانَ ۚ أُو۟لَـٰٓئِكَ هُمُ ٱلرَّٰشِدُونَ",
+    "arabic2": "واعلموا ان فيكم رسول الله لو يطيعكم في كثير من الامر لعنتم ولكن الله حبب اليكم الايمان وزينه في قلوبكم وكره اليكم الكفر والفسوق والعصيان اولئك هم الراشدون",
+    "bengali": "আর তোমরা জেনে রাখ যে, তোমাদের মধ্যে আল্লাহর রাসূল রয়েছেন। সে যদি অধিকাংশ বিষয়ে তোমাদের কথা মেনে নিত, তাহলে তোমরা অবশ্যই কষ্টে পতিত হতে। কিন্তু আল্লাহ তোমাদের কাছে ঈমানকে প্রিয় করে দিয়েছেন এবং তা তোমাদের অন্তরে সুশোভিত করেছেন। আর তোমাদের কাছে কুফরী, পাপাচার ও অবাধ্যতাকে অপছন্দনীয় করে দিয়েছেন। তারাই তো সত্য পথপ্রাপ্ত।",
+    "urdu": "اور جان رکھو کہ تم میں خدا کے پیغمبرﷺ ہیں۔ اگر بہت سی باتوں میں وہ تمہارا کہا مان لیا کریں تو تم مشکل میں پڑ جاؤ لیکن خدا نے تم کو ایمان عزیز بنا دیا اور اس کو تمہارے دلوں میں سجا دیا اور کفر اور گناہ اور نافرمانی سے تم کو بیزار کردیا۔ یہی لوگ راہ ہدایت پر ہیں"
+}

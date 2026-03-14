@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 139,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/6_139.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/006139.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/6_139.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/006139.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/6_139.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/006139.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/6_139.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/006139.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/6_139.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/006139.mp3"
+        }
+    },
+    "english": "They ˹also˺ say, “The offspring of this cattle is reserved for our males and forbidden to our females; but if it is stillborn, they may all share it.” He will repay them for their falsehood. Surely He is All-Wise, All-Knowing.",
+    "arabic1": "وَقَالُوا۟ مَا فِى بُطُونِ هَـٰذِهِ ٱلْأَنْعَـٰمِ خَالِصَةٌ لِّذُكُورِنَا وَمُحَرَّمٌ عَلَىٰٓ أَزْوَٰجِنَا ۖ وَإِن يَكُن مَّيْتَةً فَهُمْ فِيهِ شُرَكَآءُ ۚ سَيَجْزِيهِمْ وَصْفَهُمْ ۚ إِنَّهُۥ حَكِيمٌ عَلِيمٌ",
+    "arabic2": "وقالوا ما في بطون هذه الانعام خالصة لذكورنا ومحرم على ازواجنا وان يكن ميتة فهم فيه شركاء سيجزيهم وصفهم انه حكيم عليم",
+    "bengali": "আর তারা বলে, ‘এই চতুষ্পদ জন্তুগুলোর পেটে যা আছে, তা আমাদের পুরুষদের জন্য নির্দিষ্ট এবং আমাদের স্ত্রীদের জন্য হারাম। আর যদি তা মৃত হয়, তবে তারা সবাই তাতে শরীক’। অচিরেই তিনি তাদেরকে তাদের কথার প্রতিদান দেবেন। নিশ্চয় তিনি প্রজ্ঞাবান, জ্ঞানী।",
+    "urdu": "اور یہ بھی کہتے ہیں کہ جو بچہ ان چارپایوں کے پیٹ میں ہے وہ خاص ہمارے مردوں کے لئے ہے اور ہماری عورتوں کو (اس کا کھانا) حرام ہے اور اگر وہ بچہ مرا ہوا ہو تو سب اس میں شریک ہیں (یعنی اسے مرد اور عورتیں سب کھائیں) عنقریب خدا ان کو ان کے ڈھکوسلوں کی سزا دے گا بےشک وہ حکمت والا خبردار ہے"
+}

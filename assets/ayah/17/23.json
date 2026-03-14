@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 23,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/17_23.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/017023.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/17_23.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/017023.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/17_23.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/017023.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/17_23.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/017023.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/17_23.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/017023.mp3"
+        }
+    },
+    "english": "For your Lord has decreed that you worship none but Him. And honour your parents. If one or both of them reach old age in your care, never say to them ˹even˺ ‘ugh,’ nor yell at them. Rather, address them respectfully.",
+    "arabic1": "۞ وَقَضَىٰ رَبُّكَ أَلَّا تَعْبُدُوٓا۟ إِلَّآ إِيَّاهُ وَبِٱلْوَٰلِدَيْنِ إِحْسَـٰنًا ۚ إِمَّا يَبْلُغَنَّ عِندَكَ ٱلْكِبَرَ أَحَدُهُمَآ أَوْ كِلَاهُمَا فَلَا تَقُل لَّهُمَآ أُفٍّ وَلَا تَنْهَرْهُمَا وَقُل لَّهُمَا قَوْلًا كَرِيمًا",
+    "arabic2": "وقضى ربك الا تعبدوا الا اياه وبالوالدين احسانا اما يبلغن عندك الكبر احدهما او كلاهما فلا تقل لهما اف ولا تنهرهما وقل لهما قولا كريما",
+    "bengali": "আর তোমার রব আদেশ দিয়েছেন যে, তোমরা তাঁকে ছাড়া অন্য কারো ইবাদাত করবে না এবং পিতা-মাতার সাথে সদাচরণ করবে। তাদের একজন অথবা উভয়েই যদি তোমার নিকট বার্ধক্যে উপনীত হয়, তবে তাদেরকে ‘উফ’ বলো না এবং তাদেরকে ধমক দিও না। আর তাদের সাথে সম্মানজনক কথা বল।",
+    "urdu": "اور تمہارے پروردگار نے ارشاد فرمایا ہے کہ اس کے سوا کسی کی عبادت نہ کرو اور ماں باپ کے ساتھ بھلائی کرتے رہو۔ اگر ان میں سے ایک یا دونوں تمہارے سامنے بڑھاپے کو پہنچ جائیں تو اُن کو اُف تک نہ کہنا اور نہ انہیں جھڑکنا اور اُن سے بات ادب کے ساتھ کرنا"
+}

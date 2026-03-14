@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Furqaan",
+    "surahNameArabic": "الفرقان",
+    "surahNameArabicLong": "سورة الفرقان",
+    "surahNameTranslation": "The Criterion",
+    "revelationPlace": "Mecca",
+    "totalAyah": 77,
+    "surahNo": 25,
+    "ayahNo": 23,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/25_23.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/025023.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/25_23.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/025023.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/25_23.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/025023.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/25_23.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/025023.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/25_23.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/025023.mp3"
+        }
+    },
+    "english": "Then We will turn to whatever ˹good˺ deeds they did, reducing them to scattered dust.",
+    "arabic1": "وَقَدِمْنَآ إِلَىٰ مَا عَمِلُوا۟ مِنْ عَمَلٍ فَجَعَلْنَـٰهُ هَبَآءً مَّنثُورًا",
+    "arabic2": "وقدمنا الى ما عملوا من عمل فجعلناه هباء منثورا",
+    "bengali": "আর তারা যে কাজ করেছে আমি সেদিকে অগ্রসর হব। অতঃপর তাকে বিক্ষিপ্ত ধূলিকণায় পরিণত করে দেব।",
+    "urdu": "اور جو انہوں نے عمل کئے ہوں گے ہم ان کی طرف متوجہ ہوں گے تو ان کو اُڑتی خاک کردیں گے"
+}

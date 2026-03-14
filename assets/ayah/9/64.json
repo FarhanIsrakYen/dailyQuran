@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 64,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/9_64.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/009064.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/9_64.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/009064.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/9_64.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/009064.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/9_64.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/009064.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/9_64.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/009064.mp3"
+        }
+    },
+    "english": "The hypocrites fear that a sûrah should be revealed about them, exposing what is in their hearts. Say, ˹O Prophet,˺ “Keep mocking! Allah will definitely bring to light what you fear.”",
+    "arabic1": "يَحْذَرُ ٱلْمُنَـٰفِقُونَ أَن تُنَزَّلَ عَلَيْهِمْ سُورَةٌ تُنَبِّئُهُم بِمَا فِى قُلُوبِهِمْ ۚ قُلِ ٱسْتَهْزِءُوٓا۟ إِنَّ ٱللَّهَ مُخْرِجٌ مَّا تَحْذَرُونَ",
+    "arabic2": "يحذر المنافقون ان تنزل عليهم سورة تنبئهم بما في قلوبهم قل استهزئوا ان الله مخرج ما تحذرون",
+    "bengali": "মুনাফিকরা ভয় করে যে, তাদের বিষয়ে এমন একটি সূরা অবতীর্ণ হবে, যা তাদের অন্তরের বিষয়গুলি জানিয়ে দেবে। বল, ‘তোমরা উপহাস করতে থাক। নিশ্চয় আল্লাহ বের করবেন, তোমরা যা ভয় করছ’।",
+    "urdu": "منافق ڈرتے رہتے ہیں کہ ان (کے پیغمبر) پر کہیں کوئی ایسی سورت (نہ) اُتر آئے کہ ان کے دل کی باتوں کو ان (مسلمانوں) پر ظاہر کر دے۔ کہہ دو کہ ہنسی کئے جاؤ۔ جس بات سے تم ڈرتے ہو خدا اس کو ضرور ظاہر کردے گا"
+}

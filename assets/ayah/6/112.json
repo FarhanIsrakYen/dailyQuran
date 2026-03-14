@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 112,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/6_112.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/006112.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/6_112.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/006112.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/6_112.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/006112.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/6_112.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/006112.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/6_112.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/006112.mp3"
+        }
+    },
+    "english": "And so We have made for every prophet enemies—devilish humans and jinn—whispering to one another with elegant words of deception. Had it been your Lord’s Will, they would not have done such a thing. So leave them and their deceit",
+    "arabic1": "وَكَذَٰلِكَ جَعَلْنَا لِكُلِّ نَبِىٍّ عَدُوًّا شَيَـٰطِينَ ٱلْإِنسِ وَٱلْجِنِّ يُوحِى بَعْضُهُمْ إِلَىٰ بَعْضٍ زُخْرُفَ ٱلْقَوْلِ غُرُورًا ۚ وَلَوْ شَآءَ رَبُّكَ مَا فَعَلُوهُ ۖ فَذَرْهُمْ وَمَا يَفْتَرُونَ",
+    "arabic2": "وكذلك جعلنا لكل نبي عدوا شياطين الانس والجن يوحي بعضهم الى بعض زخرف القول غرورا ولو شاء ربك ما فعلوه فذرهم وما يفترون",
+    "bengali": "আর এভাবেই আমি প্রত্যেক নবীর শত্রু করেছি মানুষ ও জিনের মধ্য থেকে শয়তানদেরকে, তারা প্রতারণার উদ্দেশ্যে একে অপরকে চাকচিক্যপূর্ণ কথার কুমন্ত্রণা দেয় এবং তোমার রব যদি চাইতেন, তবে তারা তা করত না। সুতরাং তুমি তাদেরকে ও তারা যে মিথ্যা রটায়, তা ত্যাগ কর।",
+    "urdu": "اور اسی طرح ہم نے شیطان (سیرت) انسانوں اور جنوں کو ہر پیغمبر کا دشمن بنا دیا تھا وہ دھوکا دینے کے لیے ایک دوسرے کے دل میں ملمع کی باتیں ڈالتے رہتے تھے اور اگر تمہارا پروردگار چاہتا تو وہ ایسا نہ کرتے تو ان کو اور جو کچھ یہ افتراء کرتے ہیں اسے چھوڑ دو"
+}

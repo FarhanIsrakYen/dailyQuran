@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Anfaal",
+    "surahNameArabic": "الأنفال",
+    "surahNameArabicLong": "سورة الأنفال",
+    "surahNameTranslation": "The Spoils of War",
+    "revelationPlace": "Madina",
+    "totalAyah": 75,
+    "surahNo": 8,
+    "ayahNo": 67,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/8_67.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/008067.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/8_67.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/008067.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/8_67.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/008067.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/8_67.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/008067.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/8_67.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/008067.mp3"
+        }
+    },
+    "english": "It is not fit for a prophet that he should take captives until he has thoroughly subdued the land. You ˹believers˺ settled with the fleeting gains of this world, while Allah’s aim ˹for you˺ is the Hereafter. Allah is Almighty, All-Wise.",
+    "arabic1": "مَا كَانَ لِنَبِىٍّ أَن يَكُونَ لَهُۥٓ أَسْرَىٰ حَتَّىٰ يُثْخِنَ فِى ٱلْأَرْضِ ۚ تُرِيدُونَ عَرَضَ ٱلدُّنْيَا وَٱللَّهُ يُرِيدُ ٱلْـَٔاخِرَةَ ۗ وَٱللَّهُ عَزِيزٌ حَكِيمٌ",
+    "arabic2": "ما كان لنبي ان يكون له اسرى حتى يثخن في الارض تريدون عرض الدنيا والله يريد الاخرة والله عزيز حكيم",
+    "bengali": "কোন নবীর জন্য সঙ্গত নয় যে, তার নিকট যুদ্ধবন্দি থাকবে (এবং পণের বিনিময়ে তিনি তাদেরকে মুক্ত করবেন) যতক্ষণ না তিনি যমীনে (তাদের) রক্ত প্রবাহিত করেন। তোমরা দুনিয়ার সম্পদ কামনা করছ, অথচ আল্লাহ চাচ্ছেন আখিরাত। আর আল্লাহ পরাক্রমশালী, প্রজ্ঞাবান।",
+    "urdu": "پیغمبر کو شایان نہیں کہ اس کے قبضے میں قیدی رہیں جب تک (کافروں کو قتل کر کے) زمین میں کثرت سے خون (نہ) بہا دے۔ تم لوگ دنیا کے مال کے طالب ہو۔ اور خدا آخرت (کی بھلائی) چاہتا ہے۔ اور خدا غالب حکمت والا ہے"
+}

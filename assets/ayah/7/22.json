@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 22,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/7_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/007022.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/7_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/007022.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/7_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/007022.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/7_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/007022.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/7_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/007022.mp3"
+        }
+    },
+    "english": "So he brought about their fall through deception. And when they tasted of the tree, their nakedness was exposed to them, prompting them to cover themselves with leaves from Paradise. Then their Lord called out to them, “Did I not forbid you from that tree and ˹did I not˺ tell you that Satan is your sworn enemy?”",
+    "arabic1": "فَدَلَّىٰهُمَا بِغُرُورٍ ۚ فَلَمَّا ذَاقَا ٱلشَّجَرَةَ بَدَتْ لَهُمَا سَوْءَٰتُهُمَا وَطَفِقَا يَخْصِفَانِ عَلَيْهِمَا مِن وَرَقِ ٱلْجَنَّةِ ۖ وَنَادَىٰهُمَا رَبُّهُمَآ أَلَمْ أَنْهَكُمَا عَن تِلْكُمَا ٱلشَّجَرَةِ وَأَقُل لَّكُمَآ إِنَّ ٱلشَّيْطَـٰنَ لَكُمَا عَدُوٌّ مُّبِينٌ",
+    "arabic2": "فدلاهما بغرور فلما ذاقا الشجرة بدت لهما سواتهما وطفقا يخصفان عليهما من ورق الجنة وناداهما ربهما الم انهكما عن تلكما الشجرة واقل لكما ان الشيطان لكما عدو مبين",
+    "bengali": "অতঃপর সে তাদেরকে প্রতারণার মাধ্যমে পদস্খলিত করল। তাই তারা যখন গাছটির ফল আস্বাদন করল, তাদের সামনে তাদের লজ্জাস্থান প্রকাশিত হয়ে গেল। আর তারা জান্নাতের পাতা দিয়ে নিজদেরকে ঢাকতে লাগল এবং তাদের রব তাদেরকে ডাকলেন যে, ‘আমি কি তোমাদেরকে ঐ গাছটি থেকে নিষেধ করিনি এবং তোমাদেরকে বলিনি যে নিশ্চয় শয়তান তোমাদের জন্য স্পষ্ট শত্রু’?",
+    "urdu": "غرض (مردود نے) دھوکہ دے کر ان کو (معصیت کی طرف) کھینچ ہی لیا جب انہوں نے اس درخت (کے پھل) کو کھا لیا تو ان کی ستر کی چیزیں کھل گئیں اور وہ بہشت کے (درختوں کے) پتے توڑ توڑ کر اپنے اوپر چپکانے لگے اور (ستر چھپانے لگے) تب ان کے پروردگار نے ان کو پکارا کہ کیا میں نے تم کو اس درخت (کے پاس جانے) سے منع نہیں کیا تھا اور جتا نہیں دیا تھا کہ شیطان تمہارا کھلم کھلا دشمن ہے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 60,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/17_60.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/017060.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/17_60.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/017060.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/17_60.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/017060.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/17_60.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/017060.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/17_60.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/017060.mp3"
+        }
+    },
+    "english": "And ˹remember, O  Prophet˺ when We told you, “Certainly your Lord encompasses the people.” And We have made what We brought you to see as well as the cursed tree ˹mentioned˺ in the Quran only as a test for the people. We keep warning them, but it only increases them greatly in defiance.",
+    "arabic1": "وَإِذْ قُلْنَا لَكَ إِنَّ رَبَّكَ أَحَاطَ بِٱلنَّاسِ ۚ وَمَا جَعَلْنَا ٱلرُّءْيَا ٱلَّتِىٓ أَرَيْنَـٰكَ إِلَّا فِتْنَةً لِّلنَّاسِ وَٱلشَّجَرَةَ ٱلْمَلْعُونَةَ فِى ٱلْقُرْءَانِ ۚ وَنُخَوِّفُهُمْ فَمَا يَزِيدُهُمْ إِلَّا طُغْيَـٰنًا كَبِيرًا",
+    "arabic2": "واذ قلنا لك ان ربك احاط بالناس وما جعلنا الرؤيا التي اريناك الا فتنة للناس والشجرة الملعونة في القران ونخوفهم فما يزيدهم الا طغيانا كبيرا",
+    "bengali": "আর স্মরণ কর, যখন আমি তোমাকে বললাম, ‘নিশ্চয় তোমার রব মানুষকে ঘিরে রেখেছেন। আর যে ‘দৃশ্য’* আমি তোমাকে দেখিয়েছি তা এবং কুরআনে বর্ণিত অভিশপ্ত বৃক্ষ** কেবল মানুষের পরীক্ষাস্বরূপ নির্ধারণ করেছি’। আমি তাদের ভয় দেখাই; কিন্তু তা কেবল তাদের চরম অবাধ্যতা বাড়িয়ে দেয়। \n* অর্থাৎ, রু’য়া হচ্ছে স্বপ্নে অথবা বাস্তবে স্বপ্নবৎ দেখা। এস্থলে বাস্তবে দেখা উদ্দেশ্য। কারণ, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মিরাজে দেখা দৃশ্যাবলী ও ঘটনাবলী বাস্তবে ও স্বশরীরে দেখেছেন।",
+    "urdu": "جب ہم نے تم سے کہا کہ تمہارا پروردگار لوگوں کو احاطہ کئے ہوئے ہے۔ اور جو نمائش ہم نے تمہیں دکھائی اس کو لوگوں کے لئے آرمائش کیا۔ اور اسی طرح (تھوہر کے) درخت کو جس پر قرآن میں لعنت کی گئی۔ اور ہم انہیں ڈراتے ہیں تو ان کو اس سے بڑی (سخت) سرکشی پیدا ہوتی ہے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Fath",
+    "surahNameArabic": "الفتح",
+    "surahNameArabicLong": "سورة الفتح",
+    "surahNameTranslation": "The Victory",
+    "revelationPlace": "Madina",
+    "totalAyah": 29,
+    "surahNo": 48,
+    "ayahNo": 27,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/48_27.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/048027.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/48_27.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/048027.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/48_27.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/048027.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/48_27.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/048027.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/48_27.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/048027.mp3"
+        }
+    },
+    "english": "Indeed, Allah will fulfil His Messenger’s vision in all truth: Allah willing, you will surely enter the Sacred Mosque, in security—˹some with˺ heads shaved and ˹others with˺ hair shortened—without fear. He knew what you did not know, so He first granted you the triumph at hand.",
+    "arabic1": "لَّقَدْ صَدَقَ ٱللَّهُ رَسُولَهُ ٱلرُّءْيَا بِٱلْحَقِّ ۖ لَتَدْخُلُنَّ ٱلْمَسْجِدَ ٱلْحَرَامَ إِن شَآءَ ٱللَّهُ ءَامِنِينَ مُحَلِّقِينَ رُءُوسَكُمْ وَمُقَصِّرِينَ لَا تَخَافُونَ ۖ فَعَلِمَ مَا لَمْ تَعْلَمُوا۟ فَجَعَلَ مِن دُونِ ذَٰلِكَ فَتْحًا قَرِيبًا",
+    "arabic2": "لقد صدق الله رسوله الرؤيا بالحق لتدخلن المسجد الحرام ان شاء الله امنين محلقين رءوسكم ومقصرين لا تخافون فعلم ما لم تعلموا فجعل من دون ذلك فتحا قريبا",
+    "bengali": "অবশ্যই আল্লাহ তাঁর রাসূলকে স্বপ্নটি যথাযথভাবে সত্যে পরিণত করে দিয়েছেন। তোমরা ইনশাআল্লাহ নিরাপদে তোমাদের মাথা মুন্ডন করে এবং চুল ছেঁটে নির্ভয়ে আল-মাসজিদুল হারামে অবশ্যই প্রবেশ করবে। অতঃপর আল্লাহ জেনেছেন যা তোমরা জানতে না। সুতরাং এ ছাড়াও তিনি দিলেন এক নিকটবর্তী বিজয়।",
+    "urdu": "بےشک خدا نے اپنے پیغمبر کو سچا (اور) صحیح خواب دکھایا۔ کہ تم خدا نے چاہا تو مسجد حرام میں اپنے سر منڈوا کر اور اپنے بال کتروا کر امن وامان سے داخل ہوگے۔ اور کسی طرح کا خوف نہ کرو گے۔ جو بات تم نہیں جانتے تھے اس کو معلوم تھی سو اس نے اس سے پہلے ہی جلد فتح کرادی"
+}

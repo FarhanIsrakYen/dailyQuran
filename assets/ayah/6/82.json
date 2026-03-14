@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 82,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/6_82.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/006082.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/6_82.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/006082.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/6_82.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/006082.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/6_82.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/006082.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/6_82.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/006082.mp3"
+        }
+    },
+    "english": "It is ˹only˺ those who are faithful and do not tarnish their faith with falsehood who are guaranteed security and are ˹rightly˺ guided.",
+    "arabic1": "ٱلَّذِينَ ءَامَنُوا۟ وَلَمْ يَلْبِسُوٓا۟ إِيمَـٰنَهُم بِظُلْمٍ أُو۟لَـٰٓئِكَ لَهُمُ ٱلْأَمْنُ وَهُم مُّهْتَدُونَ",
+    "arabic2": "الذين امنوا ولم يلبسوا ايمانهم بظلم اولئك لهم الامن وهم مهتدون",
+    "bengali": "যারা ঈমান এনেছে এবং নিজ ঈমানকে যুলমের সাথে সংমিশ্রণ করেনি, তাদের জন্যই নিরাপত্তা এবং তারাই হিদায়াতপ্রাপ্ত।",
+    "urdu": "جو لوگ ایمان لائے اور اپنے ایمان کو (شرک کے) ظلم سے مخلوط نہیں کیا ان کے امن (اور جمعیت خاطر) ہے اور وہی ہدایت پانے والے ہیں"
+}

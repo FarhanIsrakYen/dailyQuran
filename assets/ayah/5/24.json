@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Maaida",
+    "surahNameArabic": "المائدة",
+    "surahNameArabicLong": "سورة المائدة",
+    "surahNameTranslation": "The Table",
+    "revelationPlace": "Madina",
+    "totalAyah": 120,
+    "surahNo": 5,
+    "ayahNo": 24,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/5_24.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/005024.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/5_24.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/005024.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/5_24.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/005024.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/5_24.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/005024.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/5_24.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/005024.mp3"
+        }
+    },
+    "english": "˹Yet˺ they said, “O Moses! ˹Still˺ we will never enter as long as they remain there. So go—both you and your Lord—and fight; we are staying right here!”",
+    "arabic1": "قَالُوا۟ يَـٰمُوسَىٰٓ إِنَّا لَن نَّدْخُلَهَآ أَبَدًا مَّا دَامُوا۟ فِيهَا ۖ فَٱذْهَبْ أَنتَ وَرَبُّكَ فَقَـٰتِلَآ إِنَّا هَـٰهُنَا قَـٰعِدُونَ",
+    "arabic2": "قالوا يا موسى انا لن ندخلها ابدا ما داموا فيها فاذهب انت وربك فقاتلا انا هاهنا قاعدون",
+    "bengali": "তারা বলল, ‘হে মূসা, আমরা সেখানে কখনো প্রবেশ করব না, যতক্ষণ তারা সেখানে থাকে। সুতরাং, তুমি ও তোমার রব যাও এবং লড়াই কর। আমরা এখানেই বসে রইলাম’।",
+    "urdu": "وہ بولے کہ موسیٰ! جب تک وہ لوگ وہاں ہیں ہم کبھی وہاں نہیں جا سکتے (اگر لڑنا ہی ضرور ہے) تو تم اور تمہارا خدا جاؤ اور لڑو ہم یہیں بیٹھے رہیں گے"
+}

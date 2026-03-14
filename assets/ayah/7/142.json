@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 142,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/7_142.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/007142.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/7_142.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/007142.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/7_142.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/007142.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/7_142.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/007142.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/7_142.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/007142.mp3"
+        }
+    },
+    "english": "We appointed for Moses thirty nights then added another ten—completing his Lord’s term of forty nights. Moses commanded his brother Aaron, “Take my place among my people, do what is right, and do not follow the way of the corruptors.”",
+    "arabic1": "۞ وَوَٰعَدْنَا مُوسَىٰ ثَلَـٰثِينَ لَيْلَةً وَأَتْمَمْنَـٰهَا بِعَشْرٍ فَتَمَّ مِيقَـٰتُ رَبِّهِۦٓ أَرْبَعِينَ لَيْلَةً ۚ وَقَالَ مُوسَىٰ لِأَخِيهِ هَـٰرُونَ ٱخْلُفْنِى فِى قَوْمِى وَأَصْلِحْ وَلَا تَتَّبِعْ سَبِيلَ ٱلْمُفْسِدِينَ",
+    "arabic2": "وواعدنا موسى ثلاثين ليلة واتممناها بعشر فتم ميقات ربه اربعين ليلة وقال موسى لاخيه هارون اخلفني في قومي واصلح ولا تتبع سبيل المفسدين",
+    "bengali": "আর স্মরণ কর, ‘আমি মূসাকে ত্রিশ রাতের ওয়াদা দিয়েছিলাম এবং আরো দশ দ্বারা তা পূর্ণ করেছিলাম। সুতরাং তার রবের নির্ধারিত মেয়াদ চলি¬শ রাত পূর্ণ হল এবং মূসা তার ভাই হারূনকে বলল, ‘আমার কওমের মধ্যে তুমি আমার প্রতিনিধিত্ব কর, সংশোধন কর এবং ফাসাদকারীদের পথ অনুসরণ করো না’।",
+    "urdu": "اور ہم نے موسیٰ سے تیس رات کی میعاد مقرر کی۔ اور اس دس (راتیں) اور ملا کر اسے پورا (چلّہ) کردیا تو اس کے پروردگار کی چالیس رات کی میعاد پوری ہوگئی۔ اور موسیٰ نے اپنے بھائی ہارون سے کہا کہ میرے (کوہِٰ طور پر جانے کے) بعد تم میری قوم میں میرے جانشین ہو (ان کی) اصلاح کرتے رہنا ٹھیک اور شریروں کے رستے نہ چلنا"
+}

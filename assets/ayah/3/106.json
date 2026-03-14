@@ -1,0 +1,42 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 106,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/3_106.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/003106.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/3_106.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/003106.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/3_106.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/003106.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/3_106.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/003106.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/3_106.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/003106.mp3"
+        }
+    },
+    "english": "On that Day some faces will be bright while others gloomy. To the gloomy-faced it will be said, “Did you disbelieve after having believed? So taste the punishment for your disbelief.”",
+    "arabic1": "يَوْمَ تَبْيَضُّ وُجُوهٌ وَتَسْوَدُّ وُجُوهٌ ۚ فَأَمَّا ٱلَّذِينَ ٱسْوَدَّتْ وُجُوهُهُمْ أَكَفَرْتُم بَعْدَ إِيمَـٰنِكُمْ فَذُوقُوا۟ ٱلْعَذَابَ بِمَا كُنتُمْ تَكْفُرُونَ",
+    "arabic2": "يوم تبيض وجوه وتسود وجوه فاما الذين اسودت وجوههم اكفرتم بعد ايمانكم فذوقوا العذاب بما كنتم تكفرون",
+    "bengali": "সেদিন কতক চেহারা সাদা হবে এবং কতক চেহারা হবে কালো। আর যাদের চেহারা কালো হবে (তাদেরকে বলা হবে) ‘তোমরা কি ঈমান আনার পর কুফরী করেছিলে? সুতরাং তোমরা আযাব আস্বাদন কর। কারণ তোমরা কুফরী করতে’।",
+    "urdu": "جس دن بہت سے منہ سفید ہوں گے اور بہت سے منہ سیاہ تو جن لوگوں کے منہ سیاہ ہوں گے (ان سے خدا فرمائے گا) کیا تم ایمان لا کر کافر ہوگئے تھے؟ سو (اب) اس کفر کے بدلے عذاب (کے مزے) چکھو"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 83,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/6_83.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/006083.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/6_83.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/006083.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/6_83.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/006083.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/6_83.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/006083.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/6_83.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/006083.mp3"
+        }
+    },
+    "english": "This was the argument We gave Abraham against his people. We elevate in rank whoever We please. Surely your Lord is All-Wise, All-Knowing.",
+    "arabic1": "وَتِلْكَ حُجَّتُنَآ ءَاتَيْنَـٰهَآ إِبْرَٰهِيمَ عَلَىٰ قَوْمِهِۦ ۚ نَرْفَعُ دَرَجَـٰتٍ مَّن نَّشَآءُ ۗ إِنَّ رَبَّكَ حَكِيمٌ عَلِيمٌ",
+    "arabic2": "وتلك حجتنا اتيناها ابراهيم على قومه نرفع درجات من نشاء ان ربك حكيم عليم",
+    "bengali": "আর এ হচ্ছে আমার দলীল, আমি তা ইবরাহীমকে তার কওমের উপর দান করেছি। আমি যাকে চাই, তাকে মর্যাদায় উঁচু করি। নিশ্চয় তোমার রব প্রজ্ঞাময়, সর্বজ্ঞ।",
+    "urdu": "اور یہ ہماری دلیل تھی جو ہم نے ابراہیم کو ان کی قوم کے مقابلے میں عطا کی تھی۔ ہم جس کے چاہتے ہیں درجے بلند کردیتے ہیں۔ بےشک تمہارا پروردگار دانا اور خبردار ہے"
+}

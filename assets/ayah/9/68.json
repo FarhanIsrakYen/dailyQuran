@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 68,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/9_68.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/009068.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/9_68.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/009068.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/9_68.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/009068.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/9_68.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/009068.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/9_68.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/009068.mp3"
+        }
+    },
+    "english": "Allah has promised the hypocrites, both men and women, and the disbelievers an everlasting stay in the Fire of Hell—it is sufficient for them. Allah has condemned them, and they will suffer a never-ending punishment.",
+    "arabic1": "وَعَدَ ٱللَّهُ ٱلْمُنَـٰفِقِينَ وَٱلْمُنَـٰفِقَـٰتِ وَٱلْكُفَّارَ نَارَ جَهَنَّمَ خَـٰلِدِينَ فِيهَا ۚ هِىَ حَسْبُهُمْ ۚ وَلَعَنَهُمُ ٱللَّهُ ۖ وَلَهُمْ عَذَابٌ مُّقِيمٌ",
+    "arabic2": "وعد الله المنافقين والمنافقات والكفار نار جهنم خالدين فيها هي حسبهم ولعنهم الله ولهم عذاب مقيم",
+    "bengali": "আল্লাহ মুনাফিক পুরুষ, মুনাফিক নারী ও কাফিরদেরকে জাহান্নামের আগুনের প্রতিশ্রুতি দিয়েছেন। তাতে তারা চিরদিন থাকবে, এটি তাদের জন্য যথেষ্ট। আর আল্লাহ তাদের লা‘নত করেন এবং তাদের জন্য রয়েছে স্থায়ী আযাব।",
+    "urdu": "الله نے منافق مردوں اور منافق عورتوں اور کافروں سے آتش جہنم کا وعدہ کیا ہے جس میں ہمیشہ (جلتے) رہیں گے۔ وہی ان کے لائق ہے۔ اور خدا نے ان پر لعنت کر دی ہے۔ اور ان کے لیے ہمیشہ کا عذاب (تیار) ہے"
+}

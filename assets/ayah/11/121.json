@@ -1,0 +1,42 @@
+{
+    "surahName": "Hud",
+    "surahNameArabic": "هود",
+    "surahNameArabicLong": "سورة هود",
+    "surahNameTranslation": "Hud",
+    "revelationPlace": "Mecca",
+    "totalAyah": 123,
+    "surahNo": 11,
+    "ayahNo": 121,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/11_121.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/011121.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/11_121.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/011121.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/11_121.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/011121.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/11_121.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/011121.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/11_121.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/011121.mp3"
+        }
+    },
+    "english": "Say to those who disbelieve, “Persist in your ways; we will certainly persist in ours.",
+    "arabic1": "وَقُل لِّلَّذِينَ لَا يُؤْمِنُونَ ٱعْمَلُوا۟ عَلَىٰ مَكَانَتِكُمْ إِنَّا عَـٰمِلُونَ",
+    "arabic2": "وقل للذين لا يؤمنون اعملوا على مكانتكم انا عاملون",
+    "bengali": "আর যারা ঈমান আনছে না তাদেরকে বল, ‘তোমরা স্ব স্ব অবস্থানে কাজ কর আমরাও কাজ করছি।",
+    "urdu": "اور جو لوگ ایمان نہیں لائے ان سے کہہ دو کہ تم اپنی جگہ عمل کیے جاؤ۔ ہم اپنی جگہ عمل کیے جاتے ہیں"
+}

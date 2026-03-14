@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 97,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/9_97.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/009097.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/9_97.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/009097.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/9_97.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/009097.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/9_97.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/009097.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/9_97.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/009097.mp3"
+        }
+    },
+    "english": "The nomadic Arabs ˹around Medina˺ are far worse in disbelief and hypocrisy, and less likely to know the laws revealed by Allah to His Messenger. And Allah is All-Knowing, All-Wise.",
+    "arabic1": "ٱلْأَعْرَابُ أَشَدُّ كُفْرًا وَنِفَاقًا وَأَجْدَرُ أَلَّا يَعْلَمُوا۟ حُدُودَ مَآ أَنزَلَ ٱللَّهُ عَلَىٰ رَسُولِهِۦ ۗ وَٱللَّهُ عَلِيمٌ حَكِيمٌ",
+    "arabic2": "الاعراب اشد كفرا ونفاقا واجدر الا يعلموا حدود ما انزل الله على رسوله والله عليم حكيم",
+    "bengali": "বেদুঈনরা কুফর ও কপটতায় কঠিনতর এবং আল্লাহ তাঁর রাসূলের উপর যা নাযিল করেছেন তার সীমারেখা না জানার অধিক উপযোগী। আর আল্লাহ সর্বজ্ঞানী, প্রজ্ঞাময়।",
+    "urdu": "دیہاتی لوگ سخت کافر اور سخت منافق ہیں اور اس قابل ہیں کہ جو احکام (شریعت) خدا نے اپنے رسول پر نازل فرمائے ہیں ان سے واقف (ہی) نہ ہوں۔ اور خدا جاننے والا (اور) حکمت والا ہے"
+}

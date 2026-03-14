@@ -1,0 +1,42 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 68,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/3_68.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/003068.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/3_68.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/003068.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/3_68.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/003068.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/3_68.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/003068.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/3_68.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/003068.mp3"
+        }
+    },
+    "english": "Indeed, those who have the best claim to Abraham are his followers, this Prophet, and the believers. And Allah is the Guardian of those who believe.",
+    "arabic1": "إِنَّ أَوْلَى ٱلنَّاسِ بِإِبْرَٰهِيمَ لَلَّذِينَ ٱتَّبَعُوهُ وَهَـٰذَا ٱلنَّبِىُّ وَٱلَّذِينَ ءَامَنُوا۟ ۗ وَٱللَّهُ وَلِىُّ ٱلْمُؤْمِنِينَ",
+    "arabic2": "ان اولى الناس بابراهيم للذين اتبعوه وهذا النبي والذين امنوا والله ولي المؤمنين",
+    "bengali": "নিশ্চয় মানুষের মধ্যে ইবরাহীমের সবচেয়ে নিকটবর্তী তারা, যারা তার অনুসরণ করেছে এবং এই নবী ও মুমিনগণ। আর আল্লাহ মুমিনদের অভিভাবক।",
+    "urdu": "ابراہیم سے قرب رکھنے والے تو وہ لوگ ہیں جو ان کی پیروی کرتے ہیں اور پیغمبر (آخرالزمان) اور وہ لوگ جو ایمان لائے ہیں اور خدا مومنوں کا کارساز ہے"
+}

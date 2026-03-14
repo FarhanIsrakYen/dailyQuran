@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Noor",
+    "surahNameArabic": "النور",
+    "surahNameArabicLong": "سورة النور",
+    "surahNameTranslation": "The Light",
+    "revelationPlace": "Madina",
+    "totalAyah": 64,
+    "surahNo": 24,
+    "ayahNo": 54,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/24_54.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/024054.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/24_54.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/024054.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/24_54.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/024054.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/24_54.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/024054.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/24_54.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/024054.mp3"
+        }
+    },
+    "english": "Say, “Obey Allah and obey the Messenger. But if you turn away, then he is only responsible for his duty and you are responsible for yours. And if you obey him, you will be ˹rightly˺ guided. The Messenger’s duty is only to deliver ˹the message˺ clearly.”",
+    "arabic1": "قُلْ أَطِيعُوا۟ ٱللَّهَ وَأَطِيعُوا۟ ٱلرَّسُولَ ۖ فَإِن تَوَلَّوْا۟ فَإِنَّمَا عَلَيْهِ مَا حُمِّلَ وَعَلَيْكُم مَّا حُمِّلْتُمْ ۖ وَإِن تُطِيعُوهُ تَهْتَدُوا۟ ۚ وَمَا عَلَى ٱلرَّسُولِ إِلَّا ٱلْبَلَـٰغُ ٱلْمُبِينُ",
+    "arabic2": "قل اطيعوا الله واطيعوا الرسول فان تولوا فانما عليه ما حمل وعليكم ما حملتم وان تطيعوه تهتدوا وما على الرسول الا البلاغ المبين",
+    "bengali": "বল, ‘তোমরা আল্লাহর আনুগত্য কর এবং রাসূলের আনুগত্য কর।’ তারপর যদি তোমরা মুখ ফিরিয়ে নাও, তবে সে শুধু তার উপর অর্পিত দায়িত্বের জন্য দায়ী এবং তোমাদের উপর অর্পিত দায়িত্বের জন্য তোমরাই দায়ী। আর যদি তোমরা তার আনুগত্য কর তবে তোমরা হিদায়াতপ্রাপ্ত হবে। আর রাসূলের দায়িত্ব শুধু স্পষ্টভাবে পৌঁছে দেয়া।",
+    "urdu": "کہہ دو کہ خدا کی فرمانبرداری کرو اور رسول خدا کے حکم پر چلو۔ اگر منہ موڑو گے تو رسول پر (اس چیز کا ادا کرنا) جو ان کے ذمے ہے اور تم پر (اس چیز کا ادا کرنا) ہے جو تمہارے ذمے ہے اور اگر تم ان کے فرمان پر چلو گے تو سیدھا رستہ پالو گے اور رسول کے ذمے تو صاف صاف (احکام خدا کا) پہنچا دینا ہے"
+}

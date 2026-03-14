@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Ahqaf",
+    "surahNameArabic": "الأحقاف",
+    "surahNameArabicLong": "سورة الأحقاف",
+    "surahNameTranslation": "The Dunes",
+    "revelationPlace": "Mecca",
+    "totalAyah": 35,
+    "surahNo": 46,
+    "ayahNo": 26,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/46_26.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/046026.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/46_26.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/046026.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/46_26.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/046026.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/46_26.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/046026.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/46_26.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/046026.mp3"
+        }
+    },
+    "english": "Indeed, We had established them in a way We have not established you ˹Meccans˺. And We gave them hearing, sight, and intellect. But neither their hearing, sight, nor intellect were of any benefit to them whatsoever, since they persisted in denying Allah’s signs. And ˹so˺ they were overwhelmed by what they used to ridicule.",
+    "arabic1": "وَلَقَدْ مَكَّنَّـٰهُمْ فِيمَآ إِن مَّكَّنَّـٰكُمْ فِيهِ وَجَعَلْنَا لَهُمْ سَمْعًا وَأَبْصَـٰرًا وَأَفْـِٔدَةً فَمَآ أَغْنَىٰ عَنْهُمْ سَمْعُهُمْ وَلَآ أَبْصَـٰرُهُمْ وَلَآ أَفْـِٔدَتُهُم مِّن شَىْءٍ إِذْ كَانُوا۟ يَجْحَدُونَ بِـَٔايَـٰتِ ٱللَّهِ وَحَاقَ بِهِم مَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+    "arabic2": "ولقد مكناهم فيما ان مكناكم فيه وجعلنا لهم سمعا وابصارا وافئدة فما اغنى عنهم سمعهم ولا ابصارهم ولا افئدتهم من شيء اذ كانوا يجحدون بايات الله وحاق بهم ما كانوا به يستهزئون",
+    "bengali": "আর আমি অবশ্যই তাদেরকে যাতে প্রতিষ্ঠিত করেছিলাম, তোমাদেরকে তাতে প্রতিষ্ঠিত করিনি। আর আমি তাদেরকে কান, চোখ ও হৃদয় দিয়েছিলাম, কিন্তু তারা যখন আমার আয়াতসমূহকে অস্বীকার করত, তখন তাদের কান, তাদের চোখ ও তাদের হৃদয়সমূহ তাদের কোন উপকারে আসেনি। আর তারা যা নিয়ে ঠাট্টা-বিদ্রূপ করত তা-ই তাদেরকে পরিবেষ্টন করল।",
+    "urdu": "اور ہم نے ان کو ایسے مقدور دیئے تھے جو تم لوگوں کو نہیں دیئے اور انہیں کان اور آنکھیں اور دل دیئے تھے۔ تو جب کہ وہ خدا کی آیتوں سے انکار کرتے تھے تو نہ تو ان کے کان ہی ان کے کچھ کام آسکے اور نہ آنکھیں اور نہ دل۔ اور جس چیز سے استہزاء کیا کرتے تھے اس نے ان کو آ گھیرا"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Mursalaat",
+    "surahNameArabic": "المرسلات",
+    "surahNameArabicLong": "سورة المرسلات",
+    "surahNameTranslation": "The Emissaries",
+    "revelationPlace": "Mecca",
+    "totalAyah": 50,
+    "surahNo": 77,
+    "ayahNo": 10,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/77_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/077010.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/77_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/077010.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/77_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/077010.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/77_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/077010.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/77_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/077010.mp3"
+        }
+    },
+    "english": "and the mountains are blown away",
+    "arabic1": "وَإِذَا ٱلْجِبَالُ نُسِفَتْ",
+    "arabic2": "واذا الجبال نسفت",
+    "bengali": "আর যখন পাহাড়গুলি চূর্ণবিচূর্ণ হবে,",
+    "urdu": "اور جب پہاڑ اُڑے اُڑے پھریں"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Maaida",
+    "surahNameArabic": "المائدة",
+    "surahNameArabicLong": "سورة المائدة",
+    "surahNameTranslation": "The Table",
+    "revelationPlace": "Madina",
+    "totalAyah": 120,
+    "surahNo": 5,
+    "ayahNo": 80,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/5_80.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/005080.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/5_80.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/005080.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/5_80.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/005080.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/5_80.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/005080.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/5_80.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/005080.mp3"
+        }
+    },
+    "english": "You see many of them taking the disbelievers as allies. Truly wicked are their misdeeds, which have earned them Allah’s wrath. And they will be in everlasting torment.",
+    "arabic1": "تَرَىٰ كَثِيرًا مِّنْهُمْ يَتَوَلَّوْنَ ٱلَّذِينَ كَفَرُوا۟ ۚ لَبِئْسَ مَا قَدَّمَتْ لَهُمْ أَنفُسُهُمْ أَن سَخِطَ ٱللَّهُ عَلَيْهِمْ وَفِى ٱلْعَذَابِ هُمْ خَـٰلِدُونَ",
+    "arabic2": "ترى كثيرا منهم يتولون الذين كفروا لبئس ما قدمت لهم انفسهم ان سخط الله عليهم وفي العذاب هم خالدون",
+    "bengali": "তাদের মধ্যে অনেককে তুমি দেখতে পাবে, যারা কাফিরদের সাথে বন্ধুত্ব করে। তারা যা নিজদের জন্য পেশ করেছে, তা কত মন্দ যে, আল্লাহ তাদের উপর ক্রোধান্বিত হয়েছেন এবং তারা আযাবেই স্থায়ী হবে।",
+    "urdu": "تم ان میں سے بہتوں کو دیکھو گے کہ کافروں سے دوستی رکھتے ہیں انہوں نے جو کچھ اپنے واسطے آگے بھیجا ہے برا ہے (وہ یہ) کہ خدا ان سے ناخوش ہوا اور وہ ہمیشہ عذاب میں (مبتلا) رہیں گے"
+}

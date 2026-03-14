@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Munaafiqoon",
+    "surahNameArabic": "المنافقون",
+    "surahNameArabicLong": "سورة المنافقون",
+    "surahNameTranslation": "The Hypocrites",
+    "revelationPlace": "Madina",
+    "totalAyah": 11,
+    "surahNo": 63,
+    "ayahNo": 8,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/63_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/063008.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/63_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/063008.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/63_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/063008.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/63_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/063008.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/63_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/063008.mp3"
+        }
+    },
+    "english": "They say, “If we return to Medina, the honourable will definitely expel the inferior.” But all honour and power belongs to Allah, His Messenger, and the believers, yet the hypocrites do not know.",
+    "arabic1": "يَقُولُونَ لَئِن رَّجَعْنَآ إِلَى ٱلْمَدِينَةِ لَيُخْرِجَنَّ ٱلْأَعَزُّ مِنْهَا ٱلْأَذَلَّ ۚ وَلِلَّهِ ٱلْعِزَّةُ وَلِرَسُولِهِۦ وَلِلْمُؤْمِنِينَ وَلَـٰكِنَّ ٱلْمُنَـٰفِقِينَ لَا يَعْلَمُونَ",
+    "arabic2": "يقولون لئن رجعنا الى المدينة ليخرجن الاعز منها الاذل ولله العزة ولرسوله وللمؤمنين ولكن المنافقين لا يعلمون",
+    "bengali": "তারা বলে, যদি আমরা মদীনায় ফিরে যাই তাহলে অবশ্যই সেখান থেকে প্রবল দুর্বলকে বহিষ্কার করবে। কিন্তু সকল মর্যাদা তো আল্লাহর, তাঁর রাসূলের ও মুমিনদের। কিন্তু মুনাফিকরা তা জানে না।",
+    "urdu": "کہتے ہیں کہ اگر ہم لوٹ کر مدینے پہنچے تو عزت والے ذلیل لوگوں کو وہاں سے نکال باہر کریں گے۔ حالانکہ عزت خدا کی ہے اور اس کے رسول کی اور مومنوں کی لیکن منافق نہیں جانتے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nahl",
+    "surahNameArabic": "النحل",
+    "surahNameArabicLong": "سورة النحل",
+    "surahNameTranslation": "The Bee",
+    "revelationPlace": "Mecca",
+    "totalAyah": 128,
+    "surahNo": 16,
+    "ayahNo": 75,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/16_75.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/016075.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/16_75.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/016075.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/16_75.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/016075.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/16_75.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/016075.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/16_75.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/016075.mp3"
+        }
+    },
+    "english": "Allah sets forth a parable: a slave who lacks all means, compared to a ˹free˺ man to whom We granted a good provision, of which he donates ˹freely,˺ openly and secretly. Are they equal? Praise be to Allah. In fact, most of them do not know.",
+    "arabic1": "۞ ضَرَبَ ٱللَّهُ مَثَلًا عَبْدًا مَّمْلُوكًا لَّا يَقْدِرُ عَلَىٰ شَىْءٍ وَمَن رَّزَقْنَـٰهُ مِنَّا رِزْقًا حَسَنًا فَهُوَ يُنفِقُ مِنْهُ سِرًّا وَجَهْرًا ۖ هَلْ يَسْتَوُۥنَ ۚ ٱلْحَمْدُ لِلَّهِ ۚ بَلْ أَكْثَرُهُمْ لَا يَعْلَمُونَ",
+    "arabic2": "ضرب الله مثلا عبدا مملوكا لا يقدر على شيء ومن رزقناه منا رزقا حسنا فهو ينفق منه سرا وجهرا هل يستوون الحمد لله بل اكثرهم لا يعلمون",
+    "bengali": "আল্লাহ উপমা পেশ করেছেন; একজন অধিনস্ত দাস যে কোন কিছুর উপর ক্ষমতা রাখে না। আর একজন যাকে আমি আমার পক্ষ থেকে উত্তম রিযক দিয়েছি, অতঃপর সে তা থেকে গোপনে ও প্রকাশ্যে ব্যয় করে। তারা কি সমান হতে পারে? সমস্ত প্রশংসা আল্লা্হর। বরং তাদের অধিকাংশই জানে না।",
+    "urdu": "خدا ایک اور مثال بیان فرماتا ہے کہ ایک غلام ہے جو (بالکل) دوسرے کے اختیار میں ہے اور کسی چیز پر قدرت نہیں رکھتا اور ایک ایسا شخص ہے جس کو ہم نے اپنے ہاں سے (بہت سا) مال طیب عطا فرمایا ہے اور وہ اس میں سے (رات دن) پوشیدہ اور ظاہر خرچ کرتا رہتا ہے تو کیا یہ دونوں شخص برابر ہیں؟ (ہرگز نہیں) الحمدلله لیکن ان میں سے اکثر لوگ نہیں سمجھ رکھتے"
+}

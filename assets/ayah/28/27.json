@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Qasas",
+    "surahNameArabic": "القصص",
+    "surahNameArabicLong": "سورة القصص",
+    "surahNameTranslation": "The Stories",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 28,
+    "ayahNo": 27,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/28_27.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/028027.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/28_27.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/028027.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/28_27.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/028027.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/28_27.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/028027.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/28_27.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/028027.mp3"
+        }
+    },
+    "english": "The old man proposed, “I wish to marry one of these two daughters of mine to you, provided that you stay in my service for eight years. If you complete ten, it will be ˹a favour˺ from you, but I do not wish to make it difficult for you. Allah willing, you will find me an agreeable man.”",
+    "arabic1": "قَالَ إِنِّىٓ أُرِيدُ أَنْ أُنكِحَكَ إِحْدَى ٱبْنَتَىَّ هَـٰتَيْنِ عَلَىٰٓ أَن تَأْجُرَنِى ثَمَـٰنِىَ حِجَجٍ ۖ فَإِنْ أَتْمَمْتَ عَشْرًا فَمِنْ عِندِكَ ۖ وَمَآ أُرِيدُ أَنْ أَشُقَّ عَلَيْكَ ۚ سَتَجِدُنِىٓ إِن شَآءَ ٱللَّهُ مِنَ ٱلصَّـٰلِحِينَ",
+    "arabic2": "قال اني اريد ان انكحك احدى ابنتي هاتين على ان تاجرني ثماني حجج فان اتممت عشرا فمن عندك وما اريد ان اشق عليك ستجدني ان شاء الله من الصالحين",
+    "bengali": "সে বলল, ‘আমি আমার এই কন্যাদ্বয়ের একজনকে তোমার সাথে বিয়ে দিতে চাই এই শর্তে যে, তুমি আট বছর আমার মজুরী করবে। আর যদি তুমি দশ বছর পূর্ণ কর, তবে সেটা তোমার পক্ষ থেকে (অতিরিক্ত)। আমি তোমাকে কষ্ট দিতে চাই না। তুমি ইনশাআল্লাহ আমাকে সৎকর্মপরায়ণদের অন্তর্ভুক্ত পাবে’।",
+    "urdu": "اُنہوں نے( موسٰی سے) کہا کہ میں چاہتا ہوں اپنی دو بیٹیوں میں سے ایک کو تم سے بیاہ دوں اس عہد پر کہ تم آٹھ برس میری خدمت کرو اور اگر دس سال پورے کر دو تو تمہاری طرف سے (احسان) ہے اور میں تم پر تکلیف ڈالنی نہیں چاہتا۔ مجھے انشاء الله نیک لوگوں میں پاؤ گے"
+}

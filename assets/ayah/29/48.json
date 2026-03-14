@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Ankaboot",
+    "surahNameArabic": "العنكبوت",
+    "surahNameArabicLong": "سورة العنكبوت",
+    "surahNameTranslation": "The Spider",
+    "revelationPlace": "Mecca",
+    "totalAyah": 69,
+    "surahNo": 29,
+    "ayahNo": 48,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/29_48.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/029048.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/29_48.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/029048.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/29_48.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/029048.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/29_48.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/029048.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/29_48.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/029048.mp3"
+        }
+    },
+    "english": "You ˹O Prophet˺ could not read any writing ˹even˺ before this ˹revelation˺, nor could you write at all. Otherwise, the people of falsehood would have been suspicious.",
+    "arabic1": "وَمَا كُنتَ تَتْلُوا۟ مِن قَبْلِهِۦ مِن كِتَـٰبٍ وَلَا تَخُطُّهُۥ بِيَمِينِكَ ۖ إِذًا لَّٱرْتَابَ ٱلْمُبْطِلُونَ",
+    "arabic2": "وما كنت تتلو من قبله من كتاب ولا تخطه بيمينك اذا لارتاب المبطلون",
+    "bengali": "আর তুমি তো এর পূর্বে কোন কিতাব তিলাওয়াত করনি এবং তোমার নিজের হাতে তা লিখনি যে, বাতিলপন্থীরা এতে সন্দেহ পোষণ করবে।",
+    "urdu": "اور تم اس سے پہلے کوئی کتاب نہیں پڑھتے تھے اور نہ اُسے اپنے ہاتھ سے لکھ ہی سکتے تھے ایسا ہوتا تو اہلِ باطل ضرور شک کرتے"
+}

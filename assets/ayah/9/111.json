@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 111,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/9_111.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/009111.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/9_111.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/009111.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/9_111.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/009111.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/9_111.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/009111.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/9_111.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/009111.mp3"
+        }
+    },
+    "english": "Allah has indeed purchased from the believers their lives and wealth in exchange for Paradise. They fight in the cause of Allah and kill or are killed. This is a true promise binding on Him in the Torah, the Gospel, and the Quran. And whose promise is truer than Allah’s? So rejoice in the exchange you have made with Him. That is ˹truly˺ the ultimate triumph.",
+    "arabic1": "۞ إِنَّ ٱللَّهَ ٱشْتَرَىٰ مِنَ ٱلْمُؤْمِنِينَ أَنفُسَهُمْ وَأَمْوَٰلَهُم بِأَنَّ لَهُمُ ٱلْجَنَّةَ ۚ يُقَـٰتِلُونَ فِى سَبِيلِ ٱللَّهِ فَيَقْتُلُونَ وَيُقْتَلُونَ ۖ وَعْدًا عَلَيْهِ حَقًّا فِى ٱلتَّوْرَىٰةِ وَٱلْإِنجِيلِ وَٱلْقُرْءَانِ ۚ وَمَنْ أَوْفَىٰ بِعَهْدِهِۦ مِنَ ٱللَّهِ ۚ فَٱسْتَبْشِرُوا۟ بِبَيْعِكُمُ ٱلَّذِى بَايَعْتُم بِهِۦ ۚ وَذَٰلِكَ هُوَ ٱلْفَوْزُ ٱلْعَظِيمُ",
+    "arabic2": "ان الله اشترى من المؤمنين انفسهم واموالهم بان لهم الجنة يقاتلون في سبيل الله فيقتلون ويقتلون وعدا عليه حقا في التوراة والانجيل والقران ومن اوفى بعهده من الله فاستبشروا ببيعكم الذي بايعتم به وذلك هو الفوز العظيم",
+    "bengali": "নিশ্চয় আল্লাহ মুমিনদের থেকে তাদের জান ও মাল ক্রয় করে নিয়েছেন (এর বিনিময়ে) যে, তাদের জন্য রয়েছে জান্নাত। তারা আল্লাহর পথে লড়াই করে। অতএব তারা মারে ও মরে। তাওরাত, ইঞ্জিল ও কুরআনে এ সম্পর্কে সত্য ওয়াদা রয়েছে। আর নিজ ওয়াদা পূরণে আল্লাহর চেয়ে অধিক কে হতে পারে? সুতরাং তোমরা (আল্লাহর সংগে) যে সওদা করেছ, সে সওদার জন্য আনন্দিত হও এবং সেটাই মহাসাফল্য।",
+    "urdu": "خدا نے مومنوں سے ان کی جانیں اور ان کے مال خرید لیے ہیں (اور اس کے) عوض ان کے لیے بہشت (تیار کی) ہے۔ یہ لوگ خدا کی راہ میں لڑتے ہیں تو مارتے بھی ہیں اور مارے بھی جاتے ہیں بھی ہیں۔ یہ تورات اور انجیل اور قرآن میں سچا وعدہ ہے۔ جس کا پورا کرنا اسے ضرور ہے اور خدا سے زیادہ وعدہ پورا کرنے والا کون ہے تو جو سودا تم نے اس سے کیا ہے اس سے خوش رہو۔ اور یہی بڑی کامیابی ہے"
+}

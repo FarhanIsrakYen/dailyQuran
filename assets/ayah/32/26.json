@@ -1,0 +1,42 @@
+{
+    "surahName": "As-Sajda",
+    "surahNameArabic": "السجدة",
+    "surahNameArabicLong": "سورة السجدة",
+    "surahNameTranslation": "The Prostration",
+    "revelationPlace": "Mecca",
+    "totalAyah": 30,
+    "surahNo": 32,
+    "ayahNo": 26,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/32_26.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/032026.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/32_26.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/032026.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/32_26.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/032026.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/32_26.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/032026.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/32_26.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/032026.mp3"
+        }
+    },
+    "english": "Is it not yet clear to them how many peoples We destroyed before them, whose ruins they still pass by? Surely in this are signs. Will they not then listen?",
+    "arabic1": "أَوَلَمْ يَهْدِ لَهُمْ كَمْ أَهْلَكْنَا مِن قَبْلِهِم مِّنَ ٱلْقُرُونِ يَمْشُونَ فِى مَسَـٰكِنِهِمْ ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍ ۖ أَفَلَا يَسْمَعُونَ",
+    "arabic2": "اولم يهد لهم كم اهلكنا من قبلهم من القرون يمشون في مساكنهم ان في ذلك لايات افلا يسمعون",
+    "bengali": "এটা কি তাদেরকে হিদায়াত করল না যে, আমি তাদের পূর্বে কত প্রজন্মকে ধ্বংস করেছি যাদের বাসভূমিতে তারা চলাফেরা করে? নিশ্চয় এতে বহু নিদর্শন রয়েছে। তবুও কি তারা শুনবে না?",
+    "urdu": "کیا اُن کو اس (امر )سے ہدایت نہ ہوئی کہ ہم نے اُن سے پہلے بہت سی اُمتوں کو جن کے مقامات سکونت میں یہ چلتے پھرتے ہیں ہلاک کر دیا۔ بیشک اس میں نشانیاں ہیں۔ تو یہ سنتے کیوں نہیں"
+}

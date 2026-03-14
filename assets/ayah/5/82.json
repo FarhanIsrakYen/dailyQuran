@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Maaida",
+    "surahNameArabic": "المائدة",
+    "surahNameArabicLong": "سورة المائدة",
+    "surahNameTranslation": "The Table",
+    "revelationPlace": "Madina",
+    "totalAyah": 120,
+    "surahNo": 5,
+    "ayahNo": 82,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/5_82.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/005082.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/5_82.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/005082.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/5_82.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/005082.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/5_82.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/005082.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/5_82.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/005082.mp3"
+        }
+    },
+    "english": "You will surely find the most bitter towards the believers to be the Jews and polytheists and the most gracious to be those who call themselves Christian. That is because there are priests and monks among them and because they are not arrogant.",
+    "arabic1": "۞ لَتَجِدَنَّ أَشَدَّ ٱلنَّاسِ عَدَٰوَةً لِّلَّذِينَ ءَامَنُوا۟ ٱلْيَهُودَ وَٱلَّذِينَ أَشْرَكُوا۟ ۖ وَلَتَجِدَنَّ أَقْرَبَهُم مَّوَدَّةً لِّلَّذِينَ ءَامَنُوا۟ ٱلَّذِينَ قَالُوٓا۟ إِنَّا نَصَـٰرَىٰ ۚ ذَٰلِكَ بِأَنَّ مِنْهُمْ قِسِّيسِينَ وَرُهْبَانًا وَأَنَّهُمْ لَا يَسْتَكْبِرُونَ",
+    "arabic2": "لتجدن اشد الناس عداوة للذين امنوا اليهود والذين اشركوا ولتجدن اقربهم مودة للذين امنوا الذين قالوا انا نصارى ذلك بان منهم قسيسين ورهبانا وانهم لا يستكبرون",
+    "bengali": "তুমি অবশ্যই মুমিনদের জন্য মানুষের মধ্যে শত্রুতায় অধিক কঠোর পাবে ইয়াহূদীদেরকে এবং যারা শিরক করেছে তাদেরকে। আর মুমিনদের জন্য বন্ধুত্বে তাদের মধ্যে নিকটতর পাবে তাদেরকে, যারা বলে, ‘আমরা নাসারা’। তা এই কারণে যে, তাদের মধ্যে অনেক পন্ডিত ও সংসারবিরাগী আছে এবং তারা নিশ্চয় অহঙ্কার করে না।",
+    "urdu": "(اے پیغمبرﷺ!) تم دیکھو گے کہ مومنوں کے ساتھ سب سے زیادہ دشمنی کرنے والے یہودی اور مشرک ہیں اور دوستی کے لحاظ سے مومنوں سے قریب تر ان لوگوں کو پاؤ گے جو کہتے ہیں کہ ہم نصاریٰ ہیں یہ اس لیے کہ ان میں عالم بھی ہیں اور مشائخ بھی اور وہ تکبر نہیں کرتے"
+}

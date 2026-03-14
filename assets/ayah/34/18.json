@@ -1,0 +1,42 @@
+{
+    "surahName": "Saba",
+    "surahNameArabic": "سبإ",
+    "surahNameArabicLong": "سورة سَبَأ",
+    "surahNameTranslation": "Sheba",
+    "revelationPlace": "Mecca",
+    "totalAyah": 54,
+    "surahNo": 34,
+    "ayahNo": 18,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/34_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/034018.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/34_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/034018.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/34_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/034018.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/34_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/034018.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/34_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/034018.mp3"
+        }
+    },
+    "english": "We had also placed between them and the cities We showered with blessings ˹many small˺ towns within sight of one another. And We set moderate travel distances in between, ˹saying,˺ “Travel between them by day and night safely.”",
+    "arabic1": "وَجَعَلْنَا بَيْنَهُمْ وَبَيْنَ ٱلْقُرَى ٱلَّتِى بَـٰرَكْنَا فِيهَا قُرًى ظَـٰهِرَةً وَقَدَّرْنَا فِيهَا ٱلسَّيْرَ ۖ سِيرُوا۟ فِيهَا لَيَالِىَ وَأَيَّامًا ءَامِنِينَ",
+    "arabic2": "وجعلنا بينهم وبين القرى التي باركنا فيها قرى ظاهرة وقدرنا فيها السير سيروا فيها ليالي واياما امنين",
+    "bengali": "আর তাদের ও যে সব জনপদের মধ্যে আমি বরকত দিয়েছিলাম সেগুলোর মধ্যবর্তীস্থানে আমি অনেক দৃশ্যমান জনপদ স্থাপন করেছিলাম এবং তাতে ভ্রমণ করার ব্যবস্থা নির্ধারণ করে দিয়েছিলাম। (তাদেরকে বলা হয়েছিল) ‘তোমরা এসব জনপদে রাত-দিন (যখন ইচ্ছা) নিরাপদে ভ্রমণ কর’।",
+    "urdu": "اور ہم نے ان کے اور (شام کی) ان بستیوں کے درمیان جن میں ہم نے برکت دی تھی (ایک دوسرے کے متصل) دیہات بنائے تھے جو سامنے نظر آتے تھے اور ان میں آمد ورفت کا اندازہ مقرر کردیا تھا کہ رات دن بےخوف وخطر چلتے رہو"
+}

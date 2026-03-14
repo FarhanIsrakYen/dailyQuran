@@ -1,0 +1,42 @@
+{
+    "surahName": "Yunus",
+    "surahNameArabic": "يونس",
+    "surahNameArabicLong": "سورة يونس",
+    "surahNameTranslation": "Jonas",
+    "revelationPlace": "Mecca",
+    "totalAyah": 109,
+    "surahNo": 10,
+    "ayahNo": 80,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/10_80.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/010080.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/10_80.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/010080.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/10_80.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/010080.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/10_80.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/010080.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/10_80.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/010080.mp3"
+        }
+    },
+    "english": "When the magicians came, Moses said to them, “Cast whatever you wish to cast!”",
+    "arabic1": "فَلَمَّا جَآءَ ٱلسَّحَرَةُ قَالَ لَهُم مُّوسَىٰٓ أَلْقُوا۟ مَآ أَنتُم مُّلْقُونَ",
+    "arabic2": "فلما جاء السحرة قال لهم موسى القوا ما انتم ملقون",
+    "bengali": "অতঃপর যখন যাদুকররা এল, মূসা তাদেরকে বলল, ‘তোমরা যা ফেলবার ফেল’।",
+    "urdu": "جب جادوگر آئے تو موسیٰ نے ان سے کہا تم کو جو ڈالنا ہے ڈالو"
+}

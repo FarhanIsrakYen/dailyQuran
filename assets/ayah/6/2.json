@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 2,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/6_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/006002.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/6_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/006002.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/6_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/006002.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/6_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/006002.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/6_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/006002.mp3"
+        }
+    },
+    "english": "He is the One Who created you from clay, then appointed a term ˹for your death˺ and another known only to Him ˹for your resurrection˺—yet you continue to doubt!",
+    "arabic1": "هُوَ ٱلَّذِى خَلَقَكُم مِّن طِينٍ ثُمَّ قَضَىٰٓ أَجَلًا ۖ وَأَجَلٌ مُّسَمًّى عِندَهُۥ ۖ ثُمَّ أَنتُمْ تَمْتَرُونَ",
+    "arabic2": "هو الذي خلقكم من طين ثم قضى اجلا واجل مسمى عنده ثم انتم تمترون",
+    "bengali": "তিনিই তোমাদেরকে সৃষ্টি করেছেন কাদা মাটি থেকে তারপর নির্ধারণ করেছেন একটি কাল, আর তাঁর কাছে আছে একটি নির্দিষ্ট কাল, তারপর তোমরা সন্দেহ কর।",
+    "urdu": "وہی تو ہے جس نے تم کو مٹی سے پیدا کیا پھر (مرنے کا) ایک وقت مقرر کر دیا اور ایک مدت اس کے ہاں اور مقرر ہے پھر بھی تم (اے کافرو خدا کے بارے میں) شک کرتے ہو"
+}

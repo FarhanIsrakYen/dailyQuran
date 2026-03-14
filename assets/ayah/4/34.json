@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 34,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/4_34.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/004034.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/4_34.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/004034.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/4_34.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/004034.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/4_34.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/004034.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/4_34.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/004034.mp3"
+        }
+    },
+    "english": "Men are the caretakers of women, as men have been provisioned by Allah over women and tasked with supporting them financially. And righteous women are devoutly obedient and, when alone, protective of what Allah has entrusted them with. And if you sense ill-conduct from your women, advise them ˹first˺, ˹if they persist,˺ do not share their beds, ˹but if they still persist,˺ then discipline them ˹gently˺. But if they change their ways, do not be unjust to them. Surely Allah is Most High, All-Great.",
+    "arabic1": "ٱلرِّجَالُ قَوَّٰمُونَ عَلَى ٱلنِّسَآءِ بِمَا فَضَّلَ ٱللَّهُ بَعْضَهُمْ عَلَىٰ بَعْضٍ وَبِمَآ أَنفَقُوا۟ مِنْ أَمْوَٰلِهِمْ ۚ فَٱلصَّـٰلِحَـٰتُ قَـٰنِتَـٰتٌ حَـٰفِظَـٰتٌ لِّلْغَيْبِ بِمَا حَفِظَ ٱللَّهُ ۚ وَٱلَّـٰتِى تَخَافُونَ نُشُوزَهُنَّ فَعِظُوهُنَّ وَٱهْجُرُوهُنَّ فِى ٱلْمَضَاجِعِ وَٱضْرِبُوهُنَّ ۖ فَإِنْ أَطَعْنَكُمْ فَلَا تَبْغُوا۟ عَلَيْهِنَّ سَبِيلًا ۗ إِنَّ ٱللَّهَ كَانَ عَلِيًّا كَبِيرًا",
+    "arabic2": "الرجال قوامون على النساء بما فضل الله بعضهم على بعض وبما انفقوا من اموالهم فالصالحات قانتات حافظات للغيب بما حفظ الله واللاتي تخافون نشوزهن فعظوهن واهجروهن في المضاجع واضربوهن فان اطعنكم فلا تبغوا عليهن سبيلا ان الله كان عليا كبيرا",
+    "bengali": "পুরুষরা নারীদের তত্ত্বাবধায়ক, এ কারণে যে, আল্লাহ তাদের একের উপর অন্যকে শ্রেষ্ঠত্ব দিয়েছেন এবং যেহেতু তারা নিজদের সম্পদ থেকে ব্যয় করে। সুতরাং পুণ্যবতী নারীরা অনুগত, তারা লোকচক্ষুর অন্তরালে হিফাযাতকারিনী ঐ বিষয়ের যা আল্লাহ হিফাযাত করেছেনে। আর তোমরা যাদের অবাধ্যতার আশঙ্কা কর তাদেরকে সদুপদেশ দাও, বিছানায় তাদেরকে ত্যাগ কর এবং তাদেরকে (মৃদু) প্রহার কর। এরপর যদি তারা তোমাদের আনুগত্য করে তাহলে তাদের বিরুদ্ধে কোন পথ অনুসন্ধান করো না। নিশ্চয় আল্লাহ সমুন্নত মহান।",
+    "urdu": "مرد عورتوں پر مسلط وحاکم ہیں اس لئے کہ خدا نے بعض کو بعض سے افضل بنایا ہے اور اس لئے بھی کہ مرد اپنا مال خرچ کرتے ہیں تو جو نیک بیبیاں ہیں وہ مردوں کے حکم پر چلتی ہیں اور ان کے پیٹھ پیچھے خدا کی حفاظت میں (مال وآبرو کی) خبرداری کرتی ہیں اور جن عورتوں کی نسبت تمہیں معلوم ہو کہ سرکشی (اور بدخوئی) کرنے لگی ہیں تو (پہلے) ان کو (زبانی) سمجھاؤ (اگر نہ سمجھیں تو) پھر ان کے ساتھ سونا ترک کردو اگر اس پر بھی باز نہ آئیں تو زدوکوب کرو اور اگر فرمانبردار ہوجائیں تو پھر ان کو ایذا دینے کا کوئی بہانہ مت ڈھونڈو بےشک خدا سب سے اعلیٰ (اور) جلیل القدر ہے"
+}

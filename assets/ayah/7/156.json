@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 156,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/7_156.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/007156.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/7_156.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/007156.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/7_156.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/007156.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/7_156.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/007156.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/7_156.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/007156.mp3"
+        }
+    },
+    "english": "Ordain for us what is good in this life and the next. Indeed, we have turned to You ˹in repentance˺.” Allah replied, “I will inflict My torment on whoever I will. But My mercy encompasses everything. I will ordain mercy for those who shun evil, pay alms-tax, and believe in Our revelations.",
+    "arabic1": "۞ وَٱكْتُبْ لَنَا فِى هَـٰذِهِ ٱلدُّنْيَا حَسَنَةً وَفِى ٱلْـَٔاخِرَةِ إِنَّا هُدْنَآ إِلَيْكَ ۚ قَالَ عَذَابِىٓ أُصِيبُ بِهِۦ مَنْ أَشَآءُ ۖ وَرَحْمَتِى وَسِعَتْ كُلَّ شَىْءٍ ۚ فَسَأَكْتُبُهَا لِلَّذِينَ يَتَّقُونَ وَيُؤْتُونَ ٱلزَّكَوٰةَ وَٱلَّذِينَ هُم بِـَٔايَـٰتِنَا يُؤْمِنُونَ",
+    "arabic2": "واكتب لنا في هذه الدنيا حسنة وفي الاخرة انا هدنا اليك قال عذابي اصيب به من اشاء ورحمتي وسعت كل شيء فساكتبها للذين يتقون ويؤتون الزكاة والذين هم باياتنا يؤمنون",
+    "bengali": "আর আমাদের জন্য এ দুনিয়াতে ও আখিরাতে কল্যাণ লিখে দিন। নিশ্চয় আমরা আপনার দিকে প্রত্যাবর্তন করেছি।’ তিনি বললেন, ‘আমি যাকে চাই তাকে আমার আযাব দেই। আর আমার রহমত সব বস্তুকে পরিব্যাপ্ত করেছে। সুতরাং আমি তা লিখে দেব তাদের জন্য যারা তাকওয়া অবলম্বন করে এবং যাকাত প্রদান করে। আর যারা আমার আয়াতসমূহের প্রতি ঈমান আনে।",
+    "urdu": "اور ہمارے لیے اس دنیا میں بھی بھلائی لکھ دے اور آخرت میں بھی۔ ہم تیری طرف رجوع ہوچکے۔ فرمایا کہ جو میرا عذاب ہے اسے تو جس پر چاہتا ہوں نازل کرتا ہوں اور جو میری رحمت ہے وہ ہر چیز کو شامل ہے۔ میں اس کو ان لوگوں کے لیے لکھ دوں گا جو پرہیزگاری کرتے اور زکوٰة دیتے اور ہماری آیتوں پر ایمان رکھتے ہیں"
+}

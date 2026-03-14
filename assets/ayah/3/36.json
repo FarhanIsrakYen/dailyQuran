@@ -1,0 +1,42 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 36,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/3_36.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/003036.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/3_36.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/003036.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/3_36.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/003036.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/3_36.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/003036.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/3_36.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/003036.mp3"
+        }
+    },
+    "english": "When she delivered, she said, “My Lord! I have given birth to a girl,”—and Allah fully knew what she had delivered—“and the male is not like the female. I have named her Mary, and I seek Your protection for her and her offspring from Satan, the accursed.”",
+    "arabic1": "فَلَمَّا وَضَعَتْهَا قَالَتْ رَبِّ إِنِّى وَضَعْتُهَآ أُنثَىٰ وَٱللَّهُ أَعْلَمُ بِمَا وَضَعَتْ وَلَيْسَ ٱلذَّكَرُ كَٱلْأُنثَىٰ ۖ وَإِنِّى سَمَّيْتُهَا مَرْيَمَ وَإِنِّىٓ أُعِيذُهَا بِكَ وَذُرِّيَّتَهَا مِنَ ٱلشَّيْطَـٰنِ ٱلرَّجِيمِ",
+    "arabic2": "فلما وضعتها قالت رب اني وضعتها انثى والله اعلم بما وضعت وليس الذكر كالانثى واني سميتها مريم واني اعيذها بك وذريتها من الشيطان الرجيم",
+    "bengali": "অতঃপর সে যখন তা প্রসব করল, বলল, ‘হে আমার রব, নিশ্চয় আমি তা প্রসব করেছি কন্যারূপে’। আর আল্লাহই ভাল জানেন সে যা প্রসব করেছে তা সম্পর্কে। ‘আর পুত্র সন্তান কন্যা সন্তানের মত নয় এবং নিশ্চয় আমি তার নাম রেখেছি মারইয়াম। আর নিশ্চয় আমি তাকে ও তার সন্তানদেরকে বিতাড়িত শয়তান থেকে আপনার আশ্রয় দিচ্ছি’।",
+    "urdu": "جب ان کے ہاں بچہ پیدا ہوا اور جو کچھ ان کے ہاں پیدا ہوا تھا خدا کو خوب معلوم تھا تو کہنے لگیں کہ پروردگار! میرے تو لڑکی ہوئی ہے اور (نذر کے لیے) لڑکا (موزوں تھا کہ وہ) لڑکی کی طرح (ناتواں) نہیں ہوتا اور میں نے اس کا نام مریم رکھا ہے اور میں اس کو اور اس کی اولاد کو شیطان مردود سے تیری پناہ میں دیتی ہوں"
+}

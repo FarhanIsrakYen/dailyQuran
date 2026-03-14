@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Ankaboot",
+    "surahNameArabic": "العنكبوت",
+    "surahNameArabicLong": "سورة العنكبوت",
+    "surahNameTranslation": "The Spider",
+    "revelationPlace": "Mecca",
+    "totalAyah": 69,
+    "surahNo": 29,
+    "ayahNo": 31,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/29_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/029031.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/29_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/029031.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/29_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/029031.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/29_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/029031.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/29_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/029031.mp3"
+        }
+    },
+    "english": "When Our messenger-angels came to Abraham with the good news ˹of the birth of Isaac˺, they said, “We are going to destroy the people of this city ˹of Sodom˺, for its people have persisted in wrongdoing.”",
+    "arabic1": "وَلَمَّا جَآءَتْ رُسُلُنَآ إِبْرَٰهِيمَ بِٱلْبُشْرَىٰ قَالُوٓا۟ إِنَّا مُهْلِكُوٓا۟ أَهْلِ هَـٰذِهِ ٱلْقَرْيَةِ ۖ إِنَّ أَهْلَهَا كَانُوا۟ ظَـٰلِمِينَ",
+    "arabic2": "ولما جاءت رسلنا ابراهيم بالبشرى قالوا انا مهلكو اهل هذه القرية ان اهلها كانوا ظالمين",
+    "bengali": "আর আমার ফেরেশতারা যখন ইবরাহীমের কাছে সুসংবাদ নিয়ে এসেছিল তখন তারা বলেছিল, ‘নিশ্চয় আমরা এ জনপদের অধিবাসীদেরকে ধ্বংস করব, নিশ্চয় এর অধিবাসীরা যালিম’।",
+    "urdu": "اور جب ہمارے فرشتے ابراہیم کے پاس خوشی کی خبر لے کر آئے تو کہنے لگے کہ ہم اس بستی کے لوگوں کو ہلاک کر دینے والے ہیں کہ یہاں کے رہنے والے نافرمان ہیں"
+}

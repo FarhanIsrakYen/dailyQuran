@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Naba",
+    "surahNameArabic": "النبإ",
+    "surahNameArabicLong": "سورة النبأ",
+    "surahNameTranslation": "The Announcement",
+    "revelationPlace": "Mecca",
+    "totalAyah": 40,
+    "surahNo": 78,
+    "ayahNo": 30,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/78_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/078030.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/78_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/078030.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/78_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/078030.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/78_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/078030.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/78_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/078030.mp3"
+        }
+    },
+    "english": "˹So the deniers will be told,˺ “Taste ˹the punishment˺, for all you will get from Us is more torment.”",
+    "arabic1": "فَذُوقُوا۟ فَلَن نَّزِيدَكُمْ إِلَّا عَذَابًا",
+    "arabic2": "فذوقوا فلن نزيدكم الا عذابا",
+    "bengali": "সুতরাং তোমরা স্বাদ গ্রহণ কর। আর আমি তো কেবল তোমাদের আযাবই বৃদ্ধি করব।",
+    "urdu": "سو (اب) مزہ چکھو۔ ہم تم پر عذاب ہی بڑھاتے جائیں گے"
+}

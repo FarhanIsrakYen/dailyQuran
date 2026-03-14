@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nahl",
+    "surahNameArabic": "النحل",
+    "surahNameArabicLong": "سورة النحل",
+    "surahNameTranslation": "The Bee",
+    "revelationPlace": "Mecca",
+    "totalAyah": 128,
+    "surahNo": 16,
+    "ayahNo": 70,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/16_70.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/016070.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/16_70.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/016070.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/16_70.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/016070.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/16_70.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/016070.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/16_70.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/016070.mp3"
+        }
+    },
+    "english": "Allah has created you, and then causes you to die. And some of you are left to reach the most feeble stage of life so that they may know nothing after having known much. Indeed, Allah is All-Knowing, Most Capable.",
+    "arabic1": "وَٱللَّهُ خَلَقَكُمْ ثُمَّ يَتَوَفَّىٰكُمْ ۚ وَمِنكُم مَّن يُرَدُّ إِلَىٰٓ أَرْذَلِ ٱلْعُمُرِ لِكَىْ لَا يَعْلَمَ بَعْدَ عِلْمٍ شَيْـًٔا ۚ إِنَّ ٱللَّهَ عَلِيمٌ قَدِيرٌ",
+    "arabic2": "والله خلقكم ثم يتوفاكم ومنكم من يرد الى ارذل العمر لكي لا يعلم بعد علم شيئا ان الله عليم قدير",
+    "bengali": "আর আল্লাহ তোমাদের সৃষ্টি করেছেন, অতঃপর তিনি তোমাদের মৃত্যু ঘটাবেন। তোমাদের অনেকে এমনও আছে, যাকে একেবারে বৃদ্ধ বয়সে উপনীত করা হয়, যাতে সে জ্ঞান লাভের পরেও সবকিছু অজানা হয়ে যায়। আল্লাহ সর্বজ্ঞ, সর্বশক্তিমান।",
+    "urdu": "اور خدا ہی نے تم کو پیدا کیا۔ پھر وہی تم کو موت دیتا ہے اور تم میں بعض ایسے ہوتے ہیں کہ نہایت خراب عمر کو پہنچ جاتے ہیں اور (بہت کچھ) جاننے کے بعد ہر چیز سے بےعلم ہوجاتے ہیں۔ بےشک خدا (سب کچھ) جاننے والا (اور) قدرت والا ہے"
+}

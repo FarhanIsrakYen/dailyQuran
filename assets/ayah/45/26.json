@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Jaathiya",
+    "surahNameArabic": "الجاثية",
+    "surahNameArabicLong": "سورة الجاثية",
+    "surahNameTranslation": "Crouching",
+    "revelationPlace": "Mecca",
+    "totalAyah": 37,
+    "surahNo": 45,
+    "ayahNo": 26,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/45_26.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/045026.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/45_26.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/045026.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/45_26.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/045026.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/45_26.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/045026.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/45_26.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/045026.mp3"
+        }
+    },
+    "english": "Say, ˹O Prophet,˺ “˹It is˺ Allah ˹Who˺ gives you life, then causes you to die, then will gather you ˹all˺ on the Day of Judgment, about which there is no doubt. But most people do not know.”",
+    "arabic1": "قُلِ ٱللَّهُ يُحْيِيكُمْ ثُمَّ يُمِيتُكُمْ ثُمَّ يَجْمَعُكُمْ إِلَىٰ يَوْمِ ٱلْقِيَـٰمَةِ لَا رَيْبَ فِيهِ وَلَـٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ",
+    "arabic2": "قل الله يحييكم ثم يميتكم ثم يجمعكم الى يوم القيامة لا ريب فيه ولكن اكثر الناس لا يعلمون",
+    "bengali": "বল, ‘আল্লাহই তোমাদের জীবন দেন তারপর তোমাদের মৃত্যু ঘটান। তারপর তিনি তোমাদেরকে কিয়ামতের দিনে একত্র করবেন, যাতে কোন সন্দেহ নেই; কিন্তু অধিকাংশ লোকই জানে না।",
+    "urdu": "کہہ دو کہ خدا ہی تم کو جان بخشتا ہے پھر (وہی) تم کو موت دیتا ہے پھر تم کو قیامت کے روز جس (کے آنے) میں کچھ شک نہیں تم کو جمع کرے گا لیکن بہت سے لوگ نہیں جانتے"
+}

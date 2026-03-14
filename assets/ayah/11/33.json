@@ -1,0 +1,42 @@
+{
+    "surahName": "Hud",
+    "surahNameArabic": "هود",
+    "surahNameArabicLong": "سورة هود",
+    "surahNameTranslation": "Hud",
+    "revelationPlace": "Mecca",
+    "totalAyah": 123,
+    "surahNo": 11,
+    "ayahNo": 33,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/11_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/011033.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/11_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/011033.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/11_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/011033.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/11_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/011033.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/11_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/011033.mp3"
+        }
+    },
+    "english": "He responded, “It is Allah Who can bring it upon you if He wills, and then you will have no escape!",
+    "arabic1": "قَالَ إِنَّمَا يَأْتِيكُم بِهِ ٱللَّهُ إِن شَآءَ وَمَآ أَنتُم بِمُعْجِزِينَ",
+    "arabic2": "قال انما ياتيكم به الله ان شاء وما انتم بمعجزين",
+    "bengali": "সে বলল, ‘আল্লাহই তো তোমাদের কাছে তা হাজির করবেন, যদি তিনি চান। আর তোমরা তাকে অক্ষম করতে পারবে না’।",
+    "urdu": "نوح نے کہا کہ اس کو خدا ہی چاہے گا تو نازل کرے گا۔ اور تم (اُس کو کسی طرح) ہرا نہیں سکتے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 53,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/9_53.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/009053.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/9_53.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/009053.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/9_53.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/009053.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/9_53.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/009053.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/9_53.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/009053.mp3"
+        }
+    },
+    "english": "Say, ˹O Prophet,˺ “˹Whether you˺ donate willingly or unwillingly, it will never be accepted from you, for you have been a rebellious people.”",
+    "arabic1": "قُلْ أَنفِقُوا۟ طَوْعًا أَوْ كَرْهًا لَّن يُتَقَبَّلَ مِنكُمْ ۖ إِنَّكُمْ كُنتُمْ قَوْمًا فَـٰسِقِينَ",
+    "arabic2": "قل انفقوا طوعا او كرها لن يتقبل منكم انكم كنتم قوما فاسقين",
+    "bengali": "বল, ‘তোমরা খুশি হয়ে দান কর অথবা বাধ্য হয়ে, তোমাদের থেকে তা কখনো গ্রহণ করা হবে না। নিশ্চয় তোমরা হচ্ছ ফাসিক কওম।",
+    "urdu": "کہہ دو کہ تم (مال) خوشی سے خرچ کرو یا ناخوشی سے تم سے ہرگز قبول نہیں کیا جائے گا تم نافرمان لوگ ہو"
+}

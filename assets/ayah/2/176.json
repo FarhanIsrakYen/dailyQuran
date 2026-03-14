@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 176,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_176.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002176.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_176.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002176.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_176.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002176.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_176.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002176.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_176.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002176.mp3"
+        }
+    },
+    "english": "That is because Allah has revealed the Book in truth. And surely those who differ regarding it are totally engrossed in opposition.",
+    "arabic1": "ذَٰلِكَ بِأَنَّ ٱللَّهَ نَزَّلَ ٱلْكِتَـٰبَ بِٱلْحَقِّ ۗ وَإِنَّ ٱلَّذِينَ ٱخْتَلَفُوا۟ فِى ٱلْكِتَـٰبِ لَفِى شِقَاقٍۭ بَعِيدٍ",
+    "arabic2": "ذلك بان الله نزل الكتاب بالحق وان الذين اختلفوا في الكتاب لفي شقاق بعيد",
+    "bengali": "তা এই কারণে যে, আল্লাহ যথার্থরূপে কিতাব নাযিল করেছেন। আর নিশ্চয় যারা কিতাবে মতবিরোধ করেছে, তারা অবশ্যই সুদূর মতানৈক্যে রয়েছে।",
+    "urdu": "یہ اس لئے کہ خدا نے کتاب سچائی کے ساتھ نازل فرمائی۔ اور جن لوگوں نے اس کتاب میں اختلاف کیا وہ ضد میں (آکر نیکی سے) دور (ہوگئے) ہیں"
+}

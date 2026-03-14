@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 133,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/6_133.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/006133.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/6_133.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/006133.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/6_133.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/006133.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/6_133.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/006133.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/6_133.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/006133.mp3"
+        }
+    },
+    "english": "Your Lord is the Self-Sufficient, Full of Mercy. If He wills, He can do away with you and replace you with whoever He wills, just as He produced you from the offspring of other people.",
+    "arabic1": "وَرَبُّكَ ٱلْغَنِىُّ ذُو ٱلرَّحْمَةِ ۚ إِن يَشَأْ يُذْهِبْكُمْ وَيَسْتَخْلِفْ مِنۢ بَعْدِكُم مَّا يَشَآءُ كَمَآ أَنشَأَكُم مِّن ذُرِّيَّةِ قَوْمٍ ءَاخَرِينَ",
+    "arabic2": "وربك الغني ذو الرحمة ان يشا يذهبكم ويستخلف من بعدكم ما يشاء كما انشاكم من ذرية قوم اخرين",
+    "bengali": "আর তোমার রব অমুখাপেক্ষী, দয়ালু। যদি তিনি চান, তোমাদেরকে সরিয়ে নেবেন এবং তোমাদের পরে যা ইচ্ছে স্থলাভিষিক্ত করবেন, যেমন তিনি তোমাদেরকে অন্য কওমের বংশ থেকে সৃষ্টি করেছেন।",
+    "urdu": "اور تمہارا پروردگار بےپروا (اور) صاحب رحمت ہے اگر چاہے (تو اے بندوں) تمہیں نابود کر دے اور تمہارے بعد جن لوگوں کو چاہے تمہارا جانشین بنا دے جیسا تم کو بھی دوسرے لوگوں کی نسل سے پیدا کیا ہے"
+}

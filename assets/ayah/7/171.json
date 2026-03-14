@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 171,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/7_171.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/007171.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/7_171.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/007171.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/7_171.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/007171.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/7_171.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/007171.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/7_171.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/007171.mp3"
+        }
+    },
+    "english": "And ˹remember˺ when We raised the mountain over them as if it were a cloud and they thought it would fall on them. ˹We said,˺ “Hold firmly to that ˹Scripture˺ which We have given you and observe its teachings so perhaps you will become mindful ˹of Allah˺.”",
+    "arabic1": "۞ وَإِذْ نَتَقْنَا ٱلْجَبَلَ فَوْقَهُمْ كَأَنَّهُۥ ظُلَّةٌ وَظَنُّوٓا۟ أَنَّهُۥ وَاقِعٌۢ بِهِمْ خُذُوا۟ مَآ ءَاتَيْنَـٰكُم بِقُوَّةٍ وَٱذْكُرُوا۟ مَا فِيهِ لَعَلَّكُمْ تَتَّقُونَ",
+    "arabic2": "واذ نتقنا الجبل فوقهم كانه ظلة وظنوا انه واقع بهم خذوا ما اتيناكم بقوة واذكروا ما فيه لعلكم تتقون",
+    "bengali": "আর স্মরণ কর, যখন আমি তাদের উপর পাহাড় তুলে ধরলাম, যেন তা একখন্ড মেঘ এবং তারা মনে করল যে, নিশ্চয় তা তাদের উপর পড়বে। ‘আমি তোমাদের যা দিয়েছি, তা শক্তভাবে ধর এবং তাতে যা আছে তা স্মরণ কর, যেন তোমরা তাকওয়া অবলম্বন করতে পার।’",
+    "urdu": "اور جب ہم نے ان (کے سروں) پر پہاڑ اٹھا کھڑا کیا گویا وہ سائبان تھا اور انہوں نے خیال کیا کہ وہ ان پر گرتا ہے تو (ہم نے کہا کہ) جو ہم نے تمہیں دیا ہے اسے زور سے پکڑے رہو۔ اور جو اس میں لکھا ہے اس پر عمل کرو تاکہ بچ جاؤ"
+}

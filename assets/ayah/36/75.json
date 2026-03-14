@@ -1,0 +1,42 @@
+{
+    "surahName": "Yaseen",
+    "surahNameArabic": "يس",
+    "surahNameArabicLong": "سورة يس",
+    "surahNameTranslation": "Yaseen",
+    "revelationPlace": "Mecca",
+    "totalAyah": 83,
+    "surahNo": 36,
+    "ayahNo": 75,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/36_75.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/036075.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/36_75.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/036075.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/36_75.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/036075.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/36_75.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/036075.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/36_75.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/036075.mp3"
+        }
+    },
+    "english": "They cannot help the pagans, even though they serve the idols as dedicated guards.",
+    "arabic1": "لَا يَسْتَطِيعُونَ نَصْرَهُمْ وَهُمْ لَهُمْ جُندٌ مُّحْضَرُونَ",
+    "arabic2": "لا يستطيعون نصرهم وهم لهم جند محضرون",
+    "bengali": "এরা তাদের কোন সাহায্য করতে সক্ষম হবে না, বরং এগুলোকে তাদের বিরুদ্ধে বাহিনীরূপে হাযির করা হবে।",
+    "urdu": "(مگر) وہ ان کی مدد کی (ہرگز) طاقت نہیں رکھتے۔ اور وہ ان کی فوج ہو کر حاضر کیے جائیں گے"
+}

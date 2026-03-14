@@ -1,0 +1,42 @@
+{
+    "surahName": "Maryam",
+    "surahNameArabic": "مريم",
+    "surahNameArabicLong": "سورة مريم",
+    "surahNameTranslation": "Mary",
+    "revelationPlace": "Mecca",
+    "totalAyah": 98,
+    "surahNo": 19,
+    "ayahNo": 31,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/19_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/019031.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/19_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/019031.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/19_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/019031.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/19_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/019031.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/19_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/019031.mp3"
+        }
+    },
+    "english": "He has made me a blessing wherever I go, and bid me to establish prayer and give alms-tax as long as I live",
+    "arabic1": "وَجَعَلَنِى مُبَارَكًا أَيْنَ مَا كُنتُ وَأَوْصَـٰنِى بِٱلصَّلَوٰةِ وَٱلزَّكَوٰةِ مَا دُمْتُ حَيًّا",
+    "arabic2": "وجعلني مباركا اين ما كنت واوصاني بالصلاة والزكاة ما دمت حيا",
+    "bengali": "‘আর যেখানেই আমি থাকি না কেন তিনি আমাকে বরকতময় করেছেন এবং যতদিন আমি জীবিত থাকি তিনি আমাকে সালাত ও যাকাত আদায় করতে আদেশ করেছেন’।",
+    "urdu": "اور میں جہاں ہوں (اور جس حال میں ہوں) مجھے صاحب برکت کیا ہے اور جب تک زندہ ہوں مجھ کو نماز اور زکوٰة کا ارشاد فرمایا ہے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 18,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/7_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/007018.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/7_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/007018.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/7_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/007018.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/7_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/007018.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/7_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/007018.mp3"
+        }
+    },
+    "english": "Allah said, “Get out of Paradise! You are disgraced and rejected! I will certainly fill up Hell with you and your followers all together.”",
+    "arabic1": "قَالَ ٱخْرُجْ مِنْهَا مَذْءُومًا مَّدْحُورًا ۖ لَّمَن تَبِعَكَ مِنْهُمْ لَأَمْلَأَنَّ جَهَنَّمَ مِنكُمْ أَجْمَعِينَ",
+    "arabic2": "قال اخرج منها مذءوما مدحورا لمن تبعك منهم لاملان جهنم منكم اجمعين",
+    "bengali": "তিনি বললেন, ‘তুমি এখান থেকে বের হও লাঞ্ছিত বিতাড়িত অবস্থায়। অবশ্যই তাদের মধ্য থেকে যে তোমার অনুসরণ করবে, আমি তোমাদের সবাইকে দিয়ে জাহান্নাম ভরে দেবই’।",
+    "urdu": "(خدا نے) فرمایا، نکل جا۔ یہاں سے پاجی۔ مردود جو لوگ ان میں سے تیری پیروی کریں گے میں (ان کو اور تجھ کو جہنم میں ڈال کر) تم سب سے جہنم کو بھر دوں گا"
+}

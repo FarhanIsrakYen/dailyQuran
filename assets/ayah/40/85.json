@@ -1,0 +1,42 @@
+{
+    "surahName": "Ghafir",
+    "surahNameArabic": "غافر",
+    "surahNameArabicLong": "سورة غافر",
+    "surahNameTranslation": "The Forgiver",
+    "revelationPlace": "Mecca",
+    "totalAyah": 85,
+    "surahNo": 40,
+    "ayahNo": 85,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/40_85.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/040085.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/40_85.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/040085.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/40_85.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/040085.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/40_85.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/040085.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/40_85.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/040085.mp3"
+        }
+    },
+    "english": "But their faith was of no benefit to them when they saw Our torment. This has ˹always˺ been Allah’s way ˹of dealing˺ with His ˹wicked˺ servants. Then and there the disbelievers were in ˹total˺ loss.",
+    "arabic1": "فَلَمْ يَكُ يَنفَعُهُمْ إِيمَـٰنُهُمْ لَمَّا رَأَوْا۟ بَأْسَنَا ۖ سُنَّتَ ٱللَّهِ ٱلَّتِى قَدْ خَلَتْ فِى عِبَادِهِۦ ۖ وَخَسِرَ هُنَالِكَ ٱلْكَـٰفِرُونَ",
+    "arabic2": "فلم يك ينفعهم ايمانهم لما راوا باسنا سنت الله التي قد خلت في عباده وخسر هنالك الكافرون",
+    "bengali": "সুতরাং তারা যখন আমার আযাব দেখল তখন তাদের ঈমান তাদের কোন উপকার করল না। এটা আল্লাহর বিধান, তাঁর বান্দাদের মধ্যে চলে আসছে। আর তখনই কাফিররা ক্ষতিগ্রস্ত হয়েছে।",
+    "urdu": "لیکن جب وہ ہمارا عذاب دیکھ چکے (اس وقت) ان کے ایمان نے ان کو کچھ بھی فائدہ نہ دیا۔ (یہ) خدا کی عادت (ہے) جو اس کے بندوں (کے بارے) میں چلی آتی ہے۔ اور وہاں کافر گھاٹے میں پڑ گئے"
+}

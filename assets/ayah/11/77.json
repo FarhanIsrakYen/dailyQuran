@@ -1,0 +1,42 @@
+{
+    "surahName": "Hud",
+    "surahNameArabic": "هود",
+    "surahNameArabicLong": "سورة هود",
+    "surahNameTranslation": "Hud",
+    "revelationPlace": "Mecca",
+    "totalAyah": 123,
+    "surahNo": 11,
+    "ayahNo": 77,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/11_77.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/011077.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/11_77.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/011077.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/11_77.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/011077.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/11_77.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/011077.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/11_77.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/011077.mp3"
+        }
+    },
+    "english": "When Our messenger-angels came to Lot, he was distressed and worried by their arrival. He said, “This is a terrible day.”",
+    "arabic1": "وَلَمَّا جَآءَتْ رُسُلُنَا لُوطًا سِىٓءَ بِهِمْ وَضَاقَ بِهِمْ ذَرْعًا وَقَالَ هَـٰذَا يَوْمٌ عَصِيبٌ",
+    "arabic2": "ولما جاءت رسلنا لوطا سيء بهم وضاق بهم ذرعا وقال هذا يوم عصيب",
+    "bengali": "আর যখন লূতের কাছে আমার ফেরেশতা আসল, তখন তাদের (আগমনের) কারণে তার অস্বস্তিবোধ হল এবং তার অন্তর খুব সঙ্কুচিত হয়ে গেল। আর সে বলল, ‘এ তো কঠিন দিন’।",
+    "urdu": "اور جب ہمارے فرشتے لوط کے پاس آئے تو وہ ان (کے آنے) سے غمناک اور تنگ دل ہوئے اور کہنے لگے کہ آج کا دن بڑی مشکل کا دن ہے"
+}

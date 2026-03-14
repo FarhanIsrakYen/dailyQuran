@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 57,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/6_57.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/006057.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/6_57.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/006057.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/6_57.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/006057.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/6_57.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/006057.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/6_57.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/006057.mp3"
+        }
+    },
+    "english": "Say, ˹O Prophet,˺ “Indeed, I stand on a clear proof from my Lord—yet you have denied it. That ˹torment˺ you seek to hasten is not within my power. It is only Allah Who decides ˹its time˺. He declares the truth. And He is the Best of Judges.”",
+    "arabic1": "قُلْ إِنِّى عَلَىٰ بَيِّنَةٍ مِّن رَّبِّى وَكَذَّبْتُم بِهِۦ ۚ مَا عِندِى مَا تَسْتَعْجِلُونَ بِهِۦٓ ۚ إِنِ ٱلْحُكْمُ إِلَّا لِلَّهِ ۖ يَقُصُّ ٱلْحَقَّ ۖ وَهُوَ خَيْرُ ٱلْفَـٰصِلِينَ",
+    "arabic2": "قل اني على بينة من ربي وكذبتم به ما عندي ما تستعجلون به ان الحكم الا لله يقص الحق وهو خير الفاصلين",
+    "bengali": "বল, ‘নিশ্চয় আমি আমার রবের পক্ষ থেকে স্পষ্ট প্রমাণের উপর রয়েছি আর তোমরা তা অস্বীকার করছ। তোমরা যা নিয়ে তাড়াহুড়া করছ তা আমার কাছে নেই। হুকুম কেবল আল্লাহর কাছে। তিনি সত্য বর্ণনা করেন এবং তিনি সর্বোত্তম ফয়সালাকারী’।",
+    "urdu": "کہہ دو کہ میں تو اپنے پروردگار کی دلیل روشن پر ہوں اور تم اس کی تکذیب کرتے ہو۔ جس چیز (یعنی عذاب) کے لئے تم جلدی کر رہے ہو وہ میرے پاس نہیں ہے (ایسا) حکم الله ہی کے اختیار میں ہے وہ سچی بات بیان فرماتا ہے اور وہ سب سے بہتر فیصلہ کرنے والا ہے"
+}

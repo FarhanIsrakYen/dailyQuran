@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Fath",
+    "surahNameArabic": "الفتح",
+    "surahNameArabicLong": "سورة الفتح",
+    "surahNameTranslation": "The Victory",
+    "revelationPlace": "Madina",
+    "totalAyah": 29,
+    "surahNo": 48,
+    "ayahNo": 21,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/48_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/048021.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/48_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/048021.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/48_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/048021.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/48_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/048021.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/48_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/048021.mp3"
+        }
+    },
+    "english": "And ˹there are˺ other gains which are beyond your reach that Allah is keeping in store ˹for you˺. For Allah is Most Capable of everything.",
+    "arabic1": "وَأُخْرَىٰ لَمْ تَقْدِرُوا۟ عَلَيْهَا قَدْ أَحَاطَ ٱللَّهُ بِهَا ۚ وَكَانَ ٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ قَدِيرًا",
+    "arabic2": "واخرى لم تقدروا عليها قد احاط الله بها وكان الله على كل شيء قديرا",
+    "bengali": "আর আরেকটি এখনো তোমরা যা অর্জন করতে সক্ষম হওনি। কিন্তু আল্লাহ তা বেষ্টন করে রেখেছেন। আর আল্লাহ সব কিছুর উপর ক্ষমতাবান।",
+    "urdu": "اور اَور (غنیمتیں دیں) جن پر تم قدرت نہیں رکھتے تھے (اور) وہ خدا ہی کی قدرت میں تھیں۔ اور خدا ہر چیز پر قادر ہے"
+}

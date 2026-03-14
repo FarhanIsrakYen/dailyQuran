@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 88,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_88.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002088.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_88.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002088.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_88.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002088.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_88.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002088.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_88.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002088.mp3"
+        }
+    },
+    "english": "They say, “Our hearts are unreceptive!” In fact, Allah has condemned them for their disbelief. They have but little faith.",
+    "arabic1": "وَقَالُوا۟ قُلُوبُنَا غُلْفٌۢ ۚ بَل لَّعَنَهُمُ ٱللَّهُ بِكُفْرِهِمْ فَقَلِيلًا مَّا يُؤْمِنُونَ",
+    "arabic2": "وقالوا قلوبنا غلف بل لعنهم الله بكفرهم فقليلا ما يؤمنون",
+    "bengali": "আর তারা বলল, আমাদের অন্তরসমূহ আচ্ছাদিত; বরং তাদের কুফরীর কারণে আল্লাহ তাদেরকে লা‘নত করেছেন। অতঃপর তারা খুব কমই ঈমান আনে।",
+    "urdu": "اور کہتے ہیں، ہمارے دل پردے میں ہیں۔ (نہیں) بلکہ الله نے ان کے کفر کے سبب ان پر لعنت کر رکھی ہے۔ پس یہ تھوڑے ہی پر ایمان لاتے ہیں"
+}

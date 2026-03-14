@@ -1,0 +1,42 @@
+{
+    "surahName": "Ibrahim",
+    "surahNameArabic": "ابراهيم",
+    "surahNameArabicLong": "سورة ابراهيم",
+    "surahNameTranslation": "Abraham",
+    "revelationPlace": "Mecca",
+    "totalAyah": 52,
+    "surahNo": 14,
+    "ayahNo": 18,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/14_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/014018.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/14_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/014018.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/14_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/014018.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/14_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/014018.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/14_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/014018.mp3"
+        }
+    },
+    "english": "The parable of the deeds of those who disbelieve in their Lord is that of ashes fiercely blown away by wind on a stormy day. They will gain nothing from what they have earned. That is ˹truly˺ the farthest one can stray.",
+    "arabic1": "مَّثَلُ ٱلَّذِينَ كَفَرُوا۟ بِرَبِّهِمْ ۖ أَعْمَـٰلُهُمْ كَرَمَادٍ ٱشْتَدَّتْ بِهِ ٱلرِّيحُ فِى يَوْمٍ عَاصِفٍ ۖ لَّا يَقْدِرُونَ مِمَّا كَسَبُوا۟ عَلَىٰ شَىْءٍ ۚ ذَٰلِكَ هُوَ ٱلضَّلَـٰلُ ٱلْبَعِيدُ",
+    "arabic2": "مثل الذين كفروا بربهم اعمالهم كرماد اشتدت به الريح في يوم عاصف لا يقدرون مما كسبوا على شيء ذلك هو الضلال البعيد",
+    "bengali": "যারা তাদের রবের সাথে কুফরী করে তাদের আমলসমূহের দৃষ্টান্ত হল এমন ছাইয়ের মত, প্রবল ঘুর্ণিঝড়ের দিনে বাতাস প্রচন্ড বেগে যা বহন করে নিয়ে যায়। তারা যা অর্জন করেছে, তার মাধ্যমে কিছুই করতে পারে না। এ তো ঘোরতর বিভ্রান্তি।",
+    "urdu": "جن لوگوں نے اپنے پروردگار سے کفر کیا ان کے اعمال کی مثال راکھ کی سی ہے کہ آندھی کے دن اس پر زور کی ہوا چلے (اور) اسے اڑا لے جائے (اس طرح) جو کام وہ کرتے رہے ان پر ان کو کچھ دسترس نہ ہوگی۔ یہی تو پرلے سرے کی گمراہی ہے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Yusuf",
+    "surahNameArabic": "يوسف",
+    "surahNameArabicLong": "سورة يوسف",
+    "surahNameTranslation": "Joseph",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 12,
+    "ayahNo": 41,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/12_41.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/012041.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/12_41.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/012041.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/12_41.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/012041.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/12_41.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/012041.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/12_41.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/012041.mp3"
+        }
+    },
+    "english": "“O my fellow-prisoners! ˹The first˺ one of you will serve wine to his master, and the other will be crucified and the birds will eat from his head. The matter about which you inquired has been decided.”",
+    "arabic1": "يَـٰصَـٰحِبَىِ ٱلسِّجْنِ أَمَّآ أَحَدُكُمَا فَيَسْقِى رَبَّهُۥ خَمْرًا ۖ وَأَمَّا ٱلْـَٔاخَرُ فَيُصْلَبُ فَتَأْكُلُ ٱلطَّيْرُ مِن رَّأْسِهِۦ ۚ قُضِىَ ٱلْأَمْرُ ٱلَّذِى فِيهِ تَسْتَفْتِيَانِ",
+    "arabic2": "يا صاحبي السجن اما احدكما فيسقي ربه خمرا واما الاخر فيصلب فتاكل الطير من راسه قضي الامر الذي فيه تستفتيان",
+    "bengali": "‘হে আমার কারা সঙ্গীদ্বয়, তোমাদের একজন স্বীয় মনিবকে মদপান করাবে। আর অন্যজনকে শূলে চড়ানো হবে, অতঃপর পাখি তার মাথা থেকে আহার করবে। যে বিষয়ে তোমরা জানতে চাচ্ছ তার সিদ্ধান্ত হয়ে গিয়েছে।",
+    "urdu": "میرے جیل خانے کے رفیقو! تم میں سے ایک (جو پہلا خواب بیان کرنے والا ہے وہ) تو اپنے آقا کو شراب پلایا کرے گا اور جو دوسرا ہے وہ سولی دیا جائے گا اور جانور اس کا سر کھا جائیں گے۔ جو امر تم مجھ سے پوچھتے تھے وہ فیصلہ ہوچکا ہے"
+}

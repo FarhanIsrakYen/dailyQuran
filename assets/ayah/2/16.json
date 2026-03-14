@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 16,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002016.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002016.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002016.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002016.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002016.mp3"
+        }
+    },
+    "english": "They are the ones who trade guidance for misguidance. But this trade is profitless, and they are not ˹rightly˺ guided.",
+    "arabic1": "أُو۟لَـٰٓئِكَ ٱلَّذِينَ ٱشْتَرَوُا۟ ٱلضَّلَـٰلَةَ بِٱلْهُدَىٰ فَمَا رَبِحَت تِّجَـٰرَتُهُمْ وَمَا كَانُوا۟ مُهْتَدِينَ",
+    "arabic2": "اولئك الذين اشتروا الضلالة بالهدى فما ربحت تجارتهم وما كانوا مهتدين",
+    "bengali": "এরাই তারা, যারা হিদায়াতের বিনিময়ে পথভ্রষ্টতা ক্রয় করেছে। কিন্তু তাদের ব্যবসা লাভজনক হয়নি এবং তারা হিদায়াতপ্রাপ্ত ছিল না।",
+    "urdu": "یہ وہ لوگ ہیں جنہوں نے ہدایت چھوڑ کر گمراہی خریدی، تو نہ تو ان کی تجارت ہی نے کچھ نفع دیا اور نہ وہ ہدایت یاب ہی ہوئے"
+}

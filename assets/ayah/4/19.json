@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 19,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/4_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/004019.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/4_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/004019.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/4_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/004019.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/4_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/004019.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/4_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/004019.mp3"
+        }
+    },
+    "english": "O believers! It is not permissible for you to inherit women against their will or mistreat them to make them return some of the dowry ˹as a ransom for divorce˺—unless they are found guilty of adultery. Treat them fairly. If you happen to dislike them, you may hate something which Allah turns into a great blessing.",
+    "arabic1": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا يَحِلُّ لَكُمْ أَن تَرِثُوا۟ ٱلنِّسَآءَ كَرْهًا ۖ وَلَا تَعْضُلُوهُنَّ لِتَذْهَبُوا۟ بِبَعْضِ مَآ ءَاتَيْتُمُوهُنَّ إِلَّآ أَن يَأْتِينَ بِفَـٰحِشَةٍ مُّبَيِّنَةٍ ۚ وَعَاشِرُوهُنَّ بِٱلْمَعْرُوفِ ۚ فَإِن كَرِهْتُمُوهُنَّ فَعَسَىٰٓ أَن تَكْرَهُوا۟ شَيْـًٔا وَيَجْعَلَ ٱللَّهُ فِيهِ خَيْرًا كَثِيرًا",
+    "arabic2": "يا ايها الذين امنوا لا يحل لكم ان ترثوا النساء كرها ولا تعضلوهن لتذهبوا ببعض ما اتيتموهن الا ان ياتين بفاحشة مبينة وعاشروهن بالمعروف فان كرهتموهن فعسى ان تكرهوا شيئا ويجعل الله فيه خيرا كثيرا",
+    "bengali": "হে মুমিনগণ, তোমাদের জন্য হালাল নয় যে, তোমরা জোর করে নারীদের ওয়ারিছ হবে। আর তোমরা তাদেরকে আবদ্ধ করে রেখো না, তাদেরকে যা দিয়েছ তা থেকে তোমরা কিছু নিয়ে নেয়ার জন্য, তবে যদি তারা প্রকাশ্য অশ্লীলতায় লিপ্ত হয়। আর তোমরা তাদের সাথে সদ্ভাবে বসবাস কর। আর যদি তোমরা তাদেরকে অপছন্দ কর, তবে এমনও হতে পারে যে, তোমরা কোন কিছুকে অপছন্দ করছ আর আল্লাহ তাতে অনেক কল্যাণ রাখবেন।",
+    "urdu": "مومنو! تم کو جائز نہیں کہ زبردستی عورتوں کے وارث بن جاؤ۔ اور (دیکھنا) اس نیت سے کہ جو کچھ تم نے ان کو دیا ہے اس میں سے کچھ لے لو انہیں (گھروں میں) میں مت روک رکھنا ہاں اگر وہ کھلے طور پر بدکاری کی مرتکب ہوں (تو روکنا مناسب نہیں) اور ان کے ساتھ اچھی طرح رہو سہو اگر وہ تم کو ناپسند ہوں تو عجب نہیں کہ تم کسی چیز کو ناپسند کرو اور خدا اس میں بہت سی بھلائی پیدا کردے"
+}

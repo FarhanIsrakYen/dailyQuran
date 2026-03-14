@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Taghaabun",
+    "surahNameArabic": "التغابن",
+    "surahNameArabicLong": "سورة التغابن",
+    "surahNameTranslation": "Mutual Disillusion",
+    "revelationPlace": "Madina",
+    "totalAyah": 18,
+    "surahNo": 64,
+    "ayahNo": 8,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/64_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/064008.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/64_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/064008.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/64_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/064008.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/64_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/064008.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/64_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/064008.mp3"
+        }
+    },
+    "english": "So believe in Allah and His Messenger and in the Light We have revealed. And Allah is All-Aware of what you do.",
+    "arabic1": "فَـَٔامِنُوا۟ بِٱللَّهِ وَرَسُولِهِۦ وَٱلنُّورِ ٱلَّذِىٓ أَنزَلْنَا ۚ وَٱللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌ",
+    "arabic2": "فامنوا بالله ورسوله والنور الذي انزلنا والله بما تعملون خبير",
+    "bengali": "অতএব তোমরা আল্লাহ ও তাঁর রাসূলের এবং আমি যে নূর অবতীর্ণ করেছি তার প্রতি ঈমান আন। আর তোমরা যে আমল করছ আল্লাহ সে বিষয়ে সম্যক অবহিত।",
+    "urdu": "تو خدا پر اور اس کے رسول پر اور نور (قرآن) پر جو ہم نے نازل فرمایا ہے ایمان لاؤ۔ اور خدا تمہارے سب اعمال سے خبردار ہے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nahl",
+    "surahNameArabic": "النحل",
+    "surahNameArabicLong": "سورة النحل",
+    "surahNameTranslation": "The Bee",
+    "revelationPlace": "Mecca",
+    "totalAyah": 128,
+    "surahNo": 16,
+    "ayahNo": 56,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/16_56.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/016056.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/16_56.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/016056.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/16_56.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/016056.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/16_56.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/016056.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/16_56.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/016056.mp3"
+        }
+    },
+    "english": "And they ˹even˺ assign to those ˹idols˺—who know nothing—a share of what We have provided for them. By Allah! You will certainly be questioned about whatever ˹lies˺ you used to fabricate ˹against Allah˺.",
+    "arabic1": "وَيَجْعَلُونَ لِمَا لَا يَعْلَمُونَ نَصِيبًا مِّمَّا رَزَقْنَـٰهُمْ ۗ تَٱللَّهِ لَتُسْـَٔلُنَّ عَمَّا كُنتُمْ تَفْتَرُونَ",
+    "arabic2": "ويجعلون لما لا يعلمون نصيبا مما رزقناهم تالله لتسالن عما كنتم تفترون",
+    "bengali": "আর আমি তাদেরকে যে রিয্ক দিয়েছি, তার একটি অংশ তারা নির্ধারণ করে এমন সত্তার জন্য, যার ব্যাপারে তারা জানে না। আল্লাহর কসম! তোমাদেরকে অবশ্যই জিজ্ঞাসা করা হবে, তোমরা যে মিথ্যা রটাচ্ছ সে ব্যাপারে।",
+    "urdu": "اور ہمارے دیئے ہوئے مال میں سے ایسی چیزوں کا حصہ مقرر کرتے ہیں جن کو جانتے ہی نہیں۔ (کافرو) خدا کی قسم کہ جو تم افتراء کرتے ہو اس کی تم سے ضرور پرسش ہوگی"
+}

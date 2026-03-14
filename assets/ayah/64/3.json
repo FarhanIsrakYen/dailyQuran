@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Taghaabun",
+    "surahNameArabic": "التغابن",
+    "surahNameArabicLong": "سورة التغابن",
+    "surahNameTranslation": "Mutual Disillusion",
+    "revelationPlace": "Madina",
+    "totalAyah": 18,
+    "surahNo": 64,
+    "ayahNo": 3,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/64_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/064003.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/64_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/064003.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/64_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/064003.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/64_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/064003.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/64_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/064003.mp3"
+        }
+    },
+    "english": "He created the heavens and the earth for a purpose. He shaped you ˹in the womb˺, perfecting your form. And to Him is the final return.",
+    "arabic1": "خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ بِٱلْحَقِّ وَصَوَّرَكُمْ فَأَحْسَنَ صُوَرَكُمْ ۖ وَإِلَيْهِ ٱلْمَصِيرُ",
+    "arabic2": "خلق السماوات والارض بالحق وصوركم فاحسن صوركم واليه المصير",
+    "bengali": "তিনি আসমানসমূহ ও যমীনকে যথার্থভাবে সৃষ্টি করেছেন এবং তোমাদেরকে আকৃতি দান করেছেন এবং সুন্দর করেছেন তোমাদের আকৃতি। আর প্রত্যাবর্তন তো তাঁরই নিকট।",
+    "urdu": "اسی نے آسمانوں اور زمین کو مبنی برحکمت پیدا کیا اور اسی نے تمہاری صورتیں بنائیں اور صورتیں بھی پاکیزہ بنائیں۔ اور اسی کی طرف (تمہیں) لوٹ کر جانا ہے"
+}

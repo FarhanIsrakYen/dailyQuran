@@ -1,0 +1,42 @@
+{
+    "surahName": "Yunus",
+    "surahNameArabic": "يونس",
+    "surahNameArabicLong": "سورة يونس",
+    "surahNameTranslation": "Jonas",
+    "revelationPlace": "Mecca",
+    "totalAyah": 109,
+    "surahNo": 10,
+    "ayahNo": 30,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/10_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/010030.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/10_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/010030.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/10_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/010030.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/10_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/010030.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/10_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/010030.mp3"
+        }
+    },
+    "english": "Then and there every soul will face ˹the consequences of˺ what it had done. They all will be returned to Allah—their True Master. And whatever ˹gods˺ they fabricated will fail them.",
+    "arabic1": "هُنَالِكَ تَبْلُوا۟ كُلُّ نَفْسٍ مَّآ أَسْلَفَتْ ۚ وَرُدُّوٓا۟ إِلَى ٱللَّهِ مَوْلَىٰهُمُ ٱلْحَقِّ ۖ وَضَلَّ عَنْهُم مَّا كَانُوا۟ يَفْتَرُونَ",
+    "arabic2": "هنالك تبلو كل نفس ما اسلفت وردوا الى الله مولاهم الحق وضل عنهم ما كانوا يفترون",
+    "bengali": "এখানে প্রত্যেকে ইতিপূর্বে যা করেছে, সে সম্পর্কে জানতে পারবে। আর তাদেরকে তাদের প্রকৃত অভিভাবক আল্লাহর কাছে ফিরিয়ে দেয়া হবে এবং তারা যা মিথ্যা রটাতো তা তাদের থেকে হারিয়ে যাবে।",
+    "urdu": "وہاں ہر شخص (اپنے اعمال کی) جو اس نے آگے بھیجے ہوں گے آزمائش کرلے گا اور وہ اپنے سچے مالک کی طرف لوٹائے جائیں گے اور جو کچھ وہ بہتان باندھا کرتے تھے سب ان سے جاتا رہے گا"
+}

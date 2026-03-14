@@ -1,0 +1,42 @@
+{
+    "surahName": "Ar-Rahmaan",
+    "surahNameArabic": "الرحمن",
+    "surahNameArabicLong": "سورة الرحمن",
+    "surahNameTranslation": "The Beneficent",
+    "revelationPlace": "Madina",
+    "totalAyah": 78,
+    "surahNo": 55,
+    "ayahNo": 17,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/55_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/055017.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/55_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/055017.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/55_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/055017.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/55_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/055017.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/55_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/055017.mp3"
+        }
+    },
+    "english": "˹He is˺ Lord of the two easts and the two wests.",
+    "arabic1": "رَبُّ ٱلْمَشْرِقَيْنِ وَرَبُّ ٱلْمَغْرِبَيْنِ",
+    "arabic2": "رب المشرقين ورب المغربين",
+    "bengali": "তিনি দুই পূর্ব ও দুই পশ্চিমের* রব। \n* দুই পূর্ব বলতে গ্রীষ্ম ও শীতকালের উদয়স্থল এবং দুই পশ্চিম বলতে গ্রীষ্ম ও শীতকালের অস্তস্থলকে বুঝানো হয়েছে।",
+    "urdu": "وہی دونوں مشرقوں اور دونوں مغربوں کا مالک (ہے)"
+}

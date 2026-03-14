@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Hadid",
+    "surahNameArabic": "الحديد",
+    "surahNameArabicLong": "سورة الحديد",
+    "surahNameTranslation": "The Iron",
+    "revelationPlace": "Madina",
+    "totalAyah": 29,
+    "surahNo": 57,
+    "ayahNo": 7,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/57_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/057007.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/57_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/057007.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/57_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/057007.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/57_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/057007.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/57_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/057007.mp3"
+        }
+    },
+    "english": "Believe in Allah and His Messenger, and donate from what He has entrusted you with. So those of you who believe and donate will have a mighty reward.",
+    "arabic1": "ءَامِنُوا۟ بِٱللَّهِ وَرَسُولِهِۦ وَأَنفِقُوا۟ مِمَّا جَعَلَكُم مُّسْتَخْلَفِينَ فِيهِ ۖ فَٱلَّذِينَ ءَامَنُوا۟ مِنكُمْ وَأَنفَقُوا۟ لَهُمْ أَجْرٌ كَبِيرٌ",
+    "arabic2": "امنوا بالله ورسوله وانفقوا مما جعلكم مستخلفين فيه فالذين امنوا منكم وانفقوا لهم اجر كبير",
+    "bengali": "তোমরা আল্লাহ ও তাঁর রাসূলের প্রতি ঈমান আন এবং তিনি তোমাদেরকে যা কিছুর উত্তরাধিকারী করেছেন, তা থেকে ব্যয় কর। অতঃপর তোমাদের মধ্যে যারা ঈমান আনে ও (আল্লাহর পথে) ব্যয় করে তাদের জন্য রয়েছে বিরাট প্রতিফল।",
+    "urdu": "تو) خدا پر اور اس کے رسول پر ایمان لاؤ اور جس (مال) میں اس نے تم کو (اپنا) نائب بنایا ہے اس میں سے خرچ کرو۔ جو لوگ تم میں سے ایمان لائے اور (مال) خرچ کرتے رہے ان کے لئے بڑا ثواب ہے"
+}

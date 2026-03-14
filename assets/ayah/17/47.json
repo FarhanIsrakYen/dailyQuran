@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 47,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/17_47.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/017047.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/17_47.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/017047.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/17_47.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/017047.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/17_47.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/017047.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/17_47.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/017047.mp3"
+        }
+    },
+    "english": "We know best how they listen to your recitation and what they say privately—when the wrongdoers say, “You would only be following a bewitched man.”",
+    "arabic1": "نَّحْنُ أَعْلَمُ بِمَا يَسْتَمِعُونَ بِهِۦٓ إِذْ يَسْتَمِعُونَ إِلَيْكَ وَإِذْ هُمْ نَجْوَىٰٓ إِذْ يَقُولُ ٱلظَّـٰلِمُونَ إِن تَتَّبِعُونَ إِلَّا رَجُلًا مَّسْحُورًا",
+    "arabic2": "نحن اعلم بما يستمعون به اذ يستمعون اليك واذ هم نجوى اذ يقول الظالمون ان تتبعون الا رجلا مسحورا",
+    "bengali": "যখন তারা তোমার প্রতি কান পেতে শুনে, তখন আমি জানি কেন তারা কান পাতে এবং যখন গোপন আলোচনায় মিলিত হয়ে যালিমরা বলে, ‘তোমরা তো কেবল এক যাদুগ্রস্ত লোকের অনুসরণ করছ’।",
+    "urdu": "یہ لوگ جب تمہاری طرف کان لگاتے ہیں تو جس نیت سے یہ سنتے ہیں ہم اسے خوب جانتے ہیں اور جب یہ سرگوشیاں کرتے ہیں (یعنی) جب ظالم کہتے ہیں کہ تم ایک ایسے شخص کی پیروی کرتے ہو جس پر جادو کیا گیا ہے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Yusuf",
+    "surahNameArabic": "يوسف",
+    "surahNameArabicLong": "سورة يوسف",
+    "surahNameTranslation": "Joseph",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 12,
+    "ayahNo": 111,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/12_111.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/012111.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/12_111.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/012111.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/12_111.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/012111.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/12_111.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/012111.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/12_111.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/012111.mp3"
+        }
+    },
+    "english": "In their stories there is truly a lesson for people of reason. This message cannot be a fabrication, rather ˹it is˺ a confirmation of previous revelation, a detailed explanation of all things, a guide, and a mercy for people of faith.",
+    "arabic1": "لَقَدْ كَانَ فِى قَصَصِهِمْ عِبْرَةٌ لِّأُو۟لِى ٱلْأَلْبَـٰبِ ۗ مَا كَانَ حَدِيثًا يُفْتَرَىٰ وَلَـٰكِن تَصْدِيقَ ٱلَّذِى بَيْنَ يَدَيْهِ وَتَفْصِيلَ كُلِّ شَىْءٍ وَهُدًى وَرَحْمَةً لِّقَوْمٍ يُؤْمِنُونَ",
+    "arabic2": "لقد كان في قصصهم عبرة لاولي الالباب ما كان حديثا يفترى ولكن تصديق الذي بين يديه وتفصيل كل شيء وهدى ورحمة لقوم يؤمنون",
+    "bengali": "তাদের এ কাহিনীগুলোতে অবশ্যই বুদ্ধিমানদের জন্য রয়েছে শিক্ষা, এটা কোন বানানো গল্প নয়, বরং তাদের পূর্ববর্তী কিতাবের সত্যায়নকারী এবং প্রতিটি বিষয়ের বিস্তারিত বিবরণ। আর হিদায়াত ও রহমত ঐ কওমের জন্য যারা ঈমান আনে।",
+    "urdu": "ان کے قصے میں عقلمندوں کے لیے عبرت ہے۔ یہ (قرآن) ایسی بات نہیں ہے جو (اپنے دل سے) بنائی گئی ہو بلکہ جو (کتابیں) اس سے پہلے نازل ہوئی ہیں ان کی تصدیق (کرنے والا) ہے اور مومنوں کے لیے ہدایت اور رحمت ہے"
+}

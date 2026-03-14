@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 44,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/7_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/007044.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/7_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/007044.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/7_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/007044.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/7_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/007044.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/7_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/007044.mp3"
+        }
+    },
+    "english": "The residents of Paradise will call out to the residents of the Fire, “We have certainly found our Lord’s promise to be true. Have you too found your Lord’s promise to be true?” They will reply, “Yes, we have!” Then a caller will announce to both, “May Allah’s condemnation be upon the wrongdoers",
+    "arabic1": "وَنَادَىٰٓ أَصْحَـٰبُ ٱلْجَنَّةِ أَصْحَـٰبَ ٱلنَّارِ أَن قَدْ وَجَدْنَا مَا وَعَدَنَا رَبُّنَا حَقًّا فَهَلْ وَجَدتُّم مَّا وَعَدَ رَبُّكُمْ حَقًّا ۖ قَالُوا۟ نَعَمْ ۚ فَأَذَّنَ مُؤَذِّنٌۢ بَيْنَهُمْ أَن لَّعْنَةُ ٱللَّهِ عَلَى ٱلظَّـٰلِمِينَ",
+    "arabic2": "ونادى اصحاب الجنة اصحاب النار ان قد وجدنا ما وعدنا ربنا حقا فهل وجدتم ما وعد ربكم حقا قالوا نعم فاذن مؤذن بينهم ان لعنة الله على الظالمين",
+    "bengali": "আর তখন জান্নাতবাসীরা জাহান্নামবাসীদেরকে (উপহাস করে) বলবেঃ আমাদের রাব্ব যেসব অঙ্গীকার ও প্রতিশ্রুতি আমাদেরকে দিয়েছিলেন, আমরা বাস্তবে তা সত্য রূপে পেয়েছি, তোমরাও কি তোমাদের রাব্বের ও‘য়াদা সত্য ও বাস্তব রূপে পেয়েছো? তখন তারা বলবেঃ হ্যাঁ পেয়েছি। অতঃপর জনৈক ঘোষক ঘোষণা করবে, যালিমদের উপর আল্লাহর অভিসম্পাত।",
+    "urdu": "اور اہل بہشت دوزخیوں سے پکار کر کہیں گے کہ جو وعدہ ہمارے پروردگار نے ہم سے کیا تھا ہم نے تو اسے سچا پالیا۔ بھلا جو وعدہ تمہارے پروردگار نے تم سے کیا تھا تم نے بھی اسے سچا پایا؟ وہ کہیں گے ہاں تو (اس وقت) ان میں ایک پکارنے والا پکارے گا کہ بےانصافوں پر خدا کی لعنت"
+}

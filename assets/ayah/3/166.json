@@ -1,0 +1,42 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 166,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/3_166.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/003166.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/3_166.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/003166.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/3_166.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/003166.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/3_166.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/003166.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/3_166.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/003166.mp3"
+        }
+    },
+    "english": "So what you suffered on the day the two armies met was by Allah’s Will, so that He might distinguish the ˹true˺ believers",
+    "arabic1": "وَمَآ أَصَـٰبَكُمْ يَوْمَ ٱلْتَقَى ٱلْجَمْعَانِ فَبِإِذْنِ ٱللَّهِ وَلِيَعْلَمَ ٱلْمُؤْمِنِينَ",
+    "arabic2": "وما اصابكم يوم التقى الجمعان فباذن الله وليعلم المؤمنين",
+    "bengali": "আর তোমাদের উপর যে বিপদ এসেছিল দুই দল মুখোমুখি হওয়ার দিন তা আল্লাহর অনুমতিক্রমে এবং যাতে তিনি মুমিনদেরকে জেনে নেন।",
+    "urdu": "اور جو مصیبت تم پر دونوں جماعتوں کے مقابلے کے دن واقع ہوئی سو خدا کے حکم سے (واقع ہوئی) اور (اس سے) یہ مقصود تھا کہ خدا مومنوں کو اچھی طرح معلوم"
+}

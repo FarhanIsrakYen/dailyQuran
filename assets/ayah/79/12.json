@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Naazi'aat",
+    "surahNameArabic": "النازعات",
+    "surahNameArabicLong": "سورة النازعات",
+    "surahNameTranslation": "Those who drag forth",
+    "revelationPlace": "Mecca",
+    "totalAyah": 46,
+    "surahNo": 79,
+    "ayahNo": 12,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/79_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/079012.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/79_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/079012.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/79_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/079012.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/79_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/079012.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/79_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/079012.mp3"
+        }
+    },
+    "english": "Adding, “Then such a return would be a ˹total˺ loss ˹for us˺!”",
+    "arabic1": "قَالُوا۟ تِلْكَ إِذًا كَرَّةٌ خَاسِرَةٌ",
+    "arabic2": "قالوا تلك اذا كرة خاسرة",
+    "bengali": "তারা বলে, ‘তাহলে তা তো এক ক্ষতিকর প্রত্যাবর্তন’।",
+    "urdu": "کہتے ہیں کہ یہ لوٹنا تو( موجب) زیاں ہے"
+}

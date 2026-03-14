@@ -1,0 +1,42 @@
+{
+    "surahName": "Faatir",
+    "surahNameArabic": "فاطر",
+    "surahNameArabicLong": "سورة فاطر",
+    "surahNameTranslation": "The Originator",
+    "revelationPlace": "Mecca",
+    "totalAyah": 45,
+    "surahNo": 35,
+    "ayahNo": 28,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/35_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/035028.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/35_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/035028.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/35_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/035028.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/35_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/035028.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/35_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/035028.mp3"
+        }
+    },
+    "english": "just as people, living beings, and cattle are of various colours as well. Of all of Allah’s servants, only the knowledgeable ˹of His might˺ are ˹truly˺ in awe of Him. Allah is indeed Almighty, All-Forgiving.",
+    "arabic1": "وَمِنَ ٱلنَّاسِ وَٱلدَّوَآبِّ وَٱلْأَنْعَـٰمِ مُخْتَلِفٌ أَلْوَٰنُهُۥ كَذَٰلِكَ ۗ إِنَّمَا يَخْشَى ٱللَّهَ مِنْ عِبَادِهِ ٱلْعُلَمَـٰٓؤُا۟ ۗ إِنَّ ٱللَّهَ عَزِيزٌ غَفُورٌ",
+    "arabic2": "ومن الناس والدواب والانعام مختلف الوانه كذلك انما يخشى الله من عباده العلماء ان الله عزيز غفور",
+    "bengali": "আর এমনিভাবে মানুষ, বিচরণশীল প্রাণী ও চতুষ্পদ জন্তুর মধ্যেও রয়েছে নানা বর্ণ। বান্দাদের মধ্যে কেবল জ্ঞানীরাই আল্লাহকে ভয় করে। নিশ্চয় আল্লাহ মহাপরাক্রমশালী, পরম ক্ষমাশীল।",
+    "urdu": "انسانوں اور جانوروں اور چارپایوں کے بھی کئی طرح کے رنگ ہیں۔ خدا سے تو اس کے بندوں میں سے وہی ڈرتے ہیں جو صاحب علم ہیں۔ بےشک خدا غالب (اور) بخشنے والا ہے"
+}

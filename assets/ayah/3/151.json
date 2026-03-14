@@ -1,0 +1,42 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 151,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/3_151.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/003151.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/3_151.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/003151.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/3_151.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/003151.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/3_151.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/003151.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/3_151.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/003151.mp3"
+        }
+    },
+    "english": "We will cast horror into the hearts of the disbelievers for associating ˹false gods˺ with Allah—a practice He has never authorized. The Fire will be their home—what an evil place for the wrongdoers to stay!",
+    "arabic1": "سَنُلْقِى فِى قُلُوبِ ٱلَّذِينَ كَفَرُوا۟ ٱلرُّعْبَ بِمَآ أَشْرَكُوا۟ بِٱللَّهِ مَا لَمْ يُنَزِّلْ بِهِۦ سُلْطَـٰنًا ۖ وَمَأْوَىٰهُمُ ٱلنَّارُ ۚ وَبِئْسَ مَثْوَى ٱلظَّـٰلِمِينَ",
+    "arabic2": "سنلقي في قلوب الذين كفروا الرعب بما اشركوا بالله ما لم ينزل به سلطانا وماواهم النار وبئس مثوى الظالمين",
+    "bengali": "অচিরেই আমি কাফিরদের অন্তরসমূহে আতঙ্ক ঢেলে দেব। কারণ তারা আল্লাহর সাথে শরীক করেছে, যে সম্পর্কে আল্লাহ কোন প্রমাণ নাযিল করেননি। আর তাদের আশ্রয়স্থল হল আগুন এবং যালিমদের ঠিকানা কতই না নিকৃষ্ট!",
+    "urdu": "ہم عنقریب کافروں کے دلوں میں تمہارا رعب بٹھا دیں گے کیونکہ یہ خدا کے ساتھ شرک کرتے ہیں جس کی اس نے کوئی بھی دلیل نازل نہیں کی اور ان کا ٹھکانہ دوزخ ہے وہ ظالموں کا بہت بُرا ٹھکانا ہے"
+}

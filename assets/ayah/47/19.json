@@ -1,0 +1,42 @@
+{
+    "surahName": "Muhammad",
+    "surahNameArabic": "محمد",
+    "surahNameArabicLong": "سورة محمد",
+    "surahNameTranslation": "Muhammad",
+    "revelationPlace": "Madina",
+    "totalAyah": 38,
+    "surahNo": 47,
+    "ayahNo": 19,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/47_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/047019.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/47_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/047019.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/47_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/047019.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/47_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/047019.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/47_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/047019.mp3"
+        }
+    },
+    "english": "So, know ˹well, O  Prophet,˺ that there is no god ˹worthy of worship˺ except Allah. And seek forgiveness for your shortcomings and for ˹the sins of˺ the believing men and women. For Allah ˹fully˺ knows your movements and places of rest ˹O people˺.",
+    "arabic1": "فَٱعْلَمْ أَنَّهُۥ لَآ إِلَـٰهَ إِلَّا ٱللَّهُ وَٱسْتَغْفِرْ لِذَنۢبِكَ وَلِلْمُؤْمِنِينَ وَٱلْمُؤْمِنَـٰتِ ۗ وَٱللَّهُ يَعْلَمُ مُتَقَلَّبَكُمْ وَمَثْوَىٰكُمْ",
+    "arabic2": "فاعلم انه لا اله الا الله واستغفر لذنبك وللمؤمنين والمؤمنات والله يعلم متقلبكم ومثواكم",
+    "bengali": "অতএব জেনে রাখ, নিঃসন্দেহে আল্লাহ ছাড়া কোন (সত্য) ইলাহ নেই। তুমি ক্ষমা চাও তোমার ও মুমিন নারী-পুরুষদের ত্রুটি-বিচ্যুতির জন্য। আল্লাহ তোমাদের গতিবিধি এবং নিবাস সম্পর্কে অবগত রয়েছেন।",
+    "urdu": "پس جان رکھو کہ خدا کے سوا کوئی معبود نہیں اور اپنے گناہوں کی معافی مانگو اور (اور) مومن مردوں اور مومن عورتوں کے لئے بھی۔ اور خدا تم لوگوں کے چلنے پھرنے اور ٹھیرنے سے واقف ہے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Saad",
+    "surahNameArabic": "ص",
+    "surahNameArabicLong": "سورة ص",
+    "surahNameTranslation": "The letter Saad",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 38,
+    "ayahNo": 61,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/38_61.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/038061.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/38_61.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/038061.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/38_61.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/038061.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/38_61.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/038061.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/38_61.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/038061.mp3"
+        }
+    },
+    "english": "Adding, “Our Lord! Whoever brought this upon us, double their punishment in the Fire.”",
+    "arabic1": "قَالُوا۟ رَبَّنَا مَن قَدَّمَ لَنَا هَـٰذَا فَزِدْهُ عَذَابًا ضِعْفًا فِى ٱلنَّارِ",
+    "arabic2": "قالوا ربنا من قدم لنا هذا فزده عذابا ضعفا في النار",
+    "bengali": "তারা বলবে, ‘হে আমাদের রব, যে আমাদের জন্য এ বিপদ এনেছে, জাহান্নামে তুমি তার আযাবকে দ্বিগুণ বাড়িয়ে দাও।’",
+    "urdu": "وہ کہیں گے اے پروردگار جو اس کو ہمارے سامنے لایا ہے اس کو دوزخ میں دونا عذاب دے"
+}

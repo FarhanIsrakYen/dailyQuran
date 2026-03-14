@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Anbiyaa",
+    "surahNameArabic": "الأنبياء",
+    "surahNameArabicLong": "سورة الأنبياء",
+    "surahNameTranslation": "The Prophets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 112,
+    "surahNo": 21,
+    "ayahNo": 3,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/21_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/021003.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/21_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/021003.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/21_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/021003.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/21_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/021003.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/21_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/021003.mp3"
+        }
+    },
+    "english": "with their hearts ˹totally˺ distracted. The evildoers would converse secretly, ˹saying,˺ “Is this ˹one˺ not human like yourselves? Would you fall for ˹this˺ witchcraft, even though you can ˹clearly˺ see?”",
+    "arabic1": "لَاهِيَةً قُلُوبُهُمْ ۗ وَأَسَرُّوا۟ ٱلنَّجْوَى ٱلَّذِينَ ظَلَمُوا۟ هَلْ هَـٰذَآ إِلَّا بَشَرٌ مِّثْلُكُمْ ۖ أَفَتَأْتُونَ ٱلسِّحْرَ وَأَنتُمْ تُبْصِرُونَ",
+    "arabic2": "لاهية قلوبهم واسروا النجوى الذين ظلموا هل هذا الا بشر مثلكم افتاتون السحر وانتم تبصرون",
+    "bengali": "তাদের অন্তর থাকে অমনোযোগী এবং যালিমরা গোপনে পরামর্শ করে, ‘এ তো তোমাদের মতই একজন মানুষ। এরপরও কি তোমরা দেখে শুনে যাদুর কবলে পড়বে’?",
+    "urdu": "ان کے دل غفلت میں پڑے ہوئے ہیں اور ظالم لوگ (آپس میں) چپکے چپکے باتیں کرتے ہیں کہ یہ (شخص کچھ بھی) نہیں مگر تمہارے جیسا آدمی ہے۔ تو تم آنکھوں دیکھتے جادو (کی لپیٹ) میں کیوں آتے ہو"
+}

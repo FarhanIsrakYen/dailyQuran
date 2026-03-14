@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Kahf",
+    "surahNameArabic": "الكهف",
+    "surahNameArabicLong": "سورة الكهف",
+    "surahNameTranslation": "The Cave",
+    "revelationPlace": "Mecca",
+    "totalAyah": 110,
+    "surahNo": 18,
+    "ayahNo": 49,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/18_49.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/018049.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/18_49.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/018049.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/18_49.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/018049.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/18_49.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/018049.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/18_49.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/018049.mp3"
+        }
+    },
+    "english": "And the record ˹of deeds˺ will be laid ˹open˺, and you will see the wicked in fear of what is ˹written˺ in it. They will cry, “Woe to us! What kind of record is this that does not leave any sin, small or large, unlisted?” They will find whatever they did present ˹before them˺. And your Lord will never wrong anyone.",
+    "arabic1": "وَوُضِعَ ٱلْكِتَـٰبُ فَتَرَى ٱلْمُجْرِمِينَ مُشْفِقِينَ مِمَّا فِيهِ وَيَقُولُونَ يَـٰوَيْلَتَنَا مَالِ هَـٰذَا ٱلْكِتَـٰبِ لَا يُغَادِرُ صَغِيرَةً وَلَا كَبِيرَةً إِلَّآ أَحْصَىٰهَا ۚ وَوَجَدُوا۟ مَا عَمِلُوا۟ حَاضِرًا ۗ وَلَا يَظْلِمُ رَبُّكَ أَحَدًا",
+    "arabic2": "ووضع الكتاب فترى المجرمين مشفقين مما فيه ويقولون يا ويلتنا مال هذا الكتاب لا يغادر صغيرة ولا كبيرة الا احصاها ووجدوا ما عملوا حاضرا ولا يظلم ربك احدا",
+    "bengali": "আর আমলনামা রাখা হবে। তখন তুমি অপরাধীদেরকে দেখতে পাবে ভীত, তাতে যা রয়েছে তার কারণে। আর তারা বলবে, ‘হায় ধ্বংস আমাদের! কী হল এ কিতাবের! তা ছোট-বড় কিছুই ছাড়ে না, শুধু সংরক্ষণ করে’ এবং তারা যা করেছে, তা হাযির পাবে। আর তোমার রব কারো প্রতি যুলম করেন না।",
+    "urdu": "اور (عملوں کی) کتاب (کھول کر) رکھی جائے گی تو تم گنہگاروں کو دیکھو گے کہ جو کچھ اس میں (لکھا) ہوگا اس سے ڈر رہے ہوں گے اور کہیں گے ہائے شامت یہ کیسی کتاب ہے کہ نہ چھوٹی بات کو چھوڑتی ہے نہ بڑی کو۔ (کوئی بات بھی نہیں) مگر اسے لکھ رکھا ہے۔ اور جو عمل کئے ہوں گے سب کو حاضر پائیں گے۔ اور تمہارا پروردگار کسی پر ظلم نہیں کرے گا"
+}

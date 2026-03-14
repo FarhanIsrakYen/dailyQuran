@@ -1,0 +1,42 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 144,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/3_144.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/003144.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/3_144.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/003144.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/3_144.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/003144.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/3_144.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/003144.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/3_144.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/003144.mp3"
+        }
+    },
+    "english": "Muḥammad is no more than a messenger; other messengers have gone before him. If he were to die or to be killed, would you regress into disbelief? Those who do so will not harm Allah whatsoever. And Allah will reward those who are grateful.",
+    "arabic1": "وَمَا مُحَمَّدٌ إِلَّا رَسُولٌ قَدْ خَلَتْ مِن قَبْلِهِ ٱلرُّسُلُ ۚ أَفَإِي۟ن مَّاتَ أَوْ قُتِلَ ٱنقَلَبْتُمْ عَلَىٰٓ أَعْقَـٰبِكُمْ ۚ وَمَن يَنقَلِبْ عَلَىٰ عَقِبَيْهِ فَلَن يَضُرَّ ٱللَّهَ شَيْـًٔا ۗ وَسَيَجْزِى ٱللَّهُ ٱلشَّـٰكِرِينَ",
+    "arabic2": "وما محمد الا رسول قد خلت من قبله الرسل افان مات او قتل انقلبتم على اعقابكم ومن ينقلب على عقبيه فلن يضر الله شيئا وسيجزي الله الشاكرين",
+    "bengali": "আর মুহাম্মাদ কেবল একজন রাসূল। তার পূর্বে নিশ্চয় অনেক রাসূল বিগত হয়েছে। যদি সে মারা যায় অথবা তাকে হত্যা করা হয়, তবে তোমরা কি তোমাদের পেছনে ফিরে যাবে ? আর যে ব্যক্তি পেছনে ফিরে যায়, সে কখনো আল্লাহর কোন ক্ষতি করতে পারে না। আর আল্লাহ অচিরেই কৃতজ্ঞদের প্রতিদান দেবেন।",
+    "urdu": "اور محمد (صلی الله علیہ وسلم) تو صرف (خدا کے) پیغمبر ہیں ان سے پہلے بھی بہت سے پیغمبر ہو گزرے ہیں بھلا اگر یہ مر جائیں یا مارے جائیں تو تم الٹے پاؤں پھر جاؤ؟ (یعنی مرتد ہو جاؤ؟) اور جو الٹے پاؤں پھر جائے گا تو خدا کا کچھ نقصان نہ کر سکے گا اور خدا شکر گزاروں کو (بڑا) ثواب دے گا"
+}

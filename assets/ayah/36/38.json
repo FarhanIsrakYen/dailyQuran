@@ -1,0 +1,42 @@
+{
+    "surahName": "Yaseen",
+    "surahNameArabic": "يس",
+    "surahNameArabicLong": "سورة يس",
+    "surahNameTranslation": "Yaseen",
+    "revelationPlace": "Mecca",
+    "totalAyah": 83,
+    "surahNo": 36,
+    "ayahNo": 38,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/36_38.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/036038.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/36_38.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/036038.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/36_38.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/036038.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/36_38.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/036038.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/36_38.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/036038.mp3"
+        }
+    },
+    "english": "The sun travels for its fixed term. That is the design of the Almighty, All-Knowing.",
+    "arabic1": "وَٱلشَّمْسُ تَجْرِى لِمُسْتَقَرٍّ لَّهَا ۚ ذَٰلِكَ تَقْدِيرُ ٱلْعَزِيزِ ٱلْعَلِيمِ",
+    "arabic2": "والشمس تجري لمستقر لها ذلك تقدير العزيز العليم",
+    "bengali": "আর সূর্য ভ্রমণ করে তার নির্দিষ্ট পথে, এটা মহাপরাক্রমশালী সর্বজ্ঞ (আল্লাহ)-র নির্ধারণ।",
+    "urdu": "اور سورج اپنے مقرر رستے پر چلتا رہتا ہے۔ یہ (خدائے) غالب اور دانا کا (مقرر کیا ہوا) اندازہ ہے"
+}

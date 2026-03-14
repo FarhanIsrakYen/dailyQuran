@@ -1,0 +1,42 @@
+{
+    "surahName": "As-Saff",
+    "surahNameArabic": "الصف",
+    "surahNameArabicLong": "سورة الصف",
+    "surahNameTranslation": "The Ranks",
+    "revelationPlace": "Madina",
+    "totalAyah": 14,
+    "surahNo": 61,
+    "ayahNo": 7,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/61_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/061007.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/61_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/061007.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/61_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/061007.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/61_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/061007.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/61_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/061007.mp3"
+        }
+    },
+    "english": "Who does more wrong than the one who fabricates lies about Allah when invited to submit ˹to Him˺? For Allah does not guide the wrongdoing people.",
+    "arabic1": "وَمَنْ أَظْلَمُ مِمَّنِ ٱفْتَرَىٰ عَلَى ٱللَّهِ ٱلْكَذِبَ وَهُوَ يُدْعَىٰٓ إِلَى ٱلْإِسْلَـٰمِ ۚ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلظَّـٰلِمِينَ",
+    "arabic2": "ومن اظلم ممن افترى على الله الكذب وهو يدعى الى الاسلام والله لا يهدي القوم الظالمين",
+    "bengali": "সেই ব্যক্তির চেয়ে অধিক যালিম আর কে? যে আল্লাহ সম্পর্কে মিথ্যা রচনা করে, অথচ তাকে ইসলামের দিকে আহবান করা হয়। আর আল্লাহ যালিম সম্প্রদায়কে হিদায়াত করেন না।",
+    "urdu": "اور اس سے ظالم کون کہ بلایا تو جائے اسلام کی طرف اور وہ خدا پر جھوٹ بہتان باندھے۔ اور خدا ظالم لوگوں کو ہدایت نہیں دیا کرتا"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 105,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/4_105.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/004105.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/4_105.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/004105.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/4_105.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/004105.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/4_105.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/004105.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/4_105.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/004105.mp3"
+        }
+    },
+    "english": "Indeed, We have sent down the Book to you ˹O Prophet˺ in truth to judge between people by means of what Allah has shown you. So do not be an advocate for the deceitful.",
+    "arabic1": "إِنَّآ أَنزَلْنَآ إِلَيْكَ ٱلْكِتَـٰبَ بِٱلْحَقِّ لِتَحْكُمَ بَيْنَ ٱلنَّاسِ بِمَآ أَرَىٰكَ ٱللَّهُ ۚ وَلَا تَكُن لِّلْخَآئِنِينَ خَصِيمًا",
+    "arabic2": "انا انزلنا اليك الكتاب بالحق لتحكم بين الناس بما اراك الله ولا تكن للخائنين خصيما",
+    "bengali": "নিশ্চয় আমি তোমার প্রতি যথাযথভাবে কিতাব নাযিল করেছি, যাতে তুমি মানুষের মধ্যে ফয়সালা কর সে অনুযায়ী যা আল্লাহ তোমাকে দেখিয়েছেন। আর তুমি খিয়ানতকারীদের পক্ষে বিতর্ককারী হয়ো না।",
+    "urdu": "(اے پیغمبر) ہم نے تم پر سچی کتاب نازل کی ہے تاکہ خدا کی ہدایت کے مطابق لوگوں کے مقدمات میں فیصلہ کرو اور (دیکھو) دغابازوں کی حمایت میں کبھی بحث نہ کرنا"
+}

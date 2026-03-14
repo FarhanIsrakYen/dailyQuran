@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Fath",
+    "surahNameArabic": "الفتح",
+    "surahNameArabicLong": "سورة الفتح",
+    "surahNameTranslation": "The Victory",
+    "revelationPlace": "Madina",
+    "totalAyah": 29,
+    "surahNo": 48,
+    "ayahNo": 18,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/48_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/048018.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/48_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/048018.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/48_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/048018.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/48_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/048018.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/48_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/048018.mp3"
+        }
+    },
+    "english": "Indeed, Allah was pleased with the believers when they pledged allegiance to you ˹O Prophet˺ under the tree. He knew what was in their hearts, so He sent down serenity upon them and rewarded them with a victory at hand",
+    "arabic1": "۞ لَّقَدْ رَضِىَ ٱللَّهُ عَنِ ٱلْمُؤْمِنِينَ إِذْ يُبَايِعُونَكَ تَحْتَ ٱلشَّجَرَةِ فَعَلِمَ مَا فِى قُلُوبِهِمْ فَأَنزَلَ ٱلسَّكِينَةَ عَلَيْهِمْ وَأَثَـٰبَهُمْ فَتْحًا قَرِيبًا",
+    "arabic2": "لقد رضي الله عن المؤمنين اذ يبايعونك تحت الشجرة فعلم ما في قلوبهم فانزل السكينة عليهم واثابهم فتحا قريبا",
+    "bengali": "অবশ্যই আল্লাহ মুমিনদের উপর সন্তুষ্ট হয়েছেন, যখন তারা গাছের নিচে আপনার হাতে বাই‘আত গ্রহণ করেছিল; অতঃপর তিনি তাদের অন্তরে কী ছিল তা জেনে নিয়েছেন, ফলে তাদের উপর প্রশান্তি নাযিল করলেন এবং তাদেরকে পুরস্কৃত করলেন নিকটবর্তী বিজয় দিয়ে।",
+    "urdu": "(اے پیغمبر) جب مومن تم سے درخت کے نیچے بیعت کر رہے تھے تو خدا ان سے خوش ہوا۔ اور جو (صدق وخلوص) ان کے دلوں میں تھا وہ اس نے معلوم کرلیا۔ تو ان پر تسلی نازل فرمائی اور انہیں جلد فتح عنایت کی"
+}

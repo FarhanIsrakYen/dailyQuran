@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Ankaboot",
+    "surahNameArabic": "العنكبوت",
+    "surahNameArabicLong": "سورة العنكبوت",
+    "surahNameTranslation": "The Spider",
+    "revelationPlace": "Mecca",
+    "totalAyah": 69,
+    "surahNo": 29,
+    "ayahNo": 55,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/29_55.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/029055.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/29_55.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/029055.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/29_55.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/029055.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/29_55.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/029055.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/29_55.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/029055.mp3"
+        }
+    },
+    "english": "on the Day the punishment will overwhelm them from above them and from below their feet. And it will be said, “Reap what you sowed.”",
+    "arabic1": "يَوْمَ يَغْشَىٰهُمُ ٱلْعَذَابُ مِن فَوْقِهِمْ وَمِن تَحْتِ أَرْجُلِهِمْ وَيَقُولُ ذُوقُوا۟ مَا كُنتُمْ تَعْمَلُونَ",
+    "arabic2": "يوم يغشاهم العذاب من فوقهم ومن تحت ارجلهم ويقول ذوقوا ما كنتم تعملون",
+    "bengali": "যেদিন আযাব তাদেরকে তাদের উপর থেকে ও তাদের পায়ের নীচে থেকে আচ্ছন্ন করে ফেলবে এবং তিনি বলবেন, ‘তোমরা যা করতে, তার স্বাদ আস্বাদন কর’।",
+    "urdu": "جس دن عذاب اُن کو اُن کے اُوپر سے اور نیچے سے ڈھانک لے گا اور (خدا) فرمائے گا کہ جو کام تم کیا کرتے تھے (اب) اُن کا مزہ چکھو"
+}

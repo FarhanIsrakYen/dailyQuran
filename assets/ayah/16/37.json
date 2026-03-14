@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nahl",
+    "surahNameArabic": "النحل",
+    "surahNameArabicLong": "سورة النحل",
+    "surahNameTranslation": "The Bee",
+    "revelationPlace": "Mecca",
+    "totalAyah": 128,
+    "surahNo": 16,
+    "ayahNo": 37,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/16_37.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/016037.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/16_37.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/016037.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/16_37.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/016037.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/16_37.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/016037.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/16_37.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/016037.mp3"
+        }
+    },
+    "english": "Even though you ˹O Prophet˺ are keen on their guidance, Allah certainly does not guide those He leaves to stray, and they will have no helpers.",
+    "arabic1": "إِن تَحْرِصْ عَلَىٰ هُدَىٰهُمْ فَإِنَّ ٱللَّهَ لَا يَهْدِى مَن يُضِلُّ ۖ وَمَا لَهُم مِّن نَّـٰصِرِينَ",
+    "arabic2": "ان تحرص على هداهم فان الله لا يهدي من يضل وما لهم من ناصرين",
+    "bengali": "যদিও তুমি তাদের হিদায়াতের ব্যাপারে আকাঙ্ক্ষা কর, তবু নিশ্চয় আল্লাহ যাকে পথভ্রষ্ট করেন, তাকে হিদায়াত দেন না এবং তাদের জন্য কোন সাহায্যকারী নেই।",
+    "urdu": "اگر تم ان (کفار) کی ہدایت کے لیے للچاؤ تو جس کو خدا گمراہ کردیتا ہے اس کو وہ ہدایت نہیں دیا کرتا اور ایسے لوگوں کا کوئی مددگار بھی نہیں ہوتا"
+}

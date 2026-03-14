@@ -1,0 +1,42 @@
+{
+    "surahName": "Hud",
+    "surahNameArabic": "هود",
+    "surahNameArabicLong": "سورة هود",
+    "surahNameTranslation": "Hud",
+    "revelationPlace": "Mecca",
+    "totalAyah": 123,
+    "surahNo": 11,
+    "ayahNo": 58,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/11_58.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/011058.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/11_58.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/011058.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/11_58.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/011058.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/11_58.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/011058.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/11_58.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/011058.mp3"
+        }
+    },
+    "english": "When Our command came, We rescued Hûd and those who believed with him by a mercy from Us, saving them from a harsh torment.",
+    "arabic1": "وَلَمَّا جَآءَ أَمْرُنَا نَجَّيْنَا هُودًا وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ بِرَحْمَةٍ مِّنَّا وَنَجَّيْنَـٰهُم مِّنْ عَذَابٍ غَلِيظٍ",
+    "arabic2": "ولما جاء امرنا نجينا هودا والذين امنوا معه برحمة منا ونجيناهم من عذاب غليظ",
+    "bengali": "আর যখন আমার আদেশ আসল, আমি হূদকে ও যারা তার সাথে ঈমান এনেছিল তাদেরকে আমার পক্ষ থেকে রহমত দ্বারা রক্ষা করলাম এবং আমি কঠোর আযাব থেকে তাদেরকে নাজাত দিলাম।",
+    "urdu": "اور جب ہمارا حکم عذاب آپہنچا تو ہم نے ہود کو اور جو لوگ ان کے ساتھ ایمان لائے تھے ان کو اپنی مہربانی سے بچا لیا۔ اور ان کو عذاب شدید سے نجات دی"
+}

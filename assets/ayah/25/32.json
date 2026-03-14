@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Furqaan",
+    "surahNameArabic": "الفرقان",
+    "surahNameArabicLong": "سورة الفرقان",
+    "surahNameTranslation": "The Criterion",
+    "revelationPlace": "Mecca",
+    "totalAyah": 77,
+    "surahNo": 25,
+    "ayahNo": 32,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/25_32.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/025032.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/25_32.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/025032.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/25_32.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/025032.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/25_32.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/025032.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/25_32.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/025032.mp3"
+        }
+    },
+    "english": "The disbelievers say, “If only the Quran had been sent down to him all at once!” ˹We have sent it˺ as such ˹in stages˺ so We may reassure your heart with it. And We have revealed it at a deliberate pace.",
+    "arabic1": "وَقَالَ ٱلَّذِينَ كَفَرُوا۟ لَوْلَا نُزِّلَ عَلَيْهِ ٱلْقُرْءَانُ جُمْلَةً وَٰحِدَةً ۚ كَذَٰلِكَ لِنُثَبِّتَ بِهِۦ فُؤَادَكَ ۖ وَرَتَّلْنَـٰهُ تَرْتِيلًا",
+    "arabic2": "وقال الذين كفروا لولا نزل عليه القران جملة واحدة كذلك لنثبت به فؤادك ورتلناه ترتيلا",
+    "bengali": "আর কাফিররা বলে, ‘তার উপর পুরো কুরআন একসাথে কেন নাযিল করা হল না? এটা এজন্য যে, আমি এর মাধ্যমে তোমার হৃদয়কে সুদৃঢ় করব। আর আমি তা আবৃত্তি করেছি ধীরে ধীরে।",
+    "urdu": "اور کافر کہتے ہیں کہ اس پر قرآن ایک ہی دفعہ کیوں نہیں اُتارا گیا۔ اس طرح (آہستہ آہستہ) اس لئے اُتارا گیا کہ اس سے تمہارے دل کو قائم رکھیں۔ اور اسی واسطے ہم اس کو ٹھہر ٹھہر کر پڑھتے رہے ہیں"
+}

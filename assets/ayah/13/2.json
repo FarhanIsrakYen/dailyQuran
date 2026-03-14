@@ -1,0 +1,42 @@
+{
+    "surahName": "Ar-Ra'd",
+    "surahNameArabic": "الرعد",
+    "surahNameArabicLong": "سورة الرعد",
+    "surahNameTranslation": "The Thunder",
+    "revelationPlace": "Madina",
+    "totalAyah": 43,
+    "surahNo": 13,
+    "ayahNo": 2,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/13_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/013002.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/13_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/013002.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/13_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/013002.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/13_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/013002.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/13_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/013002.mp3"
+        }
+    },
+    "english": "It is Allah Who has raised the heavens without pillars—as you can see—then established Himself on the Throne. He has subjected the sun and the moon, each orbiting for an appointed term. He conducts the whole affair. He makes the signs clear so that you may be certain of the meeting with your Lord.",
+    "arabic1": "ٱللَّهُ ٱلَّذِى رَفَعَ ٱلسَّمَـٰوَٰتِ بِغَيْرِ عَمَدٍ تَرَوْنَهَا ۖ ثُمَّ ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ ۖ وَسَخَّرَ ٱلشَّمْسَ وَٱلْقَمَرَ ۖ كُلٌّ يَجْرِى لِأَجَلٍ مُّسَمًّى ۚ يُدَبِّرُ ٱلْأَمْرَ يُفَصِّلُ ٱلْـَٔايَـٰتِ لَعَلَّكُم بِلِقَآءِ رَبِّكُمْ تُوقِنُونَ",
+    "arabic2": "الله الذي رفع السماوات بغير عمد ترونها ثم استوى على العرش وسخر الشمس والقمر كل يجري لاجل مسمى يدبر الامر يفصل الايات لعلكم بلقاء ربكم توقنون",
+    "bengali": "আল্লাহ, যিনি খুঁটি ছাড়া আসমানসমূহ উঁচু করেছেন যা তোমরা দেখছ। অতঃপর তিনি আরশে উঠেছেন এবং সূর্য ও চাঁদকে নিয়োজিত করেছেন। এর প্রত্যেকটি নির্দিষ্ট সময় পর্যন্ত চলবে। তিনি সবকিছু পরিচালনা করেন। আয়াতসমূহ বিস্তারিত বর্ণনা করেন, যাতে তোমাদের রবের সাক্ষাতের ব্যাপারে তোমরা দৃঢ়বিশ্বাসী হতে পার।",
+    "urdu": "خدا وہی تو ہے جس نے ستونوں کے بغیر آسمان جیسا کہ تم دیکھتے ہو (اتنے) اونچے بنائے۔ پھر عرش پر جا ٹھہرا اور سورج اور چاند کو کام میں لگا دیا۔ ہر ایک ایک میعاد معین تک گردش کر رہا ہے۔ وہی (دنیا کے) کاموں کا انتظام کرتا ہے (اس طرح) وہ اپنی آیتیں کھول کھول کر بیان کرتا ہے کہ تم اپنے پروردگار کے روبرو جانے کا یقین کرو"
+}

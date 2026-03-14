@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Anbiyaa",
+    "surahNameArabic": "الأنبياء",
+    "surahNameArabicLong": "سورة الأنبياء",
+    "surahNameTranslation": "The Prophets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 112,
+    "surahNo": 21,
+    "ayahNo": 23,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/21_23.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/021023.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/21_23.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/021023.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/21_23.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/021023.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/21_23.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/021023.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/21_23.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/021023.mp3"
+        }
+    },
+    "english": "He cannot be questioned about what He does, but they will ˹all˺ be questioned.",
+    "arabic1": "لَا يُسْـَٔلُ عَمَّا يَفْعَلُ وَهُمْ يُسْـَٔلُونَ",
+    "arabic2": "لا يسال عما يفعل وهم يسالون",
+    "bengali": "তিনি যা করেন সে ব্যাপারে তাকে প্রশ্ন করা যাবে না; বরং তাদেরকেই প্রশ্ন করা হবে।",
+    "urdu": "وہ جو کام کرتا ہے اس کی پرستش نہیں ہوگی اور (جو کام یہ لوگ کرتے ہیں اس کی) ان سے پرستش ہوگی"
+}

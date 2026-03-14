@@ -1,0 +1,42 @@
+{
+    "surahName": "Ar-Room",
+    "surahNameArabic": "الروم",
+    "surahNameArabicLong": "سورة الروم",
+    "surahNameTranslation": "The Romans",
+    "revelationPlace": "Mecca",
+    "totalAyah": 60,
+    "surahNo": 30,
+    "ayahNo": 56,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/30_56.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/030056.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/30_56.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/030056.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/30_56.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/030056.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/30_56.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/030056.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/30_56.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/030056.mp3"
+        }
+    },
+    "english": "But those gifted with knowledge and faith will say ˹to them˺, “You did actually stay—as destined by Allah—until the Day of Resurrection. So here is the Day of Resurrection ˹which you denied˺! But you did not know ˹it was true˺.”",
+    "arabic1": "وَقَالَ ٱلَّذِينَ أُوتُوا۟ ٱلْعِلْمَ وَٱلْإِيمَـٰنَ لَقَدْ لَبِثْتُمْ فِى كِتَـٰبِ ٱللَّهِ إِلَىٰ يَوْمِ ٱلْبَعْثِ ۖ فَهَـٰذَا يَوْمُ ٱلْبَعْثِ وَلَـٰكِنَّكُمْ كُنتُمْ لَا تَعْلَمُونَ",
+    "arabic2": "وقال الذين اوتوا العلم والايمان لقد لبثتم في كتاب الله الى يوم البعث فهذا يوم البعث ولكنكم كنتم لا تعلمون",
+    "bengali": "আর যাদেরকে জ্ঞান ও ঈমান দেয়া হয়েছে তারা বলবে, ‘তোমরা আল্লাহর বিধান মত পুনরুত্থান দিবস পর্যন্ত অবস্থান করেছ। আর এটি পুনরুত্থান দিবস। কিন্তু তোমরা জানতে না।’",
+    "urdu": "اور جن لوگوں کو علم اور ایمان دیا گیا تھا وہ کہیں گے کہ خدا کی کتاب کے مطابق تم قیامت تک رہے ہو۔ اور یہ قیامت ہی کا دن ہے لیکن تم کو اس کا یقین ہی نہیں تھا"
+}

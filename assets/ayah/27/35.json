@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Naml",
+    "surahNameArabic": "النمل",
+    "surahNameArabicLong": "سورة النمل",
+    "surahNameTranslation": "The Ant",
+    "revelationPlace": "Mecca",
+    "totalAyah": 93,
+    "surahNo": 27,
+    "ayahNo": 35,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/27_35.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/027035.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/27_35.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/027035.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/27_35.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/027035.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/27_35.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/027035.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/27_35.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/027035.mp3"
+        }
+    },
+    "english": "But I will certainly send him a gift, and see what ˹response˺ my envoys will return with.”",
+    "arabic1": "وَإِنِّى مُرْسِلَةٌ إِلَيْهِم بِهَدِيَّةٍ فَنَاظِرَةٌۢ بِمَ يَرْجِعُ ٱلْمُرْسَلُونَ",
+    "arabic2": "واني مرسلة اليهم بهدية فناظرة بم يرجع المرسلون",
+    "bengali": "‘আর নিশ্চয় আমি তাদের কাছে উপঢৌকন পাঠাচ্ছি, তারপর দেখি দূতেরা কী নিয়ে ফিরে আসে’।",
+    "urdu": "اور میں ان کی طرف کچھ تحفہ بھیجتی ہوں اور دیکھتی ہوں کہ قاصد کیا جواب لاتے ہیں"
+}

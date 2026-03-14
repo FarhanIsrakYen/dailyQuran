@@ -1,0 +1,42 @@
+{
+    "surahName": "Ar-Ra'd",
+    "surahNameArabic": "الرعد",
+    "surahNameArabicLong": "سورة الرعد",
+    "surahNameTranslation": "The Thunder",
+    "revelationPlace": "Madina",
+    "totalAyah": 43,
+    "surahNo": 13,
+    "ayahNo": 39,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/13_39.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/013039.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/13_39.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/013039.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/13_39.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/013039.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/13_39.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/013039.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/13_39.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/013039.mp3"
+        }
+    },
+    "english": "Allah eliminates and confirms what He wills, and with Him is the Master Record.",
+    "arabic1": "يَمْحُوا۟ ٱللَّهُ مَا يَشَآءُ وَيُثْبِتُ ۖ وَعِندَهُۥٓ أُمُّ ٱلْكِتَـٰبِ",
+    "arabic2": "يمحو الله ما يشاء ويثبت وعنده ام الكتاب",
+    "bengali": "আল্লাহ যা ইচ্ছা করেন মিটিয়ে দেন এবং যা ইচ্ছা করেন স্থির রাখেন, আর তাঁর কাছেই রয়েছে মূল কিতাব।",
+    "urdu": "خدا جس کو چاہتا ہے مٹا دیتا ہے اور (جس کو چاہتا ہے) قائم رکھتا ہے اور اسی کے پاس اصل کتاب ہے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 14,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002014.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002014.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002014.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002014.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002014.mp3"
+        }
+    },
+    "english": "When they meet the believers they say, “We believe.” But when alone with their evil associates they say, “We are definitely with you; we were only mocking.”",
+    "arabic1": "وَإِذَا لَقُوا۟ ٱلَّذِينَ ءَامَنُوا۟ قَالُوٓا۟ ءَامَنَّا وَإِذَا خَلَوْا۟ إِلَىٰ شَيَـٰطِينِهِمْ قَالُوٓا۟ إِنَّا مَعَكُمْ إِنَّمَا نَحْنُ مُسْتَهْزِءُونَ",
+    "arabic2": "واذا لقوا الذين امنوا قالوا امنا واذا خلوا الى شياطينهم قالوا انا معكم انما نحن مستهزئون",
+    "bengali": "আর যখন তারা মুমিনদের সাথে মিলিত হয়, তখন বলে ‘আমরা ঈমান এনেছি’ এবং যখন তাদের শয়তানদের সাথে একান্তে মিলিত হয়, তখন বলে, ‘নিশ্চয় আমরা তোমাদের সাথে আছি। আমরা তো কেবল উপহাসকারী’।",
+    "urdu": "اور یہ لوگ جب مومنوں سے ملتے ہیں تو کہتے ہیں کہ ہم ایمان لے آئے ہیں، اور جب اپنے شیطانوں میں جاتے ہیں تو (ان سے) کہتے ہیں کہ ہم تمھارے ساتھ ہیں اور (پیروانِ محمدﷺ سے) تو ہم ہنسی کیا کرتے ہیں"
+}

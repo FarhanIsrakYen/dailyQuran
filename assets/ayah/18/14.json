@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Kahf",
+    "surahNameArabic": "الكهف",
+    "surahNameArabicLong": "سورة الكهف",
+    "surahNameTranslation": "The Cave",
+    "revelationPlace": "Mecca",
+    "totalAyah": 110,
+    "surahNo": 18,
+    "ayahNo": 14,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/18_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/018014.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/18_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/018014.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/18_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/018014.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/18_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/018014.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/18_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/018014.mp3"
+        }
+    },
+    "english": "And We strengthened their hearts when they stood up and declared, “Our Lord is the Lord of the heavens and the earth. We will never call upon any god besides Him, or we would truly be uttering an outrageous lie.”",
+    "arabic1": "وَرَبَطْنَا عَلَىٰ قُلُوبِهِمْ إِذْ قَامُوا۟ فَقَالُوا۟ رَبُّنَا رَبُّ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ لَن نَّدْعُوَا۟ مِن دُونِهِۦٓ إِلَـٰهًا ۖ لَّقَدْ قُلْنَآ إِذًا شَطَطًا",
+    "arabic2": "وربطنا على قلوبهم اذ قاموا فقالوا ربنا رب السماوات والارض لن ندعو من دونه الها لقد قلنا اذا شططا",
+    "bengali": "যখন তারা উঠেছিল, আমি তাদের অন্তরকে দৃঢ় করেছিলাম। তখন তারা বলল, ‘আমাদের রব আসমানসমূহ ও যমীনের রব। তিনি ছাড়া কোন ইলাহকে আমরা কখনো ডাকব না। (যদি ডাকি) তাহলে নিশ্চয় আমরা গর্হিত কথা বলব’।",
+    "urdu": "اور ان کے دلوں کو مربوط (یعنی مضبوط) کردیا۔ جب وہ (اُٹھ) کھڑے ہوئے تو کہنے لگے کہ ہمارا پروردگار آسمانوں اور زمین کا مالک ہے۔ ہم اس کے سوا کسی کو معبود (سمجھ کر) نہ پکاریں گے (اگر ایسا کیا) تو اس وقت ہم نے بعید از عقل بات کہی"
+}

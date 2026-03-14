@@ -4,8 +4,9 @@ import {
     ActivityIndicator, Alert, ScrollView, TextInput, Keyboard
 } from 'react-native';
 import { useAudioPlayer, useAudioPlayerStatus, setAudioModeAsync } from 'expo-audio';
-import { AYAH_API } from '../utils/planBuilder';
+import { getAyahData } from '../utils/ayahDataResolver';
 import sajdahData from '../assets/sajdah.json';
+import { ThemeType, COLORS } from '../utils/colors';
 
 interface AyahData {
     surahName: string;
@@ -30,9 +31,10 @@ const RECITERS: Record<string, string> = {
 
 interface Props {
     onBack: () => void;
+    theme: ThemeType;
 }
 
-export default function SearchAyah({ onBack }: Props) {
+export default function SearchAyah({ onBack, theme }: Props) {
     const [surahNo, setSurahNo] = useState('');
     const [ayahNo, setAyahNo] = useState('');
     const [ayahData, setAyahData] = useState<AyahData | null>(null);
@@ -65,11 +67,10 @@ export default function SearchAyah({ onBack }: Props) {
         setLoading(true);
         setAudioUrl(null);
         try {
-            const res = await fetch(AYAH_API(sNo, aNo));
-            const data: AyahData = await res.json();
+            const data: AyahData = getAyahData(sNo, aNo);
 
-            if (!data.arabic1) {
-                // If API returns an error or empty
+            if (!data || !data.arabic1) {
+                // If local data doesn't exist
                 Alert.alert('Not Found', 'Ayah not found for this Surah.');
                 setAyahData(null);
                 return;
@@ -106,50 +107,53 @@ export default function SearchAyah({ onBack }: Props) {
 
     const isPlaying = playerStatus.playing;
 
+    const themeColors = COLORS[theme];
+    const isDark = theme === 'dark';
+
     const isSajdahAyah = ayahData ? sajdahData.verses.some(
         (v) => v.surahNo === ayahData.surahNo && v.ayahNo === ayahData.ayahNo
     ) : false;
 
     return (
-        <View style={styles.container}>
-            <View style={styles.topBar}>
+        <View style={[styles.container, { backgroundColor: themeColors.background }]}>
+            <View style={[styles.topBar, { borderBottomColor: themeColors.border }]}>
                 <TouchableOpacity onPress={onBack} style={styles.backBtn}>
-                    <Text style={styles.backText}>← Back</Text>
+                    <Text style={[styles.backText, { color: themeColors.subtext }]}>← Back</Text>
                 </TouchableOpacity>
-                <Text style={styles.dayLabel}>Search Ayah</Text>
-                <View style={{ width: 40 }} />
+                <Text style={[styles.dayLabel, { color: themeColors.text }]}>Search Ayah</Text>
+                <View style={{ width: 60 }} />
             </View>
 
-            <View style={styles.searchSection}>
+            <View style={[styles.searchSection, { backgroundColor: themeColors.card, borderBottomColor: themeColors.border }]}>
                 <View style={styles.inputRow}>
                     <View style={styles.inputGroup}>
-                        <Text style={styles.inputLabel}>Surah No (1-114)</Text>
+                        <Text style={[styles.inputLabel, { color: themeColors.subtext }]}>Surah No (1-114)</Text>
                         <TextInput
-                            style={styles.input}
+                            style={[styles.input, { backgroundColor: themeColors.background, color: themeColors.text, borderColor: themeColors.border }]}
                             keyboardType="numeric"
                             value={surahNo}
                             onChangeText={setSurahNo}
                             placeholder="e.g. 1"
-                            placeholderTextColor="#5A7A9A"
+                            placeholderTextColor={themeColors.subtext}
                         />
                     </View>
                     <View style={styles.inputGroup}>
-                        <Text style={styles.inputLabel}>Ayah No</Text>
+                        <Text style={[styles.inputLabel, { color: themeColors.subtext }]}>Ayah No</Text>
                         <TextInput
-                            style={styles.input}
+                            style={[styles.input, { backgroundColor: themeColors.background, color: themeColors.text, borderColor: themeColors.border }]}
                             keyboardType="numeric"
                             value={ayahNo}
                             onChangeText={setAyahNo}
                             placeholder="e.g. 1"
-                            placeholderTextColor="#5A7A9A"
+                            placeholderTextColor={themeColors.subtext}
                         />
                     </View>
                 </View>
-                <TouchableOpacity style={styles.searchBtn} onPress={fetchAyah} disabled={loading}>
+                <TouchableOpacity style={[styles.searchBtn, { backgroundColor: themeColors.accent }]} onPress={fetchAyah} disabled={loading}>
                     {loading ? (
-                        <ActivityIndicator color="#0D1B2A" />
+                        <ActivityIndicator color={themeColors.background} />
                     ) : (
-                        <Text style={styles.searchBtnText}>Search</Text>
+                        <Text style={[styles.searchBtnText, { color: themeColors.nextBtnText }]}>Search</Text>
                     )}
                 </TouchableOpacity>
             </View>
@@ -158,61 +162,69 @@ export default function SearchAyah({ onBack }: Props) {
                 {ayahData ? (
                     <>
                         <View style={styles.surahHeader}>
-                            <Text style={styles.surahArabic}>{ayahData.surahNameArabic}</Text>
-                            <Text style={styles.surahName}>{ayahData.surahName}</Text>
-                            <Text style={styles.surahTranslation}>{ayahData.surahNameTranslation}</Text>
-                            <View style={styles.ayahBadge}>
-                                <Text style={styles.ayahBadgeText}>{ayahData.surahNo}:{ayahData.ayahNo} (Total: {ayahData.totalAyah})</Text>
+                            <Text style={[styles.surahArabic, { color: themeColors.accent }]}>{ayahData.surahNameArabic}</Text>
+                            <Text style={[styles.surahName, { color: themeColors.text }]}>{ayahData.surahName}</Text>
+                            <Text style={[styles.surahTranslation, { color: themeColors.subtext }]}>{ayahData.surahNameTranslation}</Text>
+                            <View style={[styles.ayahBadge, { backgroundColor: themeColors.card, borderColor: themeColors.border }]}>
+                                <Text style={[styles.ayahBadgeText, { color: themeColors.subtext }]}>{ayahData.surahNo}:{ayahData.ayahNo} (Total: {ayahData.totalAyah})</Text>
                             </View>
                         </View>
 
                         {isSajdahAyah && (
-                            <View style={styles.sajdahContainer}>
-                                <Text style={styles.sajdahTitle}>۩ {sajdahData.sajdah.arabic} ۩</Text>
+                            <View style={[styles.sajdahContainer, { backgroundColor: themeColors.sajdahBg, borderColor: themeColors.accent }]}>
+                                <Text style={[styles.sajdahTitle, { color: themeColors.accent }]}>۩ {sajdahData.sajdah.arabic} ۩</Text>
                                 <View style={styles.sajdahLangs}>
-                                    <Text style={styles.sajdahLangText}>{sajdahData.sajdah.english}</Text>
-                                    <Text style={styles.sajdahSeparator}>•</Text>
-                                    <Text style={styles.sajdahLangText}>{sajdahData.sajdah.urdu}</Text>
-                                    <Text style={styles.sajdahSeparator}>•</Text>
-                                    <Text style={styles.sajdahLangText}>{sajdahData.sajdah.hindi}</Text>
-                                    <Text style={styles.sajdahSeparator}>•</Text>
-                                    <Text style={styles.sajdahLangText}>{sajdahData.sajdah.bangla}</Text>
+                                    <Text style={[styles.sajdahLangText, { color: themeColors.text }]}>{sajdahData.sajdah.english}</Text>
+                                    <Text style={[styles.sajdahSeparator, { color: themeColors.subtext }]}>•</Text>
+                                    <Text style={[styles.sajdahLangText, { color: themeColors.text }]}>{sajdahData.sajdah.urdu}</Text>
+                                    <Text style={[styles.sajdahSeparator, { color: themeColors.subtext }]}>•</Text>
+                                    <Text style={[styles.sajdahLangText, { color: themeColors.text }]}>{sajdahData.sajdah.hindi}</Text>
+                                    <Text style={[styles.sajdahSeparator, { color: themeColors.subtext }]}>•</Text>
+                                    <Text style={[styles.sajdahLangText, { color: themeColors.text }]}>{sajdahData.sajdah.bangla}</Text>
                                 </View>
                             </View>
                         )}
 
-                        <View style={styles.arabicContainer}>
-                            <Text style={styles.arabicText}>{ayahData.arabic1}</Text>
+                        <View style={[styles.arabicContainer, { backgroundColor: themeColors.arabicBg, borderColor: themeColors.border }]}>
+                            <Text style={[styles.arabicText, { color: themeColors.text }]}>{ayahData.arabic1}</Text>
                         </View>
 
-                        <Text style={styles.englishText}>{ayahData.english}</Text>
+                        <Text style={[styles.englishText, { color: themeColors.subtext }]}>{ayahData.english}</Text>
                         {ayahData.bengali && (
-                            <Text style={styles.bengaliText}>{ayahData.bengali}</Text>
+                            <Text style={[styles.bengaliText, { color: themeColors.bengali }]}>{ayahData.bengali}</Text>
                         )}
 
-                        <View style={styles.audioSection}>
-                            <Text style={styles.audioLabel}>Listen</Text>
+                        <View style={[styles.audioSection, { backgroundColor: themeColors.arabicBg, borderColor: themeColors.border }]}>
+                            <Text style={[styles.audioLabel, { color: themeColors.subtext }]}>Listen</Text>
                             <ScrollView horizontal showsHorizontalScrollIndicator={false} style={styles.reciters}>
                                 {Object.keys(RECITERS).map(key => (
                                     <TouchableOpacity
                                         key={key}
-                                        style={[styles.reciterBtn, selectedReciter === key && styles.reciterBtnActive]}
+                                        style={[
+                                            styles.reciterBtn, 
+                                            { backgroundColor: themeColors.card, borderColor: themeColors.border },
+                                            selectedReciter === key && (isDark ? styles.reciterBtnActiveDark : styles.reciterBtnActiveLight)
+                                        ]}
                                         onPress={() => handleReciterChange(key)}
                                     >
-                                        <Text style={[styles.reciterText, selectedReciter === key && styles.reciterTextActive]}>
+                                        <Text style={[
+                                            styles.reciterText, 
+                                            { color: themeColors.subtext },
+                                            selectedReciter === key && styles.reciterTextActive
+                                        ]}>
                                             {RECITERS[key]}
                                         </Text>
                                     </TouchableOpacity>
                                 ))}
                             </ScrollView>
                             <TouchableOpacity
-                                style={styles.playBtn}
+                                style={[styles.playBtn, { backgroundColor: themeColors.accent }]}
                                 onPress={handlePlayToggle}
                                 disabled={!audioUrl || playerStatus.isBuffering}
                             >
                                 {playerStatus.isBuffering
-                                    ? <ActivityIndicator color="#0D1B2A" />
-                                    : <Text style={styles.playBtnText}>{isPlaying ? '⏹ Stop' : '▶ Play'}</Text>
+                                    ? <ActivityIndicator color={themeColors.background} />
+                                    : <Text style={[styles.playBtnText, { color: themeColors.nextBtnText }]}>{isPlaying ? '⏹ Stop' : '▶ Play'}</Text>
                                 }
                             </TouchableOpacity>
                         </View>
@@ -221,7 +233,7 @@ export default function SearchAyah({ onBack }: Props) {
                     !loading && (
                         <View style={styles.emptyState}>
                             <Text style={styles.emptyIcon}>🔍</Text>
-                            <Text style={styles.emptyText}>Enter a Surah and Ayah number above to search.</Text>
+                            <Text style={[styles.emptyText, { color: themeColors.subtext }]}>Enter a Surah and Ayah number above to search.</Text>
                         </View>
                     )
                 )}
@@ -305,10 +317,11 @@ const styles = StyleSheet.create({
     reciters: { marginBottom: 16 },
     reciterBtn: {
         paddingHorizontal: 14, paddingVertical: 8, borderRadius: 20,
-        backgroundColor: '#132030', marginRight: 8, borderWidth: 1, borderColor: '#1E3348',
+        marginRight: 8, borderWidth: 1,
     },
-    reciterBtnActive: { backgroundColor: '#1A2D1A', borderColor: '#C9A96E' },
-    reciterText: { fontSize: 12, color: '#5A7A9A' },
+    reciterBtnActiveDark: { backgroundColor: '#1A2D1A', borderColor: '#C9A96E' },
+    reciterBtnActiveLight: { backgroundColor: '#F0F9F4', borderColor: '#C9A96E' },
+    reciterText: { fontSize: 12 },
     reciterTextActive: { color: '#C9A96E' },
     playBtn: { backgroundColor: '#C9A96E', borderRadius: 12, padding: 14, alignItems: 'center' },
     playBtnText: { color: '#0D1B2A', fontSize: 16, fontWeight: '700' },

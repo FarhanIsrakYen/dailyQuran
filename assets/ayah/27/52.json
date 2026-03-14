@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Naml",
+    "surahNameArabic": "النمل",
+    "surahNameArabicLong": "سورة النمل",
+    "surahNameTranslation": "The Ant",
+    "revelationPlace": "Mecca",
+    "totalAyah": 93,
+    "surahNo": 27,
+    "ayahNo": 52,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/27_52.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/027052.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/27_52.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/027052.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/27_52.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/027052.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/27_52.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/027052.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/27_52.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/027052.mp3"
+        }
+    },
+    "english": "So their homes are there, ˹but completely˺ ruined because of their wrongdoing. Surely in this is a lesson for people of knowledge.",
+    "arabic1": "فَتِلْكَ بُيُوتُهُمْ خَاوِيَةًۢ بِمَا ظَلَمُوٓا۟ ۗ إِنَّ فِى ذَٰلِكَ لَـَٔايَةً لِّقَوْمٍ يَعْلَمُونَ",
+    "arabic2": "فتلك بيوتهم خاوية بما ظلموا ان في ذلك لاية لقوم يعلمون",
+    "bengali": "সুতরাং ঐগুলো তাদের বাড়ীঘর, যা তাদের যুলমের কারণে বিরান হয়ে আছে। নিশ্চয় এর মধ্যে নিদর্শন রয়েছে সে কওমের জন্য যারা জ্ঞান রাখে।",
+    "urdu": "اب یہ ان کے گھر ان کے ظلم کے سبب خالی پڑے ہیں۔ جو لوگ دانش رکھتے ہیں، ان کے لئے اس میں نشانی ہے"
+}

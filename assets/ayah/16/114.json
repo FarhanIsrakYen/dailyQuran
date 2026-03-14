@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nahl",
+    "surahNameArabic": "النحل",
+    "surahNameArabicLong": "سورة النحل",
+    "surahNameTranslation": "The Bee",
+    "revelationPlace": "Mecca",
+    "totalAyah": 128,
+    "surahNo": 16,
+    "ayahNo": 114,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/16_114.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/016114.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/16_114.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/016114.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/16_114.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/016114.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/16_114.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/016114.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/16_114.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/016114.mp3"
+        }
+    },
+    "english": "So eat from the good, lawful things which Allah has provided for you, and be grateful for Allah’s favours, if you ˹truly˺ worship Him ˹alone˺.",
+    "arabic1": "فَكُلُوا۟ مِمَّا رَزَقَكُمُ ٱللَّهُ حَلَـٰلًا طَيِّبًا وَٱشْكُرُوا۟ نِعْمَتَ ٱللَّهِ إِن كُنتُمْ إِيَّاهُ تَعْبُدُونَ",
+    "arabic2": "فكلوا مما رزقكم الله حلالا طيبا واشكروا نعمت الله ان كنتم اياه تعبدون",
+    "bengali": "অতএব আল্লাহ তোমাদেরকে যে হালাল উত্তম রিয্ক দিয়েছেন, তোমরা তা থেকে আহার কর এবং আল্লাহর নিয়ামতের শুকরিয়া আদায় কর, যদি তোমরা তারই ইবাদাত করে থাক।",
+    "urdu": "پس خدا نے جو تم کو حلال طیّب رزق دیا ہے اسے کھاؤ۔ اور الله کی نعمتوں کا شکر کرو۔ اگر اسی کی عبادت کرتے ہو"
+}

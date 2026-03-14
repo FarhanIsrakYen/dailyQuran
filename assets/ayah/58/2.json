@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Mujaadila",
+    "surahNameArabic": "المجادلة",
+    "surahNameArabicLong": "سورة المجادلة",
+    "surahNameTranslation": "The Pleading Woman",
+    "revelationPlace": "Madina",
+    "totalAyah": 22,
+    "surahNo": 58,
+    "ayahNo": 2,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/58_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/058002.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/58_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/058002.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/58_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/058002.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/58_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/058002.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/58_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/058002.mp3"
+        }
+    },
+    "english": "Those of you who ˹sinfully˺ divorce their wives by comparing them to their mothers ˹should know that˺ their wives are in no way their mothers. None can be their mothers except those who gave birth to them. What they say is certainly detestable and false. Yet Allah is truly Ever-Pardoning, All-Forgiving.",
+    "arabic1": "ٱلَّذِينَ يُظَـٰهِرُونَ مِنكُم مِّن نِّسَآئِهِم مَّا هُنَّ أُمَّهَـٰتِهِمْ ۖ إِنْ أُمَّهَـٰتُهُمْ إِلَّا ٱلَّـٰٓـِٔى وَلَدْنَهُمْ ۚ وَإِنَّهُمْ لَيَقُولُونَ مُنكَرًا مِّنَ ٱلْقَوْلِ وَزُورًا ۚ وَإِنَّ ٱللَّهَ لَعَفُوٌّ غَفُورٌ",
+    "arabic2": "الذين يظاهرون منكم من نسائهم ما هن امهاتهم ان امهاتهم الا اللائي ولدنهم وانهم ليقولون منكرا من القول وزورا وان الله لعفو غفور",
+    "bengali": "তোমাদের মধ্যে যারা তাদের স্ত্রীদের সাথে যিহার* করে, তাদের স্ত্রীগণ তাদের মাতা নয়। তাদের মাতা তো কেবল তারাই যারা তাদেরকে জন্ম দিয়েছে। আর তারা অবশ্যই অসঙ্গত ও অসত্য কথা বলে। আর নিশ্চয় আল্লাহ অধিক পাপ মোচনকারী, বড়ই ক্ষমাশীল। \n* স্ত্রীকে মায়ের সাথে অথবা মায়ের কোন অংগের সাথে তুলনা করাকে ‘যিহার’ বলে। প্রাচীন আরব সমাজে স্ত্রীকে মায়ের সাথে তুলনা করার মাধ্যমে বৈবাহিক সম্পর্ক ছিন্ন করা হত। ইসলামে এর মাধ্যমে সরাসরি বৈবাহিক সম্পর্ক ছিন্ন হয় না। তবে অসঙ্গত কথা বলার কারণে কাফ্ফারা দিতে হয়।",
+    "urdu": "جو لوگ تم میں سے اپنی عورتوں کو ماں کہہ دیتے ہیں وہ ان کی مائیں نہیں (ہوجاتیں)۔ ان کی مائیں تو وہی ہیں جن کے بطن سے وہ پیدا ہوئے۔ بےشک وہ نامعقول اور جھوٹی بات کہتے ہیں اور خدا بڑا معاف کرنے والا (اور) بخشنے والا ہے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 101,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/9_101.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/009101.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/9_101.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/009101.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/9_101.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/009101.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/9_101.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/009101.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/9_101.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/009101.mp3"
+        }
+    },
+    "english": "Some of the nomads around you ˹believers˺ are hypocrites, as are some of the people of Medina. They have mastered hypocrisy. They are not known to you ˹O Prophet˺; they are known to Us. We will punish them twice ˹in this world˺, then they will be brought back ˹to their Lord˺ for a tremendous punishment.",
+    "arabic1": "وَمِمَّنْ حَوْلَكُم مِّنَ ٱلْأَعْرَابِ مُنَـٰفِقُونَ ۖ وَمِنْ أَهْلِ ٱلْمَدِينَةِ ۖ مَرَدُوا۟ عَلَى ٱلنِّفَاقِ لَا تَعْلَمُهُمْ ۖ نَحْنُ نَعْلَمُهُمْ ۚ سَنُعَذِّبُهُم مَّرَّتَيْنِ ثُمَّ يُرَدُّونَ إِلَىٰ عَذَابٍ عَظِيمٍ",
+    "arabic2": "وممن حولكم من الاعراب منافقون ومن اهل المدينة مردوا على النفاق لا تعلمهم نحن نعلمهم سنعذبهم مرتين ثم يردون الى عذاب عظيم",
+    "bengali": "আর তোমাদের আশপাশের মরুবাসীদের মধ্যে কিছু লোক মুনাফিক এবং মদীনাবাসীদের মধ্যেও কিছু লোক অতিমাত্রায় মুনাফিকীতে লিপ্ত আছে। তুমি তাদেরকে জান না। আমি তাদেরকে জানি। অচিরে আমি তাদেরকে দু’বার আযাব দেব তারপর তাদেরকে ফিরিয়ে নেয়া হবে মহাআযাবের দিকে।",
+    "urdu": "اور تمہارے گرد و نواح کے بعض دیہاتی منافق ہیں اور بعض مدینے والے بھی نفاق پر اڑے ہوئے ہیں تم انہیں نہیں جانتے۔ ہم جانتے ہیں۔ ہم ان کو دوہرا عذاب دیں گے پھر وہ بڑے عذاب کی طرف لوٹائے جائیں گے"
+}

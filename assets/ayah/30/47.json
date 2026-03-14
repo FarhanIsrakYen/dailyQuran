@@ -1,0 +1,42 @@
+{
+    "surahName": "Ar-Room",
+    "surahNameArabic": "الروم",
+    "surahNameArabicLong": "سورة الروم",
+    "surahNameTranslation": "The Romans",
+    "revelationPlace": "Mecca",
+    "totalAyah": 60,
+    "surahNo": 30,
+    "ayahNo": 47,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/30_47.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/030047.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/30_47.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/030047.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/30_47.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/030047.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/30_47.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/030047.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/30_47.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/030047.mp3"
+        }
+    },
+    "english": "Indeed, We sent before you ˹O Prophet˺ messengers, each to their own people, and they came to them with clear proofs. Then We inflicted punishment upon those who persisted in wickedness. For it is Our duty to help the believers.",
+    "arabic1": "وَلَقَدْ أَرْسَلْنَا مِن قَبْلِكَ رُسُلًا إِلَىٰ قَوْمِهِمْ فَجَآءُوهُم بِٱلْبَيِّنَـٰتِ فَٱنتَقَمْنَا مِنَ ٱلَّذِينَ أَجْرَمُوا۟ ۖ وَكَانَ حَقًّا عَلَيْنَا نَصْرُ ٱلْمُؤْمِنِينَ",
+    "arabic2": "ولقد ارسلنا من قبلك رسلا الى قومهم فجاءوهم بالبينات فانتقمنا من الذين اجرموا وكان حقا علينا نصر المؤمنين",
+    "bengali": "আর অবশ্যই আমি তোমার পূর্বে রাসূলগণকে তাদের কওমের নিকট পাঠিয়েছিলাম। অতঃপর তারা তাদের কাছে সুস্পষ্ট প্রমাণাদি নিয়ে এসেছিল। অতঃপর যারা অপরাধ করেছিল আমি তাদের থেকে প্রতিশোধ গ্রহণ করলাম। আর মুমিনদেরকে সাহায্য করা তো আমার কর্তব্য।",
+    "urdu": "اور ہم نے تم سے پہلے بھی پیغمبر ان کی قوم کی طرف بھیجے تو وہ اُن کے پاس نشانیاں لےکر آئے سو جو لوگ نافرمانی کرتے تھے ہم نے اُن سے بدلہ لےکر چھوڑا اور مومنوں کی مدد ہم پر لازم تھی"
+}

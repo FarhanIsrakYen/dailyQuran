@@ -1,0 +1,42 @@
+{
+    "surahName": "Fussilat",
+    "surahNameArabic": "فصلت",
+    "surahNameArabicLong": "سورة فصلت",
+    "surahNameTranslation": "Explained in detail",
+    "revelationPlace": "Mecca",
+    "totalAyah": 54,
+    "surahNo": 41,
+    "ayahNo": 23,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/41_23.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/041023.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/41_23.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/041023.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/41_23.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/041023.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/41_23.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/041023.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/41_23.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/041023.mp3"
+        }
+    },
+    "english": "It was that ˹false˺ assumption you entertained about your Lord that has brought about your doom, so you have become losers.”",
+    "arabic1": "وَذَٰلِكُمْ ظَنُّكُمُ ٱلَّذِى ظَنَنتُم بِرَبِّكُمْ أَرْدَىٰكُمْ فَأَصْبَحْتُم مِّنَ ٱلْخَـٰسِرِينَ",
+    "arabic2": "وذلكم ظنكم الذي ظننتم بربكم ارداكم فاصبحتم من الخاسرين",
+    "bengali": "আর তোমাদের এ ধারণা যা তোমরা তোমাদের রব সম্পর্কে পোষণ করতে, তাই তোমাদের ধ্বংস করেছে। ফলে তোমরা ক্ষতিগ্রস্তদের অন্তর্ভুক্ত হয়ে গেলে।",
+    "urdu": "اور اسی خیال نے جو تم اپنے پروردگار کے بارے میں رکھتے تھے تم کو ہلاک کردیا اور تم خسارہ پانے والوں میں ہوگئے"
+}

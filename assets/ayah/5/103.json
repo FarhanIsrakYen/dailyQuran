@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Maaida",
+    "surahNameArabic": "المائدة",
+    "surahNameArabicLong": "سورة المائدة",
+    "surahNameTranslation": "The Table",
+    "revelationPlace": "Madina",
+    "totalAyah": 120,
+    "surahNo": 5,
+    "ayahNo": 103,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/5_103.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/005103.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/5_103.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/005103.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/5_103.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/005103.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/5_103.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/005103.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/5_103.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/005103.mp3"
+        }
+    },
+    "english": "Allah has never ordained the ˹so-called˺ baḥîrah, sâ'ibah, waṣîlah, and ḥâm camels. But the disbelievers just fabricate lies about Allah, and most of them lack understanding.",
+    "arabic1": "مَا جَعَلَ ٱللَّهُ مِنۢ بَحِيرَةٍ وَلَا سَآئِبَةٍ وَلَا وَصِيلَةٍ وَلَا حَامٍ ۙ وَلَـٰكِنَّ ٱلَّذِينَ كَفَرُوا۟ يَفْتَرُونَ عَلَى ٱللَّهِ ٱلْكَذِبَ ۖ وَأَكْثَرُهُمْ لَا يَعْقِلُونَ",
+    "arabic2": "ما جعل الله من بحيرة ولا سائبة ولا وصيلة ولا حام ولكن الذين كفروا يفترون على الله الكذب واكثرهم لا يعقلون",
+    "bengali": "আল্লাহ তৈরী করেননি বাহীরা*, সায়েবা**, ওয়াসীলা*** ও হাম**** । কিন্তু যারা কুফরী করেছে তারা আল্লাহর উপর মিথ্যা রটনা করে। আর তাদের অধিকাংশই বুঝে না। \n* বাহীরাঃ যে জন্তুর দুধ প্রতিমার উদ্দেশ্যে উৎসর্গ করা হয় তাকে বাহীরা বলা হয়।",
+    "urdu": "خدا نے نہ تو بحیرہ کچھ چیز بنایا ہے اور نہ سائبہ اور نہ وصیلہ اور نہ حام بلکہ کافر خدا پر جھوٹ افترا کرتے ہیں اور یہ اکثر عقل نہیں رکھتے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Qiyaama",
+    "surahNameArabic": "القيامة",
+    "surahNameArabicLong": "سورة القيامة",
+    "surahNameTranslation": "The Resurrection",
+    "revelationPlace": "Mecca",
+    "totalAyah": 40,
+    "surahNo": 75,
+    "ayahNo": 18,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/75_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/075018.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/75_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/075018.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/75_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/075018.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/75_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/075018.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/75_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/075018.mp3"
+        }
+    },
+    "english": "So once We have recited a revelation ˹through Gabriel˺, follow its recitation ˹closely˺.",
+    "arabic1": "فَإِذَا قَرَأْنَـٰهُ فَٱتَّبِعْ قُرْءَانَهُۥ",
+    "arabic2": "فاذا قراناه فاتبع قرانه",
+    "bengali": "অতঃপর যখন আমি তা পাঠ করি তখন তুমি তার পাঠের অনুসরণ কর।",
+    "urdu": "جب ہم وحی پڑھا کریں تو تم (اس کو سنا کرو اور) پھر اسی طرح پڑھا کرو"
+}

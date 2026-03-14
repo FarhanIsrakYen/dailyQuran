@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Ahzaab",
+    "surahNameArabic": "الأحزاب",
+    "surahNameArabicLong": "سورة الأحزاب",
+    "surahNameTranslation": "The Clans",
+    "revelationPlace": "Madina",
+    "totalAyah": 73,
+    "surahNo": 33,
+    "ayahNo": 38,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/33_38.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/033038.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/33_38.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/033038.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/33_38.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/033038.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/33_38.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/033038.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/33_38.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/033038.mp3"
+        }
+    },
+    "english": "There is no blame on the Prophet for doing what Allah has ordained for him. That has been the way of Allah with those ˹prophets˺ who had gone before. And Allah’s command has been firmly decreed.",
+    "arabic1": "مَّا كَانَ عَلَى ٱلنَّبِىِّ مِنْ حَرَجٍ فِيمَا فَرَضَ ٱللَّهُ لَهُۥ ۖ سُنَّةَ ٱللَّهِ فِى ٱلَّذِينَ خَلَوْا۟ مِن قَبْلُ ۚ وَكَانَ أَمْرُ ٱللَّهِ قَدَرًا مَّقْدُورًا",
+    "arabic2": "ما كان على النبي من حرج فيما فرض الله له سنة الله في الذين خلوا من قبل وكان امر الله قدرا مقدورا",
+    "bengali": "নবীর কোন পাপ হবে না আল্লাহ তার জন্য যা নির্ধারণ* করেছেন তা করলে; পূর্বে যে সব নবী অতিবাহিত হয়েছে তাদের ব্যাপারে এটিই ছিল আল্লাহর নিয়ম। আর আল্লাহর বিধান সুনির্ধারিত, অবশ্যম্ভাবী। \n* পালকপুত্রের তালাকপ্রাপ্তা স্ত্রীকে বিবাহ করা।",
+    "urdu": "پیغمبر پر اس کام میں کچھ تنگی نہیں جو خدا نے ان کے لئے مقرر کردیا۔ اور جو لوگ پہلے گزر چکے ہیں ان میں بھی خدا کا یہی دستور رہا ہے۔ اور خدا کا حکم ٹھیر چکا ہے"
+}

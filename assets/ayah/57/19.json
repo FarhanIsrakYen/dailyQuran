@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Hadid",
+    "surahNameArabic": "الحديد",
+    "surahNameArabicLong": "سورة الحديد",
+    "surahNameTranslation": "The Iron",
+    "revelationPlace": "Madina",
+    "totalAyah": 29,
+    "surahNo": 57,
+    "ayahNo": 19,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/57_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/057019.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/57_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/057019.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/57_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/057019.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/57_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/057019.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/57_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/057019.mp3"
+        }
+    },
+    "english": "˹As for˺ those who believe in Allah and His messengers, it is they who are ˹truly˺ the people of truth. And the martyrs, with their Lord, will have their reward and their light. But ˹as for˺ those who disbelieve and reject Our signs, it is they who will be the residents of the Hellfire.",
+    "arabic1": "وَٱلَّذِينَ ءَامَنُوا۟ بِٱللَّهِ وَرُسُلِهِۦٓ أُو۟لَـٰٓئِكَ هُمُ ٱلصِّدِّيقُونَ ۖ وَٱلشُّهَدَآءُ عِندَ رَبِّهِمْ لَهُمْ أَجْرُهُمْ وَنُورُهُمْ ۖ وَٱلَّذِينَ كَفَرُوا۟ وَكَذَّبُوا۟ بِـَٔايَـٰتِنَآ أُو۟لَـٰٓئِكَ أَصْحَـٰبُ ٱلْجَحِيمِ",
+    "arabic2": "والذين امنوا بالله ورسله اولئك هم الصديقون والشهداء عند ربهم لهم اجرهم ونورهم والذين كفروا وكذبوا باياتنا اولئك اصحاب الجحيم",
+    "bengali": "আর যারা আল্লাহ ও তাঁর রাসূলদের প্রতি ঈমান আনে, তারাই তাদের রবের নিকট সিদ্দীক ও শহীদ। তাদের জন্য রয়েছে তাদের প্রতিফল এবং তাদের নূর। আর যারা কুফরী করে এবং আমার আয়াতসমূহ অস্বীকার করে, তারাই জাহান্নামের অধিবাসী।",
+    "urdu": "اور جو لوگ خدا اور اس کے پیغمبروں پر ایمان لائے یہی اپنے پروردگار کے نزدیک صدیق اور شہید ہیں۔ ان کے لئے ان (کے اعمال) کا صلہ ہوگا۔ اور ان (کے ایمان) کی روشنی۔ اور جن لوگوں نے کفر کیا اور ہماری آیتوں کو جھٹلایا وہی اہل دوزخ ہیں"
+}

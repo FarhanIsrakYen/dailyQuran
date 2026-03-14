@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nahl",
+    "surahNameArabic": "النحل",
+    "surahNameArabicLong": "سورة النحل",
+    "surahNameTranslation": "The Bee",
+    "revelationPlace": "Mecca",
+    "totalAyah": 128,
+    "surahNo": 16,
+    "ayahNo": 61,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/16_61.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/016061.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/16_61.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/016061.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/16_61.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/016061.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/16_61.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/016061.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/16_61.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/016061.mp3"
+        }
+    },
+    "english": "If Allah were to punish people ˹immediately˺ for their wrongdoing, He would not have left a single living being on earth. But He delays them for an appointed term. And when their time arrives, they cannot delay it for a moment, nor could they advance it.",
+    "arabic1": "وَلَوْ يُؤَاخِذُ ٱللَّهُ ٱلنَّاسَ بِظُلْمِهِم مَّا تَرَكَ عَلَيْهَا مِن دَآبَّةٍ وَلَـٰكِن يُؤَخِّرُهُمْ إِلَىٰٓ أَجَلٍ مُّسَمًّى ۖ فَإِذَا جَآءَ أَجَلُهُمْ لَا يَسْتَـْٔخِرُونَ سَاعَةً ۖ وَلَا يَسْتَقْدِمُونَ",
+    "arabic2": "ولو يؤاخذ الله الناس بظلمهم ما ترك عليها من دابة ولكن يؤخرهم الى اجل مسمى فاذا جاء اجلهم لا يستاخرون ساعة ولا يستقدمون",
+    "bengali": "আর আল্লাহ যদি মানবজাতিকে তাদের যুলমের কারণে পাকড়াও করতেন, তবে তাতে (যমীনে) কোনো বিচরণকারী প্রাণীকেই ছাড়তেন না। তবে আল্লাহ তাদেরকে একটি নির্দিষ্ট সময় পর্যন্ত অবকাশ দেন। যখন তাদের নির্দিষ্ট সময় চলে আসে, তখন এক মুহূর্তও পেছাতে পারে না, এবং আগাতেও পারে না।",
+    "urdu": "اور اگر خدا لوگوں کو ان کے ظلم کے سبب پکڑنے لگے تو ایک جاندار کو زمین پر نہ چھوڑے لیکن ان کو ایک وقت مقرر تک مہلت دیئے جاتا ہے۔ جب وہ وقت آجاتا ہے تو ایک گھڑی نہ پیچھے رہ سکتے ہیں نہ آگے بڑھ سکتے ہیں"
+}

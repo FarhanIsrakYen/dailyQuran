@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 215,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_215.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002215.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_215.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002215.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_215.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002215.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_215.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002215.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_215.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002215.mp3"
+        }
+    },
+    "english": "They ask you ˹O Prophet in˺ what ˹way˺ they should donate. Say, “Whatever donations you give are for parents, relatives, orphans, the poor, and ˹needy˺ travellers. Whatever good you do is certainly well known to Allah.”",
+    "arabic1": "يَسْـَٔلُونَكَ مَاذَا يُنفِقُونَ ۖ قُلْ مَآ أَنفَقْتُم مِّنْ خَيْرٍ فَلِلْوَٰلِدَيْنِ وَٱلْأَقْرَبِينَ وَٱلْيَتَـٰمَىٰ وَٱلْمَسَـٰكِينِ وَٱبْنِ ٱلسَّبِيلِ ۗ وَمَا تَفْعَلُوا۟ مِنْ خَيْرٍ فَإِنَّ ٱللَّهَ بِهِۦ عَلِيمٌ",
+    "arabic2": "يسالونك ماذا ينفقون قل ما انفقتم من خير فللوالدين والاقربين واليتامى والمساكين وابن السبيل وما تفعلوا من خير فان الله به عليم",
+    "bengali": "তারা তোমাকে জিজ্ঞাসা করে, তারা কী ব্যয় করবে? বল, ‘তোমরা যে সম্পদ ব্যয় করবে, তা পিতা-মাতা, আত্মীয়, ইয়াতীম, মিসকীন ও মুসাফিরদের জন্য। আর যে কোন ভাল কাজ তোমরা কর, নিশ্চয় সে ব্যাপারে আল্লাহ সুপরিজ্ঞাত’।",
+    "urdu": "(اے محمدﷺ) لوگ تم سے پوچھتے ہیں کہ (خدا کی راہ میں) کس طرح کا مال خرچ کریں۔ کہہ دو کہ (جو چاہو خرچ کرو لیکن) جو مال خرچ کرنا چاہو وہ (درجہ بدرجہ اہل استحقاق یعنی) ماں باپ اور قریب کے رشتے داروں کو اور یتیموں کو اور محتاجوں کو اور مسافروں کو (سب کو دو) اور جو بھلائی تم کرو گے خدا اس کو جانتا ہے"
+}

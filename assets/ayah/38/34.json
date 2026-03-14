@@ -1,0 +1,42 @@
+{
+    "surahName": "Saad",
+    "surahNameArabic": "ص",
+    "surahNameArabicLong": "سورة ص",
+    "surahNameTranslation": "The letter Saad",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 38,
+    "ayahNo": 34,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/38_34.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/038034.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/38_34.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/038034.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/38_34.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/038034.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/38_34.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/038034.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/38_34.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/038034.mp3"
+        }
+    },
+    "english": "And indeed, We tested Solomon, placing a ˹deformed˺ body on his throne, then he turned ˹to Allah in repentance˺.",
+    "arabic1": "وَلَقَدْ فَتَنَّا سُلَيْمَـٰنَ وَأَلْقَيْنَا عَلَىٰ كُرْسِيِّهِۦ جَسَدًا ثُمَّ أَنَابَ",
+    "arabic2": "ولقد فتنا سليمان والقينا على كرسيه جسدا ثم اناب",
+    "bengali": "আর আমি তো সুলাইমানকে পরীক্ষা করেছিলাম এবং তার সিংহাসনের উপর রেখেছিলাম একটি দেহ*, অতঃপর সে আমার অভিমুখী হল। \n* আবু হুরাইরা সূত্রে বুখারী শরীফের বর্ণনা মতে হযরত সুলাইমান একদা তাঁর সকল স্ত্রীর সাথে সহবাস করার দীপ্ত কামনা ব্যক্ত করে বলেন যে, এর ফলে তাদের গর্ভে যেসব সন্তান আসবে তারা সব আল্লাহর পথে লড়াকু মুজাহিদ হবে। তবে তিনি ইনশাআল্লাহ বলতে ভুলে যান। ফলে একমাত্র এক স্ত্রীর গর্ভেই একটি সন্তান হয়, যে ছিল বিকলাঙ্গ নিষ্প্রাণ প্রায়। ভূমিষ্ট হবার পর এ সন্তানকে সুলাইমানের দরবারে তার সিংহাসনে এনে রাখা হলে তিনি স্বীয় ভুল বুঝতে পেরে অনুতপ্ত হন এবং তওবা করেন।",
+    "urdu": "اور ہم نے سلیمان کی آزمائش کی اور ان کے تخت پر ایک دھڑ ڈال دیا پھر انہوں نے (خدا کی طرف) رجوع کیا"
+}

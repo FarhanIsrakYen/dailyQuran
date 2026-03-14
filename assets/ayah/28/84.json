@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Qasas",
+    "surahNameArabic": "القصص",
+    "surahNameArabicLong": "سورة القصص",
+    "surahNameTranslation": "The Stories",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 28,
+    "ayahNo": 84,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/28_84.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/028084.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/28_84.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/028084.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/28_84.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/028084.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/28_84.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/028084.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/28_84.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/028084.mp3"
+        }
+    },
+    "english": "Whoever comes with a good deed will be rewarded with what is better. And whoever comes with an evil deed, then the evildoers will only be rewarded for what they used to do.",
+    "arabic1": "مَن جَآءَ بِٱلْحَسَنَةِ فَلَهُۥ خَيْرٌ مِّنْهَا ۖ وَمَن جَآءَ بِٱلسَّيِّئَةِ فَلَا يُجْزَى ٱلَّذِينَ عَمِلُوا۟ ٱلسَّيِّـَٔاتِ إِلَّا مَا كَانُوا۟ يَعْمَلُونَ",
+    "arabic2": "من جاء بالحسنة فله خير منها ومن جاء بالسيئة فلا يجزى الذين عملوا السيئات الا ما كانوا يعملون",
+    "bengali": "কেউ পূণ্য নিয়ে আসলে তার জন্য থাকবে তা থেকে উত্তম প্রতিদান। আর কেউ পাপ নিয়ে আসলে তবে যারা মন্দকর্ম করেছে তাদের শুধু তারই প্রতিদান দেওয়া হবে যা তারা করেছে।",
+    "urdu": "جو شخص نیکی لے کر آئے گا اس کے لئے اس سے بہتر (صلہ موجود) ہے اور جو برائی لائے گا تو جن لوگوں نے برے کام کئے ان کو بدلہ بھی اسی طرح کا ملے گا جس طرح کے وہ کام کرتے تھے"
+}

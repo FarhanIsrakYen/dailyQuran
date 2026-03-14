@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 181,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_181.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002181.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_181.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002181.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_181.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002181.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_181.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002181.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_181.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002181.mp3"
+        }
+    },
+    "english": "But whoever changes the will after hearing it, the blame will only be on those who made the change. Indeed, Allah is All-Hearing, All-Knowing.",
+    "arabic1": "فَمَنۢ بَدَّلَهُۥ بَعْدَ مَا سَمِعَهُۥ فَإِنَّمَآ إِثْمُهُۥ عَلَى ٱلَّذِينَ يُبَدِّلُونَهُۥٓ ۚ إِنَّ ٱللَّهَ سَمِيعٌ عَلِيمٌ",
+    "arabic2": "فمن بدله بعدما سمعه فانما اثمه على الذين يبدلونه ان الله سميع عليم",
+    "bengali": "অতএব যে তা শ্রবণ করার পর পরিবর্তন করবে, তবে এর পাপ তাদের হবে, যারা তা পরিবর্তন করে। নিশ্চয় আল্লাহ সর্বশ্রোতা, সর্বজ্ঞানী।",
+    "urdu": "جو شخص وصیت کو سننے کے بعد بدل ڈالے تو اس (کے بدلنے) کا گناہ انہیں لوگوں پر ہے جو اس کو بدلیں۔ اور بےشک خدا سنتا جانتا ہے"
+}

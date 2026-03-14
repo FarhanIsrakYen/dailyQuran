@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 169,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_169.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002169.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_169.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002169.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_169.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002169.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_169.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002169.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_169.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002169.mp3"
+        }
+    },
+    "english": "He only incites you to commit evil and indecency, and to claim against Allah what you do not know.",
+    "arabic1": "إِنَّمَا يَأْمُرُكُم بِٱلسُّوٓءِ وَٱلْفَحْشَآءِ وَأَن تَقُولُوا۟ عَلَى ٱللَّهِ مَا لَا تَعْلَمُونَ",
+    "arabic2": "انما يامركم بالسوء والفحشاء وان تقولوا على الله ما لا تعلمون",
+    "bengali": "নিশ্চয় সে তোমাদেরকে আদেশ দেয় মন্দ ও অশ্লীল কাজের এবং আল্লাহর ব্যাপারে এমন কিছু বলতে, যা তোমরা জান না।",
+    "urdu": "وہ تو تم کو برائی اور بےحیائی ہی کے کام کرنے کو کہتا ہے اور یہ بھی کہ خدا کی نسبت ایسی باتیں کہو جن کا تمہیں (کچھ بھی) علم نہیں"
+}

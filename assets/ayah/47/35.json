@@ -1,0 +1,42 @@
+{
+    "surahName": "Muhammad",
+    "surahNameArabic": "محمد",
+    "surahNameArabicLong": "سورة محمد",
+    "surahNameTranslation": "Muhammad",
+    "revelationPlace": "Madina",
+    "totalAyah": 38,
+    "surahNo": 47,
+    "ayahNo": 35,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/47_35.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/047035.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/47_35.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/047035.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/47_35.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/047035.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/47_35.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/047035.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/47_35.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/047035.mp3"
+        }
+    },
+    "english": "So do not falter or cry for peace, for you will have the upper hand and Allah is with you. And He will never let your deeds go to waste.",
+    "arabic1": "فَلَا تَهِنُوا۟ وَتَدْعُوٓا۟ إِلَى ٱلسَّلْمِ وَأَنتُمُ ٱلْأَعْلَوْنَ وَٱللَّهُ مَعَكُمْ وَلَن يَتِرَكُمْ أَعْمَـٰلَكُمْ",
+    "arabic2": "فلا تهنوا وتدعوا الى السلم وانتم الاعلون والله معكم ولن يتركم اعمالكم",
+    "bengali": "অতএব তোমরা হীনবল হয়ো না ও সন্ধির আহবান জানিও না এবং তোমরাই প্রবল। আর আল্লাহ তোমাদের সাথেই রয়েছেন এবং কখনই তিনি তোমাদের কর্মফল হ্রাস করবেন না।",
+    "urdu": "تو تم ہمت نہ ہارو اور (دشمنوں کو) صلح کی طرف نہ بلاؤ۔ اور تم تو غالب ہو۔ اور خدا تمہارے ساتھ ہے وہ ہرگز تمہارے اعمال کو کم (اور گم) نہیں کرے گا"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Maryam",
+    "surahNameArabic": "مريم",
+    "surahNameArabicLong": "سورة مريم",
+    "surahNameTranslation": "Mary",
+    "revelationPlace": "Mecca",
+    "totalAyah": 98,
+    "surahNo": 19,
+    "ayahNo": 98,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/19_98.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/019098.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/19_98.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/019098.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/19_98.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/019098.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/19_98.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/019098.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/19_98.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/019098.mp3"
+        }
+    },
+    "english": "˹Imagine˺ how many peoples We have destroyed before them! Do you ˹still˺ see any of them, or ˹even˺ hear from them the slightest sound?",
+    "arabic1": "وَكَمْ أَهْلَكْنَا قَبْلَهُم مِّن قَرْنٍ هَلْ تُحِسُّ مِنْهُم مِّنْ أَحَدٍ أَوْ تَسْمَعُ لَهُمْ رِكْزًۢا",
+    "arabic2": "وكم اهلكنا قبلهم من قرن هل تحس منهم من احد او تسمع لهم ركزا",
+    "bengali": "আর তাদের পূর্বে কত প্রজন্মকে আমি ধ্বংস করেছি! তুমি কি তাদের কাউকে দেখতে পাও, কিংবা শুনতে পাও তাদের কোন ক্ষীণ আওয়াজ?",
+    "urdu": "اور ہم نے اس سے پہلے بہت سے گروہوں کو ہلاک کردیا ہے۔ بھلا تم ان میں سے کسی کو دیکھتے ہو یا (کہیں) ان کی بھنک سنتے ہو"
+}

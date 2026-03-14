@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 59,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/6_59.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/006059.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/6_59.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/006059.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/6_59.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/006059.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/6_59.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/006059.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/6_59.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/006059.mp3"
+        }
+    },
+    "english": "With Him are the keys of the unseen—no one knows them except Him. And He knows what is in the land and sea. Not even a leaf falls without His knowledge, nor a grain in the darkness of the earth or anything—green or dry—but is ˹written˺ in a perfect Record.",
+    "arabic1": "۞ وَعِندَهُۥ مَفَاتِحُ ٱلْغَيْبِ لَا يَعْلَمُهَآ إِلَّا هُوَ ۚ وَيَعْلَمُ مَا فِى ٱلْبَرِّ وَٱلْبَحْرِ ۚ وَمَا تَسْقُطُ مِن وَرَقَةٍ إِلَّا يَعْلَمُهَا وَلَا حَبَّةٍ فِى ظُلُمَـٰتِ ٱلْأَرْضِ وَلَا رَطْبٍ وَلَا يَابِسٍ إِلَّا فِى كِتَـٰبٍ مُّبِينٍ",
+    "arabic2": "وعنده مفاتح الغيب لا يعلمها الا هو ويعلم ما في البر والبحر وما تسقط من ورقة الا يعلمها ولا حبة في ظلمات الارض ولا رطب ولا يابس الا في كتاب مبين",
+    "bengali": "আর তাঁর কাছে রয়েছে গায়েবের চাবিসমূহ, তিনি ছাড়া এ বিষয়ে কেউ জানে না এবং তিনি অবগত রয়েছেন স্থলে ও সমুদ্রে যা কিছু আছে। আর কোন পাতা ঝরে না, কিন্তু তিনি তা জানেন এবং যমীনের অন্ধকারে কোন দানা পড়ে না, না কোন ভেজা এবং না কোন শুষ্ক কিছু; কিন্তু রয়েছে সুস্পষ্ট কিতাবে।",
+    "urdu": "اور اسی کے پاس غیب کی کنجیاں ہیں جن کو اس کے سوا کوئی نہیں جانتا۔ اور اسے جنگلوں اور دریاؤں کی سب چیزوں کا علم ہے۔ اور کوئی پتہ نہیں جھڑتا مگر وہ اس کو جانتا ہے اور زمین کے اندھیروں میں کوئی دانہ اور کوئی ہری اور سوکھی چیز نہیں ہے مگر کتاب روشن میں (لکھی ہوئی) ہے"
+}

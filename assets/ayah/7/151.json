@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 151,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/7_151.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/007151.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/7_151.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/007151.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/7_151.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/007151.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/7_151.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/007151.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/7_151.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/007151.mp3"
+        }
+    },
+    "english": "Moses prayed, “My Lord! Forgive me and my brother! And admit us into Your mercy. You are the Most Merciful of the merciful.”",
+    "arabic1": "قَالَ رَبِّ ٱغْفِرْ لِى وَلِأَخِى وَأَدْخِلْنَا فِى رَحْمَتِكَ ۖ وَأَنتَ أَرْحَمُ ٱلرَّٰحِمِينَ",
+    "arabic2": "قال رب اغفر لي ولاخي وادخلنا في رحمتك وانت ارحم الراحمين",
+    "bengali": "সে বলল, ‘আমার রব, ক্ষমা করুন আমাকে ও আমার ভাইকে এবং আপনার রহমতে আমাদের প্রবেশ করান। আর আপনিই রহমকারীদের মধ্যে শ্রেষ্ঠ।",
+    "urdu": "تب انہوں نے دعا کی کہ اے میرے پروردگار مجھے اور میرے بھائی کو معاف فرما اور ہمیں اپنی رحمت میں داخل کر تو سب سے بڑھ کر رحم کرنے والا ہے"
+}

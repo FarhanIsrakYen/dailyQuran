@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 31,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/4_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/004031.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/4_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/004031.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/4_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/004031.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/4_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/004031.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/4_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/004031.mp3"
+        }
+    },
+    "english": "If you avoid the major sins forbidden to you, We will absolve you of your ˹lesser˺ misdeeds and admit you into a place of honour.",
+    "arabic1": "إِن تَجْتَنِبُوا۟ كَبَآئِرَ مَا تُنْهَوْنَ عَنْهُ نُكَفِّرْ عَنكُمْ سَيِّـَٔاتِكُمْ وَنُدْخِلْكُم مُّدْخَلًا كَرِيمًا",
+    "arabic2": "ان تجتنبوا كبائر ما تنهون عنه نكفر عنكم سيئاتكم وندخلكم مدخلا كريما",
+    "bengali": "তোমরা যদি সেসব কবীরা গুনাহ পরিহার কর, যা থেকে তোমাদের বারণ করা হয়েছে, তাহলে আমি তোমাদের গুনাহসমূহ ক্ষমা করে দেব এবং তোমাদেরকে প্রবেশ করাব সম্মানজনক প্রবেশস্থলে।",
+    "urdu": "اگر تم بڑے بڑے گناہوں سے جن سے تم کو منع کیا جاتا ہے اجتناب رکھو گے تو ہم تمہارے (چھوٹے چھوٹے) گناہ معاف کردیں گے اور تمہیں عزت کے مکانوں میں داخل کریں گے"
+}

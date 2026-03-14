@@ -1,0 +1,42 @@
+{
+    "surahName": "Saba",
+    "surahNameArabic": "سبإ",
+    "surahNameArabicLong": "سورة سَبَأ",
+    "surahNameTranslation": "Sheba",
+    "revelationPlace": "Mecca",
+    "totalAyah": 54,
+    "surahNo": 34,
+    "ayahNo": 36,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/34_36.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/034036.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/34_36.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/034036.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/34_36.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/034036.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/34_36.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/034036.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/34_36.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/034036.mp3"
+        }
+    },
+    "english": "Say, ˹O Prophet,˺ “Surely ˹it is˺ my Lord ˹Who˺ gives abundant or limited provisions to whoever He wills. But most people do not know.”",
+    "arabic1": "قُلْ إِنَّ رَبِّى يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ وَيَقْدِرُ وَلَـٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ",
+    "arabic2": "قل ان ربي يبسط الرزق لمن يشاء ويقدر ولكن اكثر الناس لا يعلمون",
+    "bengali": "বল, ‘আমার রব যার জন্য ইচ্ছা রিয্ক প্রশস্ত করেন অথবা সঙ্কুচিত করেন। কিন্তু অধিকাংশ লোক তা জানে না।’",
+    "urdu": "کہہ دو کہ میرا رب جس کے لئے چاہتا ہے روزی فراخ کردیتا ہے (اور جس کے لئے چاہتا ہے) تنگ کردیتا ہے لیکن اکثر لوگ نہیں جانتے"
+}

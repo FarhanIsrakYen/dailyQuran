@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 213,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_213.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002213.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_213.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002213.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_213.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002213.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_213.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002213.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_213.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002213.mp3"
+        }
+    },
+    "english": "Humanity had once been one community ˹of believers before they lost faith˺. Then Allah raised prophets as deliverers of good news and as warners, and revealed to them the Scriptures in truth to judge among people regarding their disputes. And no one disputed the Scriptures except the very people who received them after clear proofs had come to them—out of jealousy. Then Allah, by His grace, has guided the believers to the truth regarding those disputes. And Allah guides whoever He wills to the Straight Path.",
+    "arabic1": "كَانَ ٱلنَّاسُ أُمَّةً وَٰحِدَةً فَبَعَثَ ٱللَّهُ ٱلنَّبِيِّـۧنَ مُبَشِّرِينَ وَمُنذِرِينَ وَأَنزَلَ مَعَهُمُ ٱلْكِتَـٰبَ بِٱلْحَقِّ لِيَحْكُمَ بَيْنَ ٱلنَّاسِ فِيمَا ٱخْتَلَفُوا۟ فِيهِ ۚ وَمَا ٱخْتَلَفَ فِيهِ إِلَّا ٱلَّذِينَ أُوتُوهُ مِنۢ بَعْدِ مَا جَآءَتْهُمُ ٱلْبَيِّنَـٰتُ بَغْيًۢا بَيْنَهُمْ ۖ فَهَدَى ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ لِمَا ٱخْتَلَفُوا۟ فِيهِ مِنَ ٱلْحَقِّ بِإِذْنِهِۦ ۗ وَٱللَّهُ يَهْدِى مَن يَشَآءُ إِلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ",
+    "arabic2": "كان الناس امة واحدة فبعث الله النبيين مبشرين ومنذرين وانزل معهم الكتاب بالحق ليحكم بين الناس فيما اختلفوا فيه وما اختلف فيه الا الذين اوتوه من بعد ما جاءتهم البينات بغيا بينهم فهدى الله الذين امنوا لما اختلفوا فيه من الحق باذنه والله يهدي من يشاء الى صراط مستقيم",
+    "bengali": "মানুষ ছিল এক উম্মত। অতঃপর আল্লাহ সুসংবাদদাতা ও সতর্ককারীরূপে নবীদেরকে প্রেরণ করলেন এবং সত্যসহ তাদের সাথে কিতাব নাযিল করলেন, যাতে মানুষের মধ্যে ফয়সালা করেন, যে বিষয়ে তারা মতবিরোধ করত। আর তারাই তাতে মতবিরোধ করেছিল, যাদেরকে তা দেয়া হয়েছিল, তাদের নিকট স্পষ্ট নিদর্শন আসার পরও পরস্পরের মধ্যে বিদ্বেষবশত। অতঃপর আল্লাহ নিজ অনুমতিতে মুমিনদেরকে হিদায়াত দিলেন যে বিষয়ে তারা মতবিরোধ করছিল। আর আল্লাহ যাকে ইচ্ছা করেন সরল পথের দিকে হিদায়াত দেন।",
+    "urdu": "(پہلے تو سب) لوگوں کا ایک ہی مذہب تھا (لیکن وہ آپس میں اختلاف کرنے لگے) تو خدا نے (ان کی طرف) بشارت دینے والے اور ڈر سنانے والے پیغمبر بھیجے اور ان پر سچائی کے ساتھ کتابیں نازل کیں تاکہ جن امور میں لوگ اختلاف کرتے تھے ان کا ان میں فیصلہ کردے۔ اور اس میں اختلاف بھی انہیں لوگوں نے کیا جن کو کتاب دی گئی تھی باوجود یہ کہ ان کے پاس کھلے ہوئے احکام آچکے تھے (اور یہ اختلاف انہوں نے صرف) آپس کی ضد سے (کیا) تو جس امر حق میں وہ اختلاف کرتے تھے خدا نے اپنی مہربانی سے مومنوں کو اس کی راہ دکھا دی۔ اور خدا جس کو چاہتا ہے سیدھا رستہ دکھا دیتا ہے"
+}

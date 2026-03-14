@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Noor",
+    "surahNameArabic": "النور",
+    "surahNameArabicLong": "سورة النور",
+    "surahNameTranslation": "The Light",
+    "revelationPlace": "Madina",
+    "totalAyah": 64,
+    "surahNo": 24,
+    "ayahNo": 64,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/24_64.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/024064.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/24_64.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/024064.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/24_64.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/024064.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/24_64.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/024064.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/24_64.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/024064.mp3"
+        }
+    },
+    "english": "Surely to Allah belongs whatever is in the heavens and the earth. He knows well what you stand for. And ˹on˺ the Day all will be returned to Him, He will inform them of what they did. For Allah has ˹perfect˺ knowledge of all things.",
+    "arabic1": "أَلَآ إِنَّ لِلَّهِ مَا فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۖ قَدْ يَعْلَمُ مَآ أَنتُمْ عَلَيْهِ وَيَوْمَ يُرْجَعُونَ إِلَيْهِ فَيُنَبِّئُهُم بِمَا عَمِلُوا۟ ۗ وَٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمٌۢ",
+    "arabic2": "الا ان لله ما في السماوات والارض قد يعلم ما انتم عليه ويوم يرجعون اليه فينبئهم بما عملوا والله بكل شيء عليم",
+    "bengali": "সাবধান, আসমানসমূহ ও যমীনে যা কিছু আছে তা আল্লাহরই; তোমরা যে অবস্থায় আছ তা তিনি অবশ্যই জানেন এবং যেদিন তাদেরকে তাঁর কাছে ফিরিয়ে নেয়া হবে সেদিন তারা যা করত তিনি তাদেরকে তা জানিয়ে দেবেন। আল্লাহ সব কিছু সম্পর্কে সম্যক জ্ঞাত।",
+    "urdu": "دیکھو جو کچھ آسمانوں اور زمین میں ہے سب خدا ہی کا ہے۔ جس (طریق) پر تم ہو وہ اسے جانتا ہے۔ اور جس روز لوگ اس کی طرف لوٹائے جائیں گے تو جو لوگ عمل کرتے رہے وہ ان کو بتا دے گا۔ اور خدا ہر چیز پر قادر ہے۔"
+}

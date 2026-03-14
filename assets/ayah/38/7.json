@@ -1,0 +1,42 @@
+{
+    "surahName": "Saad",
+    "surahNameArabic": "ص",
+    "surahNameArabicLong": "سورة ص",
+    "surahNameTranslation": "The letter Saad",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 38,
+    "ayahNo": 7,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/38_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/038007.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/38_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/038007.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/38_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/038007.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/38_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/038007.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/38_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/038007.mp3"
+        }
+    },
+    "english": "We have never heard of this in the previous faith. This is nothing but a fabrication.",
+    "arabic1": "مَا سَمِعْنَا بِهَـٰذَا فِى ٱلْمِلَّةِ ٱلْـَٔاخِرَةِ إِنْ هَـٰذَآ إِلَّا ٱخْتِلَـٰقٌ",
+    "arabic2": "ما سمعنا بهذا في الملة الاخرة ان هذا الا اختلاق",
+    "bengali": "আমরা তো সর্বশেষ ধর্মে এমন কথা শুনিনি*। এটা তো বানোয়াট কথা ছাড়া আর কিছু নয়। \n* তাদের জন্য সর্বশেষ ধর্ম ছিল খৃস্টধর্ম। কারো কারো মতে তা ছিল কুরাইশদের ধর্ম।",
+    "urdu": "یہ پچھلے مذہب میں ہم نے کبھی سنی ہی نہیں۔ یہ بالکل بنائی ہوئی بات ہے"
+}

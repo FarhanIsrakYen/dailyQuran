@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 155,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/6_155.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/006155.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/6_155.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/006155.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/6_155.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/006155.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/6_155.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/006155.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/6_155.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/006155.mp3"
+        }
+    },
+    "english": "This is a blessed Book We have revealed. So follow it and be mindful ˹of Allah˺, so you may be shown mercy.",
+    "arabic1": "وَهَـٰذَا كِتَـٰبٌ أَنزَلْنَـٰهُ مُبَارَكٌ فَٱتَّبِعُوهُ وَٱتَّقُوا۟ لَعَلَّكُمْ تُرْحَمُونَ",
+    "arabic2": "وهذا كتاب انزلناه مبارك فاتبعوه واتقوا لعلكم ترحمون",
+    "bengali": "আর এটি কিতাব- যা আমি নাযিল করেছি- বরকতময়। সুতরাং তোমরা তার অনুসরণ কর এবং তাকওয়া অবলম্বন কর, যাতে তোমরা রহমতপ্রাপ্ত হও।",
+    "urdu": "اور (اے کفر کرنے والوں) یہ کتاب بھی ہمیں نے اتاری ہے برکت والی تو اس کی پیروی کرو اور (خدا سے) ڈرو تاکہ تم پر مہربانی کی جائے"
+}

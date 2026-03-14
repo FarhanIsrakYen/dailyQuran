@@ -1,0 +1,42 @@
+{
+    "surahName": "Luqman",
+    "surahNameArabic": "لقمان",
+    "surahNameArabicLong": "سورة لقمان",
+    "surahNameTranslation": "Luqman",
+    "revelationPlace": "Mecca",
+    "totalAyah": 34,
+    "surahNo": 31,
+    "ayahNo": 17,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/31_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/031017.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/31_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/031017.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/31_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/031017.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/31_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/031017.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/31_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/031017.mp3"
+        }
+    },
+    "english": "“O my dear son! Establish prayer, encourage what is good and forbid what is evil, and endure patiently whatever befalls you. Surely this is a resolve to aspire to.",
+    "arabic1": "يَـٰبُنَىَّ أَقِمِ ٱلصَّلَوٰةَ وَأْمُرْ بِٱلْمَعْرُوفِ وَٱنْهَ عَنِ ٱلْمُنكَرِ وَٱصْبِرْ عَلَىٰ مَآ أَصَابَكَ ۖ إِنَّ ذَٰلِكَ مِنْ عَزْمِ ٱلْأُمُورِ",
+    "arabic2": "يا بني اقم الصلاة وامر بالمعروف وانه عن المنكر واصبر على ما اصابك ان ذلك من عزم الامور",
+    "bengali": "‘হে আমার প্রিয় বৎস, সালাত কায়েম কর, সৎকাজের আদেশ দাও, অসৎকাজে নিষেধ কর এবং তোমার উপর যে বিপদ আসে তাতে ধৈর্য ধর। নিশ্চয় এগুলো অন্যতম দৃঢ় সংকল্পের কাজ’।",
+    "urdu": "بیٹا نماز کی پابندی رکھنا اور (لوگوں کو) اچھے کاموں کے کرنے کا امر اور بری باتوں سے منع کرتے رہنا اور جو مصیبت تجھ پر واقع ہو اس پر صبر کرنا۔ بیشک یہ بڑی ہمت کے کام ہیں"
+}

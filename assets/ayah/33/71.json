@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Ahzaab",
+    "surahNameArabic": "الأحزاب",
+    "surahNameArabicLong": "سورة الأحزاب",
+    "surahNameTranslation": "The Clans",
+    "revelationPlace": "Madina",
+    "totalAyah": 73,
+    "surahNo": 33,
+    "ayahNo": 71,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/33_71.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/033071.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/33_71.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/033071.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/33_71.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/033071.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/33_71.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/033071.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/33_71.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/033071.mp3"
+        }
+    },
+    "english": "He will bless your deeds for you, and forgive your sins. And whoever obeys Allah and His Messenger, has truly achieved a great triumph.",
+    "arabic1": "يُصْلِحْ لَكُمْ أَعْمَـٰلَكُمْ وَيَغْفِرْ لَكُمْ ذُنُوبَكُمْ ۗ وَمَن يُطِعِ ٱللَّهَ وَرَسُولَهُۥ فَقَدْ فَازَ فَوْزًا عَظِيمًا",
+    "arabic2": "يصلح لكم اعمالكم ويغفر لكم ذنوبكم ومن يطع الله ورسوله فقد فاز فوزا عظيما",
+    "bengali": "তিনি তোমাদের জন্য তোমাদের কাজগুলোকে শুদ্ধ করে দেবেন এবং তোমাদের পাপগুলো ক্ষমা করে দেবেন। আর যে ব্যক্তি আল্লাহ ও তাঁর রাসূলের আনুগত্য করে, সে অবশ্যই এক মহা সাফল্য অর্জন করল।",
+    "urdu": "وہ تمہارے اعمال درست کردے گا اور تمہارے گناہ بخش دے گا۔ اور جو شخص خدا اور اس کے رسول کی فرمانبرداری کرے گا تو بےشک بڑی مراد پائے گا"
+}

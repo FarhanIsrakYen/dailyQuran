@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 37,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/17_37.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/017037.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/17_37.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/017037.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/17_37.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/017037.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/17_37.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/017037.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/17_37.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/017037.mp3"
+        }
+    },
+    "english": "And do not walk on the earth arrogantly. Surely you can neither crack the earth nor stretch to the height of the mountains.",
+    "arabic1": "وَلَا تَمْشِ فِى ٱلْأَرْضِ مَرَحًا ۖ إِنَّكَ لَن تَخْرِقَ ٱلْأَرْضَ وَلَن تَبْلُغَ ٱلْجِبَالَ طُولًا",
+    "arabic2": "ولا تمش في الارض مرحا انك لن تخرق الارض ولن تبلغ الجبال طولا",
+    "bengali": "আর যমীনে বড়াই করে চলো না; তুমি তো কখনো যমীনকে ফাটল ধরাতে পারবে না এবং উচ্চতায় কখনো পাহাড় সমান পৌঁছতে পারবে না।",
+    "urdu": "اور زمین پر اکڑ کر (اور تن کر) مت چل کہ تو زمین کو پھاڑ تو نہیں ڈالے گا اور نہ لمبا ہو کر پہاڑوں (کی چوٹی) تک پہنچ جائے گا"
+}

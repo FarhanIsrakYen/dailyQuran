@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nahl",
+    "surahNameArabic": "النحل",
+    "surahNameArabicLong": "سورة النحل",
+    "surahNameTranslation": "The Bee",
+    "revelationPlace": "Mecca",
+    "totalAyah": 128,
+    "surahNo": 16,
+    "ayahNo": 27,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/16_27.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/016027.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/16_27.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/016027.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/16_27.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/016027.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/16_27.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/016027.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/16_27.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/016027.mp3"
+        }
+    },
+    "english": "Then on the Day of Judgment He will humiliate them and say, “Where are My ˹so-called˺ associate-gods for whose sake you used to oppose ˹the believers˺?” Those gifted with knowledge will say, “Surely disgrace and misery today are upon the disbelievers.”",
+    "arabic1": "ثُمَّ يَوْمَ ٱلْقِيَـٰمَةِ يُخْزِيهِمْ وَيَقُولُ أَيْنَ شُرَكَآءِىَ ٱلَّذِينَ كُنتُمْ تُشَـٰٓقُّونَ فِيهِمْ ۚ قَالَ ٱلَّذِينَ أُوتُوا۟ ٱلْعِلْمَ إِنَّ ٱلْخِزْىَ ٱلْيَوْمَ وَٱلسُّوٓءَ عَلَى ٱلْكَـٰفِرِينَ",
+    "arabic2": "ثم يوم القيامة يخزيهم ويقول اين شركائي الذين كنتم تشاقون فيهم قال الذين اوتوا العلم ان الخزي اليوم والسوء على الكافرين",
+    "bengali": "অতঃপর কিয়ামতের দিন তিনি তাদেরকে লাঞ্ছিত করবেন এবং বলবেন, ‘কোথায় আমার শরীকরা, যাদের ব্যাপারে তোমরা (মুমিনদের) বিরোধীতা করতে’? যাদেরকে জ্ঞান দেয়া হয়েছে, তারা বলবে, ‘নিশ্চয় লাঞ্ছনা ও দুর্গতি আজ কাফিরদের উপর।’",
+    "urdu": "پھر وہ ان کو قیامت کے دن بھی ذلیل کرے گا اور کہے گا کہ میرے وہ شریک کہاں ہیں جن کے بارے میں تم جھگڑا کرتے تھے۔ جن لوگوں کو علم دیا گیا تھا وہ کہیں گے کہ آج کافروں کی رسوائی اور برائی ہے"
+}

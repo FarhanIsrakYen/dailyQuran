@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 77,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/4_77.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/004077.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/4_77.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/004077.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/4_77.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/004077.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/4_77.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/004077.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/4_77.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/004077.mp3"
+        }
+    },
+    "english": "Have you ˹O Prophet˺ not seen those who had been told, “Do not fight! Rather, establish prayer and pay alms-tax.”? Then once the order came to fight, a group of them feared those ˹hostile˺ people as Allah should be feared—or even more. They said, “Our Lord! Why have You ordered us to fight? If only You had delayed ˹the order for˺ us for a little while!” Say, ˹O Prophet,˺ “The enjoyment of this world is so little, whereas the Hereafter is far better for those mindful ˹of Allah˺. And none of you will be wronged ˹even by the width of˺ the thread of a date stone.",
+    "arabic1": "أَلَمْ تَرَ إِلَى ٱلَّذِينَ قِيلَ لَهُمْ كُفُّوٓا۟ أَيْدِيَكُمْ وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ فَلَمَّا كُتِبَ عَلَيْهِمُ ٱلْقِتَالُ إِذَا فَرِيقٌ مِّنْهُمْ يَخْشَوْنَ ٱلنَّاسَ كَخَشْيَةِ ٱللَّهِ أَوْ أَشَدَّ خَشْيَةً ۚ وَقَالُوا۟ رَبَّنَا لِمَ كَتَبْتَ عَلَيْنَا ٱلْقِتَالَ لَوْلَآ أَخَّرْتَنَآ إِلَىٰٓ أَجَلٍ قَرِيبٍ ۗ قُلْ مَتَـٰعُ ٱلدُّنْيَا قَلِيلٌ وَٱلْـَٔاخِرَةُ خَيْرٌ لِّمَنِ ٱتَّقَىٰ وَلَا تُظْلَمُونَ فَتِيلًا",
+    "arabic2": "الم تر الى الذين قيل لهم كفوا ايديكم واقيموا الصلاة واتوا الزكاة فلما كتب عليهم القتال اذا فريق منهم يخشون الناس كخشية الله او اشد خشية وقالوا ربنا لم كتبت علينا القتال لولا اخرتنا الى اجل قريب قل متاع الدنيا قليل والاخرة خير لمن اتقى ولا تظلمون فتيلا",
+    "bengali": "তুমি কি তাদেরকে দেখনি যাদেরকে বলা হয়েছিল, তোমরা তোমাদের হাত গুটিয়ে নাও এবং সালাত কায়েম কর ও যাকাত প্রদান কর? অতঃপর তাদের উপর যখন লড়াই ফরয করা হল, তখন তাদের একদল মানুষকে ভয় করতে লাগল আল্লাহকে ভয় করার অনুরূপ অথবা তার চেয়ে কঠিন ভয়। আর বলল, ‘হে আমাদের রব, আপনি আমাদের উপর লড়াই ফরয করলেন কেন? আমাদেরকে কেন আরো কিছুকালের অবকাশ দিলেন না’? বল, ‘দুনিয়ার সুখ সামান্য। আর যে তাকওয়া অবলম্বন করে তার জন্য আখিরাত উত্তম। আর তোমাদের প্রতি সূতা পরিমাণ যুলমও করা হবে না’।",
+    "urdu": "بھلا تم نے ان لوگوں کو نہیں دیکھا جن کو (پہلے یہ) حکم دیا گیا تھا کہ اپنے ہاتھوں کو (جنگ سے) روکے رہو اور نماز پڑھتے رہو اور زکوٰة دیتے رہو پھر جب ان پر جہاد فرض کردیا گیا تو بعض لوگ ان میں سے لوگوں سے یوں ڈرنے لگے جیسے خدا سے ڈرا کرتے ہیں بلکہ اس سے بھی زیادہ اور بڑبڑانے لگے کہ اے خدا تو نے ہم پر جہاد (جلد) کیوں فرض کردیا تھوڑی مدت اور ہمیں کیوں مہلت نہ دی (اے پیغمبر ان س)ے کہہ دو کہ دنیا کا فائدہ بہت تھوڑا ہے اور بہت اچھی چیز تو پرہیزگار کے لئے (نجات) آخرت ہے اور تم پر دھاگے برابر بھی ظلم نہیں کیا جائے گا"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 68,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/6_68.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/006068.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/6_68.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/006068.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/6_68.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/006068.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/6_68.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/006068.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/6_68.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/006068.mp3"
+        }
+    },
+    "english": "And when you come across those who ridicule Our revelations, do not sit with them unless they engage in a different topic. Should Satan make you forget, then once you remember, do not ˹continue to˺ sit with the wrongdoing people.",
+    "arabic1": "وَإِذَا رَأَيْتَ ٱلَّذِينَ يَخُوضُونَ فِىٓ ءَايَـٰتِنَا فَأَعْرِضْ عَنْهُمْ حَتَّىٰ يَخُوضُوا۟ فِى حَدِيثٍ غَيْرِهِۦ ۚ وَإِمَّا يُنسِيَنَّكَ ٱلشَّيْطَـٰنُ فَلَا تَقْعُدْ بَعْدَ ٱلذِّكْرَىٰ مَعَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+    "arabic2": "واذا رايت الذين يخوضون في اياتنا فاعرض عنهم حتى يخوضوا في حديث غيره واما ينسينك الشيطان فلا تقعد بعد الذكرى مع القوم الظالمين",
+    "bengali": "আর যখন তুমি তাদেরকে দেখ, যারা আমার আয়াতসমূহের ব্যাপারে উপহাসমূলক সমালোচনায় রত আছে, তুমি তাদের থেকে মুখ ফিরিয়ে নাও, যতক্ষণ না তারা অন্য কথাবার্তায় লিপ্ত হয়। আর যদি শয়তান তোমাকে ভুলিয়ে দেয়, তবে স্মরণের পর যালিম সম্প্রদায়ের সাথে বসো না।",
+    "urdu": "اور جب تم ایسے لوگوں کو دیکھو جو ہماری آیتوں کے بارے میں بیہودہ بکواس کر رہے ہوں تو ان سے الگ ہوجاؤ یہاں تک کہ اور باتوں میں مصروف ہوجائیں۔ اور اگر (یہ بات) شیطان تمہیں بھلا دے تو یاد آنے پر ظالم لوگوں کے ساتھ نہ بیٹھو"
+}

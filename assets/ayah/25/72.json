@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Furqaan",
+    "surahNameArabic": "الفرقان",
+    "surahNameArabicLong": "سورة الفرقان",
+    "surahNameTranslation": "The Criterion",
+    "revelationPlace": "Mecca",
+    "totalAyah": 77,
+    "surahNo": 25,
+    "ayahNo": 72,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/25_72.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/025072.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/25_72.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/025072.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/25_72.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/025072.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/25_72.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/025072.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/25_72.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/025072.mp3"
+        }
+    },
+    "english": "˹They are˺ those who do not bear false witness, and when they come across falsehood, they pass ˹it˺ by with dignity.",
+    "arabic1": "وَٱلَّذِينَ لَا يَشْهَدُونَ ٱلزُّورَ وَإِذَا مَرُّوا۟ بِٱللَّغْوِ مَرُّوا۟ كِرَامًا",
+    "arabic2": "والذين لا يشهدون الزور واذا مروا باللغو مروا كراما",
+    "bengali": "আর যারা মিথ্যার সাক্ষ্য হয় না এবং যখন তারা অনর্থক কথা-কর্মের পাশ দিয়ে চলে তখন সসম্মানে চলে যায়।",
+    "urdu": "اور وہ جو جھوٹی گواہی نہیں دیتے اور جب ان کو بیہودہ چیزوں کے پاس سے گزرنے کا اتفاق ہو تو بزرگانہ انداز سے گزرتے ہیں"
+}

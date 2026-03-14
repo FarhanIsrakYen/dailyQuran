@@ -1,0 +1,42 @@
+{
+    "surahName": "Yaseen",
+    "surahNameArabic": "يس",
+    "surahNameArabicLong": "سورة يس",
+    "surahNameTranslation": "Yaseen",
+    "revelationPlace": "Mecca",
+    "totalAyah": 83,
+    "surahNo": 36,
+    "ayahNo": 14,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/36_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/036014.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/36_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/036014.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/36_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/036014.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/36_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/036014.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/36_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/036014.mp3"
+        }
+    },
+    "english": "We sent them two messengers, but they rejected both. So We reinforced ˹the two˺ with a third, and they declared, “We have indeed been sent to you ˹as messengers˺.”",
+    "arabic1": "إِذْ أَرْسَلْنَآ إِلَيْهِمُ ٱثْنَيْنِ فَكَذَّبُوهُمَا فَعَزَّزْنَا بِثَالِثٍ فَقَالُوٓا۟ إِنَّآ إِلَيْكُم مُّرْسَلُونَ",
+    "arabic2": "اذ ارسلنا اليهم اثنين فكذبوهما فعززنا بثالث فقالوا انا اليكم مرسلون",
+    "bengali": "যখন আমি তাদের কাছে দু’জন রাসূল পাঠিয়েছিলাম, তখন তারা তাদেরকে মিথ্যাবাদী বলেছিল। তারপর আমি তাদেরকে তৃতীয় একজনের মাধ্যমে শক্তিশালী করেছিলাম। অতঃপর তারা বলেছিল, ‘নিশ্চয় আমরা তোমাদের প্রতি প্রেরিত রাসূল’।",
+    "urdu": "(یعنی) جب ہم نے ان کی طرف دو (پیغمبر) بھیجے تو انہوں نے ان کو جھٹلایا۔ پھر ہم نے تیسرے سے تقویت دی تو انہوں نے کہا کہ ہم تمہاری طرف پیغمبر ہو کر آئے ہیں"
+}

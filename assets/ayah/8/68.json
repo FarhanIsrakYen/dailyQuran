@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Anfaal",
+    "surahNameArabic": "الأنفال",
+    "surahNameArabicLong": "سورة الأنفال",
+    "surahNameTranslation": "The Spoils of War",
+    "revelationPlace": "Madina",
+    "totalAyah": 75,
+    "surahNo": 8,
+    "ayahNo": 68,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/8_68.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/008068.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/8_68.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/008068.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/8_68.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/008068.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/8_68.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/008068.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/8_68.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/008068.mp3"
+        }
+    },
+    "english": "Had it not been for a prior decree from Allah, you would have certainly been disciplined with a tremendous punishment for whatever ˹ransom˺ you have taken.",
+    "arabic1": "لَّوْلَا كِتَـٰبٌ مِّنَ ٱللَّهِ سَبَقَ لَمَسَّكُمْ فِيمَآ أَخَذْتُمْ عَذَابٌ عَظِيمٌ",
+    "arabic2": "لولا كتاب من الله سبق لمسكم فيما اخذتم عذاب عظيم",
+    "bengali": "আল্লাহর লিখন অতিবাহিত না হয়ে থাকলে, অবশ্যই তোমরা যা গ্রহণ করেছ, সে বিষয়ে তোমাদেরকে মহা আযাব স্পর্শ করত।",
+    "urdu": "اگر خدا کا حکم پہلے نہ ہوچکا ہوتا تو جو (فدیہ) تم نے لیا ہے اس کے بدلے تم پر بڑا عذاب نازل ہوتا"
+}

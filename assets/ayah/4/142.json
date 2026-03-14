@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 142,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/4_142.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/004142.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/4_142.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/004142.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/4_142.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/004142.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/4_142.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/004142.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/4_142.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/004142.mp3"
+        }
+    },
+    "english": "Surely the hypocrites seek to deceive Allah, but He outwits them. When they stand up for prayer, they do it half-heartedly only to be seen by people—hardly remembering Allah at all.",
+    "arabic1": "إِنَّ ٱلْمُنَـٰفِقِينَ يُخَـٰدِعُونَ ٱللَّهَ وَهُوَ خَـٰدِعُهُمْ وَإِذَا قَامُوٓا۟ إِلَى ٱلصَّلَوٰةِ قَامُوا۟ كُسَالَىٰ يُرَآءُونَ ٱلنَّاسَ وَلَا يَذْكُرُونَ ٱللَّهَ إِلَّا قَلِيلًا",
+    "arabic2": "ان المنافقين يخادعون الله وهو خادعهم واذا قاموا الى الصلاة قاموا كسالى يراءون الناس ولا يذكرون الله الا قليلا",
+    "bengali": "নিশ্চয় মুনাফিকরা আল্লাহকে ধোঁকা দেয়। আর তিনি তাদেরকে ধোঁকায় ফেলেন। আর যখন তারা সালাতে দাঁড়ায় তখন অলসভাবে দাঁড়ায়, তারা লোকদেরকে দেখায় এবং তারা আল্লাহকে কমই স্মরণ করে।",
+    "urdu": "منافق (ان چالوں سے اپنے نزدیک) خدا کو دھوکا دیتے ہیں (یہ اس کو کیا دھوکا دیں گے) وہ انہیں کو دھوکے میں ڈالنے والا ہے اور جب یہ نماز کو کھڑے ہوتے ہیں تو سست اور کاہل ہو کر (صرف) لوگوں کے دکھانے کو اور خدا کی یاد ہی نہیں کرتے مگر بہت کم"
+}

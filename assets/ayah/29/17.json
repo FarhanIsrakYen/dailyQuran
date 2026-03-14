@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Ankaboot",
+    "surahNameArabic": "العنكبوت",
+    "surahNameArabicLong": "سورة العنكبوت",
+    "surahNameTranslation": "The Spider",
+    "revelationPlace": "Mecca",
+    "totalAyah": 69,
+    "surahNo": 29,
+    "ayahNo": 17,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/29_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/029017.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/29_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/029017.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/29_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/029017.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/29_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/029017.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/29_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/029017.mp3"
+        }
+    },
+    "english": "You worship besides Allah nothing but idols, simply creating lies ˹about them˺. Those you worship besides Allah certainly cannot give you any provision. So seek provision from Allah ˹alone˺, worship Him, and be grateful to Him. To Him you will ˹all˺ be returned.",
+    "arabic1": "إِنَّمَا تَعْبُدُونَ مِن دُونِ ٱللَّهِ أَوْثَـٰنًا وَتَخْلُقُونَ إِفْكًا ۚ إِنَّ ٱلَّذِينَ تَعْبُدُونَ مِن دُونِ ٱللَّهِ لَا يَمْلِكُونَ لَكُمْ رِزْقًا فَٱبْتَغُوا۟ عِندَ ٱللَّهِ ٱلرِّزْقَ وَٱعْبُدُوهُ وَٱشْكُرُوا۟ لَهُۥٓ ۖ إِلَيْهِ تُرْجَعُونَ",
+    "arabic2": "انما تعبدون من دون الله اوثانا وتخلقون افكا ان الذين تعبدون من دون الله لا يملكون لكم رزقا فابتغوا عند الله الرزق واعبدوه واشكروا له اليه ترجعون",
+    "bengali": "‘তোমরা তো আল্লাহকে বাদ দিয়ে মূর্তিগুলোর পূজা করছ এবং মিথ্যা বানাচ্ছ। নিশ্চয় তোমরা আল্লাহ ছাড়া যাদের উপাসনা কর তারা তোমাদের জন্য রিয্ক-এর মালিক নয়। তাই আল্লাহর কাছে রিয্ক তালাশ কর, তাঁর ইবাদাত কর এবং তাঁর প্রতি কৃতজ্ঞতা প্রকাশ কর। তাঁরই কাছে তোমরা প্রত্যাবর্তিত হবে।",
+    "urdu": "تو تم خدا کو چھوڑ کر بتوں کو پوجتے اور طوفان باندھتے ہو تو جن لوگوں کو تم خدا کے سوا پوجتے ہو وہ تم کو رزق دینے کا اختیار نہیں رکھتے پس خدا ہی کے ہاں سے رزق طلب کرو اور اسی کی عبادت کرو اور اسی کا شکر کرو اسی کی طرف تم لوٹ کر جاؤ گے"
+}

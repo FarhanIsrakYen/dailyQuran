@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 41,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/9_41.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/009041.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/9_41.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/009041.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/9_41.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/009041.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/9_41.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/009041.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/9_41.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/009041.mp3"
+        }
+    },
+    "english": "˹O believers!˺ March forth whether it is easy or difficult for you, and strive with your wealth and your lives in the cause of Allah. That is best for you, if only you knew.",
+    "arabic1": "ٱنفِرُوا۟ خِفَافًا وَثِقَالًا وَجَـٰهِدُوا۟ بِأَمْوَٰلِكُمْ وَأَنفُسِكُمْ فِى سَبِيلِ ٱللَّهِ ۚ ذَٰلِكُمْ خَيْرٌ لَّكُمْ إِن كُنتُمْ تَعْلَمُونَ",
+    "arabic2": "انفروا خفافا وثقالا وجاهدوا باموالكم وانفسكم في سبيل الله ذلكم خير لكم ان كنتم تعلمون",
+    "bengali": "তোমরা হালকা ও ভারী উভয় অবস্থায় যুদ্ধে বের হও এবং তোমাদের মাল ও জান নিয়ে আল্লাহর রাস্তায় জিহাদ কর। এটা তোমাদের জন্য উত্তম, যদি তোমরা জানতে।",
+    "urdu": "تم سبکبار ہو یا گراں بار (یعنی مال و اسباب تھوڑا رکھتے ہو یا بہت، گھروں سے) نکل آؤ۔ اور خدا کے رستے میں مال اور جان سے لڑو۔ یہی تمہارے حق میں اچھا ہے بشرطیکہ سمجھو"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 128,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/4_128.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/004128.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/4_128.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/004128.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/4_128.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/004128.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/4_128.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/004128.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/4_128.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/004128.mp3"
+        }
+    },
+    "english": "If a woman fears indifference or neglect from her husband, there is no blame on either of them if they seek ˹fair˺ settlement, which is best. Humans are ever inclined to selfishness. But if you are gracious and mindful ˹of Allah˺, surely Allah is All-Aware of what you do.",
+    "arabic1": "وَإِنِ ٱمْرَأَةٌ خَافَتْ مِنۢ بَعْلِهَا نُشُوزًا أَوْ إِعْرَاضًا فَلَا جُنَاحَ عَلَيْهِمَآ أَن يُصْلِحَا بَيْنَهُمَا صُلْحًا ۚ وَٱلصُّلْحُ خَيْرٌ ۗ وَأُحْضِرَتِ ٱلْأَنفُسُ ٱلشُّحَّ ۚ وَإِن تُحْسِنُوا۟ وَتَتَّقُوا۟ فَإِنَّ ٱللَّهَ كَانَ بِمَا تَعْمَلُونَ خَبِيرًا",
+    "arabic2": "وان امراة خافت من بعلها نشوزا او اعراضا فلا جناح عليهما ان يصلحا بينهما صلحا والصلح خير واحضرت الانفس الشح وان تحسنوا وتتقوا فان الله كان بما تعملون خبيرا",
+    "bengali": "যদি কোন নারী তার স্বামীর পক্ষ থেকে কোন দুর্ব্যবহার কিংবা উপেক্ষার আশঙ্কা করে, তাহলে তারা উভয়ে কোন মীমাংসা করলে তাদের কোন অপরাধ নেই। আর মীমাংসা কল্যাণকর এবং মানুষের মধ্যে কৃপণতা বিদ্যমান রয়েছে। আর যদি তোমরা সৎকর্ম কর এবং তাকওয়া অবলম্বন কর তবে আল্লাহ তোমরা যা কর সে বিষয়ে সম্যক অবগত।",
+    "urdu": "اور اگر کسی عورت کو اپنے خاوند کی طرف سے زیادتی یا بےرغبتی کا اندیشہ ہو تم میاں بیوی پر کچھ گناہ نہیں کہ آپس میں کسی قرارداد پر صلح کرلیں۔ اور صلح خوب (چیز) ہے اور طبیعتیں تو بخل کی طرف مائل ہوتی ہیں اور اگر تم نیکوکاری اور پرہیزگاری کرو گے تو خدا تمہارے سب کاموں سے واقف ہے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 125,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/4_125.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/004125.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/4_125.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/004125.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/4_125.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/004125.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/4_125.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/004125.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/4_125.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/004125.mp3"
+        }
+    },
+    "english": "And who is better in faith than those who ˹fully˺ submit themselves to Allah, do good, and follow the Way of Abraham, the upright? Allah chose Abraham as a close friend.",
+    "arabic1": "وَمَنْ أَحْسَنُ دِينًا مِّمَّنْ أَسْلَمَ وَجْهَهُۥ لِلَّهِ وَهُوَ مُحْسِنٌ وَٱتَّبَعَ مِلَّةَ إِبْرَٰهِيمَ حَنِيفًا ۗ وَٱتَّخَذَ ٱللَّهُ إِبْرَٰهِيمَ خَلِيلًا",
+    "arabic2": "ومن احسن دينا ممن اسلم وجهه لله وهو محسن واتبع ملة ابراهيم حنيفا واتخذ الله ابراهيم خليلا",
+    "bengali": "আর দীনের ব্যাপারে তার তুলনায় কে উত্তম, যে সৎকর্মপরায়ণ অবস্থায় আল্লাহর কাছে নিজকে পূর্ণ সমর্পণ করল এবং একনিষ্ঠভাবে ইবরাহীমের আদর্শ অনুসরণ করল? আর আল্লাহ ইবরাহীমকে পরম বন্ধুরূপে গ্রহণ করেছেন।",
+    "urdu": "اور اس شخص سے کس کا دین اچھا ہوسکتا ہے جس نے حکم خدا کو قبول کیا اور وہ نیکوکار بھی ہے۔ اور ابراہیم کے دین کا پیرو ہے جو یکسوں (مسلمان ) تھے اور خدا نے ابراہیم کو اپنا دوست بنایا تھا"
+}

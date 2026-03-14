@@ -1,0 +1,42 @@
+{
+    "surahName": "Yusuf",
+    "surahNameArabic": "يوسف",
+    "surahNameArabicLong": "سورة يوسف",
+    "surahNameTranslation": "Joseph",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 12,
+    "ayahNo": 109,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/12_109.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/012109.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/12_109.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/012109.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/12_109.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/012109.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/12_109.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/012109.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/12_109.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/012109.mp3"
+        }
+    },
+    "english": "We only sent before you ˹O Prophet˺ men inspired by Us from among the people of each society. Have the deniers not travelled through the land to see what was the end of those ˹destroyed˺ before them? And surely the ˹eternal˺ Home of the Hereafter is far better for those mindful ˹of Allah˺. Will you not then understand?",
+    "arabic1": "وَمَآ أَرْسَلْنَا مِن قَبْلِكَ إِلَّا رِجَالًا نُّوحِىٓ إِلَيْهِم مِّنْ أَهْلِ ٱلْقُرَىٰٓ ۗ أَفَلَمْ يَسِيرُوا۟ فِى ٱلْأَرْضِ فَيَنظُرُوا۟ كَيْفَ كَانَ عَـٰقِبَةُ ٱلَّذِينَ مِن قَبْلِهِمْ ۗ وَلَدَارُ ٱلْـَٔاخِرَةِ خَيْرٌ لِّلَّذِينَ ٱتَّقَوْا۟ ۗ أَفَلَا تَعْقِلُونَ",
+    "arabic2": "وما ارسلنا من قبلك الا رجالا نوحي اليهم من اهل القرى افلم يسيروا في الارض فينظروا كيف كان عاقبة الذين من قبلهم ولدار الاخرة خير للذين اتقوا افلا تعقلون",
+    "bengali": "আর আমি তোমার পূর্বে জনপদবাসী থেকে পুরুষদেরকেই কেবল রাসূল হিসেবে প্রেরণ করেছি, যাদের উপর আমি ওহী নাযিল করতাম। তারা কি যমীনে বিচরণ করে না। তাহলে দেখত, তাদের পূর্বে যারা ছিল তাদের পরিণতি কিরূপ হয়েছে? আর যারা তাকওয়া অবলম্বন করে তাদের জন্য আখিরাতের আবাসনই উত্তম, তবুও কি তোমরা বুঝ না?",
+    "urdu": "اور ہم نے تم سے پہلے بستیوں کے رہنے والوں میں سے مرد ہی بھیجے تھے جن کی طرف ہم وحی بھیجتے تھے۔ کیا ان لوگوں نے ملک میں سیر (وسیاحت) نہیں کی کہ دیکھ لیتے کہ جو لوگ ان سے پہلے تھے ان کا انجام کیا ہوا۔ اور متّقیوں کے لیے آخرت کا گھر بہت اچھا ہے۔ کیا تم سمجھتے نہیں؟"
+}

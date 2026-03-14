@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 147,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/7_147.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/007147.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/7_147.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/007147.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/7_147.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/007147.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/7_147.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/007147.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/7_147.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/007147.mp3"
+        }
+    },
+    "english": "The deeds of those who deny Our signs and the meeting ˹with Allah˺ in the Hereafter will be in vain. Will they be rewarded except for what they have done?”",
+    "arabic1": "وَٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَـٰتِنَا وَلِقَآءِ ٱلْـَٔاخِرَةِ حَبِطَتْ أَعْمَـٰلُهُمْ ۚ هَلْ يُجْزَوْنَ إِلَّا مَا كَانُوا۟ يَعْمَلُونَ",
+    "arabic2": "والذين كذبوا باياتنا ولقاء الاخرة حبطت اعمالهم هل يجزون الا ما كانوا يعملون",
+    "bengali": "আর যারা আমার আয়াতসমূহ ও আখিরাতের সাক্ষাতকে অস্বীকার করেছে তাদের কর্মসমূহ বিনষ্ট হয়ে গেছে। তারা যা করে তদনুযায়ী তাদের প্রতিদান দেয়া হবে।",
+    "urdu": "اور جن لوگوں نے ہماری آیتوں اور آخرت کے آنے کو جھٹلایا ان کے اعمال ضائع ہوجائیں گے۔ یہ جیسے عمل کرتے ہیں ویسا ہی ان کو بدلہ ملے گا"
+}

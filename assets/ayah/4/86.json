@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 86,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/4_86.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/004086.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/4_86.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/004086.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/4_86.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/004086.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/4_86.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/004086.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/4_86.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/004086.mp3"
+        }
+    },
+    "english": "And when you are greeted, respond with a better greeting or at least similarly. Surely Allah is a ˹vigilant˺ Reckoner of all things.",
+    "arabic1": "وَإِذَا حُيِّيتُم بِتَحِيَّةٍ فَحَيُّوا۟ بِأَحْسَنَ مِنْهَآ أَوْ رُدُّوهَآ ۗ إِنَّ ٱللَّهَ كَانَ عَلَىٰ كُلِّ شَىْءٍ حَسِيبًا",
+    "arabic2": "واذا حييتم بتحية فحيوا باحسن منها او ردوها ان الله كان على كل شيء حسيبا",
+    "bengali": "আর যখন তোমাদেরকে সালাম দেয়া হবে তখন তোমরা তার চেয়ে উত্তম সালাম দেবে। অথবা জবাবে তাই দেবে। নিশ্চয় আল্লাহ সব বিষয়ে পূর্ণ হিসাবকারী।",
+    "urdu": "اور جب تم کو کوئی دعا دے تو (جواب میں) تم اس سے بہتر (کلمے) سے (اسے) دعا دو یا انہیں لفظوں سے دعا دو بےشک خدا ہر چیز کا حساب لینے والا ہے"
+}

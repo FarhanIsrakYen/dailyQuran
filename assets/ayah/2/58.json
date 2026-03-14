@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 58,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_58.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002058.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_58.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002058.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_58.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002058.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_58.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002058.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_58.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002058.mp3"
+        }
+    },
+    "english": "And ˹remember˺ when We said, “Enter this city and eat freely from wherever you please; enter the gate with humility, saying, ‘Absolve us.’ We will forgive your sins and multiply the reward for the good-doers.”",
+    "arabic1": "وَإِذْ قُلْنَا ٱدْخُلُوا۟ هَـٰذِهِ ٱلْقَرْيَةَ فَكُلُوا۟ مِنْهَا حَيْثُ شِئْتُمْ رَغَدًا وَٱدْخُلُوا۟ ٱلْبَابَ سُجَّدًا وَقُولُوا۟ حِطَّةٌ نَّغْفِرْ لَكُمْ خَطَـٰيَـٰكُمْ ۚ وَسَنَزِيدُ ٱلْمُحْسِنِينَ",
+    "arabic2": "واذ قلنا ادخلوا هذه القرية فكلوا منها حيث شئتم رغدا وادخلوا الباب سجدا وقولوا حطة نغفر لكم خطاياكم وسنزيد المحسنين",
+    "bengali": "আর স্মরণ কর, যখন আমি বললাম, ‘তোমরা প্রবেশ কর এই জনপদে। আর তা থেকে আহার কর তোমাদের ইচ্ছানুযায়ী, স্বাচ্ছন্দ্যে এবং দরজায় প্রবেশ কর মাথা নীচু করে। আর বল ‘ক্ষমা’। তাহলে আমি তোমাদের পাপসমূহ ক্ষমা করে দেব এবং নিশ্চয় আমি সৎকর্মশীলদেরকে বাড়িয়ে দেব’।",
+    "urdu": "اور جب ہم نے (ان سے) کہا کہ اس گاؤں میں داخل ہو جاؤ اور اس میں جہاں سے چاہو، خوب کھاؤ (پیو) اور (دیکھنا) دروازے میں داخل ہونا تو سجدہ کرنا اور حطة کہنا، ہم تمہارے گناہ معاف کر دیں گے اور نیکی کرنے والوں کو اور زیادہ دیں گے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 253,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_253.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002253.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_253.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002253.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_253.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002253.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_253.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002253.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_253.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002253.mp3"
+        }
+    },
+    "english": "We have chosen some of those messengers above others. Allah spoke directly to some, and raised some high in rank. To Jesus, son of Mary, We gave clear proofs and supported him with the holy spirit. If Allah had willed, succeeding generations would not have fought ˹among themselves˺ after receiving the clear proofs. But they differed—some believed while others disbelieved. Yet if Allah had willed, they would not have fought one another. But Allah does what He wills.",
+    "arabic1": "۞ تِلْكَ ٱلرُّسُلُ فَضَّلْنَا بَعْضَهُمْ عَلَىٰ بَعْضٍ ۘ مِّنْهُم مَّن كَلَّمَ ٱللَّهُ ۖ وَرَفَعَ بَعْضَهُمْ دَرَجَـٰتٍ ۚ وَءَاتَيْنَا عِيسَى ٱبْنَ مَرْيَمَ ٱلْبَيِّنَـٰتِ وَأَيَّدْنَـٰهُ بِرُوحِ ٱلْقُدُسِ ۗ وَلَوْ شَآءَ ٱللَّهُ مَا ٱقْتَتَلَ ٱلَّذِينَ مِنۢ بَعْدِهِم مِّنۢ بَعْدِ مَا جَآءَتْهُمُ ٱلْبَيِّنَـٰتُ وَلَـٰكِنِ ٱخْتَلَفُوا۟ فَمِنْهُم مَّنْ ءَامَنَ وَمِنْهُم مَّن كَفَرَ ۚ وَلَوْ شَآءَ ٱللَّهُ مَا ٱقْتَتَلُوا۟ وَلَـٰكِنَّ ٱللَّهَ يَفْعَلُ مَا يُرِيدُ",
+    "arabic2": "تلك الرسل فضلنا بعضهم على بعض منهم من كلم الله ورفع بعضهم درجات واتينا عيسى ابن مريم البينات وايدناه بروح القدس ولو شاء الله ما اقتتل الذين من بعدهم من بعد ما جاءتهم البينات ولكن اختلفوا فمنهم من امن ومنهم من كفر ولو شاء الله ما اقتتلوا ولكن الله يفعل ما يريد",
+    "bengali": "ঐ রাসূলগণ, আমি তাদের কাউকে কারো উপর শ্রেষ্ঠত্ব দিয়েছি, তাদের মধ্যে কারো সাথে আল্লাহ কথা বলেছেন এবং কারো কারো মর্যাদা উঁচু করেছেন। আর আমি ঈসা ইবনে মারয়ামকে দিয়েছি সুস্পষ্ট প্রমাণাদি এবং আমি তাকে শক্তিশালী করেছি রূহুল কুদুস এর মাধ্যমে। আর যদি আল্লাহ ইচ্ছা করতেন, তাদের পরবর্তীরা লড়াই করত না, তাদের নিকট সুস্পষ্ট প্রমাণসমূহ আসার পর। কিন্তু তারা মতবিরোধ করেছে। ফলে তাদের মধ্যে কেউ ঈমান এনেছে, আর তাদের কেউ কুফরী করেছে। আর আল্লাহ যদি চাইতেন, তাহলে তারা লড়াই করত না। কিন্তু আল্লাহ যা চান, তা করেন।",
+    "urdu": "یہ پیغمبر (جو ہم وقتاً فوقتاً بھیجتے رہیں ہیں) ان میں سے ہم نے بعض کو بعض پر فضیلت دی ہے۔ بعض ایسے ہیں جن سے خدا نے گفتگو فرمائی اور بعض کے (دوسرے امور میں) مرتبے بلند کئے۔ اور عیسیٰ بن مریم کو ہم نے کھلی ہوئی نشانیاں عطا کیں اور روح القدس سے ان کو مدد دی۔ اور اگر خداچاہتا تو ان سے پچھلے لوگ اپنے پاس کھلی نشانیاں آنے کے بعد آپس میں نہ لڑتے لیکن انہوں نے اختلاف کیا تو ان میں سے بعض تو ایمان لے آئے اور بعض کافر ہی رہے۔ اور اگر خدا چاہتا تو یہ لوگ باہم جنگ و قتال نہ کرتے۔ لیکن خدا جو چاہتا ہے کرتا ہے"
+}

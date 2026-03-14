@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Inshiqaaq",
+    "surahNameArabic": "الإنشقاق",
+    "surahNameArabicLong": "سورة الإنشقاق",
+    "surahNameTranslation": "The Splitting Open",
+    "revelationPlace": "Mecca",
+    "totalAyah": 25,
+    "surahNo": 84,
+    "ayahNo": 6,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/84_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/084006.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/84_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/084006.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/84_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/084006.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/84_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/084006.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/84_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/084006.mp3"
+        }
+    },
+    "english": "O humanity! Indeed, you are labouring restlessly towards your Lord, and will ˹eventually˺ meet the consequences.",
+    "arabic1": "يَـٰٓأَيُّهَا ٱلْإِنسَـٰنُ إِنَّكَ كَادِحٌ إِلَىٰ رَبِّكَ كَدْحًا فَمُلَـٰقِيهِ",
+    "arabic2": "يا ايها الانسان انك كادح الى ربك كدحا فملاقيه",
+    "bengali": "হে মানুষ, তোমার রব পর্যন্ত (পৌঁছতে) অবশ্যই তোমাকে কঠোর পরিশ্রম করতে হবে। অতঃপর তুমি তাঁর সাক্ষাৎ পাবে।",
+    "urdu": "اے انسان! تو اپنے پروردگار کی طرف (پہنچنے میں) خوب کوشِش کرتا ہے سو اس سے جا ملے گا"
+}

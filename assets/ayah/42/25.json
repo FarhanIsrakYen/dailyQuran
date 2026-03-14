@@ -1,0 +1,42 @@
+{
+    "surahName": "Ash-Shura",
+    "surahNameArabic": "الشورى",
+    "surahNameArabicLong": "سورة الشورى",
+    "surahNameTranslation": "Consultation",
+    "revelationPlace": "Mecca",
+    "totalAyah": 53,
+    "surahNo": 42,
+    "ayahNo": 25,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/42_25.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/042025.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/42_25.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/042025.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/42_25.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/042025.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/42_25.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/042025.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/42_25.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/042025.mp3"
+        }
+    },
+    "english": "He is the One Who accepts repentance from His servants and pardons ˹their˺ sins. And He knows whatever you do.",
+    "arabic1": "وَهُوَ ٱلَّذِى يَقْبَلُ ٱلتَّوْبَةَ عَنْ عِبَادِهِۦ وَيَعْفُوا۟ عَنِ ٱلسَّيِّـَٔاتِ وَيَعْلَمُ مَا تَفْعَلُونَ",
+    "arabic2": "وهو الذي يقبل التوبة عن عباده ويعفو عن السيئات ويعلم ما تفعلون",
+    "bengali": "আর তিনিই তাঁর বান্দাদের তাওবা কবূল করেন এবং পাপসমূহ ক্ষমা করে দেন। আর তোমরা যা কর, তা তিনি জানেন।",
+    "urdu": "اور وہی تو ہے جو اپنے بندوں کی توبہ قبول کرتا اور (ان کے) قصور معاف فرماتا ہے اور جو تم کرتے ہو (سب) جانتا ہے"
+}

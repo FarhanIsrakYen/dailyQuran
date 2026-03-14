@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Hajj",
+    "surahNameArabic": "الحج",
+    "surahNameArabicLong": "سورة الحج",
+    "surahNameTranslation": "The Pilgrimage",
+    "revelationPlace": "Madina",
+    "totalAyah": 78,
+    "surahNo": 22,
+    "ayahNo": 55,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/22_55.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/022055.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/22_55.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/022055.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/22_55.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/022055.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/22_55.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/022055.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/22_55.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/022055.mp3"
+        }
+    },
+    "english": "Yet the disbelievers will persist in doubt about this ˹revelation˺ until the Hour takes them by surprise, or the torment of a terminating Day comes to them.",
+    "arabic1": "وَلَا يَزَالُ ٱلَّذِينَ كَفَرُوا۟ فِى مِرْيَةٍ مِّنْهُ حَتَّىٰ تَأْتِيَهُمُ ٱلسَّاعَةُ بَغْتَةً أَوْ يَأْتِيَهُمْ عَذَابُ يَوْمٍ عَقِيمٍ",
+    "arabic2": "ولا يزال الذين كفروا في مرية منه حتى تاتيهم الساعة بغتة او ياتيهم عذاب يوم عقيم",
+    "bengali": "আর যারা কুফরী করে, তারা এতে সন্দেহ পোষণ করতে থাকবে যতক্ষণ না তাদের নিকট আকস্মিকভাবে কিয়ামত এসে পড়বে অথবা তাদের নিকট এসে পড়বে এক বন্ধ্যা দিনের আযাব।",
+    "urdu": "اور کافر لوگ ہمیشہ اس سے شک میں رہیں گے یہاں تک کہ قیامت ان پر ناگہاں آجائے یا ایک نامبارک دن کا عذاب ان پر واقع ہو"
+}

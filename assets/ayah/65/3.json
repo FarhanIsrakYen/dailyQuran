@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Talaaq",
+    "surahNameArabic": "الطلاق",
+    "surahNameArabicLong": "سورة الطلاق",
+    "surahNameTranslation": "Divorce",
+    "revelationPlace": "Madina",
+    "totalAyah": 12,
+    "surahNo": 65,
+    "ayahNo": 3,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/65_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/065003.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/65_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/065003.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/65_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/065003.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/65_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/065003.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/65_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/065003.mp3"
+        }
+    },
+    "english": "and provide for them from sources they could never imagine. And whoever puts their trust in Allah, then He ˹alone˺ is sufficient for them. Certainly Allah achieves His Will. Allah has already set a destiny for everything.",
+    "arabic1": "وَيَرْزُقْهُ مِنْ حَيْثُ لَا يَحْتَسِبُ ۚ وَمَن يَتَوَكَّلْ عَلَى ٱللَّهِ فَهُوَ حَسْبُهُۥٓ ۚ إِنَّ ٱللَّهَ بَـٰلِغُ أَمْرِهِۦ ۚ قَدْ جَعَلَ ٱللَّهُ لِكُلِّ شَىْءٍ قَدْرًا",
+    "arabic2": "ويرزقه من حيث لا يحتسب ومن يتوكل على الله فهو حسبه ان الله بالغ امره قد جعل الله لكل شيء قدرا",
+    "bengali": "এবং তিনি তাকে এমন উৎস থেকে রিযক দিবেন যা সে কল্পনাও করতে পারবে না। আর যে আল্লাহর ওপর তাওয়াক্কুল করে আল্লাহ তার জন্য যথেষ্ট। আল্লাহ তাঁর উদ্দেশ্য পূর্ণ করবেনই। নিশ্চয় আল্লাহ প্রত্যেক জিনিসের জন্য একটি সময়সীমা নির্ধারণ করে দিয়েছেন।",
+    "urdu": "اور اس کو ایسی جگہ سے رزق دے گا جہاں سے (وہم و) گمان بھی نہ ہو۔ اور جو خدا پر بھروسہ رکھے گا تو وہ اس کو کفایت کرے گا۔ خدا اپنے کام کو (جو وہ کرنا چاہتا ہے) پورا کردیتا ہے۔ خدا نے ہر چیز کا اندازہ مقرر کر رکھا ہے"
+}

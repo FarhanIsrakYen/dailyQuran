@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nahl",
+    "surahNameArabic": "النحل",
+    "surahNameArabicLong": "سورة النحل",
+    "surahNameTranslation": "The Bee",
+    "revelationPlace": "Mecca",
+    "totalAyah": 128,
+    "surahNo": 16,
+    "ayahNo": 45,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/16_45.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/016045.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/16_45.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/016045.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/16_45.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/016045.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/16_45.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/016045.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/16_45.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/016045.mp3"
+        }
+    },
+    "english": "Do those who devise evil plots feel secure that Allah will not cause the earth to swallow them? Or that the torment will not come upon them in ways they cannot comprehend?",
+    "arabic1": "أَفَأَمِنَ ٱلَّذِينَ مَكَرُوا۟ ٱلسَّيِّـَٔاتِ أَن يَخْسِفَ ٱللَّهُ بِهِمُ ٱلْأَرْضَ أَوْ يَأْتِيَهُمُ ٱلْعَذَابُ مِنْ حَيْثُ لَا يَشْعُرُونَ",
+    "arabic2": "افامن الذين مكروا السيئات ان يخسف الله بهم الارض او ياتيهم العذاب من حيث لا يشعرون",
+    "bengali": "যারা মন্দের ষড়যন্ত্র করে তারা কি নিরাপদ হয়ে গেছে যে, আল্লাহ তাদেরসহ মাটিকে ধ্বসিয়ে দেবেন না। অথবা তাদের উপর আসবে না, আযাব এমনভাবে যে, তারা উপলব্ধি করবে না?",
+    "urdu": "کیا جو لوگ بری بری چالیں چلتے ہیں اس بات سے بےخوف ہیں کہ خدا ان کو زمین میں دھنسا دے یا (ایسی طرف سے) ان پر عذاب آجائے جہاں سے ان کو خبر ہی نہ ہو"
+}

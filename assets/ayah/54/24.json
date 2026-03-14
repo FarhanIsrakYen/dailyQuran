@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Qamar",
+    "surahNameArabic": "القمر",
+    "surahNameArabicLong": "سورة القمر",
+    "surahNameTranslation": "The Moon",
+    "revelationPlace": "Mecca",
+    "totalAyah": 55,
+    "surahNo": 54,
+    "ayahNo": 24,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/54_24.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/054024.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/54_24.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/054024.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/54_24.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/054024.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/54_24.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/054024.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/54_24.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/054024.mp3"
+        }
+    },
+    "english": "arguing, “How can we follow one ˹average˺ human being from among us? We would then truly be misguided and insane.",
+    "arabic1": "فَقَالُوٓا۟ أَبَشَرًا مِّنَّا وَٰحِدًا نَّتَّبِعُهُۥٓ إِنَّآ إِذًا لَّفِى ضَلَـٰلٍ وَسُعُرٍ",
+    "arabic2": "فقالوا ابشرا منا واحدا نتبعه انا اذا لفي ضلال وسعر",
+    "bengali": "অতঃপর তারা বলেছিল, ‘আমরা কি আমাদেরই মধ্য থেকে এক ব্যক্তির অনুসরণ করব? তাহলে নিশ্চয় আমরা পথভ্রষ্টতা ও উম্মত্ততার মধ্যে পড়ব’।",
+    "urdu": "اور کہا کہ بھلا ایک آدمی جو ہم ہی میں سے ہے ہم اس کی پیروی کریں؟ یوں ہو تو ہم گمراہی اور دیوانگی میں پڑ گئے"
+}

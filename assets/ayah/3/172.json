@@ -1,0 +1,42 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 172,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/3_172.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/003172.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/3_172.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/003172.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/3_172.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/003172.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/3_172.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/003172.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/3_172.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/003172.mp3"
+        }
+    },
+    "english": "˹As for˺ those who responded to the call of Allah and His Messenger after their injury, those of them who did good and were mindful ˹of Allah˺ will have a great reward.",
+    "arabic1": "ٱلَّذِينَ ٱسْتَجَابُوا۟ لِلَّهِ وَٱلرَّسُولِ مِنۢ بَعْدِ مَآ أَصَابَهُمُ ٱلْقَرْحُ ۚ لِلَّذِينَ أَحْسَنُوا۟ مِنْهُمْ وَٱتَّقَوْا۟ أَجْرٌ عَظِيمٌ",
+    "arabic2": "الذين استجابوا لله والرسول من بعد ما اصابهم القرح للذين احسنوا منهم واتقوا اجر عظيم",
+    "bengali": "যারা আল্লাহ ও রাসূলের ডাকে সাড়া দিয়েছে যখমপ্রাপ্ত হওয়ার পরও, তাদের মধ্য থেকে যারা সৎকর্ম করেছে এবং তাকওয়া অবলম্বন করেছে তাদের জন্য রয়েছে মহাপুরস্কার।",
+    "urdu": "جنہوں نے باوجود زخم کھانے کے خدا اور رسول (کے حکم) کو قبول کیا جو لوگ ان میں نیکوکار اور پرہیزگار ہیں ان کے لئے بڑا ثواب ہے"
+}

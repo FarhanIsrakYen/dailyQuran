@@ -1,0 +1,42 @@
+{
+    "surahName": "Hud",
+    "surahNameArabic": "هود",
+    "surahNameArabicLong": "سورة هود",
+    "surahNameTranslation": "Hud",
+    "revelationPlace": "Mecca",
+    "totalAyah": 123,
+    "surahNo": 11,
+    "ayahNo": 90,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/11_90.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/011090.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/11_90.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/011090.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/11_90.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/011090.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/11_90.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/011090.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/11_90.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/011090.mp3"
+        }
+    },
+    "english": "So seek your Lord’s forgiveness and turn to Him in repentance. Surely my Lord is Most Merciful, All-Loving.”",
+    "arabic1": "وَٱسْتَغْفِرُوا۟ رَبَّكُمْ ثُمَّ تُوبُوٓا۟ إِلَيْهِ ۚ إِنَّ رَبِّى رَحِيمٌ وَدُودٌ",
+    "arabic2": "واستغفروا ربكم ثم توبوا اليه ان ربي رحيم ودود",
+    "bengali": "‘আর তোমরা তোমাদের রবের কাছে ইস্তিগফার কর অতঃপর তাঁরই কাছে তাওবা কর। নিশ্চয় আমার রব পরম দয়ালু, অতীব ভালবাসা পোষণকারী’।",
+    "urdu": "اور اپنے پروردگار سے بخشش مانگو اور اس کے آگے توبہ کرو۔ بےشک میرا پروردگار رحم والا (اور) محبت والا ہے"
+}

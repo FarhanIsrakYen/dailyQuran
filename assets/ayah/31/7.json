@@ -1,0 +1,42 @@
+{
+    "surahName": "Luqman",
+    "surahNameArabic": "لقمان",
+    "surahNameArabicLong": "سورة لقمان",
+    "surahNameTranslation": "Luqman",
+    "revelationPlace": "Mecca",
+    "totalAyah": 34,
+    "surahNo": 31,
+    "ayahNo": 7,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/31_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/031007.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/31_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/031007.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/31_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/031007.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/31_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/031007.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/31_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/031007.mp3"
+        }
+    },
+    "english": "Whenever Our revelations are recited to them, they turn away in arrogance as if they did not hear them, as if there is deafness in their ears. So give them good news ˹O Prophet˺ of a painful punishment.",
+    "arabic1": "وَإِذَا تُتْلَىٰ عَلَيْهِ ءَايَـٰتُنَا وَلَّىٰ مُسْتَكْبِرًا كَأَن لَّمْ يَسْمَعْهَا كَأَنَّ فِىٓ أُذُنَيْهِ وَقْرًا ۖ فَبَشِّرْهُ بِعَذَابٍ أَلِيمٍ",
+    "arabic2": "واذا تتلى عليه اياتنا ولى مستكبرا كان لم يسمعها كان في اذنيه وقرا فبشره بعذاب اليم",
+    "bengali": "আর তার কাছে যখন আমার আয়াতসমূহ পাঠ করা হয় তখন সে দম্ভভরে মুখ ফিরিয়ে নেয়, যেন সে শুনতে পায়নি, তার দু’কানে যেন বধিরতা; সুতরাং তাকে যন্ত্রণাদায়ক আযাবের সুসংবাদ দাও।",
+    "urdu": "اور جب اس کو ہماری آیتیں سنائی جاتی ہیں تو اکڑ کر منہ پھیر لیتا ہے گویا اُن کو سنا ہی نہیں جیسے اُن کے کانوں میں ثقل ہے تو اس کو درد دینے والے عذاب کی خوشخبری سنادو"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Ibrahim",
+    "surahNameArabic": "ابراهيم",
+    "surahNameArabicLong": "سورة ابراهيم",
+    "surahNameTranslation": "Abraham",
+    "revelationPlace": "Mecca",
+    "totalAyah": 52,
+    "surahNo": 14,
+    "ayahNo": 46,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/14_46.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/014046.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/14_46.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/014046.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/14_46.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/014046.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/14_46.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/014046.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/14_46.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/014046.mp3"
+        }
+    },
+    "english": "They devised every plot, which was fully known to Allah, but their plotting was not enough to ˹even˺ overpower mountains ˹let alone Allah˺.",
+    "arabic1": "وَقَدْ مَكَرُوا۟ مَكْرَهُمْ وَعِندَ ٱللَّهِ مَكْرُهُمْ وَإِن كَانَ مَكْرُهُمْ لِتَزُولَ مِنْهُ ٱلْجِبَالُ",
+    "arabic2": "وقد مكروا مكرهم وعند الله مكرهم وان كان مكرهم لتزول منه الجبال",
+    "bengali": "আর তারা তাদের ষড়যন্ত্র করেছিল, আর আল্লাহর কাছেই তাদের ষড়যন্ত্র, যদিও তাদের ষড়যন্ত্র এমন ছিল যা দ্বারা পাহাড় অপসারিত হয়ে যায়।",
+    "urdu": "اور انہوں نے (بڑی بڑی) تدبیریں کیں اور ان کی (سب) تدبیریں خدا کے ہاں (لکھی ہوئی) ہیں گو وہ تدبیریں ایسی (غضب کی) تھیں کہ ان سے پہاڑ بھی ٹل جائیں"
+}

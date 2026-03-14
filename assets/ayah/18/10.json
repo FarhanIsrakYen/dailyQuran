@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Kahf",
+    "surahNameArabic": "الكهف",
+    "surahNameArabicLong": "سورة الكهف",
+    "surahNameTranslation": "The Cave",
+    "revelationPlace": "Mecca",
+    "totalAyah": 110,
+    "surahNo": 18,
+    "ayahNo": 10,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/18_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/018010.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/18_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/018010.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/18_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/018010.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/18_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/018010.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/18_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/018010.mp3"
+        }
+    },
+    "english": "˹Remember˺ when those youths took refuge in the cave, and said, “Our Lord! Grant us mercy from Yourself and guide us rightly through our ordeal.”",
+    "arabic1": "إِذْ أَوَى ٱلْفِتْيَةُ إِلَى ٱلْكَهْفِ فَقَالُوا۟ رَبَّنَآ ءَاتِنَا مِن لَّدُنكَ رَحْمَةً وَهَيِّئْ لَنَا مِنْ أَمْرِنَا رَشَدًا",
+    "arabic2": "اذ اوى الفتية الى الكهف فقالوا ربنا اتنا من لدنك رحمة وهيئ لنا من امرنا رشدا",
+    "bengali": "যখন যুবকরা গুহায় আশ্রয় নিল অতঃপর বলল, ‘হে আমাদের রব, আমাদেরকে আপনার পক্ষ থেকে রহমত দিন এবং আমাদের জন্য আমাদের কর্মকান্ড সঠিক করে দিন’।",
+    "urdu": "جب وہ جوان غار میں جا رہے تو کہنے لگے کہ اے ہمارے پروردگار ہم پر اپنے ہاں سے رحمت نازل فرما۔ اور ہمارے کام درستی (کے سامان) مہیا کر"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nahl",
+    "surahNameArabic": "النحل",
+    "surahNameArabicLong": "سورة النحل",
+    "surahNameTranslation": "The Bee",
+    "revelationPlace": "Mecca",
+    "totalAyah": 128,
+    "surahNo": 16,
+    "ayahNo": 102,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/16_102.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/016102.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/16_102.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/016102.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/16_102.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/016102.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/16_102.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/016102.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/16_102.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/016102.mp3"
+        }
+    },
+    "english": "Say, “The holy spirit has brought it down from your Lord with the truth to reassure the believers, and as a guide and good news for those who submit ˹to Allah˺.”",
+    "arabic1": "قُلْ نَزَّلَهُۥ رُوحُ ٱلْقُدُسِ مِن رَّبِّكَ بِٱلْحَقِّ لِيُثَبِّتَ ٱلَّذِينَ ءَامَنُوا۟ وَهُدًى وَبُشْرَىٰ لِلْمُسْلِمِينَ",
+    "arabic2": "قل نزله روح القدس من ربك بالحق ليثبت الذين امنوا وهدى وبشرى للمسلمين",
+    "bengali": "বল, রুহুল কুদস (জীবরীল) একে তোমার রবের পক্ষ হতে যথাযথভাবে নাযিল করেছেন। যারা ঈমান এনেছে তাদেরকে সুদৃঢ় করার জন্য এবং হিদায়াত ও মুসলিমদের জন্য সুসংবাদস্বরূপ।",
+    "urdu": "کہہ دو کہ اس کو روح القدس تمہارے پروردگار کی طرف سے سچائی کے ساتھ لے کر نازل ہوئے ہیں تاکہ یہ (قرآن) مومنوں کو ثابت قدم رکھے اور حکم ماننے والوں کے لئے تو (یہ) ہدایت اور بشارت ہے"
+}

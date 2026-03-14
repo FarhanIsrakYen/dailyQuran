@@ -1,0 +1,42 @@
+{
+    "surahName": "Ar-Room",
+    "surahNameArabic": "الروم",
+    "surahNameArabicLong": "سورة الروم",
+    "surahNameTranslation": "The Romans",
+    "revelationPlace": "Mecca",
+    "totalAyah": 60,
+    "surahNo": 30,
+    "ayahNo": 30,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/30_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/030030.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/30_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/030030.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/30_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/030030.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/30_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/030030.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/30_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/030030.mp3"
+        }
+    },
+    "english": "So be steadfast in faith in all uprightness ˹O Prophet˺—the natural Way of Allah which He has instilled in ˹all˺ people. Let there be no change in this creation of Allah. That is the Straight Way, but most people do not know.",
+    "arabic1": "فَأَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفًا ۚ فِطْرَتَ ٱللَّهِ ٱلَّتِى فَطَرَ ٱلنَّاسَ عَلَيْهَا ۚ لَا تَبْدِيلَ لِخَلْقِ ٱللَّهِ ۚ ذَٰلِكَ ٱلدِّينُ ٱلْقَيِّمُ وَلَـٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ",
+    "arabic2": "فاقم وجهك للدين حنيفا فطرت الله التي فطر الناس عليها لا تبديل لخلق الله ذلك الدين القيم ولكن اكثر الناس لا يعلمون",
+    "bengali": "অতএব তুমি একনিষ্ঠ হয়ে দীনের জন্য নিজকে প্রতিষ্ঠিত রাখ। আল্লাহর প্রকৃতি*, যে প্রকৃতির উপর তিনি মানুষ সৃষ্টি করেছেন। আল্লাহর সৃষ্টির কোন পরিবর্তন নেই। এটাই প্রতিষ্ঠিত দীন; কিন্তু অধিকাংশ মানুষ জানে না। \n* فطرة স্বভাব, প্রকৃতি। মহান আল্লাহ মানুষকে যে সহজাত প্রকৃতি দিয়ে সৃষ্টি করেছেন। তাকেই فطرة الله বলা হয়েছে। আর فطرة الله এর মর্মার্থ হল ইসলাম।",
+    "urdu": "تو تم ایک طرف کے ہوکر دین (خدا کے رستے) پر سیدھا منہ کئے چلے جاؤ (اور) خدا کی فطرت کو جس پر اُس نے لوگوں کو پیدا کیا ہے (اختیار کئے رہو) خدا کی بنائی ہوئی (فطرت) میں تغیر وتبدل نہیں ہو سکتا۔ یہی سیدھا دین ہے لیکن اکثر لوگ نہیں جانتے"
+}

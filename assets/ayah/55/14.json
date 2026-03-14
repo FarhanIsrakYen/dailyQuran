@@ -1,0 +1,42 @@
+{
+    "surahName": "Ar-Rahmaan",
+    "surahNameArabic": "الرحمن",
+    "surahNameArabicLong": "سورة الرحمن",
+    "surahNameTranslation": "The Beneficent",
+    "revelationPlace": "Madina",
+    "totalAyah": 78,
+    "surahNo": 55,
+    "ayahNo": 14,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/55_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/055014.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/55_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/055014.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/55_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/055014.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/55_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/055014.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/55_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/055014.mp3"
+        }
+    },
+    "english": "He created humankind from ˹sounding˺ clay like pottery",
+    "arabic1": "خَلَقَ ٱلْإِنسَـٰنَ مِن صَلْصَـٰلٍ كَٱلْفَخَّارِ",
+    "arabic2": "خلق الانسان من صلصال كالفخار",
+    "bengali": "তিনি মানুষকে সৃষ্টি করেছেন শুষ্ক ঠনঠনে মাটি থেকে যা পোড়া মাটির ন্যায়।",
+    "urdu": "اسی نے انسان کو ٹھیکرے کی طرح کھنکھناتی مٹی سے بنایا"
+}

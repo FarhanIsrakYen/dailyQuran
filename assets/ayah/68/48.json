@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Qalam",
+    "surahNameArabic": "القلم",
+    "surahNameArabicLong": "سورة القلم",
+    "surahNameTranslation": "The Pen",
+    "revelationPlace": "Mecca",
+    "totalAyah": 52,
+    "surahNo": 68,
+    "ayahNo": 48,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/68_48.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/068048.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/68_48.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/068048.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/68_48.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/068048.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/68_48.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/068048.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/68_48.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/068048.mp3"
+        }
+    },
+    "english": "So be patient with your Lord’s decree, and do not be like ˹Jonah,˺ the Man of the Whale, who cried out ˹to Allah˺, in total distress.",
+    "arabic1": "فَٱصْبِرْ لِحُكْمِ رَبِّكَ وَلَا تَكُن كَصَاحِبِ ٱلْحُوتِ إِذْ نَادَىٰ وَهُوَ مَكْظُومٌ",
+    "arabic2": "فاصبر لحكم ربك ولا تكن كصاحب الحوت اذ نادى وهو مكظوم",
+    "bengali": "অতএব তুমি তোমার রবের হুকুমের জন্য ধৈর্যধারণ কর। আর তুমি মাছওয়ালার মত হয়ো না, যখন সে দুঃখে কাতর হয়ে ডেকেছিল।",
+    "urdu": "تو اپنے پروردگار کے حکم کے انتظار میں صبر کئے رہو اور مچھلی (کا لقمہ ہونے) والے یونس کی طرح رہو نا کہ انہوں نے (خدا) کو پکارا اور وہ (غم و) غصے میں بھرے ہوئے تھے"
+}

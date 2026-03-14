@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Taghaabun",
+    "surahNameArabic": "التغابن",
+    "surahNameArabicLong": "سورة التغابن",
+    "surahNameTranslation": "Mutual Disillusion",
+    "revelationPlace": "Madina",
+    "totalAyah": 18,
+    "surahNo": 64,
+    "ayahNo": 9,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/64_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/064009.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/64_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/064009.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/64_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/064009.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/64_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/064009.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/64_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/064009.mp3"
+        }
+    },
+    "english": "˹Consider˺ the Day He will gather you ˹all˺ for the Day of Gathering—that will be the Day of mutual loss and gain. So whoever believes in Allah and does good, He will absolve them of their sins and admit them into Gardens under which rivers flow, to stay there for ever and ever. That is the ultimate triumph.",
+    "arabic1": "يَوْمَ يَجْمَعُكُمْ لِيَوْمِ ٱلْجَمْعِ ۖ ذَٰلِكَ يَوْمُ ٱلتَّغَابُنِ ۗ وَمَن يُؤْمِنۢ بِٱللَّهِ وَيَعْمَلْ صَـٰلِحًا يُكَفِّرْ عَنْهُ سَيِّـَٔاتِهِۦ وَيُدْخِلْهُ جَنَّـٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ خَـٰلِدِينَ فِيهَآ أَبَدًا ۚ ذَٰلِكَ ٱلْفَوْزُ ٱلْعَظِيمُ",
+    "arabic2": "يوم يجمعكم ليوم الجمع ذلك يوم التغابن ومن يؤمن بالله ويعمل صالحا يكفر عنه سيئاته ويدخله جنات تجري من تحتها الانهار خالدين فيها ابدا ذلك الفوز العظيم",
+    "bengali": "স্মরণ কর, যেদিন সমাবেশ দিবসের উদ্দেশ্যে আল্লাহ তোমাদের সমবেত করবেন, ঐ দিনই হচ্ছে লাভ-ক্ষতির দিন। আর যে আল্লাহর প্রতি ঈমান আনে ও সৎকর্ম করে তিনি তার পাপসমূহ মোচন করে দিবেন এবং তাকে প্রবেশ করাবেন জান্নাতসমূহে, যার পাদদেশ দিয়ে ঝর্ণাধারা প্রবাহিত হয়, তথায় তারা স্থায়ী হবে। এটাই মহাসাফল্য।",
+    "urdu": "جس دن وہ تم کو اکھٹا ہونے (یعنی قیامت) کے دن اکھٹا کرے گا وہ نقصان اٹھانے کا دن ہے۔ اور جو شخص خدا پر ایمان لائے اور نیک عمل کرے وہ اس سے اس کی برائیاں دور کردے گا اور باغہائے بہشت میں جن کے نیچے نہریں بہہ رہی ہیں داخل کرے گا۔ ہمیشہ ان میں رہیں گے۔ یہ بڑی کامیابی ہے"
+}

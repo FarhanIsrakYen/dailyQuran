@@ -1,0 +1,42 @@
+{
+    "surahName": "Saba",
+    "surahNameArabic": "سبإ",
+    "surahNameArabicLong": "سورة سَبَأ",
+    "surahNameTranslation": "Sheba",
+    "revelationPlace": "Mecca",
+    "totalAyah": 54,
+    "surahNo": 34,
+    "ayahNo": 45,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/34_45.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/034045.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/34_45.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/034045.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/34_45.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/034045.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/34_45.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/034045.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/34_45.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/034045.mp3"
+        }
+    },
+    "english": "Those ˹destroyed˺ before them denied as well—and these ˹Meccans˺ have not attained even one-tenth of what We had given their predecessors. Yet ˹when˺ they denied My messengers, how severe was My response!",
+    "arabic1": "وَكَذَّبَ ٱلَّذِينَ مِن قَبْلِهِمْ وَمَا بَلَغُوا۟ مِعْشَارَ مَآ ءَاتَيْنَـٰهُمْ فَكَذَّبُوا۟ رُسُلِى ۖ فَكَيْفَ كَانَ نَكِيرِ",
+    "arabic2": "وكذب الذين من قبلهم وما بلغوا معشار ما اتيناهم فكذبوا رسلي فكيف كان نكير",
+    "bengali": "আর তাদের পূর্ববর্তীরাও অস্বীকার করেছে। অথচ আমি তাদের [পূর্ববর্তীদের] যা দিয়েছিলাম এরা তার এক দশমাংশও পায়নি, তবুও তারা আমার রাসূলদের অস্বীকার করেছিল। ফলে আমার প্রত্যাখ্যান (শাস্তি) কেমন হয়েছিল?",
+    "urdu": "اور جو لوگ ان سے پہلے تھے انہوں نے تکذیب کی تھی اور جو کچھ ہم نے ان کو دیا تھا یہ اس کے دسویں حصے کو بھی نہیں پہنچے تو انہوں نے میرے پیغمبروں کو جھٹلایا۔ سو میرا عذاب کیسا ہوا"
+}

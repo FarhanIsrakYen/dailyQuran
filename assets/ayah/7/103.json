@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 103,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/7_103.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/007103.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/7_103.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/007103.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/7_103.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/007103.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/7_103.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/007103.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/7_103.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/007103.mp3"
+        }
+    },
+    "english": "Then after them We sent Moses with Our signs to Pharaoh and his chiefs, but they wrongfully rejected them. See what was the end of the corruptors!",
+    "arabic1": "ثُمَّ بَعَثْنَا مِنۢ بَعْدِهِم مُّوسَىٰ بِـَٔايَـٰتِنَآ إِلَىٰ فِرْعَوْنَ وَمَلَإِي۟هِۦ فَظَلَمُوا۟ بِهَا ۖ فَٱنظُرْ كَيْفَ كَانَ عَـٰقِبَةُ ٱلْمُفْسِدِينَ",
+    "arabic2": "ثم بعثنا من بعدهم موسى باياتنا الى فرعون وملئه فظلموا بها فانظر كيف كان عاقبة المفسدين",
+    "bengali": "অতঃপর তাদের পরে আমি মূসাকে আমার আয়াতসমূহ সহকারে ফির‘আউন ও তার সভাসদদের কাছে পাঠিয়েছি। অতঃপর তারা এর সাথে যুলম করেছে। সুতরাং লক্ষ্য কর, ফাসাদকারীদের পরিণাম কীরূপ হয়েছিল।",
+    "urdu": "پھر ان (پیغمبروں) کے بعد ہم نے موسیٰ کو نشانیاں دے کر فرعون اور اس کے اعیانِ سلطنت کے پاس بھیجا تو انہوں نے ان کے ساتھ کفر کیا۔ سو دیکھ لو کہ خرابی کرنے والوں کا انجام کیا ہوا"
+}

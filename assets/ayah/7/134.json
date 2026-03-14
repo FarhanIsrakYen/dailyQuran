@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 134,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/7_134.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/007134.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/7_134.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/007134.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/7_134.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/007134.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/7_134.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/007134.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/7_134.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/007134.mp3"
+        }
+    },
+    "english": "When tormented, they pleaded, “O Moses! Pray to your Lord on our behalf, by virtue of the covenant He made with you. If you help remove this torment from us, we will certainly believe in you and let the Children of Israel go with you.”",
+    "arabic1": "وَلَمَّا وَقَعَ عَلَيْهِمُ ٱلرِّجْزُ قَالُوا۟ يَـٰمُوسَى ٱدْعُ لَنَا رَبَّكَ بِمَا عَهِدَ عِندَكَ ۖ لَئِن كَشَفْتَ عَنَّا ٱلرِّجْزَ لَنُؤْمِنَنَّ لَكَ وَلَنُرْسِلَنَّ مَعَكَ بَنِىٓ إِسْرَٰٓءِيلَ",
+    "arabic2": "ولما وقع عليهم الرجز قالوا يا موسى ادع لنا ربك بما عهد عندك لئن كشفت عنا الرجز لنؤمنن لك ولنرسلن معك بني اسرائيل",
+    "bengali": "আর যখন তাদের উপর আযাব পতিত হল তখন তারা বলল, ‘হে মূসা আমাদের জন্য তুমি তোমার রবের কাছে দুআ কর তিনি যে ওয়াদা তোমার সাথে করেছেন সে অনুযায়ী। যদি তুমি আমাদের উপর থেকে আযাব সরিয়ে দাও তাহলে অবশ্যই আমরা তোমার প্রতি ঈমান আনব এবং অবশ্যই তোমার সাথে বনী ইসরাঈলকে পাঠিয়ে দেব।’",
+    "urdu": "اور جب ان پر عذاب واقع ہوتا تو کہتے کہ موسیٰ ہمارے لیے اپنے پروردگار سے دعا کرو۔ جیسا اس نے تم سے عہد کر رکھا ہے۔ اگر تم ہم سے عذاب کو ٹال دو گے تو ہم تم پر ایمان بھی لے آئیں گے اور بنی اسرائیل کو بھی تمہارے ساتھ جانے (کی اجازت) دیں گے"
+}

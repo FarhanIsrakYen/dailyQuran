@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Naml",
+    "surahNameArabic": "النمل",
+    "surahNameArabicLong": "سورة النمل",
+    "surahNameTranslation": "The Ant",
+    "revelationPlace": "Mecca",
+    "totalAyah": 93,
+    "surahNo": 27,
+    "ayahNo": 43,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/27_43.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/027043.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/27_43.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/027043.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/27_43.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/027043.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/27_43.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/027043.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/27_43.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/027043.mp3"
+        }
+    },
+    "english": "But she had been hindered by what she used to worship instead of Allah, for she was indeed from a disbelieving people.",
+    "arabic1": "وَصَدَّهَا مَا كَانَت تَّعْبُدُ مِن دُونِ ٱللَّهِ ۖ إِنَّهَا كَانَتْ مِن قَوْمٍ كَـٰفِرِينَ",
+    "arabic2": "وصدها ما كانت تعبد من دون الله انها كانت من قوم كافرين",
+    "bengali": "আর আল্লাহকে বাদ দিয়ে যার পূজা সে করত তা তাকে ঈমান থেকে নিবৃত্ত করেছিল। নিশ্চয় সে ছিল কাফির সম্প্রদায়ের অন্তর্ভুক্ত।",
+    "urdu": "اور وہ جو خدا کے سوا (اور کی) پرستش کرتی تھی، سلیمان نے اس کو اس سے منع کیا (اس سے پہلے تو) وہ کافروں میں سے تھی"
+}

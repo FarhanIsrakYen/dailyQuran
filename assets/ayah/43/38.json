@@ -1,0 +1,42 @@
+{
+    "surahName": "Az-Zukhruf",
+    "surahNameArabic": "الزخرف",
+    "surahNameArabicLong": "سورة الزخرف",
+    "surahNameTranslation": "Ornaments of gold",
+    "revelationPlace": "Mecca",
+    "totalAyah": 89,
+    "surahNo": 43,
+    "ayahNo": 38,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/43_38.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/043038.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/43_38.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/043038.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/43_38.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/043038.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/43_38.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/043038.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/43_38.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/043038.mp3"
+        }
+    },
+    "english": "But when such a person comes to Us, one will say ˹to their associate˺, “I wish you were as distant from me as the east is from the west! What an evil associate ˹you were˺!”",
+    "arabic1": "حَتَّىٰٓ إِذَا جَآءَنَا قَالَ يَـٰلَيْتَ بَيْنِى وَبَيْنَكَ بُعْدَ ٱلْمَشْرِقَيْنِ فَبِئْسَ ٱلْقَرِينُ",
+    "arabic2": "حتى اذا جاءنا قال يا ليت بيني وبينك بعد المشرقين فبئس القرين",
+    "bengali": "অবশেষে যখন সে আমার নিকট আসবে তখন সে [তার শয়তান সংগীকে উদ্দেশ্য করে] বলবে, ‘হায়, আমার ও তোমার মধ্যে যদি পূর্ব-পশ্চিমের ব্যবধান থাকত’ সুতরাং কতইনা নিকৃষ্ট সে সঙ্গী!",
+    "urdu": "یہاں تک کہ جب ہمارے پاس آئے گا تو کہے گا کہ اے کاش مجھ میں اور تجھ میں مشرق ومغرب کا فاصلہ ہوتا تو برا ساتھی ہے"
+}

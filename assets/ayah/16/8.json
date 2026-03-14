@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nahl",
+    "surahNameArabic": "النحل",
+    "surahNameArabicLong": "سورة النحل",
+    "surahNameTranslation": "The Bee",
+    "revelationPlace": "Mecca",
+    "totalAyah": 128,
+    "surahNo": 16,
+    "ayahNo": 8,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/16_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/016008.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/16_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/016008.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/16_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/016008.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/16_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/016008.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/16_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/016008.mp3"
+        }
+    },
+    "english": "˹He also created˺ horses, mules, and donkeys for your transportation and adornment. And He creates what you do not know.",
+    "arabic1": "وَٱلْخَيْلَ وَٱلْبِغَالَ وَٱلْحَمِيرَ لِتَرْكَبُوهَا وَزِينَةً ۚ وَيَخْلُقُ مَا لَا تَعْلَمُونَ",
+    "arabic2": "والخيل والبغال والحمير لتركبوها وزينة ويخلق ما لا تعلمون",
+    "bengali": "আর (তিনি সৃষ্টি করেছেন) ঘোড়া, খচ্চর ও গাধা, তোমাদের আরোহণ ও শোভার জন্য এবং তিনি সৃষ্টি করেন এমন কিছু, যা তোমরা জান না।",
+    "urdu": "اور اسی نے گھوڑے اور خچر اور گدھے پیدا کئے تاکہ تم ان پر سوار ہو اور (وہ تمہارے لیے) رونق وزینت (بھی ہیں) اور وہ (اور چیزیں بھی) پیدا کرتا ہے جن کی تم کو خبر نہیں"
+}

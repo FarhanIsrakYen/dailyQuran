@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 2,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/4_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/004002.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/4_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/004002.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/4_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/004002.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/4_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/004002.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/4_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/004002.mp3"
+        }
+    },
+    "english": "Give orphans their wealth ˹when they reach maturity˺, and do not exchange your worthless possessions for their valuables, nor cheat them by mixing their wealth with your own. For this would indeed be a great sin.",
+    "arabic1": "وَءَاتُوا۟ ٱلْيَتَـٰمَىٰٓ أَمْوَٰلَهُمْ ۖ وَلَا تَتَبَدَّلُوا۟ ٱلْخَبِيثَ بِٱلطَّيِّبِ ۖ وَلَا تَأْكُلُوٓا۟ أَمْوَٰلَهُمْ إِلَىٰٓ أَمْوَٰلِكُمْ ۚ إِنَّهُۥ كَانَ حُوبًا كَبِيرًا",
+    "arabic2": "واتوا اليتامى اموالهم ولا تتبدلوا الخبيث بالطيب ولا تاكلوا اموالهم الى اموالكم انه كان حوبا كبيرا",
+    "bengali": "আর তোমরা ইয়াতীমদেরকে তাদের ধন-সম্পদ দিয়ে দাও এবং তোমরা অপবিত্র বস্ত্তকে পবিত্র বস্ত্ত দ্বারা পরিবর্তন করো না এবং তাদের ধন-সম্পদকে তোমাদের ধন-সম্পদের সাথে খেয়ো না। নিশ্চয় তা বড় পাপ।",
+    "urdu": "اور یتیموں کا مال (جو تمہاری تحویل میں ہو) ان کے حوالے کردو اور ان کے پاکیزہ (اور عمدہ) مال کو (اپنے ناقص اور) برے مال سے نہ بدلو۔ اور نہ ان کا مال اپنے مال میں ملا کر کھاؤ۔ کہ یہ بڑا سخت گناہ ہے"
+}

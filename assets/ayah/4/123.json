@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 123,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/4_123.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/004123.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/4_123.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/004123.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/4_123.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/004123.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/4_123.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/004123.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/4_123.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/004123.mp3"
+        }
+    },
+    "english": "˹Divine grace is˺ neither by your wishes nor those of the People of the Book! Whoever commits evil will be rewarded accordingly, and they will find no protector or helper besides Allah.",
+    "arabic1": "لَّيْسَ بِأَمَانِيِّكُمْ وَلَآ أَمَانِىِّ أَهْلِ ٱلْكِتَـٰبِ ۗ مَن يَعْمَلْ سُوٓءًا يُجْزَ بِهِۦ وَلَا يَجِدْ لَهُۥ مِن دُونِ ٱللَّهِ وَلِيًّا وَلَا نَصِيرًا",
+    "arabic2": "ليس بامانيكم ولا اماني اهل الكتاب من يعمل سوءا يجز به ولا يجد له من دون الله وليا ولا نصيرا",
+    "bengali": "না তোমাদের আশায় এবং না কিতাবীদের আশায় (কাজ হবে)। যে মন্দকাজ করবে তাকে তার প্রতিফল দেয়া হবে। আর সে তার জন্য আল্লাহ ছাড়া কোন অভিভাবক ও সাহায্যকারী পাবে না।",
+    "urdu": "(نجات) نہ تو تمہاری آرزوؤں پر ہے اور نہ اہل کتاب کی آرزوؤں پر۔ جو شخص برے عمل کرے گا اسے اسی (طرح) کا بدلا دیا جائے گا اور وہ خدا کے سوا نہ کسی کو حمایتی پائے گا اور نہ مددگار"
+}

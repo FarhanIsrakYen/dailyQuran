@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Qamar",
+    "surahNameArabic": "القمر",
+    "surahNameArabicLong": "سورة القمر",
+    "surahNameTranslation": "The Moon",
+    "revelationPlace": "Mecca",
+    "totalAyah": 55,
+    "surahNo": 54,
+    "ayahNo": 6,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/54_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/054006.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/54_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/054006.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/54_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/054006.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/54_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/054006.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/54_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/054006.mp3"
+        }
+    },
+    "english": "So turn away from them ˹O Prophet˺. ˹And wait for˺ the Day ˹when˺ the caller will summon ˹them˺ for something horrifying.",
+    "arabic1": "فَتَوَلَّ عَنْهُمْ ۘ يَوْمَ يَدْعُ ٱلدَّاعِ إِلَىٰ شَىْءٍ نُّكُرٍ",
+    "arabic2": "فتول عنهم يوم يدع الداع الى شيء نكر",
+    "bengali": "অতএব তুমি তাদের থেকে মুখ ফিরিয়ে নাও, সেদিন আহবানকারী আহবান করবে এক বিভীষিকাময় বিষয়ের দিকে,",
+    "urdu": "تو تم بھی ان کی کچھ پروا نہ کرو۔ جس دن بلانے والا ان کو ایک ناخوش چیز کی طرف بلائے گا"
+}

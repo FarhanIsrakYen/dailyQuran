@@ -1,0 +1,42 @@
+{
+    "surahName": "Taa-Haa",
+    "surahNameArabic": "طه",
+    "surahNameArabicLong": "سورة طه",
+    "surahNameTranslation": "Taa-Haa",
+    "revelationPlace": "Mecca",
+    "totalAyah": 135,
+    "surahNo": 20,
+    "ayahNo": 110,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/20_110.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/020110.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/20_110.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/020110.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/20_110.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/020110.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/20_110.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/020110.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/20_110.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/020110.mp3"
+        }
+    },
+    "english": "He ˹fully˺ knows what is ahead of them and what is behind them, but they cannot encompass Him in ˹their˺ knowledge.",
+    "arabic1": "يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلَا يُحِيطُونَ بِهِۦ عِلْمًا",
+    "arabic2": "يعلم ما بين ايديهم وما خلفهم ولا يحيطون به علما",
+    "bengali": "তিনি তাদের আগের ও পরের সব কিছুই জানেন, কিন্তু তারা জ্ঞান দিয়ে তাঁকে বেষ্টন করতে পারবে না।",
+    "urdu": "جو کچھ ان کے آگے ہے اور کچھ ان کے پیچھے ہے وہ اس کو جانتا ہے اور وہ (اپنے) علم سے خدا (کے علم) پر احاطہ نہیں کرسکتے"
+}

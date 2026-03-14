@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Taghaabun",
+    "surahNameArabic": "التغابن",
+    "surahNameArabicLong": "سورة التغابن",
+    "surahNameTranslation": "Mutual Disillusion",
+    "revelationPlace": "Madina",
+    "totalAyah": 18,
+    "surahNo": 64,
+    "ayahNo": 10,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/64_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/064010.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/64_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/064010.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/64_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/064010.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/64_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/064010.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/64_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/064010.mp3"
+        }
+    },
+    "english": "As for those who disbelieve and reject Our revelations, they will be the residents of the Fire, staying there forever. What an evil destination!",
+    "arabic1": "وَٱلَّذِينَ كَفَرُوا۟ وَكَذَّبُوا۟ بِـَٔايَـٰتِنَآ أُو۟لَـٰٓئِكَ أَصْحَـٰبُ ٱلنَّارِ خَـٰلِدِينَ فِيهَا ۖ وَبِئْسَ ٱلْمَصِيرُ",
+    "arabic2": "والذين كفروا وكذبوا باياتنا اولئك اصحاب النار خالدين فيها وبئس المصير",
+    "bengali": "কিন্তু যারা কুফরী করে এবং আমার আয়াতসমূহ অস্বীকার করে তারাই জাহান্নামের অধিবাসী। তথায় তারা স্থায়ী হবে। আর তা কতইনা নিকৃষ্ট প্রত্যাবর্তনস্থল।",
+    "urdu": "اور جنہوں نے کفر کیا اور ہماری آیتوں کو جھٹلایا وہی اہل ذوزخ ہیں۔ ہمیشہ اس میں رہیں گے۔ اور وہ بری جگہ ہے"
+}

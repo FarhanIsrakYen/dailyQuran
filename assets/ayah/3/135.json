@@ -1,0 +1,42 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 135,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/3_135.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/003135.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/3_135.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/003135.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/3_135.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/003135.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/3_135.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/003135.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/3_135.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/003135.mp3"
+        }
+    },
+    "english": "˹They are˺ those who, upon committing an evil deed or wronging themselves, remember Allah and seek forgiveness and do not knowingly persist in sin—and who forgives sins except Allah?",
+    "arabic1": "وَٱلَّذِينَ إِذَا فَعَلُوا۟ فَـٰحِشَةً أَوْ ظَلَمُوٓا۟ أَنفُسَهُمْ ذَكَرُوا۟ ٱللَّهَ فَٱسْتَغْفَرُوا۟ لِذُنُوبِهِمْ وَمَن يَغْفِرُ ٱلذُّنُوبَ إِلَّا ٱللَّهُ وَلَمْ يُصِرُّوا۟ عَلَىٰ مَا فَعَلُوا۟ وَهُمْ يَعْلَمُونَ",
+    "arabic2": "والذين اذا فعلوا فاحشة او ظلموا انفسهم ذكروا الله فاستغفروا لذنوبهم ومن يغفر الذنوب الا الله ولم يصروا على ما فعلوا وهم يعلمون",
+    "bengali": "আর যারা কোন অশ্লীল কাজ করলে অথবা নিজদের প্রতি যুলম করলে আল্লাহকে স্মরণ করে, অতঃপর তাদের গুনাহের জন্য ক্ষমা চায়। আর আল্লাহ ছাড়া কে গুনাহ ক্ষমা করবে ? আর তারা যা করেছে, জেনে শুনে তা তারা বার বার করে না।",
+    "urdu": "اور وہ کہ جب کوئی کھلا گناہ یا اپنے حق میں کوئی اور برائی کر بیٹھتے ہیں تو خدا کو یاد کرتے اور اپنے گناہوں کی بخشش مانگتے ہیں اور خدا کے سوا گناہ بخش بھی کون سکتا ہے؟ اور جان بوجھ کر اپنے افعال پر اڑے نہیں رہتے"
+}

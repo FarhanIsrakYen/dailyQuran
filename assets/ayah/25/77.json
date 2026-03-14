@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Furqaan",
+    "surahNameArabic": "الفرقان",
+    "surahNameArabicLong": "سورة الفرقان",
+    "surahNameTranslation": "The Criterion",
+    "revelationPlace": "Mecca",
+    "totalAyah": 77,
+    "surahNo": 25,
+    "ayahNo": 77,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/25_77.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/025077.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/25_77.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/025077.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/25_77.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/025077.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/25_77.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/025077.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/25_77.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/025077.mp3"
+        }
+    },
+    "english": "Say, ˹O Prophet,˺ “You ˹all˺ would not ˹even˺ matter to my Lord were it not for your faith ˹in Him˺. But now you ˹disbelievers˺ have denied ˹the truth˺, so the torment is bound to come.”",
+    "arabic1": "قُلْ مَا يَعْبَؤُا۟ بِكُمْ رَبِّى لَوْلَا دُعَآؤُكُمْ ۖ فَقَدْ كَذَّبْتُمْ فَسَوْفَ يَكُونُ لِزَامًۢا",
+    "arabic2": "قل ما يعبا بكم ربي لولا دعاؤكم فقد كذبتم فسوف يكون لزاما",
+    "bengali": "বল, ‘যদি তোমরা না-ই ডাক তাহলে আমার রব তোমাদের কোন পরওয়া করেন না। তারপর তোমরা অস্বীকার করেছ। তাই অচিরেই অপরিহার্য হবে আযাব।",
+    "urdu": "کہہ دو کہ اگر تم (خدا کو) نہیں پکارتے تو میرا پروردگار بھی تمہاری کچھ پروا نہیں کرتا۔ تم نے تکذیب کی ہے سو اس کی سزا (تمہارے لئے) لازم ہوگی"
+}

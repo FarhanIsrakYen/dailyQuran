@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Mulk",
+    "surahNameArabic": "الملك",
+    "surahNameArabicLong": "سورة الملك",
+    "surahNameTranslation": "The Sovereignty",
+    "revelationPlace": "Mecca",
+    "totalAyah": 30,
+    "surahNo": 67,
+    "ayahNo": 30,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/67_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/067030.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/67_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/067030.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/67_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/067030.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/67_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/067030.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/67_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/067030.mp3"
+        }
+    },
+    "english": "Say, “Consider this: if your water were to sink ˹into the earth˺, then who ˹else˺ could bring you flowing water?”",
+    "arabic1": "قُلْ أَرَءَيْتُمْ إِنْ أَصْبَحَ مَآؤُكُمْ غَوْرًا فَمَن يَأْتِيكُم بِمَآءٍ مَّعِينٍۭ",
+    "arabic2": "قل ارايتم ان اصبح ماؤكم غورا فمن ياتيكم بماء معين",
+    "bengali": "বল, ‘তোমরা ভেবে দেখেছ কি, যদি তোমাদের পানি ভূগর্ভে চলে যায়, তাহলে কে তোমাদেরকে বহমান পানি এনে দিবে’ ?",
+    "urdu": "کہو کہ بھلا دیکھو تو اگر تمہارا پانی (جو تم پیتے ہو اور برتے ہو) خشک ہوجائے تو (خدا کے) سوا کون ہے جو تمہارے لئے شیریں پانی کا چشمہ بہا لائے"
+}

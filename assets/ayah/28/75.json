@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Qasas",
+    "surahNameArabic": "القصص",
+    "surahNameArabicLong": "سورة القصص",
+    "surahNameTranslation": "The Stories",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 28,
+    "ayahNo": 75,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/28_75.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/028075.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/28_75.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/028075.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/28_75.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/028075.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/28_75.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/028075.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/28_75.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/028075.mp3"
+        }
+    },
+    "english": "And We will bring forth a witness from every faith-community and ask ˹the polytheists˺, “Show ˹Us˺ your proof.” Then they will ˹come to˺ know that the truth is with Allah ˹alone˺. And whatever ˹gods˺ they fabricated will fail them.",
+    "arabic1": "وَنَزَعْنَا مِن كُلِّ أُمَّةٍ شَهِيدًا فَقُلْنَا هَاتُوا۟ بُرْهَـٰنَكُمْ فَعَلِمُوٓا۟ أَنَّ ٱلْحَقَّ لِلَّهِ وَضَلَّ عَنْهُم مَّا كَانُوا۟ يَفْتَرُونَ",
+    "arabic2": "ونزعنا من كل امة شهيدا فقلنا هاتوا برهانكم فعلموا ان الحق لله وضل عنهم ما كانوا يفترون",
+    "bengali": "আর আমি প্রত্যেক জাতি থেকে একজন সাক্ষী বের করে নেব। অতঃপর আমি বলব, ‘তোমাদের প্রমাণ নিয়ে আস’। তখন তারা জানতে পারবে যে, নিশ্চয় সত্য আল্লাহর কাছেই এবং তারা যে সব মিথ্যা উদ্ভাবন করত তা তাদের থেকে হারিয়ে যাবে।",
+    "urdu": "اور ہم ہر ایک اُمت میں سے گواہ نکال لیں گے پھر کہیں گے کہ اپنی دلیل پیش کرو تو وہ جان لیں گے کہ سچ بات خدا کی ہے اور جو کچھ وہ افتراء کیا کرتے تھے ان سے جاتا رہے گا"
+}

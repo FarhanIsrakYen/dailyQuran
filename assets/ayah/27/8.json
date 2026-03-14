@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Naml",
+    "surahNameArabic": "النمل",
+    "surahNameArabicLong": "سورة النمل",
+    "surahNameTranslation": "The Ant",
+    "revelationPlace": "Mecca",
+    "totalAyah": 93,
+    "surahNo": 27,
+    "ayahNo": 8,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/27_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/027008.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/27_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/027008.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/27_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/027008.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/27_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/027008.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/27_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/027008.mp3"
+        }
+    },
+    "english": "But when he came to it, he was called ˹by Allah˺, “Blessed is the one at the fire, and whoever is around it! Glory be to Allah, the Lord of all worlds.",
+    "arabic1": "فَلَمَّا جَآءَهَا نُودِىَ أَنۢ بُورِكَ مَن فِى ٱلنَّارِ وَمَنْ حَوْلَهَا وَسُبْحَـٰنَ ٱللَّهِ رَبِّ ٱلْعَـٰلَمِينَ",
+    "arabic2": "فلما جاءها نودي ان بورك من في النار ومن حولها وسبحان الله رب العالمين",
+    "bengali": "তারপর সে যখন সেখানে এসে পৌঁছল, তখন ডেকে বলা হল, ‘বরকতময় যা এ আলোর মধ্যে ও এর চারপাশে আছে। আর সৃষ্টিকুলের রব আল্লাহ মহাপবিত্র, মহিমান্বিত’।",
+    "urdu": "جب موسیٰ اس کے پاس آئے تو ندا آئی کہ وہ جو آگ میں (تجلّی دکھاتا) ہے بابرکت ہے۔ اور جو آگ کے اردگرد ہیں اور خدا جو تمام عالم کا پروردگار ہے پاک ہے"
+}

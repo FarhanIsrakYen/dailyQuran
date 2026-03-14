@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 54,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/9_54.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/009054.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/9_54.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/009054.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/9_54.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/009054.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/9_54.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/009054.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/9_54.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/009054.mp3"
+        }
+    },
+    "english": "And what prevented their donations from being accepted is that they have lost faith in Allah and His Messenger, they never come to prayer except half-heartedly, and they never donate except resentfully.",
+    "arabic1": "وَمَا مَنَعَهُمْ أَن تُقْبَلَ مِنْهُمْ نَفَقَـٰتُهُمْ إِلَّآ أَنَّهُمْ كَفَرُوا۟ بِٱللَّهِ وَبِرَسُولِهِۦ وَلَا يَأْتُونَ ٱلصَّلَوٰةَ إِلَّا وَهُمْ كُسَالَىٰ وَلَا يُنفِقُونَ إِلَّا وَهُمْ كَـٰرِهُونَ",
+    "arabic2": "وما منعهم ان تقبل منهم نفقاتهم الا انهم كفروا بالله وبرسوله ولا ياتون الصلاة الا وهم كسالى ولا ينفقون الا وهم كارهون",
+    "bengali": "আর তাদের দান কবূল থেকে একমাত্র বাধা এই ছিল যে, তারা আল্লাহ ও তাঁর রাসূলকে অস্বীকার করেছে, আর তারা সালাতে আসে না, তবে অলস অবস্থায় এবং তারা দান করে না, তবে অপছন্দকারী অবস্থায়।",
+    "urdu": "اور ان کے خرچ (موال) کے قبول ہونے سے کوئی چیز مانع نہیں ہوئی سوا اس کے انہوں نے خدا سے اور اس کے رسول سے کفر کیا اور نماز کو آتے ہیں تو سست کاہل ہوکر اور خرچ کرتے ہیں تو ناخوشی سے"
+}

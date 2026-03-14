@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Hajj",
+    "surahNameArabic": "الحج",
+    "surahNameArabicLong": "سورة الحج",
+    "surahNameTranslation": "The Pilgrimage",
+    "revelationPlace": "Madina",
+    "totalAyah": 78,
+    "surahNo": 22,
+    "ayahNo": 33,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/22_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/022033.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/22_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/022033.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/22_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/022033.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/22_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/022033.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/22_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/022033.mp3"
+        }
+    },
+    "english": "You may benefit from sacrificial animals for an appointed term, then their place of sacrifice is at the Ancient House.",
+    "arabic1": "لَكُمْ فِيهَا مَنَـٰفِعُ إِلَىٰٓ أَجَلٍ مُّسَمًّى ثُمَّ مَحِلُّهَآ إِلَى ٱلْبَيْتِ ٱلْعَتِيقِ",
+    "arabic2": "لكم فيها منافع الى اجل مسمى ثم محلها الى البيت العتيق",
+    "bengali": "এসব চতুষ্পদ জন্তুতে নির্দিষ্ট সময় পর্যন্ত তোমাদের জন্য কল্যাণ রয়েছে, তারপর এগুলোর কুরবানীর স্থান হবে প্রাচীন ঘরের নিকট।",
+    "urdu": "ان میں ایک وقت مقرر تک تمہارے لئے فائدے ہیں پھر ان کو خانہٴ قدیم (یعنی بیت الله) تک پہنچانا (اور ذبح ہونا) ہے"
+}

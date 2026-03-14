@@ -1,0 +1,42 @@
+{
+    "surahName": "Luqman",
+    "surahNameArabic": "لقمان",
+    "surahNameArabicLong": "سورة لقمان",
+    "surahNameTranslation": "Luqman",
+    "revelationPlace": "Mecca",
+    "totalAyah": 34,
+    "surahNo": 31,
+    "ayahNo": 33,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/31_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/031033.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/31_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/031033.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/31_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/031033.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/31_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/031033.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/31_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/031033.mp3"
+        }
+    },
+    "english": "O humanity! Be mindful of your Lord, and beware of a Day when no parent will be of any benefit to their child, nor will a child be of any benefit to their parent. Surely Allah’s promise is true. So do not let the life of this world deceive you, nor let the Chief Deceiver deceive you about Allah.",
+    "arabic1": "يَـٰٓأَيُّهَا ٱلنَّاسُ ٱتَّقُوا۟ رَبَّكُمْ وَٱخْشَوْا۟ يَوْمًا لَّا يَجْزِى وَالِدٌ عَن وَلَدِهِۦ وَلَا مَوْلُودٌ هُوَ جَازٍ عَن وَالِدِهِۦ شَيْـًٔا ۚ إِنَّ وَعْدَ ٱللَّهِ حَقٌّ ۖ فَلَا تَغُرَّنَّكُمُ ٱلْحَيَوٰةُ ٱلدُّنْيَا وَلَا يَغُرَّنَّكُم بِٱللَّهِ ٱلْغَرُورُ",
+    "arabic2": "يا ايها الناس اتقوا ربكم واخشوا يوما لا يجزي والد عن ولده ولا مولود هو جاز عن والده شيئا ان وعد الله حق فلا تغرنكم الحياة الدنيا ولا يغرنكم بالله الغرور",
+    "bengali": "হে মানুষ, তোমরা তোমাদের রবকে ভয় কর এবং সেই দিনকে ভয় কর যেদিন পিতা তার সন্তানের কোন উপকার করতে পারবে না এবং সন্তানও তার পিতার কোন উপকারে আসবে না। নিশ্চয় আল্লাহর ওয়াদা সত্য। সুতরাং দুনিয়ার জীবন যেন কিছুতেই তোমাদেরকে ধোকা দিতে না পারে এবং মহাপ্রতারক (শয়তান) যেন তোমাদেরকে আল্লাহ সম্পর্কে ধোকায় ফেলতে না পারে।",
+    "urdu": "لوگو اپنے پروردگار سے ڈرو اور اُس دن کا خوف کرو کہ نہ تو باپ اپنے بیٹے کے کچھ کام آئے۔ اور نہ بیٹا باپ کے کچھ کام آسکے۔ بیشک خدا کا وعدہ سچا ہے پس دنیا کی زندگی تم کو دھوکے میں نہ ڈال دے۔ اور نہ فریب دینے والا (شیطان) تمہیں خدا کے بارے میں کسی طرح کا فریب دے"
+}

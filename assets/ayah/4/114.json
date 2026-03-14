@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 114,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/4_114.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/004114.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/4_114.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/004114.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/4_114.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/004114.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/4_114.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/004114.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/4_114.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/004114.mp3"
+        }
+    },
+    "english": "There is no good in most of their secret talks—except those encouraging charity, kindness, or reconciliation between people. And whoever does this seeking Allah’s pleasure, We will grant them a great reward.",
+    "arabic1": "۞ لَّا خَيْرَ فِى كَثِيرٍ مِّن نَّجْوَىٰهُمْ إِلَّا مَنْ أَمَرَ بِصَدَقَةٍ أَوْ مَعْرُوفٍ أَوْ إِصْلَـٰحٍۭ بَيْنَ ٱلنَّاسِ ۚ وَمَن يَفْعَلْ ذَٰلِكَ ٱبْتِغَآءَ مَرْضَاتِ ٱللَّهِ فَسَوْفَ نُؤْتِيهِ أَجْرًا عَظِيمًا",
+    "arabic2": "لا خير في كثير من نجواهم الا من امر بصدقة او معروف او اصلاح بين الناس ومن يفعل ذلك ابتغاء مرضات الله فسوف نؤتيه اجرا عظيما",
+    "bengali": "তাদের গোপন পরামর্শের অধিকাংশে কোন কল্যাণ নেই। তবে (কল্যাণ আছে) যে নির্দেশ দেয় সদাকা কিংবা ভালো কাজ অথবা মানুষের মধ্যে মীমাংসার। আর যে তা আল্লাহর সন্তুষ্টি লাভের উদ্দেশ্যে করবে তবে অচিরেই আমি তাকে মহাপুরস্কার দান করব।",
+    "urdu": "ان لوگوں کی بہت سی مشورتیں اچھی نہیں ہاں (اس شخص کی مشورت اچھی ہوسکتی ہے) جو خیرات یا نیک بات یا لوگوں میں صلح کرنے کو کہے اور جو ایسے کام خدا کی خوشنودی حاصل کرنے کے لئے کرے گا تو ہم اس کو بڑا ثواب دیں گے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Az-Zukhruf",
+    "surahNameArabic": "الزخرف",
+    "surahNameArabicLong": "سورة الزخرف",
+    "surahNameTranslation": "Ornaments of gold",
+    "revelationPlace": "Mecca",
+    "totalAyah": 89,
+    "surahNo": 43,
+    "ayahNo": 24,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/43_24.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/043024.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/43_24.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/043024.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/43_24.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/043024.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/43_24.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/043024.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/43_24.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/043024.mp3"
+        }
+    },
+    "english": "Each ˹warner˺ asked, “Even if what I brought you is better guidance than what you found your forefathers practicing?” They replied, “We totally reject whatever you have been sent with.”",
+    "arabic1": "۞ قَـٰلَ أَوَلَوْ جِئْتُكُم بِأَهْدَىٰ مِمَّا وَجَدتُّمْ عَلَيْهِ ءَابَآءَكُمْ ۖ قَالُوٓا۟ إِنَّا بِمَآ أُرْسِلْتُم بِهِۦ كَـٰفِرُونَ",
+    "arabic2": "قال اولو جئتكم باهدى مما وجدتم عليه اباءكم قالوا انا بما ارسلتم به كافرون",
+    "bengali": "তখন সে (সতর্ককারী) বলেছে, ‘তোমরা তোমাদের পিতৃপুরুষদেরকে যে মতাদর্শে পেয়েছ, আমি যদি তোমাদের কাছে তার চেয়ে উৎকৃষ্ট পথে নিয়ে আসি তবুও কি’? (তোমরা তাদের অনুসরণ করবে?) তারা বলেছে, ‘নিশ্চয় তোমাদেরকে যা দিয়ে পাঠানো হয়েছে আমরা তার অস্বীকারকারী’।",
+    "urdu": "پیغمبر نے کہا اگرچہ میں تمہارے پاس ایسا (دین) لاؤں کہ جس رستے پر تم نے اپنے باپ دادا کو پایا وہ اس سے کہیں سیدھا رستہ دکھاتا ہے کہنے لگے کہ جو (دین) تم دے کر بھیجے گئے ہو ہم اس کو نہیں مانتے"
+}

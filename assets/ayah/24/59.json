@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Noor",
+    "surahNameArabic": "النور",
+    "surahNameArabicLong": "سورة النور",
+    "surahNameTranslation": "The Light",
+    "revelationPlace": "Madina",
+    "totalAyah": 64,
+    "surahNo": 24,
+    "ayahNo": 59,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/24_59.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/024059.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/24_59.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/024059.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/24_59.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/024059.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/24_59.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/024059.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/24_59.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/024059.mp3"
+        }
+    },
+    "english": "And when your children reach the age of puberty, let them seek permission ˹to come in˺, as their seniors do. This is how Allah makes His revelations clear to you, for Allah is All-Knowing, All-Wise.",
+    "arabic1": "وَإِذَا بَلَغَ ٱلْأَطْفَـٰلُ مِنكُمُ ٱلْحُلُمَ فَلْيَسْتَـْٔذِنُوا۟ كَمَا ٱسْتَـْٔذَنَ ٱلَّذِينَ مِن قَبْلِهِمْ ۚ كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ لَكُمْ ءَايَـٰتِهِۦ ۗ وَٱللَّهُ عَلِيمٌ حَكِيمٌ",
+    "arabic2": "واذا بلغ الاطفال منكم الحلم فليستاذنوا كما استاذن الذين من قبلهم كذلك يبين الله لكم اياته والله عليم حكيم",
+    "bengali": "আর তোমাদের সন্তান-সন্ততি যখন প্রাপ্তবয়স্ক হয়, তখন তারাও যেন অনুমতি চায় যেমনিভাবে তাদের অগ্রজরা অনুমতি চাইত। এভাবে আল্লাহ তোমাদের জন্য তাঁর আয়াতসমূহ বর্ণনা করেন। আর আল্লাহ মহাজ্ঞানী, প্রজ্ঞাময়।",
+    "urdu": "اور جب تمہارے لڑکے بالغ ہوجائیں تو ان کو بھی اسی طرح اجازت لینی چاہیئے جس طرح ان سے اگلے (یعنی بڑے آدمی) اجازت حاصل کرتے رہے ہیں۔ اس طرح خدا تم سے اپنی آیتیں کھول کھول کر سناتا ہے۔ اور خدا جاننے والا اور حکمت والا ہے"
+}

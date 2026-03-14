@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 105,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/6_105.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/006105.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/6_105.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/006105.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/6_105.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/006105.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/6_105.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/006105.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/6_105.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/006105.mp3"
+        }
+    },
+    "english": "And so We vary our signs to the extent that they will say, “You have studied ˹previous scriptures˺,” and We make this ˹Quran˺ clear for people who know.",
+    "arabic1": "وَكَذَٰلِكَ نُصَرِّفُ ٱلْـَٔايَـٰتِ وَلِيَقُولُوا۟ دَرَسْتَ وَلِنُبَيِّنَهُۥ لِقَوْمٍ يَعْلَمُونَ",
+    "arabic2": "وكذلك نصرف الايات وليقولوا درست ولنبينه لقوم يعلمون",
+    "bengali": "আর এভাবেই আমি নানাভাবে আয়াতসমূহ বিস্তারিত বর্ণনা করি এবং যাতে তারা বলে, তুমি পাঠ করেছ এবং আমি যাতে বর্ণনা করি, এ কুরআন এমন কওমের জন্য যারা জানে।",
+    "urdu": "اور ہم اسی طرح اپنی آیتیں پھیر پھیر کر بیان کرتے ہیں تاکہ کافر یہ نہ کہیں کہ تم (یہ باتیں اہل کتاب سے) سیکھے ہوئے ہو اور تاکہ سمجھنے والے لوگوں کے لئے تشریح کردیں"
+}

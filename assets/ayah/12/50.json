@@ -1,0 +1,42 @@
+{
+    "surahName": "Yusuf",
+    "surahNameArabic": "يوسف",
+    "surahNameArabicLong": "سورة يوسف",
+    "surahNameTranslation": "Joseph",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 12,
+    "ayahNo": 50,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/12_50.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/012050.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/12_50.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/012050.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/12_50.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/012050.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/12_50.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/012050.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/12_50.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/012050.mp3"
+        }
+    },
+    "english": "The King ˹then˺ said, “Bring him to me.” When the messenger came to him, Joseph said, “Go back to your master and ask him about the case of the women who cut their hands. Surely my Lord has ˹full˺ knowledge of their cunning.”",
+    "arabic1": "وَقَالَ ٱلْمَلِكُ ٱئْتُونِى بِهِۦ ۖ فَلَمَّا جَآءَهُ ٱلرَّسُولُ قَالَ ٱرْجِعْ إِلَىٰ رَبِّكَ فَسْـَٔلْهُ مَا بَالُ ٱلنِّسْوَةِ ٱلَّـٰتِى قَطَّعْنَ أَيْدِيَهُنَّ ۚ إِنَّ رَبِّى بِكَيْدِهِنَّ عَلِيمٌ",
+    "arabic2": "وقال الملك ائتوني به فلما جاءه الرسول قال ارجع الى ربك فاساله ما بال النسوة اللاتي قطعن ايديهن ان ربي بكيدهن عليم",
+    "bengali": "আর বাদশাহ বলল, ‘তোমরা তাকে আমার কাছে নিয়ে আস’। অতঃপর যখন দূত তার কাছে আসল তখন, সে বলল, তুমি তোমার মনিবের নিকট ফিরে গিয়ে তাকে জিজ্ঞাসা কর, যে সব মহিলা নিজ নিজ হাত কেটে ফেলেছিল তাদের অবস্থা কী? নিশ্চয় আমার রব তাদের ষড়যন্ত্র সম্পর্কে সম্যক জ্ঞাত’।",
+    "urdu": "(یہ تعبیر سن کر) بادشاہ نے حکم دیا کہ یوسف کو میرے پاس لے آؤ۔ جب قاصد ان کے پاس گیا تو انہوں نے کہا کہ اپنے آقا کے پاس واپس جاؤ اور ان سے پوچھو کہ ان عورتوں کا کیا حال ہے جنہوں نے اپنے ہاتھ کاٹ لیے تھے۔ بےشک میرا پروردگار ان کے مکروں سے خوب واقف ہے"
+}

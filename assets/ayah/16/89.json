@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nahl",
+    "surahNameArabic": "النحل",
+    "surahNameArabicLong": "سورة النحل",
+    "surahNameTranslation": "The Bee",
+    "revelationPlace": "Mecca",
+    "totalAyah": 128,
+    "surahNo": 16,
+    "ayahNo": 89,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/16_89.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/016089.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/16_89.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/016089.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/16_89.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/016089.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/16_89.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/016089.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/16_89.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/016089.mp3"
+        }
+    },
+    "english": "˹Consider, O  Prophet,˺ the Day We will call against every faith-community a witness of their own. And We will call you to be a witness against these ˹people of yours˺. We have revealed to you the Book as an explanation of all things, a guide, a mercy, and good news for those who ˹fully˺ submit.",
+    "arabic1": "وَيَوْمَ نَبْعَثُ فِى كُلِّ أُمَّةٍ شَهِيدًا عَلَيْهِم مِّنْ أَنفُسِهِمْ ۖ وَجِئْنَا بِكَ شَهِيدًا عَلَىٰ هَـٰٓؤُلَآءِ ۚ وَنَزَّلْنَا عَلَيْكَ ٱلْكِتَـٰبَ تِبْيَـٰنًا لِّكُلِّ شَىْءٍ وَهُدًى وَرَحْمَةً وَبُشْرَىٰ لِلْمُسْلِمِينَ",
+    "arabic2": "ويوم نبعث في كل امة شهيدا عليهم من انفسهم وجئنا بك شهيدا على هؤلاء ونزلنا عليك الكتاب تبيانا لكل شيء وهدى ورحمة وبشرى للمسلمين",
+    "bengali": "আর স্মরণ কর, যেদিন আমি প্রত্যেক উম্মতের কাছে, তাদের থেকেই তাদের বিরুদ্ধে একজন সাক্ষী উত্থিত করব এবং তোমাকে তাদের উপর সাক্ষীরূপে হাযির করব। আর আমি তোমার উপর কিতাব নাযিল করেছি প্রতিটি বিষয়ের স্পষ্ট বর্ণনা, হিদায়াত, রহমত ও মুসলিমদের জন্য সুসংবাদস্বরূপ।",
+    "urdu": "اور (اس دن کو یاد کرو) جس دن ہم ہر اُمت میں سے خود اُن پر گواہ کھڑے کریں گے۔ اور (اے پیغمبر) تم کو ان لوگوں پر گواہ لائیں گے۔ اور ہم نے تم پر (ایسی) کتاب نازل کی ہے کہ (اس میں) ہر چیز کا بیان (مفصل) ہے اور مسلمانوں کے لیے ہدایت اور رحمت اور بشارت ہے"
+}

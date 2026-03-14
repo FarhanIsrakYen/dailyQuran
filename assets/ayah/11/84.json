@@ -1,0 +1,42 @@
+{
+    "surahName": "Hud",
+    "surahNameArabic": "هود",
+    "surahNameArabicLong": "سورة هود",
+    "surahNameTranslation": "Hud",
+    "revelationPlace": "Mecca",
+    "totalAyah": 123,
+    "surahNo": 11,
+    "ayahNo": 84,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/11_84.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/011084.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/11_84.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/011084.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/11_84.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/011084.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/11_84.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/011084.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/11_84.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/011084.mp3"
+        }
+    },
+    "english": "And to the people of Midian We sent their brother Shu’aib. He said, “O my people! Worship Allah. You have no god other than Him. And do not give short measure and weight. I do see you in prosperity now, but I truly fear for you the torment of an overwhelming Day.",
+    "arabic1": "۞ وَإِلَىٰ مَدْيَنَ أَخَاهُمْ شُعَيْبًا ۚ قَالَ يَـٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ مَا لَكُم مِّنْ إِلَـٰهٍ غَيْرُهُۥ ۖ وَلَا تَنقُصُوا۟ ٱلْمِكْيَالَ وَٱلْمِيزَانَ ۚ إِنِّىٓ أَرَىٰكُم بِخَيْرٍ وَإِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ مُّحِيطٍ",
+    "arabic2": "والى مدين اخاهم شعيبا قال يا قوم اعبدوا الله ما لكم من اله غيره ولا تنقصوا المكيال والميزان اني اراكم بخير واني اخاف عليكم عذاب يوم محيط",
+    "bengali": "আর মাদইয়ানে আমি (পাঠিয়েছিলাম) তাদের ভাই শু‘আইবকে। সে বলল, ‘হে আমার কওম, তোমরা আল্লাহর ইবাদাত কর, তিনি ছাড়া তোমাদের কোন (সত্য) ইলাহ নেই এবং মাপ ও ওযন কম করো না; আমি তো তোমাদের প্রাচুর্যশীল দেখছি, কিন্তু আমি তোমাদের উপর এক সর্বগ্রাসী দিনের আযাবের ভয় করছি’।",
+    "urdu": "اور مدین کی طرف ان کے بھائی شعیب کو (بھیجا) تو اُنہوں نے کہا کہ اے قوم! خدا ہی کی عبادت کرو کہ اس کے سوا تمہارا کوئی معبود نہیں۔ اور ناپ تول میں کمی نہ کیا کرو۔ میں تو تم کو آسودہ حال دیکھتا ہوں اور (اگر تم ایمان نہ لاؤ گے تو) مجھے تمہارے بارے میں ایک ایسے دن کے عذاب کا خوف ہے جو تم کو گھیر کر رہے گا"
+}

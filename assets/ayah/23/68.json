@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Muminoon",
+    "surahNameArabic": "المؤمنون",
+    "surahNameArabicLong": "سورة المؤمنون",
+    "surahNameTranslation": "The Believers",
+    "revelationPlace": "Mecca",
+    "totalAyah": 118,
+    "surahNo": 23,
+    "ayahNo": 68,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/23_68.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/023068.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/23_68.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/023068.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/23_68.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/023068.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/23_68.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/023068.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/23_68.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/023068.mp3"
+        }
+    },
+    "english": "Is it because they have never contemplated the Word ˹of Allah˺? Or ˹because˺ there has come to them something that did not come to their forefathers?",
+    "arabic1": "أَفَلَمْ يَدَّبَّرُوا۟ ٱلْقَوْلَ أَمْ جَآءَهُم مَّا لَمْ يَأْتِ ءَابَآءَهُمُ ٱلْأَوَّلِينَ",
+    "arabic2": "افلم يدبروا القول ام جاءهم ما لم يات اباءهم الاولين",
+    "bengali": "তারা কি এ বাণী সম্পর্কে চিন্তা-ভাবনা করে না? নাকি তাদের কাছে এমন কিছু এসেছে যা তাদের পূর্ববর্তী পিতৃপুরুষদের কাছে আসেনি?",
+    "urdu": "کیا انہوں نے اس کلام میں غور نہیں کیا یا ان کے پاس کوئی ایسی چیز آئی ہے جو ان کے اگلے باپ دادا کے پاس نہیں تھی"
+}

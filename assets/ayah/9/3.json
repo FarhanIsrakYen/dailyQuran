@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 3,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/9_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/009003.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/9_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/009003.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/9_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/009003.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/9_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/009003.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/9_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/009003.mp3"
+        }
+    },
+    "english": "A declaration from Allah and His Messenger ˹is made˺ to all people on the day of the greater pilgrimage that Allah and His Messenger are free of the polytheists. So if you ˹pagans˺ repent, it will be better for you. But if you turn away, then know that you will have no escape from Allah. And give good news ˹O Prophet˺ to the disbelievers of a painful punishment.",
+    "arabic1": "وَأَذَٰنٌ مِّنَ ٱللَّهِ وَرَسُولِهِۦٓ إِلَى ٱلنَّاسِ يَوْمَ ٱلْحَجِّ ٱلْأَكْبَرِ أَنَّ ٱللَّهَ بَرِىٓءٌ مِّنَ ٱلْمُشْرِكِينَ ۙ وَرَسُولُهُۥ ۚ فَإِن تُبْتُمْ فَهُوَ خَيْرٌ لَّكُمْ ۖ وَإِن تَوَلَّيْتُمْ فَٱعْلَمُوٓا۟ أَنَّكُمْ غَيْرُ مُعْجِزِى ٱللَّهِ ۗ وَبَشِّرِ ٱلَّذِينَ كَفَرُوا۟ بِعَذَابٍ أَلِيمٍ",
+    "arabic2": "واذان من الله ورسوله الى الناس يوم الحج الاكبر ان الله بريء من المشركين ورسوله فان تبتم فهو خير لكم وان توليتم فاعلموا انكم غير معجزي الله وبشر الذين كفروا بعذاب اليم",
+    "bengali": "আর মহান হজ্জের দিন* মানুষের প্রতি আল্লাহ ও তাঁর রাসূলের পক্ষ থেকে ঘোষণা, নিশ্চয় আল্লাহ মুশরিকদের থেকে দায়মুক্ত এবং তাঁর রাসূলও। অতএব, যদি তোমরা তাওবা কর, তাহলে তা তোমাদের জন্য উত্তম। আর যদি তোমরা ফিরে যাও, তাহলে জেনে রাখ, তোমরা আল্লাহকে অক্ষম করতে পারবে না। আর যারা কুফরী করেছে, তাদের তুমি যন্ত্রণাদায়ক আযাবের সুসংবাদ দাও। \n* অর্থাৎ যিলহজ্জের ১০ তারিখ কুরবানীর দিন।",
+    "urdu": "اور حج اکبر کے دن خدا اور اس کے رسول کی طرف سے لوگوں کو آگاہ کیا جاتا ہے کہ خدا مشرکوں سے بیزار ہے اور اس کا رسول بھی (ان سے دستبردار ہے)۔ پس اگر تم توبہ کرلو تو تمھارے حق میں بہتر ہے۔ اور اگر نہ مانو (اور خدا سے مقابلہ کرو) تو جان رکھو کہ تم خدا کو ہرا نہیں سکو گے اور (اے پیغمبر) کافروں کو دکھ دینے والے عذاب کی خبر سنا دو"
+}

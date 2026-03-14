@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Ahzaab",
+    "surahNameArabic": "الأحزاب",
+    "surahNameArabicLong": "سورة الأحزاب",
+    "surahNameTranslation": "The Clans",
+    "revelationPlace": "Madina",
+    "totalAyah": 73,
+    "surahNo": 33,
+    "ayahNo": 73,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/33_73.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/033073.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/33_73.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/033073.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/33_73.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/033073.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/33_73.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/033073.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/33_73.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/033073.mp3"
+        }
+    },
+    "english": "so that Allah will punish hypocrite men and women and polytheistic men and women, and Allah will turn in mercy to believing men and women. For Allah is All-Forgiving, Most Merciful.",
+    "arabic1": "لِّيُعَذِّبَ ٱللَّهُ ٱلْمُنَـٰفِقِينَ وَٱلْمُنَـٰفِقَـٰتِ وَٱلْمُشْرِكِينَ وَٱلْمُشْرِكَـٰتِ وَيَتُوبَ ٱللَّهُ عَلَى ٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَـٰتِ ۗ وَكَانَ ٱللَّهُ غَفُورًا رَّحِيمًۢا",
+    "arabic2": "ليعذب الله المنافقين والمنافقات والمشركين والمشركات ويتوب الله على المؤمنين والمؤمنات وكان الله غفورا رحيما",
+    "bengali": "যাতে আল্লাহ মুনাফিক পুরুষ ও মুনাফিক নারী এবং মুশরিক পুরুষ ও মুশরিক নারীদের আযাব দেন। আর মুমিন পুরুষ ও মুমিন নারীদের ক্ষমা করে দেন। আল্লাহ অত্যন্ত ক্ষমাশীল, পরম দয়ালু।",
+    "urdu": "تاکہ خدا منافق مردوں اور منافق عورتوں اور مشرک مردوں اور مشرک عورتوں کو عذاب دے اور خدا مومن مردوں اور مومن عورتوں پر مہربانی کرے۔ اور خدا تو بخشنے والا مہربان ہے"
+}

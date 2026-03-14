@@ -1,0 +1,42 @@
+{
+    "surahName": "Ash-Shu'araa",
+    "surahNameArabic": "الشعراء",
+    "surahNameArabicLong": "سورة الشعراء",
+    "surahNameTranslation": "The Poets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 227,
+    "surahNo": 26,
+    "ayahNo": 63,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/26_63.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/026063.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/26_63.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/026063.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/26_63.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/026063.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/26_63.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/026063.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/26_63.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/026063.mp3"
+        }
+    },
+    "english": "So We inspired Moses: “Strike the sea with your staff,” and the sea was split, each part was like a huge mountain.",
+    "arabic1": "فَأَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ أَنِ ٱضْرِب بِّعَصَاكَ ٱلْبَحْرَ ۖ فَٱنفَلَقَ فَكَانَ كُلُّ فِرْقٍ كَٱلطَّوْدِ ٱلْعَظِيمِ",
+    "arabic2": "فاوحينا الى موسى ان اضرب بعصاك البحر فانفلق فكان كل فرق كالطود العظيم",
+    "bengali": "অতঃপর আমি মূসার প্রতি ওহী পাঠালাম, ‘তোমার লাঠি দ্বারা সমুদ্রে আঘাত কর।’ ফলে তা বিভক্ত হয়ে গেল। তারপর প্রত্যেক ভাগ বিশাল পাহাড়সদৃশ হয়ে গেল।",
+    "urdu": "اس وقت ہم نے موسیٰ کی طرف وحی بھیجی کہ اپنی لاٹھی دریا پر مارو۔ تو دریا پھٹ گیا۔ اور ہر ایک ٹکڑا (یوں) ہوگیا (کہ) گویا بڑا پہاڑ (ہے)"
+}

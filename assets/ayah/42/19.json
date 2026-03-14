@@ -1,0 +1,42 @@
+{
+    "surahName": "Ash-Shura",
+    "surahNameArabic": "الشورى",
+    "surahNameArabicLong": "سورة الشورى",
+    "surahNameTranslation": "Consultation",
+    "revelationPlace": "Mecca",
+    "totalAyah": 53,
+    "surahNo": 42,
+    "ayahNo": 19,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/42_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/042019.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/42_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/042019.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/42_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/042019.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/42_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/042019.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/42_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/042019.mp3"
+        }
+    },
+    "english": "Allah is Ever Kind to His servants. He provides ˹abundantly˺ to whoever He wills. And He is the All-Powerful, Almighty.",
+    "arabic1": "ٱللَّهُ لَطِيفٌۢ بِعِبَادِهِۦ يَرْزُقُ مَن يَشَآءُ ۖ وَهُوَ ٱلْقَوِىُّ ٱلْعَزِيزُ",
+    "arabic2": "الله لطيف بعباده يرزق من يشاء وهو القوي العزيز",
+    "bengali": "আল্লাহ তাঁর বান্দাদের প্রতি অতি দয়ালু। তিনি যাকে ইচ্ছা রিয্ক দান করেন। আর তিনি মহাশক্তিধর, মহাপরাক্রমশালী।",
+    "urdu": "خدا اپنے بندوں پر مہربان ہے وہ جس کو چاہتا ہے رزق دیتا ہے۔ اور وہ زور والا (اور) زبردست ہے"
+}

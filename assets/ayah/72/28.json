@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Jinn",
+    "surahNameArabic": "الجن",
+    "surahNameArabicLong": "سورة الجن",
+    "surahNameTranslation": "The Jinn",
+    "revelationPlace": "Mecca",
+    "totalAyah": 28,
+    "surahNo": 72,
+    "ayahNo": 28,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/72_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/072028.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/72_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/072028.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/72_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/072028.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/72_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/072028.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/72_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/072028.mp3"
+        }
+    },
+    "english": "to ensure that the messengers fully deliver the messages of their Lord—though He ˹already˺ knows all about them, and keeps account of everything.”",
+    "arabic1": "لِّيَعْلَمَ أَن قَدْ أَبْلَغُوا۟ رِسَـٰلَـٰتِ رَبِّهِمْ وَأَحَاطَ بِمَا لَدَيْهِمْ وَأَحْصَىٰ كُلَّ شَىْءٍ عَدَدًۢا",
+    "arabic2": "ليعلم ان قد ابلغوا رسالات ربهم واحاط بما لديهم واحصى كل شيء عددا",
+    "bengali": "যাতে তিনি এটা জানতে পারেন যে, তারা* তাদের রবের রিসালাত পৌঁছিয়েছে কিনা। আর তাদের কাছে যা রয়েছে, তা তিনি পরিবেষ্টন করে রেখেছেন এবং তিনি প্রতিটি বস্তু গুণে গুণে হিসাব করে রেখেছেন। \n*রাসূলগণ।",
+    "urdu": "تاکہ معلوم فرمائے کہ انہوں نے اپنے پروردگار کے پیغام پہنچا دیئے ہیں اور (یوں تو) اس نے ان کی سب چیزوں کو ہر طرف سے قابو کر رکھا ہے اور ایک ایک چیز گن رکھی ہے"
+}

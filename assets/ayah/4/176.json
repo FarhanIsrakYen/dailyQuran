@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 176,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/4_176.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/004176.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/4_176.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/004176.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/4_176.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/004176.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/4_176.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/004176.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/4_176.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/004176.mp3"
+        }
+    },
+    "english": "They ask you ˹for a ruling, O  Prophet˺. Say, “Allah gives you a ruling regarding those who die without children or parents.” If a man dies childless and leaves behind a sister, she will inherit one-half of his estate, whereas her brother will inherit all of her estate if she dies childless. If this person leaves behind two sisters, they together will inherit two-thirds of the estate. But if the deceased leaves male and female siblings, a male’s share will be equal to that of two females. Allah makes ˹this˺ clear to you so you do not go astray. And Allah has ˹perfect˺ knowledge of all things.",
+    "arabic1": "يَسْتَفْتُونَكَ قُلِ ٱللَّهُ يُفْتِيكُمْ فِى ٱلْكَلَـٰلَةِ ۚ إِنِ ٱمْرُؤٌا۟ هَلَكَ لَيْسَ لَهُۥ وَلَدٌ وَلَهُۥٓ أُخْتٌ فَلَهَا نِصْفُ مَا تَرَكَ ۚ وَهُوَ يَرِثُهَآ إِن لَّمْ يَكُن لَّهَا وَلَدٌ ۚ فَإِن كَانَتَا ٱثْنَتَيْنِ فَلَهُمَا ٱلثُّلُثَانِ مِمَّا تَرَكَ ۚ وَإِن كَانُوٓا۟ إِخْوَةً رِّجَالًا وَنِسَآءً فَلِلذَّكَرِ مِثْلُ حَظِّ ٱلْأُنثَيَيْنِ ۗ يُبَيِّنُ ٱللَّهُ لَكُمْ أَن تَضِلُّوا۟ ۗ وَٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمٌۢ",
+    "arabic2": "يستفتونك قل الله يفتيكم في الكلالة ان امرؤ هلك ليس له ولد وله اخت فلها نصف ما ترك وهو يرثها ان لم يكن لها ولد فان كانتا اثنتين فلهما الثلثان مما ترك وان كانوا اخوة رجالا ونساء فللذكر مثل حظ الانثيين يبين الله لكم ان تضلوا والله بكل شيء عليم",
+    "bengali": "তারা তোমার কাছে সমাধান চায়। বল, ‘আল্লাহ তোমাদেরকে সমাধান দিচ্ছেন ‘কালালা’* সম্পর্কে। কোন ব্যক্তি যদি মারা যায় এমন অবস্থায় যে, তার কোন সন্তান নেই এবং তার এক বোন রয়েছে, তবে সে যা রেখে গিয়েছে বোনের জন্য তার অর্ধেক, আর সে (মহিলা)যদি সন্তানহীনা হয় তবে তার ভাই তার উত্তরাধিকারী হবে। কিন্তু যদি তারা (বোনেরা) দু’জন হয়, তবে সে যা রেখে গিয়েছে তাদের জন্য তার দুই তৃতীয়াংশ। আর যদি তারা কয়েক ভাই বোন পুরুষ ও নারী হয়, তবে পুরুষের জন্য দুই নারীর অংশের সমান হবে’। আল্লাহ তোমাদেরকে ব্যাখ্যা দিচ্ছেন, যাতে তোমরা পথভ্রষ্ট না হও এবং আল্লাহ প্রতিটি বিষয় সম্পর্কে সর্বজ্ঞ’। \n* যার পিতা মাতা জীবিত নেই এবং যে সন্তানহীন তাকে ‘কালালা’ বলা হয়।",
+    "urdu": "(اے پیغمبر) لوگ تم سے (کلالہ کے بارے میں) حکم (خدا) دریافت کرتے ہیں کہہ دو کہ خدا کلالہ بارے میں یہ حکم دیتا ہے کہ اگر کوئی ایسا مرد مرجائے جس کے اولاد نہ ہو (اور نہ ماں باپ) اور اس کے بہن ہو تو اس کو بھائی کے ترکے میں سے آدھا حصہ ملے گا۔ اور اگر بہن مرجائے اور اس کے اولاد نہ ہو تو اس کے تمام مال کا وارث بھائی ہوگا اور اگر (مرنے والے بھائی کی) دو بہنیں ہوں تو دونوں کو بھائی کے ترکے میں سے دو تہائی۔ اور اگر بھائی اور بہن یعنی مرد اور عورتیں ملے جلے وارث ہوں تو مرد کا حصہ دو عورتوں کے برابر ہے۔ (یہ احکام) خدا تم سے اس لئے بیان فرماتا ہے کہ بھٹکتے نہ پھرو۔ اور خدا ہر چیز سے واقف ہے"
+}

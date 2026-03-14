@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Furqaan",
+    "surahNameArabic": "الفرقان",
+    "surahNameArabicLong": "سورة الفرقان",
+    "surahNameTranslation": "The Criterion",
+    "revelationPlace": "Mecca",
+    "totalAyah": 77,
+    "surahNo": 25,
+    "ayahNo": 16,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/25_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/025016.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/25_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/025016.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/25_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/025016.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/25_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/025016.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/25_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/025016.mp3"
+        }
+    },
+    "english": "There they will have whatever they wish for, forever. That is a promise ˹to be sought after˺, binding on your Lord.”",
+    "arabic1": "لَّهُمْ فِيهَا مَا يَشَآءُونَ خَـٰلِدِينَ ۚ كَانَ عَلَىٰ رَبِّكَ وَعْدًا مَّسْـُٔولًا",
+    "arabic2": "لهم فيها ما يشاءون خالدين كان على ربك وعدا مسئولا",
+    "bengali": "সেখানে তারা যা চাইবে তা-ই তাদের জন্য থাকবে স্থায়ীভাবে; এটি তোমার রবের ওয়াদা,",
+    "urdu": "وہاں جو چاہیں گے ان کے لئے میسر ہوگا ہمیشہ اس میں رہیں گے۔ یہ وعدہ خدا کو (پورا کرنا) لازم ہے اور اس لائق ہے کہ مانگ لیا جائے"
+}

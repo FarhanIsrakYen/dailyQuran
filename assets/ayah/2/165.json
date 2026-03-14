@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 165,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_165.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002165.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_165.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002165.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_165.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002165.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_165.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002165.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_165.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002165.mp3"
+        }
+    },
+    "english": "Still there are some who take others as Allah’s equal—they love them as they should love Allah—but the ˹true˺ believers love Allah even more. If only the wrongdoers could see the ˹horrible˺ punishment ˹awaiting them˺, they would certainly realize that all power belongs to Allah and that Allah is indeed severe in punishment.",
+    "arabic1": "وَمِنَ ٱلنَّاسِ مَن يَتَّخِذُ مِن دُونِ ٱللَّهِ أَندَادًا يُحِبُّونَهُمْ كَحُبِّ ٱللَّهِ ۖ وَٱلَّذِينَ ءَامَنُوٓا۟ أَشَدُّ حُبًّا لِّلَّهِ ۗ وَلَوْ يَرَى ٱلَّذِينَ ظَلَمُوٓا۟ إِذْ يَرَوْنَ ٱلْعَذَابَ أَنَّ ٱلْقُوَّةَ لِلَّهِ جَمِيعًا وَأَنَّ ٱللَّهَ شَدِيدُ ٱلْعَذَابِ",
+    "arabic2": "ومن الناس من يتخذ من دون الله اندادا يحبونهم كحب الله والذين امنوا اشد حبا لله ولو يرى الذين ظلموا اذ يرون العذاب ان القوة لله جميعا وان الله شديد العذاب",
+    "bengali": "আর মানুষের মধ্যে এমনও আছে, যারা আল্লাহ ছাড়া অন্যকে আল্লাহর সমকক্ষরূপে গ্রহণ করে, তাদেরকে আল্লাহকে ভালবাসার মত ভালবাসে। আর যারা ঈমান এনেছে, তারা আল্লাহর জন্য ভালবাসায় দৃঢ়তর। আর যদি যালিমগণ দেখে- যখন তারা আযাব দেখবে যে, নিশ্চয় সকল শক্তি আল্লাহর জন্য এবং নিশ্চয় আল্লাহ আযাব দানে কঠোর।",
+    "urdu": "اور بعض لوگ ایسے ہیں جو غیر خدا کو شریک (خدا) بناتے اور ان سے خدا کی سی محبت کرتے ہیں۔ لیکن جو ایمان والے ہیں وہ تو خدا ہی کے سب سے زیادہ دوستدار ہیں۔ اور اے کاش ظالم لوگ جو بات عذاب کے وقت دیکھیں گے اب دیکھ لیتے کہ سب طرح کی طاقت خدا ہی کو ہے۔ اور یہ کہ خدا سخت عذاب کرنے والا ہے"
+}

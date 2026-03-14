@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Naba",
+    "surahNameArabic": "النبإ",
+    "surahNameArabicLong": "سورة النبأ",
+    "surahNameTranslation": "The Announcement",
+    "revelationPlace": "Mecca",
+    "totalAyah": 40,
+    "surahNo": 78,
+    "ayahNo": 38,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/78_38.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/078038.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/78_38.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/078038.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/78_38.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/078038.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/78_38.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/078038.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/78_38.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/078038.mp3"
+        }
+    },
+    "english": "on the Day the ˹holy˺ spirit and the angels will stand in ranks. None will talk, except those granted permission by the Most Compassionate and whose words are true.",
+    "arabic1": "يَوْمَ يَقُومُ ٱلرُّوحُ وَٱلْمَلَـٰٓئِكَةُ صَفًّا ۖ لَّا يَتَكَلَّمُونَ إِلَّا مَنْ أَذِنَ لَهُ ٱلرَّحْمَـٰنُ وَقَالَ صَوَابًا",
+    "arabic2": "يوم يقوم الروح والملائكة صفا لا يتكلمون الا من اذن له الرحمن وقال صوابا",
+    "bengali": "সেদিন রূহ* ও ফেরেশতাগণ সারিবদ্ধভাবে দাঁড়াবে, যাকে পরম করুণাময় অনুমতি দেবেন সে ছাড়া অন্যরা কোন কথা বলবে না। আর সে সঠিক কথাই বলবে। \n*হযরত জিবরীল (আঃ)।",
+    "urdu": "جس دن روح (الامین) اور فرشتے صف باندھ کر کھڑے ہوں گے تو کوئی بول نہ سکے گا مگر جس کو (خدائے رحمٰن) اجازت بخشے اور اس نے بات بھی درست کہی ہو"
+}

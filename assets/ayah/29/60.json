@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Ankaboot",
+    "surahNameArabic": "العنكبوت",
+    "surahNameArabicLong": "سورة العنكبوت",
+    "surahNameTranslation": "The Spider",
+    "revelationPlace": "Mecca",
+    "totalAyah": 69,
+    "surahNo": 29,
+    "ayahNo": 60,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/29_60.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/029060.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/29_60.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/029060.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/29_60.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/029060.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/29_60.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/029060.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/29_60.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/029060.mp3"
+        }
+    },
+    "english": "How many are the creatures that cannot secure their provisions! ˹It is˺ Allah ˹Who˺ provides for them and you ˹as well˺. He is indeed the All-Hearing, All-Knowing.",
+    "arabic1": "وَكَأَيِّن مِّن دَآبَّةٍ لَّا تَحْمِلُ رِزْقَهَا ٱللَّهُ يَرْزُقُهَا وَإِيَّاكُمْ ۚ وَهُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+    "arabic2": "وكاين من دابة لا تحمل رزقها الله يرزقها واياكم وهو السميع العليم",
+    "bengali": "আর এমন কত জীব-জন্তু রয়েছে, যারা নিজদের রিয্ক নিজেরা সঞ্চয় করে না, আল্লাহই তাদের রিয্ক দেন এবং তোমাদেরও। আর তিনি সর্বশ্রোতা, মহাজ্ঞানী।",
+    "urdu": "اور بہت سے جانور ہیں جو اپنا رزق اُٹھائے نہیں پھرتے خدا ہی ان کو رزق دیتا ہے اور تم کو بھی۔ اور وہ سننے والا اور جاننے والا ہے"
+}

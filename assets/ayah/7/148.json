@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 148,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/7_148.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/007148.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/7_148.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/007148.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/7_148.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/007148.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/7_148.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/007148.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/7_148.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/007148.mp3"
+        }
+    },
+    "english": "In the absence of Moses, his people made from their ˹golden˺ jewellery an idol of a calf that made a lowing sound. Did they not see that it could neither speak to them nor guide them to the ˹Right˺ Path? Still they took it as a god and were wrongdoers.",
+    "arabic1": "وَٱتَّخَذَ قَوْمُ مُوسَىٰ مِنۢ بَعْدِهِۦ مِنْ حُلِيِّهِمْ عِجْلًا جَسَدًا لَّهُۥ خُوَارٌ ۚ أَلَمْ يَرَوْا۟ أَنَّهُۥ لَا يُكَلِّمُهُمْ وَلَا يَهْدِيهِمْ سَبِيلًا ۘ ٱتَّخَذُوهُ وَكَانُوا۟ ظَـٰلِمِينَ",
+    "arabic2": "واتخذ قوم موسى من بعده من حليهم عجلا جسدا له خوار الم يروا انه لا يكلمهم ولا يهديهم سبيلا اتخذوه وكانوا ظالمين",
+    "bengali": "আর মূসার কওম তার (বের হওয়ার) পরে তাদের অলংকারাদি দিয়ে বানিয়ে নিল একটি গো বাছুর- দেহ, তার ছিল গরুর আওয়ায। তারা কি দেখল না যে, এটা তো তাদের সাথে কথা বলে না এবং তাদের পথ দেখায় না? তারা তাকে গ্রহণ করল এবং তারা ছিল যালিম।",
+    "urdu": "اور قوم موسیٰ نے موسیٰ کے بعد اپنے زیور کا ایک بچھڑا بنا لیا (وہ) ایک جسم (تھا) جس میں سے بیل کی آواز نکلتی تھی۔ ان لوگوں نے یہ نہ دیکھا کہ وہ نہ ان سے بات کرسکتا ہے اور نہ ان کو راستہ دکھا سکتا ہے۔ اس کو انہوں نے (معبود) بنالیا اور (اپنے حق میں) ظلم کیا"
+}

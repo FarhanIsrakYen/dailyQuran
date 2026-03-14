@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Mulk",
+    "surahNameArabic": "الملك",
+    "surahNameArabicLong": "سورة الملك",
+    "surahNameTranslation": "The Sovereignty",
+    "revelationPlace": "Mecca",
+    "totalAyah": 30,
+    "surahNo": 67,
+    "ayahNo": 19,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/67_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/067019.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/67_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/067019.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/67_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/067019.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/67_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/067019.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/67_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/067019.mp3"
+        }
+    },
+    "english": "Have they not seen the birds above them, spreading and folding their wings? None holds them up except the Most Compassionate. Indeed, He is All-Seeing of everything.",
+    "arabic1": "أَوَلَمْ يَرَوْا۟ إِلَى ٱلطَّيْرِ فَوْقَهُمْ صَـٰٓفَّـٰتٍ وَيَقْبِضْنَ ۚ مَا يُمْسِكُهُنَّ إِلَّا ٱلرَّحْمَـٰنُ ۚ إِنَّهُۥ بِكُلِّ شَىْءٍۭ بَصِيرٌ",
+    "arabic2": "اولم يروا الى الطير فوقهم صافات ويقبضن ما يمسكهن الا الرحمن انه بكل شيء بصير",
+    "bengali": "তারা কি লক্ষ্য করেনি তাদের উপরস্থ পাখিদের প্রতি, যারা ডানা বিস্তার করে ও গুটিয়ে নেয়? পরম করুণাময় ছাড়া অন্য কেউ এদেরকে স্থির রাখে না। নিশ্চয় তিনি সব কিছুর সম্যক দ্রষ্টা।",
+    "urdu": "کیا انہوں نے اپنے سروں پر اڑتے ہوئے جانوروں کو نہیں دیکھا جو پروں کو پھیلائے رہتے ہیں اور ان کو سکیڑ بھی لیتے ہیں۔ خدا کے سوا انہیں کوئی تھام نہیں سکتا۔ بےشک وہ ہر چیز کو دیکھ رہا ہے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nahl",
+    "surahNameArabic": "النحل",
+    "surahNameArabicLong": "سورة النحل",
+    "surahNameTranslation": "The Bee",
+    "revelationPlace": "Mecca",
+    "totalAyah": 128,
+    "surahNo": 16,
+    "ayahNo": 33,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/16_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/016033.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/16_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/016033.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/16_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/016033.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/16_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/016033.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/16_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/016033.mp3"
+        }
+    },
+    "english": "Are they only awaiting the coming of the angels or the command of your Lord ˹O Prophet˺? So were those before them. And Allah never wronged them, but it was they who wronged themselves.",
+    "arabic1": "هَلْ يَنظُرُونَ إِلَّآ أَن تَأْتِيَهُمُ ٱلْمَلَـٰٓئِكَةُ أَوْ يَأْتِىَ أَمْرُ رَبِّكَ ۚ كَذَٰلِكَ فَعَلَ ٱلَّذِينَ مِن قَبْلِهِمْ ۚ وَمَا ظَلَمَهُمُ ٱللَّهُ وَلَـٰكِن كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ",
+    "arabic2": "هل ينظرون الا ان تاتيهم الملائكة او ياتي امر ربك كذلك فعل الذين من قبلهم وما ظلمهم الله ولكن كانوا انفسهم يظلمون",
+    "bengali": "তারা শুধু ফেরেশতা আসার অপেক্ষা করছে অথবা তোমার রবের সিদ্ধান্ত আসার। এমনি করেছিল তারা, যারা তাদের পূর্বে ছিল। আর আল্লাহ তাদের উপর যুলম করেননি, বরং তারাই নিজদের উপর যুলম করেছিল।",
+    "urdu": "کیا یہ (کافر) اس بات کے منتظر ہیں کہ فرشتے ان کے پاس (جان نکالنے) آئیں یا تمہارے پروردگار کا حکم (عذاب) آپہنچے۔ اسی طرح اُن لوگوں نے کیا تھا جو اُن سے پہلے تھے اور خدا نے اُن پر ظلم نہیں کیا بلکہ وہ خود اپنے آپ پر ظلم کرتے تھے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Qasas",
+    "surahNameArabic": "القصص",
+    "surahNameArabicLong": "سورة القصص",
+    "surahNameTranslation": "The Stories",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 28,
+    "ayahNo": 12,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/28_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/028012.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/28_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/028012.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/28_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/028012.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/28_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/028012.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/28_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/028012.mp3"
+        }
+    },
+    "english": "And We had caused him to refuse all wet-nurses at first, so his sister suggested, “Shall I direct you to a family who will bring him up for you and take good care of him?”",
+    "arabic1": "۞ وَحَرَّمْنَا عَلَيْهِ ٱلْمَرَاضِعَ مِن قَبْلُ فَقَالَتْ هَلْ أَدُلُّكُمْ عَلَىٰٓ أَهْلِ بَيْتٍ يَكْفُلُونَهُۥ لَكُمْ وَهُمْ لَهُۥ نَـٰصِحُونَ",
+    "arabic2": "وحرمنا عليه المراضع من قبل فقالت هل ادلكم على اهل بيت يكفلونه لكم وهم له ناصحون",
+    "bengali": "আর আমি তার জন্য পূর্ব থেকেই ধাত্রী (স্তন্য পান) নিষিদ্ধ করে দিয়েছিলাম। তারপর মূসার বোন এসে বলল, ‘আমি কি তোমাদেরকে এমন একটি পরিবারের সন্ধান দেব, যারা এ শিশুটিকে তোমাদের পক্ষে লালন পালন করবে এবং তারা তার শুভাকাঙ্ক্ষী হবে’।",
+    "urdu": "اور ہم نے پہلے ہی سے اس پر (دائیوں) کے دودھ حرام کر دیئے تھے۔ تو موسٰی کی بہن نے کہا کہ میں تمہیں ایسے گھر والے بتاؤں کہ تمہارے لئے اس (بچے) کو پالیں اور اس کی خیر خواہی (سے پرورش) کریں"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Noor",
+    "surahNameArabic": "النور",
+    "surahNameArabicLong": "سورة النور",
+    "surahNameTranslation": "The Light",
+    "revelationPlace": "Madina",
+    "totalAyah": 64,
+    "surahNo": 24,
+    "ayahNo": 33,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/24_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/024033.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/24_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/024033.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/24_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/024033.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/24_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/024033.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/24_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/024033.mp3"
+        }
+    },
+    "english": "And let those who do not have the means to marry keep themselves chaste until Allah enriches them out of His bounty. And if any of those ˹bondspeople˺ in your possession desires a deed of emancipation, make it possible for them, if you find goodness in them. And give them some of Allah’s wealth which He has granted you. Do not force your ˹slave˺ girls into prostitution for your own worldly gains while they wish to remain chaste. And if someone coerces them, then after such a coercion Allah is certainly All-Forgiving, Most Merciful ˹to them˺.",
+    "arabic1": "وَلْيَسْتَعْفِفِ ٱلَّذِينَ لَا يَجِدُونَ نِكَاحًا حَتَّىٰ يُغْنِيَهُمُ ٱللَّهُ مِن فَضْلِهِۦ ۗ وَٱلَّذِينَ يَبْتَغُونَ ٱلْكِتَـٰبَ مِمَّا مَلَكَتْ أَيْمَـٰنُكُمْ فَكَاتِبُوهُمْ إِنْ عَلِمْتُمْ فِيهِمْ خَيْرًا ۖ وَءَاتُوهُم مِّن مَّالِ ٱللَّهِ ٱلَّذِىٓ ءَاتَىٰكُمْ ۚ وَلَا تُكْرِهُوا۟ فَتَيَـٰتِكُمْ عَلَى ٱلْبِغَآءِ إِنْ أَرَدْنَ تَحَصُّنًا لِّتَبْتَغُوا۟ عَرَضَ ٱلْحَيَوٰةِ ٱلدُّنْيَا ۚ وَمَن يُكْرِههُّنَّ فَإِنَّ ٱللَّهَ مِنۢ بَعْدِ إِكْرَٰهِهِنَّ غَفُورٌ رَّحِيمٌ",
+    "arabic2": "وليستعفف الذين لا يجدون نكاحا حتى يغنيهم الله من فضله والذين يبتغون الكتاب مما ملكت ايمانكم فكاتبوهم ان علمتم فيهم خيرا واتوهم من مال الله الذي اتاكم ولا تكرهوا فتياتكم على البغاء ان اردن تحصنا لتبتغوا عرض الحياة الدنيا ومن يكرههن فان الله من بعد اكراههن غفور رحيم",
+    "bengali": "আর যাদের বিবাহের সামর্থ্য নেই আল্লাহ তাদেরকে নিজ অনুগ্রহে অভাবমুক্ত না করা পর্যন্ত তারা যেন সংযম অবলম্বন করে। আর তোমাদের মালিকানাধীন দাস-দাসীদের মধ্যে যারা মুক্তির জন্য লিখিত চুক্তি করতে চায় তাদের সাথে তোমরা লিখিত চুক্তি কর, যদি তোমরা তাদের মধ্যে কল্যাণ আছে বলে জানতে পার এবং আল্লাহ তোমাদেরকে যে সম্পদ দিয়েছেন তা থেকে তোমরা তাদেরকে দাও। তোমাদের দাসীরা সতীত্ব রক্ষা করতে চাইলে তোমরা দুনিয়ার জীবনের সম্পদের কামনায় তাদেরকে ব্যভিচারে বাধ্য করো না। আর যারা তাদেরকে বাধ্য করবে, নিশ্চয় তাদেরকে বাধ্য করার পর আল্লাহ তাদের প্রতি অত্যন্ত ক্ষমাশীল পরম দয়ালু।",
+    "urdu": "اور جن کو بیاہ کا مقدور نہ ہو وہ پاک دامنی کو اختیار کئے رہیں یہاں تک کہ خدا ان کو اپنے فضل سے غنی کردے۔ اور جو غلام تم سے مکاتبت چاہیں اگر تم ان میں (صلاحیت اور) نیکی پاؤ تو ان سے مکاتبت کرلو۔ اور خدا نے جو مال تم کو بخشا ہے اس میں سے ان کو بھی دو۔ اور اپنی لونڈیوں کو اگر وہ پاک دامن رہنا چاہیں تو (بےشرمی سے) دنیاوی زندگی کے فوائد حاصل کرنے کے لئے بدکاری پر مجبور نہ کرنا۔ اور جو ان کو مجبور کرے گا تو ان (بیچاریوں) کے مجبور کئے جانے کے بعد خدا بخشنے والا مہربان ہے"
+}

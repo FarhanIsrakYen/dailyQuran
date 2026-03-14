@@ -1,0 +1,42 @@
+{
+    "surahName": "Ghafir",
+    "surahNameArabic": "غافر",
+    "surahNameArabicLong": "سورة غافر",
+    "surahNameTranslation": "The Forgiver",
+    "revelationPlace": "Mecca",
+    "totalAyah": 85,
+    "surahNo": 40,
+    "ayahNo": 36,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/40_36.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/040036.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/40_36.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/040036.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/40_36.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/040036.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/40_36.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/040036.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/40_36.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/040036.mp3"
+        }
+    },
+    "english": "Pharaoh ordered, “O Hamân! Build me a high tower so I may reach the pathways",
+    "arabic1": "وَقَالَ فِرْعَوْنُ يَـٰهَـٰمَـٰنُ ٱبْنِ لِى صَرْحًا لَّعَلِّىٓ أَبْلُغُ ٱلْأَسْبَـٰبَ",
+    "arabic2": "وقال فرعون يا هامان ابن لي صرحا لعلي ابلغ الاسباب",
+    "bengali": "ফির‘আউন আরও বলল, ‘হে হামান, আমার জন্য একটি উঁচু ইমারত বানাও যাতে আমি অবলম্বন পাই’।",
+    "urdu": "اور فرعون نے کہا کہ ہامان میرے لئے ایک محل بناؤ تاکہ میں (اس پر چڑھ کر) رستوں پر پہنچ جاؤں"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Taghaabun",
+    "surahNameArabic": "التغابن",
+    "surahNameArabicLong": "سورة التغابن",
+    "surahNameTranslation": "Mutual Disillusion",
+    "revelationPlace": "Madina",
+    "totalAyah": 18,
+    "surahNo": 64,
+    "ayahNo": 2,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/64_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/064002.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/64_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/064002.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/64_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/064002.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/64_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/064002.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/64_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/064002.mp3"
+        }
+    },
+    "english": "He is the One Who created you, yet some of you are disbelievers while some are believers. And Allah is All-Seeing of what you do.",
+    "arabic1": "هُوَ ٱلَّذِى خَلَقَكُمْ فَمِنكُمْ كَافِرٌ وَمِنكُم مُّؤْمِنٌ ۚ وَٱللَّهُ بِمَا تَعْمَلُونَ بَصِيرٌ",
+    "arabic2": "هو الذي خلقكم فمنكم كافر ومنكم مؤمن والله بما تعملون بصير",
+    "bengali": "তিনিই তোমাদেরকে সৃষ্টি করেছেন। অতঃপর তোমাদের মধ্যে কতক কাফির এবং কতক মু’মিন। আর তোমরা যে আমল করছ আল্লাহ তার সম্যক দ্রষ্টা।",
+    "urdu": "وہی تو ہے جس نے تم کو پیدا کیا پھر کوئی تم میں کافر ہے اور کوئی مومن۔ اور جو کچھ تم کرتے ہو خدا اس کو دیکھتا ہے"
+}

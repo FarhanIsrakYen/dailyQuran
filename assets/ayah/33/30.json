@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Ahzaab",
+    "surahNameArabic": "الأحزاب",
+    "surahNameArabicLong": "سورة الأحزاب",
+    "surahNameTranslation": "The Clans",
+    "revelationPlace": "Madina",
+    "totalAyah": 73,
+    "surahNo": 33,
+    "ayahNo": 30,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/33_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/033030.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/33_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/033030.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/33_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/033030.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/33_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/033030.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/33_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/033030.mp3"
+        }
+    },
+    "english": "O wives of the Prophet! If any of you were to commit a blatant misconduct, the punishment would be doubled for her. And that is easy for Allah.",
+    "arabic1": "يَـٰنِسَآءَ ٱلنَّبِىِّ مَن يَأْتِ مِنكُنَّ بِفَـٰحِشَةٍ مُّبَيِّنَةٍ يُضَـٰعَفْ لَهَا ٱلْعَذَابُ ضِعْفَيْنِ ۚ وَكَانَ ذَٰلِكَ عَلَى ٱللَّهِ يَسِيرًا",
+    "arabic2": "يا نساء النبي من يات منكن بفاحشة مبينة يضاعف لها العذاب ضعفين وكان ذلك على الله يسيرا",
+    "bengali": "হে নবী-পত্নীগণ, তোমাদের মধ্যে যে কেউ প্রকাশ্য অশ্লীল কাজ করবে, তার জন্য আযাব দ্বিগুণ করা হবে। আর এটা আল্লাহর পক্ষে সহজ।",
+    "urdu": "اے پیغمبر کی بیویو تم میں سے جو کوئی صریح ناشائستہ (الفاظ کہہ کر رسول الله کو ایذا دینے کی) حرکت کرے گی۔ اس کو دونی سزا دی جائے گی۔ اور یہ (بات) خدا کو آسان ہے"
+}

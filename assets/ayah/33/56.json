@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Ahzaab",
+    "surahNameArabic": "الأحزاب",
+    "surahNameArabicLong": "سورة الأحزاب",
+    "surahNameTranslation": "The Clans",
+    "revelationPlace": "Madina",
+    "totalAyah": 73,
+    "surahNo": 33,
+    "ayahNo": 56,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/33_56.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/033056.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/33_56.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/033056.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/33_56.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/033056.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/33_56.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/033056.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/33_56.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/033056.mp3"
+        }
+    },
+    "english": "Indeed, Allah showers His blessings upon the Prophet, and His angels pray for him. O  believers! Invoke Allah’s blessings upon him, and salute him with worthy greetings of peace.",
+    "arabic1": "إِنَّ ٱللَّهَ وَمَلَـٰٓئِكَتَهُۥ يُصَلُّونَ عَلَى ٱلنَّبِىِّ ۚ يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ صَلُّوا۟ عَلَيْهِ وَسَلِّمُوا۟ تَسْلِيمًا",
+    "arabic2": "ان الله وملائكته يصلون على النبي يا ايها الذين امنوا صلوا عليه وسلموا تسليما",
+    "bengali": "নিশ্চয় আল্লাহ (ঊর্ধ্ব জগতে ফেরেশতাদের মধ্যে) নবীর প্রশংসা করেন এবং তাঁর ফেরেশতাগণ নবীর জন্য দো‘আ করে*। হে মুমিনগণ, তোমরাও নবীর উপর দরূদ পাঠ কর এবং তাকে যথাযথভাবে সালাম জানাও। \n* ইমাম বুখারী আবুল ‘আলিয়া থেকে বর্ণনা করেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর উপর আল্লাহর সালাত’ বলতে বুঝানো হয়েছে ফেরেশতাদের কাছে নবীর প্রশংসা এবং ফেরেশতাদের সালাত হলো দো‘আ। আর ইমাম তিরমিযী সুফিয়ান সওরী থেকে বর্ণনা করেন যে, এখানে আল্লাহর সালাত বলতে রহমত এবং ফেরেশতাদের সালাত বলতে ইস্তেগফার বুঝানো হয়েছে (তাফসীর ইবন কাসীর)।",
+    "urdu": "خدا اور اس کے فرشتے پیغمبر پر درود بھیجتے ہیں۔ مومنو تم بھی ان پر دُرود اور سلام بھیجا کرو"
+}

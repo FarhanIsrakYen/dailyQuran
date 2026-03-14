@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 93,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/6_93.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/006093.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/6_93.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/006093.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/6_93.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/006093.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/6_93.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/006093.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/6_93.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/006093.mp3"
+        }
+    },
+    "english": "Who does more wrong than the one who fabricates lies against Allah or claims, “I have received revelations!”—although nothing was revealed to them—or the one who says, “I can reveal the like of Allah’s revelations!”? If you ˹O Prophet˺ could only see the wrongdoers in the throes of death while the angels are stretching out their hands ˹saying˺, “Give up your souls! Today you will be rewarded with the torment of disgrace for telling lies about Allah and for being arrogant towards His revelations!”",
+    "arabic1": "وَمَنْ أَظْلَمُ مِمَّنِ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًا أَوْ قَالَ أُوحِىَ إِلَىَّ وَلَمْ يُوحَ إِلَيْهِ شَىْءٌ وَمَن قَالَ سَأُنزِلُ مِثْلَ مَآ أَنزَلَ ٱللَّهُ ۗ وَلَوْ تَرَىٰٓ إِذِ ٱلظَّـٰلِمُونَ فِى غَمَرَٰتِ ٱلْمَوْتِ وَٱلْمَلَـٰٓئِكَةُ بَاسِطُوٓا۟ أَيْدِيهِمْ أَخْرِجُوٓا۟ أَنفُسَكُمُ ۖ ٱلْيَوْمَ تُجْزَوْنَ عَذَابَ ٱلْهُونِ بِمَا كُنتُمْ تَقُولُونَ عَلَى ٱللَّهِ غَيْرَ ٱلْحَقِّ وَكُنتُمْ عَنْ ءَايَـٰتِهِۦ تَسْتَكْبِرُونَ",
+    "arabic2": "ومن اظلم ممن افترى على الله كذبا او قال اوحي الي ولم يوح اليه شيء ومن قال سانزل مثل ما انزل الله ولو ترى اذ الظالمون في غمرات الموت والملائكة باسطو ايديهم اخرجوا انفسكم اليوم تجزون عذاب الهون بما كنتم تقولون على الله غير الحق وكنتم عن اياته تستكبرون",
+    "bengali": "আর তার চেয়ে বড় যালিম কে, যে আল্লাহর উপর মিথ্যা রটনা করে, অথবা বলে, ‘আমার উপর ওহী প্রেরণ করা হয়েছে’, অথচ তার প্রতি কোন কিছুই প্রেরণ করা হয়নি? এবং যে বলে ‘আমি অচিরেই নাযিল করব, যেরূপ আল্লাহ নাযিল করেছেন’। আর যদি তুমি দেখতে, যখন যালিমরা মৃত্যু কষ্টে থাকে, এমতাবস্থায় ফেরেশতারা তাদের হাত প্রসারিত করে আছে (তারা বলে), ‘তোমাদের জান বের কর। আজ তোমাদেরকে প্রতিদান দেয়া হবে লাঞ্ছনার আযাব, কারণ তোমরা আল্লাহর উপর অসত্য বলতে এবং তোমরা তার আয়াতসমূহ সম্পর্কে অহঙ্কার করতে।",
+    "urdu": "اور اس سے بڑھ کر ظالم کون ہوگا جو خدا پر جھوٹ افتراء کرے۔ یا یہ کہے کہ مجھ پر وحی آئی ہے حالانکہ اس پر کچھ بھی وحی نہ آئی ہو اور جو یہ کہے کہ جس طرح کی کتاب خدا نے نازل کی ہے اس طرح کی میں بھی بنا لیتا ہوں۔ اور کاش تم ان ظالم (یعنی مشرک) لوگوں کو اس وقت دیکھو جب موت کی سختیوں میں (مبتلا) ہوں اور فرشتے (ان کی طرف عذاب کے لئے) ہاتھ بڑھا رہے ہوں کہ نکالو اپنی جانیں۔ آج تم کو ذلت کے عذاب کی سزا دی جائے گی اس لئے کہ تم خدا پر جھوٹ بولا کرتے تھے اور اس کی آیتوں سے سرکشی کرتے تھے"
+}

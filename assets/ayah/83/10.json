@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Mutaffifin",
+    "surahNameArabic": "المطففين",
+    "surahNameArabicLong": "سورة المطففين",
+    "surahNameTranslation": "Defrauding",
+    "revelationPlace": "Mecca",
+    "totalAyah": 36,
+    "surahNo": 83,
+    "ayahNo": 10,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/83_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/083010.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/83_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/083010.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/83_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/083010.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/83_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/083010.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/83_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/083010.mp3"
+        }
+    },
+    "english": "Woe on that Day to the deniers—",
+    "arabic1": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+    "arabic2": "ويل يومئذ للمكذبين",
+    "bengali": "সেদিন ধ্বংস অস্বীকারকারীদের জন্য ।",
+    "urdu": "اس دن جھٹلانے والوں کی خرابی ہے"
+}

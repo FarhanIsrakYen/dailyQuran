@@ -1,0 +1,42 @@
+{
+    "surahName": "Hud",
+    "surahNameArabic": "هود",
+    "surahNameArabicLong": "سورة هود",
+    "surahNameTranslation": "Hud",
+    "revelationPlace": "Mecca",
+    "totalAyah": 123,
+    "surahNo": 11,
+    "ayahNo": 49,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/11_49.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/011049.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/11_49.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/011049.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/11_49.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/011049.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/11_49.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/011049.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/11_49.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/011049.mp3"
+        }
+    },
+    "english": "This is one of the stories of the unseen, which we reveal to you ˹O Prophet˺. Neither you nor your people knew it before this. So be patient! Surely the ultimate outcome belongs ˹only˺ to the righteous.",
+    "arabic1": "تِلْكَ مِنْ أَنۢبَآءِ ٱلْغَيْبِ نُوحِيهَآ إِلَيْكَ ۖ مَا كُنتَ تَعْلَمُهَآ أَنتَ وَلَا قَوْمُكَ مِن قَبْلِ هَـٰذَا ۖ فَٱصْبِرْ ۖ إِنَّ ٱلْعَـٰقِبَةَ لِلْمُتَّقِينَ",
+    "arabic2": "تلك من انباء الغيب نوحيها اليك ما كنت تعلمها انت ولا قومك من قبل هذا فاصبر ان العاقبة للمتقين",
+    "bengali": "এগুলো গায়েবের সংবাদ, আমি তোমাকে ওহীর মাধ্যমে তা জানাচ্ছি। ইতঃপূর্বে তা না তুমি জানতে এবং না তোমার কওম। সুতরাং তুমি সবর কর। নিশ্চয় শুভ পরিণাম কেবল মুত্তাকীদের জন্য।",
+    "urdu": "یہ (حالات) منجملہ غیب کی خبروں کے ہیں جو ہم تمہاری طرف بھیجتے ہیں۔ اور اس سے پہلے نہ تم ہی ان کو جانتے تھے اور نہ تمہاری قوم (ہی ان سے واقف تھی) تو صبر کرو کہ انجام پرہیزگاروں ہی کا (بھلا) ہے"
+}

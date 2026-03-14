@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 61,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/9_61.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/009061.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/9_61.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/009061.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/9_61.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/009061.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/9_61.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/009061.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/9_61.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/009061.mp3"
+        }
+    },
+    "english": "And there are others who hurt the Prophet by saying, “He listens to anyone.” Say, ˹O Prophet,˺ “He listens to what is best for you. He believes in Allah, has faith in the believers, and is a mercy for those who believe among you.” Those who hurt Allah’s Messenger will suffer a painful punishment.",
+    "arabic1": "وَمِنْهُمُ ٱلَّذِينَ يُؤْذُونَ ٱلنَّبِىَّ وَيَقُولُونَ هُوَ أُذُنٌ ۚ قُلْ أُذُنُ خَيْرٍ لَّكُمْ يُؤْمِنُ بِٱللَّهِ وَيُؤْمِنُ لِلْمُؤْمِنِينَ وَرَحْمَةٌ لِّلَّذِينَ ءَامَنُوا۟ مِنكُمْ ۚ وَٱلَّذِينَ يُؤْذُونَ رَسُولَ ٱللَّهِ لَهُمْ عَذَابٌ أَلِيمٌ",
+    "arabic2": "ومنهم الذين يؤذون النبي ويقولون هو اذن قل اذن خير لكم يؤمن بالله ويؤمن للمؤمنين ورحمة للذين امنوا منكم والذين يؤذون رسول الله لهم عذاب اليم",
+    "bengali": "আর তাদের মধ্যে এমন লোক আছে, যারা নবীকে কষ্ট দেয় এবং বলে, ‘তিনি (সব বিষয়ে) শ্রবণকারী’। বল, তোমাদের জন্য যা কল্যাণের তা শ্রবণকারী। সে আল্লাহর প্রতি ঈমান রাখে এবং মুমিনদের বিশ্বাস করে, আর তোমাদের মধ্যে যারা ঈমানদার তাদের জন্য সে রহমত এবং যারা আল্লাহর রাসূলকে কষ্ট দেয়, তাদের জন্য রয়েছে বেদনাদায়ক আযাব।",
+    "urdu": "اور ان میں بعض ایسے ہیں جو پیغمبر کو ایذا دیتے ہیں اور کہتے ہیں کہ یہ شخص نرا کان ہے۔ (ان سے) کہہ دو کہ (وہ) کان (ہے تو) تمہاری بھلائی کے لیے۔ وہ خدا کا اور مومنوں (کی بات) کا یقین رکھتا ہے اور جو لوگ تم میں سے ایمان لائے ہیں ان کے لیے رحمت ہے۔ اور جو لوگ رسول خدا کو رنج پہنچاتے ہیں ان کے لیے عذاب الیم (تیار) ہے"
+}

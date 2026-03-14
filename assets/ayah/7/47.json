@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 47,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/7_47.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/007047.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/7_47.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/007047.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/7_47.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/007047.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/7_47.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/007047.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/7_47.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/007047.mp3"
+        }
+    },
+    "english": "When their eyes will turn towards the residents of Hell, they will pray, “Our Lord! Do not join us with the wrongdoing people.”",
+    "arabic1": "۞ وَإِذَا صُرِفَتْ أَبْصَـٰرُهُمْ تِلْقَآءَ أَصْحَـٰبِ ٱلنَّارِ قَالُوا۟ رَبَّنَا لَا تَجْعَلْنَا مَعَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+    "arabic2": "واذا صرفت ابصارهم تلقاء اصحاب النار قالوا ربنا لا تجعلنا مع القوم الظالمين",
+    "bengali": "আর যখন তাদের দৃষ্টিকে আগুনের অধিবাসীদের প্রতি ফেরানো হবে, তখন তারা বলবে, ‘হে আমাদের রব, আমাদেরকে যালিম কওমের অন্তর্ভুক্ত করবেন না’।",
+    "urdu": "اور جب ان کی نگاہیں پلٹ کر اہل دوزخ کی طرف جائیں گی تو عرض کریں گے کہ اے ہمارے پروردگار ہم کو ظالم لوگوں کے ساتھ شامل نہ کیجیو"
+}

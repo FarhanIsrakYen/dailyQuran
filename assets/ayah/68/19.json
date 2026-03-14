@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Qalam",
+    "surahNameArabic": "القلم",
+    "surahNameArabicLong": "سورة القلم",
+    "surahNameTranslation": "The Pen",
+    "revelationPlace": "Mecca",
+    "totalAyah": 52,
+    "surahNo": 68,
+    "ayahNo": 19,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/68_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/068019.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/68_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/068019.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/68_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/068019.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/68_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/068019.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/68_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/068019.mp3"
+        }
+    },
+    "english": "Then it was struck by a torment from your Lord while they slept",
+    "arabic1": "فَطَافَ عَلَيْهَا طَآئِفٌ مِّن رَّبِّكَ وَهُمْ نَآئِمُونَ",
+    "arabic2": "فطاف عليها طائف من ربك وهم نائمون",
+    "bengali": "অতঃপর তোমার রবের পক্ষ থেকে এক প্রদক্ষিণকারী (আগুন) বাগানের ওপর দিয়ে প্রদক্ষিণ করে গেল, আর তারা ছিল ঘুমন্ত।",
+    "urdu": "سو وہ ابھی سو ہی رہے تھے کہ تمہارے پروردگار کی طرف سے (راتوں رات) اس پر ایک آفت پھر گئی"
+}

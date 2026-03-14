@@ -1,0 +1,42 @@
+{
+    "surahName": "Yunus",
+    "surahNameArabic": "يونس",
+    "surahNameArabicLong": "سورة يونس",
+    "surahNameTranslation": "Jonas",
+    "revelationPlace": "Mecca",
+    "totalAyah": 109,
+    "surahNo": 10,
+    "ayahNo": 19,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/10_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/010019.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/10_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/010019.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/10_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/010019.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/10_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/010019.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/10_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/010019.mp3"
+        }
+    },
+    "english": "Humanity was once nothing but a single community ˹of believers˺, but then they differed. Had it not been for a prior decree from your Lord, their differences would have been settled ˹at once˺.",
+    "arabic1": "وَمَا كَانَ ٱلنَّاسُ إِلَّآ أُمَّةً وَٰحِدَةً فَٱخْتَلَفُوا۟ ۚ وَلَوْلَا كَلِمَةٌ سَبَقَتْ مِن رَّبِّكَ لَقُضِىَ بَيْنَهُمْ فِيمَا فِيهِ يَخْتَلِفُونَ",
+    "arabic2": "وما كان الناس الا امة واحدة فاختلفوا ولولا كلمة سبقت من ربك لقضي بينهم فيما فيه يختلفون",
+    "bengali": "আর মানুষ তো এক উম্মতই ছিল। পরে তারা বিভক্ত হয়ে পড়ল। আর তোমার রবের পক্ষ থেকে বাণী বিগত না হলে তাদের মধ্যে মীমাংসা হয়ে যেত, যা নিয়ে তারা মতবিরোধ করে।",
+    "urdu": "اور (سب) لوگ (پہلے) ایک ہی اُمت (یعنی ایک ہی ملت پر) تھے۔ پھر جدا جدا ہوگئے۔ اور اگر ایک بات جو تمہارے پروردگار کی طرف سے پہلے ہوچکی ہے نہ ہوتی تو جن باتوں میں وہ اختلاف کرتے ہیں ان میں فیصلہ کر دیا جاتا"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Ghafir",
+    "surahNameArabic": "غافر",
+    "surahNameArabicLong": "سورة غافر",
+    "surahNameTranslation": "The Forgiver",
+    "revelationPlace": "Mecca",
+    "totalAyah": 85,
+    "surahNo": 40,
+    "ayahNo": 52,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/40_52.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/040052.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/40_52.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/040052.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/40_52.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/040052.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/40_52.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/040052.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/40_52.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/040052.mp3"
+        }
+    },
+    "english": "the Day the wrongdoers’ excuses will be of no benefit to them. They will be condemned, and will have the worst outcome.",
+    "arabic1": "يَوْمَ لَا يَنفَعُ ٱلظَّـٰلِمِينَ مَعْذِرَتُهُمْ ۖ وَلَهُمُ ٱللَّعْنَةُ وَلَهُمْ سُوٓءُ ٱلدَّارِ",
+    "arabic2": "يوم لا ينفع الظالمين معذرتهم ولهم اللعنة ولهم سوء الدار",
+    "bengali": "যেদিন যালিমদের কোন ওযর-আপত্তি তাদের উপকার করবে না। আর তাদের জন্য রয়েছে লা‘নত এবং তাদের জন্য রয়েছে নিকৃষ্ট নিবাস।",
+    "urdu": "جس دن ظالموں کو ان کی معذرت کچھ فائدہ نہ دے گی اور ان کے لئے لعنت اور برا گھر ہے"
+}

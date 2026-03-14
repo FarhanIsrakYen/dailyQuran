@@ -1,0 +1,42 @@
+{
+    "surahName": "Yusuf",
+    "surahNameArabic": "يوسف",
+    "surahNameArabicLong": "سورة يوسف",
+    "surahNameTranslation": "Joseph",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 12,
+    "ayahNo": 39,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/12_39.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/012039.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/12_39.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/012039.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/12_39.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/012039.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/12_39.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/012039.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/12_39.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/012039.mp3"
+        }
+    },
+    "english": "O  my fellow-prisoners! Which is far better: many different lords or Allah—the One, the Supreme?",
+    "arabic1": "يَـٰصَـٰحِبَىِ ٱلسِّجْنِ ءَأَرْبَابٌ مُّتَفَرِّقُونَ خَيْرٌ أَمِ ٱللَّهُ ٱلْوَٰحِدُ ٱلْقَهَّارُ",
+    "arabic2": "يا صاحبي السجن اارباب متفرقون خير ام الله الواحد القهار",
+    "bengali": "হে আমার কারা সঙ্গীদ্বয়, বহু সংখ্যক ভিন্ন ভিন্ন রব ভাল নাকি মহাপরাক্রমশালী এক আল্লাহ’?",
+    "urdu": "میرے جیل خانے کے رفیقو! بھلا کئی جدا جدا آقا اچھے یا (ایک) خدائے یکتا وغالب؟"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Jaathiya",
+    "surahNameArabic": "الجاثية",
+    "surahNameArabicLong": "سورة الجاثية",
+    "surahNameTranslation": "Crouching",
+    "revelationPlace": "Mecca",
+    "totalAyah": 37,
+    "surahNo": 45,
+    "ayahNo": 31,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/45_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/045031.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/45_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/045031.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/45_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/045031.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/45_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/045031.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/45_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/045031.mp3"
+        }
+    },
+    "english": "And as for those who disbelieved, ˹they will be told,˺ “Were My revelations not recited to you, yet you acted arrogantly and were a wicked people?",
+    "arabic1": "وَأَمَّا ٱلَّذِينَ كَفَرُوٓا۟ أَفَلَمْ تَكُنْ ءَايَـٰتِى تُتْلَىٰ عَلَيْكُمْ فَٱسْتَكْبَرْتُمْ وَكُنتُمْ قَوْمًا مُّجْرِمِينَ",
+    "arabic2": "واما الذين كفروا افلم تكن اياتي تتلى عليكم فاستكبرتم وكنتم قوما مجرمين",
+    "bengali": "আর যারা কুফরী করেছে (তাদেরকে বলা হবে), ‘তোমাদের কাছে কি আমার আয়াতসমূহ পাঠ করা হয়নি? অতঃপর তোমরা অহঙ্কার করেছিলে। আর তোমরা ছিলে এক অপরাধী কওম’।",
+    "urdu": "اور جنہوں نے کفر کیا۔ (ان سے کہا جائے گا کہ) بھلا ہماری آیتیں تم کو پڑھ کر سنائی نہیں جاتی تھیں؟ پھر تم نے تکبر کیا اور تم نافرمان لوگ تھے"
+}

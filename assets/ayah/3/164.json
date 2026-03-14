@@ -1,0 +1,42 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 164,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/3_164.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/003164.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/3_164.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/003164.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/3_164.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/003164.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/3_164.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/003164.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/3_164.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/003164.mp3"
+        }
+    },
+    "english": "Indeed, Allah has done the believers a ˹great˺ favour by raising a messenger from among them—reciting to them His revelations, purifying them, and teaching them the Book and wisdom. For indeed they had previously been clearly astray.",
+    "arabic1": "لَقَدْ مَنَّ ٱللَّهُ عَلَى ٱلْمُؤْمِنِينَ إِذْ بَعَثَ فِيهِمْ رَسُولًا مِّنْ أَنفُسِهِمْ يَتْلُوا۟ عَلَيْهِمْ ءَايَـٰتِهِۦ وَيُزَكِّيهِمْ وَيُعَلِّمُهُمُ ٱلْكِتَـٰبَ وَٱلْحِكْمَةَ وَإِن كَانُوا۟ مِن قَبْلُ لَفِى ضَلَـٰلٍ مُّبِينٍ",
+    "arabic2": "لقد من الله على المؤمنين اذ بعث فيهم رسولا من انفسهم يتلو عليهم اياته ويزكيهم ويعلمهم الكتاب والحكمة وان كانوا من قبل لفي ضلال مبين",
+    "bengali": "অবশ্যই আল্লাহ মুমিনদের উপর অনুগ্রহ করেছেন, যখন তিনি তাদের মধ্য থেকে তাদের প্রতি একজন রাসূল পাঠিয়েছেন, যে তাদের কাছে তাঁর আয়াতসমূহ তিলাওয়াত করে এবং তাদেরকে পরিশুদ্ধ করে আর তাদেরকে কিতাব ও হিকমাত শিক্ষা দেয়। যদিও তারা ইতঃপূর্বে স্পষ্ট ভ্রান্তিতে ছিল।",
+    "urdu": "خدا نے مومنوں پر بڑا احسان کیا ہے کہ ان میں انہیں میں سے ایک پیغمبر بھیجے۔ جو ان کو خدا کی آیتیں پڑھ پڑھ کر سناتے اور ان کو پاک کرتے اور (خدا کی) کتاب اور دانائی سکھاتے ہیں اور پہلے تو یہ لوگ صریح گمراہی میں تھے"
+}

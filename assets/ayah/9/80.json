@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 80,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/9_80.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/009080.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/9_80.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/009080.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/9_80.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/009080.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/9_80.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/009080.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/9_80.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/009080.mp3"
+        }
+    },
+    "english": "˹It does not matter˺ whether you ˹O Prophet˺ pray for them to be forgiven or not. Even if you pray for their forgiveness seventy times, Allah will never forgive them. That is because they have lost faith in Allah and His Messenger. And Allah does not guide the rebellious people.",
+    "arabic1": "ٱسْتَغْفِرْ لَهُمْ أَوْ لَا تَسْتَغْفِرْ لَهُمْ إِن تَسْتَغْفِرْ لَهُمْ سَبْعِينَ مَرَّةً فَلَن يَغْفِرَ ٱللَّهُ لَهُمْ ۚ ذَٰلِكَ بِأَنَّهُمْ كَفَرُوا۟ بِٱللَّهِ وَرَسُولِهِۦ ۗ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلْفَـٰسِقِينَ",
+    "arabic2": "استغفر لهم او لا تستغفر لهم ان تستغفر لهم سبعين مرة فلن يغفر الله لهم ذلك بانهم كفروا بالله ورسوله والله لا يهدي القوم الفاسقين",
+    "bengali": "তুমি তাদের জন্য ক্ষমা চাও, অথবা তাদের জন্য ক্ষমা না চাও। যদি তুমি তাদের জন্য সত্তর বার ক্ষমা চাও, তবুও আল্লাহ তাদেরকে কখনো ক্ষমা করবেন না। কারণ তারা আল্লাহ ও তাঁর রাসূলের সাথে কুফরী করেছে, আর আল্লাহ ফাসিক লোকদেরকে হিদায়াত দেন না ।",
+    "urdu": "تم ان کے لیے بخشش مانگو یا نہ مانگو۔ (بات ایک ہے)۔ اگر ان کے لیے ستّر دفعہ بھی بخشش مانگو گے تو بھی خدا ان کو نہیں بخشے گا۔ یہ اس لیے کہ انہوں نے خدا اور اس کے رسول سے کفر کیا۔ اور خدا نافرمان لوگوں کو ہدایت نہیں دیتا"
+}

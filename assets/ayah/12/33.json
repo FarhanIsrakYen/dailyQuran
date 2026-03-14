@@ -1,0 +1,42 @@
+{
+    "surahName": "Yusuf",
+    "surahNameArabic": "يوسف",
+    "surahNameArabicLong": "سورة يوسف",
+    "surahNameTranslation": "Joseph",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 12,
+    "ayahNo": 33,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/12_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/012033.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/12_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/012033.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/12_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/012033.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/12_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/012033.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/12_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/012033.mp3"
+        }
+    },
+    "english": "Joseph prayed, “My Lord! I would rather be in jail than do what they invite me to. And if You do not turn their cunning away from me, I might yield to them and fall into ignorance.”",
+    "arabic1": "قَالَ رَبِّ ٱلسِّجْنُ أَحَبُّ إِلَىَّ مِمَّا يَدْعُونَنِىٓ إِلَيْهِ ۖ وَإِلَّا تَصْرِفْ عَنِّى كَيْدَهُنَّ أَصْبُ إِلَيْهِنَّ وَأَكُن مِّنَ ٱلْجَـٰهِلِينَ",
+    "arabic2": "قال رب السجن احب الي مما يدعونني اليه والا تصرف عني كيدهن اصب اليهن واكن من الجاهلين",
+    "bengali": "সে (ইউসুফ) বলল, ‘হে আমার রব, তারা আমাকে যে কাজের প্রতি আহবান করছে তা থেকে কারাগারই আমার নিকট অধিক প্রিয়। আর যদি আপনি আমার থেকে তাদের চক্রান্ত প্রতিহত না করেন তবে আমি তাদের প্রতি আকৃষ্ট হয়ে পড়ব এবং আমি মূর্খদের অন্তর্ভুক্ত হব’।",
+    "urdu": "یوسف نے دعا کی کہ پروردگار جس کام کی طرف یہ مجھے بلاتی ہیں اس کی نسبت مجھے قید پسند ہے۔ اور اگر تو مجھ سے ان کے فریب کو نہ ہٹائے گا تو میں ان کی طرف مائل ہوجاؤں گا اور نادانوں میں داخل ہوجاؤں گا"
+}

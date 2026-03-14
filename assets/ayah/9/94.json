@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 94,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/9_94.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/009094.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/9_94.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/009094.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/9_94.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/009094.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/9_94.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/009094.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/9_94.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/009094.mp3"
+        }
+    },
+    "english": "They will make excuses to you ˹believers˺ when you return to them. Say, “Make no excuses, ˹for˺ we will not believe you. Allah has already informed us about your ˹true˺ state ˹of faith˺. Your ˹future˺ deeds will be observed by Allah and His Messenger as well. And you will be returned to the Knower of the seen and unseen, then He will inform you of what you used to do.”",
+    "arabic1": "يَعْتَذِرُونَ إِلَيْكُمْ إِذَا رَجَعْتُمْ إِلَيْهِمْ ۚ قُل لَّا تَعْتَذِرُوا۟ لَن نُّؤْمِنَ لَكُمْ قَدْ نَبَّأَنَا ٱللَّهُ مِنْ أَخْبَارِكُمْ ۚ وَسَيَرَى ٱللَّهُ عَمَلَكُمْ وَرَسُولُهُۥ ثُمَّ تُرَدُّونَ إِلَىٰ عَـٰلِمِ ٱلْغَيْبِ وَٱلشَّهَـٰدَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ",
+    "arabic2": "يعتذرون اليكم اذا رجعتم اليهم قل لا تعتذروا لن نؤمن لكم قد نبانا الله من اخباركم وسيرى الله عملكم ورسوله ثم تردون الى عالم الغيب والشهادة فينبئكم بما كنتم تعملون",
+    "bengali": "তারা তোমাদের নিকট ওযর পেশ করবে যখন তোমরা তাদের কাছে ফিরে যাবে। বল, ‘তোমরা ওযর পেশ করো না, আমরা তোমাদেরকে কখনো বিশ্বাস করব না। অবশ্যই আল্লাহ তোমাদের খবর আমাদেরকে জানিয়ে দিয়েছেন। আর আল্লাহ তোমাদের আমল দেখবেন এবং তাঁর রাসূলও। তারপর তোমাদেরকে ফিরিয়ে নেয়া হবে গায়েব ও প্রকাশ্যের জ্ঞানীর নিকট। অতঃপর তিনি তোমাদেরকে যা তোমরা আমল করতে সে সম্পর্কে জানিয়ে দেবেন ’।",
+    "urdu": "جب تم ان کے پاس واپس جاؤ گے تو تم سے عذر کریں گے تم کہنا کہ مت عذر کرو ہم ہرگز تمہاری بات نہیں مانیں گے خدا نے ہم کو تمہارے سب حالات بتا دیئے ہیں۔ اور ابھی خدا اور اس کا رسول تمہارے عملوں کو (اور) دیکھیں گے پھر تم غائب وحاضر کے جاننے والے (خدائے واحد) کی طرف لوٹائے جاؤ گے اور جو عمل تم کرتے رہے ہو وہ سب تمہیں بتائے گا"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Anbiyaa",
+    "surahNameArabic": "الأنبياء",
+    "surahNameArabicLong": "سورة الأنبياء",
+    "surahNameTranslation": "The Prophets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 112,
+    "surahNo": 21,
+    "ayahNo": 78,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/21_78.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/021078.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/21_78.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/021078.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/21_78.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/021078.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/21_78.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/021078.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/21_78.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/021078.mp3"
+        }
+    },
+    "english": "And ˹remember˺ when David and Solomon passed judgment regarding the crops ruined ˹at night˺ by someone’s sheep, and We were witness to their judgments.",
+    "arabic1": "وَدَاوُۥدَ وَسُلَيْمَـٰنَ إِذْ يَحْكُمَانِ فِى ٱلْحَرْثِ إِذْ نَفَشَتْ فِيهِ غَنَمُ ٱلْقَوْمِ وَكُنَّا لِحُكْمِهِمْ شَـٰهِدِينَ",
+    "arabic2": "وداوود وسليمان اذ يحكمان في الحرث اذ نفشت فيه غنم القوم وكنا لحكمهم شاهدين",
+    "bengali": "আর স্মরণ কর দাঊদ ও সুলায়মানের কথা, যখন তারা শস্যক্ষেত সম্পর্কে বিচার করছিল। যাতে রাতের বেলায় কোন কওমের মেষ ঢুকে পড়েছিল। আর আমি তাদের বিচার কাজ দেখছিলাম।",
+    "urdu": "اور داؤد اور سلیمان (کا حال بھی سن لو کہ) جب وہ ایک کھیتی کا مقدمہ فیصلہ کرنے لگے جس میں کچھ لوگوں کی بکریاں رات کو چر گئی (اور اسے روند گئی) تھیں اور ہم ان کے فیصلے کے وقت موجود تھے"
+}

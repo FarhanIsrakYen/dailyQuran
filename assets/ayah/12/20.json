@@ -1,0 +1,42 @@
+{
+    "surahName": "Yusuf",
+    "surahNameArabic": "يوسف",
+    "surahNameArabicLong": "سورة يوسف",
+    "surahNameTranslation": "Joseph",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 12,
+    "ayahNo": 20,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/12_20.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/012020.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/12_20.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/012020.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/12_20.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/012020.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/12_20.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/012020.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/12_20.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/012020.mp3"
+        }
+    },
+    "english": "They ˹later˺ sold him for a cheap price, just a few silver coins—only wanting to get rid of him.",
+    "arabic1": "وَشَرَوْهُ بِثَمَنٍۭ بَخْسٍ دَرَٰهِمَ مَعْدُودَةٍ وَكَانُوا۟ فِيهِ مِنَ ٱلزَّٰهِدِينَ",
+    "arabic2": "وشروه بثمن بخس دراهم معدودة وكانوا فيه من الزاهدين",
+    "bengali": "আর তারা তাকে অতি নগণ্য মূল্যে কয়েক দিরহামের বিনিময়ে বিক্রি করে দিল এবং তারা তার ব্যাপারে ছিল অনাগ্রহী।",
+    "urdu": "اور اس کو تھوڑی سی قیمت (یعنی) معدودے چند درہموں پر بیچ ڈالا۔ اور انہیں ان (کے بارے) میں کچھ لالچ نہ تھا"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nahl",
+    "surahNameArabic": "النحل",
+    "surahNameArabicLong": "سورة النحل",
+    "surahNameTranslation": "The Bee",
+    "revelationPlace": "Mecca",
+    "totalAyah": 128,
+    "surahNo": 16,
+    "ayahNo": 6,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/16_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/016006.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/16_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/016006.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/16_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/016006.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/16_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/016006.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/16_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/016006.mp3"
+        }
+    },
+    "english": "They are also pleasing to you when you bring them home and when you take them out to graze.",
+    "arabic1": "وَلَكُمْ فِيهَا جَمَالٌ حِينَ تُرِيحُونَ وَحِينَ تَسْرَحُونَ",
+    "arabic2": "ولكم فيها جمال حين تريحون وحين تسرحون",
+    "bengali": "আর তোমাদের জন্য তাতে রয়েছে সৌন্দর্য যখন সন্ধ্যায় তা ফিরিয়ে আন এবং সকালে চারণে নিয়ে যাও।",
+    "urdu": "اور جب شام کو انہیں (جنگل سے) لاتے ہو اور جب صبح کو (جنگل) چرانے لے جاتے ہو تو ان سے تمہاری عزت وشان ہے"
+}

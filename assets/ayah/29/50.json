@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Ankaboot",
+    "surahNameArabic": "العنكبوت",
+    "surahNameArabicLong": "سورة العنكبوت",
+    "surahNameTranslation": "The Spider",
+    "revelationPlace": "Mecca",
+    "totalAyah": 69,
+    "surahNo": 29,
+    "ayahNo": 50,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/29_50.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/029050.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/29_50.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/029050.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/29_50.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/029050.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/29_50.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/029050.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/29_50.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/029050.mp3"
+        }
+    },
+    "english": "They say, “If only ˹some˺ signs had been sent down to him from his Lord!” Say, ˹O Prophet,˺ “Signs are only with Allah. And I am only sent with a clear warning.”",
+    "arabic1": "وَقَالُوا۟ لَوْلَآ أُنزِلَ عَلَيْهِ ءَايَـٰتٌ مِّن رَّبِّهِۦ ۖ قُلْ إِنَّمَا ٱلْـَٔايَـٰتُ عِندَ ٱللَّهِ وَإِنَّمَآ أَنَا۠ نَذِيرٌ مُّبِينٌ",
+    "arabic2": "وقالوا لولا انزل عليه ايات من ربه قل انما الايات عند الله وانما انا نذير مبين",
+    "bengali": "আর তারা বলে, ‘তার কাছে তার রবের পক্ষ থেকে নিদর্শনসমূহ নাযিল হয় না কেন’? বল, ‘নিদর্শনসমূহ তো আল্লাহর কাছে, আর আমি তো কেবল একজন প্রকাশ্য সতর্ককারী’।",
+    "urdu": "اور (کافر) کہتے ہیں کہ اس پر اس کے پروردگار کی طرف سے نشانیاں کیوں نازل نہیں ہوئیں کہہ دو کہ نشانیاں تو خدا ہی کے پاس ہیں۔ اور میں تو کھلم کھلا ہدایت کرنے والا ہوں"
+}

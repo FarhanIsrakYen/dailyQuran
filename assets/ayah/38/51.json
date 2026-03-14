@@ -1,0 +1,42 @@
+{
+    "surahName": "Saad",
+    "surahNameArabic": "ص",
+    "surahNameArabicLong": "سورة ص",
+    "surahNameTranslation": "The letter Saad",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 38,
+    "ayahNo": 51,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/38_51.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/038051.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/38_51.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/038051.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/38_51.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/038051.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/38_51.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/038051.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/38_51.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/038051.mp3"
+        }
+    },
+    "english": "There they will recline, calling for abundant fruit and drink.",
+    "arabic1": "مُتَّكِـِٔينَ فِيهَا يَدْعُونَ فِيهَا بِفَـٰكِهَةٍ كَثِيرَةٍ وَشَرَابٍ",
+    "arabic2": "متكئين فيها يدعون فيها بفاكهة كثيرة وشراب",
+    "bengali": "সেখানে তারা হেলান দিয়ে আসীন থাকবে, সেখানে তারা বহু ফলমূল ও পানীয় চাইবে।",
+    "urdu": "ان میں تکیٴے لگائے بیٹھے ہوں گے اور (کھانے پینے کے لئے) بہت سے میوے اور شراب منگواتے رہیں گے"
+}

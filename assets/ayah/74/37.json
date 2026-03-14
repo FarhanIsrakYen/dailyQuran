@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Muddaththir",
+    "surahNameArabic": "المدثر",
+    "surahNameArabicLong": "سورة المدثر",
+    "surahNameTranslation": "The Cloaked One",
+    "revelationPlace": "Mecca",
+    "totalAyah": 56,
+    "surahNo": 74,
+    "ayahNo": 37,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/74_37.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/074037.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/74_37.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/074037.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/74_37.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/074037.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/74_37.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/074037.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/74_37.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/074037.mp3"
+        }
+    },
+    "english": "to whichever of you chooses to take the lead or lag behind.",
+    "arabic1": "لِمَن شَآءَ مِنكُمْ أَن يَتَقَدَّمَ أَوْ يَتَأَخَّرَ",
+    "arabic2": "لمن شاء منكم ان يتقدم او يتاخر",
+    "bengali": "তোমাদের মধ্যে যে চায় অগ্রসর হতে অথবা পিছিয়ে থাকতে, তার জন্য।",
+    "urdu": "جو تم میں سے آگے بڑھنا چاہے یا پیچھے رہنا چاہے"
+}

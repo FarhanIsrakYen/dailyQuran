@@ -1,0 +1,42 @@
+{
+    "surahName": "As-Saff",
+    "surahNameArabic": "الصف",
+    "surahNameArabicLong": "سورة الصف",
+    "surahNameTranslation": "The Ranks",
+    "revelationPlace": "Madina",
+    "totalAyah": 14,
+    "surahNo": 61,
+    "ayahNo": 14,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/61_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/061014.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/61_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/061014.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/61_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/061014.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/61_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/061014.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/61_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/061014.mp3"
+        }
+    },
+    "english": "O believers! Stand up for Allah, as Jesus, son of Mary, asked the disciples, “Who will stand up with me for Allah?” The disciples replied, “We will stand up for Allah.” Then a group from the Children of Israel believed while another disbelieved. We then supported the believers against their enemies, so they prevailed.",
+    "arabic1": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُونُوٓا۟ أَنصَارَ ٱللَّهِ كَمَا قَالَ عِيسَى ٱبْنُ مَرْيَمَ لِلْحَوَارِيِّـۧنَ مَنْ أَنصَارِىٓ إِلَى ٱللَّهِ ۖ قَالَ ٱلْحَوَارِيُّونَ نَحْنُ أَنصَارُ ٱللَّهِ ۖ فَـَٔامَنَت طَّآئِفَةٌ مِّنۢ بَنِىٓ إِسْرَٰٓءِيلَ وَكَفَرَت طَّآئِفَةٌ ۖ فَأَيَّدْنَا ٱلَّذِينَ ءَامَنُوا۟ عَلَىٰ عَدُوِّهِمْ فَأَصْبَحُوا۟ ظَـٰهِرِينَ",
+    "arabic2": "يا ايها الذين امنوا كونوا انصار الله كما قال عيسى ابن مريم للحواريين من انصاري الى الله قال الحواريون نحن انصار الله فامنت طائفة من بني اسرائيل وكفرت طائفة فايدنا الذين امنوا على عدوهم فاصبحوا ظاهرين",
+    "bengali": "হে মুমিনগণ, তোমরা আল্লাহর সাহায্যকারী হও। যেমন মারইয়াম পুত্র ঈসা হাওয়ারীদেরকে* বলেছিল, আল্লাহর পথে কারা আমার সাহায্যকারী হবে? হাওয়ারীগণ বলল, আমরাই আল্লাহর সাহায্যকারী। তারপর বনী-ঈসরাইলের মধ্য থেকে একদল ঈমান আনল এবং অপর এক দল প্রত্যাখ্যান করল। অতঃপর যারা ঈমান আনল আমি তাদেরকে তাদের শত্রুবাহিনীর ওপর শক্তিশালী করলাম। ফলে তারা বিজয়ী হল। \n*ঈসাঃ (আঃ) এর খাস অনুসারীদেরকে হাওয়ারী বলা হত।",
+    "urdu": "مومنو! خدا کے مددگار بن جاؤ جیسے عیسیٰ ابن مریم نے حواریوں سے کہا کہ بھلا کون ہیں جو خدا کی طرف (بلانے میں) میرے مددگار ہوں۔ حواریوں نے کہا کہ ہم خدا کے مددگار ہیں۔ تو بنی اسرائیل میں سے ایک گروہ تو ایمان لے آیا اور ایک گروہ کافر رہا۔ آخر الامر ہم نے ایمان لانے والوں کو ان کے دشمنوں کے مقابلے میں مدد دی اور وہ غالب ہوگئے"
+}

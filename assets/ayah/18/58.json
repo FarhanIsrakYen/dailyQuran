@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Kahf",
+    "surahNameArabic": "الكهف",
+    "surahNameArabicLong": "سورة الكهف",
+    "surahNameTranslation": "The Cave",
+    "revelationPlace": "Mecca",
+    "totalAyah": 110,
+    "surahNo": 18,
+    "ayahNo": 58,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/18_58.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/018058.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/18_58.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/018058.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/18_58.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/018058.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/18_58.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/018058.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/18_58.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/018058.mp3"
+        }
+    },
+    "english": "Your Lord is the All-Forgiving, Full of Mercy. If He were to seize them ˹immediately˺ for what they commit, He would have certainly hastened their punishment. But they have an appointed time, from which they will find no refuge.",
+    "arabic1": "وَرَبُّكَ ٱلْغَفُورُ ذُو ٱلرَّحْمَةِ ۖ لَوْ يُؤَاخِذُهُم بِمَا كَسَبُوا۟ لَعَجَّلَ لَهُمُ ٱلْعَذَابَ ۚ بَل لَّهُم مَّوْعِدٌ لَّن يَجِدُوا۟ مِن دُونِهِۦ مَوْئِلًا",
+    "arabic2": "وربك الغفور ذو الرحمة لو يؤاخذهم بما كسبوا لعجل لهم العذاب بل لهم موعد لن يجدوا من دونه موئلا",
+    "bengali": "আর তোমার রব ক্ষমাশীল, দয়াময়। তারা যা উপার্জন করেছে, তার কারণে তিনি যদি তাদেরকে পাকড়াও করতেন তবে অবশ্যই তাদের জন্য আযাব ত্বরান্বিত করতেন। বরং তাদের জন্য রয়েছে প্রতিশ্রুত সময়, যা থেকে তারা কোন আশ্রয়স্থল পাবে না।",
+    "urdu": "اور تمہارا پروردگار بخشنے والا صاحب رحمت ہے۔ اگر وہ ان کے کرتوتوں پر ان کو پکڑنے لگے تو ان پر جھٹ عذاب بھیج دے۔ مگر ان کے لئے ایک وقت (مقرر کر رکھا) ہے کہ اس کے عذاب سے کوئی پناہ کی جگہ نہ پائیں گے"
+}

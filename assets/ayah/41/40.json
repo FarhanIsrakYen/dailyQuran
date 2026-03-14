@@ -1,0 +1,42 @@
+{
+    "surahName": "Fussilat",
+    "surahNameArabic": "فصلت",
+    "surahNameArabicLong": "سورة فصلت",
+    "surahNameTranslation": "Explained in detail",
+    "revelationPlace": "Mecca",
+    "totalAyah": 54,
+    "surahNo": 41,
+    "ayahNo": 40,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/41_40.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/041040.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/41_40.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/041040.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/41_40.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/041040.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/41_40.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/041040.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/41_40.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/041040.mp3"
+        }
+    },
+    "english": "Indeed, those who abuse Our revelations are not hidden from Us. Who is better: the one who will be cast into the Fire or the one who will be secure on Judgment Day? Do whatever you want. He is certainly All-Seeing of what you do.",
+    "arabic1": "إِنَّ ٱلَّذِينَ يُلْحِدُونَ فِىٓ ءَايَـٰتِنَا لَا يَخْفَوْنَ عَلَيْنَآ ۗ أَفَمَن يُلْقَىٰ فِى ٱلنَّارِ خَيْرٌ أَم مَّن يَأْتِىٓ ءَامِنًا يَوْمَ ٱلْقِيَـٰمَةِ ۚ ٱعْمَلُوا۟ مَا شِئْتُمْ ۖ إِنَّهُۥ بِمَا تَعْمَلُونَ بَصِيرٌ",
+    "arabic2": "ان الذين يلحدون في اياتنا لا يخفون علينا افمن يلقى في النار خير ام من ياتي امنا يوم القيامة اعملوا ما شئتم انه بما تعملون بصير",
+    "bengali": "নিশ্চয় যারা আমার আয়াতসমূহ বিকৃত করে তারা আমার অগোচরে নয়। যে অগ্নিতে নিক্ষিপ্ত হবে সে কি উত্তম, না যে কিয়ামত দিবসে নিরাপদভাবে উপস্থিত হবে? তোমাদের যা ইচ্ছা আমল কর। নিশ্চয় তোমরা যা আমল কর তিনি তার সম্যক দ্রষ্টা।",
+    "urdu": "جو لوگ ہماری آیتوں میں کج راہی کرتے ہیں وہ ہم سے پوشیدہ نہیں ہیں۔ بھلا جو شخص دوزخ میں ڈالا جائے وہ بہتر ہے یا وہ جو قیامت کے دن امن وامان سے آئے۔ (تو خیر) جو چاہو سو کرلو۔ جو کچھ تم کرتے ہو وہ اس کو دیکھ رہا ہے"
+}

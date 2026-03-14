@@ -1,0 +1,42 @@
+{
+    "surahName": "Yunus",
+    "surahNameArabic": "يونس",
+    "surahNameArabicLong": "سورة يونس",
+    "surahNameTranslation": "Jonas",
+    "revelationPlace": "Mecca",
+    "totalAyah": 109,
+    "surahNo": 10,
+    "ayahNo": 11,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/10_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/010011.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/10_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/010011.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/10_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/010011.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/10_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/010011.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/10_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/010011.mp3"
+        }
+    },
+    "english": "If Allah were to hasten evil for people as they wish to hasten good, they would have certainly been doomed. But We leave those who do not expect to meet Us to wander blindly in their defiance.",
+    "arabic1": "۞ وَلَوْ يُعَجِّلُ ٱللَّهُ لِلنَّاسِ ٱلشَّرَّ ٱسْتِعْجَالَهُم بِٱلْخَيْرِ لَقُضِىَ إِلَيْهِمْ أَجَلُهُمْ ۖ فَنَذَرُ ٱلَّذِينَ لَا يَرْجُونَ لِقَآءَنَا فِى طُغْيَـٰنِهِمْ يَعْمَهُونَ",
+    "arabic2": "ولو يعجل الله للناس الشر استعجالهم بالخير لقضي اليهم اجلهم فنذر الذين لا يرجون لقاءنا في طغيانهم يعمهون",
+    "bengali": "আর আল্লাহ যদি মানুষের অকল্যাণ (প্রার্থনায় সাড়া দিতে) তাড়াতাড়ি করতেন যেভাবে তিনি তাদের কল্যাণ (প্রার্থনায় সাড়া দিতে) তাড়াতাড়ি করেন, তাহলে অবশ্যই তাদের সময় ফুরিয়ে যেত। সুতরাং যারা আমার সাক্ষাতের আশা রাখে না, আমি তাদেরকে তাদের অবাধ্যতায় দিশেহারা হয়ে ঘুরতে ছেড়ে দেই।",
+    "urdu": "اور اگر خدا لوگوں کی برائی میں جلدی کرتا جس طرح وہ طلب خیر میں جلدی کرتے ہیں۔ تو ان کی (عمر کی) میعاد پوری ہوچکی ہوتی سو جن لوگوں کو ہم سے ملنے کی توقع نہیں انہیں ہم چھوڑے رکھتے ہیں کہ اپنی سرکشی میں بہکتے رہیں"
+}

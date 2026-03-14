@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 6,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/9_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/009006.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/9_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/009006.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/9_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/009006.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/9_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/009006.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/9_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/009006.mp3"
+        }
+    },
+    "english": "And if anyone from the polytheists asks for your protection ˹O Prophet˺, grant it to them so they may hear the Word of Allah, then escort them to a place of safety, for they are a people who have no knowledge.",
+    "arabic1": "وَإِنْ أَحَدٌ مِّنَ ٱلْمُشْرِكِينَ ٱسْتَجَارَكَ فَأَجِرْهُ حَتَّىٰ يَسْمَعَ كَلَـٰمَ ٱللَّهِ ثُمَّ أَبْلِغْهُ مَأْمَنَهُۥ ۚ ذَٰلِكَ بِأَنَّهُمْ قَوْمٌ لَّا يَعْلَمُونَ",
+    "arabic2": "وان احد من المشركين استجارك فاجره حتى يسمع كلام الله ثم ابلغه مامنه ذلك بانهم قوم لا يعلمون",
+    "bengali": "আর যদি মুশরিকদের কেউ তোমার কাছে আশ্রয় চায়, তাহলে তাকে আশ্রয় দাও, যাতে সে আল্লাহর কালাম শুনে, অতঃপর তাকে পৌঁছিয়ে দাও তার নিরাপদ স্থানে। তা এই জন্য যে, তারা এমন এক কওম, যারা জানে না।",
+    "urdu": "اور اگر کوئی مشرک تم سے پناہ کا خواستگار ہو تو اس کو پناہ دو یہاں تک کہ کلام خدا سننے لگے پھر اس کو امن کی جگہ واپس پہنچادو۔ اس لیے کہ یہ بےخبر لوگ ہیں"
+}

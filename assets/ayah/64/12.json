@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Taghaabun",
+    "surahNameArabic": "التغابن",
+    "surahNameArabicLong": "سورة التغابن",
+    "surahNameTranslation": "Mutual Disillusion",
+    "revelationPlace": "Madina",
+    "totalAyah": 18,
+    "surahNo": 64,
+    "ayahNo": 12,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/64_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/064012.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/64_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/064012.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/64_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/064012.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/64_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/064012.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/64_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/064012.mp3"
+        }
+    },
+    "english": "Obey Allah and obey the Messenger! But if you turn away, then Our Messenger’s duty is only to deliver ˹the message˺ clearly.",
+    "arabic1": "وَأَطِيعُوا۟ ٱللَّهَ وَأَطِيعُوا۟ ٱلرَّسُولَ ۚ فَإِن تَوَلَّيْتُمْ فَإِنَّمَا عَلَىٰ رَسُولِنَا ٱلْبَلَـٰغُ ٱلْمُبِينُ",
+    "arabic2": "واطيعوا الله واطيعوا الرسول فان توليتم فانما على رسولنا البلاغ المبين",
+    "bengali": "তোমরা আল্লাহর আনুগত্য কর এবং রাসূলের আনুগত্য কর। কিন্তু তোমরা যদি মুখ ফিরিয়ে নাও, তবে আমার রাসূলের তো একমাত্র দায়িত্ব হচ্ছে স্পষ্টভাবে বাণী পৌঁছে দেয়া।",
+    "urdu": "اور خدا کی اطاعت کرو اور اس کے رسول کی اطاعت کرو۔ اگر تم منہ پھیر لو گے تو ہمارے پیغمبر کے ذمے تو صرف پیغام کا کھول کھول کر پہنچا دینا ہے"
+}

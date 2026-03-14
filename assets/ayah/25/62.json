@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Furqaan",
+    "surahNameArabic": "الفرقان",
+    "surahNameArabicLong": "سورة الفرقان",
+    "surahNameTranslation": "The Criterion",
+    "revelationPlace": "Mecca",
+    "totalAyah": 77,
+    "surahNo": 25,
+    "ayahNo": 62,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/25_62.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/025062.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/25_62.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/025062.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/25_62.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/025062.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/25_62.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/025062.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/25_62.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/025062.mp3"
+        }
+    },
+    "english": "And He is the One Who causes the day and the night to alternate, ˹as a sign˺ for whoever desires to be mindful or to be grateful.",
+    "arabic1": "وَهُوَ ٱلَّذِى جَعَلَ ٱلَّيْلَ وَٱلنَّهَارَ خِلْفَةً لِّمَنْ أَرَادَ أَن يَذَّكَّرَ أَوْ أَرَادَ شُكُورًا",
+    "arabic2": "وهو الذي جعل الليل والنهار خلفة لمن اراد ان يذكر او اراد شكورا",
+    "bengali": "আর তিনি দিবা-রাত্রিকে পরস্পরের অনুগামী করেছেন। যে উপদেশ গ্রহণ করতে চায় অথবা কৃতজ্ঞ হতে চায় তার জন্য।",
+    "urdu": "اور وہی تو ہے جس نے رات اور دن کو ایک دوسرے کے پیچھے آنے جانے والا بنایا۔ (یہ باتیں) اس شخص کے لئے جو غور کرنا چاہے یا شکرگزاری کا ارادہ کرے (سوچنے اور سمجھنے کی ہیں)"
+}

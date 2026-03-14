@@ -1,0 +1,42 @@
+{
+    "surahName": "Taa-Haa",
+    "surahNameArabic": "طه",
+    "surahNameArabicLong": "سورة طه",
+    "surahNameTranslation": "Taa-Haa",
+    "revelationPlace": "Mecca",
+    "totalAyah": 135,
+    "surahNo": 20,
+    "ayahNo": 47,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/20_47.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/020047.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/20_47.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/020047.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/20_47.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/020047.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/20_47.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/020047.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/20_47.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/020047.mp3"
+        }
+    },
+    "english": "So go to him and say, ‘Indeed we are both messengers from your Lord, so let the Children of Israel go with us, and do not oppress them. We have come to you with a sign from your Lord. And salvation will be for whoever follows the ˹right˺ guidance.",
+    "arabic1": "فَأْتِيَاهُ فَقُولَآ إِنَّا رَسُولَا رَبِّكَ فَأَرْسِلْ مَعَنَا بَنِىٓ إِسْرَٰٓءِيلَ وَلَا تُعَذِّبْهُمْ ۖ قَدْ جِئْنَـٰكَ بِـَٔايَةٍ مِّن رَّبِّكَ ۖ وَٱلسَّلَـٰمُ عَلَىٰ مَنِ ٱتَّبَعَ ٱلْهُدَىٰٓ",
+    "arabic2": "فاتياه فقولا انا رسولا ربك فارسل معنا بني اسرائيل ولا تعذبهم قد جئناك باية من ربك والسلام على من اتبع الهدى",
+    "bengali": "সুতরাং তোমরা দু’জন তার কাছে যাও অতঃপর বল, ‘আমরা তোমার রবের দু’জন রাসূল। সুতরাং তুমি বনী ইসরাঈলকে আমাদের সাথে যেতে দাও এবং তাদেরকে নির্যাতন করো না। আমরা তোমার কাছে এসেছি তোমার রবের আয়াত নিয়ে। আর যারা সৎ পথ অনুসরণ করে, তাদের প্রতি শান্তি’।",
+    "urdu": "(اچھا) تو اس کے پاس جاؤ اور کہو کہ ہم آپ کے پروردگار کے بھیجے ہوئے ہیں تو بنی اسرائیل کو ہمارے ساتھ جانے کی اجازت دیجیئے۔ اور انہیں عذاب نہ کیجیئے۔ ہم آپ کے پاس آپ کے پروردگار کی طرف سے نشانی لے کر آئے ہیں۔ اور جو ہدایت کی بات مانے اس کو سلامتی ہو"
+}

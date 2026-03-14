@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Ankaboot",
+    "surahNameArabic": "العنكبوت",
+    "surahNameArabicLong": "سورة العنكبوت",
+    "surahNameTranslation": "The Spider",
+    "revelationPlace": "Mecca",
+    "totalAyah": 69,
+    "surahNo": 29,
+    "ayahNo": 16,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/29_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/029016.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/29_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/029016.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/29_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/029016.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/29_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/029016.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/29_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/029016.mp3"
+        }
+    },
+    "english": "And ˹remember˺ when Abraham said to his people, “Worship Allah, and fear Him. This is better for you, if only you knew.",
+    "arabic1": "وَإِبْرَٰهِيمَ إِذْ قَالَ لِقَوْمِهِ ٱعْبُدُوا۟ ٱللَّهَ وَٱتَّقُوهُ ۖ ذَٰلِكُمْ خَيْرٌ لَّكُمْ إِن كُنتُمْ تَعْلَمُونَ",
+    "arabic2": "وابراهيم اذ قال لقومه اعبدوا الله واتقوه ذلكم خير لكم ان كنتم تعلمون",
+    "bengali": "আর (স্মরণ কর) ইবরাহীমকে, যখন সে তার কওমকে বলেছিল, ‘তোমরা আল্লাহর ইবাদাত কর এবং তাঁর তাকওয়া অবলম্বন কর; এটি তোমাদের জন্য কল্যাণকর, যদি তোমরা জান’।",
+    "urdu": "اور ابراہیمؑ کو (یاد کرو) جب اُنہوں نے اپنی قوم سے کہا کہ خدا کی عبادت کرو اور اس سے ڈرو اگر تم سمجھ رکھتے ہو تو یہ تمہارے حق میں بہتر ہے"
+}

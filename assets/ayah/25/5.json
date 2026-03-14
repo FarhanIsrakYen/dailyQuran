@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Furqaan",
+    "surahNameArabic": "الفرقان",
+    "surahNameArabicLong": "سورة الفرقان",
+    "surahNameTranslation": "The Criterion",
+    "revelationPlace": "Mecca",
+    "totalAyah": 77,
+    "surahNo": 25,
+    "ayahNo": 5,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/25_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/025005.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/25_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/025005.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/25_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/025005.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/25_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/025005.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/25_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/025005.mp3"
+        }
+    },
+    "english": "And they say, “˹These revelations are only˺ ancient fables which he has had written down, and they are rehearsed to him morning and evening.”",
+    "arabic1": "وَقَالُوٓا۟ أَسَـٰطِيرُ ٱلْأَوَّلِينَ ٱكْتَتَبَهَا فَهِىَ تُمْلَىٰ عَلَيْهِ بُكْرَةً وَأَصِيلًا",
+    "arabic2": "وقالوا اساطير الاولين اكتتبها فهي تملى عليه بكرة واصيلا",
+    "bengali": "তারা বলে, ‘এটি প্রাচীনকালের উপকথা যা সে লিখিয়ে নিয়েছে; এগুলো সকাল-সন্ধ্যায় তার কাছে পাঠ করা হয়।",
+    "urdu": "اور کہتے ہیں کہ یہ پہلے لوگوں کی کہانیاں ہیں جس کو اس نے لکھ رکھا ہے اور وہ صبح وشام اس کو پڑھ پڑھ کر سنائی جاتی ہیں"
+}

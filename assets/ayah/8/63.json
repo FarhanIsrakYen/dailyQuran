@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Anfaal",
+    "surahNameArabic": "الأنفال",
+    "surahNameArabicLong": "سورة الأنفال",
+    "surahNameTranslation": "The Spoils of War",
+    "revelationPlace": "Madina",
+    "totalAyah": 75,
+    "surahNo": 8,
+    "ayahNo": 63,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/8_63.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/008063.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/8_63.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/008063.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/8_63.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/008063.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/8_63.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/008063.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/8_63.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/008063.mp3"
+        }
+    },
+    "english": "He brought their hearts together. Had you spent all the riches in the earth, you could not have united their hearts. But Allah has united them. Indeed, He is Almighty, All-Wise.",
+    "arabic1": "وَأَلَّفَ بَيْنَ قُلُوبِهِمْ ۚ لَوْ أَنفَقْتَ مَا فِى ٱلْأَرْضِ جَمِيعًا مَّآ أَلَّفْتَ بَيْنَ قُلُوبِهِمْ وَلَـٰكِنَّ ٱللَّهَ أَلَّفَ بَيْنَهُمْ ۚ إِنَّهُۥ عَزِيزٌ حَكِيمٌ",
+    "arabic2": "والف بين قلوبهم لو انفقت ما في الارض جميعا ما الفت بين قلوبهم ولكن الله الف بينهم انه عزيز حكيم",
+    "bengali": "আর তিনি তাদের অন্তরসমূহে প্রীতি স্থাপন করেছেন। যদি তুমি যমীনে যা আছে, তার সবকিছু ব্যয় করতে, তবুও তাদের অন্তরসমূহে প্রীতি স্থাপন করতে পারতে না। কিন্তু আল্লাহ তাদের মধ্যে প্রীতি স্থাপন করেছেন, নিশ্চয় তিনি পরাক্রমশালী, প্রজ্ঞাবান।",
+    "urdu": "اور ان کے دلوں میں الفت پیدا کردی۔ اور اگر تم دنیا بھر کی دولت خرچ کرتے تب بھی ان کے دلوں میں الفت نہ پیدا کرسکتے۔ مگر خدا ہی نے ان میں الفت ڈال دی۔ بےشک وہ زبردست (اور) حکمت والا ہے"
+}

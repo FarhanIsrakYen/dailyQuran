@@ -1,0 +1,42 @@
+{
+    "surahName": "Yunus",
+    "surahNameArabic": "يونس",
+    "surahNameArabicLong": "سورة يونس",
+    "surahNameTranslation": "Jonas",
+    "revelationPlace": "Mecca",
+    "totalAyah": 109,
+    "surahNo": 10,
+    "ayahNo": 15,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/10_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/010015.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/10_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/010015.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/10_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/010015.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/10_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/010015.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/10_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/010015.mp3"
+        }
+    },
+    "english": "When Our clear revelations are recited to them, those who do not expect to meet Us say ˹to the Prophet˺, “Bring us a different Quran or make some changes in it.” Say ˹to them˺, “It is not for me to change it on my own. I only follow what is revealed to me. I fear, if I were to disobey my Lord, the punishment of a tremendous Day.”",
+    "arabic1": "وَإِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَاتُنَا بَيِّنَـٰتٍ ۙ قَالَ ٱلَّذِينَ لَا يَرْجُونَ لِقَآءَنَا ٱئْتِ بِقُرْءَانٍ غَيْرِ هَـٰذَآ أَوْ بَدِّلْهُ ۚ قُلْ مَا يَكُونُ لِىٓ أَنْ أُبَدِّلَهُۥ مِن تِلْقَآئِ نَفْسِىٓ ۖ إِنْ أَتَّبِعُ إِلَّا مَا يُوحَىٰٓ إِلَىَّ ۖ إِنِّىٓ أَخَافُ إِنْ عَصَيْتُ رَبِّى عَذَابَ يَوْمٍ عَظِيمٍ",
+    "arabic2": "واذا تتلى عليهم اياتنا بينات قال الذين لا يرجون لقاءنا ائت بقران غير هذا او بدله قل ما يكون لي ان ابدله من تلقاء نفسي ان اتبع الا ما يوحى الي اني اخاف ان عصيت ربي عذاب يوم عظيم",
+    "bengali": "আর যখন তাদের সামনে আমার আয়াতসমূহ সুস্পষ্টরূপে পাঠ করা হয়, তখন, যারা আমার সাক্ষাতের আশা রাখে না, তারা বলে, ‘এটি ছাড়া অন্য কুরআন নিয়ে এসো। অথবা একে বদলাও’। বল, ‘আমার নিজের পক্ষ থেকে এতে কোন পরিবর্তনের অধিকার নেই। আমিতো শুধু আমার প্রতি অবতীর্ণ ওহীর অনুসরণ করি। নিশ্চয় আমি যদি রবের অবাধ্য হই তবে ভয় করি কঠিন দিনের আযাবের’।",
+    "urdu": "اور جب ان کو ہماری آیتیں پڑھ کر سنائی جاتی ہیں تو جن لوگوں کو ہم سے ملنے کی امید نہیں وہ کہتے ہیں کہ (یا تو) اس کے سوا کوئی اور قرآن (بنا) لاؤ یا اس کو بدل دو۔ کہہ دو کہ مجھ کو اختیار نہیں ہے کہ اسے اپنی طرف سے بدل دو۔ میں تو اسی حکم کا تابع ہوں جو میری طرف آتا ہے۔ اگر میں اپنے پروردگار کی نافرمانی کروں تو مجھے بڑے (سخت) دن کے عذاب سے خوف آتا ہے"
+}

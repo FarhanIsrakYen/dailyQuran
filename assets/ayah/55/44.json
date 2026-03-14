@@ -1,0 +1,42 @@
+{
+    "surahName": "Ar-Rahmaan",
+    "surahNameArabic": "الرحمن",
+    "surahNameArabicLong": "سورة الرحمن",
+    "surahNameTranslation": "The Beneficent",
+    "revelationPlace": "Madina",
+    "totalAyah": 78,
+    "surahNo": 55,
+    "ayahNo": 44,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/55_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/055044.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/55_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/055044.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/55_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/055044.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/55_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/055044.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/55_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/055044.mp3"
+        }
+    },
+    "english": "They will alternate between its flames and scalding water.",
+    "arabic1": "يَطُوفُونَ بَيْنَهَا وَبَيْنَ حَمِيمٍ ءَانٍ",
+    "arabic2": "يطوفون بينها وبين حميم ان",
+    "bengali": "তারা ঘুরতে থাকবে জাহান্নাম ও ফুটন্ত পানির মধ্যে।",
+    "urdu": "وہ دوزخ اور کھولتے ہوئے گرم پانی کے درمیان گھومتے پھریں گے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Ghafir",
+    "surahNameArabic": "غافر",
+    "surahNameArabicLong": "سورة غافر",
+    "surahNameTranslation": "The Forgiver",
+    "revelationPlace": "Mecca",
+    "totalAyah": 85,
+    "surahNo": 40,
+    "ayahNo": 26,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/40_26.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/040026.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/40_26.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/040026.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/40_26.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/040026.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/40_26.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/040026.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/40_26.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/040026.mp3"
+        }
+    },
+    "english": "And Pharaoh said, “Let me kill Moses, and let him call upon his Lord! I truly fear that he may change your traditions or cause mischief in the land.”",
+    "arabic1": "وَقَالَ فِرْعَوْنُ ذَرُونِىٓ أَقْتُلْ مُوسَىٰ وَلْيَدْعُ رَبَّهُۥٓ ۖ إِنِّىٓ أَخَافُ أَن يُبَدِّلَ دِينَكُمْ أَوْ أَن يُظْهِرَ فِى ٱلْأَرْضِ ٱلْفَسَادَ",
+    "arabic2": "وقال فرعون ذروني اقتل موسى وليدع ربه اني اخاف ان يبدل دينكم او ان يظهر في الارض الفساد",
+    "bengali": "আর ফির‘আউন বলল, ‘আমাকে ছেড়ে দাও, আমি মূসাকে হত্যা করি এবং সে তার রবকে ডাকুক; নিশ্চয় আমি আশঙ্কা করি, সে তোমাদের দীন পাল্টে দেবে অথবা সে যমীনে বিপর্যয় ছড়িয়ে দেবে।",
+    "urdu": "اور فرعون بولا کہ مجھے چھوڑو کہ موسیٰ کو قتل کردوں اور وہ اپنے پروردگار کو بلالے۔ مجھے ڈر ہے کہ وہ (کہیں) تمہارے دین کو نہ بدل دے یا ملک میں فساد (نہ) پیدا کردے"
+}

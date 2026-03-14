@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Muminoon",
+    "surahNameArabic": "المؤمنون",
+    "surahNameArabicLong": "سورة المؤمنون",
+    "surahNameTranslation": "The Believers",
+    "revelationPlace": "Mecca",
+    "totalAyah": 118,
+    "surahNo": 23,
+    "ayahNo": 29,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/23_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/023029.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/23_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/023029.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/23_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/023029.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/23_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/023029.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/23_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/023029.mp3"
+        }
+    },
+    "english": "And pray, “My Lord! Allow me a blessed landing, for You are the best accommodator.”",
+    "arabic1": "وَقُل رَّبِّ أَنزِلْنِى مُنزَلًا مُّبَارَكًا وَأَنتَ خَيْرُ ٱلْمُنزِلِينَ",
+    "arabic2": "وقل رب انزلني منزلا مباركا وانت خير المنزلين",
+    "bengali": "তুমি আরও বলবে, ‘হে আমার রব, আমাকে বরকতময় অবতরণস্থলে অবতরণ করান। আর আপনিই সর্বশ্রেষ্ঠ অবতরণকারী’।",
+    "urdu": "اور (یہ بھی) دعا کرنا کہ اے پروردگار ہم کو مبارک جگہ اُتاریو اور تو سب سے بہتر اُتارنے والا ہے"
+}

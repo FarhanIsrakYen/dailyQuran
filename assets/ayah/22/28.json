@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Hajj",
+    "surahNameArabic": "الحج",
+    "surahNameArabicLong": "سورة الحج",
+    "surahNameTranslation": "The Pilgrimage",
+    "revelationPlace": "Madina",
+    "totalAyah": 78,
+    "surahNo": 22,
+    "ayahNo": 28,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/22_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/022028.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/22_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/022028.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/22_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/022028.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/22_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/022028.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/22_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/022028.mp3"
+        }
+    },
+    "english": "so they may obtain the benefits ˹in store˺ for them, and pronounce the Name of Allah on appointed days over the sacrificial animals He has provided for them. So eat from their meat and feed the desperately poor.",
+    "arabic1": "لِّيَشْهَدُوا۟ مَنَـٰفِعَ لَهُمْ وَيَذْكُرُوا۟ ٱسْمَ ٱللَّهِ فِىٓ أَيَّامٍ مَّعْلُومَـٰتٍ عَلَىٰ مَا رَزَقَهُم مِّنۢ بَهِيمَةِ ٱلْأَنْعَـٰمِ ۖ فَكُلُوا۟ مِنْهَا وَأَطْعِمُوا۟ ٱلْبَآئِسَ ٱلْفَقِيرَ",
+    "arabic2": "ليشهدوا منافع لهم ويذكروا اسم الله في ايام معلومات على ما رزقهم من بهيمة الانعام فكلوا منها واطعموا البائس الفقير",
+    "bengali": "‘যেন তারা নিজদের কল্যাণের স্থানসমূহে হাযির হতে পারে এবং তিনি তাদেরকে চতুষ্পদ জন্তু থেকে যে রিয্ক দিয়েছেন তার উপর নির্দিষ্ট দিনসমূহে আল্লাহর নাম স্মরণ করতে পারে। অতঃপর তোমরা তা থেকে খাও এবং দুস্থ-দরিদ্রকে খেতে দাও’।",
+    "urdu": "تاکہ اپنے فائدے کے کاموں کے لئے حاضر ہوں۔ اور (قربانی کے) ایام معلوم میں چہار پایاں مویشی (کے ذبح کے وقت) جو خدا نے ان کو دیئے ہیں ان پر خدا کا نام لیں۔ اس میں سے تم خود بھی کھاؤ اور فقیر درماندہ کو بھی کھلاؤ"
+}

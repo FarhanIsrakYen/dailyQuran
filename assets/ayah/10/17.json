@@ -1,0 +1,42 @@
+{
+    "surahName": "Yunus",
+    "surahNameArabic": "يونس",
+    "surahNameArabicLong": "سورة يونس",
+    "surahNameTranslation": "Jonas",
+    "revelationPlace": "Mecca",
+    "totalAyah": 109,
+    "surahNo": 10,
+    "ayahNo": 17,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/10_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/010017.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/10_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/010017.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/10_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/010017.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/10_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/010017.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/10_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/010017.mp3"
+        }
+    },
+    "english": "Who does more wrong than those who fabricate lies against Allah or deny His revelations? Indeed, the wicked will never succeed.",
+    "arabic1": "فَمَنْ أَظْلَمُ مِمَّنِ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًا أَوْ كَذَّبَ بِـَٔايَـٰتِهِۦٓ ۚ إِنَّهُۥ لَا يُفْلِحُ ٱلْمُجْرِمُونَ",
+    "arabic2": "فمن اظلم ممن افترى على الله كذبا او كذب باياته انه لا يفلح المجرمون",
+    "bengali": "অতএব যে আল্লাহর উপর মিথ্যা রটনা করে অথবা তাঁর আয়াতসমূহকে মিথ্যা বলে, তার চেয়ে বড় যালিম কে ? নিশ্চয় অপরাধীরা সফল হবে না।",
+    "urdu": "تو اس سے بڑھ کر ظالم کون جو خدا پر جھوٹ افترا کرے اور اس کی آیتوں کو جھٹلائے۔ بےشک گنہگار فلاح نہیں پائیں گے"
+}

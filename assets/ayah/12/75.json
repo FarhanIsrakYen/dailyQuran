@@ -1,0 +1,42 @@
+{
+    "surahName": "Yusuf",
+    "surahNameArabic": "يوسف",
+    "surahNameArabicLong": "سورة يوسف",
+    "surahNameTranslation": "Joseph",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 12,
+    "ayahNo": 75,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/12_75.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/012075.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/12_75.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/012075.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/12_75.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/012075.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/12_75.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/012075.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/12_75.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/012075.mp3"
+        }
+    },
+    "english": "Joseph’s brothers responded, “The price will be ˹the enslavement of˺ the one in whose bag the cup is found. That is how we punish the wrongdoers.”",
+    "arabic1": "قَالُوا۟ جَزَٰٓؤُهُۥ مَن وُجِدَ فِى رَحْلِهِۦ فَهُوَ جَزَٰٓؤُهُۥ ۚ كَذَٰلِكَ نَجْزِى ٱلظَّـٰلِمِينَ",
+    "arabic2": "قالوا جزاؤه من وجد في رحله فهو جزاؤه كذلك نجزي الظالمين",
+    "bengali": "তারা বলল, ‘তার শাস্তি হবে, যার মালপত্রের ভিতর ওটি পাওয়া যাবে, সে-ই হবে তার বিনিময়। এভাবেই আমরা যালেমদেরকে শাস্তি দিয়ে থাকি’।",
+    "urdu": "انہوں نے کہا کہ اس کی سزا یہ ہے کہ جس کے شلیتے میں وہ دستیاب ہو وہی اس کا بدل قرار دیا جائے ہم ظالموں کو یہی سزا دیا کرتے ہیں"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Kaafiroon",
+    "surahNameArabic": "الكافرون",
+    "surahNameArabicLong": "سورة الكافرون",
+    "surahNameTranslation": "The Disbelievers",
+    "revelationPlace": "Mecca",
+    "totalAyah": 6,
+    "surahNo": 109,
+    "ayahNo": 4,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/109_4.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/109004.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/109_4.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/109004.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/109_4.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/109004.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/109_4.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/109004.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/109_4.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/109004.mp3"
+        }
+    },
+    "english": "I will never worship what you worship",
+    "arabic1": "وَلَآ أَنَا۠ عَابِدٌ مَّا عَبَدتُّمْ",
+    "arabic2": "ولا انا عابد ما عبدتم",
+    "bengali": "‘আর তোমরা যার ‘ইবাদত করছ আমি তার ‘ইবাদাতকারী হব না’।",
+    "urdu": "اور( میں پھر کہتا ہوں کہ) جن کی تم پرستش کرتے ہوں ان کی میں پرستش کرنے والا نہیں ہوں"
+}

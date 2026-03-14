@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 46,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/9_46.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/009046.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/9_46.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/009046.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/9_46.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/009046.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/9_46.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/009046.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/9_46.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/009046.mp3"
+        }
+    },
+    "english": "Had they ˹really˺ intended to march forth, they would have made preparations for it. But Allah disliked that they should go, so He let them lag behind, and it was said ˹to them˺, “Stay with those ˹helpless˺ who remain behind.”",
+    "arabic1": "۞ وَلَوْ أَرَادُوا۟ ٱلْخُرُوجَ لَأَعَدُّوا۟ لَهُۥ عُدَّةً وَلَـٰكِن كَرِهَ ٱللَّهُ ٱنۢبِعَاثَهُمْ فَثَبَّطَهُمْ وَقِيلَ ٱقْعُدُوا۟ مَعَ ٱلْقَـٰعِدِينَ",
+    "arabic2": "ولو ارادوا الخروج لاعدوا له عدة ولكن كره الله انبعاثهم فثبطهم وقيل اقعدوا مع القاعدين",
+    "bengali": "আর যদি তারা বের হওয়ার ইচ্ছা করত, তবে তারা তার জন্য সরঞ্জাম প্রস্তুত করত, কিন্তু আল্লাহ তাদের বের হওয়াকে অপছন্দ করলেন, ফলে তিনি তাদেরকে পিছিয়ে দিলেন, আর বলা হল, ‘তোমরা বসে পড়া লোকদের সাথে বসে থাক’।",
+    "urdu": "اور اگر وہ نکلنے کا ارادہ کرتے ہیں تو اس کے لیے سامان تیار کرتے لیکن خدا نے ان کا اُٹھنا (اور نکلنا) پسند نہ کیا تو ان کو ہلنے جلنے ہی نہ دیا اور (ان سے) کہہ دیا گیا کہ جہاں (معذور) بیٹھے ہیں تم بھی ان کے ساتھ بیٹھے رہو"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 102,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/17_102.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/017102.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/17_102.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/017102.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/17_102.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/017102.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/17_102.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/017102.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/17_102.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/017102.mp3"
+        }
+    },
+    "english": "Moses replied, “You know well that none has sent these ˹signs˺ down except the Lord of the heavens and the earth as insights. And I really think that you, O  Pharaoh, are doomed.”",
+    "arabic1": "قَالَ لَقَدْ عَلِمْتَ مَآ أَنزَلَ هَـٰٓؤُلَآءِ إِلَّا رَبُّ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ بَصَآئِرَ وَإِنِّى لَأَظُنُّكَ يَـٰفِرْعَوْنُ مَثْبُورًا",
+    "arabic2": "قال لقد علمت ما انزل هؤلاء الا رب السماوات والارض بصائر واني لاظنك يا فرعون مثبورا",
+    "bengali": "সে বলল, ‘তুমি জান যে, এ সকল বিষয় কেবল আসমানসমূহ ও যমীনের রবই নাযিল করেছেন প্রত্যক্ষ প্রমাণ হিসেবে। আর হে ফির‘আউন, আমি তো ধারণা করি তুমি ধ্বংসপ্রাপ্ত।",
+    "urdu": "انہوں نے کہا کہ تم یہ جانتے ہو کہ آسمانوں اور زمین کے پروردگار کے سوا ان کو کسی نے نازل نہیں کیا۔ (اور وہ بھی تم لوگوں کے) سمجھانے کو۔ اور اے فرعون میں خیال کرتا ہوں کہ تم ہلاک ہوجاؤ گے"
+}

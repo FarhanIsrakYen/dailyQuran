@@ -1,0 +1,42 @@
+{
+    "surahName": "Yunus",
+    "surahNameArabic": "يونس",
+    "surahNameArabicLong": "سورة يونس",
+    "surahNameTranslation": "Jonas",
+    "revelationPlace": "Mecca",
+    "totalAyah": 109,
+    "surahNo": 10,
+    "ayahNo": 60,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/10_60.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/010060.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/10_60.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/010060.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/10_60.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/010060.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/10_60.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/010060.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/10_60.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/010060.mp3"
+        }
+    },
+    "english": "What do those who fabricate lies against Allah expect on Judgment Day? Surely Allah is ever Bountiful to humanity, but most of them are ungrateful.",
+    "arabic1": "وَمَا ظَنُّ ٱلَّذِينَ يَفْتَرُونَ عَلَى ٱللَّهِ ٱلْكَذِبَ يَوْمَ ٱلْقِيَـٰمَةِ ۗ إِنَّ ٱللَّهَ لَذُو فَضْلٍ عَلَى ٱلنَّاسِ وَلَـٰكِنَّ أَكْثَرَهُمْ لَا يَشْكُرُونَ",
+    "arabic2": "وما ظن الذين يفترون على الله الكذب يوم القيامة ان الله لذو فضل على الناس ولكن اكثرهم لا يشكرون",
+    "bengali": "আর যারা আল্লাহর নামে মিথ্যা রটাচ্ছে, তাদের কী ধারণা, কিয়ামতের দিন (তাদের পরিণতি) সম্পর্কে? নিশ্চয় আল্লাহ মানুষের উপর অনুগ্রহশীল; কিন্তু তাদের অধিকাংশ শোকর করে না।",
+    "urdu": "اور جو لوگ خدا پر افتراء کرتے ہیں وہ قیامت کے دن کی نسبت کیا خیال رکھتے ہیں؟ بےشک خدا لوگوں پر مہربان ہے لیکن اکثر لوگ شکر نہیں کرتے"
+}

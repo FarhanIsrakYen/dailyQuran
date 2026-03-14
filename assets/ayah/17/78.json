@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 78,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/17_78.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/017078.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/17_78.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/017078.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/17_78.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/017078.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/17_78.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/017078.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/17_78.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/017078.mp3"
+        }
+    },
+    "english": "Observe the prayer from the decline of the sun until the darkness of the night and the dawn prayer, for certainly the dawn prayer is witnessed ˹by angels˺.",
+    "arabic1": "أَقِمِ ٱلصَّلَوٰةَ لِدُلُوكِ ٱلشَّمْسِ إِلَىٰ غَسَقِ ٱلَّيْلِ وَقُرْءَانَ ٱلْفَجْرِ ۖ إِنَّ قُرْءَانَ ٱلْفَجْرِ كَانَ مَشْهُودًا",
+    "arabic2": "اقم الصلاة لدلوك الشمس الى غسق الليل وقران الفجر ان قران الفجر كان مشهودا",
+    "bengali": "সূর্য হেলে পড়ার সময় থেকে রাতের অন্ধকার পর্যন্ত সালাত কায়েম কর এবং ফজরের কুরআন*। নিশ্চয় ফজরের কুরআন (ফেরেশতাদের) উপস্থিতির সময়।** \n*‘ফজরের কুরআন’ দ্বারা উদ্দেশ্য ফজরের সালাত।",
+    "urdu": "(اے محمدﷺ) سورج کے ڈھلنے سے رات کے اندھیرے تک (ظہر، عصر، مغرب، عشا کی) نمازیں اور صبح کو قرآن پڑھا کرو۔ کیوں صبح کے وقت قرآن کا پڑھنا موجب حضور (ملائکہ) ہے"
+}

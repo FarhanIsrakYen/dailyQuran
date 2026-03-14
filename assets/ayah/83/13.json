@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Mutaffifin",
+    "surahNameArabic": "المطففين",
+    "surahNameArabicLong": "سورة المطففين",
+    "surahNameTranslation": "Defrauding",
+    "revelationPlace": "Mecca",
+    "totalAyah": 36,
+    "surahNo": 83,
+    "ayahNo": 13,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/83_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/083013.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/83_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/083013.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/83_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/083013.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/83_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/083013.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/83_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/083013.mp3"
+        }
+    },
+    "english": "Whenever Our revelations are recited to them, they say, “Ancient fables!”",
+    "arabic1": "إِذَا تُتْلَىٰ عَلَيْهِ ءَايَـٰتُنَا قَالَ أَسَـٰطِيرُ ٱلْأَوَّلِينَ",
+    "arabic2": "اذا تتلى عليه اياتنا قال اساطير الاولين",
+    "bengali": "যখন তার কাছে আমার আয়াতসমূহ তিলাওয়াত করা হয় তখন সে বলে, ‘পূর্ববর্তীদের রূপকথা।’",
+    "urdu": "جب اس کو ہماری آیتیں سنائی جاتی ہیں تو کہتا ہے کہ یہ تو اگلے لوگوں کے افسانے ہیں"
+}

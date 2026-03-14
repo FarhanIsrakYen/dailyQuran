@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nahl",
+    "surahNameArabic": "النحل",
+    "surahNameArabicLong": "سورة النحل",
+    "surahNameTranslation": "The Bee",
+    "revelationPlace": "Mecca",
+    "totalAyah": 128,
+    "surahNo": 16,
+    "ayahNo": 54,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/16_54.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/016054.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/16_54.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/016054.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/16_54.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/016054.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/16_54.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/016054.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/16_54.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/016054.mp3"
+        }
+    },
+    "english": "Then as soon as He removes the hardship from you, a group of you associates ˹others˺ with their Lord ˹in worship˺",
+    "arabic1": "ثُمَّ إِذَا كَشَفَ ٱلضُّرَّ عَنكُمْ إِذَا فَرِيقٌ مِّنكُم بِرَبِّهِمْ يُشْرِكُونَ",
+    "arabic2": "ثم اذا كشف الضر عنكم اذا فريق منكم بربهم يشركون",
+    "bengali": "তারপর যখন তিনি তোমাদের থেকে দুঃখ-দুর্দশা দূর করে দেন, তখন তোমাদের মধ্য থেকে একটি দল তাদের রবের সাথে শিরক করে।",
+    "urdu": "پھر جب وہ تم سے تکلیف کو دور کردیتا ہے تو کچھ لوگ تم میں سے خدا کے ساتھ شریک کرنے لگتے ہیں"
+}

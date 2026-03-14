@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 143,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/6_143.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/006143.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/6_143.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/006143.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/6_143.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/006143.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/6_143.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/006143.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/6_143.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/006143.mp3"
+        }
+    },
+    "english": "˹Allah has created˺ four pairs: a pair of sheep and a pair of goats—ask ˹them, O  Prophet˺, “Has He forbidden ˹to you˺ the two males or the two females or what is in the wombs of the two females? Tell me with knowledge, if what you say is true.”—",
+    "arabic1": "ثَمَـٰنِيَةَ أَزْوَٰجٍ ۖ مِّنَ ٱلضَّأْنِ ٱثْنَيْنِ وَمِنَ ٱلْمَعْزِ ٱثْنَيْنِ ۗ قُلْ ءَآلذَّكَرَيْنِ حَرَّمَ أَمِ ٱلْأُنثَيَيْنِ أَمَّا ٱشْتَمَلَتْ عَلَيْهِ أَرْحَامُ ٱلْأُنثَيَيْنِ ۖ نَبِّـُٔونِى بِعِلْمٍ إِن كُنتُمْ صَـٰدِقِينَ",
+    "arabic2": "ثمانية ازواج من الضان اثنين ومن المعز اثنين قل الذكرين حرم ام الانثيين اما اشتملت عليه ارحام الانثيين نبئوني بعلم ان كنتم صادقين",
+    "bengali": "(তিনি সৃষ্টি করেছেন) আট প্রকারের জোড়া। মেষ থেকে দু’টি, ছাগল থেকে দু’টি। বল, ‘নর দু’টিকে তিনি হারাম করেছেন নাকি মাদি দু’টিকে? নাকি তা, যা মাদি দু’টির পেটে আছে? তোমরা জেনে-শুনে আমাকে জানাও, যদি তোমরা সত্যবাদী হয়ে থাক।’",
+    "urdu": "(یہ بڑے چھوٹے چارپائے) آٹھ قسم کے (ہیں) دو (دو) بھیڑوں میں سے اور دو (دو) بکریوں میں سے (یعنی ایک ایک نر اور اور ایک ایک مادہ) (اے پیغمبر ان سے) پوچھو کہ (خدا نے) دونوں (کے) نروں کو حرام کیا ہے یا دونوں (کی) مادنیوں کو یا جو بچہ مادنیوں کے پیٹ میں لپٹ رہا ہو اسے اگر سچے ہو تو مجھے سند سے بتاؤ"
+}

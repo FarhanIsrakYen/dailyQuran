@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Anbiyaa",
+    "surahNameArabic": "الأنبياء",
+    "surahNameArabicLong": "سورة الأنبياء",
+    "surahNameTranslation": "The Prophets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 112,
+    "surahNo": 21,
+    "ayahNo": 19,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/21_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/021019.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/21_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/021019.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/21_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/021019.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/21_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/021019.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/21_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/021019.mp3"
+        }
+    },
+    "english": "To Him belong all those in the heavens and the earth. And those nearest to Him are not too proud to worship Him, nor do they tire.",
+    "arabic1": "وَلَهُۥ مَن فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ وَمَنْ عِندَهُۥ لَا يَسْتَكْبِرُونَ عَنْ عِبَادَتِهِۦ وَلَا يَسْتَحْسِرُونَ",
+    "arabic2": "وله من في السماوات والارض ومن عنده لا يستكبرون عن عبادته ولا يستحسرون",
+    "bengali": "আর আসমান-যমীনে যারা আছে তারা সবাই তাঁর; আর তাঁর কাছে যারা আছে তারা অহঙ্কারবশতঃ তাঁর ইবাদাত হতে বিমুখ হয় না এবং ক্লান্তিও বোধ করে না।",
+    "urdu": "اور جو لوگ آسمانوں میں اور جو زمین میں ہیں سب اسی کے (مملوک اور اُسی کا مال) ہیں۔ اور جو (فرشتے) اُس کے پاس ہیں وہ اس کی عبادت سے نہ کنیاتے ہیں اور نہ اکتاتے ہیں"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Muhammad",
+    "surahNameArabic": "محمد",
+    "surahNameArabicLong": "سورة محمد",
+    "surahNameTranslation": "Muhammad",
+    "revelationPlace": "Madina",
+    "totalAyah": 38,
+    "surahNo": 47,
+    "ayahNo": 3,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/47_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/047003.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/47_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/047003.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/47_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/047003.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/47_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/047003.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/47_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/047003.mp3"
+        }
+    },
+    "english": "This is because the disbelievers follow falsehood, while the believers follow the truth from their Lord. This is how Allah shows people their true state ˹of faith˺.",
+    "arabic1": "ذَٰلِكَ بِأَنَّ ٱلَّذِينَ كَفَرُوا۟ ٱتَّبَعُوا۟ ٱلْبَـٰطِلَ وَأَنَّ ٱلَّذِينَ ءَامَنُوا۟ ٱتَّبَعُوا۟ ٱلْحَقَّ مِن رَّبِّهِمْ ۚ كَذَٰلِكَ يَضْرِبُ ٱللَّهُ لِلنَّاسِ أَمْثَـٰلَهُمْ",
+    "arabic2": "ذلك بان الذين كفروا اتبعوا الباطل وان الذين امنوا اتبعوا الحق من ربهم كذلك يضرب الله للناس امثالهم",
+    "bengali": "তা এজন্য যে, যারা কুফরী করে তারা বাতিলের অনুসরণ করে, আর যারা ঈমান আনে তারা তাদের রবের প্রেরিত হকের অনুসরণ করে। এভাবেই আল্লাহ মানুষের জন্য তাদের দৃষ্টান্তসমূহ বর্ণনা করেন।",
+    "urdu": "یہ (حبط اعمال اور اصلاح حال) اس لئے ہے کہ جن لوگوں نے کفر کیا انہوں نے جھوٹی بات کی پیروی کی اور جو ایمان لائے وہ اپنے پروردگار کی طرف سے (دین) حق کے پیچھے چلے۔ اسی طرح خدا لوگوں سے ان کے حالات بیان فرماتا ہے"
+}

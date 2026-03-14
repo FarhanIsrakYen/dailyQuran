@@ -1,0 +1,42 @@
+{
+    "surahName": "Az-Zumar",
+    "surahNameArabic": "الزمر",
+    "surahNameArabicLong": "سورة الزمر",
+    "surahNameTranslation": "The Groups",
+    "revelationPlace": "Mecca",
+    "totalAyah": 75,
+    "surahNo": 39,
+    "ayahNo": 35,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/39_35.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/039035.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/39_35.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/039035.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/39_35.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/039035.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/39_35.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/039035.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/39_35.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/039035.mp3"
+        }
+    },
+    "english": "As such, Allah will absolve them of ˹even˺ the worst of what they did and reward them according to the best of what they used to do.",
+    "arabic1": "لِيُكَفِّرَ ٱللَّهُ عَنْهُمْ أَسْوَأَ ٱلَّذِى عَمِلُوا۟ وَيَجْزِيَهُمْ أَجْرَهُم بِأَحْسَنِ ٱلَّذِى كَانُوا۟ يَعْمَلُونَ",
+    "arabic2": "ليكفر الله عنهم اسوا الذي عملوا ويجزيهم اجرهم باحسن الذي كانوا يعملون",
+    "bengali": "যাতে তারা যেসব মন্দ কাজ করেছিল, আল্লাহ তা ঢেকে দেন এবং তারা যে সর্বোত্তম আমল করত তার প্রতিদানে তাদেরকে পুরস্কৃত করেন।",
+    "urdu": "تاکہ خدا ان سے برائیوں کو جو انہوں نے کیں دور کردے اور نیک کاموں کا جو وہ کرتے رہے ان کو بدلہ دے"
+}

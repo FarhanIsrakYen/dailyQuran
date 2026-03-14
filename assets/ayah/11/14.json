@@ -1,0 +1,42 @@
+{
+    "surahName": "Hud",
+    "surahNameArabic": "هود",
+    "surahNameArabicLong": "سورة هود",
+    "surahNameTranslation": "Hud",
+    "revelationPlace": "Mecca",
+    "totalAyah": 123,
+    "surahNo": 11,
+    "ayahNo": 14,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/11_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/011014.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/11_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/011014.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/11_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/011014.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/11_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/011014.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/11_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/011014.mp3"
+        }
+    },
+    "english": "But if your helpers fail you, then know that it has been revealed with the knowledge of Allah, and that there is no god ˹worthy of worship˺ except Him! Will you ˹not˺ then submit ˹to Allah˺?",
+    "arabic1": "فَإِلَّمْ يَسْتَجِيبُوا۟ لَكُمْ فَٱعْلَمُوٓا۟ أَنَّمَآ أُنزِلَ بِعِلْمِ ٱللَّهِ وَأَن لَّآ إِلَـٰهَ إِلَّا هُوَ ۖ فَهَلْ أَنتُم مُّسْلِمُونَ",
+    "arabic2": "فالم يستجيبوا لكم فاعلموا انما انزل بعلم الله وان لا اله الا هو فهل انتم مسلمون",
+    "bengali": "অতঃপর তারা যদি তোমাদের আহবানে সাড়া না দেয়, তাহলে জেনে রাখ, এটা আল্লাহর জ্ঞান অনুসারেই নাযিল করা হয়েছে এবং তিনি ছাড়া কোন (সত্য) ইলাহ্ নেই। অতঃপর তোমরা কি অনুগত হবে?",
+    "urdu": "اگر وہ تمہاری بات قبول نہ کریں تو جان لو کہ وہ خدا کے علم سے اُترا ہے اور یہ کہ اس کے سوا کوئی معبود نہیں تو تمہیں بھی اسلام لے آنا چاہئیے"
+}

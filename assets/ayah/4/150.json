@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 150,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/4_150.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/004150.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/4_150.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/004150.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/4_150.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/004150.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/4_150.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/004150.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/4_150.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/004150.mp3"
+        }
+    },
+    "english": "Surely those who deny Allah and His messengers and wish to make a distinction between Allah and His messengers, saying, “We believe in some and disbelieve in others,” desiring to forge a compromise",
+    "arabic1": "إِنَّ ٱلَّذِينَ يَكْفُرُونَ بِٱللَّهِ وَرُسُلِهِۦ وَيُرِيدُونَ أَن يُفَرِّقُوا۟ بَيْنَ ٱللَّهِ وَرُسُلِهِۦ وَيَقُولُونَ نُؤْمِنُ بِبَعْضٍ وَنَكْفُرُ بِبَعْضٍ وَيُرِيدُونَ أَن يَتَّخِذُوا۟ بَيْنَ ذَٰلِكَ سَبِيلًا",
+    "arabic2": "ان الذين يكفرون بالله ورسله ويريدون ان يفرقوا بين الله ورسله ويقولون نؤمن ببعض ونكفر ببعض ويريدون ان يتخذوا بين ذلك سبيلا",
+    "bengali": "নিশ্চয় যারা আল্লাহ ও তাঁর রাসূলগণের সাথে কুফরী করে এবং আল্লাহ ও তাঁর রাসূলগণের মধ্যে পার্থক্য করতে চায় এবং বলে, ‘আমরা কতককে বিশ্বাস করি আর কতকের সাথে কুফরী করি’ এবং তারা এর মাঝামাঝি একটি পথ গ্রহণ করতে চায় ।",
+    "urdu": "جو لوگ خدا سے اور اس کے پیغمبروں سے کفر کرتے ہیں اور خدا اور اس کے پیغمبروں میں فرق کرنا چاہتے ہیں اور کہتے ہیں کہ ہم بعض کو مانتے ہیں اور بعض کو نہیں مانتے اور ایمان اور کفر کے بیچ میں ایک راہ نکالنی چاہتے ہیں"
+}

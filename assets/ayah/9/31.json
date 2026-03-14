@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 31,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/9_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/009031.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/9_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/009031.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/9_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/009031.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/9_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/009031.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/9_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/009031.mp3"
+        }
+    },
+    "english": "They have taken their rabbis and monks as well as the Messiah, son of Mary, as lords besides Allah, even though they were commanded to worship none but One God. There is no god ˹worthy of worship˺ except Him. Glorified is He above what they associate ˹with Him˺!",
+    "arabic1": "ٱتَّخَذُوٓا۟ أَحْبَارَهُمْ وَرُهْبَـٰنَهُمْ أَرْبَابًا مِّن دُونِ ٱللَّهِ وَٱلْمَسِيحَ ٱبْنَ مَرْيَمَ وَمَآ أُمِرُوٓا۟ إِلَّا لِيَعْبُدُوٓا۟ إِلَـٰهًا وَٰحِدًا ۖ لَّآ إِلَـٰهَ إِلَّا هُوَ ۚ سُبْحَـٰنَهُۥ عَمَّا يُشْرِكُونَ",
+    "arabic2": "اتخذوا احبارهم ورهبانهم اربابا من دون الله والمسيح ابن مريم وما امروا الا ليعبدوا الها واحدا لا اله الا هو سبحانه عما يشركون",
+    "bengali": "তারা আল্লাহকে ছেড়ে তাদের পন্ডিত ও সংসার-বিরাগীদের* রব হিসেবে গ্রহণ করেছে এবং মারইয়ামপুত্র মাসীহকেও। অথচ তারা এক ইলাহের ইবাদত করার জন্যই আদিষ্ট হয়েছে, তিনি ছাড়া কোন (হক) ইলাহ নেই। তারা যে শরীক করে তিনি তা থেকে পবিত্র। \n* এ স্থলে أحبار দ্বারা ইয়াহূদীদের ধর্মপন্ডিত আর رهبان দ্বারা নাসারাদের ধর্মপন্ডিতদেরকে বুঝানো হয়েছে।",
+    "urdu": "انہوں نے اپنے علماء اور مشائخ اور مسیح ابن مریم کو الله کے سوا خدا بنا لیا حالانکہ اُن کو یہ حکم دیا گیا تھا کہ خدائے واحد کے سوا کسی کی عبادت نہ کریں۔ اس کے سوا کوئی معبود نہیں۔ اور وہ ان لوگوں کے شریک مقرر کرنے سے پاک ہے"
+}

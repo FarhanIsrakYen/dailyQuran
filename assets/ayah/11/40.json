@@ -1,0 +1,42 @@
+{
+    "surahName": "Hud",
+    "surahNameArabic": "هود",
+    "surahNameArabicLong": "سورة هود",
+    "surahNameTranslation": "Hud",
+    "revelationPlace": "Mecca",
+    "totalAyah": 123,
+    "surahNo": 11,
+    "ayahNo": 40,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/11_40.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/011040.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/11_40.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/011040.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/11_40.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/011040.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/11_40.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/011040.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/11_40.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/011040.mp3"
+        }
+    },
+    "english": "And when Our command came and the oven burst ˹with water˺, We said ˹to Noah˺, “Take into the Ark a pair from every species along with your family—except those against whom the decree ˹to drown˺ has already been passed—and those who believe.” But none believed with him except for a few.",
+    "arabic1": "حَتَّىٰٓ إِذَا جَآءَ أَمْرُنَا وَفَارَ ٱلتَّنُّورُ قُلْنَا ٱحْمِلْ فِيهَا مِن كُلٍّ زَوْجَيْنِ ٱثْنَيْنِ وَأَهْلَكَ إِلَّا مَن سَبَقَ عَلَيْهِ ٱلْقَوْلُ وَمَنْ ءَامَنَ ۚ وَمَآ ءَامَنَ مَعَهُۥٓ إِلَّا قَلِيلٌ",
+    "arabic2": "حتى اذا جاء امرنا وفار التنور قلنا احمل فيها من كل زوجين اثنين واهلك الا من سبق عليه القول ومن امن وما امن معه الا قليل",
+    "bengali": "অবশেষে যখন আমার আদেশ আসল এবং চুলা উথলে উঠল*, আমি বললাম, ‘তুমি তাতে তুলে নাও প্রত্যেক শ্রেণী থেকে জোড়া জোড়া** এবং যাদের ব্যাপারে সিদ্ধান্ত হয়ে গিয়েছে তাদের ছাড়া তোমার পরিবারকে এবং যারা ঈমান এনেছে তাদেরকে। আর তার সাথে অল্পসংখ্যকই ঈমান এনেছিল। \n* التنور এর আরেকটি অর্থ হল ভূপৃষ্ঠ। প্লাবন শুরু হওয়ার আগে ভূপৃষ্ঠের সবখান দিয়ে পানি উৎসারিত হতে লাগল।",
+    "urdu": "یہاں تک کہ جب ہمارا حکم آپہنچا اور تنور جوش مارنے لگا تو ہم نے نوح کو حکم دیا کہ ہر قسم (کے جانداروں) میں سے جوڑا جوڑا (یعنی) دو (دو جانور۔ ایک ایک نر اور ایک ایک مادہ) لے لو اور جس شخص کی نسبت حکم ہوچکا ہے (کہ ہلاک ہوجائے گا) اس کو چھوڑ کر اپنے گھر والوں کو جو ایمان لایا ہو اس کو کشتی میں سوار کر لو اور ان کے ساتھ ایمان بہت ہی کم لوگ لائے تھے"
+}

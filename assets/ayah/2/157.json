@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 157,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_157.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002157.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_157.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002157.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_157.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002157.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_157.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002157.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_157.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002157.mp3"
+        }
+    },
+    "english": "They are the ones who will receive Allah’s blessings and mercy. And it is they who are ˹rightly˺ guided.",
+    "arabic1": "أُو۟لَـٰٓئِكَ عَلَيْهِمْ صَلَوَٰتٌ مِّن رَّبِّهِمْ وَرَحْمَةٌ ۖ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُهْتَدُونَ",
+    "arabic2": "اولئك عليهم صلوات من ربهم ورحمة واولئك هم المهتدون",
+    "bengali": "তাদের উপরই রয়েছে তাদের রবের পক্ষ থেকে মাগফিরাত ও রহমত এবং তারাই হিদায়াতপ্রাপ্ত।",
+    "urdu": "یہی لوگ ہیں جن پر ان کے پروردگار کی مہربانی اور رحمت ہے۔ اور یہی سیدھے رستے پر ہیں"
+}

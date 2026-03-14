@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 127,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/9_127.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/009127.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/9_127.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/009127.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/9_127.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/009127.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/9_127.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/009127.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/9_127.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/009127.mp3"
+        }
+    },
+    "english": "Whenever a sûrah is revealed, they look at one another, ˹saying,˺ “Is anyone watching you?” Then they slip away. ˹It is˺ Allah ˹Who˺ has turned their hearts away because they are a people who do not comprehend.",
+    "arabic1": "وَإِذَا مَآ أُنزِلَتْ سُورَةٌ نَّظَرَ بَعْضُهُمْ إِلَىٰ بَعْضٍ هَلْ يَرَىٰكُم مِّنْ أَحَدٍ ثُمَّ ٱنصَرَفُوا۟ ۚ صَرَفَ ٱللَّهُ قُلُوبَهُم بِأَنَّهُمْ قَوْمٌ لَّا يَفْقَهُونَ",
+    "arabic2": "واذا ما انزلت سورة نظر بعضهم الى بعض هل يراكم من احد ثم انصرفوا صرف الله قلوبهم بانهم قوم لا يفقهون",
+    "bengali": "আর যখনই কোন সূরা নাযিল করা হয়, তারা একে অপরের দিকে তাকায়। (এবং বলে) ‘তোমাদেরকে কি কেউ দেখছে’? অতঃপর তারা (চুপিসারে) প্রস্থান করে। আল্লাহ তাদের হৃদয়কে সত্যবিমুখ করে দেন। এ কারণে যে, তারা বোধশক্তিহীন কওম।",
+    "urdu": "اور جب کوئی سورت نازل ہوتی ہے ایک دوسرے کی جانب دیکھنے لگتے ہیں (اور پوچھتے ہیں کہ) بھلا تمہیں کوئی دیکھتا ہے پھر پھر جاتے ہیں۔ خدا نے ان کے دلوں کو پھیر رکھا ہے کیونکہ یہ ایسے لوگ ہیں کہ سمجھ سے کام نہیں لیتے"
+}

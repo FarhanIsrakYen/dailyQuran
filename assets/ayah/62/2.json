@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Jumu'a",
+    "surahNameArabic": "الجمعة",
+    "surahNameArabicLong": "سورة الجمعة",
+    "surahNameTranslation": "Friday",
+    "revelationPlace": "Madina",
+    "totalAyah": 11,
+    "surahNo": 62,
+    "ayahNo": 2,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/62_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/062002.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/62_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/062002.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/62_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/062002.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/62_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/062002.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/62_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/062002.mp3"
+        }
+    },
+    "english": "He is the One Who raised for the illiterate ˹people˺ a messenger from among themselves—reciting to them His revelations, purifying them, and teaching them the Book and wisdom, for indeed they had previously been clearly astray—",
+    "arabic1": "هُوَ ٱلَّذِى بَعَثَ فِى ٱلْأُمِّيِّـۧنَ رَسُولًا مِّنْهُمْ يَتْلُوا۟ عَلَيْهِمْ ءَايَـٰتِهِۦ وَيُزَكِّيهِمْ وَيُعَلِّمُهُمُ ٱلْكِتَـٰبَ وَٱلْحِكْمَةَ وَإِن كَانُوا۟ مِن قَبْلُ لَفِى ضَلَـٰلٍ مُّبِينٍ",
+    "arabic2": "هو الذي بعث في الاميين رسولا منهم يتلو عليهم اياته ويزكيهم ويعلمهم الكتاب والحكمة وان كانوا من قبل لفي ضلال مبين",
+    "bengali": "তিনিই উম্মীদের* মাঝে একজন রাসূল পাঠিয়েছেন তাদের মধ্য থেকে, যে তাদের কাছে তেলাওয়াত করে তাঁর আয়াতসমূহ, তাদেরকে পবিত্র করে এবং তাদেরকে শিক্ষা দেয় কিতাব ও হিকমাত। যদিও ইতঃপূর্বে তারা স্পষ্ট গোমরাহীতে ছিল। \n*উম্মী দ্বারা আরবের লোকদেরকে বুঝানো হয়েছে।",
+    "urdu": "وہی تو ہے جس نے ان پڑھوں میں ان ہی میں سے (محمدﷺ) کو پیغمبر (بنا کر) بھیجا جو ان کے سامنے اس کی آیتیں پڑھتے اور ان کو پاک کرتے اور (خدا کی) کتاب اور دانائی سکھاتے ہیں۔ اور اس ے پہلے تو یہ لوگ صریح گمراہی میں تھے"
+}

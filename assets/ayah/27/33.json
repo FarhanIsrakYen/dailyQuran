@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Naml",
+    "surahNameArabic": "النمل",
+    "surahNameArabicLong": "سورة النمل",
+    "surahNameTranslation": "The Ant",
+    "revelationPlace": "Mecca",
+    "totalAyah": 93,
+    "surahNo": 27,
+    "ayahNo": 33,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/27_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/027033.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/27_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/027033.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/27_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/027033.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/27_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/027033.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/27_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/027033.mp3"
+        }
+    },
+    "english": "They responded, “We are a people of strength and great ˹military˺ might, but the decision is yours, so decide what you will command.”",
+    "arabic1": "قَالُوا۟ نَحْنُ أُو۟لُوا۟ قُوَّةٍ وَأُو۟لُوا۟ بَأْسٍ شَدِيدٍ وَٱلْأَمْرُ إِلَيْكِ فَٱنظُرِى مَاذَا تَأْمُرِينَ",
+    "arabic2": "قالوا نحن اولو قوة واولو باس شديد والامر اليك فانظري ماذا تامرين",
+    "bengali": "তারা বলল, ‘আমরা শক্তিশালী ও কঠোর যোদ্ধা, আর সিদ্ধান্ত আপনার কাছেই। অতএব চিন্তা করে দেখুন, আপনি কী নির্দেশ দেবেন’।",
+    "urdu": "وہ بولے کہ ہم بڑے زورآور اور سخت جنگجو ہیں اور حکم آپ کے اختیار ہے تو جو حکم دیجیئے گا (اس کے مآل پر) نظر کرلیجیئے گا"
+}

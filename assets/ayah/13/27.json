@@ -1,0 +1,42 @@
+{
+    "surahName": "Ar-Ra'd",
+    "surahNameArabic": "الرعد",
+    "surahNameArabicLong": "سورة الرعد",
+    "surahNameTranslation": "The Thunder",
+    "revelationPlace": "Madina",
+    "totalAyah": 43,
+    "surahNo": 13,
+    "ayahNo": 27,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/13_27.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/013027.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/13_27.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/013027.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/13_27.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/013027.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/13_27.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/013027.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/13_27.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/013027.mp3"
+        }
+    },
+    "english": "The disbelievers say, “If only a sign could be sent down to him from his Lord.” Say, ˹O Prophet,˺ “Indeed, Allah leaves to stray whoever He wills, and guides to Himself whoever turns to Him—",
+    "arabic1": "وَيَقُولُ ٱلَّذِينَ كَفَرُوا۟ لَوْلَآ أُنزِلَ عَلَيْهِ ءَايَةٌ مِّن رَّبِّهِۦ ۗ قُلْ إِنَّ ٱللَّهَ يُضِلُّ مَن يَشَآءُ وَيَهْدِىٓ إِلَيْهِ مَنْ أَنَابَ",
+    "arabic2": "ويقول الذين كفروا لولا انزل عليه اية من ربه قل ان الله يضل من يشاء ويهدي اليه من اناب",
+    "bengali": "আর যারা কুফরী করেছে, তারা বলে, ‘তার নিকট তার রবের পক্ষ থেকে কোন নিদর্শন কেন নাযিল হয় না’? বল, ‘নিশ্চয় আল্লাহ যাকে ইচ্ছা পথভ্রষ্ট করেন এবং যে তাঁর অভিমুখী হয়, তাকে তিনি তাঁর দিকে পথ দেখান’।",
+    "urdu": "اور کافر کہتے ہیں کہ اس (پیغمبر) پر اس کے پروردگار کی طرف سے کوئی نشانی کیوں نازل نہیں ہوئی۔ کہہ دو کہ خدا جسے چاہتا ہے گمراہ کرتا ہے اور جو (اس کی طرف) رجوع ہوتا ہے اس کو اپنی طرف کا رستہ دکھاتا ہے"
+}

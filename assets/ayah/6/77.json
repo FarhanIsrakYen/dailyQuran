@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 77,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/6_77.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/006077.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/6_77.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/006077.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/6_77.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/006077.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/6_77.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/006077.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/6_77.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/006077.mp3"
+        }
+    },
+    "english": "Then when he saw the moon rising, he said, “This one is my Lord!” But when it disappeared, he said, “If my Lord does not guide me, I will certainly be one of the misguided people.”",
+    "arabic1": "فَلَمَّا رَءَا ٱلْقَمَرَ بَازِغًا قَالَ هَـٰذَا رَبِّى ۖ فَلَمَّآ أَفَلَ قَالَ لَئِن لَّمْ يَهْدِنِى رَبِّى لَأَكُونَنَّ مِنَ ٱلْقَوْمِ ٱلضَّآلِّينَ",
+    "arabic2": "فلما راى القمر بازغا قال هذا ربي فلما افل قال لئن لم يهدني ربي لاكونن من القوم الضالين",
+    "bengali": "অতঃপর যখন সে চাঁদ উজ্জ্বলরূপে উদীয়মান দেখল, বলল, ‘এ আমার রব’। পরে যখন তা ডুবে গেল, বলল, ‘যদি আমার রব আমাকে হিদায়াত না করেন, নিশ্চয় আমি পথহারা কওমের অন্তর্ভুক্ত হয়ে যাব’।",
+    "urdu": "پھر جب چاند کو دیکھا کہ چمک رہا ہے تو کہنے لگے یہ میرا پروردگار ہے۔ لیکن جب وہ بھی چھپ گیا تو بول اٹھے کہ میرا پروردگار مجھے سیدھا رستہ نہیں دکھائے گا تو میں ان لوگوں میں ہوجاؤں گا جو بھٹک رہے ہیں"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Noor",
+    "surahNameArabic": "النور",
+    "surahNameArabicLong": "سورة النور",
+    "surahNameTranslation": "The Light",
+    "revelationPlace": "Madina",
+    "totalAyah": 64,
+    "surahNo": 24,
+    "ayahNo": 4,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/24_4.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/024004.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/24_4.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/024004.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/24_4.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/024004.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/24_4.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/024004.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/24_4.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/024004.mp3"
+        }
+    },
+    "english": "Those who accuse chaste women ˹of adultery˺ and fail to produce four witnesses, give them eighty lashes ˹each˺. And do not ever accept any testimony from them—for they are indeed the rebellious—",
+    "arabic1": "وَٱلَّذِينَ يَرْمُونَ ٱلْمُحْصَنَـٰتِ ثُمَّ لَمْ يَأْتُوا۟ بِأَرْبَعَةِ شُهَدَآءَ فَٱجْلِدُوهُمْ ثَمَـٰنِينَ جَلْدَةً وَلَا تَقْبَلُوا۟ لَهُمْ شَهَـٰدَةً أَبَدًا ۚ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْفَـٰسِقُونَ",
+    "arabic2": "والذين يرمون المحصنات ثم لم ياتوا باربعة شهداء فاجلدوهم ثمانين جلدة ولا تقبلوا لهم شهادة ابدا واولئك هم الفاسقون",
+    "bengali": "আর যারা সচ্চরিত্র নারীর প্রতি অপবাদ আরোপ করে, তারপর তারা চারজন সাক্ষী নিয়ে আসে না, তবে তাদেরকে আশিটি বেত্রাঘাত কর এবং তোমরা কখনই তাদের সাক্ষ্য গ্রহণ করো না। আর এরাই হলো ফাসিক।",
+    "urdu": "اور جو لوگ پرہیزگار عورتوں کو بدکاری کا عیب لگائیں اور اس پر چار گواہ نہ لائیں تو ان کو اسی درے مارو اور کبھی ان کی شہادت قبول نہ کرو۔ اور یہی بدکردار ہیں"
+}

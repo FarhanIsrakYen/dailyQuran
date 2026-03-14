@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Burooj",
+    "surahNameArabic": "البروج",
+    "surahNameArabicLong": "سورة البروج",
+    "surahNameTranslation": "The Constellations",
+    "revelationPlace": "Mecca",
+    "totalAyah": 22,
+    "surahNo": 85,
+    "ayahNo": 11,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/85_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/085011.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/85_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/085011.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/85_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/085011.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/85_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/085011.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/85_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/085011.mp3"
+        }
+    },
+    "english": "Surely those who believe and do good will have Gardens under which rivers flow. That is the greatest triumph.",
+    "arabic1": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ لَهُمْ جَنَّـٰتٌ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ ۚ ذَٰلِكَ ٱلْفَوْزُ ٱلْكَبِيرُ",
+    "arabic2": "ان الذين امنوا وعملوا الصالحات لهم جنات تجري من تحتها الانهار ذلك الفوز الكبير",
+    "bengali": "নিশ্চয় যারা ঈমান আনে এবং সৎকর্ম করে তাদের জন্য রয়েছে জান্নাত। যার তলদেশে প্রবাহিত হবে নহরসমূহ। এটাই বিরাট সফলতা।",
+    "urdu": "(اور) جو لوگ ایمان لائے اور نیک کام کرتے رہے ان کے لیے باغات ہیں جن کے نیچے نہریں بہہ رہی ہیں۔ یہ ہی بڑی کامیابی ہے"
+}

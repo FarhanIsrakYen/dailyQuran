@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 201,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/7_201.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/007201.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/7_201.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/007201.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/7_201.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/007201.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/7_201.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/007201.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/7_201.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/007201.mp3"
+        }
+    },
+    "english": "Indeed, when Satan whispers to those mindful ˹of Allah˺, they remember ˹their Lord˺ then they start to see ˹things˺ clearly.",
+    "arabic1": "إِنَّ ٱلَّذِينَ ٱتَّقَوْا۟ إِذَا مَسَّهُمْ طَـٰٓئِفٌ مِّنَ ٱلشَّيْطَـٰنِ تَذَكَّرُوا۟ فَإِذَا هُم مُّبْصِرُونَ",
+    "arabic2": "ان الذين اتقوا اذا مسهم طائف من الشيطان تذكروا فاذا هم مبصرون",
+    "bengali": "নিশ্চয় যারা তাকওয়া অবলম্বন করেছে যখন তাদেরকে শয়তানের পক্ষ থেকে কোন কুমন্ত্রণা স্পর্শ করে তখন তারা আল্লাহকে স্মরণ করে। তখনই তাদের দৃষ্টি খুলে যায়।",
+    "urdu": "جو لوگ پرہیزگار ہیں جب ان کو شیطان کی طرف سے کوئی وسوسہ پیدا ہوتا ہے تو چونک پڑتے ہیں اور (دل کی آنکھیں کھول کر) دیکھنے لگتے ہیں"
+}

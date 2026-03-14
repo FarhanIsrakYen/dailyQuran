@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Anbiyaa",
+    "surahNameArabic": "الأنبياء",
+    "surahNameArabicLong": "سورة الأنبياء",
+    "surahNameTranslation": "The Prophets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 112,
+    "surahNo": 21,
+    "ayahNo": 5,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/21_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/021005.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/21_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/021005.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/21_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/021005.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/21_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/021005.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/21_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/021005.mp3"
+        }
+    },
+    "english": "Yet they say, “This ˹Quran˺ is a set of confused dreams! No, he has fabricated it! No, he must be a poet! So let him bring us a ˹tangible˺ sign like those ˹prophets˺ sent before.”",
+    "arabic1": "بَلْ قَالُوٓا۟ أَضْغَـٰثُ أَحْلَـٰمٍۭ بَلِ ٱفْتَرَىٰهُ بَلْ هُوَ شَاعِرٌ فَلْيَأْتِنَا بِـَٔايَةٍ كَمَآ أُرْسِلَ ٱلْأَوَّلُونَ",
+    "arabic2": "بل قالوا اضغاث احلام بل افتراه بل هو شاعر فلياتنا باية كما ارسل الاولون",
+    "bengali": "বরং তারা বলে, ‘এগুলো অলীক কল্পনা, হয় সে এটি মন থেকে বানিয়েছে নয়তো সে একজন কবি। অতএব সে আমাদের কাছে এমন নিদর্শন নিয়ে আসুক যেরূপ নিদর্শনসহ প্রেরিত হয়েছিল পূর্ববর্তীগণ’।",
+    "urdu": "بلکہ (ظالم) کہنے لگے کہ (یہ قرآن) پریشان (باتیں ہیں جو) خواب (میں دیکھ لی) ہیں۔ (نہیں) بلکہ اس نے اس کو اپنی طرف سے بنا لیا ہے (نہیں) بلکہ (یہ شعر ہے جو اس) شاعر (کا نتیجہٴ طبع) ہے۔ تو جیسے پہلے (پیغمبر نشانیاں دے کر) بھیجے گئے تھے (اسی طرح) یہ بھی ہمارے پاس کوئی نشانی لائے"
+}

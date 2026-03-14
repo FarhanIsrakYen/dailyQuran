@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Hashr",
+    "surahNameArabic": "الحشر",
+    "surahNameArabicLong": "سورة الحشر",
+    "surahNameTranslation": "The Exile",
+    "revelationPlace": "Madina",
+    "totalAyah": 24,
+    "surahNo": 59,
+    "ayahNo": 21,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/59_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/059021.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/59_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/059021.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/59_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/059021.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/59_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/059021.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/59_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/059021.mp3"
+        }
+    },
+    "english": "Had We sent down this Quran upon a mountain, you would have certainly seen it humbled and torn apart in awe of Allah. We set forth such comparisons for people, ˹so˺ perhaps they may reflect.",
+    "arabic1": "لَوْ أَنزَلْنَا هَـٰذَا ٱلْقُرْءَانَ عَلَىٰ جَبَلٍ لَّرَأَيْتَهُۥ خَـٰشِعًا مُّتَصَدِّعًا مِّنْ خَشْيَةِ ٱللَّهِ ۚ وَتِلْكَ ٱلْأَمْثَـٰلُ نَضْرِبُهَا لِلنَّاسِ لَعَلَّهُمْ يَتَفَكَّرُونَ",
+    "arabic2": "لو انزلنا هذا القران على جبل لرايته خاشعا متصدعا من خشية الله وتلك الامثال نضربها للناس لعلهم يتفكرون",
+    "bengali": "এ কুরআনকে যদি আমি পাহাড়ের ওপর নাযিল করতাম তবে তুমি অবশ্যই তাকে দেখতে, আল্লাহর ভয়ে বিনীত ও বিদীর্ণ। মানুষের জন্য আমি এ উদাহরণগুলি পেশ করি; হয়ত তারা চিন্তাভাবনা করবে।",
+    "urdu": "اگر ہم یہ قرآن کسی پہاڑ پر نازل کرتے تو تم اس کو دیکھتے کہ خدا کے خوف سے دبا اور پھٹا جاتا ہے۔ اور یہ باتیں ہم لوگوں کے لئے بیان کرتے ہیں تاکہ وہ فکر کریں"
+}

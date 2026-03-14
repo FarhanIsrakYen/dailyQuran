@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 153,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/6_153.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/006153.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/6_153.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/006153.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/6_153.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/006153.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/6_153.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/006153.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/6_153.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/006153.mp3"
+        }
+    },
+    "english": "Indeed, that is My Path—perfectly straight. So follow it and do not follow other ways, for they will lead you away from His Way. This is what He has commanded you, so perhaps you will be conscious ˹of Allah˺.”",
+    "arabic1": "وَأَنَّ هَـٰذَا صِرَٰطِى مُسْتَقِيمًا فَٱتَّبِعُوهُ ۖ وَلَا تَتَّبِعُوا۟ ٱلسُّبُلَ فَتَفَرَّقَ بِكُمْ عَن سَبِيلِهِۦ ۚ ذَٰلِكُمْ وَصَّىٰكُم بِهِۦ لَعَلَّكُمْ تَتَّقُونَ",
+    "arabic2": "وان هذا صراطي مستقيما فاتبعوه ولا تتبعوا السبل فتفرق بكم عن سبيله ذلكم وصاكم به لعلكم تتقون",
+    "bengali": "আর এটি তো আমার সোজা পথ। সুতরাং তোমরা তার অনুসরণ কর এবং অন্যান্য পথ অনুসরণ করো না, তাহলে তা তোমাদেরকে তাঁর পথ থেকে বিচ্ছিন্ন করে দেবে। এগুলো তিনি তোমাদেরকে নির্দেশ দিয়েছেন, যাতে তোমরা তাকওয়া অবলম্বন কর।",
+    "urdu": "اور یہ کہ میرا سیدھا رستہ یہی ہے تو تم اسی پر چلنا اور اور رستوں پر نہ چلنا کہ (ان پر چل کر) خدا کے رستے سے الگ ہو جاؤ گے ان باتوں کا خدا تمہیں حکم دیتا ہے تاکہ تم پرہیزگار بنو"
+}

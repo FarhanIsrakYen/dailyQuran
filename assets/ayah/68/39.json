@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Qalam",
+    "surahNameArabic": "القلم",
+    "surahNameArabicLong": "سورة القلم",
+    "surahNameTranslation": "The Pen",
+    "revelationPlace": "Mecca",
+    "totalAyah": 52,
+    "surahNo": 68,
+    "ayahNo": 39,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/68_39.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/068039.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/68_39.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/068039.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/68_39.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/068039.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/68_39.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/068039.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/68_39.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/068039.mp3"
+        }
+    },
+    "english": "Or do you have oaths binding on Us until the Day of Judgment that you will have whatever you decide?",
+    "arabic1": "أَمْ لَكُمْ أَيْمَـٰنٌ عَلَيْنَا بَـٰلِغَةٌ إِلَىٰ يَوْمِ ٱلْقِيَـٰمَةِ ۙ إِنَّ لَكُمْ لَمَا تَحْكُمُونَ",
+    "arabic2": "ام لكم ايمان علينا بالغة الى يوم القيامة ان لكم لما تحكمون",
+    "bengali": "অথবা তোমাদের জন্য কি আমার উপর কিয়ামত পর্যন্ত বলবৎ কোন অঙ্গীকার রয়েছে যে, অবশ্যই তোমাদের জন্য থাকবে তোমরা যা ফয়সালা করবে?",
+    "urdu": "یا تم نے ہم سے قسمیں لے رکھی ہیں جو قیامت کے دن تک چلی جائیں گی کہ جس شے کا تم حکم کرو گے وہ تمہارے لئے حاضر ہوگی"
+}

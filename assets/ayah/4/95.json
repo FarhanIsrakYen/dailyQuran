@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 95,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/4_95.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/004095.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/4_95.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/004095.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/4_95.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/004095.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/4_95.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/004095.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/4_95.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/004095.mp3"
+        }
+    },
+    "english": "Those who stay at home—except those with valid excuses—are not equal to those who strive in the cause of Allah with their wealth and their lives. Allah has elevated in rank those who strive with their wealth and their lives above those who stay behind ˹with valid excuses˺. Allah has promised each a fine reward, but those who strive will receive a far better reward than others—",
+    "arabic1": "لَّا يَسْتَوِى ٱلْقَـٰعِدُونَ مِنَ ٱلْمُؤْمِنِينَ غَيْرُ أُو۟لِى ٱلضَّرَرِ وَٱلْمُجَـٰهِدُونَ فِى سَبِيلِ ٱللَّهِ بِأَمْوَٰلِهِمْ وَأَنفُسِهِمْ ۚ فَضَّلَ ٱللَّهُ ٱلْمُجَـٰهِدِينَ بِأَمْوَٰلِهِمْ وَأَنفُسِهِمْ عَلَى ٱلْقَـٰعِدِينَ دَرَجَةً ۚ وَكُلًّا وَعَدَ ٱللَّهُ ٱلْحُسْنَىٰ ۚ وَفَضَّلَ ٱللَّهُ ٱلْمُجَـٰهِدِينَ عَلَى ٱلْقَـٰعِدِينَ أَجْرًا عَظِيمًا",
+    "arabic2": "لا يستوي القاعدون من المؤمنين غير اولي الضرر والمجاهدون في سبيل الله باموالهم وانفسهم فضل الله المجاهدين باموالهم وانفسهم على القاعدين درجة وكلا وعد الله الحسنى وفضل الله المجاهدين على القاعدين اجرا عظيما",
+    "bengali": "বসে থাকা মুমিনগণ, যারা ওযরগ্রস্ত নয় এবং নিজদের জান ও মাল দ্বারা আল্লাহর রাস্তায় জিহাদকারীগণ এক সমান নয়। নিজদের জান ও মাল দ্বারা জিহাদকারীদের মর্যাদা আল্লাহ বসে থাকাদের উপর অনেক বাড়িয়ে দিয়েছেন। আর আল্লাহ প্রত্যেককেই কল্যাণের প্রতিশ্রুতি দিয়েছেন এবং আল্লাহ জিহাদকারীদেরকে বসে থাকাদের উপর মহা পুরস্কার দ্বারা শ্রেষ্ঠত্ব দান করেছেন।",
+    "urdu": "جو مسلمان (گھروں میں) بیٹھ رہتے (اور لڑنے سے جی چراتے) ہیں اور کوئی عذر نہیں رکھتے وہ اور جو خدا کی راہ میں اپنے مال اور جان سے لڑتے ہیں وہ دونوں برابر نہیں ہو سکتے خدا نے مال اور جان سے جہاد کرنے والوں کو بیٹھ رہنے والوں پر درجے میں فضیلت بخشی ہے اور (گو) نیک وعدہ سب سے ہے لیکن اجر عظیم کے لحاظ سے خدا نے جہاد کرنے والوں کو بیٹھ رہنے والوں پر کہیں فضیلت بخشی ہے"
+}

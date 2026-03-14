@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 206,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_206.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002206.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_206.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002206.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_206.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002206.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_206.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002206.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_206.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002206.mp3"
+        }
+    },
+    "english": "When it is said to them, “Fear Allah,” pride carries them off to sin. Hell will be their proper place. What an evil place to rest!",
+    "arabic1": "وَإِذَا قِيلَ لَهُ ٱتَّقِ ٱللَّهَ أَخَذَتْهُ ٱلْعِزَّةُ بِٱلْإِثْمِ ۚ فَحَسْبُهُۥ جَهَنَّمُ ۚ وَلَبِئْسَ ٱلْمِهَادُ",
+    "arabic2": "واذا قيل له اتق الله اخذته العزة بالاثم فحسبه جهنم ولبئس المهاد",
+    "bengali": "আর যখন তাকে বলা হয়, ‘আল্লাহকে ভয় কর’ তখন আত্মাভিমান তাকে পাপ করতে উৎসাহ দেয়। সুতরাং জাহান্নাম তার জন্য যথেষ্ট এবং তা কতই না মন্দ ঠিকানা।",
+    "urdu": "اور جب اس سے کہا جاتا ہے کہ خدا سے خوف کر تو غرور اس کو گناہ میں پھنسا دیتا ہے۔ سو ایسے کو جہنم سزاوار ہے۔ اور وہ بہت برا ٹھکانہ ہے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Maaida",
+    "surahNameArabic": "المائدة",
+    "surahNameArabicLong": "سورة المائدة",
+    "surahNameTranslation": "The Table",
+    "revelationPlace": "Madina",
+    "totalAyah": 120,
+    "surahNo": 5,
+    "ayahNo": 42,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/5_42.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/005042.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/5_42.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/005042.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/5_42.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/005042.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/5_42.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/005042.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/5_42.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/005042.mp3"
+        }
+    },
+    "english": "They eagerly listen to falsehood and consume forbidden gain. So if they come to you ˹O Prophet˺, either judge between them or turn away from them. If you turn away from them, they cannot harm you whatsoever. But if you judge between them, then do so with justice. Surely Allah loves those who are just.",
+    "arabic1": "سَمَّـٰعُونَ لِلْكَذِبِ أَكَّـٰلُونَ لِلسُّحْتِ ۚ فَإِن جَآءُوكَ فَٱحْكُم بَيْنَهُمْ أَوْ أَعْرِضْ عَنْهُمْ ۖ وَإِن تُعْرِضْ عَنْهُمْ فَلَن يَضُرُّوكَ شَيْـًٔا ۖ وَإِنْ حَكَمْتَ فَٱحْكُم بَيْنَهُم بِٱلْقِسْطِ ۚ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُقْسِطِينَ",
+    "arabic2": "سماعون للكذب اكالون للسحت فان جاءوك فاحكم بينهم او اعرض عنهم وان تعرض عنهم فلن يضروك شيئا وان حكمت فاحكم بينهم بالقسط ان الله يحب المقسطين",
+    "bengali": "তারা মিথ্যার প্রতি অধিক শ্রবণকারী, হারামের অধিক ভক্ষণকারী। সুতরাং যদি তারা তোমার কাছে আসে, তবে তাদের মধ্যে ফয়সালা কর অথবা তাদেরকে উপেক্ষা কর আর যদি তাদেরকে উপেক্ষা কর, তবে তারা তোমার কিছু ক্ষতি করতে পারবে না, আর যদি তুমি ফয়সালা কর, তবে তাদের মধ্যে ফয়সালা কর ন্যয়ভিত্তিক। নিশ্চয় আল্লাহ ন্যয়পরায়ণদেরকে ভালবাসেন।",
+    "urdu": "(یہ) جھوٹی باتیں بنانے کے جاسوسی کرنے والے اور (رشوت کا) حرام مال کھانے والے ہیں اگر یہ تمہارے پاس (کوئی مقدمہ فیصل کرانے کو) آئیں تو تم ان میں فیصلہ کر دینا یا اعراض کرنا اور اگر ان سے اعراض کرو گے تو وہ تمہارا کچھ بھی نہیں بگاڑ سکیں گے اور اگر فیصلہ کرنا چاہو تو انصاف کا فیصلہ کرنا کہ خدا انصاف کرنے والوں کو دوست رکھتا ہے"
+}

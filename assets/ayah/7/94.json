@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 94,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/7_94.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/007094.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/7_94.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/007094.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/7_94.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/007094.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/7_94.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/007094.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/7_94.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/007094.mp3"
+        }
+    },
+    "english": "Whenever We sent a prophet to a society, We afflicted its ˹disbelieving˺ people with suffering and adversity, so perhaps they would be humbled.",
+    "arabic1": "وَمَآ أَرْسَلْنَا فِى قَرْيَةٍ مِّن نَّبِىٍّ إِلَّآ أَخَذْنَآ أَهْلَهَا بِٱلْبَأْسَآءِ وَٱلضَّرَّآءِ لَعَلَّهُمْ يَضَّرَّعُونَ",
+    "arabic2": "وما ارسلنا في قرية من نبي الا اخذنا اهلها بالباساء والضراء لعلهم يضرعون",
+    "bengali": "যে জনপদেই আমি নবী প্রেরণ করেছি, তার অধিবাসীকে আমি অর্থ-সংকট ও দুঃখ-কষ্ট দ্বারা পাকড়াও করেছি, যেন তারা অনুনয় বিনয় করে।",
+    "urdu": "اور ہم نے کسی شہر میں کوئی پیغمبر نہیں بھیجا مگر وہاں کے رہنے والوں کو (جو ایمان نہ لائے) دکھوں اور مصیبتوں میں مبتلا کیا تاکہ وہ عاجزی اور زاری کریں"
+}

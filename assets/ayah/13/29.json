@@ -1,0 +1,42 @@
+{
+    "surahName": "Ar-Ra'd",
+    "surahNameArabic": "الرعد",
+    "surahNameArabicLong": "سورة الرعد",
+    "surahNameTranslation": "The Thunder",
+    "revelationPlace": "Madina",
+    "totalAyah": 43,
+    "surahNo": 13,
+    "ayahNo": 29,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/13_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/013029.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/13_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/013029.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/13_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/013029.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/13_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/013029.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/13_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/013029.mp3"
+        }
+    },
+    "english": "Those who believe and do good, for them will be bliss and an honourable destination.”",
+    "arabic1": "ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ طُوبَىٰ لَهُمْ وَحُسْنُ مَـَٔابٍ",
+    "arabic2": "الذين امنوا وعملوا الصالحات طوبى لهم وحسن ماب",
+    "bengali": "‘যারা ঈমান আনে এবং নেক আমল করে, তাদের জন্য রয়েছে স্বাচ্ছন্দ ও সুন্দর প্রত্যাবর্তনস্থল’।",
+    "urdu": "جو لوگ ایمان لائے اور عمل نیک کئے ان کے لیے خوشحالی اور عمدہ ٹھکانہ ہے"
+}

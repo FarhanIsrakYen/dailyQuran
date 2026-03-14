@@ -1,0 +1,42 @@
+{
+    "surahName": "Taa-Haa",
+    "surahNameArabic": "طه",
+    "surahNameArabicLong": "سورة طه",
+    "surahNameTranslation": "Taa-Haa",
+    "revelationPlace": "Mecca",
+    "totalAyah": 135,
+    "surahNo": 20,
+    "ayahNo": 58,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/20_58.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/020058.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/20_58.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/020058.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/20_58.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/020058.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/20_58.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/020058.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/20_58.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/020058.mp3"
+        }
+    },
+    "english": "We can surely meet you with similar magic. So set for us an appointment that neither of us will fail to keep, in a central place.”",
+    "arabic1": "فَلَنَأْتِيَنَّكَ بِسِحْرٍ مِّثْلِهِۦ فَٱجْعَلْ بَيْنَنَا وَبَيْنَكَ مَوْعِدًا لَّا نُخْلِفُهُۥ نَحْنُ وَلَآ أَنتَ مَكَانًا سُوًى",
+    "arabic2": "فلناتينك بسحر مثله فاجعل بيننا وبينك موعدا لا نخلفه نحن ولا انت مكانا سوى",
+    "bengali": "‘তাহলে আমরা অবশ্যই তোমার নিকট অনুরূপ যাদু নিয়ে আসব। সুতরাং একটা মধ্যবর্তী স্থানে আমাদের ও তোমার মিলিত হওয়ার জন্য একটি সময় নির্ধারণ কর, যা আমরাও লঙ্ঘন করব না, তুমিও করবে না’।",
+    "urdu": "تو ہم بھی تمہارے مقابل ایسا ہی جادو لائیں گے تو ہمارے اور اپنے درمیان ایک وقت مقرر کر لو کہ نہ تو ہم اس کے خلاف کریں اور نہ تم (اور یہ مقابلہ) ایک ہموار میدان میں (ہوگا)"
+}

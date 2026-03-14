@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Anbiyaa",
+    "surahNameArabic": "الأنبياء",
+    "surahNameArabicLong": "سورة الأنبياء",
+    "surahNameTranslation": "The Prophets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 112,
+    "surahNo": 21,
+    "ayahNo": 56,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/21_56.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/021056.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/21_56.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/021056.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/21_56.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/021056.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/21_56.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/021056.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/21_56.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/021056.mp3"
+        }
+    },
+    "english": "He replied, “In fact, your Lord is the Lord of the heavens and the earth, Who created them ˹both˺. And to that I bear witness.”",
+    "arabic1": "قَالَ بَل رَّبُّكُمْ رَبُّ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ٱلَّذِى فَطَرَهُنَّ وَأَنَا۠ عَلَىٰ ذَٰلِكُم مِّنَ ٱلشَّـٰهِدِينَ",
+    "arabic2": "قال بل ربكم رب السماوات والارض الذي فطرهن وانا على ذلكم من الشاهدين",
+    "bengali": "সে বলল, ‘না, বরং তোমাদের রব তো আসমানসমূহ ও যমীনের রব; যিনি এ সবকিছু সৃষ্টি করেছেন। আর এ বিষয়ে আমি অন্যতম সাক্ষী’।",
+    "urdu": "(ابراہیم نے) کہا (نہیں) بلکہ تمہارا پروردگار آسمانوں اور زمین کا پروردگار ہے جس نے ان کو پیدا کیا ہے۔ اور میں اس (بات) کا گواہ (اور اسی کا قائل) ہوں"
+}

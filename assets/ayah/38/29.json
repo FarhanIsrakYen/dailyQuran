@@ -1,0 +1,42 @@
+{
+    "surahName": "Saad",
+    "surahNameArabic": "ص",
+    "surahNameArabicLong": "سورة ص",
+    "surahNameTranslation": "The letter Saad",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 38,
+    "ayahNo": 29,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/38_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/038029.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/38_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/038029.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/38_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/038029.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/38_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/038029.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/38_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/038029.mp3"
+        }
+    },
+    "english": "˹This is˺ a blessed Book which We have revealed to you ˹O Prophet˺ so that they may contemplate its verses, and people of reason may be mindful.",
+    "arabic1": "كِتَـٰبٌ أَنزَلْنَـٰهُ إِلَيْكَ مُبَـٰرَكٌ لِّيَدَّبَّرُوٓا۟ ءَايَـٰتِهِۦ وَلِيَتَذَكَّرَ أُو۟لُوا۟ ٱلْأَلْبَـٰبِ",
+    "arabic2": "كتاب انزلناه اليك مبارك ليدبروا اياته وليتذكر اولو الالباب",
+    "bengali": "আমি তোমার প্রতি নাযিল করেছি এক বরকতময় কিতাব, যাতে তারা এর আয়াতসমূহ নিয়ে গভীরভাবে চিন্তা করে এবং যাতে বুদ্ধিমানগণ উপদেশ গ্রহণ করে।",
+    "urdu": "(یہ) کتاب جو ہم نے تم پر نازل کی ہے بابرکت ہے تاکہ لوگ اس کی آیتوں میں غور کریں اور تاکہ اہل عقل نصیحت پکڑیں"
+}

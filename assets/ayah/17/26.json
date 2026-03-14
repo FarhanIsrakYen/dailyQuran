@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 26,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/17_26.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/017026.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/17_26.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/017026.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/17_26.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/017026.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/17_26.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/017026.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/17_26.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/017026.mp3"
+        }
+    },
+    "english": "Give to close relatives their due, as well as the poor and ˹needy˺ travellers. And do not spend wastefully.",
+    "arabic1": "وَءَاتِ ذَا ٱلْقُرْبَىٰ حَقَّهُۥ وَٱلْمِسْكِينَ وَٱبْنَ ٱلسَّبِيلِ وَلَا تُبَذِّرْ تَبْذِيرًا",
+    "arabic2": "وات ذا القربى حقه والمسكين وابن السبيل ولا تبذر تبذيرا",
+    "bengali": "আর আত্মীয়কে তার হক দিয়ে দাও এবং মিসকীন ও মুসাফিরকেও। আর কোনভাবেই অপব্যয় করো না।",
+    "urdu": "اور رشتہ داروں اور محتاجوں اور مسافروں کو ان کا حق ادا کرو۔ اور فضول خرچی سے مال نہ اُڑاؤ"
+}

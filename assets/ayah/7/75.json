@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 75,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/7_75.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/007075.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/7_75.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/007075.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/7_75.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/007075.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/7_75.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/007075.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/7_75.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/007075.mp3"
+        }
+    },
+    "english": "The arrogant chiefs of his people asked the lowly who believed among them, “Are you certain that Ṣâliḥ has been sent by his Lord?” They replied, “We certainly believe in what he has been sent with.”",
+    "arabic1": "قَالَ ٱلْمَلَأُ ٱلَّذِينَ ٱسْتَكْبَرُوا۟ مِن قَوْمِهِۦ لِلَّذِينَ ٱسْتُضْعِفُوا۟ لِمَنْ ءَامَنَ مِنْهُمْ أَتَعْلَمُونَ أَنَّ صَـٰلِحًا مُّرْسَلٌ مِّن رَّبِّهِۦ ۚ قَالُوٓا۟ إِنَّا بِمَآ أُرْسِلَ بِهِۦ مُؤْمِنُونَ",
+    "arabic2": "قال الملا الذين استكبروا من قومه للذين استضعفوا لمن امن منهم اتعلمون ان صالحا مرسل من ربه قالوا انا بما ارسل به مؤمنون",
+    "bengali": "তার কওমের অহঙ্কারী নেতৃবৃন্দ তাদের সেই মুমিনদেরকে বলল যাদেরকে দুর্বল মনে করা হত, ‘তোমরা কি জান যে, সালিহ তার রবের পক্ষ থেকে প্রেরিত’? তারা বলল, ‘নিশ্চয় সে যা নিয়ে প্রেরিত হয়েছে, আমরা তাতে বিশ্বাসী’।",
+    "urdu": "تو ان کی قوم میں سردار لوگ جو غرور رکھتے تھے غریب لوگوں سے جو ان میں سے ایمان لے آئے تھے کہنے لگے بھلا تم یقین کرتے ہو کہ صالح اپنے پروردگار کی طرف بھیجے گئے ہیں؟ انہوں نے کہا ہاں جو چیز دے کر وہ بھیجے گئے ہیں ہم اس پر بلاشبہ ایمان رکھتے ہیں"
+}

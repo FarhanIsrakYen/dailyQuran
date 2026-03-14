@@ -1,0 +1,42 @@
+{
+    "surahName": "Ghafir",
+    "surahNameArabic": "غافر",
+    "surahNameArabicLong": "سورة غافر",
+    "surahNameTranslation": "The Forgiver",
+    "revelationPlace": "Mecca",
+    "totalAyah": 85,
+    "surahNo": 40,
+    "ayahNo": 80,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/40_80.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/040080.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/40_80.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/040080.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/40_80.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/040080.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/40_80.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/040080.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/40_80.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/040080.mp3"
+        }
+    },
+    "english": "Also, you find in them ˹other˺ benefits. And by means of them you may reach destinations you desire. And you are carried upon ˹some of˺ them and upon ships.",
+    "arabic1": "وَلَكُمْ فِيهَا مَنَـٰفِعُ وَلِتَبْلُغُوا۟ عَلَيْهَا حَاجَةً فِى صُدُورِكُمْ وَعَلَيْهَا وَعَلَى ٱلْفُلْكِ تُحْمَلُونَ",
+    "arabic2": "ولكم فيها منافع ولتبلغوا عليها حاجة في صدوركم وعليها وعلى الفلك تحملون",
+    "bengali": "আর এতে তোমাদের জন্য রয়েছে অনেক উপকার এবং যাতে তোমরা নিজদের অন্তরে যে প্রয়োজন অনুভব কর, ওগুলো দ্বারা তা পূর্ণ করতে পার। ওগুলোর উপর আর নৌযানের উপর তোমাদেরকে বহন করা হয়।",
+    "urdu": "اور تمہارے لئے ان میں (اور بھی) فائدے ہیں اور اس لئے بھی کہ (کہیں جانے کی) تمہارے دلوں میں جو حاجت ہو ان پر (چڑھ کر وہاں) پہنچ جاؤ۔ اور ان پر اور کشتیوں پر تم سوار ہوتے ہو"
+}

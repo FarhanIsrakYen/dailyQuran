@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nahl",
+    "surahNameArabic": "النحل",
+    "surahNameArabicLong": "سورة النحل",
+    "surahNameTranslation": "The Bee",
+    "revelationPlace": "Mecca",
+    "totalAyah": 128,
+    "surahNo": 16,
+    "ayahNo": 118,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/16_118.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/016118.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/16_118.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/016118.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/16_118.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/016118.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/16_118.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/016118.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/16_118.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/016118.mp3"
+        }
+    },
+    "english": "To the Jews, We have forbidden what We related to you before. We did not wrong them, but it was they who wronged themselves.",
+    "arabic1": "وَعَلَى ٱلَّذِينَ هَادُوا۟ حَرَّمْنَا مَا قَصَصْنَا عَلَيْكَ مِن قَبْلُ ۖ وَمَا ظَلَمْنَـٰهُمْ وَلَـٰكِن كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ",
+    "arabic2": "وعلى الذين هادوا حرمنا ما قصصنا عليك من قبل وما ظلمناهم ولكن كانوا انفسهم يظلمون",
+    "bengali": "আর যারা ইহূদী হয়েছে, তাদের উপরও আমি তাই হারাম করেছি, যা আমি তোমার কাছে ইতঃপূর্বে বর্ণনা করেছি এবং আমি তাদের উপর যুলম করিনি; বরং তারাই তাদের নিজদের উপর যুলম করত।",
+    "urdu": "اور چیزیں ہم تم سے پہلے بیان کرچکے ہیں وہ ہم نے یہودیوں پر حرام کردی تھیں۔ اور ہم نے ان پر کچھ ظلم نہیں کیا بلکہ وہی اپنے آپ پر ظلم کرتے تھے"
+}

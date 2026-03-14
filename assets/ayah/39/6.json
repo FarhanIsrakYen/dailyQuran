@@ -1,0 +1,42 @@
+{
+    "surahName": "Az-Zumar",
+    "surahNameArabic": "الزمر",
+    "surahNameArabicLong": "سورة الزمر",
+    "surahNameTranslation": "The Groups",
+    "revelationPlace": "Mecca",
+    "totalAyah": 75,
+    "surahNo": 39,
+    "ayahNo": 6,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/39_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/039006.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/39_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/039006.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/39_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/039006.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/39_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/039006.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/39_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/039006.mp3"
+        }
+    },
+    "english": "He created you ˹all˺ from a single soul, then from it He made its mate. And He produced for you four pairs of cattle. He creates you in the wombs of your mothers ˹in stages˺, one development after another, in three layers of darkness. That is Allah—your Lord! All authority belongs to Him. There is no god ˹worthy of worship˺ except Him. How can you then be turned away?",
+    "arabic1": "خَلَقَكُم مِّن نَّفْسٍ وَٰحِدَةٍ ثُمَّ جَعَلَ مِنْهَا زَوْجَهَا وَأَنزَلَ لَكُم مِّنَ ٱلْأَنْعَـٰمِ ثَمَـٰنِيَةَ أَزْوَٰجٍ ۚ يَخْلُقُكُمْ فِى بُطُونِ أُمَّهَـٰتِكُمْ خَلْقًا مِّنۢ بَعْدِ خَلْقٍ فِى ظُلُمَـٰتٍ ثَلَـٰثٍ ۚ ذَٰلِكُمُ ٱللَّهُ رَبُّكُمْ لَهُ ٱلْمُلْكُ ۖ لَآ إِلَـٰهَ إِلَّا هُوَ ۖ فَأَنَّىٰ تُصْرَفُونَ",
+    "arabic2": "خلقكم من نفس واحدة ثم جعل منها زوجها وانزل لكم من الانعام ثمانية ازواج يخلقكم في بطون امهاتكم خلقا من بعد خلق في ظلمات ثلاث ذلكم الله ربكم له الملك لا اله الا هو فانى تصرفون",
+    "bengali": "তিনি তোমাদেরকে সৃষ্টি করেছেন এক নাফ্স থেকে, তারপর তা থেকে তার জোড়া সৃষ্টি করেছেন এবং চতুষ্পদ জন্তু থেকে তোমাদের জন্য দিয়েছেন আট জোড়া*; তিনি তোমাদেরকে সৃষ্টি করেন তোমাদের মাতৃগর্ভে; এক সৃষ্টির পর আরেক সৃষ্টি, ত্রিবিধ অন্ধকারে**; তিনিই আল্লাহ; তোমাদের রব; রাজত্ব তাঁরই; তিনি ছাড়া কোন (সত্য) ইলাহ নেই। তারপরও তোমাদেরকে কোথায় ফিরানো হচ্ছে?*** \n* আট জোড়া চতুষ্পদ জন্তু: মেষের দু’টি ও ছাগলের দু’টি, উটের দু’টি ও গরুর দু’টি।",
+    "urdu": "اسی نے تم کو ایک شخص سے پیدا کیا پھر اس سے اس کا جوڑا بنایا اور اسی نے تمہارے لئے چار پایوں میں سے آٹھ جوڑے بنائے۔ وہی تم کو تمہاری ماؤں کے پیٹ میں (پہلے) ایک طرح پھر دوسری طرح تین اندھیروں میں بناتا ہے۔ یہی خدا تمہارا پروردگار ہے اسی کی بادشاہی ہے۔ اس کے سوا کوئی معبود نہیں پھر تم کہاں پھرے جاتے ہو؟"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Saad",
+    "surahNameArabic": "ص",
+    "surahNameArabicLong": "سورة ص",
+    "surahNameTranslation": "The letter Saad",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 38,
+    "ayahNo": 46,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/38_46.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/038046.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/38_46.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/038046.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/38_46.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/038046.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/38_46.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/038046.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/38_46.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/038046.mp3"
+        }
+    },
+    "english": "We truly chose them for the honour of proclaiming the Hereafter.",
+    "arabic1": "إِنَّآ أَخْلَصْنَـٰهُم بِخَالِصَةٍ ذِكْرَى ٱلدَّارِ",
+    "arabic2": "انا اخلصناهم بخالصة ذكرى الدار",
+    "bengali": "নিশ্চয় আমি তাদেরকে বিশেষ করে পরকালের স্মরণের জন্য নির্বাচিত করেছিলাম।",
+    "urdu": "ہم نے ان کو ایک (صفت) خاص (آخرت کے) گھر کی یاد سے ممتاز کیا تھا"
+}

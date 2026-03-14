@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 131,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/4_131.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/004131.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/4_131.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/004131.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/4_131.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/004131.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/4_131.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/004131.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/4_131.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/004131.mp3"
+        }
+    },
+    "english": "To Allah ˹alone˺ belongs whatever is in the heavens and whatever is on the earth. Indeed, We have commanded those given the Scripture before you, as well as you, to be mindful of Allah. But if you disobey, then ˹know that˺ to Allah belongs whatever is in the heavens and the earth. And Allah is Self-Sufficient, Praiseworthy.",
+    "arabic1": "وَلِلَّهِ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۗ وَلَقَدْ وَصَّيْنَا ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ مِن قَبْلِكُمْ وَإِيَّاكُمْ أَنِ ٱتَّقُوا۟ ٱللَّهَ ۚ وَإِن تَكْفُرُوا۟ فَإِنَّ لِلَّهِ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۚ وَكَانَ ٱللَّهُ غَنِيًّا حَمِيدًا",
+    "arabic2": "ولله ما في السماوات وما في الارض ولقد وصينا الذين اوتوا الكتاب من قبلكم واياكم ان اتقوا الله وان تكفروا فان لله ما في السماوات وما في الارض وكان الله غنيا حميدا",
+    "bengali": "আল্লাহর জন্যই রয়েছে আসমানসমূহে যা আছে এবং যা আছে যমীনে। আর তোমাদের পূর্বে যাদেরকে কিতাব দেয়া হয়েছে তাদেরকে এবং তোমাদেরকে আমি নির্দেশ দিয়েছি যে, তোমরা আল্লাহকে ভয় কর। আর যদি কুফরী কর তাহলে আসমানসমূহে যা আছে এবং যা আছে যমীনে সব আল্লাহরই। আর আল্লাহ অভাবহীন, প্রশংসিত।",
+    "urdu": "اور جو کچھ آسمانوں اور جو کچھ زمین میں ہے سب خدا ہی کا ہے۔ اور جن لوگوں کو تم سے پہلے کتاب دی گئی تھی ان کو بھی اور (اے محمدﷺ) تم کو بھی ہم نے حکم تاکیدی کیا ہے کہ خدا سے ڈرتے رہو اور اگر کفر کرو گے تو (سمجھ رکھو کہ) جو کچھ آسمانوں میں اور جو کچھ زمین میں ہے سب خدا ہی کا ہے۔ اور خدا بے پروا اور سزاوار حمدوثنا ہے"
+}

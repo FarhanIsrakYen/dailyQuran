@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Maaida",
+    "surahNameArabic": "المائدة",
+    "surahNameArabicLong": "سورة المائدة",
+    "surahNameTranslation": "The Table",
+    "revelationPlace": "Madina",
+    "totalAyah": 120,
+    "surahNo": 5,
+    "ayahNo": 75,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/5_75.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/005075.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/5_75.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/005075.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/5_75.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/005075.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/5_75.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/005075.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/5_75.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/005075.mp3"
+        }
+    },
+    "english": "The Messiah, son of Mary, was no more than a messenger. ˹Many˺ messengers had ˹come and˺ gone before him. His mother was a woman of truth. They both ate food. See how We make the signs clear to them, yet see how they are deluded ˹from the truth˺!",
+    "arabic1": "مَّا ٱلْمَسِيحُ ٱبْنُ مَرْيَمَ إِلَّا رَسُولٌ قَدْ خَلَتْ مِن قَبْلِهِ ٱلرُّسُلُ وَأُمُّهُۥ صِدِّيقَةٌ ۖ كَانَا يَأْكُلَانِ ٱلطَّعَامَ ۗ ٱنظُرْ كَيْفَ نُبَيِّنُ لَهُمُ ٱلْـَٔايَـٰتِ ثُمَّ ٱنظُرْ أَنَّىٰ يُؤْفَكُونَ",
+    "arabic2": "ما المسيح ابن مريم الا رسول قد خلت من قبله الرسل وامه صديقة كانا ياكلان الطعام انظر كيف نبين لهم الايات ثم انظر انى يؤفكون",
+    "bengali": "মাসীহ ইবনে মারইয়াম একজন রাসূল ছাড়া আর কিছুই নয়; তার পূর্বে আরও বহু রাসূল গত হয়েছে, আর তার মা একজন পরম সত্যবাদিনী, তারা উভয়ে খাদ্য আহার করত। লক্ষ্য কর! আমি কিরূপে তাদের নিকট প্রমাণসমূহ বর্ণনা করছি। আবার লক্ষ্য কর! তারা উল্টা কোন দিকে যাচ্ছে?",
+    "urdu": "مسیح ابن مریم تو صرف (خدا) کے پیغمبر تھے ان سے پہلے بھی بہت سے رسول گزر چکے تھے اور ان کی والدہ (مریم خدا کی) ولی اور سچی فرمانبردار تھیں دونوں (انسان تھے اور) کھانا کھاتے تھے دیکھو ہم ان لوگوں کے لیے اپنی آیتیں کس طرح کھول کھول کر بیان کرتے ہیں پھر (یہ) دیکھو کہ یہ کدھر الٹے جا رہے ہیں"
+}

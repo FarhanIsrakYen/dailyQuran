@@ -1,0 +1,42 @@
+{
+    "surahName": "Az-Zumar",
+    "surahNameArabic": "الزمر",
+    "surahNameArabicLong": "سورة الزمر",
+    "surahNameTranslation": "The Groups",
+    "revelationPlace": "Mecca",
+    "totalAyah": 75,
+    "surahNo": 39,
+    "ayahNo": 56,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/39_56.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/039056.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/39_56.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/039056.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/39_56.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/039056.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/39_56.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/039056.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/39_56.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/039056.mp3"
+        }
+    },
+    "english": "so that no ˹sinful˺ soul will say ˹on Judgment Day˺, ‘Woe to me for neglecting ˹my duties towards˺ Allah, while ridiculing ˹the truth˺.’",
+    "arabic1": "أَن تَقُولَ نَفْسٌ يَـٰحَسْرَتَىٰ عَلَىٰ مَا فَرَّطتُ فِى جَنۢبِ ٱللَّهِ وَإِن كُنتُ لَمِنَ ٱلسَّـٰخِرِينَ",
+    "arabic2": "ان تقول نفس يا حسرتا على ما فرطت في جنب الله وان كنت لمن الساخرين",
+    "bengali": "যাতে কাউকেও বলতে না হয়, ‘হায় আফসোস! আল্লাহর হক আদায়ে আমি যে শৈথিল্য করেছিলাম তার জন্য। আর আমি কেবল ঠাট্টা-বিদ্রূপকারীদের মধ্যে অন্তর্ভুক্ত ছিলাম’।",
+    "urdu": "کہ (مبادا اس وقت) کوئی متنفس کہنے لگے کہ (ہائے ہائے) اس تقصیر پر افسوس ہے جو میں نے خدا کے حق میں کی اور میں تو ہنسی ہی کرتا رہا"
+}

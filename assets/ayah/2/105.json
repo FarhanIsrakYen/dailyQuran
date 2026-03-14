@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 105,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_105.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002105.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_105.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002105.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_105.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002105.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_105.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002105.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_105.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002105.mp3"
+        }
+    },
+    "english": "The disbelievers from the People of the Book and the polytheists would not want you to receive any blessing from your Lord, but Allah selects whoever He wills for His mercy. And Allah is the Lord of infinite bounty.",
+    "arabic1": "مَّا يَوَدُّ ٱلَّذِينَ كَفَرُوا۟ مِنْ أَهْلِ ٱلْكِتَـٰبِ وَلَا ٱلْمُشْرِكِينَ أَن يُنَزَّلَ عَلَيْكُم مِّنْ خَيْرٍ مِّن رَّبِّكُمْ ۗ وَٱللَّهُ يَخْتَصُّ بِرَحْمَتِهِۦ مَن يَشَآءُ ۚ وَٱللَّهُ ذُو ٱلْفَضْلِ ٱلْعَظِيمِ",
+    "arabic2": "ما يود الذين كفروا من اهل الكتاب ولا المشركين ان ينزل عليكم من خير من ربكم والله يختص برحمته من يشاء والله ذو الفضل العظيم",
+    "bengali": "আহলে কিতাব ও মুশরিকদের মধ্য থেকে যারা কুফরী করেছে, তারা চায় না যে, তোমাদের রবের পক্ষ থেকে তোমাদের উপর কোন কল্যাণ নাযিল হোক। আর আল্লাহ যাকে ইচ্ছা তাকে তাঁর রহমত দ্বারা খাস করেন এবং আল্লাহ মহান অনুগ্রহের অধিকারী।",
+    "urdu": "جو لوگ کافر ہیں، اہل کتاب یا مشرک وہ اس بات کو پسند نہیں کرتے کہ تم پر تمہارے پروردگار کی طرف سے خیر (وبرکت) نازل ہو۔ اور خدا تو جس کو چاہتا ہے، اپنی رحمت کے ساتھ خاص کر لیتا ہے اور خدا بڑے فضل کا مالک ہے"
+}

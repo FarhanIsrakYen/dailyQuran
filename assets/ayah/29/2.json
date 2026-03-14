@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Ankaboot",
+    "surahNameArabic": "العنكبوت",
+    "surahNameArabicLong": "سورة العنكبوت",
+    "surahNameTranslation": "The Spider",
+    "revelationPlace": "Mecca",
+    "totalAyah": 69,
+    "surahNo": 29,
+    "ayahNo": 2,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/29_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/029002.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/29_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/029002.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/29_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/029002.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/29_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/029002.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/29_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/029002.mp3"
+        }
+    },
+    "english": "Do people think once they say, “We believe,” that they will be left without being put to the test?",
+    "arabic1": "أَحَسِبَ ٱلنَّاسُ أَن يُتْرَكُوٓا۟ أَن يَقُولُوٓا۟ ءَامَنَّا وَهُمْ لَا يُفْتَنُونَ",
+    "arabic2": "احسب الناس ان يتركوا ان يقولوا امنا وهم لا يفتنون",
+    "bengali": "মানুষ কি মনে করে যে, ‘আমরা ঈমান এনেছি’ বললেই তাদের ছেড়ে দেয়া হবে, আর তাদের পরীক্ষা করা হবে না?",
+    "urdu": "کیا لوگ یہ خیال کئے ہوئے ہیں کہ صرف یہ کہنے سے کہ ہم ایمان لے آئے چھوڑ دیئے جائیں گے اور اُن کی آزمائش نہیں کی جائے گی"
+}

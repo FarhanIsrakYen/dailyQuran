@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 93,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/9_93.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/009093.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/9_93.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/009093.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/9_93.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/009093.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/9_93.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/009093.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/9_93.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/009093.mp3"
+        }
+    },
+    "english": "Blame is only on those who seek exemption from you although they have the means. They preferred to stay behind with the helpless, and Allah has sealed their hearts so they do not realize ˹the consequences˺.",
+    "arabic1": "۞ إِنَّمَا ٱلسَّبِيلُ عَلَى ٱلَّذِينَ يَسْتَـْٔذِنُونَكَ وَهُمْ أَغْنِيَآءُ ۚ رَضُوا۟ بِأَن يَكُونُوا۟ مَعَ ٱلْخَوَالِفِ وَطَبَعَ ٱللَّهُ عَلَىٰ قُلُوبِهِمْ فَهُمْ لَا يَعْلَمُونَ",
+    "arabic2": "انما السبيل على الذين يستاذنونك وهم اغنياء رضوا بان يكونوا مع الخوالف وطبع الله على قلوبهم فهم لا يعلمون",
+    "bengali": "কিন্তু (অভিযোগের) পথ আছে তাদের উপর, যারা তোমার কাছে অনুমতি চায় অথচ তারা ধনী, তারা পেছনে থাকা লোকদের সাথে থাকা বেছে নিয়েছে আর আল্লাহ তাদের অন্তর- সমূহের উপর মোহর এঁটে দিয়েছেন, তাই তারা জানে না।",
+    "urdu": "الزام تو ان لوگوں پر ہے۔ جو دولت مند ہیں اور (پھر) تم سے اجازت طلب کرتے ہیں (یعنی) اس بات سے خوش ہیں کہ عورتوں کے ساتھ جو پیچھے رہ جاتی ہیں (گھروں میں بیٹھ) رہیں۔ خدا نے ان کے دلوں پر مہر کردی ہے پس وہ سمجھتے ہی نہیں"
+}

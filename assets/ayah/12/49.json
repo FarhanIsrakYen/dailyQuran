@@ -1,0 +1,42 @@
+{
+    "surahName": "Yusuf",
+    "surahNameArabic": "يوسف",
+    "surahNameArabicLong": "سورة يوسف",
+    "surahNameTranslation": "Joseph",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 12,
+    "ayahNo": 49,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/12_49.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/012049.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/12_49.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/012049.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/12_49.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/012049.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/12_49.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/012049.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/12_49.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/012049.mp3"
+        }
+    },
+    "english": "Then after that will come a year in which people will receive abundant rain and they will press ˹oil and wine˺.”",
+    "arabic1": "ثُمَّ يَأْتِى مِنۢ بَعْدِ ذَٰلِكَ عَامٌ فِيهِ يُغَاثُ ٱلنَّاسُ وَفِيهِ يَعْصِرُونَ",
+    "arabic2": "ثم ياتي من بعد ذلك عام فيه يغاث الناس وفيه يعصرون",
+    "bengali": "‘এরপর আসবে এমন এক বছর যাতে মানুষ বৃষ্টি সিক্ত হবে এবং যাতে তারা (ফলের ও যয়তুনের) রস নিংড়াবে’।",
+    "urdu": "پھر اس کے بعد ایک سال آئے گا کہ خوب مینہ برسے گا اور لوگ اس میں رس نچوڑیں گے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 17,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/4_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/004017.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/4_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/004017.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/4_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/004017.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/4_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/004017.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/4_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/004017.mp3"
+        }
+    },
+    "english": "Allah only accepts the repentance of those who commit evil ignorantly ˹or recklessly˺ then repent soon after—Allah will pardon them. And Allah is All-Knowing, All-Wise.",
+    "arabic1": "إِنَّمَا ٱلتَّوْبَةُ عَلَى ٱللَّهِ لِلَّذِينَ يَعْمَلُونَ ٱلسُّوٓءَ بِجَهَـٰلَةٍ ثُمَّ يَتُوبُونَ مِن قَرِيبٍ فَأُو۟لَـٰٓئِكَ يَتُوبُ ٱللَّهُ عَلَيْهِمْ ۗ وَكَانَ ٱللَّهُ عَلِيمًا حَكِيمًا",
+    "arabic2": "انما التوبة على الله للذين يعملون السوء بجهالة ثم يتوبون من قريب فاولئك يتوب الله عليهم وكان الله عليما حكيما",
+    "bengali": "নিশ্চয় তাওবা কবূল করা আল্লাহর জিম্মায় তাদের জন্য, যারা অজ্ঞতাবশত মন্দ কাজ করে। তারপর শীঘ্রই তাওবা করে। অতঃপর আল্লাহ এদের তাওবা কবুল করবেন আর আল্লাহ মহাজ্ঞানী, প্রজ্ঞাময়।",
+    "urdu": "خدا انہیں لوگوں کی توبہ قبول فرماتا ہے جو نادانی سے بری حرکت کر بیٹھے ہیں۔ پھر جلد توبہ قبول کرلیتے ہیں پس ایسے لوگوں پر خدا مہربانی کرتا ہے۔ اور وہ سب کچھ جانتا (اور) حکمت والا ہے"
+}

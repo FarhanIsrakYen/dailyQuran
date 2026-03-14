@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Munaafiqoon",
+    "surahNameArabic": "المنافقون",
+    "surahNameArabicLong": "سورة المنافقون",
+    "surahNameTranslation": "The Hypocrites",
+    "revelationPlace": "Madina",
+    "totalAyah": 11,
+    "surahNo": 63,
+    "ayahNo": 5,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/63_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/063005.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/63_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/063005.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/63_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/063005.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/63_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/063005.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/63_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/063005.mp3"
+        }
+    },
+    "english": "When it is said to them, “Come! The Messenger of Allah will pray for you to be forgiven,” they turn their heads ˹in disgust˺, and you see them ˹O Prophet˺ turn away in arrogance.",
+    "arabic1": "وَإِذَا قِيلَ لَهُمْ تَعَالَوْا۟ يَسْتَغْفِرْ لَكُمْ رَسُولُ ٱللَّهِ لَوَّوْا۟ رُءُوسَهُمْ وَرَأَيْتَهُمْ يَصُدُّونَ وَهُم مُّسْتَكْبِرُونَ",
+    "arabic2": "واذا قيل لهم تعالوا يستغفر لكم رسول الله لووا رءوسهم ورايتهم يصدون وهم مستكبرون",
+    "bengali": "আর তাদেরকে যখন বলা হয় এস, আল্লাহর রাসূল তোমাদের জন্য ক্ষমা প্রার্থনা করবেন, তখন তারা তাদের মাথা নাড়ে*। আর তুমি তাদেরকে দেখতে পাবে, অহঙ্কারবশত বিমুখ হয়ে চলে যেতে। \n*তারা অস্বীকার স্বরূপ মাথা নাড়ে।",
+    "urdu": "اور جب ان سے کہا جائے کہ آؤ رسول خدا تمہارے لئے مغفرت مانگیں تو سر ہلا دیتے ہیں اور تم ان کو دیکھو کہ تکبر کرتے ہوئے منہ پھیر لیتے ہیں"
+}

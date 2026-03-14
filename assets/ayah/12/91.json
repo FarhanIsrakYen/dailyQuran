@@ -1,0 +1,42 @@
+{
+    "surahName": "Yusuf",
+    "surahNameArabic": "يوسف",
+    "surahNameArabicLong": "سورة يوسف",
+    "surahNameTranslation": "Joseph",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 12,
+    "ayahNo": 91,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/12_91.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/012091.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/12_91.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/012091.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/12_91.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/012091.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/12_91.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/012091.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/12_91.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/012091.mp3"
+        }
+    },
+    "english": "They admitted, “By Allah! Allah has truly preferred you over us, and we have surely been sinful.”",
+    "arabic1": "قَالُوا۟ تَٱللَّهِ لَقَدْ ءَاثَرَكَ ٱللَّهُ عَلَيْنَا وَإِن كُنَّا لَخَـٰطِـِٔينَ",
+    "arabic2": "قالوا تالله لقد اثرك الله علينا وان كنا لخاطئين",
+    "bengali": "তারা বলল, ‘আল্লাহর কসম, আল্লাহ আমাদের উপর তোমাকে প্রাধান্য দিয়েছেন, আর আমরাই ছিলাম অপরাধী’।",
+    "urdu": "وہ بولے خدا کی قسم خدا نے تم کو ہم پر فضیلت بخشی ہے اور بےشک ہم خطاکار تھے"
+}

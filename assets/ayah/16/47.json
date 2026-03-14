@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nahl",
+    "surahNameArabic": "النحل",
+    "surahNameArabicLong": "سورة النحل",
+    "surahNameTranslation": "The Bee",
+    "revelationPlace": "Mecca",
+    "totalAyah": 128,
+    "surahNo": 16,
+    "ayahNo": 47,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/16_47.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/016047.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/16_47.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/016047.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/16_47.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/016047.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/16_47.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/016047.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/16_47.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/016047.mp3"
+        }
+    },
+    "english": "Or that He will not destroy them gradually? But your Lord is truly Ever Gracious, Most Merciful.",
+    "arabic1": "أَوْ يَأْخُذَهُمْ عَلَىٰ تَخَوُّفٍ فَإِنَّ رَبَّكُمْ لَرَءُوفٌ رَّحِيمٌ",
+    "arabic2": "او ياخذهم على تخوف فان ربكم لرءوف رحيم",
+    "bengali": "কিংবা তিনি তাদেরকে ভীত অবস্থায় পাকড়াও করবেন না? নিশ্চয় তোমাদের রব অতিশয় দয়াশীল, পরম দয়ালু।",
+    "urdu": "یا جب ان کو عذاب کا ڈر پیدا ہوگیا ہو تو ان کو پکڑلے۔ بےشک تمہارا پروردگار بہت شفقت کرنے والا اور مہربان ہے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nahl",
+    "surahNameArabic": "النحل",
+    "surahNameArabicLong": "سورة النحل",
+    "surahNameTranslation": "The Bee",
+    "revelationPlace": "Mecca",
+    "totalAyah": 128,
+    "surahNo": 16,
+    "ayahNo": 14,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/16_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/016014.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/16_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/016014.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/16_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/016014.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/16_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/016014.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/16_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/016014.mp3"
+        }
+    },
+    "english": "And He is the One Who has subjected the sea, so from it you may eat tender seafood and extract ornaments to wear. And you see the ships ploughing their way through it, so you may seek His bounty and give thanks ˹to Him˺.",
+    "arabic1": "وَهُوَ ٱلَّذِى سَخَّرَ ٱلْبَحْرَ لِتَأْكُلُوا۟ مِنْهُ لَحْمًا طَرِيًّا وَتَسْتَخْرِجُوا۟ مِنْهُ حِلْيَةً تَلْبَسُونَهَا وَتَرَى ٱلْفُلْكَ مَوَاخِرَ فِيهِ وَلِتَبْتَغُوا۟ مِن فَضْلِهِۦ وَلَعَلَّكُمْ تَشْكُرُونَ",
+    "arabic2": "وهو الذي سخر البحر لتاكلوا منه لحما طريا وتستخرجوا منه حلية تلبسونها وترى الفلك مواخر فيه ولتبتغوا من فضله ولعلكم تشكرون",
+    "bengali": "আর তিনিই সে সত্তা, যিনি সমুদ্রকে নিয়োজিত করেছেন, যাতে তোমরা তা থেকে তাজা (মাছের) গোশ্ত খেতে পার এবং তা থেকে বের করতে পার অলংকারাদি, যা তোমরা পরিধান কর। আর তুমি তাতে নৌযান দেখবে তা পানি চিরে চলছে এবং যাতে তোমরা তার অনুগ্রহ অন্বেষণ করতে পার এবং যাতে তোমরা শুকরিয়া আদায় কর।",
+    "urdu": "اور وہی تو ہے جس نے دریا کو تمہارے اختیار میں کیا تاکہ اس میں سے تازہ گوشت کھاؤ اور اس سے زیور (موتی وغیرہ) نکالو جسے تم پہنتے ہو۔ اور تم دیکھتے ہو کہ کشتیاں دریا میں پانی کو پھاڑتی چلی جاتی ہیں۔ اور اس لیے بھی (دریا کو تمہارے اختیار میں کیا) کہ تم خدا کے فضل سے (معاش) تلاش کرو تاکہ اس کا شکر کرو"
+}

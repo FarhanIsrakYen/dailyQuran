@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Qasas",
+    "surahNameArabic": "القصص",
+    "surahNameArabicLong": "سورة القصص",
+    "surahNameTranslation": "The Stories",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 28,
+    "ayahNo": 82,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/28_82.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/028082.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/28_82.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/028082.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/28_82.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/028082.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/28_82.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/028082.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/28_82.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/028082.mp3"
+        }
+    },
+    "english": "And those who had craved his position the previous day began to say, “Ah! It is certainly Allah Who gives abundant or limited provisions to whoever He wills of His servants. Had it not been for the grace of Allah, He could have surely caused the earth to swallow us up! Oh, indeed! The disbelievers will never succeed.”",
+    "arabic1": "وَأَصْبَحَ ٱلَّذِينَ تَمَنَّوْا۟ مَكَانَهُۥ بِٱلْأَمْسِ يَقُولُونَ وَيْكَأَنَّ ٱللَّهَ يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ مِنْ عِبَادِهِۦ وَيَقْدِرُ ۖ لَوْلَآ أَن مَّنَّ ٱللَّهُ عَلَيْنَا لَخَسَفَ بِنَا ۖ وَيْكَأَنَّهُۥ لَا يُفْلِحُ ٱلْكَـٰفِرُونَ",
+    "arabic2": "واصبح الذين تمنوا مكانه بالامس يقولون ويكان الله يبسط الرزق لمن يشاء من عباده ويقدر لولا ان من الله علينا لخسف بنا ويكانه لا يفلح الكافرون",
+    "bengali": "আর গতকাল যারা তার মত হতে প্রত্যাশা করেছিল তারা বলতে লাগল, ‘আশ্চর্য! দেখলে তো, আল্লাহ তাঁর বান্দাদের মধ্য থেকে যার জন্য ইচ্ছা রিয্ক প্রসারিত অথবা সংকুচিত করেন। যদি আল্লাহ আমাদের প্রতি অনুগ্রহ না করতেন তবে আমাদেরকেও তিনি দাবিয়ে দিতেন। দেখলে তো, কাফিররা সফল হয় না’।",
+    "urdu": "اور وہ لوگ جو کل اُس کے رتبے کی تمنا کرتے تھے صبح کو کہنے لگے ہائے شامت! خدا ہی تو اپنے بندوں میں سے جس کے لئے چاہتا ہے رزق فراخ کر دیتا ہے اور (جس کے لئے چاہتا ہے) تنگ کر دیتا ہے۔ اگر خدا ہم پر احسان نہ کرتا تو ہمیں بھی دھنسا دیتا۔ ہائے خرابی! کافر نجات نہیں پا سکتے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Mujaadila",
+    "surahNameArabic": "المجادلة",
+    "surahNameArabicLong": "سورة المجادلة",
+    "surahNameTranslation": "The Pleading Woman",
+    "revelationPlace": "Madina",
+    "totalAyah": 22,
+    "surahNo": 58,
+    "ayahNo": 7,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/58_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/058007.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/58_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/058007.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/58_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/058007.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/58_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/058007.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/58_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/058007.mp3"
+        }
+    },
+    "english": "Do you not see that Allah knows whatever is in the heavens and whatever is on the earth? If three converse privately, He is their fourth. If five, He is their sixth. Whether fewer or more, He is with them wherever they may be. Then, on the Day of Judgment, He will inform them of what they have done. Surely Allah has ˹perfect˺ knowledge of all things.",
+    "arabic1": "أَلَمْ تَرَ أَنَّ ٱللَّهَ يَعْلَمُ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۖ مَا يَكُونُ مِن نَّجْوَىٰ ثَلَـٰثَةٍ إِلَّا هُوَ رَابِعُهُمْ وَلَا خَمْسَةٍ إِلَّا هُوَ سَادِسُهُمْ وَلَآ أَدْنَىٰ مِن ذَٰلِكَ وَلَآ أَكْثَرَ إِلَّا هُوَ مَعَهُمْ أَيْنَ مَا كَانُوا۟ ۖ ثُمَّ يُنَبِّئُهُم بِمَا عَمِلُوا۟ يَوْمَ ٱلْقِيَـٰمَةِ ۚ إِنَّ ٱللَّهَ بِكُلِّ شَىْءٍ عَلِيمٌ",
+    "arabic2": "الم تر ان الله يعلم ما في السماوات وما في الارض ما يكون من نجوى ثلاثة الا هو رابعهم ولا خمسة الا هو سادسهم ولا ادنى من ذلك ولا اكثر الا هو معهم اين ما كانوا ثم ينبئهم بما عملوا يوم القيامة ان الله بكل شيء عليم",
+    "bengali": "তুমি কি লক্ষ্য করনি যে, আসমানসমূহ ও যমীনে যা কিছু আছে নিশ্চয় আল্লাহ তা জানেন? তিন জনের কোন গোপন পরামর্শ হয় না যাতে চতুর্থজন হিসেবে আল্লাহ থাকেন না, আর পাঁচ জনেরও হয় না, যাতে ষষ্ঠজন হিসেবে তিনি থাকেন না। এর চেয়ে কম হোক কিংবা বেশি হোক, তিনি তো তাদের সঙ্গেই আছেন, তারা যেখানেই থাকুক না কেন। তারপর কিয়ামতের দিন তিনি তাদেরকে তাদের কৃতকর্ম সম্পর্কে জানিয়ে দেবেন। নিশ্চয় আল্লাহ সব বিষয়ে সম্যক অবগত।",
+    "urdu": "کیا تم کو معلوم نہیں کہ جو کچھ آسمانوں میں ہے اور جو کچھ زمین میں ہے خدا کو سب معلوم ہے۔ (کسی جگہ) تین (شخصوں) کا (مجمع اور) کانوں میں صلاح ومشورہ نہیں ہوتا مگر وہ ان میں چوتھا ہوتا ہے اور نہ کہیں پانچ کا مگر وہ ان میں چھٹا ہوتا ہے اور نہ اس سے کم یا زیادہ مگر وہ ان کے ساتھ ہوتا ہے خواہ وہ کہیں ہوں۔ پھر جو جو کام یہ کرتے رہے ہیں قیامت کے دن وہ (ایک ایک) ان کو بتائے گا۔ بےشک خدا ہر چیز سے واقف ہے"
+}

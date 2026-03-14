@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Tahrim",
+    "surahNameArabic": "التحريم",
+    "surahNameArabicLong": "سورة التحريم",
+    "surahNameTranslation": "The Prohibition",
+    "revelationPlace": "Madina",
+    "totalAyah": 12,
+    "surahNo": 66,
+    "ayahNo": 1,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/66_1.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/066001.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/66_1.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/066001.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/66_1.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/066001.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/66_1.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/066001.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/66_1.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/066001.mp3"
+        }
+    },
+    "english": "O Prophet! Why do you prohibit ˹yourself˺ from what Allah has made lawful to you, seeking to please your wives? And Allah is All-Forgiving, Most Merciful.",
+    "arabic1": "يَـٰٓأَيُّهَا ٱلنَّبِىُّ لِمَ تُحَرِّمُ مَآ أَحَلَّ ٱللَّهُ لَكَ ۖ تَبْتَغِى مَرْضَاتَ أَزْوَٰجِكَ ۚ وَٱللَّهُ غَفُورٌ رَّحِيمٌ",
+    "arabic2": "يا ايها النبي لم تحرم ما احل الله لك تبتغي مرضات ازواجك والله غفور رحيم",
+    "bengali": "হে নবী, আল্লাহ তোমার জন্য যা হালাল করেছেন তোমার স্ত্রীদের সন্তুষ্টি কামনায় তুমি কেন তা হারাম করছ? আর আল্লাহ অতীব ক্ষমাশীল, পরম দয়ালু।",
+    "urdu": "اے پیغمبر جو چیز خدا نے تمہارے لئے جائز کی ہے تم اس سے کنارہ کشی کیوں کرتے ہو؟ (کیا اس سے) اپنی بیویوں کی خوشنودی چاہتے ہو؟ اور خدا بخشنے والا مہربان ہے"
+}

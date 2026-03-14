@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Maaida",
+    "surahNameArabic": "المائدة",
+    "surahNameArabicLong": "سورة المائدة",
+    "surahNameTranslation": "The Table",
+    "revelationPlace": "Madina",
+    "totalAyah": 120,
+    "surahNo": 5,
+    "ayahNo": 107,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/5_107.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/005107.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/5_107.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/005107.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/5_107.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/005107.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/5_107.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/005107.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/5_107.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/005107.mp3"
+        }
+    },
+    "english": "If they are found guilty ˹of false testimony˺, let the deceased’s two closest heirs affected by the bequest replace the witnesses and testify under oath ˹saying˺, “By Allah! Our testimony is truer than theirs. We have not transgressed. Otherwise, we would surely be wrongdoers.”",
+    "arabic1": "فَإِنْ عُثِرَ عَلَىٰٓ أَنَّهُمَا ٱسْتَحَقَّآ إِثْمًا فَـَٔاخَرَانِ يَقُومَانِ مَقَامَهُمَا مِنَ ٱلَّذِينَ ٱسْتَحَقَّ عَلَيْهِمُ ٱلْأَوْلَيَـٰنِ فَيُقْسِمَانِ بِٱللَّهِ لَشَهَـٰدَتُنَآ أَحَقُّ مِن شَهَـٰدَتِهِمَا وَمَا ٱعْتَدَيْنَآ إِنَّآ إِذًا لَّمِنَ ٱلظَّـٰلِمِينَ",
+    "arabic2": "فان عثر على انهما استحقا اثما فاخران يقومان مقامهما من الذين استحق عليهم الاوليان فيقسمان بالله لشهادتنا احق من شهادتهما وما اعتدينا انا اذا لمن الظالمين",
+    "bengali": "কিন্তু যদি জানা যায় যে, তারা পাপে লিপ্ত হয়েছে, তাহলে তাদের মধ্য থেকে যাদের স্বার্থহানী ঘটেছে- অন্য দু’ব্যক্তি প্রথমোক্ত দু’জনের স্থলাভিষিক্ত হবে। অতঃপর তারা আল্লাহর নামে কসম করে বলবে, ‘অবশ্যই আমাদের সাক্ষ্য তাদের সাক্ষ্য থেকে অধিক সত্য এবং আমরা সীমালঙ্ঘন করিনি; করলে অবশ্যই আমরা যালিমদের অন্তর্ভুক্ত হব’।",
+    "urdu": "پھر اگر معلوم ہو جائے کہ ان دونوں نے (جھوٹ بول کر) گناہ حاصل کیا ہے تو جن لوگوں کا انہوں نے حق مارنا چاہا تھا ان میں سے ان کی جگہ اور دو گواہ کھڑے ہوں جو (میت سے) قرابت قریبہ رکھتے ہوں پھر وہ خدا کی قسمیں کھائیں کہ ہماری شہادت ان کی شہادت سے بہت اچھی ہے اور ہم نے کوئی زیادتی نہیں کی ایسا کیا ہو تو ہم بےانصاف ہیں"
+}

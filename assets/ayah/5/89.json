@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Maaida",
+    "surahNameArabic": "المائدة",
+    "surahNameArabicLong": "سورة المائدة",
+    "surahNameTranslation": "The Table",
+    "revelationPlace": "Madina",
+    "totalAyah": 120,
+    "surahNo": 5,
+    "ayahNo": 89,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/5_89.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/005089.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/5_89.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/005089.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/5_89.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/005089.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/5_89.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/005089.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/5_89.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/005089.mp3"
+        }
+    },
+    "english": "Allah will not call you to account for your thoughtless oaths, but He will hold you accountable for deliberate oaths. The penalty for a broken oath is to feed ten poor people from what you normally feed your own family, or to clothe them, or to free a bondsperson. But if none of this is affordable, then you must fast three days. This is the penalty for breaking your oaths. So be mindful of your oaths. This is how Allah makes things clear to you, so perhaps you will be grateful.",
+    "arabic1": "لَا يُؤَاخِذُكُمُ ٱللَّهُ بِٱللَّغْوِ فِىٓ أَيْمَـٰنِكُمْ وَلَـٰكِن يُؤَاخِذُكُم بِمَا عَقَّدتُّمُ ٱلْأَيْمَـٰنَ ۖ فَكَفَّـٰرَتُهُۥٓ إِطْعَامُ عَشَرَةِ مَسَـٰكِينَ مِنْ أَوْسَطِ مَا تُطْعِمُونَ أَهْلِيكُمْ أَوْ كِسْوَتُهُمْ أَوْ تَحْرِيرُ رَقَبَةٍ ۖ فَمَن لَّمْ يَجِدْ فَصِيَامُ ثَلَـٰثَةِ أَيَّامٍ ۚ ذَٰلِكَ كَفَّـٰرَةُ أَيْمَـٰنِكُمْ إِذَا حَلَفْتُمْ ۚ وَٱحْفَظُوٓا۟ أَيْمَـٰنَكُمْ ۚ كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ لَكُمْ ءَايَـٰتِهِۦ لَعَلَّكُمْ تَشْكُرُونَ",
+    "arabic2": "لا يؤاخذكم الله باللغو في ايمانكم ولكن يؤاخذكم بما عقدتم الايمان فكفارته اطعام عشرة مساكين من اوسط ما تطعمون اهليكم او كسوتهم او تحرير رقبة فمن لم يجد فصيام ثلاثة ايام ذلك كفارة ايمانكم اذا حلفتم واحفظوا ايمانكم كذلك يبين الله لكم اياته لعلكم تشكرون",
+    "bengali": "আল্লাহ তোমাদেরকে পাকড়াও করেন না তোমাদের অর্থহীন কসমের ব্যাপারে, কিন্তু যে কসম তোমরা দৃঢ়ভাবে কর সে কসমের জন্য তোমাদেরকে পাকড়াও করেন। সুতরাং এর কাফফারা হল দশ জন মিসকীনকে খাবার দান করা, মধ্যম ধরনের খাবার, যা তোমরা স্বীয় পরিবারকে খাইয়ে থাক, অথবা তাদের বস্ত্র দান, কিংবা একজন দাস-দাসী মুক্ত করা। অতঃপর যে সামর্থ্য রাখে না তবে তিন দিন সিয়াম পালন করা। এটা তোমাদের কসমের কাফ্ফারা, যদি তোমরা কসম কর, আর তোমরা তোমাদের কসম হেফাযত কর। এমনিভাবে আল্লাহ তোমাদের জন্য তাঁর আয়াতসমূহ বর্ণনা করেন যাতে তোমরা শোকর আদায় কর।",
+    "urdu": "خدا تمہاری بےارادہ قسموں پر تم سے مواخذہ نہیں کرے گا لیکن پختہ قسموں پر (جن کے خلاف کرو گے) مواخذہ کرے گا تو اس کا کفارہ دس محتاجوں کو اوسط درجے کا کھانا کھلانا ہے جو تم اپنے اہل وعیال کو کھلاتے ہو یا ان کو کپڑے دینا یا ایک غلام آزاد کرنا اور جس کو میسر نہ ہو وہ تین روزے رکھے یہ تمہاری قسموں کا کفارہ ہے جب تم قسم کھا لو (اور اسے توڑ دو) اور (تم کو) چاہئے کہ اپنی قسموں کی حفاظت کرو اس طرح خدا تمہارے (سمجھانے کے) لیے اپنی آیتیں کھول کھول کر بیان فرماتا ہے تاکہ تم شکر کرو"
+}

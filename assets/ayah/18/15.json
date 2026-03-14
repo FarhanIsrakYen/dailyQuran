@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Kahf",
+    "surahNameArabic": "الكهف",
+    "surahNameArabicLong": "سورة الكهف",
+    "surahNameTranslation": "The Cave",
+    "revelationPlace": "Mecca",
+    "totalAyah": 110,
+    "surahNo": 18,
+    "ayahNo": 15,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/18_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/018015.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/18_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/018015.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/18_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/018015.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/18_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/018015.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/18_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/018015.mp3"
+        }
+    },
+    "english": "˹Then they said to one another,˺ “These people of ours have taken gods besides Him. Why do they not produce a clear proof of them? Who then does more wrong than those who fabricate lies against Allah?",
+    "arabic1": "هَـٰٓؤُلَآءِ قَوْمُنَا ٱتَّخَذُوا۟ مِن دُونِهِۦٓ ءَالِهَةً ۖ لَّوْلَا يَأْتُونَ عَلَيْهِم بِسُلْطَـٰنٍۭ بَيِّنٍ ۖ فَمَنْ أَظْلَمُ مِمَّنِ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًا",
+    "arabic2": "هؤلاء قومنا اتخذوا من دونه الهة لولا ياتون عليهم بسلطان بين فمن اظلم ممن افترى على الله كذبا",
+    "bengali": "এরা আমাদের কওম, তারা তাঁকে ছাড়া অন্যান্য উপাস্য গ্রহণ করেছে। কেন তারা তাদের ব্যাপারে স্পষ্ট প্রমাণ উপস্থিত করে না? অতএব যে আল্লাহর ব্যাপারে মিথ্যা রটায়, তার চেয়ে বড় যালিম আর কে?",
+    "urdu": "ان ہماری قوم کے لوگوں نے اس کے سوا اور معبود بنا رکھے ہیں۔ بھلا یہ ان (کے خدا ہونے) پر کوئی کھلی دلیل کیوں نہیں لاتے۔ تو اس سے زیادہ کون ظالم ہے جو خدا پر جھوٹ افتراء کرے"
+}

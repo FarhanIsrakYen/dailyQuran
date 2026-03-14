@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 197,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/7_197.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/007197.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/7_197.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/007197.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/7_197.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/007197.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/7_197.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/007197.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/7_197.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/007197.mp3"
+        }
+    },
+    "english": "But those ˹false gods˺ you call besides Him can neither help you nor even themselves.”",
+    "arabic1": "وَٱلَّذِينَ تَدْعُونَ مِن دُونِهِۦ لَا يَسْتَطِيعُونَ نَصْرَكُمْ وَلَآ أَنفُسَهُمْ يَنصُرُونَ",
+    "arabic2": "والذين تدعون من دونه لا يستطيعون نصركم ولا انفسهم ينصرون",
+    "bengali": "আর তাঁকে ছাড়া তোমরা যাদেরকে ডাক তারা তোমাদেরকে সাহায্য করতে পারে না এবং তারা নিজদেরকেও সাহায্য করতে পারে না।",
+    "urdu": "اور جن کو تم خدا کے سوا پکارتے ہو وہ نہ تمہاری ہی مدد کی طاقت رکھتے ہیں اور نہ خود ہی اپنی مدد کرسکتے ہیں"
+}

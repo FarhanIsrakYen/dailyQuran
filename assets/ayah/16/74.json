@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nahl",
+    "surahNameArabic": "النحل",
+    "surahNameArabicLong": "سورة النحل",
+    "surahNameTranslation": "The Bee",
+    "revelationPlace": "Mecca",
+    "totalAyah": 128,
+    "surahNo": 16,
+    "ayahNo": 74,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/16_74.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/016074.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/16_74.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/016074.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/16_74.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/016074.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/16_74.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/016074.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/16_74.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/016074.mp3"
+        }
+    },
+    "english": "So do not set up equals to Allah, for Allah certainly knows and you do not know.",
+    "arabic1": "فَلَا تَضْرِبُوا۟ لِلَّهِ ٱلْأَمْثَالَ ۚ إِنَّ ٱللَّهَ يَعْلَمُ وَأَنتُمْ لَا تَعْلَمُونَ",
+    "arabic2": "فلا تضربوا لله الامثال ان الله يعلم وانتم لا تعلمون",
+    "bengali": "সুতরাং তোমরা আল্লাহর জন্য অন্য কোন দৃষ্টান্ত স্থাপন করো না। নিশ্চয় আল্লাহ জানেন আর তোমরা জান না।",
+    "urdu": "تو (لوگو) خدا کے بارے میں (غلط) مثالیں نہ بناؤ۔ (صحیح مثالوں کا طریقہ) خدا ہی جانتا ہے اور تم نہیں جانتے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Qamar",
+    "surahNameArabic": "القمر",
+    "surahNameArabicLong": "سورة القمر",
+    "surahNameTranslation": "The Moon",
+    "revelationPlace": "Mecca",
+    "totalAyah": 55,
+    "surahNo": 54,
+    "ayahNo": 51,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/54_51.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/054051.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/54_51.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/054051.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/54_51.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/054051.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/54_51.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/054051.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/54_51.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/054051.mp3"
+        }
+    },
+    "english": "We have already destroyed the likes of you. So will any ˹of you˺ be mindful?",
+    "arabic1": "وَلَقَدْ أَهْلَكْنَآ أَشْيَاعَكُمْ فَهَلْ مِن مُّدَّكِرٍ",
+    "arabic2": "ولقد اهلكنا اشياعكم فهل من مدكر",
+    "bengali": "আর আমি তো তোমাদের মত অনেককে ধ্বংস করে দিয়েছি, অতএব কোন উপদেশ গ্রহণকারী আছে কি?",
+    "urdu": "اور ہم تمہارے ہم مذہبوں کو ہلاک کرچکے ہیں تو کوئی ہے کہ سوچے سمجھے؟"
+}

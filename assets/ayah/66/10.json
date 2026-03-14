@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Tahrim",
+    "surahNameArabic": "التحريم",
+    "surahNameArabicLong": "سورة التحريم",
+    "surahNameTranslation": "The Prohibition",
+    "revelationPlace": "Madina",
+    "totalAyah": 12,
+    "surahNo": 66,
+    "ayahNo": 10,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/66_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/066010.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/66_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/066010.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/66_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/066010.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/66_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/066010.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/66_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/066010.mp3"
+        }
+    },
+    "english": "Allah sets forth an example for the disbelievers: the wife of Noah and the wife of Lot. Each was married to one of Our righteous servants, yet betrayed them. So their husbands were of no benefit to them against Allah whatsoever. Both were told, “Enter the Fire, along with the others!”",
+    "arabic1": "ضَرَبَ ٱللَّهُ مَثَلًا لِّلَّذِينَ كَفَرُوا۟ ٱمْرَأَتَ نُوحٍ وَٱمْرَأَتَ لُوطٍ ۖ كَانَتَا تَحْتَ عَبْدَيْنِ مِنْ عِبَادِنَا صَـٰلِحَيْنِ فَخَانَتَاهُمَا فَلَمْ يُغْنِيَا عَنْهُمَا مِنَ ٱللَّهِ شَيْـًٔا وَقِيلَ ٱدْخُلَا ٱلنَّارَ مَعَ ٱلدَّٰخِلِينَ",
+    "arabic2": "ضرب الله مثلا للذين كفروا امرات نوح وامرات لوط كانتا تحت عبدين من عبادنا صالحين فخانتاهما فلم يغنيا عنهما من الله شيئا وقيل ادخلا النار مع الداخلين",
+    "bengali": "যারা কুফরি করে তাদের জন্য আল্লাহ নূহের স্ত্রীর ও লূতের স্ত্রীর উদাহরণ পেশ করেন; তারা আমার বান্দাদের মধ্য হতে দু’জন সৎবান্দার অধীনে ছিল, কিন্তু তারা উভয়ে তাদের সাথে বিশ্বাসঘাতকতা করেছিল, অতঃপর আল্লাহর আযাব হতে রক্ষায় নূহ ও লূত তাদের কোন কাজে আসেনি। বলা হল, ‘তোমরা উভয়ে প্রবেশকারীদের সাথে জাহান্নামে প্রবেশ কর।’",
+    "urdu": "خدا نے کافروں کے لئے نوحؑ کی بیوی اور لوطؑ کی بیوی کی مثال بیان فرمائی ہے۔ دونوں ہمارے دو نیک بندوں کے گھر میں تھیں اور دونوں نے ان کی خیانت کی تو وہ خدا کے مقابلے میں اور ان عورتوں کے کچھ بھی کام نہ آئے اور ان کو حکم دیا گیا کہ اور داخل ہونے والوں کے ساتھ تم بھی دوزخ میں داخل ہو جاؤ"
+}

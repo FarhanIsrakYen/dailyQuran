@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Infitaar",
+    "surahNameArabic": "الإنفطار",
+    "surahNameArabicLong": "سورة الإنفطار",
+    "surahNameTranslation": "The Cleaving",
+    "revelationPlace": "Mecca",
+    "totalAyah": 19,
+    "surahNo": 82,
+    "ayahNo": 9,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/82_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/082009.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/82_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/082009.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/82_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/082009.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/82_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/082009.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/82_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/082009.mp3"
+        }
+    },
+    "english": "But no! In fact, you deny the ˹final˺ Judgment",
+    "arabic1": "كَلَّا بَلْ تُكَذِّبُونَ بِٱلدِّينِ",
+    "arabic2": "كلا بل تكذبون بالدين",
+    "bengali": "কখনো নয়, তোমরা তো প্রতিদান দিবসকে অস্বীকার করে থাক।",
+    "urdu": "مگر ہیہات تم لوگ جزا کو جھٹلاتے ہو"
+}

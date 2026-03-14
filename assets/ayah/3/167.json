@@ -1,0 +1,42 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 167,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/3_167.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/003167.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/3_167.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/003167.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/3_167.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/003167.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/3_167.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/003167.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/3_167.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/003167.mp3"
+        }
+    },
+    "english": "and expose the hypocrites. When it was said to them, “Come fight in the cause of Allah or ˹at least˺ defend yourselves,” they replied, “If we had known there was fighting, we would have definitely gone with you.” They were closer to disbelief than to belief on that day—for saying with their mouths what was not in their hearts. Allah is All-Knowing of what they hide.",
+    "arabic1": "وَلِيَعْلَمَ ٱلَّذِينَ نَافَقُوا۟ ۚ وَقِيلَ لَهُمْ تَعَالَوْا۟ قَـٰتِلُوا۟ فِى سَبِيلِ ٱللَّهِ أَوِ ٱدْفَعُوا۟ ۖ قَالُوا۟ لَوْ نَعْلَمُ قِتَالًا لَّٱتَّبَعْنَـٰكُمْ ۗ هُمْ لِلْكُفْرِ يَوْمَئِذٍ أَقْرَبُ مِنْهُمْ لِلْإِيمَـٰنِ ۚ يَقُولُونَ بِأَفْوَٰهِهِم مَّا لَيْسَ فِى قُلُوبِهِمْ ۗ وَٱللَّهُ أَعْلَمُ بِمَا يَكْتُمُونَ",
+    "arabic2": "وليعلم الذين نافقوا وقيل لهم تعالوا قاتلوا في سبيل الله او ادفعوا قالوا لو نعلم قتالا لاتبعناكم هم للكفر يومئذ اقرب منهم للايمان يقولون بافواههم ما ليس في قلوبهم والله اعلم بما يكتمون",
+    "bengali": "আর যাতে তিনি জেনে নেন মুনাফিকদেরকে। আর তাদেরকে বলা হয়েছিল, ‘এসো, আল্লাহর পথে লড়াই কর অথবা প্রতিরোধ কর’। তারা বলেছিল, ‘যদি আমরা লড়াই হবে জানতাম* তবে অবশ্যই তোমাদেরকে অনুসরণ করতাম’। সেদিন তারা কুফরীর বেশি কাছাকাছি ছিল তাদের ঈমানের তুলনায়। তারা তাদের মুখে বলে, যা তাদের অন্তরসমূহে নেই। আর তারা যা গোপন করে সে সম্পর্কে আল্লাহ অধিক অবগত। \n*এর দু’টি অর্থ হতে পারে- যদি আমরা লড়াই করতে জানতাম অথবা লড়াই সংঘটিত হবে বলে জানতাম।",
+    "urdu": "اور منافقوں کو بھی معلوم کرلے اور (جب) ان سے کہا گیا کہ آؤ خدا کے رستے میں جنگ کرو یا (کافروں کے) حملوں کو روکو۔ تو کہنے لگے کہ اگر ہم کو لڑائی کی خبر ہوتی تو ہم ضرور تمہارے ساتھ رہتے یہ اس دن ایمان کی نسبت کفر سے زیادہ قریب تھے منہ سے وہ باتیں کہتے ہیں جو ان کے دل میں نہیں ہیں۔ اور جو کچھ یہ چھپاتے ہیں خدا ان سے خوب واقف ہے"
+}

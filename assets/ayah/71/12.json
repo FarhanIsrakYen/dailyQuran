@@ -1,0 +1,42 @@
+{
+    "surahName": "Nooh",
+    "surahNameArabic": "نوح",
+    "surahNameArabicLong": "سورة نوح",
+    "surahNameTranslation": "Noah",
+    "revelationPlace": "Mecca",
+    "totalAyah": 28,
+    "surahNo": 71,
+    "ayahNo": 12,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/71_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/071012.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/71_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/071012.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/71_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/071012.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/71_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/071012.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/71_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/071012.mp3"
+        }
+    },
+    "english": "supply you with wealth and children, and give you gardens as well as rivers.",
+    "arabic1": "وَيُمْدِدْكُم بِأَمْوَٰلٍ وَبَنِينَ وَيَجْعَل لَّكُمْ جَنَّـٰتٍ وَيَجْعَل لَّكُمْ أَنْهَـٰرًا",
+    "arabic2": "ويمددكم باموال وبنين ويجعل لكم جنات ويجعل لكم انهارا",
+    "bengali": "‘আর তোমাদেরকে ধন-সম্পদ ও সন্তান- সন্ততি দিয়ে সাহায্য করবেন এবং তোমাদের জন্য বাগ-বাগিচা দেবেন আর দেবেন নদী-নালা’।",
+    "urdu": "اور مال اور بیٹوں سے تمہاری مدد فرمائے گا اور تمہیں باغ عطا کرے گا اور ان میں تمہارے لئے نہریں بہا دے گا"
+}

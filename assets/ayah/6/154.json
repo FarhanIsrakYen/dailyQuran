@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 154,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/6_154.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/006154.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/6_154.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/006154.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/6_154.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/006154.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/6_154.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/006154.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/6_154.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/006154.mp3"
+        }
+    },
+    "english": "Additionally, We gave Moses the Scripture, completing the favour upon those who do good, detailing everything, and as a guide and a mercy, so perhaps they would be certain of the meeting with their Lord.",
+    "arabic1": "ثُمَّ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ تَمَامًا عَلَى ٱلَّذِىٓ أَحْسَنَ وَتَفْصِيلًا لِّكُلِّ شَىْءٍ وَهُدًى وَرَحْمَةً لَّعَلَّهُم بِلِقَآءِ رَبِّهِمْ يُؤْمِنُونَ",
+    "arabic2": "ثم اتينا موسى الكتاب تماما على الذي احسن وتفصيلا لكل شيء وهدى ورحمة لعلهم بلقاء ربهم يؤمنون",
+    "bengali": "অতঃপর আমি মূসাকে প্রদান করেছি কিতাব, যে সৎকর্ম করেছে তার জন্য পরিপূর্ণতাস্বরূপ, প্রতিটি বিষয়ের বিস্তারিত ব্যাখ্যা, হিদায়াত ও রহমতস্বরূপ। যাতে তারা তাদের রবের সাক্ষাতের ব্যাপারে ঈমান রাখে।",
+    "urdu": "(ہاں) پھر (سن لو کہ) ہم نے موسیؑ کو کتاب عنایت کی تھی تاکہ ان لوگوں پر جو نیکوکار ہیں نعمت پوری کر دیں اور (اس میں) ہر چیز کا بیان (ہے) اور ہدایت (ہے) اور رحمت ہے تاکہ (ان کی امت کے) لوگ اپنے پروردگار کے رُوبرو حاضر ہونے کا یقین کریں"
+}

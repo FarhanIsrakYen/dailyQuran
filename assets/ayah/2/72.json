@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 72,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_72.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002072.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_72.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002072.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_72.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002072.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_72.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002072.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_72.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002072.mp3"
+        }
+    },
+    "english": "˹This is˺ when a man was killed and you disputed who the killer was, but Allah revealed what you concealed.",
+    "arabic1": "وَإِذْ قَتَلْتُمْ نَفْسًا فَٱدَّٰرَْٰٔتُمْ فِيهَا ۖ وَٱللَّهُ مُخْرِجٌ مَّا كُنتُمْ تَكْتُمُونَ",
+    "arabic2": "واذ قتلتم نفسا فاداراتم فيها والله مخرج ما كنتم تكتمون",
+    "bengali": "আর স্মরণ কর, যখন তোমরা একজনকে হত্যা করলে অতঃপর সে ব্যাপারে একে অপরকে দোষারোপ করলে। আর আল্লাহ প্রকাশ করে দিলেন তোমরা যা গোপন করছিলে।",
+    "urdu": "اور جب تم نے ایک شخص کو قتل کیا، تو اس میں باہم جھگڑنے لگے۔ لیکن جو بات تم چھپا رہے تھے، خدا اس کو ظاہر کرنے والا تھا"
+}

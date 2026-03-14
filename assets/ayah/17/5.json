@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 5,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/17_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/017005.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/17_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/017005.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/17_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/017005.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/17_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/017005.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/17_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/017005.mp3"
+        }
+    },
+    "english": "When the first of the two warnings would come to pass, We would send against you some of Our servants of great might, who would ravage your homes. This would be a warning fulfilled.",
+    "arabic1": "فَإِذَا جَآءَ وَعْدُ أُولَىٰهُمَا بَعَثْنَا عَلَيْكُمْ عِبَادًا لَّنَآ أُو۟لِى بَأْسٍ شَدِيدٍ فَجَاسُوا۟ خِلَـٰلَ ٱلدِّيَارِ ۚ وَكَانَ وَعْدًا مَّفْعُولًا",
+    "arabic2": "فاذا جاء وعد اولاهما بعثنا عليكم عبادا لنا اولي باس شديد فجاسوا خلال الديار وكان وعدا مفعولا",
+    "bengali": "অতঃপর যখন এ দু’য়ের প্রথম ওয়াদা আসল, তখন আমি তোমাদের উপর আমার কিছু বান্দা পাঠালাম, যারা কঠোর যুদ্ধবাজ। অতঃপর তারা ঘরে ঘরে ঢুকে ধ্বংসযজ্ঞ চালাল। আর এ ওয়াদা পূর্ণ হওয়ারই ছিল।",
+    "urdu": "پس جب پہلے (وعدے) کا وقت آیا تو ہم نے سخت لڑائی لڑنے والے بندے تم پر مسلط کردیئے اور وہ شہروں کے اندر پھیل گئے۔ اور وہ وعدہ پورا ہو کر رہا"
+}

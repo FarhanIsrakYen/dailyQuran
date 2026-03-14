@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nahl",
+    "surahNameArabic": "النحل",
+    "surahNameArabicLong": "سورة النحل",
+    "surahNameTranslation": "The Bee",
+    "revelationPlace": "Mecca",
+    "totalAyah": 128,
+    "surahNo": 16,
+    "ayahNo": 48,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/16_48.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/016048.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/16_48.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/016048.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/16_48.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/016048.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/16_48.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/016048.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/16_48.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/016048.mp3"
+        }
+    },
+    "english": "Have they not considered how the shadows of everything Allah has created incline to the right and the left ˹as the sun moves˺, totally submitting to Allah in all humility?",
+    "arabic1": "أَوَلَمْ يَرَوْا۟ إِلَىٰ مَا خَلَقَ ٱللَّهُ مِن شَىْءٍ يَتَفَيَّؤُا۟ ظِلَـٰلُهُۥ عَنِ ٱلْيَمِينِ وَٱلشَّمَآئِلِ سُجَّدًا لِّلَّهِ وَهُمْ دَٰخِرُونَ",
+    "arabic2": "اولم يروا الى ما خلق الله من شيء يتفيا ظلاله عن اليمين والشمائل سجدا لله وهم داخرون",
+    "bengali": "আল্লাহ যে সকল বস্তু সৃষ্টি করেছেন, তারা কি সে দিকে তাকায়নি, যার ছায়াসমূহ ডানে ও বামে হেলে পড়ে আল্লাহর জন্য সিজাদারত অবস্থায়, আর তারা একান্ত বিনীত?",
+    "urdu": "کیا ان لوگوں نے خدا کی مخلوقات میں سے ایسی چیزیں نہیں دیکھیں جن کے سائے دائیں سے (بائیں کو) اور بائیں سے (دائیں کو) لوٹتے رہتے ہیں (یعنی) خدا کے آگے عاجز ہو کر سجدے میں پڑے رہتے ہیں"
+}

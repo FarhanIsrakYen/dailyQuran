@@ -1,0 +1,42 @@
+{
+    "surahName": "Saba",
+    "surahNameArabic": "سبإ",
+    "surahNameArabicLong": "سورة سَبَأ",
+    "surahNameTranslation": "Sheba",
+    "revelationPlace": "Mecca",
+    "totalAyah": 54,
+    "surahNo": 34,
+    "ayahNo": 37,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/34_37.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/034037.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/34_37.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/034037.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/34_37.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/034037.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/34_37.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/034037.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/34_37.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/034037.mp3"
+        }
+    },
+    "english": "It is not your wealth or children that bring you closer to Us. But those who believe and do good—it is they who will have a multiplied reward for what they did, and they will be secure in ˹elevated˺ mansions.",
+    "arabic1": "وَمَآ أَمْوَٰلُكُمْ وَلَآ أَوْلَـٰدُكُم بِٱلَّتِى تُقَرِّبُكُمْ عِندَنَا زُلْفَىٰٓ إِلَّا مَنْ ءَامَنَ وَعَمِلَ صَـٰلِحًا فَأُو۟لَـٰٓئِكَ لَهُمْ جَزَآءُ ٱلضِّعْفِ بِمَا عَمِلُوا۟ وَهُمْ فِى ٱلْغُرُفَـٰتِ ءَامِنُونَ",
+    "arabic2": "وما اموالكم ولا اولادكم بالتي تقربكم عندنا زلفى الا من امن وعمل صالحا فاولئك لهم جزاء الضعف بما عملوا وهم في الغرفات امنون",
+    "bengali": "আর তোমাদের ধন-সম্পদ ও সন্তান-সন্ততি এমন বস্তু নয় যা তোমাদেরকে আমার নিকটবর্তী করে দেবে। তবে যারা ঈমান আনে ও নেক আমল করে, তারাই তাদের আমলের বিনিময়ে পাবে বহুগুণ প্রতিদান। আর তারা (জান্নাতের) সুউচ্চ প্রাসাদে নিরাপদে থাকবে।",
+    "urdu": "اور تمہارا مال اور اولاد ایسی چیز نہیں کہ تم کو ہمارا مقرب بنا دیں۔ ہاں (ہمارا مقرب وہ ہے) جو ایمان لایا اور عمل نیک کرتا رہا۔ ایسے ہی لوگوں کو ان کے اعمال کے سبب دگنا بدلہ ملے گا اور وہ خاطر جمع سے بالاخانوں میں بیٹھے ہوں گے"
+}

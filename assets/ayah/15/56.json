@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Hijr",
+    "surahNameArabic": "الحجر",
+    "surahNameArabicLong": "سورة الحجر",
+    "surahNameTranslation": "The Rock",
+    "revelationPlace": "Mecca",
+    "totalAyah": 99,
+    "surahNo": 15,
+    "ayahNo": 56,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/15_56.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/015056.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/15_56.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/015056.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/15_56.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/015056.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/15_56.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/015056.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/15_56.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/015056.mp3"
+        }
+    },
+    "english": "He exclaimed, “Who would despair of the mercy of their Lord except the misguided?”",
+    "arabic1": "قَالَ وَمَن يَقْنَطُ مِن رَّحْمَةِ رَبِّهِۦٓ إِلَّا ٱلضَّآلُّونَ",
+    "arabic2": "قال ومن يقنط من رحمة ربه الا الضالون",
+    "bengali": "সে বলল, ‘পথভ্রষ্টরা ছাড়া, কে তার রবের রহমত থেকে নিরাশ হয়’ ?",
+    "urdu": "(ابراہیم نے) کہا کہ خدا کی رحمت سے (میں مایوس کیوں ہونے لگا اس سے) مایوس ہونا گمراہوں کا کام ہے"
+}

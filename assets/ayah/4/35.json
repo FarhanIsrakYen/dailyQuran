@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 35,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/4_35.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/004035.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/4_35.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/004035.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/4_35.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/004035.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/4_35.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/004035.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/4_35.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/004035.mp3"
+        }
+    },
+    "english": "If you anticipate a split between them, appoint a mediator from his family and another from hers. If they desire reconciliation, Allah will restore harmony between them. Surely Allah is All-Knowing, All-Aware.",
+    "arabic1": "وَإِنْ خِفْتُمْ شِقَاقَ بَيْنِهِمَا فَٱبْعَثُوا۟ حَكَمًا مِّنْ أَهْلِهِۦ وَحَكَمًا مِّنْ أَهْلِهَآ إِن يُرِيدَآ إِصْلَـٰحًا يُوَفِّقِ ٱللَّهُ بَيْنَهُمَآ ۗ إِنَّ ٱللَّهَ كَانَ عَلِيمًا خَبِيرًا",
+    "arabic2": "وان خفتم شقاق بينهما فابعثوا حكما من اهله وحكما من اهلها ان يريدا اصلاحا يوفق الله بينهما ان الله كان عليما خبيرا",
+    "bengali": "আর যদি তোমরা তাদের উভয়ের মধ্যে বিচ্ছেদের আশঙ্কা কর তাহলে স্বামীর পরিবার থেকে একজন বিচারক এবং স্ত্রীর পরিবার থেকে একজন বিচারক পাঠাও। যদি তারা মীমাংসা চায় তাহলে আল্লাহ উভয়ের মধ্যে মিল করে দেবেন। নিশ্চয়ই আল্লাহ সর্বজ্ঞানী, সম্যক অবগত।",
+    "urdu": "اور اگر تم کو معلوم ہو کہ میاں بیوی میں ان بن ہے تو ایک منصف مرد کے خاندان میں سے اور ایک منصف عورت کے خاندان میں سے مقرر کرو وہ اگر صلح کرا دینی چاہیں گے تو خدا ان میں موافقت پیدا کردے گا کچھ شک نہیں کہ خدا سب کچھ جانتا اور سب باتوں سے خبردار ہے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Az-Zumar",
+    "surahNameArabic": "الزمر",
+    "surahNameArabicLong": "سورة الزمر",
+    "surahNameTranslation": "The Groups",
+    "revelationPlace": "Mecca",
+    "totalAyah": 75,
+    "surahNo": 39,
+    "ayahNo": 45,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/39_45.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/039045.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/39_45.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/039045.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/39_45.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/039045.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/39_45.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/039045.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/39_45.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/039045.mp3"
+        }
+    },
+    "english": "Yet when Allah alone is mentioned, the hearts of those who disbelieve in the Hereafter are filled with disgust. But as soon as those ˹gods˺ other than Him are mentioned, they are filled with joy.",
+    "arabic1": "وَإِذَا ذُكِرَ ٱللَّهُ وَحْدَهُ ٱشْمَأَزَّتْ قُلُوبُ ٱلَّذِينَ لَا يُؤْمِنُونَ بِٱلْـَٔاخِرَةِ ۖ وَإِذَا ذُكِرَ ٱلَّذِينَ مِن دُونِهِۦٓ إِذَا هُمْ يَسْتَبْشِرُونَ",
+    "arabic2": "واذا ذكر الله وحده اشمازت قلوب الذين لا يؤمنون بالاخرة واذا ذكر الذين من دونه اذا هم يستبشرون",
+    "bengali": "যারা আখিরাতে বিশ্বাস করে না, এক আল্লাহর কথা বলা হলে তাদের অন্তর সঙ্কুচিত হয়ে যায়। আর আল্লাহ ছাড়া অন্য উপাস্যগুলোর কথা বলা হলে তখনই তারা আনন্দে উৎফুল্ল হয়।",
+    "urdu": "اور جب تنہا خدا کا ذکر کیا جاتا ہے تو جو لوگ آخرت پر ایمان نہیں رکھتے ان کے دل منقبض ہوجاتے ہیں۔ اور جب اس کے سوا اوروں کا ذکر کیا جاتا ہے تو خوش ہوجاتے ہیں"
+}

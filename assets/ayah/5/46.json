@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Maaida",
+    "surahNameArabic": "المائدة",
+    "surahNameArabicLong": "سورة المائدة",
+    "surahNameTranslation": "The Table",
+    "revelationPlace": "Madina",
+    "totalAyah": 120,
+    "surahNo": 5,
+    "ayahNo": 46,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/5_46.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/005046.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/5_46.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/005046.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/5_46.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/005046.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/5_46.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/005046.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/5_46.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/005046.mp3"
+        }
+    },
+    "english": "Then in the footsteps of the prophets, We sent Jesus, son of Mary, confirming the Torah revealed before him. And We gave him the Gospel containing guidance and light and confirming what was revealed in the Torah—a guide and a lesson to the God-fearing.",
+    "arabic1": "وَقَفَّيْنَا عَلَىٰٓ ءَاثَـٰرِهِم بِعِيسَى ٱبْنِ مَرْيَمَ مُصَدِّقًا لِّمَا بَيْنَ يَدَيْهِ مِنَ ٱلتَّوْرَىٰةِ ۖ وَءَاتَيْنَـٰهُ ٱلْإِنجِيلَ فِيهِ هُدًى وَنُورٌ وَمُصَدِّقًا لِّمَا بَيْنَ يَدَيْهِ مِنَ ٱلتَّوْرَىٰةِ وَهُدًى وَمَوْعِظَةً لِّلْمُتَّقِينَ",
+    "arabic2": "وقفينا على اثارهم بعيسى ابن مريم مصدقا لما بين يديه من التوراة واتيناه الانجيل فيه هدى ونور ومصدقا لما بين يديه من التوراة وهدى وموعظة للمتقين",
+    "bengali": "আর আমি তাদের পেছনে মারইয়াম পুত্র ঈসাকে পাঠিয়েছিলাম তার সম্মুখে বিদ্যমান তাওরাতের সত্যায়নকারীরূপে এবং তাকে দিয়েছিলাম ইনজীল, এতে রয়েছে হিদায়াত ও আলো এবং (তা ছিল) তার সম্মুখে অবশিষ্ট তাওরাতের সত্যায়নকারী, হিদায়াত ও মুত্তাকীদের জন্য উপদেশস্বরূপ।",
+    "urdu": "اور ان پیغمبروں کے بعد انہی کے قدموں پر ہم نے عیسیٰ بن مریم کو بھیجا جو اپنے سے پہلے کی کتاب تورات کی تصدیق کرتے تھے اور ان کو انجیل عنایت کی جس میں ہدایت اور نور ہے اور تورات کی جو اس سے پہلی کتاب (ہے) تصدیق کرتی ہے اور پرہیزگاروں کو راہ بتاتی اور نصیحت کرتی ہے"
+}

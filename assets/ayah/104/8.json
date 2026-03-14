@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Humaza",
+    "surahNameArabic": "الهمزة",
+    "surahNameArabicLong": "سورة الهمزة",
+    "surahNameTranslation": "The Traducer",
+    "revelationPlace": "Mecca",
+    "totalAyah": 9,
+    "surahNo": 104,
+    "ayahNo": 8,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/104_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/104008.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/104_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/104008.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/104_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/104008.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/104_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/104008.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/104_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/104008.mp3"
+        }
+    },
+    "english": "It will be sealed over them",
+    "arabic1": "إِنَّهَا عَلَيْهِم مُّؤْصَدَةٌ",
+    "arabic2": "انها عليهم مؤصدة",
+    "bengali": "নিশ্চয় তা তাদেরকে আবদ্ধ করে রাখবে।",
+    "urdu": "(اور) وہ اس میں بند کر دیئے جائیں گے"
+}

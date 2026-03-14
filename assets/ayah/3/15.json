@@ -1,0 +1,42 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 15,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/3_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/003015.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/3_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/003015.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/3_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/003015.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/3_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/003015.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/3_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/003015.mp3"
+        }
+    },
+    "english": "Say, ˹O Prophet,˺ “Shall I inform you of what is better than ˹all of˺ this? Those mindful ˹of Allah˺ will have Gardens with their Lord under which rivers flow, to stay there forever, and pure spouses, along with Allah’s pleasure.” And Allah is All-Seeing of ˹His˺ servants",
+    "arabic1": "۞ قُلْ أَؤُنَبِّئُكُم بِخَيْرٍ مِّن ذَٰلِكُمْ ۚ لِلَّذِينَ ٱتَّقَوْا۟ عِندَ رَبِّهِمْ جَنَّـٰتٌ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ خَـٰلِدِينَ فِيهَا وَأَزْوَٰجٌ مُّطَهَّرَةٌ وَرِضْوَٰنٌ مِّنَ ٱللَّهِ ۗ وَٱللَّهُ بَصِيرٌۢ بِٱلْعِبَادِ",
+    "arabic2": "قل اؤنبئكم بخير من ذلكم للذين اتقوا عند ربهم جنات تجري من تحتها الانهار خالدين فيها وازواج مطهرة ورضوان من الله والله بصير بالعباد",
+    "bengali": "বল, ‘আমি কি তোমাদেরকে এর চেয়েও উত্তম বস্তুর সংবাদ দেব? যারা তাকওয়া অর্জন করে, তাদের জন্য রয়েছে তাদের রবের নিকট জান্নাত, যার তলদেশ দিয়ে প্রবাহিত হয় নহরসমূহ। সেখানে তারা স্থায়ী হবে। আর পবিত্র স্ত্রীগণ ও আল্লাহর পক্ষ থেকে সন্তুষ্টি’। আর আল্লাহ বান্দাদের সম্পর্কে সম্যক দ্রষ্টা।",
+    "urdu": "(اے پیغمبر ان سے) کہو کہ بھلا میں تم کو ایسی چیز بتاؤں جو ان چیزوں سے کہیں اچھی ہو (سنو) جو لوگ پرہیزگار ہیں ان کے لیے خدا کے ہاں باغات (بہشت) ہیں جن کے نیچے نہریں بہہ رہی ہیں ان میں وہ ہمیشہ رہیں گے اور پاکیزہ عورتیں ہیں اور (سب سے بڑھ کر) خدا کی خوشنودی اور خدا (اپنے نیک) بندوں کو دیکھ رہا ہے"
+}

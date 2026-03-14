@@ -1,0 +1,42 @@
+{
+    "surahName": "Ibrahim",
+    "surahNameArabic": "ابراهيم",
+    "surahNameArabicLong": "سورة ابراهيم",
+    "surahNameTranslation": "Abraham",
+    "revelationPlace": "Mecca",
+    "totalAyah": 52,
+    "surahNo": 14,
+    "ayahNo": 36,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/14_36.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/014036.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/14_36.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/014036.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/14_36.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/014036.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/14_36.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/014036.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/14_36.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/014036.mp3"
+        }
+    },
+    "english": "My Lord! They have caused many people to go astray. So whoever follows me is with me, and whoever disobeys me—then surely You are ˹still˺ All-Forgiving, Most Merciful.",
+    "arabic1": "رَبِّ إِنَّهُنَّ أَضْلَلْنَ كَثِيرًا مِّنَ ٱلنَّاسِ ۖ فَمَن تَبِعَنِى فَإِنَّهُۥ مِنِّى ۖ وَمَنْ عَصَانِى فَإِنَّكَ غَفُورٌ رَّحِيمٌ",
+    "arabic2": "رب انهن اضللن كثيرا من الناس فمن تبعني فانه مني ومن عصاني فانك غفور رحيم",
+    "bengali": "‘হে আমার রব, নিশ্চয় এসব মূর্তি অনেক মানুষকে পথভ্রষ্ট করেছে, সুতরাং যে আমার অনুসরণ করেছে, নিশ্চয় সে আমার দলভুক্ত, আর যে আমার অবাধ্য হয়েছে, তবে নিশ্চয় আপনি ক্ষমাশীল, পরম দয়ালু’।",
+    "urdu": "اے پروردگار انہوں نے بہت سے لوگوں کو گمراہ کیا ہے۔ سو جس شخص نے میرا کہا مانا وہ میرا ہے۔ اور جس نے میری نافرمانی کی تو تُو بخشنے والا مہربان ہے"
+}

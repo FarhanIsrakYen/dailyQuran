@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nahl",
+    "surahNameArabic": "النحل",
+    "surahNameArabicLong": "سورة النحل",
+    "surahNameTranslation": "The Bee",
+    "revelationPlace": "Mecca",
+    "totalAyah": 128,
+    "surahNo": 16,
+    "ayahNo": 77,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/16_77.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/016077.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/16_77.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/016077.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/16_77.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/016077.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/16_77.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/016077.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/16_77.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/016077.mp3"
+        }
+    },
+    "english": "To Allah ˹alone˺ belongs ˹the knowledge of˺ the unseen in the heavens and the earth. Bringing about the Hour would only take the blink of an eye, or even less. Surely Allah is Most Capable of everything.",
+    "arabic1": "وَلِلَّهِ غَيْبُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ وَمَآ أَمْرُ ٱلسَّاعَةِ إِلَّا كَلَمْحِ ٱلْبَصَرِ أَوْ هُوَ أَقْرَبُ ۚ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+    "arabic2": "ولله غيب السماوات والارض وما امر الساعة الا كلمح البصر او هو اقرب ان الله على كل شيء قدير",
+    "bengali": "আর আসমানসমূহ ও যমীনে গায়েবী বিষয় আল্লাহরই। আর কিয়ামতের ব্যাপারটি শুধু চোখের পলকের ন্যায়। কিংবা তা আরো নিকটবর্তী। নিশ্চয় আল্লাহ সব কিছুর উপর ক্ষমতাবান।",
+    "urdu": "اور آسمانوں اور زمین کا علم خدا ہی کو ہے اور (خدا کے نزدیک) قیامت کا آنا یوں ہے جیسے آنکھ کا جھپکنا بلکہ اس سے بھی جلد تر۔ کچھ شک نہیں کہ خدا ہر چیز پر قادر ہے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Noor",
+    "surahNameArabic": "النور",
+    "surahNameArabicLong": "سورة النور",
+    "surahNameTranslation": "The Light",
+    "revelationPlace": "Madina",
+    "totalAyah": 64,
+    "surahNo": 24,
+    "ayahNo": 40,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/24_40.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/024040.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/24_40.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/024040.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/24_40.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/024040.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/24_40.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/024040.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/24_40.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/024040.mp3"
+        }
+    },
+    "english": "Or ˹their deeds are˺ like the darkness in a deep sea, covered by waves upon waves, topped by ˹dark˺ clouds. Darkness upon darkness! If one stretches out their hand, they can hardly see it. And whoever Allah does not bless with light will have no light!",
+    "arabic1": "أَوْ كَظُلُمَـٰتٍ فِى بَحْرٍ لُّجِّىٍّ يَغْشَىٰهُ مَوْجٌ مِّن فَوْقِهِۦ مَوْجٌ مِّن فَوْقِهِۦ سَحَابٌ ۚ ظُلُمَـٰتٌۢ بَعْضُهَا فَوْقَ بَعْضٍ إِذَآ أَخْرَجَ يَدَهُۥ لَمْ يَكَدْ يَرَىٰهَا ۗ وَمَن لَّمْ يَجْعَلِ ٱللَّهُ لَهُۥ نُورًا فَمَا لَهُۥ مِن نُّورٍ",
+    "arabic2": "او كظلمات في بحر لجي يغشاه موج من فوقه موج من فوقه سحاب ظلمات بعضها فوق بعض اذا اخرج يده لم يكد يراها ومن لم يجعل الله له نورا فما له من نور",
+    "bengali": "অথবা (তাদের আমলসমূহ) গভীর সমূদ্রে ঘনিভূত অন্ধকারের মত, যাকে আচ্ছন্ন করে ঢেউয়ের উপরে ঢেউ, তার উপরে মেঘমালা। অনেক অন্ধকার; এক স্তরের উপর অপর স্তর। কেউ হাত বের করলে আদৌ তা দেখতে পায় না। আর আল্লাহ যাকে নূর দেন না তার জন্য কোন নূর নেই।",
+    "urdu": "یا (ان کے اعمال کی مثال ایسی ہے) جیسے دریائے عمیق میں اندھیرے جس پر لہر چڑھی چلی آتی ہو اور اس کے اوپر اور لہر (آرہی ہو) اور اس کے اوپر بادل ہو، غرض اندھیرے ہی اندھیرے ہوں، ایک پر ایک (چھایا ہوا) جب اپنا ہاتھ نکالے تو کچھ نہ دیکھ سکے۔ اور جس کو خدا روشنی نہ دے اس کو (کہیں بھی) روشنی نہیں (مل سکتی)"
+}

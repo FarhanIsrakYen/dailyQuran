@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Hajj",
+    "surahNameArabic": "الحج",
+    "surahNameArabicLong": "سورة الحج",
+    "surahNameTranslation": "The Pilgrimage",
+    "revelationPlace": "Madina",
+    "totalAyah": 78,
+    "surahNo": 22,
+    "ayahNo": 30,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/22_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/022030.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/22_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/022030.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/22_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/022030.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/22_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/022030.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/22_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/022030.mp3"
+        }
+    },
+    "english": "That is so. And whoever honours the rituals of Allah, it is best for them in the sight of their Lord. The ˹meat of˺ cattle has been made lawful for you, except what has ˹already˺ been recited to you. So shun the impurity of idolatry, and shun words of falsehood.",
+    "arabic1": "ذَٰلِكَ وَمَن يُعَظِّمْ حُرُمَـٰتِ ٱللَّهِ فَهُوَ خَيْرٌ لَّهُۥ عِندَ رَبِّهِۦ ۗ وَأُحِلَّتْ لَكُمُ ٱلْأَنْعَـٰمُ إِلَّا مَا يُتْلَىٰ عَلَيْكُمْ ۖ فَٱجْتَنِبُوا۟ ٱلرِّجْسَ مِنَ ٱلْأَوْثَـٰنِ وَٱجْتَنِبُوا۟ قَوْلَ ٱلزُّورِ",
+    "arabic2": "ذلك ومن يعظم حرمات الله فهو خير له عند ربه واحلت لكم الانعام الا ما يتلى عليكم فاجتنبوا الرجس من الاوثان واجتنبوا قول الزور",
+    "bengali": "এটিই বিধান আর কেউ আল্লাহ কর্তৃক নির্ধারিত পবিত্র বিষয়সমূহকে সম্মান করলে তার রবের নিকট তা-ই তার জন্য উত্তম। আর তোমাদের জন্য হালাল করা হয়েছে চতুষ্পদ জন্তু; তবে যা তোমাদের কাছে পাঠ করা হয় সেগুলি ছাড়া। সুতরাং মূর্তিপূজার অপবিত্রতা থেকে বিরত থাক এবং মিথ্যা কথা পরিহার কর-",
+    "urdu": "یہ (ہمارا حکم ہے) جو شخص ادب کی چیزوں کی جو خدا نے مقرر کی ہیں عظمت رکھے تو یہ پروردگار کے نزدیک اس کے حق میں بہتر ہے۔ اور تمہارے لئے مویشی حلال کردیئے گئے ہیں۔ سوا ان کے جو تمہیں پڑھ کر سنائے جاتے ہیں تو بتوں کی پلیدی سے بچو اور جھوٹی بات سے اجتناب کرو"
+}

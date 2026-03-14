@@ -1,0 +1,42 @@
+{
+    "surahName": "Muhammad",
+    "surahNameArabic": "محمد",
+    "surahNameArabicLong": "سورة محمد",
+    "surahNameTranslation": "Muhammad",
+    "revelationPlace": "Madina",
+    "totalAyah": 38,
+    "surahNo": 47,
+    "ayahNo": 1,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/47_1.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/047001.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/47_1.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/047001.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/47_1.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/047001.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/47_1.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/047001.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/47_1.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/047001.mp3"
+        }
+    },
+    "english": "Those who disbelieve and hinder ˹others˺ from the Way of Allah, He will render their deeds void.",
+    "arabic1": "ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ أَضَلَّ أَعْمَـٰلَهُمْ",
+    "arabic2": "الذين كفروا وصدوا عن سبيل الله اضل اعمالهم",
+    "bengali": "যারা কুফরী করেছে এবং আল্লাহর পথ থেকে বারণ করেছে, তিনি তাদের আমলসমূহ ব্যর্থ করে দিয়েছেন।",
+    "urdu": "جن لوگوں نے کفر کیا اور (اَوروں کو) خدا کے رستے سے روکا۔ خدا نے ان کے اعمال برباد کر دیئے"
+}

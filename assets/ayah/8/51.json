@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Anfaal",
+    "surahNameArabic": "الأنفال",
+    "surahNameArabicLong": "سورة الأنفال",
+    "surahNameTranslation": "The Spoils of War",
+    "revelationPlace": "Madina",
+    "totalAyah": 75,
+    "surahNo": 8,
+    "ayahNo": 51,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/8_51.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/008051.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/8_51.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/008051.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/8_51.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/008051.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/8_51.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/008051.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/8_51.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/008051.mp3"
+        }
+    },
+    "english": "This is ˹the reward˺ for what your hands have done. And Allah is never unjust to ˹His˺ creation.”",
+    "arabic1": "ذَٰلِكَ بِمَا قَدَّمَتْ أَيْدِيكُمْ وَأَنَّ ٱللَّهَ لَيْسَ بِظَلَّـٰمٍ لِّلْعَبِيدِ",
+    "arabic2": "ذلك بما قدمت ايديكم وان الله ليس بظلام للعبيد",
+    "bengali": "তোমাদের হাত আগে যা প্রেরণ করেছে সে কারণে এ পরিণাম। আর নিশ্চয় আল্লাহ বান্দাদের প্রতি যুলমকারী নন।",
+    "urdu": "یہ ان (اعمال) کی سزا ہے جو تمہارے ہاتھوں نے آگے بھیجے ہیں۔ اور یہ (جان رکھو) کہ خدا بندوں پر ظلم نہیں کرتا"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Naml",
+    "surahNameArabic": "النمل",
+    "surahNameArabicLong": "سورة النمل",
+    "surahNameTranslation": "The Ant",
+    "revelationPlace": "Mecca",
+    "totalAyah": 93,
+    "surahNo": 27,
+    "ayahNo": 62,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/27_62.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/027062.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/27_62.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/027062.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/27_62.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/027062.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/27_62.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/027062.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/27_62.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/027062.mp3"
+        }
+    },
+    "english": "Or ˹ask them,˺ “Who responds to the distressed when they cry to Him, relieving ˹their˺ affliction, and ˹Who˺ makes you successors in the earth? Is it another god besides Allah? Yet you are hardly mindful!”",
+    "arabic1": "أَمَّن يُجِيبُ ٱلْمُضْطَرَّ إِذَا دَعَاهُ وَيَكْشِفُ ٱلسُّوٓءَ وَيَجْعَلُكُمْ خُلَفَآءَ ٱلْأَرْضِ ۗ أَءِلَـٰهٌ مَّعَ ٱللَّهِ ۚ قَلِيلًا مَّا تَذَكَّرُونَ",
+    "arabic2": "امن يجيب المضطر اذا دعاه ويكشف السوء ويجعلكم خلفاء الارض االه مع الله قليلا ما تذكرون",
+    "bengali": "বরং তিনি, যিনি নিরুপায়ের আহবানে সাড়া দেন এবং বিপদ দূরীভূত করেন এবং তোমাদেরকে যমীনের প্রতিনিধি বানান। আল্লাহর সাথে কি অন্য কোন ইলাহ আছে ? তোমরা কমই উপদেশ গ্রহণ করে থাক।",
+    "urdu": "بھلا کون بیقرار کی التجا قبول کرتا ہے۔ جب وہ اس سے دعا کرتا ہے اور (کون اس کی) تکلیف کو دور کرتا ہے اور (کون) تم کو زمین میں (اگلوں کا) جانشین بناتا ہے (یہ سب کچھ خدا کرتا ہے) تو کیا خدا کے ساتھ کوئی اور معبود بھی ہے (ہرگز نہیں مگر) تم بہت کم غور کرتے ہو"
+}

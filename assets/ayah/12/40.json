@@ -1,0 +1,42 @@
+{
+    "surahName": "Yusuf",
+    "surahNameArabic": "يوسف",
+    "surahNameArabicLong": "سورة يوسف",
+    "surahNameTranslation": "Joseph",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 12,
+    "ayahNo": 40,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/12_40.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/012040.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/12_40.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/012040.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/12_40.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/012040.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/12_40.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/012040.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/12_40.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/012040.mp3"
+        }
+    },
+    "english": "Whatever ˹idols˺ you worship instead of Him are mere names which you and your forefathers have made up—a practice Allah has never authorized. It is only Allah Who decides. He has commanded that you worship none but Him. That is the upright faith, but most people do not know.",
+    "arabic1": "مَا تَعْبُدُونَ مِن دُونِهِۦٓ إِلَّآ أَسْمَآءً سَمَّيْتُمُوهَآ أَنتُمْ وَءَابَآؤُكُم مَّآ أَنزَلَ ٱللَّهُ بِهَا مِن سُلْطَـٰنٍ ۚ إِنِ ٱلْحُكْمُ إِلَّا لِلَّهِ ۚ أَمَرَ أَلَّا تَعْبُدُوٓا۟ إِلَّآ إِيَّاهُ ۚ ذَٰلِكَ ٱلدِّينُ ٱلْقَيِّمُ وَلَـٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ",
+    "arabic2": "ما تعبدون من دونه الا اسماء سميتموها انتم واباؤكم ما انزل الله بها من سلطان ان الحكم الا لله امر الا تعبدوا الا اياه ذلك الدين القيم ولكن اكثر الناس لا يعلمون",
+    "bengali": "‘তোমরা তাঁকে বাদ দিয়ে নিছক কতগুলো নামের ইবাদাত করছ, যাদের নামকরণ তোমরা ও তোমাদের পিতৃপুরুষরা করেছ, যাদের ব্যাপারে আল্লাহ প্রমাণ নাযিল করেননি। বিধান একমাত্র আল্লাহরই। তিনি নির্দেশ দিয়েছেন যে, ‘তাঁকে ছাড়া আর কারো ইবাদাত করো না’। এটিই সঠিক দীন, কিন্তু অধিকাংশ লোক জানে না’।",
+    "urdu": "جن چیزوں کی تم خدا کے سوا پرستش کرتے ہو وہ صرف نام ہی نام ہیں جو تم نے اور تمہارے باپ دادا نے رکھ لیے ہیں۔ خدا نے ان کی کوئی سند نازل نہیں کی۔ (سن رکھو کہ) خدا کے سوا کسی کی حکومت نہیں ہے۔ اس نے ارشاد فرمایا ہے کہ اس کے سوا کسی کی عبادت نہ کرو۔ یہی سیدھا دین ہے لیکن اکثر لوگ نہیں جانتے"
+}

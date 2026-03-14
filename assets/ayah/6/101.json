@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 101,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/6_101.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/006101.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/6_101.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/006101.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/6_101.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/006101.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/6_101.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/006101.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/6_101.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/006101.mp3"
+        }
+    },
+    "english": "˹He is˺ the Originator of the heavens and earth. How could He have children when He has no mate? He created all things and has ˹perfect˺ knowledge of everything.",
+    "arabic1": "بَدِيعُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۖ أَنَّىٰ يَكُونُ لَهُۥ وَلَدٌ وَلَمْ تَكُن لَّهُۥ صَـٰحِبَةٌ ۖ وَخَلَقَ كُلَّ شَىْءٍ ۖ وَهُوَ بِكُلِّ شَىْءٍ عَلِيمٌ",
+    "arabic2": "بديع السماوات والارض انى يكون له ولد ولم تكن له صاحبة وخلق كل شيء وهو بكل شيء عليم",
+    "bengali": "তিনিই আল্লাহ, তোমাদের রব। তিনি ছাড়া কোন (সত্য) ইলাহ নেই। তিনি প্রতিটি জিনিসের স্রষ্টা। সুতরাং তোমরা তাঁর ইবাদাত কর। আর তিনি প্রতিটি জিনিসের উপর তত্ত্বাবধায়ক।",
+    "urdu": "(وہی) آسمانوں اور زمین کا پیدا کرنے والا (ہے)۔ اس کے اولاد کہاں سے ہو جب کہ اس کی بیوی ہی نہیں۔ اور اس نے ہر چیز کو پیدا کیا ہے۔ اور وہ ہر چیز سے باخبر ہے"
+}

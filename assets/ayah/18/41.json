@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Kahf",
+    "surahNameArabic": "الكهف",
+    "surahNameArabicLong": "سورة الكهف",
+    "surahNameTranslation": "The Cave",
+    "revelationPlace": "Mecca",
+    "totalAyah": 110,
+    "surahNo": 18,
+    "ayahNo": 41,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/18_41.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/018041.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/18_41.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/018041.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/18_41.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/018041.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/18_41.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/018041.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/18_41.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/018041.mp3"
+        }
+    },
+    "english": "Or its water may sink ˹into the earth˺, and then you will never be able to seek it out.”",
+    "arabic1": "أَوْ يُصْبِحَ مَآؤُهَا غَوْرًا فَلَن تَسْتَطِيعَ لَهُۥ طَلَبًا",
+    "arabic2": "او يصبح ماؤها غورا فلن تستطيع له طلبا",
+    "bengali": "‘কিংবা তার পানি মাটির গভীরে চলে যাবে, ফলে তা তুমি কোনভাবেই খুঁজে পাবে না’।",
+    "urdu": "یا اس (کی نہر) کا پانی گہرا ہوجائے تو پھر تم اسے نہ لاسکو"
+}

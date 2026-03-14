@@ -1,0 +1,42 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 156,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/3_156.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/003156.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/3_156.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/003156.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/3_156.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/003156.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/3_156.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/003156.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/3_156.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/003156.mp3"
+        }
+    },
+    "english": "O believers! Do not be like the unfaithful who say about their brothers who travel throughout the land or engage in battle, “If they had stayed with us, they would not have died or been killed.” Allah makes such thinking a cause of agony in their hearts. It is Allah who gives life and causes death. And Allah is All-Seeing of what you do.",
+    "arabic1": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَكُونُوا۟ كَٱلَّذِينَ كَفَرُوا۟ وَقَالُوا۟ لِإِخْوَٰنِهِمْ إِذَا ضَرَبُوا۟ فِى ٱلْأَرْضِ أَوْ كَانُوا۟ غُزًّى لَّوْ كَانُوا۟ عِندَنَا مَا مَاتُوا۟ وَمَا قُتِلُوا۟ لِيَجْعَلَ ٱللَّهُ ذَٰلِكَ حَسْرَةً فِى قُلُوبِهِمْ ۗ وَٱللَّهُ يُحْىِۦ وَيُمِيتُ ۗ وَٱللَّهُ بِمَا تَعْمَلُونَ بَصِيرٌ",
+    "arabic2": "يا ايها الذين امنوا لا تكونوا كالذين كفروا وقالوا لاخوانهم اذا ضربوا في الارض او كانوا غزى لو كانوا عندنا ما ماتوا وما قتلوا ليجعل الله ذلك حسرة في قلوبهم والله يحيي ويميت والله بما تعملون بصير",
+    "bengali": "হে মুমিনগণ, তোমরা তাদের মত হয়ো না, যারা কুফরী করেছে এবং তাদের ভাইদেরকে বলেছে- যখন তারা যমীনে সফরে বের হয়েছিল অথবা তারা ছিল যোদ্ধা (অতঃপর নিহত হয়েছিল)-‘যদি তারা আমাদের কাছে থাকত, তবে তারা মারা যেত না এবং তাদেরকে হত্যা করা হত না’। যাতে আল্লাহ তা তাদের অন্তরে আক্ষেপে পরিণত করেন এবং আল্লাহ জীবন দান করেন ও মৃত্যু দেন। আর তোমরা যা কর আল্লাহ সে বিষয়ে সম্যক দ্রষ্টা।",
+    "urdu": "مومنو! ان لوگوں جیسے نہ ہونا جو کفر کرتے ہیں اور ان کے (مسلمان) بھائی جب (خدا کی راہ میں) سفر کریں (اور مر جائیں) یا جہاد کو نکلیں (اور مارے جائیں) تو ان کی نسبت کہتے ہیں کہ اگر وہ ہمارے پاس رہتے تو نہ مرتے اور نہ مارے جاتے۔ ان باتوں سے مقصود یہ ہے کہ خدا ان لوگوں کے دلوں میں افسوس پیدا کر دے اور زندگی اور موت تو خدا ہی دیتا ہے اور خدا تمہارے سب کاموں کو دیکھ رہا ہے"
+}

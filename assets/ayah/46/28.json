@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Ahqaf",
+    "surahNameArabic": "الأحقاف",
+    "surahNameArabicLong": "سورة الأحقاف",
+    "surahNameTranslation": "The Dunes",
+    "revelationPlace": "Mecca",
+    "totalAyah": 35,
+    "surahNo": 46,
+    "ayahNo": 28,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/46_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/046028.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/46_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/046028.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/46_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/046028.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/46_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/046028.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/46_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/046028.mp3"
+        }
+    },
+    "english": "Why then did those ˹idols˺ they took as gods—hoping to get closer ˹to Him˺—not come to their aid? Instead, they failed them. That is ˹the result of˺ their lies and their fabrications.",
+    "arabic1": "فَلَوْلَا نَصَرَهُمُ ٱلَّذِينَ ٱتَّخَذُوا۟ مِن دُونِ ٱللَّهِ قُرْبَانًا ءَالِهَةًۢ ۖ بَلْ ضَلُّوا۟ عَنْهُمْ ۚ وَذَٰلِكَ إِفْكُهُمْ وَمَا كَانُوا۟ يَفْتَرُونَ",
+    "arabic2": "فلولا نصرهم الذين اتخذوا من دون الله قربانا الهة بل ضلوا عنهم وذلك افكهم وما كانوا يفترون",
+    "bengali": "অতঃপর তারা আল্লাহর সান্নিধ্য লাভের জন্য আল্লাহর পরিবর্তে যাদেরকে উপাস্যরূপে গ্রহণ করেছিল, তারা কেন তাদেরকে সাহায্য করল না? বরং তারা তাদের থেকে অদৃশ্য হয়ে গেল, আর এটা তাদের মিথ্যাচার এবং তাদের মনগড়া উদ্ভাবন।",
+    "urdu": "تو جن کو ان لوگوں نے تقرب (خدا) کے سوا معبود بنایا تھا انہوں نے ان کی کیوں مدد نہ کی۔ بلکہ وہ ان (کے سامنے) سے گم ہوگئے۔ اور یہ ان کا جھوٹ تھا اور یہی وہ افتراء کیا کرتے تھے"
+}

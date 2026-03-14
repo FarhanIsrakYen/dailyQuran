@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Anfaal",
+    "surahNameArabic": "الأنفال",
+    "surahNameArabicLong": "سورة الأنفال",
+    "surahNameTranslation": "The Spoils of War",
+    "revelationPlace": "Madina",
+    "totalAyah": 75,
+    "surahNo": 8,
+    "ayahNo": 24,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/8_24.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/008024.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/8_24.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/008024.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/8_24.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/008024.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/8_24.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/008024.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/8_24.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/008024.mp3"
+        }
+    },
+    "english": "O believers! Respond to Allah and His Messenger when he calls you to that which gives you life. And know that Allah stands between a person and their heart, and that to Him you will all be gathered.",
+    "arabic1": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱسْتَجِيبُوا۟ لِلَّهِ وَلِلرَّسُولِ إِذَا دَعَاكُمْ لِمَا يُحْيِيكُمْ ۖ وَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ يَحُولُ بَيْنَ ٱلْمَرْءِ وَقَلْبِهِۦ وَأَنَّهُۥٓ إِلَيْهِ تُحْشَرُونَ",
+    "arabic2": "يا ايها الذين امنوا استجيبوا لله وللرسول اذا دعاكم لما يحييكم واعلموا ان الله يحول بين المرء وقلبه وانه اليه تحشرون",
+    "bengali": "হে মুমিনগণ, তোমরা আল্লাহ ও রাসূলের ডাকে সাড়া দাও; যখন সে তোমাদেরকে আহবান করে তার প্রতি, যা তোমাদেরকে জীবন দান করে। জেনে রাখ, নিশ্চয় আল্লাহ মানুষ ও তার হৃদয়ের মাঝে অন্তরায় হন। আর নিশ্চয় তাঁর নিকট তোমাদেরকে সমবেত করা হবে।",
+    "urdu": "مومنو! خدا اور اس کے رسول کا حکم قبول کرو جب کہ رسول خدا تمہیں ایسے کام کے لیے بلاتے ہیں جو تم کو زندگی (جاوداں) بخشتا ہے۔ اور جان رکھو کہ خدا آدمی اور اس کے دل کے درمیان حامل ہوجاتا ہے اور یہ بھی کہ تم سب اس کے روبرو جمع کیے جاؤ گے"
+}

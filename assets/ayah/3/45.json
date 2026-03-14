@@ -1,0 +1,42 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 45,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/3_45.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/003045.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/3_45.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/003045.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/3_45.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/003045.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/3_45.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/003045.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/3_45.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/003045.mp3"
+        }
+    },
+    "english": "˹Remember˺ when the angels proclaimed, “O Mary! Allah gives you good news of a Word from Him, his name will be the Messiah, Jesus, son of Mary; honoured in this world and the Hereafter, and he will be one of those nearest ˹to Allah˺.",
+    "arabic1": "إِذْ قَالَتِ ٱلْمَلَـٰٓئِكَةُ يَـٰمَرْيَمُ إِنَّ ٱللَّهَ يُبَشِّرُكِ بِكَلِمَةٍ مِّنْهُ ٱسْمُهُ ٱلْمَسِيحُ عِيسَى ٱبْنُ مَرْيَمَ وَجِيهًا فِى ٱلدُّنْيَا وَٱلْـَٔاخِرَةِ وَمِنَ ٱلْمُقَرَّبِينَ",
+    "arabic2": "اذ قالت الملائكة يا مريم ان الله يبشرك بكلمة منه اسمه المسيح عيسى ابن مريم وجيها في الدنيا والاخرة ومن المقربين",
+    "bengali": "স্মরণ কর, যখন ফেরেশতারা বলল, ‘হে মারইয়াম, নিশ্চয় আল্লাহ তোমাকে তাঁর পক্ষ থেকে একটি কালেমার সুসংবাদ দিচ্ছেন, যার নাম মসীহ ঈসা ইবনে মারইয়াম, যে দুনিয়া ও আখিরাতে সম্মানিত এবং নৈকট্যপ্রাপ্তদের অন্তর্ভুক্ত’।",
+    "urdu": "(وہ وقت بھی یاد کرنے کے لائق ہے) جب فرشتوں نے (مریم سے کہا) کہ مریم خدا تم کو اپنی طرف سے ایک فیض کی بشارت دیتا ہے جس کا نام مسیح (اور مشہور) عیسیٰ ابن مریم ہوگا (اور) جو دنیا اور آخرت میں باآبرو اور (خدا کے) خاصوں میں سے ہوگا"
+}

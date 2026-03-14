@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Anbiyaa",
+    "surahNameArabic": "الأنبياء",
+    "surahNameArabicLong": "سورة الأنبياء",
+    "surahNameTranslation": "The Prophets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 112,
+    "surahNo": 21,
+    "ayahNo": 51,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/21_51.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/021051.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/21_51.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/021051.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/21_51.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/021051.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/21_51.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/021051.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/21_51.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/021051.mp3"
+        }
+    },
+    "english": "And indeed, We had granted Abraham sound judgment early on, for We knew him well ˹to be worthy of it˺.",
+    "arabic1": "۞ وَلَقَدْ ءَاتَيْنَآ إِبْرَٰهِيمَ رُشْدَهُۥ مِن قَبْلُ وَكُنَّا بِهِۦ عَـٰلِمِينَ",
+    "arabic2": "ولقد اتينا ابراهيم رشده من قبل وكنا به عالمين",
+    "bengali": "আর আমি তো ইতঃপূর্বে ইবরাহীমকে সঠিক পথের জ্ঞান দিয়েছিলাম এবং আমি তার সম্পর্কে ছিলাম সম্যক অবগত।",
+    "urdu": "اور ہم نے ابراہیمؑ کو پہلے ہی سے ہدایت دی تھی اور ہم ان کے حال سے واقف تھے"
+}

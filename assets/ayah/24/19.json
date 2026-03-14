@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Noor",
+    "surahNameArabic": "النور",
+    "surahNameArabicLong": "سورة النور",
+    "surahNameTranslation": "The Light",
+    "revelationPlace": "Madina",
+    "totalAyah": 64,
+    "surahNo": 24,
+    "ayahNo": 19,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/24_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/024019.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/24_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/024019.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/24_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/024019.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/24_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/024019.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/24_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/024019.mp3"
+        }
+    },
+    "english": "Indeed, those who love to see indecency spread among the believers will suffer a painful punishment in this life and the Hereafter. Allah knows and you do not know.",
+    "arabic1": "إِنَّ ٱلَّذِينَ يُحِبُّونَ أَن تَشِيعَ ٱلْفَـٰحِشَةُ فِى ٱلَّذِينَ ءَامَنُوا۟ لَهُمْ عَذَابٌ أَلِيمٌ فِى ٱلدُّنْيَا وَٱلْـَٔاخِرَةِ ۚ وَٱللَّهُ يَعْلَمُ وَأَنتُمْ لَا تَعْلَمُونَ",
+    "arabic2": "ان الذين يحبون ان تشيع الفاحشة في الذين امنوا لهم عذاب اليم في الدنيا والاخرة والله يعلم وانتم لا تعلمون",
+    "bengali": "নিশ্চয় যারা এটা পছন্দ করে যে, মুমিনদের মধ্যে অশ্লীলতা ছড়িয়ে পড়ুক, তাদের জন্য দুনিয়া ও আখেরাতে রয়েছে যন্ত্রণাদায়ক আযাব। আর আল্লাহ জানেন এবং তোমরা জান না।",
+    "urdu": "اور جو لوگ اس بات کو پسند کرتے ہیں کہ مومنوں میں بےحیائی یعنی (تہمت بدکاری کی خبر) پھیلے ان کو دنیا اور آخرت میں دکھ دینے والا عذاب ہوگا۔ اور خدا جانتا ہے اور تم نہیں جانتے"
+}

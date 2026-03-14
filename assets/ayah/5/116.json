@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Maaida",
+    "surahNameArabic": "المائدة",
+    "surahNameArabicLong": "سورة المائدة",
+    "surahNameTranslation": "The Table",
+    "revelationPlace": "Madina",
+    "totalAyah": 120,
+    "surahNo": 5,
+    "ayahNo": 116,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/5_116.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/005116.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/5_116.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/005116.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/5_116.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/005116.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/5_116.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/005116.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/5_116.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/005116.mp3"
+        }
+    },
+    "english": "And ˹on Judgment Day˺ Allah will say, “O Jesus, son of Mary! Did you ever ask the people to worship you and your mother as gods besides Allah?” He will answer, “Glory be to You! How could I ever say what I had no right to say? If I had said such a thing, you would have certainly known it. You know what is ˹hidden˺ within me, but I do not know what is within You. Indeed, You ˹alone˺ are the Knower of all unseen.",
+    "arabic1": "وَإِذْ قَالَ ٱللَّهُ يَـٰعِيسَى ٱبْنَ مَرْيَمَ ءَأَنتَ قُلْتَ لِلنَّاسِ ٱتَّخِذُونِى وَأُمِّىَ إِلَـٰهَيْنِ مِن دُونِ ٱللَّهِ ۖ قَالَ سُبْحَـٰنَكَ مَا يَكُونُ لِىٓ أَنْ أَقُولَ مَا لَيْسَ لِى بِحَقٍّ ۚ إِن كُنتُ قُلْتُهُۥ فَقَدْ عَلِمْتَهُۥ ۚ تَعْلَمُ مَا فِى نَفْسِى وَلَآ أَعْلَمُ مَا فِى نَفْسِكَ ۚ إِنَّكَ أَنتَ عَلَّـٰمُ ٱلْغُيُوبِ",
+    "arabic2": "واذ قال الله يا عيسى ابن مريم اانت قلت للناس اتخذوني وامي الهين من دون الله قال سبحانك ما يكون لي ان اقول ما ليس لي بحق ان كنت قلته فقد علمته تعلم ما في نفسي ولا اعلم ما في نفسك انك انت علام الغيوب",
+    "bengali": "আর আল্লাহ যখন বলবেন, ‘হে মারইয়ামের পুত্র ঈসা, তুমি কি মানুষদেরকে বলেছিলে যে, ‘তোমরা আল্লাহ ছাড়া আমাকে ও আমার মাতাকে ইলাহরূপে গ্রহণ কর?’ সে বলবে, ‘আপনি পবিত্র মহান, যার অধিকার আমার নেই তা বলা আমার জন্য সম্ভব নয়। যদি আমি তা বলতাম তাহলে অবশ্যই আপনি তা জানতেন। আমার অন্তরে যা আছে তা আপনি জানেন, আর আপনার অন্তরে যা আছে তা আমি জানি না; নিশ্চয় আপনি গায়েবী বিষয়সমূহে সর্বজ্ঞাত’।",
+    "urdu": "اور (اس وقت کو بھی یاد رکھو) جب خدا فرمائے گا کہ اے عیسیٰ بن مریم! کیا تم نے لوگوں سے کہا تھا کہ خدا کے سوا مجھے اور میری والدہ کو معبود مقرر کرو؟ وہ کہیں گے کہ تو پاک ہے مجھے کب شایاں تھا کہ میں ایسی بات کہتا جس کا مجھے کچھ حق نہیں اگر میں نے ایسا کہا ہوگا تو تجھ کو معلوم ہوگا (کیونکہ) جو بات میرے دل میں ہے تو اسے جانتا ہے اور جو تیرے ضمیر میں ہے اسے میں نہیں جانتا بےشک تو علاّم الغیوب ہے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Ghafir",
+    "surahNameArabic": "غافر",
+    "surahNameArabicLong": "سورة غافر",
+    "surahNameTranslation": "The Forgiver",
+    "revelationPlace": "Mecca",
+    "totalAyah": 85,
+    "surahNo": 40,
+    "ayahNo": 28,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/40_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/040028.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/40_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/040028.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/40_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/040028.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/40_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/040028.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/40_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/040028.mp3"
+        }
+    },
+    "english": "A believing man from Pharaoh’s people, who was hiding his faith, argued, “Will you kill a man ˹only˺ for saying: ‘My Lord is Allah,’ while he has in fact come to you with clear proofs from your Lord? If he is a liar, it will be to his own loss. But if he is truthful, then you will be afflicted with some of what he is threatening you with. Surely Allah does not guide whoever is a transgressor, a total liar.",
+    "arabic1": "وَقَالَ رَجُلٌ مُّؤْمِنٌ مِّنْ ءَالِ فِرْعَوْنَ يَكْتُمُ إِيمَـٰنَهُۥٓ أَتَقْتُلُونَ رَجُلًا أَن يَقُولَ رَبِّىَ ٱللَّهُ وَقَدْ جَآءَكُم بِٱلْبَيِّنَـٰتِ مِن رَّبِّكُمْ ۖ وَإِن يَكُ كَـٰذِبًا فَعَلَيْهِ كَذِبُهُۥ ۖ وَإِن يَكُ صَادِقًا يُصِبْكُم بَعْضُ ٱلَّذِى يَعِدُكُمْ ۖ إِنَّ ٱللَّهَ لَا يَهْدِى مَنْ هُوَ مُسْرِفٌ كَذَّابٌ",
+    "arabic2": "وقال رجل مؤمن من ال فرعون يكتم ايمانه اتقتلون رجلا ان يقول ربي الله وقد جاءكم بالبينات من ربكم وان يك كاذبا فعليه كذبه وان يك صادقا يصبكم بعض الذي يعدكم ان الله لا يهدي من هو مسرف كذاب",
+    "bengali": "‘আর ফির‘আউন বংশের এক মুমিন ব্যক্তি যে তার ঈমান গোপন রাখছিল সে বলল, ‘তোমরা কি একটি লোককে কেবল এ কারণে হত্যা করবে যে সে বলে, ‘আমার রব আল্লাহ’ অথচ সে তোমাদের রবের পক্ষ থেকে সুস্পষ্ট প্রমাণ নিয়ে তোমাদের কাছে এসেছে? সে যদি মিথ্যাবাদী হয় তবে তার উপরই বর্তাবে তার মিথ্যা; আর সে যদি সত্যবাদী হয় তবে যে বিষয়ে সে তোমাদেরকে ওয়াদা দিচ্ছে তার কিছু তোমাদের উপর আপতিত হবে। নিশ্চয় আল্লাহ তাকে হিদায়াত দেন না, যে সীমালংঘনকারী, মিথ্যাবাদী’।",
+    "urdu": "اور فرعون کے لوگوں میں سے ایک مومن شخص جو اپنے ایمان کو پوشیدہ رکھتا تھا کہنے لگا کیا تم ایسے شخص کو قتل کرنا چاہتے ہو جو کہتا ہے کہ میرا پروردگار خدا ہے اور وہ تمہارے پروردگار (کی طرف) سے نشانیاں بھی لے کر آیا ہے۔ اور اگر وہ جھوٹا ہوگا تو اس کے جھوٹ کا ضرر اسی کو ہوگا۔ اور اگر سچا ہوگا تو کوئی سا عذاب جس کا وہ تم سے وعدہ کرتا ہے تم پر واقع ہو کر رہے گا۔ بےشک خدا اس شخص کو ہدایت نہیں دیتا جو بےلحاظ جھوٹا ہے"
+}

@@ -68,6 +68,3 @@ export function buildPlan(surahs: SurahInfo[], totalDays: number): DayPlan[] {
     return days;
 }
 
-export const SURAH_API = 'https://quranapi.pages.dev/api/surah.json';
-export const AYAH_API = (surah: number, ayah: number) =>
-    `https://quranapi.pages.dev/api/${surah}/${ayah}.json`;

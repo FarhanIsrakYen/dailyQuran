@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 156,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/6_156.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/006156.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/6_156.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/006156.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/6_156.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/006156.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/6_156.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/006156.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/6_156.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/006156.mp3"
+        }
+    },
+    "english": "You ˹pagans˺ can no longer say, “Scriptures were only revealed to two groups before us and we were unaware of their teachings.”",
+    "arabic1": "أَن تَقُولُوٓا۟ إِنَّمَآ أُنزِلَ ٱلْكِتَـٰبُ عَلَىٰ طَآئِفَتَيْنِ مِن قَبْلِنَا وَإِن كُنَّا عَن دِرَاسَتِهِمْ لَغَـٰفِلِينَ",
+    "arabic2": "ان تقولوا انما انزل الكتاب على طائفتين من قبلنا وان كنا عن دراستهم لغافلين",
+    "bengali": "যেন তোমরা না বল যে, কিতাব তো নাযিল করা হয়েছিল আমাদের পূর্বের দু’টি দলের উপর এবং আমরা তো তাদের অধ্যয়ন সম্পর্কে ছিলাম গাফেল।",
+    "urdu": "(اور اس لیے اتاری ہے) کہ (تم یوں نہ) کہو کہ ہم سے پہلے دو ہی گروہوں پر کتابیں اتری تھیں اور ہم ان کے پڑھنے سے (معذور اور) بےخبر تھے"
+}

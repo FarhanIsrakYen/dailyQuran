@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Ahzaab",
+    "surahNameArabic": "الأحزاب",
+    "surahNameArabicLong": "سورة الأحزاب",
+    "surahNameTranslation": "The Clans",
+    "revelationPlace": "Madina",
+    "totalAyah": 73,
+    "surahNo": 33,
+    "ayahNo": 29,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/33_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/033029.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/33_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/033029.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/33_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/033029.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/33_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/033029.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/33_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/033029.mp3"
+        }
+    },
+    "english": "But if you desire Allah and His Messenger and the ˹everlasting˺ Home of the Hereafter, then Surely Allah has prepared a great reward for those of you who do good.”",
+    "arabic1": "وَإِن كُنتُنَّ تُرِدْنَ ٱللَّهَ وَرَسُولَهُۥ وَٱلدَّارَ ٱلْـَٔاخِرَةَ فَإِنَّ ٱللَّهَ أَعَدَّ لِلْمُحْسِنَـٰتِ مِنكُنَّ أَجْرًا عَظِيمًا",
+    "arabic2": "وان كنتن تردن الله ورسوله والدار الاخرة فان الله اعد للمحسنات منكن اجرا عظيما",
+    "bengali": "‘আর যদি তোমরা আল্লাহ, তাঁর রাসূল ও পরকালীন নিবাস কামনা কর, তবে তোমাদের মধ্য থেকে সৎকর্মশীলদের জন্য আল্লাহ অবশ্যই মহান প্রতিদান প্রস্তুত করে রেখেছেন’।",
+    "urdu": "اور اگر تم خدا اور اس کے پیغمبر اور عاقبت کے گھر (یعنی بہشت) کی طلبگار ہو تو تم میں جو نیکوکاری کرنے والی ہیں اُن کے لئے خدا نے اجر عظیم تیار کر رکھا ہے"
+}

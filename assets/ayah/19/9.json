@@ -1,0 +1,42 @@
+{
+    "surahName": "Maryam",
+    "surahNameArabic": "مريم",
+    "surahNameArabicLong": "سورة مريم",
+    "surahNameTranslation": "Mary",
+    "revelationPlace": "Mecca",
+    "totalAyah": 98,
+    "surahNo": 19,
+    "ayahNo": 9,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/19_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/019009.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/19_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/019009.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/19_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/019009.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/19_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/019009.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/19_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/019009.mp3"
+        }
+    },
+    "english": "An angel replied, “So will it be! Your Lord says, ‘It is easy for Me, just as I created you before, when you were nothing!’”",
+    "arabic1": "قَالَ كَذَٰلِكَ قَالَ رَبُّكَ هُوَ عَلَىَّ هَيِّنٌ وَقَدْ خَلَقْتُكَ مِن قَبْلُ وَلَمْ تَكُ شَيْـًٔا",
+    "arabic2": "قال كذلك قال ربك هو علي هين وقد خلقتك من قبل ولم تك شيئا",
+    "bengali": "সে (ফেরেশতা) বলল, ‘এভাবেই’। তোমার রব বলেছেন, ‘এটা আমার জন্য সহজ। আমি তো ইতঃপূর্বে তোমাকে সৃষ্টি করেছি, তখন তুমি কিছুই ছিলে না’।",
+    "urdu": "حکم ہوا کہ اسی طرح (ہوگا) تمہارے پروردگار نے فرمایا ہے کہ مجھے یہ آسان ہے اور میں پہلے تم کو بھی تو پیدا کرچکا ہوں اور تم کچھ چیز نہ تھے"
+}

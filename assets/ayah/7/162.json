@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 162,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/7_162.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/007162.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/7_162.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/007162.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/7_162.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/007162.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/7_162.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/007162.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/7_162.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/007162.mp3"
+        }
+    },
+    "english": "But the wrongdoers among them changed the words they were commanded to say. So We sent down a punishment from the heavens upon them for their wrongdoing.",
+    "arabic1": "فَبَدَّلَ ٱلَّذِينَ ظَلَمُوا۟ مِنْهُمْ قَوْلًا غَيْرَ ٱلَّذِى قِيلَ لَهُمْ فَأَرْسَلْنَا عَلَيْهِمْ رِجْزًا مِّنَ ٱلسَّمَآءِ بِمَا كَانُوا۟ يَظْلِمُونَ",
+    "arabic2": "فبدل الذين ظلموا منهم قولا غير الذي قيل لهم فارسلنا عليهم رجزا من السماء بما كانوا يظلمون",
+    "bengali": "অতঃপর তাদের মধ্য থেকে যারা যুলম করেছিল, তাদেরকে যা বলা হয়েছিল তার পরিবর্তে তারা অন্য কথা বলল। ফলে আমি আসমান থেকে তাদের উপর শাস্তি পাঠালাম, কারণ তারা যুলম করত।",
+    "urdu": "مگر جو ان میں ظالم تھے انہوں نے اس لفظ کو جس کا ان کو حکم دیا گیا تھا بدل کر اس کی جگہ اور لفظ کہنا شروع کیا تو ہم نے ان پر آسمان سے عذاب بھیجا اس لیے کہ ظلم کرتے تھے"
+}

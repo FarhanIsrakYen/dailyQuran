@@ -1,0 +1,42 @@
+{
+    "surahName": "Muhammad",
+    "surahNameArabic": "محمد",
+    "surahNameArabicLong": "سورة محمد",
+    "surahNameTranslation": "Muhammad",
+    "revelationPlace": "Madina",
+    "totalAyah": 38,
+    "surahNo": 47,
+    "ayahNo": 22,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/47_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/047022.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/47_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/047022.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/47_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/047022.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/47_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/047022.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/47_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/047022.mp3"
+        }
+    },
+    "english": "Now if you ˹hypocrites˺ turn away, perhaps you would then spread corruption throughout the land and sever your ˹ties of˺ kinship!",
+    "arabic1": "فَهَلْ عَسَيْتُمْ إِن تَوَلَّيْتُمْ أَن تُفْسِدُوا۟ فِى ٱلْأَرْضِ وَتُقَطِّعُوٓا۟ أَرْحَامَكُمْ",
+    "arabic2": "فهل عسيتم ان توليتم ان تفسدوا في الارض وتقطعوا ارحامكم",
+    "bengali": "তবে কি তোমরা প্রত্যাশা করছ যে, যদি তোমরা শাসন কর্তৃত্ব পাও, তবে তোমরা যমীনে বিপর্যয় সৃষ্টি করবে এবং তোমাদের আত্মীয়তার বন্ধন ছিন্ন করবে?",
+    "urdu": "(اے منافقو!) تم سے عجب نہیں کہ اگر تم حاکم ہو جاؤ تو ملک میں خرابی کرنے لگو اور اپنے رشتوں کو توڑ ڈالو"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nahl",
+    "surahNameArabic": "النحل",
+    "surahNameArabicLong": "سورة النحل",
+    "surahNameTranslation": "The Bee",
+    "revelationPlace": "Mecca",
+    "totalAyah": 128,
+    "surahNo": 16,
+    "ayahNo": 30,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/16_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/016030.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/16_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/016030.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/16_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/016030.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/16_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/016030.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/16_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/016030.mp3"
+        }
+    },
+    "english": "And ˹when˺ it is said to those mindful ˹of Allah˺, “What has your Lord revealed?” They say, “All the best!” For those who do good in this world, there is goodness. But far better is the ˹eternal˺ Home of the Hereafter. How excellent indeed is the home of the righteous:",
+    "arabic1": "۞ وَقِيلَ لِلَّذِينَ ٱتَّقَوْا۟ مَاذَآ أَنزَلَ رَبُّكُمْ ۚ قَالُوا۟ خَيْرًا ۗ لِّلَّذِينَ أَحْسَنُوا۟ فِى هَـٰذِهِ ٱلدُّنْيَا حَسَنَةٌ ۚ وَلَدَارُ ٱلْـَٔاخِرَةِ خَيْرٌ ۚ وَلَنِعْمَ دَارُ ٱلْمُتَّقِينَ",
+    "arabic2": "وقيل للذين اتقوا ماذا انزل ربكم قالوا خيرا للذين احسنوا في هذه الدنيا حسنة ولدار الاخرة خير ولنعم دار المتقين",
+    "bengali": "আর যারা তাকওয়ার অবলম্বন করেছে, তাদের বলা হল, ‘তোমাদের রব কী নাযিল করেছেন’? তারা বলল, ‘কল্যাণ’। যারা এই দুনিয়ায় উত্তম কাজ করেছে, তাদের জন্য রয়েছে পুণ্য। আর নিশ্চয় আখিরাতের আবাস উত্তম এবং মুত্তাকীদের আবাস কতইনা উত্তম!",
+    "urdu": "اور (جب) پرہیزگاروں سے پوچھا جاتا ہے کہ تمہارے پروردگار نے کیا نازل کیا ہے۔ تو کہتے ہیں کہ بہترین (کلام)۔ جو لوگ نیکوکار ہیں ان کے لیے اس دنیا میں بھلائی ہے۔ اور آخرت کا گھر تو بہت ہی اچھا ہے۔ اور پرہیز گاروں کا گھر بہت خوب ہے"
+}

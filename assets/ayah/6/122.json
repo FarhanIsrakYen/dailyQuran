@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 122,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/6_122.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/006122.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/6_122.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/006122.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/6_122.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/006122.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/6_122.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/006122.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/6_122.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/006122.mp3"
+        }
+    },
+    "english": "Can those who had been dead, to whom We gave life and a light with which they can walk among people, be compared to those in complete darkness from which they can never emerge? That is how the misdeeds of the disbelievers have been made appealing to them.",
+    "arabic1": "أَوَمَن كَانَ مَيْتًا فَأَحْيَيْنَـٰهُ وَجَعَلْنَا لَهُۥ نُورًا يَمْشِى بِهِۦ فِى ٱلنَّاسِ كَمَن مَّثَلُهُۥ فِى ٱلظُّلُمَـٰتِ لَيْسَ بِخَارِجٍ مِّنْهَا ۚ كَذَٰلِكَ زُيِّنَ لِلْكَـٰفِرِينَ مَا كَانُوا۟ يَعْمَلُونَ",
+    "arabic2": "اومن كان ميتا فاحييناه وجعلنا له نورا يمشي به في الناس كمن مثله في الظلمات ليس بخارج منها كذلك زين للكافرين ما كانوا يعملون",
+    "bengali": "যে ছিল মৃত, অতঃপর আমি তাকে জীবন দিয়েছি এবং তার জন্য নির্ধারণ করেছি আলো, যার মাধ্যমে সে মানুষের মধ্যে চলে, সে কি তার মত যে ঘোর অন্ধকারে রয়েছে, যেখান থেকে সে বের হতে পারে না? এভাবেই কাফিরদের জন্য তাদের কৃতকর্ম সুশোভিত করা হয়।",
+    "urdu": "بھلا جو پہلے مردہ تھا پھر ہم نے اس کو زندہ کیا اور اس کے لیے روشنی کر دی جس کے ذریعے سے وہ لوگوں میں چلتا پھرتا ہے کہیں اس شخص جیسا ہو سکتا ہے جو اندھیرے میں پڑا ہوا ہو اور اس سے نکل ہی نہ سکے اسی طرح کافر جو عمل کر رہے ہیں وہ انہیں اچھے معلوم ہوتے ہیں"
+}

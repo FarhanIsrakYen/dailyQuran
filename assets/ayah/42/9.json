@@ -1,0 +1,42 @@
+{
+    "surahName": "Ash-Shura",
+    "surahNameArabic": "الشورى",
+    "surahNameArabicLong": "سورة الشورى",
+    "surahNameTranslation": "Consultation",
+    "revelationPlace": "Mecca",
+    "totalAyah": 53,
+    "surahNo": 42,
+    "ayahNo": 9,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/42_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/042009.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/42_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/042009.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/42_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/042009.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/42_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/042009.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/42_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/042009.mp3"
+        }
+    },
+    "english": "How can they take protectors besides Him? Allah alone is the Protector. He ˹alone˺ gives life to the dead. And He ˹alone˺ is Most Capable of everything.",
+    "arabic1": "أَمِ ٱتَّخَذُوا۟ مِن دُونِهِۦٓ أَوْلِيَآءَ ۖ فَٱللَّهُ هُوَ ٱلْوَلِىُّ وَهُوَ يُحْىِ ٱلْمَوْتَىٰ وَهُوَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+    "arabic2": "ام اتخذوا من دونه اولياء فالله هو الولي وهو يحيي الموتى وهو على كل شيء قدير",
+    "bengali": "তারা কি তাঁকে বাদ দিয়ে বহু অভিভাবক গ্রহণ করেছে? কিন্তু আল্লাহ, তিনিই হলেন প্রকৃত অভিভাবক; তিনিই মৃতকে জীবিত করেন আর তিনি সকল বিষয়ে সর্বক্ষমতাবান।",
+    "urdu": "کیا انہوں نے اس کے سوا کارساز بنائے ہیں؟ کارساز تو خدا ہی ہے اور وہی مردوں کو زندہ کرے گا اور وہ ہر چیز پر قدرت رکھتا ہے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 161,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/7_161.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/007161.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/7_161.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/007161.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/7_161.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/007161.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/7_161.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/007161.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/7_161.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/007161.mp3"
+        }
+    },
+    "english": "And ˹remember˺ when it was said to them, “Enter this city ˹of Jerusalem˺ and eat from wherever you please. Say, ‘Absolve us,’ and enter the gate with humility. We will forgive your sins, ˹and˺ We will multiply the reward for the good-doers.”",
+    "arabic1": "وَإِذْ قِيلَ لَهُمُ ٱسْكُنُوا۟ هَـٰذِهِ ٱلْقَرْيَةَ وَكُلُوا۟ مِنْهَا حَيْثُ شِئْتُمْ وَقُولُوا۟ حِطَّةٌ وَٱدْخُلُوا۟ ٱلْبَابَ سُجَّدًا نَّغْفِرْ لَكُمْ خَطِيٓـَٔـٰتِكُمْ ۚ سَنَزِيدُ ٱلْمُحْسِنِينَ",
+    "arabic2": "واذ قيل لهم اسكنوا هذه القرية وكلوا منها حيث شئتم وقولوا حطة وادخلوا الباب سجدا نغفر لكم خطيئاتكم سنزيد المحسنين",
+    "bengali": "আর স্মরণ কর, যখন তাদেরকে বলা হল, ‘তোমরা এ জনপদে* বসবাস কর এবং যেখানে চাও সেখান থেকে আহার কর এবং বল ‘হিত্তাহ’** । আর অবনত মস্তকে দরজায় প্রবেশ কর। আমি তোমাদের অপরাধগুলো ক্ষমা করে দেব। অবশ্যই আমি সৎকর্মশীলদেরকে বাড়িয়ে দেব।’ \n* বাইতুল মুকাদ্দাস অঞ্চল।",
+    "urdu": "اور (یاد کرو) جب ان سے کہا گیا کہ اس شہر میں سکونت اختیار کرلو اور اس میں جہاں سے جی چاہے کھانا (پینا) اور (ہاں شہر میں جانا تو) حِطّتہٌ کہنا اور دروازے میں داخل ہونا تو سجدہ کرنا۔ ہم تمہارے گناہ معاف کردیں گے۔ اور نیکی کرنے والوں کو اور زیادہ دیں گے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Muhammad",
+    "surahNameArabic": "محمد",
+    "surahNameArabicLong": "سورة محمد",
+    "surahNameTranslation": "Muhammad",
+    "revelationPlace": "Madina",
+    "totalAyah": 38,
+    "surahNo": 47,
+    "ayahNo": 32,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/47_32.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/047032.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/47_32.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/047032.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/47_32.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/047032.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/47_32.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/047032.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/47_32.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/047032.mp3"
+        }
+    },
+    "english": "Indeed, those who disbelieve, hinder ˹others˺ from the Way of Allah, and defy the Messenger after ˹true˺ guidance has become clear to them; they will not harm Allah in the least, but He will render their deeds void.",
+    "arabic1": "إِنَّ ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ وَشَآقُّوا۟ ٱلرَّسُولَ مِنۢ بَعْدِ مَا تَبَيَّنَ لَهُمُ ٱلْهُدَىٰ لَن يَضُرُّوا۟ ٱللَّهَ شَيْـًٔا وَسَيُحْبِطُ أَعْمَـٰلَهُمْ",
+    "arabic2": "ان الذين كفروا وصدوا عن سبيل الله وشاقوا الرسول من بعد ما تبين لهم الهدى لن يضروا الله شيئا وسيحبط اعمالهم",
+    "bengali": "নিশ্চয় যারা কুফরী করেছে, আল্লাহর পথে বাধা দিয়েছে এবং তাদের নিকট হিদায়াতের পথ সুস্পষ্ট হওয়ার পরও রাসূলের বিরোধিতা করেছে, তারা আল্লাহর কোনই ক্ষতি সাধন করতে পারবে না। আর শীঘ্রই তিনি তাদের আমলসমূহ নিষ্ফল করে দেবেন।",
+    "urdu": "جن لوگوں کو سیدھا رستہ معلوم ہوگیا (اور) پھر بھی انہوں نے کفر کیا اور (لوگوں کو) خدا کی راہ سے روکا اور پیغمبر کی مخالفت کی وہ خدا کا کچھ بھی بگاڑ نہیں سکیں گے۔ اور خدا ان کا سب کیا کرایا اکارت کردے گا"
+}

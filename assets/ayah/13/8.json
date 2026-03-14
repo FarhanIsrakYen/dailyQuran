@@ -1,0 +1,42 @@
+{
+    "surahName": "Ar-Ra'd",
+    "surahNameArabic": "الرعد",
+    "surahNameArabicLong": "سورة الرعد",
+    "surahNameTranslation": "The Thunder",
+    "revelationPlace": "Madina",
+    "totalAyah": 43,
+    "surahNo": 13,
+    "ayahNo": 8,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/13_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/013008.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/13_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/013008.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/13_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/013008.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/13_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/013008.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/13_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/013008.mp3"
+        }
+    },
+    "english": "Allah knows what every female bears and what increases and decreases in the wombs. And with Him everything is determined with precision.",
+    "arabic1": "ٱللَّهُ يَعْلَمُ مَا تَحْمِلُ كُلُّ أُنثَىٰ وَمَا تَغِيضُ ٱلْأَرْحَامُ وَمَا تَزْدَادُ ۖ وَكُلُّ شَىْءٍ عِندَهُۥ بِمِقْدَارٍ",
+    "arabic2": "الله يعلم ما تحمل كل انثى وما تغيض الارحام وما تزداد وكل شيء عنده بمقدار",
+    "bengali": "আল্লাহ জানেন যা প্রতিটি নারী গর্ভে ধারণ করে এবং গর্ভাশয়ে যা কমে ও বাড়ে। আর তাঁর নিকট প্রতিটি বস্তু নির্দিষ্ট পরিমাণে রয়েছে।",
+    "urdu": "خدا ہی اس بچے سے واقف ہے جو عورت کے پیٹ میں ہوتا ہے اور پیٹ کے سکڑنے اور بڑھنے سے بھی (واقف ہے)۔ اور ہر چیز کا اس کے ہاں ایک اندازہ مقرر ہے"
+}

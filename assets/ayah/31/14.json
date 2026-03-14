@@ -1,0 +1,42 @@
+{
+    "surahName": "Luqman",
+    "surahNameArabic": "لقمان",
+    "surahNameArabicLong": "سورة لقمان",
+    "surahNameTranslation": "Luqman",
+    "revelationPlace": "Mecca",
+    "totalAyah": 34,
+    "surahNo": 31,
+    "ayahNo": 14,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/31_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/031014.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/31_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/031014.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/31_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/031014.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/31_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/031014.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/31_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/031014.mp3"
+        }
+    },
+    "english": "And We have commanded people to ˹honour˺ their parents. Their mothers bore them through hardship upon hardship, and their weaning takes two years. So be grateful to Me and your parents. To Me is the final return.",
+    "arabic1": "وَوَصَّيْنَا ٱلْإِنسَـٰنَ بِوَٰلِدَيْهِ حَمَلَتْهُ أُمُّهُۥ وَهْنًا عَلَىٰ وَهْنٍ وَفِصَـٰلُهُۥ فِى عَامَيْنِ أَنِ ٱشْكُرْ لِى وَلِوَٰلِدَيْكَ إِلَىَّ ٱلْمَصِيرُ",
+    "arabic2": "ووصينا الانسان بوالديه حملته امه وهنا على وهن وفصاله في عامين ان اشكر لي ولوالديك الي المصير",
+    "bengali": "আর আমি মানুষকে তার মাতাপিতার ব্যাপারে (সদাচরণের) নির্দেশ দিয়েছি। তার মা কষ্টের পর কষ্ট ভোগ করে তাকে গর্ভে ধারণ করে। আর তার দুধ ছাড়ানো হয় দু’বছরে; সুতরাং আমার ও তোমার পিতা-মাতার শুকরিয়া আদায় কর। প্রত্যাবর্তন তো আমার কাছেই।",
+    "urdu": "اور ہم نے انسان کو جسے اُس کی ماں تکلیف پر تکلیف سہہ کر پیٹ میں اُٹھائے رکھتی ہے (پھر اس کو دودھ پلاتی ہے) اور( آخرکار) دو برس میں اس کا دودھ چھڑانا ہوتا ہے (اپنے نیز) اس کے ماں باپ کے بارے میں تاکید کی ہے کہ میرا بھی شکر کرتا رہ اور اپنے ماں باپ کا بھی (کہ تم کو) میری ہی طرف لوٹ کر آنا ہے"
+}

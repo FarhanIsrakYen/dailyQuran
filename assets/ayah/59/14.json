@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Hashr",
+    "surahNameArabic": "الحشر",
+    "surahNameArabicLong": "سورة الحشر",
+    "surahNameTranslation": "The Exile",
+    "revelationPlace": "Madina",
+    "totalAyah": 24,
+    "surahNo": 59,
+    "ayahNo": 14,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/59_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/059014.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/59_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/059014.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/59_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/059014.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/59_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/059014.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/59_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/059014.mp3"
+        }
+    },
+    "english": "Even united, they would not ˹dare˺ fight against you except ˹from˺ within fortified strongholds or from behind walls. Their malice for each other is intense: you think they are united, yet their hearts are divided. That is because they are a people with no ˹real˺ understanding.",
+    "arabic1": "لَا يُقَـٰتِلُونَكُمْ جَمِيعًا إِلَّا فِى قُرًى مُّحَصَّنَةٍ أَوْ مِن وَرَآءِ جُدُرٍۭ ۚ بَأْسُهُم بَيْنَهُمْ شَدِيدٌ ۚ تَحْسَبُهُمْ جَمِيعًا وَقُلُوبُهُمْ شَتَّىٰ ۚ ذَٰلِكَ بِأَنَّهُمْ قَوْمٌ لَّا يَعْقِلُونَ",
+    "arabic2": "لا يقاتلونكم جميعا الا في قرى محصنة او من وراء جدر باسهم بينهم شديد تحسبهم جميعا وقلوبهم شتى ذلك بانهم قوم لا يعقلون",
+    "bengali": "তারা সম্মিলিতিভাবে তোমাদের বিরুদ্ধে যুদ্ধ করবে না তবে সুরক্ষিত জনপদের মধ্যে অবস্থান করে বা দেয়ালের পেছন হতে; তারা নিজেরা নিজেদেরকে প্রবল শক্তিধর মনে করে; তুমি তাদেরকে ঐক্যবদ্ধ মনে করছ অথচ তাদের অন্তরসমূহ বিচ্ছিন্ন। এটি এজন্য যে, তারা নির্বোধ সম্প্রদায়।",
+    "urdu": "یہ سب جمع ہو کر بھی تم سے (بالمواجہہ) نہیں لڑ سکیں گے مگر بستیوں کے قلعوں میں (پناہ لے کر) یا دیواروں کی اوٹ میں (مستور ہو کر) ان کا آپس میں بڑا رعب ہے۔ تم شاید خیال کرتے ہو کہ یہ اکھٹے (اور ایک جان) ہیں مگر ان کے دل پھٹے ہوئے ہیں یہ اس لئے کہ یہ بےعقل لوگ ہیں"
+}

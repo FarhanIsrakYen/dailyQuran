@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Kahf",
+    "surahNameArabic": "الكهف",
+    "surahNameArabicLong": "سورة الكهف",
+    "surahNameTranslation": "The Cave",
+    "revelationPlace": "Mecca",
+    "totalAyah": 110,
+    "surahNo": 18,
+    "ayahNo": 78,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/18_78.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/018078.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/18_78.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/018078.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/18_78.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/018078.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/18_78.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/018078.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/18_78.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/018078.mp3"
+        }
+    },
+    "english": "He replied, “This is the parting of our ways. I will explain to you what you could not bear patiently.",
+    "arabic1": "قَالَ هَـٰذَا فِرَاقُ بَيْنِى وَبَيْنِكَ ۚ سَأُنَبِّئُكَ بِتَأْوِيلِ مَا لَمْ تَسْتَطِع عَّلَيْهِ صَبْرًا",
+    "arabic2": "قال هذا فراق بيني وبينك سانبئك بتاويل ما لم تستطع عليه صبرا",
+    "bengali": "সে বলল, ‘এখানেই আমার ও আপনার মধ্যে বিচ্ছেদ। যে বিষয়ে আপনি ধৈর্য ধারণ করতে পারেননি আমি এখন আপনাকে তার ব্যাখ্যা দিচ্ছি’।",
+    "urdu": "خضر نے کہا اب مجھ میں اور تجھ میں علیحدگی۔ (مگر) جن باتوں پر تم صبر نہ کرسکے میں ان کا تمہیں بھید بتائے دیتا ہوں"
+}

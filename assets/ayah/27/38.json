@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Naml",
+    "surahNameArabic": "النمل",
+    "surahNameArabicLong": "سورة النمل",
+    "surahNameTranslation": "The Ant",
+    "revelationPlace": "Mecca",
+    "totalAyah": 93,
+    "surahNo": 27,
+    "ayahNo": 38,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/27_38.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/027038.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/27_38.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/027038.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/27_38.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/027038.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/27_38.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/027038.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/27_38.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/027038.mp3"
+        }
+    },
+    "english": "Solomon asked, “O chiefs! Which of you can bring me her throne before they come to me in ˹full˺ submission?”",
+    "arabic1": "قَالَ يَـٰٓأَيُّهَا ٱلْمَلَؤُا۟ أَيُّكُمْ يَأْتِينِى بِعَرْشِهَا قَبْلَ أَن يَأْتُونِى مُسْلِمِينَ",
+    "arabic2": "قال يا ايها الملا ايكم ياتيني بعرشها قبل ان ياتوني مسلمين",
+    "bengali": "সুলাইমান বলল, ‘হে পারিষদবর্গ, তারা আমার কাছে আত্মসমর্পণ করে আসার পূর্বে তোমাদের মধ্যে কে তার (রাণীর) সিংহাসন আমার কাছে নিয়ে আসতে পারবে’?",
+    "urdu": "سلیمان نے کہا کہ اے دربار والو! کوئی تم میں ایسا ہے کہ قبل اس کے کہ وہ لوگ فرمانبردار ہو کر ہمارے پاس آئیں ملکہ کا تخت میرے پاس لے آئے"
+}

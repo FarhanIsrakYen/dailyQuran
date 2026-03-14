@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Jaathiya",
+    "surahNameArabic": "الجاثية",
+    "surahNameArabicLong": "سورة الجاثية",
+    "surahNameTranslation": "Crouching",
+    "revelationPlace": "Mecca",
+    "totalAyah": 37,
+    "surahNo": 45,
+    "ayahNo": 16,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/45_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/045016.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/45_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/045016.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/45_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/045016.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/45_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/045016.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/45_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/045016.mp3"
+        }
+    },
+    "english": "Indeed, We gave the Children of Israel the Scripture, wisdom, and prophethood; granted them good, lawful provisions; and favoured them above the others.",
+    "arabic1": "وَلَقَدْ ءَاتَيْنَا بَنِىٓ إِسْرَٰٓءِيلَ ٱلْكِتَـٰبَ وَٱلْحُكْمَ وَٱلنُّبُوَّةَ وَرَزَقْنَـٰهُم مِّنَ ٱلطَّيِّبَـٰتِ وَفَضَّلْنَـٰهُمْ عَلَى ٱلْعَـٰلَمِينَ",
+    "arabic2": "ولقد اتينا بني اسرائيل الكتاب والحكم والنبوة ورزقناهم من الطيبات وفضلناهم على العالمين",
+    "bengali": "আর আমি বনী ইসরাঈলকে কিতাব, প্রজ্ঞা ও নবুওয়াত দান করেছিলাম এবং তাদের রিয্ক প্রদান করেছিলাম উত্তম বস্তু থেকে এবং দিয়েছিলাম তাদেরকে সকল সৃষ্টির উপর শ্রেষ্ঠত্ব।",
+    "urdu": "اور ہم نے بنی اسرائیل کو کتاب (ہدایت) اور حکومت اور نبوت بخشی اور پاکیزہ چیزیں عطا فرمائیں اور اہل عالم پر فضیلت دی"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Anfaal",
+    "surahNameArabic": "الأنفال",
+    "surahNameArabicLong": "سورة الأنفال",
+    "surahNameTranslation": "The Spoils of War",
+    "revelationPlace": "Madina",
+    "totalAyah": 75,
+    "surahNo": 8,
+    "ayahNo": 16,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/8_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/008016.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/8_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/008016.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/8_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/008016.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/8_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/008016.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/8_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/008016.mp3"
+        }
+    },
+    "english": "And whoever does so on such an occasion—unless it is a manoeuvre or to join their own troops—will earn the displeasure of Allah, and their home will be Hell. What an evil destination!",
+    "arabic1": "وَمَن يُوَلِّهِمْ يَوْمَئِذٍ دُبُرَهُۥٓ إِلَّا مُتَحَرِّفًا لِّقِتَالٍ أَوْ مُتَحَيِّزًا إِلَىٰ فِئَةٍ فَقَدْ بَآءَ بِغَضَبٍ مِّنَ ٱللَّهِ وَمَأْوَىٰهُ جَهَنَّمُ ۖ وَبِئْسَ ٱلْمَصِيرُ",
+    "arabic2": "ومن يولهم يومئذ دبره الا متحرفا لقتال او متحيزا الى فئة فقد باء بغضب من الله وماواه جهنم وبئس المصير",
+    "bengali": "আর যে ব্যক্তি সেদিন তাদেরকে পৃষ্ঠ প্রদর্শন করবে তাহলে সে আল্লাহর গযব নিয়ে ফিরে আসবে। তবে যুদ্ধের জন্য (কৌশলগত) দিক পরিবর্তন অথবা নিজ দলে আশ্রয় গ্রহণের জন্য হলে ভিন্ন কথা এবং তার আবাস জাহান্নাম। আর সেটি কতইনা নিকৃষ্ট প্রত্যাবর্তনস্থল।",
+    "urdu": "اور جو شخص جنگ کے روز اس صورت کے سوا کہ لڑائی کے لیے کنارے کنارے چلے (یعنی حکمت عملی سے دشمن کو مارے) یا اپنی فوج میں جا ملنا چاہے۔ ان سے پیٹھ پھیرے گا تو (سمجھو کہ) وہ خدا کے غضب میں گرفتار ہوگیا اور اس کا ٹھکانا دوزخ ہے۔ اور وہ بہت ہی بری جگہ ہے"
+}

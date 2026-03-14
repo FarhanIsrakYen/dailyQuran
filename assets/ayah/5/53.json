@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Maaida",
+    "surahNameArabic": "المائدة",
+    "surahNameArabicLong": "سورة المائدة",
+    "surahNameTranslation": "The Table",
+    "revelationPlace": "Madina",
+    "totalAyah": 120,
+    "surahNo": 5,
+    "ayahNo": 53,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/5_53.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/005053.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/5_53.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/005053.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/5_53.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/005053.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/5_53.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/005053.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/5_53.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/005053.mp3"
+        }
+    },
+    "english": "˹Only then,˺ the believers will ask ˹one another˺, “Are these the ones who swore solemn oaths by Allah that they were with you?” Their deeds have been in vain, so they have become losers.",
+    "arabic1": "وَيَقُولُ ٱلَّذِينَ ءَامَنُوٓا۟ أَهَـٰٓؤُلَآءِ ٱلَّذِينَ أَقْسَمُوا۟ بِٱللَّهِ جَهْدَ أَيْمَـٰنِهِمْ ۙ إِنَّهُمْ لَمَعَكُمْ ۚ حَبِطَتْ أَعْمَـٰلُهُمْ فَأَصْبَحُوا۟ خَـٰسِرِينَ",
+    "arabic2": "ويقول الذين امنوا اهؤلاء الذين اقسموا بالله جهد ايمانهم انهم لمعكم حبطت اعمالهم فاصبحوا خاسرين",
+    "bengali": "আর মুমিনগণ বলবে, ‘এরাই কি তারা, যারা আল্লাহর নামে কঠিন শপথ করেছে যে, নিশ্চয় তারা তোমাদের সাথে আছে’? তাদের আমলসমূহ বরবাদ হয়েছে, ফলে তারা ক্ষতিগ্রস্ত হয়েছে।",
+    "urdu": "اور اس (وقت) مسلمان (تعجب سے) کہیں گے کہ کیا یہ وہی ہیں جو خدا کی سخت سخت قسمیں کھایا کرتے تھے کہ ہم تمہارے ساتھ ہیں ان کےعمل اکارت گئے اور وہ خسارے میں پڑ گئے"
+}

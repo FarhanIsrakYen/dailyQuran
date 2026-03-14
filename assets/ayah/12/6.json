@@ -1,0 +1,42 @@
+{
+    "surahName": "Yusuf",
+    "surahNameArabic": "يوسف",
+    "surahNameArabicLong": "سورة يوسف",
+    "surahNameTranslation": "Joseph",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 12,
+    "ayahNo": 6,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/12_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/012006.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/12_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/012006.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/12_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/012006.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/12_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/012006.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/12_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/012006.mp3"
+        }
+    },
+    "english": "And so will your Lord choose you ˹O Joseph˺, and teach you the interpretation of dreams, and perfect His favour upon you and the descendants of Jacob—˹just˺ as He once perfected it upon your forefathers, Abraham and Isaac. Surely your Lord is All-Knowing, All-Wise.”",
+    "arabic1": "وَكَذَٰلِكَ يَجْتَبِيكَ رَبُّكَ وَيُعَلِّمُكَ مِن تَأْوِيلِ ٱلْأَحَادِيثِ وَيُتِمُّ نِعْمَتَهُۥ عَلَيْكَ وَعَلَىٰٓ ءَالِ يَعْقُوبَ كَمَآ أَتَمَّهَا عَلَىٰٓ أَبَوَيْكَ مِن قَبْلُ إِبْرَٰهِيمَ وَإِسْحَـٰقَ ۚ إِنَّ رَبَّكَ عَلِيمٌ حَكِيمٌ",
+    "arabic2": "وكذلك يجتبيك ربك ويعلمك من تاويل الاحاديث ويتم نعمته عليك وعلى ال يعقوب كما اتمها على ابويك من قبل ابراهيم واسحاق ان ربك عليم حكيم",
+    "bengali": "আর এভাবে তোমার রব তোমাকে মনোনীত করবেন এবং তোমাকে স্বপ্নের ব্যাখ্যা শিক্ষা দেবেন। আর তোমার উপর ও ইয়াকূবের পরিবারের উপর তাঁর নিআমত পূর্ণ করবেন যেভাবে তিনি তা পূর্বে পূর্ণ করেছিলেন তোমার পিতৃপুরুষ ইবরাহীম ও ইসহাকের উপর, নিশ্চয় তোমার রব সর্বজ্ঞ, প্রজ্ঞাময়।",
+    "urdu": "اور اسی طرح خدا تمہیں برگزیدہ (وممتاز) کرے گا اور (خواب کی) باتوں کی تعبیر کا علم سکھائے گا۔ اور جس طرح اس نے اپنی نعمت پہلے تمہارے دادا، پردادا ابراہیم اور اسحاق پر پوری کی تھی اسی طرح تم پر اور اولاد یعقوب پر پوری کرے گا۔ بےشک تمہارا پروردگار (سب کچھ) جاننے والا (اور) حکمت والا ہے"
+}

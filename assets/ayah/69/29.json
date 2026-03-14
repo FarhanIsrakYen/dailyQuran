@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Haaqqa",
+    "surahNameArabic": "الحاقة",
+    "surahNameArabicLong": "سورة الحاقة",
+    "surahNameTranslation": "The Reality",
+    "revelationPlace": "Mecca",
+    "totalAyah": 52,
+    "surahNo": 69,
+    "ayahNo": 29,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/69_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/069029.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/69_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/069029.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/69_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/069029.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/69_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/069029.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/69_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/069029.mp3"
+        }
+    },
+    "english": "My authority has been stripped from me.”",
+    "arabic1": "هَلَكَ عَنِّى سُلْطَـٰنِيَهْ",
+    "arabic2": "هلك عني سلطانيه",
+    "bengali": "‘আমার ক্ষমতাও আমার থেকে চলে গেল!",
+    "urdu": "(ہائے) میری سلطنت خاک میں مل گئی"
+}

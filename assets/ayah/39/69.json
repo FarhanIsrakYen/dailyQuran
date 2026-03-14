@@ -1,0 +1,42 @@
+{
+    "surahName": "Az-Zumar",
+    "surahNameArabic": "الزمر",
+    "surahNameArabicLong": "سورة الزمر",
+    "surahNameTranslation": "The Groups",
+    "revelationPlace": "Mecca",
+    "totalAyah": 75,
+    "surahNo": 39,
+    "ayahNo": 69,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/39_69.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/039069.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/39_69.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/039069.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/39_69.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/039069.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/39_69.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/039069.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/39_69.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/039069.mp3"
+        }
+    },
+    "english": "The earth will shine with the light of its Lord, the record ˹of deeds˺ will be laid ˹open˺, the prophets and the witnesses will be brought forward—and judgment will be passed on all with fairness. None will be wronged.",
+    "arabic1": "وَأَشْرَقَتِ ٱلْأَرْضُ بِنُورِ رَبِّهَا وَوُضِعَ ٱلْكِتَـٰبُ وَجِا۟ىٓءَ بِٱلنَّبِيِّـۧنَ وَٱلشُّهَدَآءِ وَقُضِىَ بَيْنَهُم بِٱلْحَقِّ وَهُمْ لَا يُظْلَمُونَ",
+    "arabic2": "واشرقت الارض بنور ربها ووضع الكتاب وجيء بالنبيين والشهداء وقضي بينهم بالحق وهم لا يظلمون",
+    "bengali": "আর যমীন তার রবের নূরে আলোকিত হবে, আমলনামা উপস্থিত করা হবে এবং নবী ও সাক্ষীগণকে আনা হবে, তাদের মধ্যে ন্যায়বিচার করা হবে। এমতাবস্থায় যে, তাদের প্রতি যুলম করা হবে না।",
+    "urdu": "اور زمین اپنے پروردگار کے نور سے جگمگا اُٹھے گی اور (اعمال کی) کتاب (کھول کر) رکھ دی جائے گی اور پیغمبر اور (اور) گواہ حاضر کئے جائیں گے اور ان میں انصاف کے ساتھ فیصلہ کیا جائے گا اور بےانصافی نہیں کی جائے گی"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 13,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002013.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002013.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002013.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002013.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002013.mp3"
+        }
+    },
+    "english": "And when they are told, “Believe as others believe,” they reply, “Will we believe as the fools believe?” Indeed, it is they who are fools, but they do not know.",
+    "arabic1": "وَإِذَا قِيلَ لَهُمْ ءَامِنُوا۟ كَمَآ ءَامَنَ ٱلنَّاسُ قَالُوٓا۟ أَنُؤْمِنُ كَمَآ ءَامَنَ ٱلسُّفَهَآءُ ۗ أَلَآ إِنَّهُمْ هُمُ ٱلسُّفَهَآءُ وَلَـٰكِن لَّا يَعْلَمُونَ",
+    "arabic2": "واذا قيل لهم امنوا كما امن الناس قالوا انؤمن كما امن السفهاء الا انهم هم السفهاء ولكن لا يعلمون",
+    "bengali": "আর যখন তাদেরকে বলা হয়, ‘তোমরা ঈমান আন যেমন লোকেরা ঈমান এনেছে’, তারা বলে, ‘আমরা কি ঈমান আনব যেমন নির্বোধরা ঈমান এনেছে’? জেনে রাখ, নিশ্চয় তারাই নির্বোধ; কিন্তু তারা জানে না।",
+    "urdu": "اور جب ان سے کہا جاتا ہے کہ جس طرح اور لوگ ایمان لے آئے، تم بھی ایمان لے آؤ تو کہتے ہیں، بھلا جس طرح بےوقوف ایمان لے آئے ہیں اسی طرح ہم بھی ایمان لے آئیں؟ سن لو کہ یہی بےوقوف ہیں لیکن نہیں جانتے"
+}

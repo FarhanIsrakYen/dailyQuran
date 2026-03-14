@@ -1,0 +1,42 @@
+{
+    "surahName": "Faatir",
+    "surahNameArabic": "فاطر",
+    "surahNameArabicLong": "سورة فاطر",
+    "surahNameTranslation": "The Originator",
+    "revelationPlace": "Mecca",
+    "totalAyah": 45,
+    "surahNo": 35,
+    "ayahNo": 4,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/35_4.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/035004.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/35_4.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/035004.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/35_4.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/035004.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/35_4.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/035004.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/35_4.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/035004.mp3"
+        }
+    },
+    "english": "If you are rejected by them, so too were messengers before you. And to Allah ˹all˺ matters will be returned ˹for judgment˺.",
+    "arabic1": "وَإِن يُكَذِّبُوكَ فَقَدْ كُذِّبَتْ رُسُلٌ مِّن قَبْلِكَ ۚ وَإِلَى ٱللَّهِ تُرْجَعُ ٱلْأُمُورُ",
+    "arabic2": "وان يكذبوك فقد كذبت رسل من قبلك والى الله ترجع الامور",
+    "bengali": "আর যদি তারা তোমাকে মিথ্যাবাদী বলে, তবে তোমার পূর্বের রাসূলগণকেও মিথ্যাবাদী বলা হয়েছিল। আর সকল বিষয় আল্লাহর-ই কাছে ফিরিয়ে নেয়া হবে।",
+    "urdu": "اور (اے پیغمبر) اگر یہ لوگ تم کو جھٹلائیں تو تم سے پہلے بھی پیغمبر جھٹلائے گئے ہیں۔ اور (سب) کام خدا ہی کی طرف لوٹائے جائیں گے"
+}

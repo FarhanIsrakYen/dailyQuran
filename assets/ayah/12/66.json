@@ -1,0 +1,42 @@
+{
+    "surahName": "Yusuf",
+    "surahNameArabic": "يوسف",
+    "surahNameArabicLong": "سورة يوسف",
+    "surahNameTranslation": "Joseph",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 12,
+    "ayahNo": 66,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/12_66.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/012066.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/12_66.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/012066.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/12_66.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/012066.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/12_66.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/012066.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/12_66.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/012066.mp3"
+        }
+    },
+    "english": "Jacob insisted, “I will not send him with you until you give me a solemn oath by Allah that you will certainly bring him back to me, unless you are totally overpowered.” Then after they had given him their oaths, he concluded, “Allah is a Witness to what we have said.”",
+    "arabic1": "قَالَ لَنْ أُرْسِلَهُۥ مَعَكُمْ حَتَّىٰ تُؤْتُونِ مَوْثِقًا مِّنَ ٱللَّهِ لَتَأْتُنَّنِى بِهِۦٓ إِلَّآ أَن يُحَاطَ بِكُمْ ۖ فَلَمَّآ ءَاتَوْهُ مَوْثِقَهُمْ قَالَ ٱللَّهُ عَلَىٰ مَا نَقُولُ وَكِيلٌ",
+    "arabic2": "قال لن ارسله معكم حتى تؤتون موثقا من الله لتاتنني به الا ان يحاط بكم فلما اتوه موثقهم قال الله على ما نقول وكيل",
+    "bengali": "সে বলল, ‘আমি তোমাদের সাথে তাকে কখনো পাঠাব না, যতক্ষণ না তোমরা আমাকে আল্লাহর নামে অঙ্গীকার প্রদান কর যে, তাকে অবশ্যই আমার কাছে নিয়ে আসবে। তবে তোমরা (শত্রু বা বিপদ দ্বারা) বেষ্টিত হলে ভিন্ন কথা’। অতঃপর যখন তারা তাকে প্রতিশ্রুতি দিল, তখন সে বলল, ‘আমরা যা বলছি সে ব্যাপারে আল্লাহই সাক্ষী’।",
+    "urdu": "(یعقوب نے) کہا جب تک تم خدا کا عہد نہ دو کہ اس کو میرے پاس (صحیح سالم) لے آؤ گے میں اسے ہرگز تمہارے ساتھ نہیں بھیجنے کا۔ مگر یہ کہ تم گھیر لیے جاؤ (یعنی بےبس ہوجاؤ تو مجبوری ہے) جب انہوں نے ان سے عہد کرلیا تو (یعقوب نے) کہا کہ جو قول وقرار ہم کر رہے ہیں اس کا خدا ضامن ہے"
+}

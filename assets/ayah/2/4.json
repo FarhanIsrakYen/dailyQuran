@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 4,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_4.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002004.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_4.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002004.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_4.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002004.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_4.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002004.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_4.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002004.mp3"
+        }
+    },
+    "english": "and who believe in what has been revealed to you ˹O Prophet˺ and what was revealed before you, and have sure faith in the Hereafter.",
+    "arabic1": "وَٱلَّذِينَ يُؤْمِنُونَ بِمَآ أُنزِلَ إِلَيْكَ وَمَآ أُنزِلَ مِن قَبْلِكَ وَبِٱلْـَٔاخِرَةِ هُمْ يُوقِنُونَ",
+    "arabic2": "والذين يؤمنون بما انزل اليك وما انزل من قبلك وبالاخرة هم يوقنون",
+    "bengali": "আর যারা ঈমান আনে তাতে, যা তোমার প্রতি নাযিল করা হয়েছে এবং যা তোমার পূর্বে নাযিল করা হয়েছে। আর আখিরাতের প্রতি তারা ইয়াকীন রাখে।",
+    "urdu": "اور جو کتاب (اے محمدﷺ) تم پر نازل ہوئی اور جو کتابیں تم سے پہلے (پیغمبروں پر) نازل ہوئیں سب پر ایمان لاتے اور آخرت کا یقین رکھتے ہیں"
+}

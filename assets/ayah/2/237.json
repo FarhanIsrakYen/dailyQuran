@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 237,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_237.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002237.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_237.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002237.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_237.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002237.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_237.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002237.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_237.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002237.mp3"
+        }
+    },
+    "english": "And if you divorce them before consummating the marriage but after deciding on a dowry, pay half of the dowry, unless the wife graciously waives it or the husband graciously pays in full. Graciousness is closer to righteousness. And do not forget kindness among yourselves. Surely Allah is All-Seeing of what you do.",
+    "arabic1": "وَإِن طَلَّقْتُمُوهُنَّ مِن قَبْلِ أَن تَمَسُّوهُنَّ وَقَدْ فَرَضْتُمْ لَهُنَّ فَرِيضَةً فَنِصْفُ مَا فَرَضْتُمْ إِلَّآ أَن يَعْفُونَ أَوْ يَعْفُوَا۟ ٱلَّذِى بِيَدِهِۦ عُقْدَةُ ٱلنِّكَاحِ ۚ وَأَن تَعْفُوٓا۟ أَقْرَبُ لِلتَّقْوَىٰ ۚ وَلَا تَنسَوُا۟ ٱلْفَضْلَ بَيْنَكُمْ ۚ إِنَّ ٱللَّهَ بِمَا تَعْمَلُونَ بَصِيرٌ",
+    "arabic2": "وان طلقتموهن من قبل ان تمسوهن وقد فرضتم لهن فريضة فنصف ما فرضتم الا ان يعفون او يعفو الذي بيده عقدة النكاح وان تعفوا اقرب للتقوى ولا تنسوا الفضل بينكم ان الله بما تعملون بصير",
+    "bengali": "আর যদি তোমরা তাদেরকে তালাক দাও, তাদেরকে স্পর্শ করার পূর্বে এবং তাদের জন্য কিছু মোহর নির্ধারণ করে থাক, তাহলে যা নির্ধারণ করেছ, তার অর্ধেক (দিয়ে দাও)। তবে স্ত্রীরা যদি মাফ করে দেয়, কিংবা যার হাতে বিবাহের বন্ধন সে যদি মাফ করে দেয়। আর তোমাদের মাফ করে দেয়া তাকওয়ার অধিক নিকটতর। আর তোমরা পরস্পরের মধ্যে অনুগ্রহ ভুলে যেয়ো না। তোমরা যা কর, নিশ্চয় আল্লাহ সে সম্পর্কে সম্যক দ্রষ্টা।",
+    "urdu": "اور اگر تم عورتوں کو ان کے پاس جانے سے پہلے طلاق دے دو لیکن مہر مقرر کرچکے ہو تو آدھا مہر دینا ہوگا۔ ہاں اگر عورتیں مہر بخش دیں یا مرد جن کے ہاتھ میں عقد نکاح ہے (اپنا حق) چھوڑ دیں۔ (اور پورا مہر دے دیں تو ان کو اختیار ہے) اور اگر تم مرد لوگ ہ اپنا حق چھوڑ دو تو یہ پرہیزگاری کی بات ہے۔ اور آپس میں بھلائی کرنے کو فراموش نہ کرنا۔ کچھ شک نہیں کہ خدا تمہارے سب کاموں کو دیکھ رہا ہے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Maryam",
+    "surahNameArabic": "مريم",
+    "surahNameArabicLong": "سورة مريم",
+    "surahNameTranslation": "Mary",
+    "revelationPlace": "Mecca",
+    "totalAyah": 98,
+    "surahNo": 19,
+    "ayahNo": 21,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/19_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/019021.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/19_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/019021.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/19_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/019021.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/19_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/019021.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/19_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/019021.mp3"
+        }
+    },
+    "english": "He replied, “So will it be! Your Lord says, ‘It is easy for Me. And so will We make him a sign for humanity and a mercy from Us.’ It is a matter ˹already˺ decreed.”",
+    "arabic1": "قَالَ كَذَٰلِكِ قَالَ رَبُّكِ هُوَ عَلَىَّ هَيِّنٌ ۖ وَلِنَجْعَلَهُۥٓ ءَايَةً لِّلنَّاسِ وَرَحْمَةً مِّنَّا ۚ وَكَانَ أَمْرًا مَّقْضِيًّا",
+    "arabic2": "قال كذلك قال ربك هو علي هين ولنجعله اية للناس ورحمة منا وكان امرا مقضيا",
+    "bengali": "সে বলল, ‘এভাবেই। তোমার রব বলেছেন, এটা আমার জন্য সহজ। আর যেন আমি তাকে করে দেই মানুষের জন্য নিদর্শন এবং আমার পক্ষ থেকে রহমত। আর এটি একটি সিদ্ধান্তকৃত বিষয়’।",
+    "urdu": "(فرشتے نے) کہا کہ یونہی (ہوگا) تمہارے پروردگار نے فرمایا کہ یہ مجھے آسان ہے۔ اور (میں اسے اسی طریق پر پیدا کروں گا) تاکہ اس کو لوگوں کے لئے اپنی طرف سے نشانی اور (ذریعہٴ) رحمت اور (مہربانی) بناؤں اور یہ کام مقرر ہوچکا ہے"
+}

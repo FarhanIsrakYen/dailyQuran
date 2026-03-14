@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 163,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/4_163.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/004163.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/4_163.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/004163.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/4_163.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/004163.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/4_163.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/004163.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/4_163.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/004163.mp3"
+        }
+    },
+    "english": "Indeed, We have sent revelation to you ˹O Prophet˺ as We sent revelation to Noah and the prophets after him. We also sent revelation to Abraham, Ishmael, Isaac, Jacob, and his descendants, ˹as well as˺ Jesus, Job, Jonah, Aaron, and Solomon. And to David We gave the Psalms.",
+    "arabic1": "۞ إِنَّآ أَوْحَيْنَآ إِلَيْكَ كَمَآ أَوْحَيْنَآ إِلَىٰ نُوحٍ وَٱلنَّبِيِّـۧنَ مِنۢ بَعْدِهِۦ ۚ وَأَوْحَيْنَآ إِلَىٰٓ إِبْرَٰهِيمَ وَإِسْمَـٰعِيلَ وَإِسْحَـٰقَ وَيَعْقُوبَ وَٱلْأَسْبَاطِ وَعِيسَىٰ وَأَيُّوبَ وَيُونُسَ وَهَـٰرُونَ وَسُلَيْمَـٰنَ ۚ وَءَاتَيْنَا دَاوُۥدَ زَبُورًا",
+    "arabic2": "انا اوحينا اليك كما اوحينا الى نوح والنبيين من بعده واوحينا الى ابراهيم واسماعيل واسحاق ويعقوب والاسباط وعيسى وايوب ويونس وهارون وسليمان واتينا داوود زبورا",
+    "bengali": "নিশ্চয় আমি তোমার নিকট ওহী পাঠিয়েছি, যেমন ওহী পাঠিয়েছি নূহ ও তার পরবর্তী নবীগণের নিকট এবং আমি ওহী পাঠিয়েছি ইবরাহীম, ইসমাঈল, ইসহাক, ইয়া‘কূব, তার বংশধরগণ, ঈসা, আইয়ূব, ইউনুস, হারূন ও সুলায়মানের নিকট এবং দাঊদকে প্রদান করেছি যাবূর।",
+    "urdu": "(اے محمدﷺ) ہم نے تمہاری طرف اسی طرح وحی بھیجی ہے جس طرح نوح اور ان سے پچھلے پیغمبروں کی طرف بھیجی تھی۔ اور ابراہیم اور اسمعیل اور اسحاق اور یعقوب اور اولاد یعقوب اور عیسیٰ اور ایوب اور یونس اور ہارون اور سلیمان کی طرف بھی ہم نے وحی بھیجی تھی اور داؤد کو ہم نے زبور بھی عنایت کی تھی"
+}

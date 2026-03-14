@@ -1,0 +1,42 @@
+{
+    "surahName": "Saad",
+    "surahNameArabic": "ص",
+    "surahNameArabicLong": "سورة ص",
+    "surahNameTranslation": "The letter Saad",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 38,
+    "ayahNo": 11,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/38_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/038011.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/38_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/038011.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/38_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/038011.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/38_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/038011.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/38_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/038011.mp3"
+        }
+    },
+    "english": "This is just another ˹enemy˺ force bound for defeat out there.",
+    "arabic1": "جُندٌ مَّا هُنَالِكَ مَهْزُومٌ مِّنَ ٱلْأَحْزَابِ",
+    "arabic2": "جند ما هنالك مهزوم من الاحزاب",
+    "bengali": "এ বাহিনী তো সেখানে* পরাজিত হবে (পূর্ববর্তী) দলসমূহের মত। \n* هناك দ্বারা মক্কার প্রতি ইঙ্গিত করা হয়েছে। কারো কারো মতে বদর দিবসের দিকে ইঙ্গিত করা হয়েছে।",
+    "urdu": "یہاں شکست کھائے ہوئے گروہوں میں سے یہ بھی ایک لشکر ہے"
+}

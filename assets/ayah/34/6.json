@@ -1,0 +1,42 @@
+{
+    "surahName": "Saba",
+    "surahNameArabic": "سبإ",
+    "surahNameArabicLong": "سورة سَبَأ",
+    "surahNameTranslation": "Sheba",
+    "revelationPlace": "Mecca",
+    "totalAyah": 54,
+    "surahNo": 34,
+    "ayahNo": 6,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/34_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/034006.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/34_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/034006.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/34_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/034006.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/34_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/034006.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/34_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/034006.mp3"
+        }
+    },
+    "english": "Those gifted with knowledge ˹clearly˺ see that what has been revealed to you from your Lord ˹O Prophet˺ is the truth, and that it guides to the Path of the Almighty, the Praiseworthy.",
+    "arabic1": "وَيَرَى ٱلَّذِينَ أُوتُوا۟ ٱلْعِلْمَ ٱلَّذِىٓ أُنزِلَ إِلَيْكَ مِن رَّبِّكَ هُوَ ٱلْحَقَّ وَيَهْدِىٓ إِلَىٰ صِرَٰطِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+    "arabic2": "ويرى الذين اوتوا العلم الذي انزل اليك من ربك هو الحق ويهدي الى صراط العزيز الحميد",
+    "bengali": "আর যাদেরকে জ্ঞান দেয়া হয়েছে তারা জানে যে, তোমার রবের পক্ষ থেকে তোমার প্রতি যা নাযিল করা হয়েছে তা সত্য এবং তা মহাপরাক্রমশালী ও প্রশংসিত আল্লাহর পথের দিকে হিদায়াত করে।",
+    "urdu": "اور جن لوگوں کو علم دیا گیا ہے وہ جانتے ہیں کہ جو (قرآن) تمہارے پروردگار کی طرف سے تم پر نازل ہوا ہے وہ حق ہے۔ اور (خدائے) غالب اور سزاوار تعریف کا رستہ بتاتا ہے"
+}

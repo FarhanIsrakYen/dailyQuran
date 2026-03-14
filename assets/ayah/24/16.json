@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Noor",
+    "surahNameArabic": "النور",
+    "surahNameArabicLong": "سورة النور",
+    "surahNameTranslation": "The Light",
+    "revelationPlace": "Madina",
+    "totalAyah": 64,
+    "surahNo": 24,
+    "ayahNo": 16,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/24_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/024016.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/24_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/024016.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/24_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/024016.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/24_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/024016.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/24_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/024016.mp3"
+        }
+    },
+    "english": "If only you had said upon hearing it, “How can we speak about such a thing! Glory be to You ˹O Lord˺! This is a heinous slander!”",
+    "arabic1": "وَلَوْلَآ إِذْ سَمِعْتُمُوهُ قُلْتُم مَّا يَكُونُ لَنَآ أَن نَّتَكَلَّمَ بِهَـٰذَا سُبْحَـٰنَكَ هَـٰذَا بُهْتَـٰنٌ عَظِيمٌ",
+    "arabic2": "ولولا اذ سمعتموه قلتم ما يكون لنا ان نتكلم بهذا سبحانك هذا بهتان عظيم",
+    "bengali": "আর তোমরা যখন এটা শুনলে, তখন তোমরা কেন বললে না যে, ‘এ নিয়ে কথা বলা আমাদের পক্ষে সম্ভব নয়। তুমি অতি পবিত্র মহান, এটা এক গুরুতর অপবাদ’।",
+    "urdu": "اور جب تم نے اسے سنا تھا تو کیوں نہ کہہ دیا کہ ہمیں شایاں نہیں کہ ایسی بات زبان پر نہ لائیں۔ (پروردگار) تو پاک ہے یہ تو (بہت) بڑا بہتان ہے"
+}

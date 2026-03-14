@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Anfaal",
+    "surahNameArabic": "الأنفال",
+    "surahNameArabicLong": "سورة الأنفال",
+    "surahNameTranslation": "The Spoils of War",
+    "revelationPlace": "Madina",
+    "totalAyah": 75,
+    "surahNo": 8,
+    "ayahNo": 41,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/8_41.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/008041.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/8_41.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/008041.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/8_41.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/008041.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/8_41.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/008041.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/8_41.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/008041.mp3"
+        }
+    },
+    "english": "Know that whatever spoils you take, one-fifth is for Allah and the Messenger, his close relatives, orphans, the poor, and ˹needy˺ travellers, if you ˹truly˺ believe in Allah and what We revealed to Our servant on that decisive day when the two armies met ˹at Badr˺. And Allah is Most Capable of everything.",
+    "arabic1": "۞ وَٱعْلَمُوٓا۟ أَنَّمَا غَنِمْتُم مِّن شَىْءٍ فَأَنَّ لِلَّهِ خُمُسَهُۥ وَلِلرَّسُولِ وَلِذِى ٱلْقُرْبَىٰ وَٱلْيَتَـٰمَىٰ وَٱلْمَسَـٰكِينِ وَٱبْنِ ٱلسَّبِيلِ إِن كُنتُمْ ءَامَنتُم بِٱللَّهِ وَمَآ أَنزَلْنَا عَلَىٰ عَبْدِنَا يَوْمَ ٱلْفُرْقَانِ يَوْمَ ٱلْتَقَى ٱلْجَمْعَانِ ۗ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+    "arabic2": "واعلموا انما غنمتم من شيء فان لله خمسه وللرسول ولذي القربى واليتامى والمساكين وابن السبيل ان كنتم امنتم بالله وما انزلنا على عبدنا يوم الفرقان يوم التقى الجمعان والله على كل شيء قدير",
+    "bengali": "আর তোমরা জেনে রাখ, তোমরা যা কিছু গনীমতরূপে পেয়েছ, নিশ্চয় আল্লাহর জন্যই তার এক পঞ্চমাংশ ও রাসূলের জন্য, নিকট আত্মীয়, ইয়াতীম, মিসকীন ও মুসাফিরের জন্য, যদি তোমরা ঈমান এনে থাক আল্লাহর প্রতি এবং হক ও বাতিলের ফয়সালার দিন আমি আমার বান্দার উপর যা নাযিল করেছি তার প্রতি, যেদিন* দু’টি দল মুখোমুখি হয়েছে, আর আল্লাহ সব কিছুর উপর ক্ষমতাবান। \n* অর্থাৎ বদর যুদ্ধের দিন।",
+    "urdu": "اور جان رکھو کہ جو چیز تم (کفار سے) لوٹ کر لاؤ اس میں سے پانچواں حصہ خدا کا اور اس کے رسول کا اور اہل قرابت کا اور یتیموں کا اور محتاجوں کا اور مسافروں کا ہے۔ اگر تم خدا پر اور اس (نصرت) پر ایمان رکھتے ہو جو (حق وباطل میں) فرق کرنے کے دن (یعنی جنگ بدر میں) جس دن دونوں فوجوں میں مڈھ بھیڑ ہوگئی۔ اپنے بندے (محمدﷺ) پر نازل فرمائی۔ اور خدا ہر چیز پر قادر ہے"
+}

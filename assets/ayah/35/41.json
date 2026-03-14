@@ -1,0 +1,42 @@
+{
+    "surahName": "Faatir",
+    "surahNameArabic": "فاطر",
+    "surahNameArabicLong": "سورة فاطر",
+    "surahNameTranslation": "The Originator",
+    "revelationPlace": "Mecca",
+    "totalAyah": 45,
+    "surahNo": 35,
+    "ayahNo": 41,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/35_41.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/035041.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/35_41.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/035041.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/35_41.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/035041.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/35_41.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/035041.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/35_41.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/035041.mp3"
+        }
+    },
+    "english": "Indeed, Allah ˹alone˺ keeps the heavens and the earth from falling apart. If they were to fall apart, none but Him could hold them up. He is truly Most Forbearing, All-Forgiving.",
+    "arabic1": "۞ إِنَّ ٱللَّهَ يُمْسِكُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ أَن تَزُولَا ۚ وَلَئِن زَالَتَآ إِنْ أَمْسَكَهُمَا مِنْ أَحَدٍ مِّنۢ بَعْدِهِۦٓ ۚ إِنَّهُۥ كَانَ حَلِيمًا غَفُورًا",
+    "arabic2": "ان الله يمسك السماوات والارض ان تزولا ولئن زالتا ان امسكهما من احد من بعده انه كان حليما غفورا",
+    "bengali": "নিশ্চয় আল্লাহ আসমানসমূহ ও যমীনকে ধরে রাখেন যাতে এগুলো স্থানচ্যুত না হয়। আর যদি এগুলো স্থানচ্যুত হয়, তাহলে তিনি ছাড়া আর কে আছে, যে এগুলোকে ধরে রাখবে? নিশ্চয় তিনি পরম সহনশীল, অতিশয় ক্ষমাপরায়ণ।",
+    "urdu": "خدا ہی آسمانوں اور زمین کو تھامے رکھتا ہے کہ ٹل نہ جائیں۔ اگر وہ ٹل جائیں تو خدا کے سوا کوئی ایسا نہیں جو ان کو تھام سکے۔ بےشک وہ بردبار (اور) بخشنے والا ہے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Kahf",
+    "surahNameArabic": "الكهف",
+    "surahNameArabicLong": "سورة الكهف",
+    "surahNameTranslation": "The Cave",
+    "revelationPlace": "Mecca",
+    "totalAyah": 110,
+    "surahNo": 18,
+    "ayahNo": 51,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/18_51.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/018051.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/18_51.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/018051.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/18_51.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/018051.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/18_51.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/018051.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/18_51.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/018051.mp3"
+        }
+    },
+    "english": "I never called them to witness the creation of the heavens and the earth or ˹even˺ their own creation, nor would I take the misleaders as helpers.",
+    "arabic1": "۞ مَّآ أَشْهَدتُّهُمْ خَلْقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَلَا خَلْقَ أَنفُسِهِمْ وَمَا كُنتُ مُتَّخِذَ ٱلْمُضِلِّينَ عَضُدًا",
+    "arabic2": "ما اشهدتهم خلق السماوات والارض ولا خلق انفسهم وما كنت متخذ المضلين عضدا",
+    "bengali": "আমি তাদেরকে আসমানসমূহ ও যমীনের সৃষ্টির সাক্ষী করিনি এবং না তাদের নিজদের সৃষ্টির। আর আমি পথভ্রষ্টকারীদেরকে সহায়তাকারী হিসেবে গ্রহণ করিনি।",
+    "urdu": "میں نے ان کو نہ تو آسمانوں اور زمین کے پیدا کرنے کے وقت بلایا تھا اور نہ خود ان کے پیدا کرنے کے وقت۔ اور میں ایسا نہ تھا کہ گمراہ کرنے والوں کو مددگار بناتا"
+}

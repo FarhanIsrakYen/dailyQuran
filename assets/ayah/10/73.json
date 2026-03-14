@@ -1,0 +1,42 @@
+{
+    "surahName": "Yunus",
+    "surahNameArabic": "يونس",
+    "surahNameArabicLong": "سورة يونس",
+    "surahNameTranslation": "Jonas",
+    "revelationPlace": "Mecca",
+    "totalAyah": 109,
+    "surahNo": 10,
+    "ayahNo": 73,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/10_73.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/010073.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/10_73.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/010073.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/10_73.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/010073.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/10_73.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/010073.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/10_73.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/010073.mp3"
+        }
+    },
+    "english": "But they still rejected him, so We saved him and those with him in the Ark and made them successors, and drowned those who rejected Our signs. See then what was the end of those who had been warned!",
+    "arabic1": "فَكَذَّبُوهُ فَنَجَّيْنَـٰهُ وَمَن مَّعَهُۥ فِى ٱلْفُلْكِ وَجَعَلْنَـٰهُمْ خَلَـٰٓئِفَ وَأَغْرَقْنَا ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَـٰتِنَا ۖ فَٱنظُرْ كَيْفَ كَانَ عَـٰقِبَةُ ٱلْمُنذَرِينَ",
+    "arabic2": "فكذبوه فنجيناه ومن معه في الفلك وجعلناهم خلائف واغرقنا الذين كذبوا باياتنا فانظر كيف كان عاقبة المنذرين",
+    "bengali": "অতঃপর তারা তাকে মিথ্যাবাদী বলল। তাই আমি তাকে ও নৌকাতে যারা তার সাথে ছিল তাদেরকে নাজাত দিলাম এবং আমি তাদেরকে করেছি স্থলাভিষিক্ত। আর ডুবিয়ে দিলাম তাদেরকে, যারা আমার আয়াতসমূহকে অস্বীকার করেছে। অতএব দেখ, কেমন ছিল তাদের পরিণতি যাদেরকে সতর্ক করা হয়েছে।",
+    "urdu": "لیکن ان لوگوں نے ان کی تکذیب کی تو ہم نے ان کو اور جو لوگ ان کے ساتھ کشتی میں سوار تھے سب کو (طوفان سے) بچا لیا اور انہیں (زمین میں) خلیفہ بنادیا اور جن لوگوں نے ہماری آیتوں کو جھٹلایا ان کو غرق کر دیا تو دیکھ لو کہ جو لوگ ڈرائے گئے تھے ان کا کیا انجام ہوا"
+}

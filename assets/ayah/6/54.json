@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 54,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/6_54.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/006054.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/6_54.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/006054.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/6_54.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/006054.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/6_54.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/006054.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/6_54.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/006054.mp3"
+        }
+    },
+    "english": "When the believers in Our revelations come to you, say, “Peace be upon you! Your Lord has taken upon Himself to be Merciful. Whoever among you commits evil ignorantly ˹or recklessly˺ then repents afterwards and mends their ways, then Allah is truly All-Forgiving, Most Merciful.”",
+    "arabic1": "وَإِذَا جَآءَكَ ٱلَّذِينَ يُؤْمِنُونَ بِـَٔايَـٰتِنَا فَقُلْ سَلَـٰمٌ عَلَيْكُمْ ۖ كَتَبَ رَبُّكُمْ عَلَىٰ نَفْسِهِ ٱلرَّحْمَةَ ۖ أَنَّهُۥ مَنْ عَمِلَ مِنكُمْ سُوٓءًۢا بِجَهَـٰلَةٍ ثُمَّ تَابَ مِنۢ بَعْدِهِۦ وَأَصْلَحَ فَأَنَّهُۥ غَفُورٌ رَّحِيمٌ",
+    "arabic2": "واذا جاءك الذين يؤمنون باياتنا فقل سلام عليكم كتب ربكم على نفسه الرحمة انه من عمل منكم سوءا بجهالة ثم تاب من بعده واصلح فانه غفور رحيم",
+    "bengali": "আর যারা আমার আয়াতসমূহের উপর ঈমান আনে, তারা যখন তোমার কাছে আসে, তখন তুমি বল, ‘তোমাদের উপর সালাম’। তোমাদের রব তাঁর নিজের উপর লিখে নিয়েছেন দয়া, নিশ্চয় যে তোমাদের মধ্য থেকে না জেনে খারাপ কাজ করে তারপর তাওবা করে এবং শুধরে নেয়, তবে তিনি ক্ষমাশীল, পরম দয়ালু।",
+    "urdu": "اور جب تمہارے پاس ایسے لوگ آیا کریں جو ہماری آیتوں پر ایمان لاتے ہیں تو (ان سے) سلام علیکم کہا کرو خدا نے اپنی ذات (پاک) پر رحمت کو لازم کرلیا ہے کہ جو کوئی تم میں نادانی سے کوئی بری حرکت کر بیٹھے پھر اس کے بعد توبہ کرلے اور نیکوکار ہوجائے تو وہ بخشنے والا مہربان ہے"
+}

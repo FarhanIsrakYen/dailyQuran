@@ -1,0 +1,42 @@
+{
+    "surahName": "Ash-Shura",
+    "surahNameArabic": "الشورى",
+    "surahNameArabicLong": "سورة الشورى",
+    "surahNameTranslation": "Consultation",
+    "revelationPlace": "Mecca",
+    "totalAyah": 53,
+    "surahNo": 42,
+    "ayahNo": 5,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/42_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/042005.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/42_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/042005.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/42_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/042005.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/42_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/042005.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/42_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/042005.mp3"
+        }
+    },
+    "english": "The heavens nearly burst, one above the other, ˹in awe of Him˺. And the angels glorify the praises of their Lord, and seek forgiveness for those on earth. Surely Allah alone is the All-Forgiving, Most Merciful.",
+    "arabic1": "تَكَادُ ٱلسَّمَـٰوَٰتُ يَتَفَطَّرْنَ مِن فَوْقِهِنَّ ۚ وَٱلْمَلَـٰٓئِكَةُ يُسَبِّحُونَ بِحَمْدِ رَبِّهِمْ وَيَسْتَغْفِرُونَ لِمَن فِى ٱلْأَرْضِ ۗ أَلَآ إِنَّ ٱللَّهَ هُوَ ٱلْغَفُورُ ٱلرَّحِيمُ",
+    "arabic2": "تكاد السماوات يتفطرن من فوقهن والملائكة يسبحون بحمد ربهم ويستغفرون لمن في الارض الا ان الله هو الغفور الرحيم",
+    "bengali": "উপর থেকে আসমান ফেটে পড়ার উপক্রম হয়; আর ফেরেশতারা তাদের রবের প্রশংসায় তাসবীহ পাঠ করে এবং পৃথিবীতে যারা আছে তাদের জন্য ক্ষমা প্রার্থনা করে; জেনে রেখ, আল্লাহ, তিনি তো অতি ক্ষমাশীল, পরম দয়ালু।",
+    "urdu": "قریب ہے کہ آسمان اوپر سے پھٹ پڑیں اور فرشتے اپنے پروردگار کی تعریف کے ساتھ اس کی تسبیج کرتے رہتے ہیں اور جو لوگ زمین میں ہیں ان کے لئے معافی مانگتے رہتے ہیں۔ سن رکھو کہ خدا بخشنے والا مہربان ہے"
+}

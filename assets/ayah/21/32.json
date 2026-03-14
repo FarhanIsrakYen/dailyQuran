@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Anbiyaa",
+    "surahNameArabic": "الأنبياء",
+    "surahNameArabicLong": "سورة الأنبياء",
+    "surahNameTranslation": "The Prophets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 112,
+    "surahNo": 21,
+    "ayahNo": 32,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/21_32.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/021032.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/21_32.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/021032.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/21_32.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/021032.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/21_32.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/021032.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/21_32.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/021032.mp3"
+        }
+    },
+    "english": "And We have made the sky a well-protected canopy, still they turn away from its signs.",
+    "arabic1": "وَجَعَلْنَا ٱلسَّمَآءَ سَقْفًا مَّحْفُوظًا ۖ وَهُمْ عَنْ ءَايَـٰتِهَا مُعْرِضُونَ",
+    "arabic2": "وجعلنا السماء سقفا محفوظا وهم عن اياتها معرضون",
+    "bengali": "আর আমি আসমানকে করেছি সুরক্ষিত ছাদ; কিন্তু তারা তার নিদর্শনাবলী হতে মুখ ফিরিয়ে নেয়।",
+    "urdu": "اور آسمان کو محفوظ چھت بنایا۔ اس پر بھی وہ ہماری نشانیوں سے منہ پھیر رہے ہیں"
+}

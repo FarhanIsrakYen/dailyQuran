@@ -1,0 +1,42 @@
+{
+    "surahName": "Hud",
+    "surahNameArabic": "هود",
+    "surahNameArabicLong": "سورة هود",
+    "surahNameTranslation": "Hud",
+    "revelationPlace": "Mecca",
+    "totalAyah": 123,
+    "surahNo": 11,
+    "ayahNo": 17,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/11_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/011017.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/11_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/011017.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/11_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/011017.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/11_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/011017.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/11_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/011017.mp3"
+        }
+    },
+    "english": "˹Can these people be compared to˺ those ˹believers˺ who stand on clear proof from their Lord, backed by ˹the Quran as˺ a witness from Him, and preceded by the Book of Moses ˹which was revealed˺ as a guide and mercy? It is those ˹believers˺ who have faith in it. But whoever from the ˹disbelieving˺ groups rejects it, the Fire will be their destiny. So do not be in doubt of it. It is certainly the truth from your Lord, but most people do not believe.",
+    "arabic1": "أَفَمَن كَانَ عَلَىٰ بَيِّنَةٍ مِّن رَّبِّهِۦ وَيَتْلُوهُ شَاهِدٌ مِّنْهُ وَمِن قَبْلِهِۦ كِتَـٰبُ مُوسَىٰٓ إِمَامًا وَرَحْمَةً ۚ أُو۟لَـٰٓئِكَ يُؤْمِنُونَ بِهِۦ ۚ وَمَن يَكْفُرْ بِهِۦ مِنَ ٱلْأَحْزَابِ فَٱلنَّارُ مَوْعِدُهُۥ ۚ فَلَا تَكُ فِى مِرْيَةٍ مِّنْهُ ۚ إِنَّهُ ٱلْحَقُّ مِن رَّبِّكَ وَلَـٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يُؤْمِنُونَ",
+    "arabic2": "افمن كان على بينة من ربه ويتلوه شاهد منه ومن قبله كتاب موسى اماما ورحمة اولئك يؤمنون به ومن يكفر به من الاحزاب فالنار موعده فلا تك في مرية منه انه الحق من ربك ولكن اكثر الناس لا يؤمنون",
+    "bengali": "যারা তার রবের পক্ষ থেকে স্পষ্ট প্রমাণের উপর প্রতিষ্ঠিত এবং অনুসরণ করে তাঁর পক্ষ থেকে একজন সাক্ষী* এবং যার পূর্বে রয়েছে মূসার কিতাব পথপ্রদর্শক ও রহমতস্বরূপ,(তারা কি ঐ লোকদের মত, যারা দুনিয়া ও তার জৌলুস কামনায় বিভোর?) এরাই তার প্রতি ঈমান পোষণ করে। আর যে সকল দল তা অস্বীকার করে, আগুনই হবে তাদের প্রতিশ্রুত স্থান। সুতরাং তুমি এতে মোটেও সন্দেহের মধ্যে থেকো না, নিশ্চয় তা তোমার রবের পক্ষ থেকে প্রেরিত সত্য। কিন্তু অধিকাংশ মানুষ ঈমান আনে না। \n* সাক্ষী দ্বারা মুহাম্মাদ সা. কে বুঝানো হয়েছে।",
+    "urdu": "بھلا جو لوگ اپنے پروردگار کی طرف سے (روشن) دلیل رکھتے ہوں اور ان کے ساتھ ایک (آسمانی) گواہ بھی اس کی جانب سے ہو اور اس سے پہلے موسیٰ کی کتاب ہو جو پیشوا اور رحمت ہے (تو کیا وہ قرآن پر ایمان نہیں لائیں گے) یہی لوگ اس پر ایمان لاتے ہیں اور جو کوئی اور فرقوں میں سے اس سے منکر ہو تو اس کا ٹھکانہ آگ ہے۔ تو تم اس (قرآن) سے شک میں نہ ہونا۔ یہ تمہارے پروردگار کی طرف سے حق ہے لیکن اکثر لوگ ایمان نہیں لاتے"
+}

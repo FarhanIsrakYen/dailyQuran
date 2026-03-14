@@ -1,0 +1,42 @@
+{
+    "surahName": "Taa-Haa",
+    "surahNameArabic": "طه",
+    "surahNameArabicLong": "سورة طه",
+    "surahNameTranslation": "Taa-Haa",
+    "revelationPlace": "Mecca",
+    "totalAyah": 135,
+    "surahNo": 20,
+    "ayahNo": 80,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/20_80.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/020080.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/20_80.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/020080.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/20_80.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/020080.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/20_80.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/020080.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/20_80.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/020080.mp3"
+        }
+    },
+    "english": "O Children of Israel! We saved you from your enemy, and made an appointment with you on the right side of Mount Ṭûr, and sent down to you manna and quails",
+    "arabic1": "يَـٰبَنِىٓ إِسْرَٰٓءِيلَ قَدْ أَنجَيْنَـٰكُم مِّنْ عَدُوِّكُمْ وَوَٰعَدْنَـٰكُمْ جَانِبَ ٱلطُّورِ ٱلْأَيْمَنَ وَنَزَّلْنَا عَلَيْكُمُ ٱلْمَنَّ وَٱلسَّلْوَىٰ",
+    "arabic2": "يا بني اسرائيل قد انجيناكم من عدوكم وواعدناكم جانب الطور الايمن ونزلنا عليكم المن والسلوى",
+    "bengali": "হে বনী ইসরাঈল, আমিই তোমাদেরকে তোমাদের শত্রু থেকে নাজাত দিয়েছি। আর তোমাদেরকে ওয়াদা দিয়েছিলাম তূর পাহাড়ের ডান পাশের* এবং আমি তোমাদের জন্য অবতরণ করেছিলাম ‘মান্না’ ও ‘সালওয়া’। \n* তারা তূর পাহাড়ের ডানপার্শ্বে উপস্থিত হলে আল্লাহ তা‘আলা তাদেরকে তাওরাত কিতাব প্রদান করবেন বলে ওয়াদা করেছিলেন।",
+    "urdu": "اے آل یعقوب ہم نے تم کو تمہارے دشمن سے نجات دی اور تورات دینے کے لئے تم سے کوہ طور کی داہنی طرف مقرر کی اور تم پر من اور سلویٰ نازل کیا"
+}

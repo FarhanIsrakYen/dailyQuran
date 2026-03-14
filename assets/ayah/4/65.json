@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 65,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/4_65.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/004065.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/4_65.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/004065.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/4_65.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/004065.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/4_65.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/004065.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/4_65.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/004065.mp3"
+        }
+    },
+    "english": "But no! By your Lord, they will never be ˹true˺ believers until they accept you ˹O Prophet˺ as the judge in their disputes, and find no resistance within themselves against your decision and submit wholeheartedly.",
+    "arabic1": "فَلَا وَرَبِّكَ لَا يُؤْمِنُونَ حَتَّىٰ يُحَكِّمُوكَ فِيمَا شَجَرَ بَيْنَهُمْ ثُمَّ لَا يَجِدُوا۟ فِىٓ أَنفُسِهِمْ حَرَجًا مِّمَّا قَضَيْتَ وَيُسَلِّمُوا۟ تَسْلِيمًا",
+    "arabic2": "فلا وربك لا يؤمنون حتى يحكموك فيما شجر بينهم ثم لا يجدوا في انفسهم حرجا مما قضيت ويسلموا تسليما",
+    "bengali": "অতএব তোমার রবের কসম, তারা মুমিন হবে না যতক্ষণ না তাদের মধ্যে সৃষ্ট বিবাদের ব্যাপারে তোমাকে বিচারক নির্ধারণ করে, তারপর তুমি যে ফয়সালা দেবে সে ব্যাপারে নিজদের অন্তরে কোন দ্বিধা অনুভব না করে এবং পূর্ণ সম্মতিতে মেনে নেয়।",
+    "urdu": "تمہارے پروردگار کی قسم یہ لوگ جب تک اپنے تنازعات میں تمہیں منصف نہ بنائیں اور جو فیصلہ تم کردو اس سے اپنے دل میں تنگ نہ ہوں بلکہ اس کو خوشی سے مان لیں تب تک مومن نہیں ہوں گے"
+}

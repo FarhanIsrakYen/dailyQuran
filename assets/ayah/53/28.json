@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Najm",
+    "surahNameArabic": "النجم",
+    "surahNameArabicLong": "سورة النجم",
+    "surahNameTranslation": "The Star",
+    "revelationPlace": "Mecca",
+    "totalAyah": 62,
+    "surahNo": 53,
+    "ayahNo": 28,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/53_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/053028.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/53_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/053028.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/53_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/053028.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/53_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/053028.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/53_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/053028.mp3"
+        }
+    },
+    "english": "although they have no knowledge ˹in support˺ of this. They follow nothing but ˹inherited˺ assumptions. And surely assumptions can in no way replace the truth.",
+    "arabic1": "وَمَا لَهُم بِهِۦ مِنْ عِلْمٍ ۖ إِن يَتَّبِعُونَ إِلَّا ٱلظَّنَّ ۖ وَإِنَّ ٱلظَّنَّ لَا يُغْنِى مِنَ ٱلْحَقِّ شَيْـًٔا",
+    "arabic2": "وما لهم به من علم ان يتبعون الا الظن وان الظن لا يغني من الحق شيئا",
+    "bengali": "অথচ এ বিষয়ে তাদের কোন জ্ঞানই নেই। তারা তো কেবল অনুমানেরই অনুসরণ করে। আর নিশ্চয় অনুমান সত্যের মোকাবেলায় কোনই কাজে আসে না।",
+    "urdu": "حالانکہ ان کو اس کی کچھ خبر نہیں۔ وہ صرف ظن پر چلتے ہیں۔ اور ظن یقین کے مقابلے میں کچھ کام نہیں آتا"
+}

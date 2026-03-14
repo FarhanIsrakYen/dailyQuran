@@ -1,0 +1,42 @@
+{
+    "surahName": "Az-Zukhruf",
+    "surahNameArabic": "الزخرف",
+    "surahNameArabicLong": "سورة الزخرف",
+    "surahNameTranslation": "Ornaments of gold",
+    "revelationPlace": "Mecca",
+    "totalAyah": 89,
+    "surahNo": 43,
+    "ayahNo": 30,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/43_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/043030.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/43_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/043030.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/43_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/043030.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/43_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/043030.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/43_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/043030.mp3"
+        }
+    },
+    "english": "˹But˺ when the truth came to them, they said, “This is magic, and we totally reject it.”",
+    "arabic1": "وَلَمَّا جَآءَهُمُ ٱلْحَقُّ قَالُوا۟ هَـٰذَا سِحْرٌ وَإِنَّا بِهِۦ كَـٰفِرُونَ",
+    "arabic2": "ولما جاءهم الحق قالوا هذا سحر وانا به كافرون",
+    "bengali": "অথচ যখন সত্য তাদের কাছে আসল তখন তারা বলল, ‘এতো যাদু এবং নিশ্চয় আমরা তা অস্বীকার করছি।’",
+    "urdu": "اور جب ان کے پاس حق (یعنی قرآن) آیا تو کہنے لگے کہ یہ تو جادو ہے اور ہم اس کو نہیں مانتے"
+}

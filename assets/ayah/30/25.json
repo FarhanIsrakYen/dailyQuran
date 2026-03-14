@@ -1,0 +1,42 @@
+{
+    "surahName": "Ar-Room",
+    "surahNameArabic": "الروم",
+    "surahNameArabicLong": "سورة الروم",
+    "surahNameTranslation": "The Romans",
+    "revelationPlace": "Mecca",
+    "totalAyah": 60,
+    "surahNo": 30,
+    "ayahNo": 25,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/30_25.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/030025.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/30_25.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/030025.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/30_25.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/030025.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/30_25.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/030025.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/30_25.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/030025.mp3"
+        }
+    },
+    "english": "And one of His signs is that the heavens and the earth persist by His command. Then when He calls you out of the earth just once, you will instantly come forth.",
+    "arabic1": "وَمِنْ ءَايَـٰتِهِۦٓ أَن تَقُومَ ٱلسَّمَآءُ وَٱلْأَرْضُ بِأَمْرِهِۦ ۚ ثُمَّ إِذَا دَعَاكُمْ دَعْوَةً مِّنَ ٱلْأَرْضِ إِذَآ أَنتُمْ تَخْرُجُونَ",
+    "arabic2": "ومن اياته ان تقوم السماء والارض بامره ثم اذا دعاكم دعوة من الارض اذا انتم تخرجون",
+    "bengali": "আর তাঁর নিদর্শনাবলীর মধ্যে রয়েছে, তাঁরই নির্দেশে আসমান ও যমীন স্থিতিশীল থাকে। তারপর তিনি যখন তোমাদেরকে যমীন থেকে বের হয়ে আসার জন্য একবার আহবান করবেন তখনই তোমরা বের হয়ে আসবে।",
+    "urdu": "اور اسی کے نشانات (اور تصرفات) میں سے ہے کہ آسمان اور زمین اس کے حکم سے قائم ہیں۔ پھر جب وہ تم کو زمین میں سے (نکلنے کے لئے) آواز دے گا تو تم جھٹ نکل پڑو گے"
+}

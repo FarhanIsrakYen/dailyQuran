@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Jaathiya",
+    "surahNameArabic": "الجاثية",
+    "surahNameArabicLong": "سورة الجاثية",
+    "surahNameTranslation": "Crouching",
+    "revelationPlace": "Mecca",
+    "totalAyah": 37,
+    "surahNo": 45,
+    "ayahNo": 35,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/45_35.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/045035.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/45_35.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/045035.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/45_35.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/045035.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/45_35.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/045035.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/45_35.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/045035.mp3"
+        }
+    },
+    "english": "This is because you made a mockery of Allah’s revelations, and were deluded by ˹your˺ worldly life.” So ˹from˺ that Day ˹on˺ they will not be taken out of the Fire, nor will they be allowed to appease ˹their Lord˺.",
+    "arabic1": "ذَٰلِكُم بِأَنَّكُمُ ٱتَّخَذْتُمْ ءَايَـٰتِ ٱللَّهِ هُزُوًا وَغَرَّتْكُمُ ٱلْحَيَوٰةُ ٱلدُّنْيَا ۚ فَٱلْيَوْمَ لَا يُخْرَجُونَ مِنْهَا وَلَا هُمْ يُسْتَعْتَبُونَ",
+    "arabic2": "ذلكم بانكم اتخذتم ايات الله هزوا وغرتكم الحياة الدنيا فاليوم لا يخرجون منها ولا هم يستعتبون",
+    "bengali": "এটা এজন্যই যে, তোমরা আল্লাহর আয়াতকে ঠাট্টা-বিদ্রূপের পাত্র বানিয়েছিলে এবং দুনিয়ার জীবন তোমাদেরকে প্রতারিত করেছিল’। সুতরাং আজ তাদেরকে তা (জাহান্নাম) থেকে বের করা হবে না এবং তাদেরকে আল্লাহর সন্তুষ্টি লাভের সুযোগ দেয়া হবে না।",
+    "urdu": "یہ اس لئے کہ تم نے خدا کی آیتوں کو مخول بنا رکھا تھا اور دنیا کی زندگی نے تم کو دھوکے میں ڈال رکھا تھا۔ سو آج یہ لوگ نہ دوزخ سے نکالے جائیں گے اور نہ ان کی توبہ قبول کی جائے گی"
+}

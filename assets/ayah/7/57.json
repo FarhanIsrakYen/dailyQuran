@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 57,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/7_57.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/007057.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/7_57.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/007057.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/7_57.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/007057.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/7_57.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/007057.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/7_57.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/007057.mp3"
+        }
+    },
+    "english": "He is the One Who sends the winds ushering in His mercy. When they bear heavy clouds, We drive them to a lifeless land and then cause rain to fall, producing every type of fruit. Similarly, We will bring the dead to life, so perhaps you will be mindful.",
+    "arabic1": "وَهُوَ ٱلَّذِى يُرْسِلُ ٱلرِّيَـٰحَ بُشْرًۢا بَيْنَ يَدَىْ رَحْمَتِهِۦ ۖ حَتَّىٰٓ إِذَآ أَقَلَّتْ سَحَابًا ثِقَالًا سُقْنَـٰهُ لِبَلَدٍ مَّيِّتٍ فَأَنزَلْنَا بِهِ ٱلْمَآءَ فَأَخْرَجْنَا بِهِۦ مِن كُلِّ ٱلثَّمَرَٰتِ ۚ كَذَٰلِكَ نُخْرِجُ ٱلْمَوْتَىٰ لَعَلَّكُمْ تَذَكَّرُونَ",
+    "arabic2": "وهو الذي يرسل الرياح بشرا بين يدي رحمته حتى اذا اقلت سحابا ثقالا سقناه لبلد ميت فانزلنا به الماء فاخرجنا به من كل الثمرات كذلك نخرج الموتى لعلكم تذكرون",
+    "bengali": "আর তিনিই তাঁর রহমতের পূর্বে সুসংবাদরূপে বাতাস প্রেরণ করেন। অবশেষে যখন তা ভারি মেঘ ধারণ করে, তখন আমি তাকে চালাই মৃত ভূমিতে, ফলে তার দ্বারা পানি অবতীর্ণ করি। অতঃপর তার মাধ্যমে বের করি প্রত্যেক প্রকারের ফল। এভাবেই আমি মৃতদেরকে বের করি, যাতে তোমরা উপদেশ গ্রহণ কর।",
+    "urdu": "اور وہی تو ہے جو اپنی رحمت (یعنی مینھ) سے پہلے ہواؤں کو خوشخبری (بنا کر) بھیجتا ہے۔ یہاں تک کہ جب وہ بھاری بھاری بادلوں کو اٹھا لاتی ہے تو ہم اس کو ایک مری ہوئی بستی کی طرف ہانک دیتے ہیں۔ پھر بادل سے مینھ برساتے ہیں۔ پھر مینھ سے ہر طرح کے پھل پیدا کرتے ہیں۔ اسی طرح ہم مردوں کو (زمین سے) زندہ کرکے باہر نکال لیں گے۔ (یہ آیات اس لیے بیان کی جاتی ہیں) تاکہ تم نصیحت پکڑو"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Hijr",
+    "surahNameArabic": "الحجر",
+    "surahNameArabicLong": "سورة الحجر",
+    "surahNameTranslation": "The Rock",
+    "revelationPlace": "Mecca",
+    "totalAyah": 99,
+    "surahNo": 15,
+    "ayahNo": 60,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/15_60.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/015060.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/15_60.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/015060.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/15_60.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/015060.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/15_60.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/015060.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/15_60.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/015060.mp3"
+        }
+    },
+    "english": "except his wife. We have determined that she will be one of the doomed.”",
+    "arabic1": "إِلَّا ٱمْرَأَتَهُۥ قَدَّرْنَآ ۙ إِنَّهَا لَمِنَ ٱلْغَـٰبِرِينَ",
+    "arabic2": "الا امراته قدرنا انها لمن الغابرين",
+    "bengali": "‘তবে তার স্ত্রী ছাড়া, আমরা সিদ্ধান্ত নিয়েছি যে, নিশ্চয় সে শাস্তিপ্রাপ্তদের দলভুক্ত’।",
+    "urdu": "البتہ ان کی عورت (کہ) اس کے لیے ہم نے ٹھہرا دیا ہے کہ وہ پیچھے رہ جائے گی"
+}

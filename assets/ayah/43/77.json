@@ -1,0 +1,42 @@
+{
+    "surahName": "Az-Zukhruf",
+    "surahNameArabic": "الزخرف",
+    "surahNameArabicLong": "سورة الزخرف",
+    "surahNameTranslation": "Ornaments of gold",
+    "revelationPlace": "Mecca",
+    "totalAyah": 89,
+    "surahNo": 43,
+    "ayahNo": 77,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/43_77.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/043077.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/43_77.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/043077.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/43_77.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/043077.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/43_77.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/043077.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/43_77.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/043077.mp3"
+        }
+    },
+    "english": "They will cry, “O Mâlik! Let your Lord finish us off.” He will answer, “You are definitely here to stay.”",
+    "arabic1": "وَنَادَوْا۟ يَـٰمَـٰلِكُ لِيَقْضِ عَلَيْنَا رَبُّكَ ۖ قَالَ إِنَّكُم مَّـٰكِثُونَ",
+    "arabic2": "ونادوا يا مالك ليقض علينا ربك قال انكم ماكثون",
+    "bengali": "তারা চিৎকার করে বলবে, ‘হে মালিক, তোমার রব যেন আমাদেরকে শেষ করে দেন’। সে বলবে, ‘নিশ্চয় তোমরা অবস্থানকারী’।",
+    "urdu": "اور پکاریں گے کہ اے مالک تمہارا پروردگار ہمیں موت دے دے۔ وہ کہے گا کہ تم ہمیشہ (اسی حالت میں) رہو گے"
+}

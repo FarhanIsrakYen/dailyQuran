@@ -1,0 +1,42 @@
+{
+    "surahName": "Ar-Room",
+    "surahNameArabic": "الروم",
+    "surahNameArabicLong": "سورة الروم",
+    "surahNameTranslation": "The Romans",
+    "revelationPlace": "Mecca",
+    "totalAyah": 60,
+    "surahNo": 30,
+    "ayahNo": 52,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/30_52.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/030052.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/30_52.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/030052.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/30_52.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/030052.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/30_52.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/030052.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/30_52.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/030052.mp3"
+        }
+    },
+    "english": "So you ˹O Prophet˺ certainly cannot make the dead hear ˹the truth˺. Nor can you make the deaf hear the call when they turn their backs and walk away.",
+    "arabic1": "فَإِنَّكَ لَا تُسْمِعُ ٱلْمَوْتَىٰ وَلَا تُسْمِعُ ٱلصُّمَّ ٱلدُّعَآءَ إِذَا وَلَّوْا۟ مُدْبِرِينَ",
+    "arabic2": "فانك لا تسمع الموتى ولا تسمع الصم الدعاء اذا ولوا مدبرين",
+    "bengali": "নিশ্চয় তুমি মৃতকে শুনাতে পারবে না, না পারবে বধিরকে আহবান শুনাতে, যখন তারা পৃষ্ঠ প্রদর্শন করে ফিরে যায়।",
+    "urdu": "تو تم مردوں کی (بات) نہیں سنا سکتے اور نہ بہروں کو جب وہ پیٹھ پھیر کر پھر جائیں آواز سنا سکتے ہو"
+}

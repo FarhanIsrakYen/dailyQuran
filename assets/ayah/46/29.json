@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Ahqaf",
+    "surahNameArabic": "الأحقاف",
+    "surahNameArabicLong": "سورة الأحقاف",
+    "surahNameTranslation": "The Dunes",
+    "revelationPlace": "Mecca",
+    "totalAyah": 35,
+    "surahNo": 46,
+    "ayahNo": 29,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/46_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/046029.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/46_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/046029.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/46_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/046029.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/46_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/046029.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/46_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/046029.mp3"
+        }
+    },
+    "english": "˹Remember, O  Prophet,˺ when We sent a group of jinn your way to listen to the Quran. Then, upon hearing it, they said ˹to one another˺, “Listen quietly!” Then when it was over, they returned to their fellow jinn as warners.",
+    "arabic1": "وَإِذْ صَرَفْنَآ إِلَيْكَ نَفَرًا مِّنَ ٱلْجِنِّ يَسْتَمِعُونَ ٱلْقُرْءَانَ فَلَمَّا حَضَرُوهُ قَالُوٓا۟ أَنصِتُوا۟ ۖ فَلَمَّا قُضِىَ وَلَّوْا۟ إِلَىٰ قَوْمِهِم مُّنذِرِينَ",
+    "arabic2": "واذ صرفنا اليك نفرا من الجن يستمعون القران فلما حضروه قالوا انصتوا فلما قضي ولوا الى قومهم منذرين",
+    "bengali": "আর স্মরণ কর, যখন আমি জিনদের একটি দলকে তোমার কাছে ফিরিয়ে দিয়েছিলাম। তারা কুরআন পাঠ শুনছিল। যখন তারা তার কাছে উপস্থিত হল, তখন তারা বলল, ‘চুপ করে শোন। তারপর যখন পাঠ শেষ হল তখন তারা তাদের কওমের কাছে সতর্ককারী হিসেবে ফিরে গেল।",
+    "urdu": "اور جب ہم نے جنوں میں سے کئی شخص تمہاری طرف متوجہ کئے کہ قرآن سنیں۔ تو جب وہ اس کے پاس آئے تو (آپس میں) کہنے لگے کہ خاموش رہو۔ جب (پڑھنا) تمام ہوا تو اپنی برادری کے لوگوں میں واپس گئے کہ (ان کو) نصیحت کریں"
+}

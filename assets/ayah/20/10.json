@@ -1,0 +1,42 @@
+{
+    "surahName": "Taa-Haa",
+    "surahNameArabic": "طه",
+    "surahNameArabicLong": "سورة طه",
+    "surahNameTranslation": "Taa-Haa",
+    "revelationPlace": "Mecca",
+    "totalAyah": 135,
+    "surahNo": 20,
+    "ayahNo": 10,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/20_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/020010.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/20_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/020010.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/20_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/020010.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/20_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/020010.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/20_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/020010.mp3"
+        }
+    },
+    "english": "When he saw a fire, he said to his family, “Wait here, ˹for˺ I have spotted a fire. Perhaps I can bring you a torch from it, or find some guidance at the fire.”",
+    "arabic1": "إِذْ رَءَا نَارًا فَقَالَ لِأَهْلِهِ ٱمْكُثُوٓا۟ إِنِّىٓ ءَانَسْتُ نَارًا لَّعَلِّىٓ ءَاتِيكُم مِّنْهَا بِقَبَسٍ أَوْ أَجِدُ عَلَى ٱلنَّارِ هُدًى",
+    "arabic2": "اذ راى نارا فقال لاهله امكثوا اني انست نارا لعلي اتيكم منها بقبس او اجد على النار هدى",
+    "bengali": "যখন সে আগুন দেখল, তখন নিজ পরিবারকে বলল, ‘তোমরা অপেক্ষা কর, আমি আগুন দেখতে পেয়েছি, আশা করি আমি তোমাদের জন্য তা থেকে কিছু জ্বলন্ত আঙ্গার নিয়ে আসতে পারব অথবা আগুনের নিকট পথনির্দেশ পাব।’",
+    "urdu": "جب انہوں نے آگ دیکھی تو اپنے گھر والوں سے کہا کہ تم (یہاں) ٹھہرو میں نے آگ دیکھی ہے (میں وہاں جاتا ہوں) شاید اس میں سے میں تمہارے پاس انگاری لاؤں یا آگ (کے مقام) کا رستہ معلوم کرسکوں"
+}

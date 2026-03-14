@@ -1,0 +1,42 @@
+{
+    "surahName": "Ar-Room",
+    "surahNameArabic": "الروم",
+    "surahNameArabicLong": "سورة الروم",
+    "surahNameTranslation": "The Romans",
+    "revelationPlace": "Mecca",
+    "totalAyah": 60,
+    "surahNo": 30,
+    "ayahNo": 60,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/30_60.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/030060.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/30_60.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/030060.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/30_60.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/030060.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/30_60.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/030060.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/30_60.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/030060.mp3"
+        }
+    },
+    "english": "So be patient, for the promise of Allah certainly is true. And do not be disturbed by those who have no sure faith.",
+    "arabic1": "فَٱصْبِرْ إِنَّ وَعْدَ ٱللَّهِ حَقٌّ ۖ وَلَا يَسْتَخِفَّنَّكَ ٱلَّذِينَ لَا يُوقِنُونَ",
+    "arabic2": "فاصبر ان وعد الله حق ولا يستخفنك الذين لا يوقنون",
+    "bengali": "অতএব, তুমি সবর কর। নিশ্চয় আল্লাহর ওয়াদা হক। আর যারা দৃঢ়ভাবে বিশ্বাস করে না তারা যেন তোমাকে অস্থির করতে না পারে ।",
+    "urdu": "پس تم صبر کرو بیشک خدا کا وعدہ سچا ہے اور( دیکھو) جو لوگ یقین نہیں رکھتے وہ تمہیں اوچھا نہ بنادیں"
+}

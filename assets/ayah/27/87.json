@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Naml",
+    "surahNameArabic": "النمل",
+    "surahNameArabicLong": "سورة النمل",
+    "surahNameTranslation": "The Ant",
+    "revelationPlace": "Mecca",
+    "totalAyah": 93,
+    "surahNo": 27,
+    "ayahNo": 87,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/27_87.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/027087.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/27_87.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/027087.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/27_87.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/027087.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/27_87.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/027087.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/27_87.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/027087.mp3"
+        }
+    },
+    "english": "And ˹beware of˺ the Day the Trumpet will be blown, and all those in the heavens and all those on the earth will be horrified ˹to the point of death˺, except those Allah wills ˹to spare˺. And all will come before Him, fully humbled.",
+    "arabic1": "وَيَوْمَ يُنفَخُ فِى ٱلصُّورِ فَفَزِعَ مَن فِى ٱلسَّمَـٰوَٰتِ وَمَن فِى ٱلْأَرْضِ إِلَّا مَن شَآءَ ٱللَّهُ ۚ وَكُلٌّ أَتَوْهُ دَٰخِرِينَ",
+    "arabic2": "ويوم ينفخ في الصور ففزع من في السماوات ومن في الارض الا من شاء الله وكل اتوه داخرين",
+    "bengali": "আর যেদিন শিঙ্গায় ফুঁক দেয়া হবে, সেদিন আসমানসমূহ ও যমীনে যারা আছে সবাই ভীত হবে; তবে আল্লাহ যাদেরকে চাইবেন তারা ছাড়া। আর সবাই তাঁর কাছে হীন অবস্থায় উপস্থিত হবে।",
+    "urdu": "اور جس روز صور پھونکا جائے گا تو جو لوگ آسمانوں اور زمین میں ہیں سب گھبرا اُٹھیں گے مگر وہ جسے خدا چاہے اور سب اس کے پاس عاجز ہو کر چلے آئیں گے"
+}

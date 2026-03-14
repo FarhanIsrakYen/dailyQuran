@@ -1,0 +1,42 @@
+{
+    "surahName": "Saba",
+    "surahNameArabic": "سبإ",
+    "surahNameArabicLong": "سورة سَبَأ",
+    "surahNameTranslation": "Sheba",
+    "revelationPlace": "Mecca",
+    "totalAyah": 54,
+    "surahNo": 34,
+    "ayahNo": 9,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/34_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/034009.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/34_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/034009.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/34_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/034009.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/34_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/034009.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/34_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/034009.mp3"
+        }
+    },
+    "english": "Have they not then seen all that surrounds them of the heavens and the earth? If We willed, We could cause the earth to swallow them up, or cause ˹deadly˺ pieces of the sky to fall upon them. Surely in this is a sign for every servant who turns ˹to Allah˺.",
+    "arabic1": "أَفَلَمْ يَرَوْا۟ إِلَىٰ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُم مِّنَ ٱلسَّمَآءِ وَٱلْأَرْضِ ۚ إِن نَّشَأْ نَخْسِفْ بِهِمُ ٱلْأَرْضَ أَوْ نُسْقِطْ عَلَيْهِمْ كِسَفًا مِّنَ ٱلسَّمَآءِ ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَةً لِّكُلِّ عَبْدٍ مُّنِيبٍ",
+    "arabic2": "افلم يروا الى ما بين ايديهم وما خلفهم من السماء والارض ان نشا نخسف بهم الارض او نسقط عليهم كسفا من السماء ان في ذلك لاية لكل عبد منيب",
+    "bengali": "তারা কি তাদের সামনে ও তাদের পেছনে আসমান ও যমীনে যা আছে তার প্রতি লক্ষ্য করে না? যদি আমি ইচ্ছা করি তাহলে তাদেরকে সহ ভূমি ধসিয়ে দেব অথবা আসমান থেকে এক খন্ড (আযাব) তাদের উপর নিপতিত করব, অবশ্যই তাতে রয়েছে আল্লাহমুখী প্রত্যেক বান্দার জন্য নিদর্শন।",
+    "urdu": "کیا انہوں نے اس کو نہیں دیکھا جو ان کے آگے اور پیچھے ہے یعنی آسمان اور زمین۔ اگر ہم چاہیں تو ان کو زمین میں دھنسا دیں یا ان پر آسمان کے ٹکڑے گرا دیں۔ اس میں ہر بندے کے لئے جو رجوع کرنے والا ہے ایک نشانی ہے"
+}

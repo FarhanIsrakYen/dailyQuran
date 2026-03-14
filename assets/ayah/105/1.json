@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Fil",
+    "surahNameArabic": "الفيل",
+    "surahNameArabicLong": "سورة الفيل",
+    "surahNameTranslation": "The Elephant",
+    "revelationPlace": "Mecca",
+    "totalAyah": 5,
+    "surahNo": 105,
+    "ayahNo": 1,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/105_1.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/105001.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/105_1.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/105001.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/105_1.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/105001.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/105_1.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/105001.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/105_1.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/105001.mp3"
+        }
+    },
+    "english": "Have you not seen ˹O Prophet˺ how your Lord dealt with the Army of the Elephant?",
+    "arabic1": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَـٰبِ ٱلْفِيلِ",
+    "arabic2": "الم تر كيف فعل ربك باصحاب الفيل",
+    "bengali": "তুমি কি দেখনি তোমার রব হাতীওয়ালাদের সাথে কী করেছিলেন?",
+    "urdu": "کیا تم نے نہیں دیکھا کہ تمہارے پروردگار نے ہاتھی والوں کے ساتھ کیا کیا"
+}

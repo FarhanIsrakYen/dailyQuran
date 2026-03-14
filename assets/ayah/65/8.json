@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Talaaq",
+    "surahNameArabic": "الطلاق",
+    "surahNameArabicLong": "سورة الطلاق",
+    "surahNameTranslation": "Divorce",
+    "revelationPlace": "Madina",
+    "totalAyah": 12,
+    "surahNo": 65,
+    "ayahNo": 8,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/65_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/065008.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/65_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/065008.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/65_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/065008.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/65_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/065008.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/65_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/065008.mp3"
+        }
+    },
+    "english": "˹Imagine˺ how many societies rebelled against the commandments of their Lord and His messengers, so We called each ˹society˺ to a severe account and subjected them to a horrible punishment.",
+    "arabic1": "وَكَأَيِّن مِّن قَرْيَةٍ عَتَتْ عَنْ أَمْرِ رَبِّهَا وَرُسُلِهِۦ فَحَاسَبْنَـٰهَا حِسَابًا شَدِيدًا وَعَذَّبْنَـٰهَا عَذَابًا نُّكْرًا",
+    "arabic2": "وكاين من قرية عتت عن امر ربها ورسله فحاسبناها حسابا شديدا وعذبناها عذابا نكرا",
+    "bengali": "আর অনেক জনপদ তাদের রব ও তাঁর রাসূলগণের নির্দেশের বিরুদ্ধে গিয়েছে। ফলে আমি তাদের কাছ থেকে কঠোর হিসাব নিয়েছি এবং তাদেরকে আমি কঠিন আযাব দিয়েছি।",
+    "urdu": "اور بہت سی بستیوں (کے رہنے والوں)نے اپنے پروردگار اور اس کے پیغمبروں کے احکام سے سرکشی کی تو ہم نے ان کو سخت حساب میں پکڑ لیا اور ان پر (ایسا) عذاب نازل کیا جو نہ دیکھا تھا نہ سنا"
+}

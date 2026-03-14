@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 34,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/9_34.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/009034.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/9_34.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/009034.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/9_34.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/009034.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/9_34.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/009034.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/9_34.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/009034.mp3"
+        }
+    },
+    "english": "O believers! Indeed, many rabbis and monks consume people’s wealth wrongfully and hinder ˹others˺ from the Way of Allah. Give good news of a painful torment to those who hoard gold and silver and do not spend it in Allah’s cause.",
+    "arabic1": "۞ يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِنَّ كَثِيرًا مِّنَ ٱلْأَحْبَارِ وَٱلرُّهْبَانِ لَيَأْكُلُونَ أَمْوَٰلَ ٱلنَّاسِ بِٱلْبَـٰطِلِ وَيَصُدُّونَ عَن سَبِيلِ ٱللَّهِ ۗ وَٱلَّذِينَ يَكْنِزُونَ ٱلذَّهَبَ وَٱلْفِضَّةَ وَلَا يُنفِقُونَهَا فِى سَبِيلِ ٱللَّهِ فَبَشِّرْهُم بِعَذَابٍ أَلِيمٍ",
+    "arabic2": "يا ايها الذين امنوا ان كثيرا من الاحبار والرهبان لياكلون اموال الناس بالباطل ويصدون عن سبيل الله والذين يكنزون الذهب والفضة ولا ينفقونها في سبيل الله فبشرهم بعذاب اليم",
+    "bengali": "হে ঈমানদারগণ, নিশ্চয় পন্ডিত ও সংসার বিরাগীদের অনেকেই মানুষের ধন-সম্পদ অন্যায়ভাবে ভক্ষণ করে, আর তারা আল্লাহর পথে বাধা দেয় এবং যারা সোনা ও রূপা পুঞ্জীভূত করে রাখে, আর তা আল্লাহর রাস্তায় খরচ করে না, তুমি তাদের বেদনাদায়ক আযাবের সুসংবাদ দাও।",
+    "urdu": "مومنو! (اہل کتاب کے) بہت سے عالم اور مشائخ لوگوں کا مال ناحق کھاتے اور (ان کو) راہ خدا سے روکتے ہیں۔ اور جو لوگ سونا اور چاندی جمع کرتے ہیں اور اس کو خدا کے رستے میں خرچ نہیں کرتے۔ ان کو اس دن عذاب الیم کی خبر سنادو"
+}

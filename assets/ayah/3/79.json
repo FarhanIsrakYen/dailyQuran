@@ -1,0 +1,42 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 79,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/3_79.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/003079.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/3_79.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/003079.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/3_79.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/003079.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/3_79.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/003079.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/3_79.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/003079.mp3"
+        }
+    },
+    "english": "It is not appropriate for someone who Allah has blessed with the Scripture, wisdom, and prophethood to say to people, “Worship me instead of Allah.” Rather, he would say, “Be devoted to the worship of your Lord ˹alone˺”—in accordance with what these prophets read in the Scripture and what they taught.",
+    "arabic1": "مَا كَانَ لِبَشَرٍ أَن يُؤْتِيَهُ ٱللَّهُ ٱلْكِتَـٰبَ وَٱلْحُكْمَ وَٱلنُّبُوَّةَ ثُمَّ يَقُولَ لِلنَّاسِ كُونُوا۟ عِبَادًا لِّى مِن دُونِ ٱللَّهِ وَلَـٰكِن كُونُوا۟ رَبَّـٰنِيِّـۧنَ بِمَا كُنتُمْ تُعَلِّمُونَ ٱلْكِتَـٰبَ وَبِمَا كُنتُمْ تَدْرُسُونَ",
+    "arabic2": "ما كان لبشر ان يؤتيه الله الكتاب والحكم والنبوة ثم يقول للناس كونوا عبادا لي من دون الله ولكن كونوا ربانيين بما كنتم تعلمون الكتاب وبما كنتم تدرسون",
+    "bengali": "কোন মানুষের জন্য সংগত নয় যে, আল্লাহ তাকে কিতাব, হিকমাত ও নবুওয়াত দান করার পর সে মানুষকে বলবে, ‘তোমরা আল্লাহকে ছেড়ে আমার বান্দা হয়ে যাও’। বরং সে বলবে, ‘তোমরা রববানী হও। যেহেতু তোমরা কিতাব শিক্ষা দিতে এবং তা অধ্যয়ন করতে’।",
+    "urdu": "کسی آدمی کو شایاں نہیں کہ خدا تو اسے کتاب اور حکومت اور نبوت عطا فرمائے اور وہ لوگوں سے کہے کہ خدا کو چھوڑ کر میرے بندے ہو جاؤ بلکہ (اس کو یہ کہنا سزاوار ہے کہ اے اہلِ کتاب) تم (علمائے) ربانی ہو جاؤ کیونکہ تم کتابِ (خدا) پڑھتے پڑھاتے رہتے ہو"
+}

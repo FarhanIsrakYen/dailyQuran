@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 92,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/9_92.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/009092.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/9_92.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/009092.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/9_92.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/009092.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/9_92.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/009092.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/9_92.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/009092.mp3"
+        }
+    },
+    "english": "Nor ˹is there any blame on˺ those who came to you ˹O Prophet˺ for mounts, then when you said, “I can find no mounts for you,” they left with eyes overflowing with tears out of grief that they had nothing to contribute.",
+    "arabic1": "وَلَا عَلَى ٱلَّذِينَ إِذَا مَآ أَتَوْكَ لِتَحْمِلَهُمْ قُلْتَ لَآ أَجِدُ مَآ أَحْمِلُكُمْ عَلَيْهِ تَوَلَّوا۟ وَّأَعْيُنُهُمْ تَفِيضُ مِنَ ٱلدَّمْعِ حَزَنًا أَلَّا يَجِدُوا۟ مَا يُنفِقُونَ",
+    "arabic2": "ولا على الذين اذا ما اتوك لتحملهم قلت لا اجد ما احملكم عليه تولوا واعينهم تفيض من الدمع حزنا الا يجدوا ما ينفقون",
+    "bengali": "আর তাদের উপরও কোন দোষ নেই, যারা তোমার কাছে আসে, যাতে তুমি তাদের বাহন জোগাতে পার। তুমি বললে, ‘আমি তোমাদেরকে বহন করানোর জন্য কিছু পাচ্ছি না, তখন তারা ফিরে গেল, তাদের চোখ অশ্রুতে ভেসে যাওয়া অবস্থায়, এ দুঃখে যে, তারা পাচ্ছে না এমন কিছু যা তারা ব্যয় করবে’।",
+    "urdu": "اور نہ ان (بےسروسامان) لوگوں پر (الزام) ہے کہ تمہارے پاس آئے کہ ان کو سواری دو اور تم نے کہا کہ میرے پاس کوئی ایسی چیز نہیں جس پر تم کو سوار کروں تو وہ لوٹ گئے اور اس غم سے کہ ان کے پاس خرچ موجود نہ تھا، ان کی آنکھوں سے آنسو بہہ رہے تھے"
+}

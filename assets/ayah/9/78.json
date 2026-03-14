@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 78,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/9_78.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/009078.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/9_78.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/009078.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/9_78.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/009078.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/9_78.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/009078.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/9_78.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/009078.mp3"
+        }
+    },
+    "english": "Do they not know that Allah ˹fully˺ knows their ˹evil˺ thoughts and secret talks, and that Allah is the Knower of all unseen?",
+    "arabic1": "أَلَمْ يَعْلَمُوٓا۟ أَنَّ ٱللَّهَ يَعْلَمُ سِرَّهُمْ وَنَجْوَىٰهُمْ وَأَنَّ ٱللَّهَ عَلَّـٰمُ ٱلْغُيُوبِ",
+    "arabic2": "الم يعلموا ان الله يعلم سرهم ونجواهم وان الله علام الغيوب",
+    "bengali": "তারা কি জানে না, নিশ্চয় আল্লাহ তাদের গোপনীয় বিষয় ও গোপন পরামর্শ জানেন? আর নিশ্চয় আল্লাহ গায়েবসমূহের ব্যাপারে সম্যক জ্ঞাত।",
+    "urdu": "کیا ان کو معلوم نہیں کہ خدا ان کے بھیدوں اور مشوروں تک سے واقف ہے اور یہ کہ وہ غیب کی باتیں جاننے والا ہے"
+}

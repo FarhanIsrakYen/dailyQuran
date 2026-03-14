@@ -1,0 +1,42 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 153,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/3_153.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/003153.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/3_153.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/003153.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/3_153.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/003153.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/3_153.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/003153.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/3_153.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/003153.mp3"
+        }
+    },
+    "english": "˹Remember˺ when you were running far away ˹in panic˺—not looking at anyone—while the Messenger was calling to you from behind! So Allah rewarded your disobedience with distress upon distress. Now, do not grieve over the victory you were denied or the injury you suffered. And Allah is All-Aware of what you do.",
+    "arabic1": "۞ إِذْ تُصْعِدُونَ وَلَا تَلْوُۥنَ عَلَىٰٓ أَحَدٍ وَٱلرَّسُولُ يَدْعُوكُمْ فِىٓ أُخْرَىٰكُمْ فَأَثَـٰبَكُمْ غَمًّۢا بِغَمٍّ لِّكَيْلَا تَحْزَنُوا۟ عَلَىٰ مَا فَاتَكُمْ وَلَا مَآ أَصَـٰبَكُمْ ۗ وَٱللَّهُ خَبِيرٌۢ بِمَا تَعْمَلُونَ",
+    "arabic2": "اذ تصعدون ولا تلوون على احد والرسول يدعوكم في اخراكم فاثابكم غما بغم لكيلا تحزنوا على ما فاتكم ولا ما اصابكم والله خبير بما تعملون",
+    "bengali": "স্মরণ কর, যখন তোমরা উপরে উঠছিলে এবং কারো দিকে ফিরে দেখছিলে না, আর রাসূল তোমাদেরকে ডাকছিল তোমাদের পেছন থেকে। ফলে তিনি তোমাদেরকে দুশ্চিন্তার পর দুশ্চিন্তা দিয়েছিলেন, যাতে তোমাদের যা হারিয়ে গিয়েছে এবং তোমাদের উপর যা আপতিত হয়েছে তার জন্য দুঃখ না কর। আর তোমরা যা কর সে সম্পর্কে আল্লাহ সম্যক অবগত।",
+    "urdu": "(وہ وقت بھی یاد کرنے کے لائق ہے) جب تم لوگ دور بھاگے جاتے تھے اور کسی کو پیچھے پھر کر نہیں دیکھتے تھے اور رسول الله تم کو تمہارے پیچھے کھڑے بلا رہے تھے تو خدا نے تم کو غم پر غم پہنچایا تاکہ جو چیز تمہارے ہاتھ سے جاتی رہی یا جو مصیبت تم پر واقع ہوئی ہے اس سے تم اندوہ ناک نہ ہو اور خدا تمہارے سب اعمال سے خبردار ہے"
+}

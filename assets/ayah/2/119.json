@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 119,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_119.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002119.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_119.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002119.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_119.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002119.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_119.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002119.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_119.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002119.mp3"
+        }
+    },
+    "english": "We have surely sent you with the truth ˹O Prophet˺ as a deliverer of good news and a warner. And you will not be accountable for the residents of the Hellfire.",
+    "arabic1": "إِنَّآ أَرْسَلْنَـٰكَ بِٱلْحَقِّ بَشِيرًا وَنَذِيرًا ۖ وَلَا تُسْـَٔلُ عَنْ أَصْحَـٰبِ ٱلْجَحِيمِ",
+    "arabic2": "انا ارسلناك بالحق بشيرا ونذيرا ولا تسال عن اصحاب الجحيم",
+    "bengali": "নিশ্চয় আমি তোমাকে প্রেরণ করেছি সত্যসহ, সুসংবাদদাতা ও সতর্ককারীরূপে এবং তোমাকে আগুনের অধিবাসীদের সম্পর্কে প্রশ্ন করা হবে না।",
+    "urdu": "(اے محمدﷺ) ہم نے تم کو سچائی کے ساتھ خوشخبری سنانے والا اور ڈرانے والا بنا کر بھیجا ہے۔ اور اہل دوزخ کے بارے میں تم سے کچھ پرسش نہیں ہوگی"
+}

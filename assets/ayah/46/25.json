@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Ahqaf",
+    "surahNameArabic": "الأحقاف",
+    "surahNameArabicLong": "سورة الأحقاف",
+    "surahNameTranslation": "The Dunes",
+    "revelationPlace": "Mecca",
+    "totalAyah": 35,
+    "surahNo": 46,
+    "ayahNo": 25,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/46_25.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/046025.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/46_25.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/046025.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/46_25.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/046025.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/46_25.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/046025.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/46_25.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/046025.mp3"
+        }
+    },
+    "english": "It destroyed everything by the command of its Lord, leaving nothing visible except their ruins. This is how We reward the wicked people.",
+    "arabic1": "تُدَمِّرُ كُلَّ شَىْءٍۭ بِأَمْرِ رَبِّهَا فَأَصْبَحُوا۟ لَا يُرَىٰٓ إِلَّا مَسَـٰكِنُهُمْ ۚ كَذَٰلِكَ نَجْزِى ٱلْقَوْمَ ٱلْمُجْرِمِينَ",
+    "arabic2": "تدمر كل شيء بامر ربها فاصبحوا لا يرى الا مساكنهم كذلك نجزي القوم المجرمين",
+    "bengali": "এটা তার রবের নির্দেশে সব কিছু ধ্বংস করে দেবে’। ফলে তারা এমন (ধ্বংস) হয়ে গেল যে, তাদের আবাসস্থল ছাড়া আর কিছুই দেখা যাচ্ছিল না। এভাবেই আমি অপরাধী কওমকে প্রতিফল দিয়ে থাকি।",
+    "urdu": "ہر چیز کو اپنے پروردگار کے حکم سے تباہ کئے دیتی ہے تو وہ ایسے ہوگئے کہ ان کے گھروں کے سوا کچھ نظر ہی نہیں آتا تھا۔ گنہگار لوگوں کو ہم اسی طرح سزا دیا کرتے ہیں"
+}

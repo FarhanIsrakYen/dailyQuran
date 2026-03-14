@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 40,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/17_40.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/017040.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/17_40.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/017040.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/17_40.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/017040.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/17_40.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/017040.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/17_40.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/017040.mp3"
+        }
+    },
+    "english": "Has your Lord favoured you ˹pagans˺ with sons and taken angels as ˹His˺ daughters? You are truly making an outrageous claim.",
+    "arabic1": "أَفَأَصْفَىٰكُمْ رَبُّكُم بِٱلْبَنِينَ وَٱتَّخَذَ مِنَ ٱلْمَلَـٰٓئِكَةِ إِنَـٰثًا ۚ إِنَّكُمْ لَتَقُولُونَ قَوْلًا عَظِيمًا",
+    "arabic2": "افاصفاكم ربكم بالبنين واتخذ من الملائكة اناثا انكم لتقولون قولا عظيما",
+    "bengali": "তোমাদের রব কি পুত্র সন্তানের জন্য তোমাদেরকে বাছাই করেছেন এবং তিনি ফেরেশতাদের থেকে কন্যা গ্রহণ করেছেন? নিশ্চয় তোমরা সাংঘাতিক কথা বলে থাক।",
+    "urdu": "(مشرکو!) کیا تمہارے پروردگار نے تم کو لڑکے دیئے اور خود فرشتوں کو بیٹیاں بنایا۔ کچھ شک نہیں کہ (یہ) تم بڑی (نامعقول بات) کہتے ہو"
+}

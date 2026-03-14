@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Maaida",
+    "surahNameArabic": "المائدة",
+    "surahNameArabicLong": "سورة المائدة",
+    "surahNameTranslation": "The Table",
+    "revelationPlace": "Madina",
+    "totalAyah": 120,
+    "surahNo": 5,
+    "ayahNo": 68,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/5_68.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/005068.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/5_68.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/005068.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/5_68.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/005068.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/5_68.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/005068.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/5_68.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/005068.mp3"
+        }
+    },
+    "english": "Say, ˹O Prophet,˺ “O People of the Book! You have nothing to stand on unless you observe the Torah, the Gospel, and what has been revealed to you from your Lord.” And your Lord’s revelation to you ˹O Prophet˺ will only cause many of them to increase in wickedness and disbelief. So do not grieve for the people who disbelieve.",
+    "arabic1": "قُلْ يَـٰٓأَهْلَ ٱلْكِتَـٰبِ لَسْتُمْ عَلَىٰ شَىْءٍ حَتَّىٰ تُقِيمُوا۟ ٱلتَّوْرَىٰةَ وَٱلْإِنجِيلَ وَمَآ أُنزِلَ إِلَيْكُم مِّن رَّبِّكُمْ ۗ وَلَيَزِيدَنَّ كَثِيرًا مِّنْهُم مَّآ أُنزِلَ إِلَيْكَ مِن رَّبِّكَ طُغْيَـٰنًا وَكُفْرًا ۖ فَلَا تَأْسَ عَلَى ٱلْقَوْمِ ٱلْكَـٰفِرِينَ",
+    "arabic2": "قل يا اهل الكتاب لستم على شيء حتى تقيموا التوراة والانجيل وما انزل اليكم من ربكم وليزيدن كثيرا منهم ما انزل اليك من ربك طغيانا وكفرا فلا تاس على القوم الكافرين",
+    "bengali": "বল, ‘হে কিতাবীরা, তোমরা কোন ভিত্তির উপর নেই, যতক্ষণ না তোমরা তাওরাত, ইনজীল ও তোমাদের নিকট তোমাদের রবের পক্ষ থেকে যা নাযিল করা হয়েছে, তা কায়েম কর’। আর তোমার নিকট তোমার রবের পক্ষ থেকে যা নাযিল করা হয়েছে, তা তাদের অনেকের অবাধ্যতা ও কুফরী বৃদ্ধি করবে। সুতরাং তুমি কাফির কওমের উপর হতাশ হয়ো না।",
+    "urdu": "کہو کہ اے اہل کتاب! جب تک تم تورات اور انجیل کو اور جو (اور کتابیں) تمہارے پروردگار کی طرف سے تم لوگوں پر نازل ہوئیں ان کو قائم نہ رکھو گے کچھ بھی راہ پر نہیں ہو سکتے اور یہ (قرآن) جو تمہارے پروردگار کی طرف سے تم پر نازل ہوا ہے ان میں سے اکثر کی سرکشی اور کفر اور بڑھے گا تو تم قوم کفار پر افسوس نہ کرو"
+}

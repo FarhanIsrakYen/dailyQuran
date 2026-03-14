@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nahl",
+    "surahNameArabic": "النحل",
+    "surahNameArabicLong": "سورة النحل",
+    "surahNameTranslation": "The Bee",
+    "revelationPlace": "Mecca",
+    "totalAyah": 128,
+    "surahNo": 16,
+    "ayahNo": 10,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/16_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/016010.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/16_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/016010.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/16_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/016010.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/16_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/016010.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/16_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/016010.mp3"
+        }
+    },
+    "english": "He is the One Who sends down rain from the sky, from which you drink and by which plants grow for your cattle to graze.",
+    "arabic1": "هُوَ ٱلَّذِىٓ أَنزَلَ مِنَ ٱلسَّمَآءِ مَآءً ۖ لَّكُم مِّنْهُ شَرَابٌ وَمِنْهُ شَجَرٌ فِيهِ تُسِيمُونَ",
+    "arabic2": "هو الذي انزل من السماء ماء لكم منه شراب ومنه شجر فيه تسيمون",
+    "bengali": "তিনিই সে সত্তা, যিনি আসমান থেকে পানি বর্ষণ করেন, যাতে রয়েছে তোমাদের জন্য পানীয় এবং তা থেকে হয় উদ্ভিত, যাতে তোমরা জন্তু চরাও।",
+    "urdu": "وہی تو ہے جس نے آسمان سے پانی برسایا جسے تم پیتے ہو اور اس سے درخت بھی (شاداب ہوتے ہیں) جن میں تم اپنے چارپایوں کو چراتے ہو"
+}

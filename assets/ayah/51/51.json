@@ -1,0 +1,42 @@
+{
+    "surahName": "Adh-Dhaariyat",
+    "surahNameArabic": "الذاريات",
+    "surahNameArabicLong": "سورة الذاريات",
+    "surahNameTranslation": "The Winnowing Winds",
+    "revelationPlace": "Mecca",
+    "totalAyah": 60,
+    "surahNo": 51,
+    "ayahNo": 51,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/51_51.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/051051.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/51_51.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/051051.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/51_51.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/051051.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/51_51.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/051051.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/51_51.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/051051.mp3"
+        }
+    },
+    "english": "And do not set up another god with Allah. I am truly sent by Him with a clear warning to you.”",
+    "arabic1": "وَلَا تَجْعَلُوا۟ مَعَ ٱللَّهِ إِلَـٰهًا ءَاخَرَ ۖ إِنِّى لَكُم مِّنْهُ نَذِيرٌ مُّبِينٌ",
+    "arabic2": "ولا تجعلوا مع الله الها اخر اني لكم منه نذير مبين",
+    "bengali": "আর তোমরা আল্লাহর সাথে কোন ইলাহ নির্ধারণ করো না; আমি তাঁর পক্ষ থেকে তোমাদের জন্য এক স্পষ্ট সতর্ককারী।",
+    "urdu": "اور خدا کے ساتھ کسی اَور کو معبود نہ بناؤ۔ میں اس کی طرف سے تم کو صریح رستہ بتانے والا ہوں"
+}

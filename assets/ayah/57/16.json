@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Hadid",
+    "surahNameArabic": "الحديد",
+    "surahNameArabicLong": "سورة الحديد",
+    "surahNameTranslation": "The Iron",
+    "revelationPlace": "Madina",
+    "totalAyah": 29,
+    "surahNo": 57,
+    "ayahNo": 16,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/57_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/057016.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/57_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/057016.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/57_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/057016.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/57_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/057016.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/57_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/057016.mp3"
+        }
+    },
+    "english": "Has the time not yet come for believers’ hearts to be humbled at the remembrance of Allah and what has been revealed of the truth, and not be like those given the Scripture before—˹those˺ who were spoiled for so long that their hearts became hardened. And many of them are ˹still˺ rebellious.",
+    "arabic1": "۞ أَلَمْ يَأْنِ لِلَّذِينَ ءَامَنُوٓا۟ أَن تَخْشَعَ قُلُوبُهُمْ لِذِكْرِ ٱللَّهِ وَمَا نَزَلَ مِنَ ٱلْحَقِّ وَلَا يَكُونُوا۟ كَٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ مِن قَبْلُ فَطَالَ عَلَيْهِمُ ٱلْأَمَدُ فَقَسَتْ قُلُوبُهُمْ ۖ وَكَثِيرٌ مِّنْهُمْ فَـٰسِقُونَ",
+    "arabic2": "الم يان للذين امنوا ان تخشع قلوبهم لذكر الله وما نزل من الحق ولا يكونوا كالذين اوتوا الكتاب من قبل فطال عليهم الامد فقست قلوبهم وكثير منهم فاسقون",
+    "bengali": "যারা ঈমান এনেছে তাদের হৃদয় কি আল্লাহর স্মরণে এবং যে সত্য নাযিল হয়েছে তার কারণে বিগলিত হওয়ার সময় হয়নি ? আর তারা যেন তাদের মত না হয়, যাদেরকে ইতঃপূর্বে কিতাব দেয়া হয়েছিল, তারপর তাদের উপর দিয়ে দীর্ঘকাল অতিক্রান্ত হল, অতঃপর তাদের অন্তরসমূহ কঠিন হয়ে গেল। আর তাদের অধিকাংশই ফাসিক।",
+    "urdu": "کیا ابھی تک مومنوں کے لئے اس کا وقت نہیں آیا کہ خدا کی یاد کرنے کے وقت اور (قرآن) جو (خدائے) برحق (کی طرف) سے نازل ہوا ہے اس کے سننے کے وقت ان کے دل نرم ہوجائیں اور وہ ان لوگوں کی طرف نہ ہوجائیں جن کو (ان سے) پہلے کتابیں دی گئی تھیں۔ پھر ان پر زمان طویل گزر گیا تو ان کے دل سخت ہوگئے۔ اور ان میں سے اکثر نافرمان ہیں"
+}

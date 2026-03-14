@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 111,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/7_111.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/007111.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/7_111.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/007111.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/7_111.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/007111.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/7_111.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/007111.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/7_111.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/007111.mp3"
+        }
+    },
+    "english": "They replied, “Let him and his brother wait and send mobilizers to all cities",
+    "arabic1": "قَالُوٓا۟ أَرْجِهْ وَأَخَاهُ وَأَرْسِلْ فِى ٱلْمَدَآئِنِ حَـٰشِرِينَ",
+    "arabic2": "قالوا ارجه واخاه وارسل في المدائن حاشرين",
+    "bengali": "তারা বলল, ‘আপনি তাকে ও তার ভাইকে সুযোগ দিন এবং শহরগুলোতে সংগ্রহকারী পাঠিয়ে দিন।’",
+    "urdu": "انہوں نے (فرعون سے) کہا کہ فی الحال موسیٰ اور اس کے بھائی کے معاملے کو معاف رکھیے اور شہروں میں نقیب روانہ کر دیجیے"
+}

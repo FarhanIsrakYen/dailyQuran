@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Noor",
+    "surahNameArabic": "النور",
+    "surahNameArabicLong": "سورة النور",
+    "surahNameTranslation": "The Light",
+    "revelationPlace": "Madina",
+    "totalAyah": 64,
+    "surahNo": 24,
+    "ayahNo": 61,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/24_61.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/024061.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/24_61.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/024061.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/24_61.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/024061.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/24_61.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/024061.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/24_61.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/024061.mp3"
+        }
+    },
+    "english": "There is no restriction on the blind, or the disabled, or the sick. Nor on yourselves if you eat from your homes, or the homes of your fathers, or your mothers, or your brothers, or your sisters, or your paternal uncles, or your paternal aunts, or your maternal uncles, or your maternal aunts, or from the homes in your trust, or ˹the homes of˺ your friends. There is no blame on you eating together or separately. However, when you enter houses, greet one another with a greeting ˹of peace˺ from Allah, blessed and good. This is how Allah makes His revelations clear to you, so perhaps you will understand.",
+    "arabic1": "لَّيْسَ عَلَى ٱلْأَعْمَىٰ حَرَجٌ وَلَا عَلَى ٱلْأَعْرَجِ حَرَجٌ وَلَا عَلَى ٱلْمَرِيضِ حَرَجٌ وَلَا عَلَىٰٓ أَنفُسِكُمْ أَن تَأْكُلُوا۟ مِنۢ بُيُوتِكُمْ أَوْ بُيُوتِ ءَابَآئِكُمْ أَوْ بُيُوتِ أُمَّهَـٰتِكُمْ أَوْ بُيُوتِ إِخْوَٰنِكُمْ أَوْ بُيُوتِ أَخَوَٰتِكُمْ أَوْ بُيُوتِ أَعْمَـٰمِكُمْ أَوْ بُيُوتِ عَمَّـٰتِكُمْ أَوْ بُيُوتِ أَخْوَٰلِكُمْ أَوْ بُيُوتِ خَـٰلَـٰتِكُمْ أَوْ مَا مَلَكْتُم مَّفَاتِحَهُۥٓ أَوْ صَدِيقِكُمْ ۚ لَيْسَ عَلَيْكُمْ جُنَاحٌ أَن تَأْكُلُوا۟ جَمِيعًا أَوْ أَشْتَاتًا ۚ فَإِذَا دَخَلْتُم بُيُوتًا فَسَلِّمُوا۟ عَلَىٰٓ أَنفُسِكُمْ تَحِيَّةً مِّنْ عِندِ ٱللَّهِ مُبَـٰرَكَةً طَيِّبَةً ۚ كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ لَكُمُ ٱلْـَٔايَـٰتِ لَعَلَّكُمْ تَعْقِلُونَ",
+    "arabic2": "ليس على الاعمى حرج ولا على الاعرج حرج ولا على المريض حرج ولا على انفسكم ان تاكلوا من بيوتكم او بيوت ابائكم او بيوت امهاتكم او بيوت اخوانكم او بيوت اخواتكم او بيوت اعمامكم او بيوت عماتكم او بيوت اخوالكم او بيوت خالاتكم او ما ملكتم مفاتحه او صديقكم ليس عليكم جناح ان تاكلوا جميعا او اشتاتا فاذا دخلتم بيوتا فسلموا على انفسكم تحية من عند الله مباركة طيبة كذلك يبين الله لكم الايات لعلكم تعقلون",
+    "bengali": "অন্ধের জন্য কোন দোষ নেই, পঙ্গুর জন্য কোন দোষ নেই, রোগাক্রান্তের জন্য কোন দোষ নেই এবং তোমাদের নিজদের জন্যও কোন দোষ নেই যে তোমরা খাবে তোমাদের নিজদের ঘরে, অথবা তোমাদের পিতাদের ঘরে, অথবা তোমাদের মায়েদের ঘরে, অথবা তোমাদের ভাইদের ঘরে, অথবা তোমাদের বোনদের ঘরে, অথবা তোমাদের চাচাদের ঘরে, অথবা তোমাদের ফুফুদের ঘরে, অথবা তোমাদের মামাদের ঘরে, অথবা তোমাদের খালাদের ঘরে, অথবা সেসব ঘরে যার চাবি তোমাদের অধিকারে রয়েছে, অথবা তোমাদের বন্ধুদের ঘরে। তোমরা একত্রে খাও অথবা আলাদা আলাদা খাও তাতে কোনও দোষ নেই। তবে তোমরা যখন কোন ঘরে প্রবেশ করবে তখন তোমরা নিজদের উপর সালাম করবে, আল্লাহর পক্ষ থেকে বরকতপূর্ণ ও পবিত্র অভিবাদনস্বরূপ। এভাবে আল্লাহ তোমাদের উদ্দেশ্যে তাঁর আয়াতসমূহ বর্ণনা করেন যাতে তোমরা বুঝতে পার।",
+    "urdu": "نہ تو اندھے پر کچھ گناہ ہے اور نہ لنگڑے پر اور نہ بیمار پر اور نہ خود تم پر کہ اپنے گھروں سے کھانا کھاؤ یا اپنے باپوں کے گھروں سے یا اپنی ماؤں کے گھروں سے یا بھائیوں کے گھروں سے یا اپنی بہنوں کے گھروں سے یا اپنے چچاؤں کے گھروں سے یا اپنی پھوپھیوں کے گھروں سے یا اپنے ماموؤں کے گھروں سے یا اپنی خالاؤں کے گھروں سے یا اس گھر سے جس کی کنجیاں تمہارے ہاتھ میں ہوں یا اپنے دوستوں کے گھروں سے (اور اس کا بھی) تم پر کچھ گناہ نہیں کہ سب مل کر کھانا کھاؤ یا جدا جدا۔ اور جب گھروں میں جایا کرو تو اپنے (گھر والوں کو) سلام کیا کرو۔ (یہ) خدا کی طرف سے مبارک اور پاکیزہ تحفہ ہے۔ اس طرح خدا اپنی آیتیں کھول کھول کر بیان فرماتا ہے تاکہ تم سمجھو"
+}

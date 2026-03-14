@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 190,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/7_190.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/007190.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/7_190.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/007190.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/7_190.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/007190.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/7_190.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/007190.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/7_190.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/007190.mp3"
+        }
+    },
+    "english": "But when He granted their descendants good offspring, they associated false gods in what He has given them. Exalted is Allah above what they associate ˹with Him˺!",
+    "arabic1": "فَلَمَّآ ءَاتَىٰهُمَا صَـٰلِحًا جَعَلَا لَهُۥ شُرَكَآءَ فِيمَآ ءَاتَىٰهُمَا ۚ فَتَعَـٰلَى ٱللَّهُ عَمَّا يُشْرِكُونَ",
+    "arabic2": "فلما اتاهما صالحا جعلا له شركاء فيما اتاهما فتعالى الله عما يشركون",
+    "bengali": "অতঃপর যখন তিনি তাদেরকে এক সুসন্তান দান করলেন, তখন তাদেরকে তিনি যা প্রদান করেছেন সে বিষয়ে তারা তাঁর বহু শরীক নির্ধারণ করল। বস্তুত তারা যাদের শরীক করে তাদের থেকে আল্লাহ অনেক ঊর্ধ্বে।",
+    "urdu": "جب وہ ان کو صحیح و سالم (بچہ) دیتا ہے تو اس (بچے) میں جو وہ ان کو دیتا ہے اس کا شریک مقرر کرتے ہیں۔ جو وہ شرک کرتے ہیں (خدا کا رتبہ) اس سے بلند ہے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 13,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/17_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/017013.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/17_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/017013.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/17_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/017013.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/17_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/017013.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/17_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/017013.mp3"
+        }
+    },
+    "english": "We have bound every human’s destiny to their neck. And on the Day of Judgment We will bring forth to each ˹person˺ a record which they will find laid open.",
+    "arabic1": "وَكُلَّ إِنسَـٰنٍ أَلْزَمْنَـٰهُ طَـٰٓئِرَهُۥ فِى عُنُقِهِۦ ۖ وَنُخْرِجُ لَهُۥ يَوْمَ ٱلْقِيَـٰمَةِ كِتَـٰبًا يَلْقَىٰهُ مَنشُورًا",
+    "arabic2": "وكل انسان الزمناه طائره في عنقه ونخرج له يوم القيامة كتابا يلقاه منشورا",
+    "bengali": "আর আমি প্রত্যেক মানুষের কর্মকে তার ঘাড়ে সংযুক্ত করে দিয়েছি এবং কিয়ামতের দিন তার জন্য আমি বের করব একটি কিতাব, যা সে পাবে উন্মুক্ত।",
+    "urdu": "اور ہم نے ہر انسان کے اعمال کو (بہ صورت کتاب) اس کے گلے میں لٹکا دیا ہے۔ اور قیامت کے روز (وہ) کتاب اسے نکال دکھائیں گے جسے وہ کھلا ہوا دیکھے گا"
+}

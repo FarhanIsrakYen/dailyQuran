@@ -1,0 +1,42 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 114,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/3_114.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/003114.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/3_114.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/003114.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/3_114.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/003114.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/3_114.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/003114.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/3_114.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/003114.mp3"
+        }
+    },
+    "english": "They believe in Allah and the Last Day, encourage good and forbid evil, and race with one another in doing good. They are ˹truly˺ among the righteous.",
+    "arabic1": "يُؤْمِنُونَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ وَيَأْمُرُونَ بِٱلْمَعْرُوفِ وَيَنْهَوْنَ عَنِ ٱلْمُنكَرِ وَيُسَـٰرِعُونَ فِى ٱلْخَيْرَٰتِ وَأُو۟لَـٰٓئِكَ مِنَ ٱلصَّـٰلِحِينَ",
+    "arabic2": "يؤمنون بالله واليوم الاخر ويامرون بالمعروف وينهون عن المنكر ويسارعون في الخيرات واولئك من الصالحين",
+    "bengali": "তারা আল্লাহ ও শেষ দিনের প্রতি ঈমান রাখে এবং তারা ভাল কাজের আদেশ দেয় ও মন্দ কাজ থেকে নিষেধ করে। আর তারা কল্যাণকর কাজে দ্রুত ধাবিত হয় এবং তারা নেককারদের অন্তর্ভুক্ত।",
+    "urdu": "(اور) خدا پر اور روز آخرت پر ایمان رکھتے اور اچھے کام کرنےکو کہتے اور بری باتوں سے منع کرتےاور نیکیوں پر لپکتے ہیں اور یہی لوگ نیکوکار ہیں"
+}

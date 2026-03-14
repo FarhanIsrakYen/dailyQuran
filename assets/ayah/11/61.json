@@ -1,0 +1,42 @@
+{
+    "surahName": "Hud",
+    "surahNameArabic": "هود",
+    "surahNameArabicLong": "سورة هود",
+    "surahNameTranslation": "Hud",
+    "revelationPlace": "Mecca",
+    "totalAyah": 123,
+    "surahNo": 11,
+    "ayahNo": 61,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/11_61.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/011061.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/11_61.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/011061.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/11_61.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/011061.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/11_61.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/011061.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/11_61.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/011061.mp3"
+        }
+    },
+    "english": "And to the people of Thamûd We sent their brother Ṣâliḥ. He said, “O my people! Worship Allah. You have no god other than Him. He ˹is the One Who˺ produced you from the earth and settled you on it. So seek His forgiveness and turn to Him in repentance. Surely my Lord is Ever Near, All-Responsive ˹to prayers˺.”",
+    "arabic1": "۞ وَإِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا ۚ قَالَ يَـٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ مَا لَكُم مِّنْ إِلَـٰهٍ غَيْرُهُۥ ۖ هُوَ أَنشَأَكُم مِّنَ ٱلْأَرْضِ وَٱسْتَعْمَرَكُمْ فِيهَا فَٱسْتَغْفِرُوهُ ثُمَّ تُوبُوٓا۟ إِلَيْهِ ۚ إِنَّ رَبِّى قَرِيبٌ مُّجِيبٌ",
+    "arabic2": "والى ثمود اخاهم صالحا قال يا قوم اعبدوا الله ما لكم من اله غيره هو انشاكم من الارض واستعمركم فيها فاستغفروه ثم توبوا اليه ان ربي قريب مجيب",
+    "bengali": "আর সামূদ জাতির প্রতি (পাঠিয়েছিলাম)তাদের ভাই সালিহকে। সে বলল,‘হে আমার কওম, তোমরা আল্লাহর ইবাদাত কর, তিনি ছাড়া তোমাদের কোন (সত্য) ইলাহ নেই, তিনি তোমাদেরকে সৃষ্টি করেছেন মাটি থেকে এবং সেখানে তোমাদের জন্য আবাদের* ব্যবস্থা করেছেন । সুতরাং তোমরা তাঁর কাছে ক্ষমা চাও, অতঃপর তাঁরই কাছে তাওবা কর। নিশ্চয়ই আমার রব নিকটে, সাড়াদানকারী’। \n* এখানে আবাদের ব্যবস্থা করেছেন বলতে বুঝানো হয়েছে তাদেরকে অধিবাসী করা অথবা আবাদকারী বানানো কিংবা তাদেরকে দীর্ঘজীবি করা।",
+    "urdu": "اور ثمود کی طرف ان کے بھائی صالح کو (بھیجا) تو انہوں نے کہا کہ قوم! خدا ہی کی عبادت کرو اس کے سوا تمہارا کوئی معبود نہیں۔ اسی نے تم کو زمین سے پیدا کیا اور اس میں آباد کیا تو اس سے مغفرت مانگو اور اس کے آگے توبہ کرو۔ بےشک میرا پروردگار نزدیک (بھی ہے اور دعا کا) قبول کرنے والا (بھی) ہے"
+}

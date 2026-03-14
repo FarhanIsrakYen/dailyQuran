@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Ankaboot",
+    "surahNameArabic": "العنكبوت",
+    "surahNameArabicLong": "سورة العنكبوت",
+    "surahNameTranslation": "The Spider",
+    "revelationPlace": "Mecca",
+    "totalAyah": 69,
+    "surahNo": 29,
+    "ayahNo": 29,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/29_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/029029.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/29_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/029029.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/29_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/029029.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/29_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/029029.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/29_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/029029.mp3"
+        }
+    },
+    "english": "Do you really lust after ˹other˺ men, abuse the travellers, and practice immorality ˹openly˺ in your gatherings?” His people’s only response was to say ˹mockingly˺: “Bring Allah’s punishment upon us, if what you say is true.”",
+    "arabic1": "أَئِنَّكُمْ لَتَأْتُونَ ٱلرِّجَالَ وَتَقْطَعُونَ ٱلسَّبِيلَ وَتَأْتُونَ فِى نَادِيكُمُ ٱلْمُنكَرَ ۖ فَمَا كَانَ جَوَابَ قَوْمِهِۦٓ إِلَّآ أَن قَالُوا۟ ٱئْتِنَا بِعَذَابِ ٱللَّهِ إِن كُنتَ مِنَ ٱلصَّـٰدِقِينَ",
+    "arabic2": "ائنكم لتاتون الرجال وتقطعون السبيل وتاتون في ناديكم المنكر فما كان جواب قومه الا ان قالوا ائتنا بعذاب الله ان كنت من الصادقين",
+    "bengali": "‘তোমরা তো পুরুষের উপর উপগত হও এবং রাস্তায় ডাকাতি কর; আর নিজদের বৈঠকে গর্হিত কাজ কর!’ তার কওমের জবাব ছিল কেবল এই যে, তারা বলল, ‘তুমি আল্লাহর আযাব নিয়ে আস যদি তুমি সত্যবাদীদের অন্তর্ভুক্ত হও’।",
+    "urdu": "تم کیوں (لذت کے ارادے سے) لونڈوں کی طرف مائل ہوتے اور (مسافروں کی) رہزنی کرتے ہو اور اپنی مجلسوں میں ناپسندیدہ کام کرتے ہو۔ تو اُن کی قوم کے لوگ جواب میں بولے تو یہ بولے کہ اگر تم سچے ہو تو ہم پر عذاب لے آؤ"
+}

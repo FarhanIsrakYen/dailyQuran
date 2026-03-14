@@ -1,0 +1,42 @@
+{
+    "surahName": "Abasa",
+    "surahNameArabic": "عبس",
+    "surahNameArabicLong": "سورة عبس",
+    "surahNameTranslation": "He frowned",
+    "revelationPlace": "Mecca",
+    "totalAyah": 42,
+    "surahNo": 80,
+    "ayahNo": 19,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/80_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/080019.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/80_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/080019.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/80_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/080019.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/80_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/080019.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/80_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/080019.mp3"
+        }
+    },
+    "english": "He created them from a sperm-drop, and ordained their development.",
+    "arabic1": "مِن نُّطْفَةٍ خَلَقَهُۥ فَقَدَّرَهُۥ",
+    "arabic2": "من نطفة خلقه فقدره",
+    "bengali": "শুক্র বিন্দু থেকে তিনি তাকে সৃষ্টি করেছেন। অতঃপর তাকে সুগঠিত করেছেন।",
+    "urdu": "نطفے سے بنایا پھر اس کا اندازہ مقرر کیا"
+}

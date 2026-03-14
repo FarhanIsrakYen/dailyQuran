@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Fath",
+    "surahNameArabic": "الفتح",
+    "surahNameArabicLong": "سورة الفتح",
+    "surahNameTranslation": "The Victory",
+    "revelationPlace": "Madina",
+    "totalAyah": 29,
+    "surahNo": 48,
+    "ayahNo": 10,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/48_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/048010.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/48_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/048010.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/48_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/048010.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/48_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/048010.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/48_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/048010.mp3"
+        }
+    },
+    "english": "Surely those who pledge allegiance to you ˹O Prophet˺ are actually pledging allegiance to Allah. Allah’s Hand is over theirs. Whoever breaks their pledge, it will only be to their own loss. And whoever fulfils their pledge to Allah, He will grant them a great reward.",
+    "arabic1": "إِنَّ ٱلَّذِينَ يُبَايِعُونَكَ إِنَّمَا يُبَايِعُونَ ٱللَّهَ يَدُ ٱللَّهِ فَوْقَ أَيْدِيهِمْ ۚ فَمَن نَّكَثَ فَإِنَّمَا يَنكُثُ عَلَىٰ نَفْسِهِۦ ۖ وَمَنْ أَوْفَىٰ بِمَا عَـٰهَدَ عَلَيْهُ ٱللَّهَ فَسَيُؤْتِيهِ أَجْرًا عَظِيمًا",
+    "arabic2": "ان الذين يبايعونك انما يبايعون الله يد الله فوق ايديهم فمن نكث فانما ينكث على نفسه ومن اوفى بما عاهد عليه الله فسيؤتيه اجرا عظيما",
+    "bengali": "আর যারা তোমার কাছে বাই‘য়াত গ্রহণ করে, তারা শুধু আল্লাহরই কাছে বাই‘য়াত গ্রহণ করে; আল্লাহর হাত তাদের হাতের উপর; অতঃপর যে কেউ ওয়াদা ভঙ্গ করলে তার ওয়াদা ভঙ্গের পরিণাম বর্তাবে তারই উপর। আর যে আল্লাহকে দেয়া ওয়াদা পূরণ করবে অচিরেই আল্লাহ তাকে মহা পুরস্কার দেবেন।",
+    "urdu": "جو لوگ تم سے بیعت کرتے ہیں وہ خدا سے بیعت کرتے ہیں۔ خدا کا ہاتھ ان کے ہاتھوں پر ہے۔ پھر جو عہد کو توڑے تو عہد توڑنے کا نقصان اسی کو ہے۔ اور جو اس بات کو جس کا اس نے خدا سے عہد کیا ہے پورا کرے تو وہ اسے عنقریب اجر عظیم دے گا"
+}

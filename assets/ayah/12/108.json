@@ -1,0 +1,42 @@
+{
+    "surahName": "Yusuf",
+    "surahNameArabic": "يوسف",
+    "surahNameArabicLong": "سورة يوسف",
+    "surahNameTranslation": "Joseph",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 12,
+    "ayahNo": 108,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/12_108.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/012108.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/12_108.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/012108.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/12_108.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/012108.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/12_108.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/012108.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/12_108.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/012108.mp3"
+        }
+    },
+    "english": "Say, ˹O Prophet,˺ “This is my way. I invite to Allah with insight—I and those who follow me. Glory be to Allah, and I am not one of the polytheists.”",
+    "arabic1": "قُلْ هَـٰذِهِۦ سَبِيلِىٓ أَدْعُوٓا۟ إِلَى ٱللَّهِ ۚ عَلَىٰ بَصِيرَةٍ أَنَا۠ وَمَنِ ٱتَّبَعَنِى ۖ وَسُبْحَـٰنَ ٱللَّهِ وَمَآ أَنَا۠ مِنَ ٱلْمُشْرِكِينَ",
+    "arabic2": "قل هذه سبيلي ادعو الى الله على بصيرة انا ومن اتبعني وسبحان الله وما انا من المشركين",
+    "bengali": "বল, ‘এটা আমার পথ। আমি জেনে-বুঝে আল্লাহর দিকে দাওয়াত দেই এবং যারা আমার অনুসরণ করেছে তারাও। আর আল্লাহ পবিত্র মহান এবং আমি মুশরিকদের অন্তর্ভুক্ত নই’।",
+    "urdu": "کہہ دو میرا رستہ تو یہ ہے میں خدا کی طرف بلاتا ہوں (از روئے یقین وبرہان) سمجھ بوجھ کر میں بھی (لوگوں کو خدا کی طرف بلاتا ہوں) اور میرے پیرو بھی۔ اور خدا پاک ہے۔ اور میں شرک کرنے والوں میں سے نہیں ہوں"
+}

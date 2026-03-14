@@ -1,0 +1,42 @@
+{
+    "surahName": "Taa-Haa",
+    "surahNameArabic": "طه",
+    "surahNameArabicLong": "سورة طه",
+    "surahNameTranslation": "Taa-Haa",
+    "revelationPlace": "Mecca",
+    "totalAyah": 135,
+    "surahNo": 20,
+    "ayahNo": 132,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/20_132.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/020132.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/20_132.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/020132.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/20_132.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/020132.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/20_132.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/020132.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/20_132.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/020132.mp3"
+        }
+    },
+    "english": "Bid your people to pray, and be diligent in ˹observing˺ it. We do not ask you to provide. It is We Who provide for you. And the ultimate outcome is ˹only˺ for ˹the people of˺ righteousness.",
+    "arabic1": "وَأْمُرْ أَهْلَكَ بِٱلصَّلَوٰةِ وَٱصْطَبِرْ عَلَيْهَا ۖ لَا نَسْـَٔلُكَ رِزْقًا ۖ نَّحْنُ نَرْزُقُكَ ۗ وَٱلْعَـٰقِبَةُ لِلتَّقْوَىٰ",
+    "arabic2": "وامر اهلك بالصلاة واصطبر عليها لا نسالك رزقا نحن نرزقك والعاقبة للتقوى",
+    "bengali": "আর তোমার পরিবার-পরিজনকে সালাত আদায়ের আদেশ দাও এবং নিজেও তার উপর অবিচল থাক। আমি তোমার কাছে কোন রিয্ক চাই না। আমিই তোমাকে রিয্ক দেই আর শুভ পরিণাম তো মুত্তাকীদের জন্য।",
+    "urdu": "اور اپنے گھر والوں کو نماز کا حکم کرو اور اس پر قائم رہو۔ ہم تم سے روزی کے خواستگار نہیں۔ بلکہ تمہیں ہم روزی دیتے ہیں اور (نیک) انجام (اہل) تقویٰ کا ہے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Ahqaf",
+    "surahNameArabic": "الأحقاف",
+    "surahNameArabicLong": "سورة الأحقاف",
+    "surahNameTranslation": "The Dunes",
+    "revelationPlace": "Mecca",
+    "totalAyah": 35,
+    "surahNo": 46,
+    "ayahNo": 10,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/46_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/046010.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/46_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/046010.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/46_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/046010.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/46_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/046010.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/46_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/046010.mp3"
+        }
+    },
+    "english": "Ask ˹them, O  Prophet˺, “Consider if this ˹Quran˺ is ˹truly˺ from Allah and you deny it, and a witness from the Children of Israel attests to it and then believes, whereas you act arrogantly. Surely Allah does not guide the wrongdoing people.”",
+    "arabic1": "قُلْ أَرَءَيْتُمْ إِن كَانَ مِنْ عِندِ ٱللَّهِ وَكَفَرْتُم بِهِۦ وَشَهِدَ شَاهِدٌ مِّنۢ بَنِىٓ إِسْرَٰٓءِيلَ عَلَىٰ مِثْلِهِۦ فَـَٔامَنَ وَٱسْتَكْبَرْتُمْ ۖ إِنَّ ٱللَّهَ لَا يَهْدِى ٱلْقَوْمَ ٱلظَّـٰلِمِينَ",
+    "arabic2": "قل ارايتم ان كان من عند الله وكفرتم به وشهد شاهد من بني اسرائيل على مثله فامن واستكبرتم ان الله لا يهدي القوم الظالمين",
+    "bengali": "বল, তোমরা আমাকে জানাও, যদি এ কুরআন আল্লাহর কাছ থেকে এসে থাকে, আর তোমরা এটাকে অস্বীকার করলে, অথচ বনী ইসরাঈলের একজন সাক্ষী এ ব্যাপারে অনুরূপ সাক্ষ্য দিল। অতঃপর সে ঈমান আনল আর তোমরা অহঙ্কার করলে। নিশ্চয় আল্লাহ যালিম কওমকে হেদায়াত করেন না।",
+    "urdu": "کہو کہ بھلا دیکھو تو اگر یہ (قرآن) خدا کی طرف سے ہو اور تم نے اس سے انکار کیا اور بنی اسرائیل میں سے ایک گواہ اسی طرح کی ایک (کتاب) کی گواہی دے چکا اور ایمان لے آیا اور تم نے سرکشی کی (تو تمہارے ظالم ہونے میں کیا شک ہے)۔ بےشک خدا ظالم لوگوں کو ہدایت نہیں دیتا"
+}

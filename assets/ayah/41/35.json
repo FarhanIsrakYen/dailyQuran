@@ -1,0 +1,42 @@
+{
+    "surahName": "Fussilat",
+    "surahNameArabic": "فصلت",
+    "surahNameArabicLong": "سورة فصلت",
+    "surahNameTranslation": "Explained in detail",
+    "revelationPlace": "Mecca",
+    "totalAyah": 54,
+    "surahNo": 41,
+    "ayahNo": 35,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/41_35.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/041035.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/41_35.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/041035.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/41_35.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/041035.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/41_35.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/041035.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/41_35.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/041035.mp3"
+        }
+    },
+    "english": "But this cannot be attained except by those who are patient and who are truly fortunate.",
+    "arabic1": "وَمَا يُلَقَّىٰهَآ إِلَّا ٱلَّذِينَ صَبَرُوا۟ وَمَا يُلَقَّىٰهَآ إِلَّا ذُو حَظٍّ عَظِيمٍ",
+    "arabic2": "وما يلقاها الا الذين صبروا وما يلقاها الا ذو حظ عظيم",
+    "bengali": "আর এটি তারাই প্রাপ্ত হবে যারা ধৈর্যধারণ করবে, আর এর অধিকারী কেবল তারাই হয় যারা মহাভাগ্যবান।",
+    "urdu": "اور یہ بات ان ہی لوگوں کو حاصل ہوتی ہے جو برداشت کرنے والے ہیں۔ اور ان ہی کو نصیب ہوتی ہے جو بڑے صاحب نصیب ہیں"
+}

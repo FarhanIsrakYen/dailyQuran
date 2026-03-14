@@ -1,0 +1,42 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 91,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/3_91.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/003091.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/3_91.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/003091.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/3_91.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/003091.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/3_91.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/003091.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/3_91.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/003091.mp3"
+        }
+    },
+    "english": "Indeed, if each of those who disbelieve then die as disbelievers were to offer a ransom of enough gold to fill the whole world, it would never be accepted from them. It is they who will suffer a painful punishment, and they will have no helpers.",
+    "arabic1": "إِنَّ ٱلَّذِينَ كَفَرُوا۟ وَمَاتُوا۟ وَهُمْ كُفَّارٌ فَلَن يُقْبَلَ مِنْ أَحَدِهِم مِّلْءُ ٱلْأَرْضِ ذَهَبًا وَلَوِ ٱفْتَدَىٰ بِهِۦٓ ۗ أُو۟لَـٰٓئِكَ لَهُمْ عَذَابٌ أَلِيمٌ وَمَا لَهُم مِّن نَّـٰصِرِينَ",
+    "arabic2": "ان الذين كفروا وماتوا وهم كفار فلن يقبل من احدهم ملء الارض ذهبا ولو افتدى به اولئك لهم عذاب اليم وما لهم من ناصرين",
+    "bengali": "নিশ্চয় যারা কুফরী করেছে এবং কাফের অবস্থায় মারা গেছে, তাদের কারো কাছ থেকে যমীন ভরা স্বর্ণ বিনিময়স্বরূপ প্রদান করলেও গ্রহণ করা হবে না, তাদের জন্যই রয়েছে বেদনাদায়ক আযাব, আর তাদের জন্য কোন সাহায্যকারী নেই।",
+    "urdu": "جو لوگ کافر ہوئے اور کفر ہی کی حالت میں مر گئے وہ اگر (نجات حاصل کرنی چاہیں اور) بدلے میں زمین بھر کر سونا دیں تو ہرگز قبول نہ کیا جائے گا ان لوگوں کو دکھ دینے والا عذاب ہو گا اور ان کی کوئی مدد نہیں کرے گا"
+}

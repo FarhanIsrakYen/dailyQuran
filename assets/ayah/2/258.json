@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 258,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_258.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002258.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_258.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002258.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_258.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002258.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_258.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002258.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_258.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002258.mp3"
+        }
+    },
+    "english": "Are you ˹O Prophet˺ not aware of the one who argued with Abraham about his Lord because Allah had granted him kingship? ˹Remember˺ when Abraham said, “My Lord is the One Who has power to give life and cause death.” He argued, “I too have the power to give life and cause death.” Abraham challenged ˹him˺, “Allah causes the sun to rise from the east. So make it rise from the west.” And so the disbeliever was dumbstruck. And Allah does not guide the wrongdoing people.",
+    "arabic1": "أَلَمْ تَرَ إِلَى ٱلَّذِى حَآجَّ إِبْرَٰهِـۧمَ فِى رَبِّهِۦٓ أَنْ ءَاتَىٰهُ ٱللَّهُ ٱلْمُلْكَ إِذْ قَالَ إِبْرَٰهِـۧمُ رَبِّىَ ٱلَّذِى يُحْىِۦ وَيُمِيتُ قَالَ أَنَا۠ أُحْىِۦ وَأُمِيتُ ۖ قَالَ إِبْرَٰهِـۧمُ فَإِنَّ ٱللَّهَ يَأْتِى بِٱلشَّمْسِ مِنَ ٱلْمَشْرِقِ فَأْتِ بِهَا مِنَ ٱلْمَغْرِبِ فَبُهِتَ ٱلَّذِى كَفَرَ ۗ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلظَّـٰلِمِينَ",
+    "arabic2": "الم تر الى الذي حاج ابراهيم في ربه ان اتاه الله الملك اذ قال ابراهيم ربي الذي يحيي ويميت قال انا احيي واميت قال ابراهيم فان الله ياتي بالشمس من المشرق فات بها من المغرب فبهت الذي كفر والله لا يهدي القوم الظالمين",
+    "bengali": "তুমি কি সে ব্যক্তিকে দেখনি, যে ইবরাহীমের সাথে তার রবের ব্যাপারে বিতর্ক করেছে যে, আল্লাহ তাকে রাজত্ব দিয়েছেন? যখন ইবরাহীম বলল, ‘আমার রব তিনিই’ যিনি জীবন দান করেন এবং মৃত্যু ঘটান। সে বলল, আমিই জীবন দান করি এবং মৃত্যু ঘটাই। ইবরাহীম বলল, নিশ্চয় আল্লাহ পূর্বদিক থেকে সূর্য আনেন। অতএব তুমি তা পশ্চিম দিক থেকে আন। ফলে কাফির ব্যক্তি হতভম্ব হয়ে গেল। আর আল্লাহ যালিম সম্প্রদায়কে হিদায়াত দেন না।",
+    "urdu": "بھلا تم نے اس شخص کو نہیں دیکھا جو اس (غرور کے) سبب سے کہ خدا نے اس کو سلطنت بخشی تھی ابراہیم سے پروردگار کے بارے میں جھگڑنے لگا۔ جب ابراہیم نے کہا میرا پروردگار تو وہ ہے جو جلاتا اور مارتا ہے۔ وہ بولا کہ جلا اور مار تو میں بھی سکتا ہوں۔ ابراہیم نے کہا کہ خدا تو سورج کو مشرق سے نکالتا ہے آپ اسے مغرب سے نکال دیجیئے (یہ سن کر) کافر حیران رہ گیا اور خدا بےانصافوں کو ہدایت نہیں دیا کرتا"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Talaaq",
+    "surahNameArabic": "الطلاق",
+    "surahNameArabicLong": "سورة الطلاق",
+    "surahNameTranslation": "Divorce",
+    "revelationPlace": "Madina",
+    "totalAyah": 12,
+    "surahNo": 65,
+    "ayahNo": 5,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/65_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/065005.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/65_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/065005.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/65_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/065005.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/65_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/065005.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/65_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/065005.mp3"
+        }
+    },
+    "english": "This is the commandment of Allah, which He has revealed to you. And whoever is mindful of Allah, He will absolve them of their sins and reward them immensely.",
+    "arabic1": "ذَٰلِكَ أَمْرُ ٱللَّهِ أَنزَلَهُۥٓ إِلَيْكُمْ ۚ وَمَن يَتَّقِ ٱللَّهَ يُكَفِّرْ عَنْهُ سَيِّـَٔاتِهِۦ وَيُعْظِمْ لَهُۥٓ أَجْرًا",
+    "arabic2": "ذلك امر الله انزله اليكم ومن يتق الله يكفر عنه سيئاته ويعظم له اجرا",
+    "bengali": "এটি আল্লাহর নির্দেশ, তিনি তা তোমাদের প্রতি অবতীর্ণ করেছেন। আর যে আল্লাহকে ভয় করে তিনি তার গুনাহসমূহ মোচন করে দেন এবং তার প্রতিদানকে মহান করে দেন।",
+    "urdu": "یہ خدا کے حکم ہیں جو خدا نے تم پر نازل کئے ہیں۔ اور جو خدا سے ڈرے گا وہ اس سے اس کے گناہ دور کر دے گا اور اسے اجر عظیم بخشے گا"
+}

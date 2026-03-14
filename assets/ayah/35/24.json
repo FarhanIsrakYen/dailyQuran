@@ -1,0 +1,42 @@
+{
+    "surahName": "Faatir",
+    "surahNameArabic": "فاطر",
+    "surahNameArabicLong": "سورة فاطر",
+    "surahNameTranslation": "The Originator",
+    "revelationPlace": "Mecca",
+    "totalAyah": 45,
+    "surahNo": 35,
+    "ayahNo": 24,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/35_24.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/035024.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/35_24.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/035024.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/35_24.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/035024.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/35_24.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/035024.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/35_24.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/035024.mp3"
+        }
+    },
+    "english": "We have surely sent you with the truth as a deliverer of good news and a warner. There is no community that has not had a warner.",
+    "arabic1": "إِنَّآ أَرْسَلْنَـٰكَ بِٱلْحَقِّ بَشِيرًا وَنَذِيرًا ۚ وَإِن مِّنْ أُمَّةٍ إِلَّا خَلَا فِيهَا نَذِيرٌ",
+    "arabic2": "انا ارسلناك بالحق بشيرا ونذيرا وان من امة الا خلا فيها نذير",
+    "bengali": "আমি তোমাকে সত্যসহ পাঠিয়েছি সুসংবাদ দাতা ও সতর্ককারীরূপে; আর এমন কোন জাতি নেই যার কাছে সতর্ককারী আসেনি।",
+    "urdu": "ہم نے تم کو حق کے ساتھ خوشخبری سنانے والا اور ڈرانے والا بھیجا ہے۔ اور کوئی اُمت نہیں مگر اس میں ہدایت کرنے والا گزر چکا ہے"
+}

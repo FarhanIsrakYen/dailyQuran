@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Maaida",
+    "surahNameArabic": "المائدة",
+    "surahNameArabicLong": "سورة المائدة",
+    "surahNameTranslation": "The Table",
+    "revelationPlace": "Madina",
+    "totalAyah": 120,
+    "surahNo": 5,
+    "ayahNo": 71,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/5_71.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/005071.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/5_71.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/005071.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/5_71.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/005071.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/5_71.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/005071.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/5_71.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/005071.mp3"
+        }
+    },
+    "english": "They thought there would be no consequences, so they turned a blind eye and a deaf ear. Yet Allah turned to them in forgiveness ˹after their repentance˺, but again many became blind and deaf. And Allah is All-Seeing of what they do.",
+    "arabic1": "وَحَسِبُوٓا۟ أَلَّا تَكُونَ فِتْنَةٌ فَعَمُوا۟ وَصَمُّوا۟ ثُمَّ تَابَ ٱللَّهُ عَلَيْهِمْ ثُمَّ عَمُوا۟ وَصَمُّوا۟ كَثِيرٌ مِّنْهُمْ ۚ وَٱللَّهُ بَصِيرٌۢ بِمَا يَعْمَلُونَ",
+    "arabic2": "وحسبوا الا تكون فتنة فعموا وصموا ثم تاب الله عليهم ثم عموا وصموا كثير منهم والله بصير بما يعملون",
+    "bengali": "আর তারা ভেবেছে যে, কোন বিপর্যয় হবে না। ফলে তারা অন্ধ ও বধির হয়ে গিয়েছে। অতঃপর আল্লাহ তাদের তাওবা কবূল করেছেন। অতঃপর তাদের অনেকে অন্ধ ও বধির হয়ে গিয়েছে। আর তারা যা আমল করে আল্লাহ তার দ্রষ্টা।",
+    "urdu": "اور خیال کرتے تھے کہ (اس سے ان پر) کوئی آفت نہیں آنے کی تو وہ اندھے اور بہرے ہو گئے پھر خدا نے ان پر مہربانی فرمائی (لیکن) پھر ان میں سے بہت سے اندھے اور بہرے ہو گئے اور خدا ان کے سب کاموں کو دیکھ رہا ہے"
+}

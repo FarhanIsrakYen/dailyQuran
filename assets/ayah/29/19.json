@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Ankaboot",
+    "surahNameArabic": "العنكبوت",
+    "surahNameArabicLong": "سورة العنكبوت",
+    "surahNameTranslation": "The Spider",
+    "revelationPlace": "Mecca",
+    "totalAyah": 69,
+    "surahNo": 29,
+    "ayahNo": 19,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/29_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/029019.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/29_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/029019.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/29_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/029019.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/29_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/029019.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/29_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/029019.mp3"
+        }
+    },
+    "english": "Have they not seen how Allah originates the creation then resurrects it? That is certainly easy for Allah.",
+    "arabic1": "أَوَلَمْ يَرَوْا۟ كَيْفَ يُبْدِئُ ٱللَّهُ ٱلْخَلْقَ ثُمَّ يُعِيدُهُۥٓ ۚ إِنَّ ذَٰلِكَ عَلَى ٱللَّهِ يَسِيرٌ",
+    "arabic2": "اولم يروا كيف يبدئ الله الخلق ثم يعيده ان ذلك على الله يسير",
+    "bengali": "তারা কি দেখে না, আল্লাহ কিভাবে সৃষ্টির সূচনা করেন? তারপর তিনি তার পুনরাবৃত্তি করবেন। নিশ্চয় এটি আল্লাহর জন্য সহজ।",
+    "urdu": "کیا اُنہوں نے نہیں دیکھا کہ خدا کس طرح خلقت کو پہلی بار پیدا کرتا پھر (کس طرح) اس کو بار بار پیدا کرتا رہتا ہے۔ یہ خدا کو آسان ہے"
+}

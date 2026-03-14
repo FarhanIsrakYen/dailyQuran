@@ -1,0 +1,42 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 169,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/3_169.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/003169.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/3_169.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/003169.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/3_169.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/003169.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/3_169.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/003169.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/3_169.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/003169.mp3"
+        }
+    },
+    "english": "Never think of those martyred in the cause of Allah as dead. In fact, they are alive with their Lord, well provided for—",
+    "arabic1": "وَلَا تَحْسَبَنَّ ٱلَّذِينَ قُتِلُوا۟ فِى سَبِيلِ ٱللَّهِ أَمْوَٰتًۢا ۚ بَلْ أَحْيَآءٌ عِندَ رَبِّهِمْ يُرْزَقُونَ",
+    "arabic2": "ولا تحسبن الذين قتلوا في سبيل الله امواتا بل احياء عند ربهم يرزقون",
+    "bengali": "আর যারা আল্লাহর পথে জীবন দিয়েছে, তাদেরকে তুমি মৃত মনে করো না, বরং তারা তাদের রবের নিকট জীবিত। তাদেরকে রিয্ক দেয়া হয়।",
+    "urdu": "جو لوگ خدا کی راہ میں مارے گئے ان کو مرے ہوئے نہ سمجھنا (وہ مرے ہوئے نہیں ہیں) بلکہ خدا کے نزدیک زندہ ہیں اور ان کو رزق مل رہا ہے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Qamar",
+    "surahNameArabic": "القمر",
+    "surahNameArabicLong": "سورة القمر",
+    "surahNameTranslation": "The Moon",
+    "revelationPlace": "Mecca",
+    "totalAyah": 55,
+    "surahNo": 54,
+    "ayahNo": 31,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/54_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/054031.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/54_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/054031.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/54_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/054031.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/54_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/054031.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/54_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/054031.mp3"
+        }
+    },
+    "english": "Indeed, We sent against them ˹only˺ one ˹mighty˺ blast, leaving them like the twigs of fence-builders.",
+    "arabic1": "إِنَّآ أَرْسَلْنَا عَلَيْهِمْ صَيْحَةً وَٰحِدَةً فَكَانُوا۟ كَهَشِيمِ ٱلْمُحْتَظِرِ",
+    "arabic2": "انا ارسلنا عليهم صيحة واحدة فكانوا كهشيم المحتظر",
+    "bengali": "নিশ্চয় আমি তাদের কাছে পাঠিয়েছিলাম এক বিকট আওয়াজ, ফলে তারা খোয়াড় প্রস্তুতকারীর খন্ডিত শুষ্ক খড়ের মত হয়ে গেল।",
+    "urdu": "ہم نے ان پر (عذاب کے لئے) ایک چیخ بھیجی تو وہ ایسے ہوگئے جیسے باڑ والے کی سوکھی اور ٹوٹی ہوئی باڑ"
+}

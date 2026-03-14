@@ -1,0 +1,42 @@
+{
+    "surahName": "Az-Zumar",
+    "surahNameArabic": "الزمر",
+    "surahNameArabicLong": "سورة الزمر",
+    "surahNameTranslation": "The Groups",
+    "revelationPlace": "Mecca",
+    "totalAyah": 75,
+    "surahNo": 39,
+    "ayahNo": 3,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/39_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/039003.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/39_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/039003.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/39_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/039003.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/39_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/039003.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/39_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/039003.mp3"
+        }
+    },
+    "english": "Indeed, sincere devotion is due ˹only˺ to Allah. As for those who take other lords besides Him, ˹saying,˺ “We worship them only so they may bring us closer to Allah,” surely Allah will judge between all regarding what they differed about. Allah certainly does not guide whoever persists in lying and disbelief.",
+    "arabic1": "أَلَا لِلَّهِ ٱلدِّينُ ٱلْخَالِصُ ۚ وَٱلَّذِينَ ٱتَّخَذُوا۟ مِن دُونِهِۦٓ أَوْلِيَآءَ مَا نَعْبُدُهُمْ إِلَّا لِيُقَرِّبُونَآ إِلَى ٱللَّهِ زُلْفَىٰٓ إِنَّ ٱللَّهَ يَحْكُمُ بَيْنَهُمْ فِى مَا هُمْ فِيهِ يَخْتَلِفُونَ ۗ إِنَّ ٱللَّهَ لَا يَهْدِى مَنْ هُوَ كَـٰذِبٌ كَفَّارٌ",
+    "arabic2": "الا لله الدين الخالص والذين اتخذوا من دونه اولياء ما نعبدهم الا ليقربونا الى الله زلفى ان الله يحكم بينهم في ما هم فيه يختلفون ان الله لا يهدي من هو كاذب كفار",
+    "bengali": "জেনে রেখ, আল্লাহর জন্যই বিশুদ্ধ ইবাদাত-আনুগত্য। আর যারা আল্লাহ ছাড়া অন্যদেরকে অভিভাবক হিসেবে গ্রহণ করে তারা বলে, ‘আমরা কেবল এজন্যই তাদের ‘ইবাদাত করি যে, তারা আমাদেরকে আল্লাহর নিকটবর্তী করে দেবে।’ যে বিষয়ে তারা মতভেদ করছে আল্লাহ নিশ্চয় সে ব্যাপারে তাদের মধ্যে ফয়সালা করে দেবেন। যে মিথ্যাবাদী কাফির, নিশ্চয় আল্লাহ তাকে হিদায়াত দেন না।",
+    "urdu": "دیکھو خالص عبادت خدا ہی کے لئے (زیبا ہے) اور جن لوگوں نے اس کے سوا اور دوست بنائے ہیں۔ (وہ کہتے ہیں کہ) ہم ان کو اس لئے پوجتے ہیں کہ ہم کو خدا کا مقرب بنادیں۔ تو جن باتوں میں یہ اختلاف کرتے ہیں خدا ان میں ان کا فیصلہ کردے گا۔ بےشک خدا اس شخص کو جو جھوٹا ناشکرا ہے ہدایت نہیں دیتا"
+}

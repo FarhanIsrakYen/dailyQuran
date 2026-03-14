@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nahl",
+    "surahNameArabic": "النحل",
+    "surahNameArabicLong": "سورة النحل",
+    "surahNameTranslation": "The Bee",
+    "revelationPlace": "Mecca",
+    "totalAyah": 128,
+    "surahNo": 16,
+    "ayahNo": 23,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/16_23.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/016023.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/16_23.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/016023.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/16_23.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/016023.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/16_23.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/016023.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/16_23.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/016023.mp3"
+        }
+    },
+    "english": "Without a doubt, Allah knows what they conceal and what they reveal. He certainly does not like those who are too proud.",
+    "arabic1": "لَا جَرَمَ أَنَّ ٱللَّهَ يَعْلَمُ مَا يُسِرُّونَ وَمَا يُعْلِنُونَ ۚ إِنَّهُۥ لَا يُحِبُّ ٱلْمُسْتَكْبِرِينَ",
+    "arabic2": "لا جرم ان الله يعلم ما يسرون وما يعلنون انه لا يحب المستكبرين",
+    "bengali": "নিঃসন্দেহে তারা যা গোপন করে এবং যা প্রকাশ্যে ঘোষণা করে, নিশ্চয় তা আল্লাহ জানেন। নিশ্চয় তিনি অহঙ্কারীদের পছন্দ করেন না।",
+    "urdu": "یہ جو کچھ چھپاتے ہیں اور جو ظاہر کرتے ہیں خدا اس کو ضرور جانتا ہے۔ وہ سرکشوں کو ہرگز پسند نہیں کرتا"
+}

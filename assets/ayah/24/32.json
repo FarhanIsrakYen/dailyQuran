@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Noor",
+    "surahNameArabic": "النور",
+    "surahNameArabicLong": "سورة النور",
+    "surahNameTranslation": "The Light",
+    "revelationPlace": "Madina",
+    "totalAyah": 64,
+    "surahNo": 24,
+    "ayahNo": 32,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/24_32.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/024032.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/24_32.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/024032.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/24_32.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/024032.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/24_32.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/024032.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/24_32.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/024032.mp3"
+        }
+    },
+    "english": "Marry off the ˹free˺ singles among you, as well as the righteous of your bondmen and bondwomen. If they are poor, Allah will enrich them out of His bounty. For Allah is All-Bountiful, All-Knowing.",
+    "arabic1": "وَأَنكِحُوا۟ ٱلْأَيَـٰمَىٰ مِنكُمْ وَٱلصَّـٰلِحِينَ مِنْ عِبَادِكُمْ وَإِمَآئِكُمْ ۚ إِن يَكُونُوا۟ فُقَرَآءَ يُغْنِهِمُ ٱللَّهُ مِن فَضْلِهِۦ ۗ وَٱللَّهُ وَٰسِعٌ عَلِيمٌ",
+    "arabic2": "وانكحوا الايامى منكم والصالحين من عبادكم وامائكم ان يكونوا فقراء يغنهم الله من فضله والله واسع عليم",
+    "bengali": "আর তোমরা তোমাদের মধ্যকার অবিবাহিত নারী-পুরুষ ও সৎকর্মশীল দাস দাসীদের বিবাহ দাও। তারা অভাবী হলে আল্লাহ নিজ অনুগ্রহে তাদেরকে অভাবমুক্ত করে দেবেন। আল্লাহ প্রাচুর্যময় ও মহাজ্ঞানী।",
+    "urdu": "اور اپنی قوم کی بیوہ عورتوں کے نکاح کردیا کرو۔ اور اپنے غلاموں اور لونڈیوں کے بھی جو نیک ہوں (نکاح کردیا کرو) اگر وہ مفلس ہوں گے تو خدا ان کو اپنے فضل سے خوش حال کردے گا۔ اور خدا (بہت) وسعت والا اور (سب کچھ) جاننے والا ہے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Luqman",
+    "surahNameArabic": "لقمان",
+    "surahNameArabicLong": "سورة لقمان",
+    "surahNameTranslation": "Luqman",
+    "revelationPlace": "Mecca",
+    "totalAyah": 34,
+    "surahNo": 31,
+    "ayahNo": 12,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/31_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/031012.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/31_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/031012.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/31_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/031012.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/31_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/031012.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/31_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/031012.mp3"
+        }
+    },
+    "english": "Indeed, We blessed Luqmân with wisdom, ˹saying˺, “Be grateful to Allah, for whoever is grateful, it is only for their own good. And whoever is ungrateful, then surely Allah is Self-Sufficient, Praiseworthy.”",
+    "arabic1": "وَلَقَدْ ءَاتَيْنَا لُقْمَـٰنَ ٱلْحِكْمَةَ أَنِ ٱشْكُرْ لِلَّهِ ۚ وَمَن يَشْكُرْ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ ۖ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ حَمِيدٌ",
+    "arabic2": "ولقد اتينا لقمان الحكمة ان اشكر لله ومن يشكر فانما يشكر لنفسه ومن كفر فان الله غني حميد",
+    "bengali": "আমি অবশ্যই লুকমানকে জ্ঞান দান করেছিলাম এবং বলেছিলামঃ আল্লাহর প্রতি কৃতজ্ঞতা প্রকাশ কর। যে কৃতজ্ঞতা প্রকাশ করে সেতো তা করে নিজের জন্য এবং কেহ অকৃতজ্ঞ হলে আল্লাহতো অভাবমুক্ত, প্রশংসা।",
+    "urdu": "اور ہم نے لقمان کو دانائی بخشی۔ کہ خدا کا شکر کرو۔ اور جو شخص شکر کرتا ہے تو اپنے ہی فائدے کے لئے شکر کرتا ہے۔ اور جو ناشکری کرتا ہے تو خدا بھی بےپروا اور سزاوار حمد (وثنا) ہے"
+}

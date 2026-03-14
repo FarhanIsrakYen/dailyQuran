@@ -1,0 +1,42 @@
+{
+    "surahName": "Ar-Room",
+    "surahNameArabic": "الروم",
+    "surahNameArabicLong": "سورة الروم",
+    "surahNameTranslation": "The Romans",
+    "revelationPlace": "Mecca",
+    "totalAyah": 60,
+    "surahNo": 30,
+    "ayahNo": 9,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/30_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/030009.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/30_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/030009.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/30_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/030009.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/30_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/030009.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/30_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/030009.mp3"
+        }
+    },
+    "english": "Have they not travelled throughout the land to see what was the end of those ˹destroyed˺ before them? They were far superior in might; they cultivated the land and developed it more than these ˹Meccans˺ ever have. Their messengers came to them with clear proofs. Allah would have never wronged them, but it was they who wronged themselves.",
+    "arabic1": "أَوَلَمْ يَسِيرُوا۟ فِى ٱلْأَرْضِ فَيَنظُرُوا۟ كَيْفَ كَانَ عَـٰقِبَةُ ٱلَّذِينَ مِن قَبْلِهِمْ ۚ كَانُوٓا۟ أَشَدَّ مِنْهُمْ قُوَّةً وَأَثَارُوا۟ ٱلْأَرْضَ وَعَمَرُوهَآ أَكْثَرَ مِمَّا عَمَرُوهَا وَجَآءَتْهُمْ رُسُلُهُم بِٱلْبَيِّنَـٰتِ ۖ فَمَا كَانَ ٱللَّهُ لِيَظْلِمَهُمْ وَلَـٰكِن كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ",
+    "arabic2": "اولم يسيروا في الارض فينظروا كيف كان عاقبة الذين من قبلهم كانوا اشد منهم قوة واثاروا الارض وعمروها اكثر مما عمروها وجاءتهم رسلهم بالبينات فما كان الله ليظلمهم ولكن كانوا انفسهم يظلمون",
+    "bengali": "তারা কি যমীনে ভ্রমণ করে না? তাহলে তারা দেখত যে, তাদের পূর্ববর্তীদের পরিণাম কেমন হয়েছিল। তারা শক্তিতে তাদের চেয়েও প্রবল ছিল। আর তারা জমি চাষ করত এবং তারা এদের আবাদ করার চেয়েও বেশী আবাদ করত। আর তাদের কাছে তাদের রাসূলগণ সুস্পষ্ট প্রমাণাদিসহ এসেছিল। বস্তুতঃ আল্লাহ এমন নন যে, তিনি তাদের প্রতি যুলম করবেন, কিন্তু তারা নিজেরাই নিজদের প্রতি যুলম করত।",
+    "urdu": "کیا اُن لوگوں نے ملک میں سیر نہیں کی (سیر کرتے )تو دیکھ لیتے کہ جو لوگ اُن سے پہلے تھے ان کا انجام کیسے ہوا۔ وہ اُن سے زورو قوت میں کہیں زیادہ تھے اور اُنہوں نے زمین کو جوتا اور اس کو اس سے زیادہ آباد کیا تھا جو اُنہوں نے آباد کیا۔ اور اُن کے پاس اُن کے پیغمبر نشانیاں لےکر آتے رہے تو خدا ایسا نہ تھا کہ اُن پر ظلم کرتا۔ بلکہ وہی اپنے آپ پر ظلم کرتے تھے"
+}

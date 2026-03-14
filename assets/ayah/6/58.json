@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 58,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/6_58.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/006058.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/6_58.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/006058.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/6_58.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/006058.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/6_58.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/006058.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/6_58.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/006058.mp3"
+        }
+    },
+    "english": "Say ˹also˺, “If what you seek to hasten were within my power, the matter between us would have already been settled. But Allah knows the wrongdoers best.”",
+    "arabic1": "قُل لَّوْ أَنَّ عِندِى مَا تَسْتَعْجِلُونَ بِهِۦ لَقُضِىَ ٱلْأَمْرُ بَيْنِى وَبَيْنَكُمْ ۗ وَٱللَّهُ أَعْلَمُ بِٱلظَّـٰلِمِينَ",
+    "arabic2": "قل لو ان عندي ما تستعجلون به لقضي الامر بيني وبينكم والله اعلم بالظالمين",
+    "bengali": "বল, ‘তোমরা যা নিয়ে তাড়াহুড়া করছ, তা যদি আমার কাছে থাকত, অবশ্যই আমার ও তোমাদের মাঝে বিষয়টির মীমাংসা হয়ে যেত। আর আল্লাহ যালিমদের ব্যাপারে অধিক জ্ঞাত’।",
+    "urdu": "کہہ دو کہ جس چیز کے لئے تم جلدی کر رہے ہو اگر وہ میرے اختیار میں ہوتی تو مجھ میں اور تم میں فیصلہ ہوچکا ہوتا۔ اور خدا ظالموں سے خوب واقف ہے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Taa-Haa",
+    "surahNameArabic": "طه",
+    "surahNameArabicLong": "سورة طه",
+    "surahNameTranslation": "Taa-Haa",
+    "revelationPlace": "Mecca",
+    "totalAyah": 135,
+    "surahNo": 20,
+    "ayahNo": 118,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/20_118.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/020118.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/20_118.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/020118.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/20_118.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/020118.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/20_118.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/020118.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/20_118.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/020118.mp3"
+        }
+    },
+    "english": "Here it is guaranteed that you will never go hungry or unclothed",
+    "arabic1": "إِنَّ لَكَ أَلَّا تَجُوعَ فِيهَا وَلَا تَعْرَىٰ",
+    "arabic2": "ان لك الا تجوع فيها ولا تعرى",
+    "bengali": "‘নিশ্চয় তোমার জন্য এ ব্যবস্থা যে, তুমি সেখানে ক্ষুধার্তও হবে না এবং বস্ত্রহীনও হবে না’।",
+    "urdu": "یہاں تم کو یہ (آسائش) ہوگی کہ نہ بھوکے رہو نہ ننگے"
+}

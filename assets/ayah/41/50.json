@@ -1,0 +1,42 @@
+{
+    "surahName": "Fussilat",
+    "surahNameArabic": "فصلت",
+    "surahNameArabicLong": "سورة فصلت",
+    "surahNameTranslation": "Explained in detail",
+    "revelationPlace": "Mecca",
+    "totalAyah": 54,
+    "surahNo": 41,
+    "ayahNo": 50,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/41_50.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/041050.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/41_50.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/041050.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/41_50.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/041050.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/41_50.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/041050.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/41_50.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/041050.mp3"
+        }
+    },
+    "english": "And if We let them taste a mercy from Us after being touched with adversity, they will certainly say, “This is what I deserve. I do not think the Hour will ˹ever˺ come. And if in fact I am returned to my Lord, the finest reward with Him will definitely be mine.” But We will surely inform the disbelievers of what they used to do. And We will certainly make them taste a harsh torment.",
+    "arabic1": "وَلَئِنْ أَذَقْنَـٰهُ رَحْمَةً مِّنَّا مِنۢ بَعْدِ ضَرَّآءَ مَسَّتْهُ لَيَقُولَنَّ هَـٰذَا لِى وَمَآ أَظُنُّ ٱلسَّاعَةَ قَآئِمَةً وَلَئِن رُّجِعْتُ إِلَىٰ رَبِّىٓ إِنَّ لِى عِندَهُۥ لَلْحُسْنَىٰ ۚ فَلَنُنَبِّئَنَّ ٱلَّذِينَ كَفَرُوا۟ بِمَا عَمِلُوا۟ وَلَنُذِيقَنَّهُم مِّنْ عَذَابٍ غَلِيظٍ",
+    "arabic2": "ولئن اذقناه رحمة منا من بعد ضراء مسته ليقولن هذا لي وما اظن الساعة قائمة ولئن رجعت الى ربي ان لي عنده للحسنى فلننبئن الذين كفروا بما عملوا ولنذيقنهم من عذاب غليظ",
+    "bengali": "আবার আমি যদি তাকে আপতিত অকল্যাণের পর রহমতের স্বাদ আস্বাদন করাই তখন সে অবশ্যই বলে থাকে, ‘এটি আমার প্রাপ্য, আমার মনে হয় না কিয়ামত হবে, আমাকে যদি আমার রবের কাছে ফিরিয়েও নেয়া হয় তবুও তার কাছে আমার জন্য কল্যাণই থাকবে।’ (আল্লাহ বলেন) ‘আমি অবশ্যই কাফিরদেরকে তাদের আমল সম্পর্কে অবহিত করব এবং অবশ্যই তাদেরকে কঠিন আযাবের স্বাদ আস্বাদন করাব।",
+    "urdu": "اور اگر تکلیف پہنچنے کے بعد ہم اس کو اپنی رحمت کا مزہ چکھاتے ہیں تو کہتا ہے کہ یہ تو میرا حق تھا اور میں نہیں خیال کرتا کہ قیامت برپا ہو۔ اور اگر (قیامت سچ مچ بھی ہو اور) میں اپنے پروردگار کی طرف لوٹایا بھی جاؤں تو میرے لئے اس کے ہاں بھی خوشحالی ہے۔ پس کافر جو عمل کیا کرتے وہ ہم ان کو ضرور جتائیں گے اور ان کو سخت عذاب کا مزہ چکھائیں گے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Tur",
+    "surahNameArabic": "الطور",
+    "surahNameArabicLong": "سورة الطور",
+    "surahNameTranslation": "The Mount",
+    "revelationPlace": "Mecca",
+    "totalAyah": 49,
+    "surahNo": 52,
+    "ayahNo": 48,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/52_48.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/052048.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/52_48.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/052048.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/52_48.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/052048.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/52_48.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/052048.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/52_48.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/052048.mp3"
+        }
+    },
+    "english": "So be patient with your Lord’s decree, for you are truly under Our ˹watchful˺ Eyes. And glorify the praises of your Lord when you rise.",
+    "arabic1": "وَٱصْبِرْ لِحُكْمِ رَبِّكَ فَإِنَّكَ بِأَعْيُنِنَا ۖ وَسَبِّحْ بِحَمْدِ رَبِّكَ حِينَ تَقُومُ",
+    "arabic2": "واصبر لحكم ربك فانك باعيننا وسبح بحمد ربك حين تقوم",
+    "bengali": "আর তোমাদের রবের সিদ্ধান্তের জন্য ধৈর্যধারণ কর; কারণ তুমি আমার চোখের সামনেই আছ, তুমি যখন জেগে ওঠ তখন তোমার রবের সপ্রশংস তাসবীহ পাঠ কর।",
+    "urdu": "اور تم اپنے پروردگار کے حکم کے انتظار میں صبر کئے رہو۔ تم تو ہماری آنکھوں کے سامنے ہو اور جب اُٹھا کرو تو اپنے پروردگار کی تعریف کے ساتھ تسبیح کیا کرو"
+}

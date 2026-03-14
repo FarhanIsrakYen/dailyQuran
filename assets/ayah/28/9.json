@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Qasas",
+    "surahNameArabic": "القصص",
+    "surahNameArabicLong": "سورة القصص",
+    "surahNameTranslation": "The Stories",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 28,
+    "ayahNo": 9,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/28_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/028009.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/28_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/028009.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/28_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/028009.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/28_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/028009.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/28_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/028009.mp3"
+        }
+    },
+    "english": "Pharaoh’s wife said ˹to him˺, “˹This baby is˺ a source of joy for me and you. Do not kill him. Perhaps he may be useful to us or we may adopt him as a son.” They were unaware ˹of what was to come˺.",
+    "arabic1": "وَقَالَتِ ٱمْرَأَتُ فِرْعَوْنَ قُرَّتُ عَيْنٍ لِّى وَلَكَ ۖ لَا تَقْتُلُوهُ عَسَىٰٓ أَن يَنفَعَنَآ أَوْ نَتَّخِذَهُۥ وَلَدًا وَهُمْ لَا يَشْعُرُونَ",
+    "arabic2": "وقالت امرات فرعون قرت عين لي ولك لا تقتلوه عسى ان ينفعنا او نتخذه ولدا وهم لا يشعرون",
+    "bengali": "আর ফির‘আউনের স্ত্রী বলল, ‘এ শিশুটি আমার ও তোমার চক্ষু শীতলকারী, তাকে হত্যা করো না। আশা করা যায়, সে আমাদের কোন উপকারে আসবে। অথবা আমরা তাকে সন্তান হিসেবে গ্রহণ করতে পারি’। অথচ তারা উপলব্ধি করতে পারেনি।",
+    "urdu": "اور فرعون کی بیوی نے کہا کہ (یہ) میری اور تمہاری (دونوں کی) آنکھوں کی ٹھنڈک ہے اس کو قتل نہ کرنا۔ شاید یہ ہمیں فائدہ پہنچائے یا ہم اُسے بیٹا بنالیں اور وہ انجام سے بےخبر تھے"
+}

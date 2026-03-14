@@ -1,0 +1,42 @@
+{
+    "surahName": "Yaseen",
+    "surahNameArabic": "يس",
+    "surahNameArabicLong": "سورة يس",
+    "surahNameTranslation": "Yaseen",
+    "revelationPlace": "Mecca",
+    "totalAyah": 83,
+    "surahNo": 36,
+    "ayahNo": 25,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/36_25.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/036025.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/36_25.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/036025.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/36_25.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/036025.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/36_25.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/036025.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/36_25.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/036025.mp3"
+        }
+    },
+    "english": "I do believe in your Lord, so listen to me.”",
+    "arabic1": "إِنِّىٓ ءَامَنتُ بِرَبِّكُمْ فَٱسْمَعُونِ",
+    "arabic2": "اني امنت بربكم فاسمعون",
+    "bengali": "‘নিশ্চয় আমি তোমাদের রবের প্রতি ঈমান এনেছি, অতএব তোমরা আমার কথা শোন’।",
+    "urdu": "میں تمہارے پروردگار پر ایمان لایا ہوں سو میری بات سن رکھو"
+}

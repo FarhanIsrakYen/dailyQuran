@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Anbiyaa",
+    "surahNameArabic": "الأنبياء",
+    "surahNameArabicLong": "سورة الأنبياء",
+    "surahNameTranslation": "The Prophets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 112,
+    "surahNo": 21,
+    "ayahNo": 97,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/21_97.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/021097.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/21_97.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/021097.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/21_97.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/021097.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/21_97.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/021097.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/21_97.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/021097.mp3"
+        }
+    },
+    "english": "ushering in the True Promise. Then—behold!—the disbelievers will stare ˹in horror, crying,˺ “Oh, woe to us! We have truly been heedless of this. In fact, we have been wrongdoers.”",
+    "arabic1": "وَٱقْتَرَبَ ٱلْوَعْدُ ٱلْحَقُّ فَإِذَا هِىَ شَـٰخِصَةٌ أَبْصَـٰرُ ٱلَّذِينَ كَفَرُوا۟ يَـٰوَيْلَنَا قَدْ كُنَّا فِى غَفْلَةٍ مِّنْ هَـٰذَا بَلْ كُنَّا ظَـٰلِمِينَ",
+    "arabic2": "واقترب الوعد الحق فاذا هي شاخصة ابصار الذين كفروا يا ويلنا قد كنا في غفلة من هذا بل كنا ظالمين",
+    "bengali": "আর সত্য ওয়াদার সময় নিকটে আসলে হঠাৎ কাফিরদের চক্ষু স্থির হয়ে যাবে। তারা বলবে, ‘হায়, আমাদের দুর্ভোগ! আমরা তো এ বিষয়ে উদাসীন ছিলাম বরং আমরা ছিলাম যালিম’ ।",
+    "urdu": "اور (قیامت کا) سچا وعدہ قریب آجائے تو ناگاہ کافروں کی آنکھیں کھلی کی کھلی رہ جائیں (اور کہنے لگیں کہ) ہائے شامت ہم اس (حال) سے غفلت میں رہے بلکہ (اپنے حق میں) ظالم تھے"
+}

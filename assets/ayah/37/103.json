@@ -1,0 +1,42 @@
+{
+    "surahName": "As-Saaffaat",
+    "surahNameArabic": "الصافات",
+    "surahNameArabicLong": "سورة الصافات",
+    "surahNameTranslation": "Those drawn up in Ranks",
+    "revelationPlace": "Mecca",
+    "totalAyah": 182,
+    "surahNo": 37,
+    "ayahNo": 103,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/37_103.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/037103.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/37_103.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/037103.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/37_103.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/037103.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/37_103.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/037103.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/37_103.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/037103.mp3"
+        }
+    },
+    "english": "Then when they submitted ˹to Allah’s Will˺, and Abraham laid him on the side of his forehead ˹for sacrifice˺",
+    "arabic1": "فَلَمَّآ أَسْلَمَا وَتَلَّهُۥ لِلْجَبِينِ",
+    "arabic2": "فلما اسلما وتله للجبين",
+    "bengali": "অতঃপর তারা উভয়ে যখন আত্মসমর্পণ করল এবং সে তাকে* কাত করে শুইয়ে দিল \n* ইসমাঈলকে",
+    "urdu": "جب دونوں نے حکم مان لیا اور باپ نے بیٹے کو ماتھے کے بل لٹا دیا"
+}

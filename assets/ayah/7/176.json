@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 176,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/7_176.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/007176.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/7_176.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/007176.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/7_176.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/007176.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/7_176.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/007176.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/7_176.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/007176.mp3"
+        }
+    },
+    "english": "If We had willed, We would have elevated him with Our signs, but he clung to this life—following his evil desires. His example is that of a dog: if you chase it away, it pants, and if you leave it, it ˹still˺ pants. This is the example of the people who deny Our signs. So narrate ˹to them˺ stories ˹of the past˺, so perhaps they will reflect.",
+    "arabic1": "وَلَوْ شِئْنَا لَرَفَعْنَـٰهُ بِهَا وَلَـٰكِنَّهُۥٓ أَخْلَدَ إِلَى ٱلْأَرْضِ وَٱتَّبَعَ هَوَىٰهُ ۚ فَمَثَلُهُۥ كَمَثَلِ ٱلْكَلْبِ إِن تَحْمِلْ عَلَيْهِ يَلْهَثْ أَوْ تَتْرُكْهُ يَلْهَث ۚ ذَّٰلِكَ مَثَلُ ٱلْقَوْمِ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَـٰتِنَا ۚ فَٱقْصُصِ ٱلْقَصَصَ لَعَلَّهُمْ يَتَفَكَّرُونَ",
+    "arabic2": "ولو شئنا لرفعناه بها ولكنه اخلد الى الارض واتبع هواه فمثله كمثل الكلب ان تحمل عليه يلهث او تتركه يلهث ذلك مثل القوم الذين كذبوا باياتنا فاقصص القصص لعلهم يتفكرون",
+    "bengali": "আর আমি ইচ্ছা করলে উক্ত নিদর্শনাবলীর মাধ্যমে তাকে অবশ্যই উচ্চ মর্যাদা দিতাম, কিন্তু সে পৃথিবীর প্রতি ঝুঁকে পড়েছে এবং নিজ প্রবৃত্তির অনুসরণ করেছে। সুতরাং তার দৃষ্টান্ত হচ্ছে কুকুরের মত। যদি তার উপর বোঝা চাপিয়ে দাও তাহলে সে জিহবা বের করে হাঁপাবে অথবা যদি তাকে ছেড়ে দাও তাহলেও সে জিহবা বের করে হাঁপাবে। এটি হচ্ছে সে কওমের দৃষ্টান্ত যারা আমার আয়াতসমূহকে অস্বীকার করেছে। অতএব তুমি কাহিনী বর্ণনা কর, যাতে তারা চিন্তা করে।",
+    "urdu": "اور اگر ہم چاہتے تو ان آیتوں سے اس (کے درجے) کو بلند کر دیتے مگر وہ تو پستی کی طرف مائل ہوگیا اور اپنی خواہش کے پیچھے چل پڑا۔ تو اس کی مثال کتے کی سی ہوگئی کہ اگر سختی کرو تو زبان نکالے رہے اور یونہی چھوڑ دو تو بھی زبان نکالے رہے۔ یہی مثال ان لوگوں کی ہے جنہوں نے ہماری آیتوں کو جھٹلایا تو ان سے یہ قصہ بیان کردو۔ تاکہ وہ فکر کریں"
+}

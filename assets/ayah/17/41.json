@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 41,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/17_41.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/017041.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/17_41.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/017041.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/17_41.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/017041.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/17_41.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/017041.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/17_41.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/017041.mp3"
+        }
+    },
+    "english": "We have surely varied ˹the signs˺ in this Quran so perhaps they may be mindful, but it only drives them farther away.",
+    "arabic1": "وَلَقَدْ صَرَّفْنَا فِى هَـٰذَا ٱلْقُرْءَانِ لِيَذَّكَّرُوا۟ وَمَا يَزِيدُهُمْ إِلَّا نُفُورًا",
+    "arabic2": "ولقد صرفنا في هذا القران ليذكروا وما يزيدهم الا نفورا",
+    "bengali": "আর অবশ্যই আমি এ কুরআনে বিস্তারিত ব্যাখ্যা দিয়েছি, যাতে তারা উপদেশ গ্রহণ করে; কিন্তু তা কেবল তাদের বিমুখতাই বৃদ্ধি করে।",
+    "urdu": "اور ہم نے اس قرآن میں طرح طرح کی باتیں بیان کی ہیں تاکہ لوگ نصیحت پکڑیں گے۔ مگر وہ اس سے اور بدک جاتے ہیں"
+}

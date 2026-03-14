@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Hajj",
+    "surahNameArabic": "الحج",
+    "surahNameArabicLong": "سورة الحج",
+    "surahNameTranslation": "The Pilgrimage",
+    "revelationPlace": "Madina",
+    "totalAyah": 78,
+    "surahNo": 22,
+    "ayahNo": 45,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/22_45.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/022045.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/22_45.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/022045.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/22_45.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/022045.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/22_45.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/022045.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/22_45.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/022045.mp3"
+        }
+    },
+    "english": "Many are the societies We have destroyed for persisting in wrongdoing, leaving them in total ruin. ˹Many are˺ also the abandoned wells and lofty palaces!",
+    "arabic1": "فَكَأَيِّن مِّن قَرْيَةٍ أَهْلَكْنَـٰهَا وَهِىَ ظَالِمَةٌ فَهِىَ خَاوِيَةٌ عَلَىٰ عُرُوشِهَا وَبِئْرٍ مُّعَطَّلَةٍ وَقَصْرٍ مَّشِيدٍ",
+    "arabic2": "فكاين من قرية اهلكناها وهي ظالمة فهي خاوية على عروشها وبئر معطلة وقصر مشيد",
+    "bengali": "অতঃপর কত জনপদ আমি ধ্বংস করেছি যেগুলির বাসিন্দারা ছিল যালিম, তাই এইসব জনপদ তাদের ঘরের ছাদসহ ধ্বংসস্তুপে পরিণত হয়েছিল, কত কূপ পরিত্যক্ত হয়েছে এবং কত সুদৃঢ় প্রাসাদ ধ্বংস হয়েছে!",
+    "urdu": "اور بہت سی بستیاں ہیں کہ ہم نے ان کو تباہ کر ڈالا کہ وہ نافرمان تھیں۔ سو وہ اپنی چھتوں پر گری پڑی ہیں۔ اور (بہت سے) کنوئیں بےکار اور (بہت سے) محل ویران پڑے ہیں"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Fath",
+    "surahNameArabic": "الفتح",
+    "surahNameArabicLong": "سورة الفتح",
+    "surahNameTranslation": "The Victory",
+    "revelationPlace": "Madina",
+    "totalAyah": 29,
+    "surahNo": 48,
+    "ayahNo": 14,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/48_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/048014.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/48_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/048014.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/48_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/048014.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/48_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/048014.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/48_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/048014.mp3"
+        }
+    },
+    "english": "To Allah ˹alone˺ belongs the kingdom of the heavens and the earth. He forgives whoever He wills, and punishes whoever He wills. And Allah is All-Forgiving, Most Merciful.",
+    "arabic1": "وَلِلَّهِ مُلْكُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ يَغْفِرُ لِمَن يَشَآءُ وَيُعَذِّبُ مَن يَشَآءُ ۚ وَكَانَ ٱللَّهُ غَفُورًا رَّحِيمًا",
+    "arabic2": "ولله ملك السماوات والارض يغفر لمن يشاء ويعذب من يشاء وكان الله غفورا رحيما",
+    "bengali": "আসমানসমূহ ও যমীনের সার্বভৌমত্ব আল্লাহর; তিনি যাকে ইচ্ছা ক্ষমা করেন, আর যাকে ইচ্ছা শাস্তি দেন। আর আল্লাহ অতি ক্ষমাশীল, পরম দয়ালু।",
+    "urdu": "اور آسمانوں اور زمین کی بادشاہی خدا ہی کی ہے۔ وہ جسے چاہے بخشے اور جسے چاہے سزا دے۔ اور خدا بخشنے والا مہربان ہے"
+}

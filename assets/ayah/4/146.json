@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 146,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/4_146.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/004146.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/4_146.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/004146.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/4_146.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/004146.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/4_146.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/004146.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/4_146.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/004146.mp3"
+        }
+    },
+    "english": "except those who repent, mend their ways, hold fast to Allah, and are sincere in their devotion to Allah; they will be with the believers. And Allah will grant the believers a great reward.",
+    "arabic1": "إِلَّا ٱلَّذِينَ تَابُوا۟ وَأَصْلَحُوا۟ وَٱعْتَصَمُوا۟ بِٱللَّهِ وَأَخْلَصُوا۟ دِينَهُمْ لِلَّهِ فَأُو۟لَـٰٓئِكَ مَعَ ٱلْمُؤْمِنِينَ ۖ وَسَوْفَ يُؤْتِ ٱللَّهُ ٱلْمُؤْمِنِينَ أَجْرًا عَظِيمًا",
+    "arabic2": "الا الذين تابوا واصلحوا واعتصموا بالله واخلصوا دينهم لله فاولئك مع المؤمنين وسوف يؤت الله المؤمنين اجرا عظيما",
+    "bengali": "তবে যারা তাওবা করে নিজদেরকে শুধরে নেয়, আল্লাহকে দৃঢ়ভাবে আঁকড়ে ধরে এবং আল্লাহর জন্য নিজদের দীনকে খালেস করে, তারা মুমিনদের সাথে থাকবে। আর অচিরেই আল্লাহ মুমিনদেরকে মহাপুরস্কার দান করবেন।",
+    "urdu": "ہاں جنہوں نے توبہ کی اور اپنی حالت کو درست کیا اور خدا (کی رسی) کو مضبوط پکڑا اور خاص خدا کے فرمانبردار ہوگئے تو ایسے لوگ مومنوں کے زمرے میں ہوں گے اور خدا عنقریب مومنوں کو بڑا ثواب دے گا"
+}

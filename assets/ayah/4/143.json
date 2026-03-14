@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 143,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/4_143.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/004143.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/4_143.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/004143.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/4_143.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/004143.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/4_143.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/004143.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/4_143.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/004143.mp3"
+        }
+    },
+    "english": "Torn between belief and disbelief—belonging neither to these ˹believers˺ nor those ˹disbelievers˺. And whoever Allah leaves to stray, you will never find for them a way.",
+    "arabic1": "مُّذَبْذَبِينَ بَيْنَ ذَٰلِكَ لَآ إِلَىٰ هَـٰٓؤُلَآءِ وَلَآ إِلَىٰ هَـٰٓؤُلَآءِ ۚ وَمَن يُضْلِلِ ٱللَّهُ فَلَن تَجِدَ لَهُۥ سَبِيلًا",
+    "arabic2": "مذبذبين بين ذلك لا الى هؤلاء ولا الى هؤلاء ومن يضلل الله فلن تجد له سبيلا",
+    "bengali": "তারা এর মধ্যে দোদুল্যমান, না এদের দিকে আর না ওদের দিকে। আর আল্লাহ যাকে পথভ্রষ্ট করেন তুমি কখনো তার জন্য কোন পথ পাবে না।",
+    "urdu": "بیچ میں پڑے لٹک رہے ہیں نہ ان کی طرف (ہوتے ہیں) نہ ان کی طرف اور جس کو خدا بھٹکائے تو اس کے لئے کبھی بھی رستہ نہ پاؤ گے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 89,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/17_89.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/017089.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/17_89.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/017089.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/17_89.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/017089.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/17_89.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/017089.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/17_89.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/017089.mp3"
+        }
+    },
+    "english": "And We have truly set forth every ˹kind of˺ lesson for humanity in this Quran, yet most people persist in disbelief.",
+    "arabic1": "وَلَقَدْ صَرَّفْنَا لِلنَّاسِ فِى هَـٰذَا ٱلْقُرْءَانِ مِن كُلِّ مَثَلٍ فَأَبَىٰٓ أَكْثَرُ ٱلنَّاسِ إِلَّا كُفُورًا",
+    "arabic2": "ولقد صرفنا للناس في هذا القران من كل مثل فابى اكثر الناس الا كفورا",
+    "bengali": "আর অবশ্যই মানুষের জন্য এ কুরআনে আমি নানাভাবে বিভিন্ন উপমা বর্ণনা করেছি; কিন্তু অধিকাংশ মানুষ কুফরী না করে থাকেনি।",
+    "urdu": "اور ہم نے قرآن میں سب باتیں طرح طرح سے بیان کردی ہیں۔ مگر اکثر لوگوں نے انکار کرنے کے سوا قبول نہ کیا"
+}

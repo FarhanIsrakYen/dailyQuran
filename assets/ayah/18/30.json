@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Kahf",
+    "surahNameArabic": "الكهف",
+    "surahNameArabicLong": "سورة الكهف",
+    "surahNameTranslation": "The Cave",
+    "revelationPlace": "Mecca",
+    "totalAyah": 110,
+    "surahNo": 18,
+    "ayahNo": 30,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/18_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/018030.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/18_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/018030.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/18_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/018030.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/18_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/018030.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/18_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/018030.mp3"
+        }
+    },
+    "english": "As for those who believe and do good, We certainly never deny the reward of those who are best in deeds.",
+    "arabic1": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ إِنَّا لَا نُضِيعُ أَجْرَ مَنْ أَحْسَنَ عَمَلًا",
+    "arabic2": "ان الذين امنوا وعملوا الصالحات انا لا نضيع اجر من احسن عملا",
+    "bengali": "নিশ্চয় যারা ঈমান এনেছে এবং সৎকাজ করেছে, নিশ্চয় আমি এমন কারো প্রতিদান নষ্ট করব না, যে সুকর্ম করেছে।",
+    "urdu": "(اور) جو ایمان لائے اور کام بھی نیک کرتے رہے تو ہم نیک کام کرنے والوں کا اجر ضائع نہیں کرتے"
+}

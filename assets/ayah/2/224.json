@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 224,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_224.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002224.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_224.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002224.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_224.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002224.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_224.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002224.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_224.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002224.mp3"
+        }
+    },
+    "english": "Do not use Allah’s Name in your oaths as an excuse for not doing good, not guarding against evil, or not making peace between people. And Allah is All-Hearing, All-Knowing.",
+    "arabic1": "وَلَا تَجْعَلُوا۟ ٱللَّهَ عُرْضَةً لِّأَيْمَـٰنِكُمْ أَن تَبَرُّوا۟ وَتَتَّقُوا۟ وَتُصْلِحُوا۟ بَيْنَ ٱلنَّاسِ ۗ وَٱللَّهُ سَمِيعٌ عَلِيمٌ",
+    "arabic2": "ولا تجعلوا الله عرضة لايمانكم ان تبروا وتتقوا وتصلحوا بين الناس والله سميع عليم",
+    "bengali": "আর আল্লাহকে তোমরা তোমাদের শপথ পূরণে প্রতিবন্ধক বানিয়ো না যে, তোমরা (আল্লাহর নামে এই বলে শপথ করবে যে) ভালো কাজ করবে না, তাকওয়া অবলম্বন করবে না এবং মানুষের মধ্যে সংশোধন করবে না। আর আল্লাহ সর্বশ্রোতা, সর্বজ্ঞ।",
+    "urdu": "اور خدا (کے نام کو) اس بات کا حیلہ نہ بنانا کہ (اس کی) قسمیں کھا کھا کر سلوک کرنے اورپرہیزگاری کرنے اور لوگوں میں صلح و سازگاری کرانے سے رک جاؤ۔ اور خدا سب کچھ سنتا اور جانتا ہے"
+}

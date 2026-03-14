@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Ahqaf",
+    "surahNameArabic": "الأحقاف",
+    "surahNameArabicLong": "سورة الأحقاف",
+    "surahNameTranslation": "The Dunes",
+    "revelationPlace": "Mecca",
+    "totalAyah": 35,
+    "surahNo": 46,
+    "ayahNo": 4,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/46_4.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/046004.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/46_4.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/046004.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/46_4.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/046004.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/46_4.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/046004.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/46_4.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/046004.mp3"
+        }
+    },
+    "english": "Ask ˹them, O  Prophet˺, “Have you considered whatever ˹idols˺ you invoke besides Allah? Show me what they have created on earth! Or do they have a share in ˹the creation of˺ the heavens? Bring me a scripture ˹revealed˺ before this ˹Quran˺ or a shred of knowledge, if what you say is true.”",
+    "arabic1": "قُلْ أَرَءَيْتُم مَّا تَدْعُونَ مِن دُونِ ٱللَّهِ أَرُونِى مَاذَا خَلَقُوا۟ مِنَ ٱلْأَرْضِ أَمْ لَهُمْ شِرْكٌ فِى ٱلسَّمَـٰوَٰتِ ۖ ٱئْتُونِى بِكِتَـٰبٍ مِّن قَبْلِ هَـٰذَآ أَوْ أَثَـٰرَةٍ مِّنْ عِلْمٍ إِن كُنتُمْ صَـٰدِقِينَ",
+    "arabic2": "قل ارايتم ما تدعون من دون الله اروني ماذا خلقوا من الارض ام لهم شرك في السماوات ائتوني بكتاب من قبل هذا او اثارة من علم ان كنتم صادقين",
+    "bengali": "বল, ‘তোমরা আমাকে সংবাদ দাও তোমরা আল্লাহর পরিবর্তে যাদেরকে ডাক আমাকে দেখাও তো তারা যমীনে কী সৃষ্টি করেছে? অথবা আসমানসমূহে তাদের কোন অংশীদারিত্ব আছে কি? এর পূর্ববর্তী কোন কিতাব অথবা পরম্পরাগত কোন জ্ঞান তোমরা আমার কাছে নিয়ে এসো, যদি তোমরা সত্যবাদী হও’।",
+    "urdu": "کہو کہ بھلا تم نے ان چیزوں کو دیکھا ہے جن کو تم خدا کے سوا پکارتے ہو (ذرا) مجھے بھی تو دکھاؤ کہ انہوں نے زمین میں کون سی چیز پیدا کی ہے۔ یا آسمانوں میں ان کی شرکت ہے۔ اگر سچے ہو تو اس سے پہلے کی کوئی کتاب میرے پاس لاؤ۔ یا علم (انبیاء میں) سے کچھ (منقول) چلا آتا ہو (تو اسے پیش کرو)"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Hajj",
+    "surahNameArabic": "الحج",
+    "surahNameArabicLong": "سورة الحج",
+    "surahNameTranslation": "The Pilgrimage",
+    "revelationPlace": "Madina",
+    "totalAyah": 78,
+    "surahNo": 22,
+    "ayahNo": 26,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/22_26.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/022026.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/22_26.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/022026.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/22_26.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/022026.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/22_26.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/022026.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/22_26.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/022026.mp3"
+        }
+    },
+    "english": "And ˹remember˺ when We assigned to Abraham the site of the House, ˹saying,˺ “Do not associate anything with Me ˹in worship˺ and purify My House for those who circle ˹the Ka’bah˺, stand ˹in prayer˺, and bow and prostrate themselves.",
+    "arabic1": "وَإِذْ بَوَّأْنَا لِإِبْرَٰهِيمَ مَكَانَ ٱلْبَيْتِ أَن لَّا تُشْرِكْ بِى شَيْـًٔا وَطَهِّرْ بَيْتِىَ لِلطَّآئِفِينَ وَٱلْقَآئِمِينَ وَٱلرُّكَّعِ ٱلسُّجُودِ",
+    "arabic2": "واذ بوانا لابراهيم مكان البيت ان لا تشرك بي شيئا وطهر بيتي للطائفين والقائمين والركع السجود",
+    "bengali": "আর স্মরণ কর, যখন আমি ইবরাহীমকে সে ঘরের (বায়তুল্লাহ্র) স্থান নির্ধারণ করে দিয়েছিলাম এবং বলেছিলাম, ‘আমার সাথে কাউকে শরীক করবে না এবং আমার ঘরকে পাক সাফ রাখবে তাওয়াফকারী, রুকূ-সিজদা ও দাঁড়িয়ে সালাত আদায়কারীর জন্য’।",
+    "urdu": "(اور ایک وقت تھا) جب ہم نے ابراہیم کے لئے خانہ کعبہ کو مقرر کیا (اور ارشاد فرمایا) کہ میرے ساتھ کسی چیز کو شریک نہ کیجیو اور طواف کرنے والوں اور قیام کرنے والوں اور رکوع کرنے والوں (اور) سجدہ کرنے والوں کے لئے میرے گھر کو صاف رکھا کرو"
+}

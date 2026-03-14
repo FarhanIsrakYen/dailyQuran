@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Maaida",
+    "surahNameArabic": "المائدة",
+    "surahNameArabicLong": "سورة المائدة",
+    "surahNameTranslation": "The Table",
+    "revelationPlace": "Madina",
+    "totalAyah": 120,
+    "surahNo": 5,
+    "ayahNo": 27,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/5_27.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/005027.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/5_27.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/005027.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/5_27.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/005027.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/5_27.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/005027.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/5_27.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/005027.mp3"
+        }
+    },
+    "english": "Relate to them in truth ˹O Prophet˺ the story of Adam’s two sons—how each offered a sacrifice: Abel’s offering was accepted while Cain’s was not. So Cain threatened, “I will kill you!” His brother replied, “Allah only accepts ˹the offering˺ of the sincerely devout.",
+    "arabic1": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+    "arabic2": "واتل عليهم نبا ابني ادم بالحق اذ قربا قربانا فتقبل من احدهما ولم يتقبل من الاخر قال لاقتلنك قال انما يتقبل الله من المتقين",
+    "bengali": "আর তুমি তাদের নিকট আদমের দুই পুত্রের সংবাদ যথাযথভাবে বর্ণনা কর, যখন তারা উভয়ে কুরবানী পেশ করল। অতঃপর তাদের একজন থেকে গ্রহণ করা হল, আর অপরজন থেকে গ্রহণ করা হল না। সে বলল, ‘অবশ্যই আমি তোমাকে হত্যা করব’। অন্যজন বলল, ‘আল্লাহ কেবল মুত্তাকীদের থেকে গ্রহণ করেন’।",
+    "urdu": "اور (اے محمد) ان کو آدم کے دو بیٹوں (ہابیل اور قابیل) کے حالات (جو بالکل) سچے (ہیں) پڑھ کر سنا دو کہ جب ان دونوں نے خدا (کی جناب میں) کچھ نیازیں چڑھائیں تو ایک کی نیاز تو قبول ہو گئی اور دوسرے کی قبول نہ ہوئی (تب قابیل ہابیل سے) کہنے لگا کہ میں تجھے قتل کروں گا اس نے کہا کہ خدا پرہیزگاروں ہی کی (نیاز) قبول فرمایا کرتا ہے"
+}

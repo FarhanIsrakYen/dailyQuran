@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 28,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/6_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/006028.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/6_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/006028.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/6_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/006028.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/6_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/006028.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/6_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/006028.mp3"
+        }
+    },
+    "english": "But no! ˹They only say this˺ because the truth they used to hide will become all too clear to them. Even if they were to be sent back, they would certainly revert to what they were forbidden. Indeed they are liars!",
+    "arabic1": "بَلْ بَدَا لَهُم مَّا كَانُوا۟ يُخْفُونَ مِن قَبْلُ ۖ وَلَوْ رُدُّوا۟ لَعَادُوا۟ لِمَا نُهُوا۟ عَنْهُ وَإِنَّهُمْ لَكَـٰذِبُونَ",
+    "arabic2": "بل بدا لهم ما كانوا يخفون من قبل ولو ردوا لعادوا لما نهوا عنه وانهم لكاذبون",
+    "bengali": "বরং তাদের কাছে প্রকাশ হয়ে গিয়েছে পূর্বে যা তারা গোপন করত। আর যদি তাদের ফেরত পাঠানো হয় অবশ্যই যা থেকে তাদেরকে নিষেধ করা হয়েছে তারা তাতে ফিরে যেত এবং নিশ্চয়ই তারা মিথ্যাবাদী।",
+    "urdu": "ہاں یہ جو کچھ پہلے چھپایا کرتے تھے (آج) ان پر ظاہر ہوگیا ہے اور اگر یہ (دنیا میں) لوٹائے بھی جائیں تو جن (کاموں) سے ان کو منع کیا گیا تھا وہی پھر کرنے لگیں۔کچھ شک نہیں کہ یہ جھوٹے ہیں"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Ankaboot",
+    "surahNameArabic": "العنكبوت",
+    "surahNameArabicLong": "سورة العنكبوت",
+    "surahNameTranslation": "The Spider",
+    "revelationPlace": "Mecca",
+    "totalAyah": 69,
+    "surahNo": 29,
+    "ayahNo": 67,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/29_67.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/029067.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/29_67.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/029067.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/29_67.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/029067.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/29_67.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/029067.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/29_67.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/029067.mp3"
+        }
+    },
+    "english": "Have they not seen how We have made ˹Mecca˺ a safe haven, whereas people ˹all˺ around them are snatched away? How can they then believe in falsehood and deny Allah’s favours?",
+    "arabic1": "أَوَلَمْ يَرَوْا۟ أَنَّا جَعَلْنَا حَرَمًا ءَامِنًا وَيُتَخَطَّفُ ٱلنَّاسُ مِنْ حَوْلِهِمْ ۚ أَفَبِٱلْبَـٰطِلِ يُؤْمِنُونَ وَبِنِعْمَةِ ٱللَّهِ يَكْفُرُونَ",
+    "arabic2": "اولم يروا انا جعلنا حرما امنا ويتخطف الناس من حولهم افبالباطل يؤمنون وبنعمة الله يكفرون",
+    "bengali": "তারা কি দেখে না যে, আমি ‘হারাম’ কে নিরাপদ বানিয়েছি, অথচ তাদের আশ পাশ থেকে মানুষদেরকে ছিনিয়ে নেয়া হয়? তাহলে কি তারা অসত্যেই বিশ্বাস করবে এবং আল্লাহর নিআমতকে অস্বীকার করবে?",
+    "urdu": "کیا اُنہوں نے نہیں دیکھا کہ ہم نے حرم کو مقام امن بنایا ہے اور لوگ اس کے گرد ونواح سے اُچک لئے جاتے ہیں۔ کیا یہ لوگ باطل پر اعتقاد رکھتے ہیں اور خدا کی نعمتوں کی ناشکری کرتے ہیں"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Az-Zukhruf",
+    "surahNameArabic": "الزخرف",
+    "surahNameArabicLong": "سورة الزخرف",
+    "surahNameTranslation": "Ornaments of gold",
+    "revelationPlace": "Mecca",
+    "totalAyah": 89,
+    "surahNo": 43,
+    "ayahNo": 63,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/43_63.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/043063.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/43_63.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/043063.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/43_63.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/043063.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/43_63.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/043063.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/43_63.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/043063.mp3"
+        }
+    },
+    "english": "When Jesus came with clear proofs, he declared, “I have come to you with wisdom, and to clarify to you some of what you differ about. So fear Allah, and obey me.",
+    "arabic1": "وَلَمَّا جَآءَ عِيسَىٰ بِٱلْبَيِّنَـٰتِ قَالَ قَدْ جِئْتُكُم بِٱلْحِكْمَةِ وَلِأُبَيِّنَ لَكُم بَعْضَ ٱلَّذِى تَخْتَلِفُونَ فِيهِ ۖ فَٱتَّقُوا۟ ٱللَّهَ وَأَطِيعُونِ",
+    "arabic2": "ولما جاء عيسى بالبينات قال قد جئتكم بالحكمة ولابين لكم بعض الذي تختلفون فيه فاتقوا الله واطيعون",
+    "bengali": "আর যখন ঈসা সুস্পষ্ট প্রমাণাদি নিয়ে আসল, তখন সে বলল, ‘আমি অবশ্যই তোমাদের কাছে হিকমত নিয়ে এসেছি এবং এসেছি তোমরা যে কতক বিষয়ে মতবিরোধে লিপ্ত তা স্পষ্ট করে দিতে। অতএব তোমরা আল্লাহকে ভয় কর এবং আমার আনুগত্য কর’।",
+    "urdu": "اور جب عیسیٰ نشانیاں لے کر آئے تو کہنے لگے کہ میں تمہارے پاس دانائی (کی کتاب) لے کر آیا ہوں۔ نیز اس لئے کہ بعض باتیں جن میں تم اختلاف کر رہے ہو تم کو سمجھا دوں۔ تو خدا سے ڈرو اور میرا کہا مانو"
+}

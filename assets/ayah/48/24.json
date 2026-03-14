@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Fath",
+    "surahNameArabic": "الفتح",
+    "surahNameArabicLong": "سورة الفتح",
+    "surahNameTranslation": "The Victory",
+    "revelationPlace": "Madina",
+    "totalAyah": 29,
+    "surahNo": 48,
+    "ayahNo": 24,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/48_24.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/048024.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/48_24.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/048024.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/48_24.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/048024.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/48_24.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/048024.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/48_24.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/048024.mp3"
+        }
+    },
+    "english": "He is the One Who held back their hands from you and your hands from them in the valley of ˹Ḥudaibiyah, near˺ Mecca, after giving you the upper hand over ˹a group of˺ them. And Allah is All-Seeing of what you do.",
+    "arabic1": "وَهُوَ ٱلَّذِى كَفَّ أَيْدِيَهُمْ عَنكُمْ وَأَيْدِيَكُمْ عَنْهُم بِبَطْنِ مَكَّةَ مِنۢ بَعْدِ أَنْ أَظْفَرَكُمْ عَلَيْهِمْ ۚ وَكَانَ ٱللَّهُ بِمَا تَعْمَلُونَ بَصِيرًا",
+    "arabic2": "وهو الذي كف ايديهم عنكم وايديكم عنهم ببطن مكة من بعد ان اظفركم عليهم وكان الله بما تعملون بصيرا",
+    "bengali": "আর তিনিই মক্কা উপত্যকায় তোমাদেরকে তাদের উপর বিজয়ী করার পর তাদের হাত তোমাদের থেকে এবং তোমাদের হাত তাদের থেকে ফিরায়ে রেখেছেন। আর তোমরা যা আমল কর, আল্লাহ হলেন তার সম্যক দ্রষ্টা।",
+    "urdu": "اور وہی تو ہے جس نے تم کو ان (کافروں) پر فتحیاب کرنے کے بعد سرحد مکہ میں ان کے ہاتھ تم سے اور تمہارے ہاتھ ان سے روک دیئے۔ اور جو کچھ تم کرتے ہو خدا اس کو دیکھ رہا ہے"
+}

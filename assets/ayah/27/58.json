@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Naml",
+    "surahNameArabic": "النمل",
+    "surahNameArabicLong": "سورة النمل",
+    "surahNameTranslation": "The Ant",
+    "revelationPlace": "Mecca",
+    "totalAyah": 93,
+    "surahNo": 27,
+    "ayahNo": 58,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/27_58.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/027058.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/27_58.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/027058.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/27_58.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/027058.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/27_58.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/027058.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/27_58.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/027058.mp3"
+        }
+    },
+    "english": "And We poured upon them a rain ˹of brimstone˺. How evil was the rain of those who had been warned!",
+    "arabic1": "وَأَمْطَرْنَا عَلَيْهِم مَّطَرًا ۖ فَسَآءَ مَطَرُ ٱلْمُنذَرِينَ",
+    "arabic2": "وامطرنا عليهم مطرا فساء مطر المنذرين",
+    "bengali": "আমি তাদের উপর মুষলধারে (পাথরের) বৃষ্টি বর্ষণ করেছিলাম। ভীতি প্রদর্শিতদের জন্য কতইনা নিকৃষ্ট ছিল এই বৃষ্টি!",
+    "urdu": "اور ہم نے ان پر مینھہ برسایا سو (جو) مینھہ ان لوگوں پر برسا جن کو متنبہ کردیا گیا تھا، برا تھا"
+}

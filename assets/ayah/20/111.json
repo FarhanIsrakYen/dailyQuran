@@ -1,0 +1,42 @@
+{
+    "surahName": "Taa-Haa",
+    "surahNameArabic": "طه",
+    "surahNameArabicLong": "سورة طه",
+    "surahNameTranslation": "Taa-Haa",
+    "revelationPlace": "Mecca",
+    "totalAyah": 135,
+    "surahNo": 20,
+    "ayahNo": 111,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/20_111.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/020111.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/20_111.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/020111.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/20_111.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/020111.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/20_111.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/020111.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/20_111.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/020111.mp3"
+        }
+    },
+    "english": "And all faces will be humbled before the Ever-Living, All-Sustaining. And those burdened with wrongdoing will be in loss.",
+    "arabic1": "۞ وَعَنَتِ ٱلْوُجُوهُ لِلْحَىِّ ٱلْقَيُّومِ ۖ وَقَدْ خَابَ مَنْ حَمَلَ ظُلْمًا",
+    "arabic2": "وعنت الوجوه للحي القيوم وقد خاب من حمل ظلما",
+    "bengali": "আর চিরঞ্জীব, চিরপ্রতিষ্ঠিত সত্তার সামনে সকলেই অবনত হবে। আর সে অবশ্যই ব্যর্থ হবে যে যুলম বহন করবে।",
+    "urdu": "اور اس زندہ و قائم کے رو برو منہ نیچے ہوجائیں گے۔ اور جس نے ظلم کا بوجھ اٹھایا وہ نامراد رہا"
+}

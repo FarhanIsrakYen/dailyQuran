@@ -1,0 +1,42 @@
+{
+    "surahName": "Yusuf",
+    "surahNameArabic": "يوسف",
+    "surahNameArabicLong": "سورة يوسف",
+    "surahNameTranslation": "Joseph",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 12,
+    "ayahNo": 48,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/12_48.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/012048.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/12_48.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/012048.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/12_48.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/012048.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/12_48.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/012048.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/12_48.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/012048.mp3"
+        }
+    },
+    "english": "Then after that will come seven years of great hardship which will consume whatever you have saved, except the little you will store ˹for seed˺.",
+    "arabic1": "ثُمَّ يَأْتِى مِنۢ بَعْدِ ذَٰلِكَ سَبْعٌ شِدَادٌ يَأْكُلْنَ مَا قَدَّمْتُمْ لَهُنَّ إِلَّا قَلِيلًا مِّمَّا تُحْصِنُونَ",
+    "arabic2": "ثم ياتي من بعد ذلك سبع شداد ياكلن ما قدمتم لهن الا قليلا مما تحصنون",
+    "bengali": "‘তারপর আসবে সাতটি কঠিন বছর। এর জন্য তোমরা পূর্বে যা সঞ্চয় করে রেখে দেবে এরা (ঐ সময়ের লোকেরা) সেগুলো খেয়ে ফেলবে, সামান্য কিছু ছাড়া যা তোমরা সংরক্ষণ করে রাখবে’।",
+    "urdu": "پھر اس کے بعد (خشک سالی کے) سات سخت (سال) آئیں گے کہ جو (غلّہ) تم نے جمع کر رکھا ہوگا وہ اس سب کو کھا جائیں گے۔ صرف وہی تھوڑا سا رہ جائے گا جو تم احتیاط سے رکھ چھوڑو گے"
+}

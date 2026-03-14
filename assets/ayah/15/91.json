@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Hijr",
+    "surahNameArabic": "الحجر",
+    "surahNameArabicLong": "سورة الحجر",
+    "surahNameTranslation": "The Rock",
+    "revelationPlace": "Mecca",
+    "totalAyah": 99,
+    "surahNo": 15,
+    "ayahNo": 91,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/15_91.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/015091.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/15_91.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/015091.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/15_91.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/015091.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/15_91.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/015091.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/15_91.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/015091.mp3"
+        }
+    },
+    "english": "who ˹now˺ accept parts of the Quran, rejecting others.",
+    "arabic1": "ٱلَّذِينَ جَعَلُوا۟ ٱلْقُرْءَانَ عِضِينَ",
+    "arabic2": "الذين جعلوا القران عضين",
+    "bengali": "যারা কুরআনকে বিভিন্ন অংশে ভাগ করেছিল।* \n* ‘বিভিন্ন অংশে ভাগ করেছিল, অর্থাৎ কুরআনকে তারা বিভিন্ন নামে ও বিভিন্ন অভিধায় চি‎‎হ্নত করত, যেমন কেউ বলত, এটি যাদু, কেউ বলত, কবিতা, আবার কেউ বলত, গণকদের গণনা ইত্যাদি।",
+    "urdu": "یعنی قرآن کو (کچھ ماننے اور کچھ نہ ماننے سے) ٹکڑے ٹکڑے کر ڈالا"
+}

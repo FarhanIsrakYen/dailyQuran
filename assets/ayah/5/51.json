@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Maaida",
+    "surahNameArabic": "المائدة",
+    "surahNameArabicLong": "سورة المائدة",
+    "surahNameTranslation": "The Table",
+    "revelationPlace": "Madina",
+    "totalAyah": 120,
+    "surahNo": 5,
+    "ayahNo": 51,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/5_51.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/005051.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/5_51.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/005051.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/5_51.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/005051.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/5_51.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/005051.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/5_51.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/005051.mp3"
+        }
+    },
+    "english": "O believers! Take neither Jews nor Christians as guardians—they are guardians of each other. Whoever does so will be counted as one of them. Surely Allah does not guide the wrongdoing people.",
+    "arabic1": "۞ يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَتَّخِذُوا۟ ٱلْيَهُودَ وَٱلنَّصَـٰرَىٰٓ أَوْلِيَآءَ ۘ بَعْضُهُمْ أَوْلِيَآءُ بَعْضٍ ۚ وَمَن يَتَوَلَّهُم مِّنكُمْ فَإِنَّهُۥ مِنْهُمْ ۗ إِنَّ ٱللَّهَ لَا يَهْدِى ٱلْقَوْمَ ٱلظَّـٰلِمِينَ",
+    "arabic2": "يا ايها الذين امنوا لا تتخذوا اليهود والنصارى اولياء بعضهم اولياء بعض ومن يتولهم منكم فانه منهم ان الله لا يهدي القوم الظالمين",
+    "bengali": "হে মুমিনগণ, ইয়াহূদী ও নাসারাদেরকে তোমরা বন্ধুরূপে গ্রহণ করো না। তারা একে অপরের বন্ধু। আর তোমাদের মধ্যে যে তাদের সাথে বন্ধুত্ব করবে, সে নিশ্চয় তাদেরই একজন। নিশ্চয় আল্লাহ যালিম কওমকে হিদায়াত দেন না।",
+    "urdu": "اے ایمان والو! یہود اور نصاریٰ کو دوست نہ بناؤ یہ ایک دوسرے کے دوست ہیں اور جو شخص تم میں سے ان کو دوست بنائے گا وہ بھی انہیں میں سے ہوگا بیشک خدا ظالم لوگوں کو ہدایت نہیں دیتا"
+}

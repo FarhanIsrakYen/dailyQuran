@@ -1,0 +1,42 @@
+{
+    "surahName": "Yunus",
+    "surahNameArabic": "يونس",
+    "surahNameArabicLong": "سورة يونس",
+    "surahNameTranslation": "Jonas",
+    "revelationPlace": "Mecca",
+    "totalAyah": 109,
+    "surahNo": 10,
+    "ayahNo": 21,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/10_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/010021.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/10_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/010021.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/10_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/010021.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/10_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/010021.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/10_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/010021.mp3"
+        }
+    },
+    "english": "When We give people a taste of mercy after being afflicted with a hardship, they swiftly devise plots against Our revelations! Say, ˹O Prophet,˺ “Allah is swifter in devising ˹punishment˺. Surely Our messenger-angels record whatever you devise.”",
+    "arabic1": "وَإِذَآ أَذَقْنَا ٱلنَّاسَ رَحْمَةً مِّنۢ بَعْدِ ضَرَّآءَ مَسَّتْهُمْ إِذَا لَهُم مَّكْرٌ فِىٓ ءَايَاتِنَا ۚ قُلِ ٱللَّهُ أَسْرَعُ مَكْرًا ۚ إِنَّ رُسُلَنَا يَكْتُبُونَ مَا تَمْكُرُونَ",
+    "arabic2": "واذا اذقنا الناس رحمة من بعد ضراء مستهم اذا لهم مكر في اياتنا قل الله اسرع مكرا ان رسلنا يكتبون ما تمكرون",
+    "bengali": "আর যখন আমি মানুষকে দুঃখ-দুর্দশা স্পর্শ করার পর রহমতের স্বাদ আস্বাদন করাই, তখন তারা আমার আয়াতসমূহের ব্যাপারে কূট-কৌশলের আশ্রয় নেয়। বল, ‘আল্লাহ কৌশলকারী হিসেবে অধিক দ্রুত’। নিশ্চয় আমার ফেরেশতারা তোমাদের কুট-কৌশল লিখে রাখে।",
+    "urdu": "اور جب ہم لوگوں کو تکلیف پہنچنے کے بعد (اپنی) رحمت (سے آسائش) کا مزہ چکھاتے ہیں تو وہ ہماری آیتوں میں حیلے کرنے لگتے ہیں۔ کہہ دو کہ خدا بہت جلد حیلہ کرنے والا ہے۔ اور جو حیلے تم کرتے ہو ہمارے فرشتے ان کو لکھتے جاتے ہیں"
+}

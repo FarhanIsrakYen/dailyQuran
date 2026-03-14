@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Naml",
+    "surahNameArabic": "النمل",
+    "surahNameArabicLong": "سورة النمل",
+    "surahNameTranslation": "The Ant",
+    "revelationPlace": "Mecca",
+    "totalAyah": 93,
+    "surahNo": 27,
+    "ayahNo": 50,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/27_50.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/027050.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/27_50.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/027050.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/27_50.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/027050.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/27_50.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/027050.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/27_50.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/027050.mp3"
+        }
+    },
+    "english": "And ˹so˺ they made a plan, but We too made a plan, while they were unaware.",
+    "arabic1": "وَمَكَرُوا۟ مَكْرًا وَمَكَرْنَا مَكْرًا وَهُمْ لَا يَشْعُرُونَ",
+    "arabic2": "ومكروا مكرا ومكرنا مكرا وهم لا يشعرون",
+    "bengali": "আর তারা এক চক্রান্ত করল এবং আমিও কৌশল অবলম্বন করলাম। অথচ তারা উপলদ্ধিও করতে পারল না।",
+    "urdu": "اور وہ ایک چال چلے اور ان کو کچھ خبر نہ ہوئی"
+}

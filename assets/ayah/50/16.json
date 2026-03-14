@@ -1,0 +1,42 @@
+{
+    "surahName": "Qaaf",
+    "surahNameArabic": "ق",
+    "surahNameArabicLong": "سورة ق",
+    "surahNameTranslation": "The letter Qaaf",
+    "revelationPlace": "Mecca",
+    "totalAyah": 45,
+    "surahNo": 50,
+    "ayahNo": 16,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/50_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/050016.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/50_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/050016.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/50_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/050016.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/50_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/050016.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/50_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/050016.mp3"
+        }
+    },
+    "english": "Indeed, ˹it is˺ We ˹Who˺ created humankind and ˹fully˺ know what their souls whisper to them, and We are closer to them than ˹their˺ jugular vein.",
+    "arabic1": "وَلَقَدْ خَلَقْنَا ٱلْإِنسَـٰنَ وَنَعْلَمُ مَا تُوَسْوِسُ بِهِۦ نَفْسُهُۥ ۖ وَنَحْنُ أَقْرَبُ إِلَيْهِ مِنْ حَبْلِ ٱلْوَرِيدِ",
+    "arabic2": "ولقد خلقنا الانسان ونعلم ما توسوس به نفسه ونحن اقرب اليه من حبل الوريد",
+    "bengali": "আর অবশ্যই আমি মানুষকে সৃষ্টি করেছি এবং তার প্রবৃত্তি তাকে যে কুমন্ত্রণা দেয় তাও আমি জানি। আর আমি* তার গলার ধমনী হতেও অধিক কাছে। \n* ইবনে কাসীর বলেন, এখানে نحن বলে আল্লাহর ফেরেশতাদেরকে বুঝানো হয়েছে।",
+    "urdu": "اور ہم ہی نے انسان کو پیدا کیا ہے اور جو خیالات اس کے دل میں گزرتے ہیں ہم ان کو جانتے ہیں۔ اور ہم اس کی رگ جان سے بھی اس سے زیادہ قریب ہیں"
+}

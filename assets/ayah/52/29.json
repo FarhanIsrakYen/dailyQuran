@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Tur",
+    "surahNameArabic": "الطور",
+    "surahNameArabicLong": "سورة الطور",
+    "surahNameTranslation": "The Mount",
+    "revelationPlace": "Mecca",
+    "totalAyah": 49,
+    "surahNo": 52,
+    "ayahNo": 29,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/52_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/052029.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/52_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/052029.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/52_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/052029.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/52_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/052029.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/52_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/052029.mp3"
+        }
+    },
+    "english": "So ˹continue to˺ remind ˹all, O  Prophet˺. For you, by the grace of your Lord, are not a fortune-teller or a madman.",
+    "arabic1": "فَذَكِّرْ فَمَآ أَنتَ بِنِعْمَتِ رَبِّكَ بِكَاهِنٍ وَلَا مَجْنُونٍ",
+    "arabic2": "فذكر فما انت بنعمت ربك بكاهن ولا مجنون",
+    "bengali": "অতএব, তুমি উপদেশ দিতে থাক; কারণ তোমার রবের অনুগ্রহে তুমি গণক নও এবং উন্মাদও নও।",
+    "urdu": "تو (اے پیغمبر) تم نصیحت کرتے رہو تم اپنے پروردگار کے فضل سے نہ تو کاہن ہو اور نہ دیوانے"
+}

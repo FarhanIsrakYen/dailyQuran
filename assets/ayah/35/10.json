@@ -1,0 +1,42 @@
+{
+    "surahName": "Faatir",
+    "surahNameArabic": "فاطر",
+    "surahNameArabicLong": "سورة فاطر",
+    "surahNameTranslation": "The Originator",
+    "revelationPlace": "Mecca",
+    "totalAyah": 45,
+    "surahNo": 35,
+    "ayahNo": 10,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/35_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/035010.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/35_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/035010.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/35_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/035010.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/35_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/035010.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/35_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/035010.mp3"
+        }
+    },
+    "english": "Whoever seeks honour and power, then ˹let them know that˺ all honour and power belongs to Allah. To Him ˹alone˺ good words ascend, and righteous deeds are raised up by Him. As for those who plot evil, they will suffer a severe punishment. And the plotting of such ˹people˺ is doomed ˹to fail˺.",
+    "arabic1": "مَن كَانَ يُرِيدُ ٱلْعِزَّةَ فَلِلَّهِ ٱلْعِزَّةُ جَمِيعًا ۚ إِلَيْهِ يَصْعَدُ ٱلْكَلِمُ ٱلطَّيِّبُ وَٱلْعَمَلُ ٱلصَّـٰلِحُ يَرْفَعُهُۥ ۚ وَٱلَّذِينَ يَمْكُرُونَ ٱلسَّيِّـَٔاتِ لَهُمْ عَذَابٌ شَدِيدٌ ۖ وَمَكْرُ أُو۟لَـٰٓئِكَ هُوَ يَبُورُ",
+    "arabic2": "من كان يريد العزة فلله العزة جميعا اليه يصعد الكلم الطيب والعمل الصالح يرفعه والذين يمكرون السيئات لهم عذاب شديد ومكر اولئك هو يبور",
+    "bengali": "কেউ যদি সম্মান চায় (তবে তা যেন আল্লাহর কাছেই চায়) কেননা সকল সম্মান আল্লাহরই। তাঁরই পানে উত্থিত হয় ভাল কথা* আর নেক আমল তা উন্নীত করে। আর যারা মন্দকাজের চক্রান্ত করে তাদের জন্য রয়েছে কঠিন আযাব আর ওদের ষড়যন্ত্র তো নস্যাৎ হবে। \n* ভাল কথা বলতে বুঝানো হয়েছে ‘লা-ইলাহা ইল্লাল্লাহ’। কারো মতে তা হল ‘সুবহানাল্লাহ ওয়াল হামদুলিল্লাহ ওয়ালা ইলাহা ইল্লাল্লাহু ওয়াল্লাহু আকবার’। কেউ বলেন, তা হল আল্লাহর যিকির ও স্মরণ। ইমাম শাওকানী বলেন, যে কোন উত্তম ও ভাল কথা এখানে বুঝানো হয়েছে।",
+    "urdu": "جو شخص عزت کا طلب گار ہے تو عزت تو سب خدا ہی کی ہے۔ اسی کی طرف پاکیزہ کلمات چڑھتے ہیں اور نیک عمل اس کو بلند کرتے ہیں۔ اور جو لوگ برے برے مکر کرتے ہیں ان کے لئے سخت عذاب ہے۔ اور ان کا مکر نابود ہوجائے گا"
+}

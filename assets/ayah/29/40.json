@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Ankaboot",
+    "surahNameArabic": "العنكبوت",
+    "surahNameArabicLong": "سورة العنكبوت",
+    "surahNameTranslation": "The Spider",
+    "revelationPlace": "Mecca",
+    "totalAyah": 69,
+    "surahNo": 29,
+    "ayahNo": 40,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/29_40.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/029040.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/29_40.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/029040.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/29_40.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/029040.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/29_40.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/029040.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/29_40.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/029040.mp3"
+        }
+    },
+    "english": "So We seized each ˹people˺ for their sin: against some of them We sent a storm of stones, some were overtaken by a ˹mighty˺ blast, some We caused the earth to swallow, and some We drowned. Allah would not have wronged them, but it was they who wronged themselves.",
+    "arabic1": "فَكُلًّا أَخَذْنَا بِذَنۢبِهِۦ ۖ فَمِنْهُم مَّنْ أَرْسَلْنَا عَلَيْهِ حَاصِبًا وَمِنْهُم مَّنْ أَخَذَتْهُ ٱلصَّيْحَةُ وَمِنْهُم مَّنْ خَسَفْنَا بِهِ ٱلْأَرْضَ وَمِنْهُم مَّنْ أَغْرَقْنَا ۚ وَمَا كَانَ ٱللَّهُ لِيَظْلِمَهُمْ وَلَـٰكِن كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ",
+    "arabic2": "فكلا اخذنا بذنبه فمنهم من ارسلنا عليه حاصبا ومنهم من اخذته الصيحة ومنهم من خسفنا به الارض ومنهم من اغرقنا وما كان الله ليظلمهم ولكن كانوا انفسهم يظلمون",
+    "bengali": "অতঃপর এদের প্রত্যেককে নিজ নিজ পাপের কারণে আমি পাকড়াও করেছিলাম; তাদের কারো উপর আমি পাথরকুচির ঝড় পাঠিয়েছি, কাউকে পাকড়াও করেছে বিকট আওয়াজ, কাউকে আবার মাটিতে দাবিয়ে দিয়েছি আর কাউকে পানিতে ডুবিয়ে দিয়েছি। আল্লাহ এমন নন যে, তাদের উপর যুলম করবেন বরং তারা নিজেরা নিজদের ওপর যুল্‌ম করত।",
+    "urdu": "تو ہم نے سب کو اُن کے گناہوں کے سبب پکڑ لیا۔ سو ان میں کچھ تو ایسے تھے جن پر ہم نے پتھروں کا مینھہ برسایا۔ اور کچھ ایسے تھے جن کو چنگھاڑ نے آپکڑا اور کچھ ایسے تھے جن کو ہم نے زمین میں دھنسا دیا۔ اور کچھ ایسے تھے جن کو غرق کر دیا اور خدا ایسا نہ تھا کہ اُن پر ظلم کرتا لیکن وہی اپنے آپ پر ظلم کرتے تھے"
+}

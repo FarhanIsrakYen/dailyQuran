@@ -1,0 +1,42 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 119,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/3_119.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/003119.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/3_119.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/003119.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/3_119.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/003119.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/3_119.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/003119.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/3_119.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/003119.mp3"
+        }
+    },
+    "english": "Here you are! You love them but they do not love you, and you believe in all Scriptures. When they meet you they say, “We believe.” But when alone, they bite their fingertips in rage. Say, ˹O Prophet,˺ “˹May you˺ die of your rage!” Surely Allah knows best what is ˹hidden˺ in the heart.",
+    "arabic1": "هَـٰٓأَنتُمْ أُو۟لَآءِ تُحِبُّونَهُمْ وَلَا يُحِبُّونَكُمْ وَتُؤْمِنُونَ بِٱلْكِتَـٰبِ كُلِّهِۦ وَإِذَا لَقُوكُمْ قَالُوٓا۟ ءَامَنَّا وَإِذَا خَلَوْا۟ عَضُّوا۟ عَلَيْكُمُ ٱلْأَنَامِلَ مِنَ ٱلْغَيْظِ ۚ قُلْ مُوتُوا۟ بِغَيْظِكُمْ ۗ إِنَّ ٱللَّهَ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ",
+    "arabic2": "ها انتم اولاء تحبونهم ولا يحبونكم وتؤمنون بالكتاب كله واذا لقوكم قالوا امنا واذا خلوا عضوا عليكم الانامل من الغيظ قل موتوا بغيظكم ان الله عليم بذات الصدور",
+    "bengali": "শোন, তোমরাই তো তাদেরকে ভালবাস এবং তারা তোমাদেরকে ভালবাসে না। অথচ তোমরা সব কিতাবের প্রতি ঈমান রাখ। আর যখন তারা তোমাদের সাথে সাক্ষাৎ করে, তখন বলে, ‘আমরা ঈমান এনেছি’। আর যখন তারা একান্তে মিলিত হয়, তোমাদের উপর রাগে আঙ্গুল কামড়ায়। বল, ‘তোমরা তোমাদের রাগ নিয়ে মর’! নিশ্চয় আল্লাহ অন্তরের গোপন বিষয় সম্পর্কে পূর্ণ জ্ঞাত।",
+    "urdu": "دیکھو تم ایسے (صاف دل) لوگ ہو کہ ان لوگوں سے دوستی رکھتے ہو حالانکہ وہ تم سے دوستی نہیں رکھتے اور تم سب کتابوں پر ایمان رکھتے ہو (اور وہ تمہاری کتاب کو نہیں مانتے) اور جب تم سے ملتے ہیں تو کہتے ہیں ہم ایمان لے آئے اور جب الگ ہوتے ہیں تو تم پر غصے کے سبب انگلیاں کاٹ کاٹ کھاتے ہیں (ان سے) کہہ دو کہ (بدبختو) غصے میں مر جاؤ خدا تمہارے دلوں کی باتوں سے خوب واقف ہے"
+}

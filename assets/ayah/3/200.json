@@ -1,0 +1,42 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 200,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/3_200.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/003200.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/3_200.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/003200.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/3_200.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/003200.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/3_200.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/003200.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/3_200.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/003200.mp3"
+        }
+    },
+    "english": "O believers! Patiently endure, persevere, stand on guard, and be mindful of Allah, so you may be successful.",
+    "arabic1": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱصْبِرُوا۟ وَصَابِرُوا۟ وَرَابِطُوا۟ وَٱتَّقُوا۟ ٱللَّهَ لَعَلَّكُمْ تُفْلِحُونَ",
+    "arabic2": "يا ايها الذين امنوا اصبروا وصابروا ورابطوا واتقوا الله لعلكم تفلحون",
+    "bengali": "হে মুমিনগণ, তোমরা ধৈর্য ধর ও ধৈর্যে অটল থাক এবং পাহারায় নিয়োজিত থাক। আর আল্লাহকে ভয় কর, যাতে তোমরা সফল হও।",
+    "urdu": "اے اہل ایمان (کفار کے مقابلے میں) ثابت قدم رہو اور استقامت رکھو اور مورچوں پر جمے رہو اور خدا سے ڈرو تاکہ مراد حاصل کرو"
+}

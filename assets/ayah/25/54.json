@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Furqaan",
+    "surahNameArabic": "الفرقان",
+    "surahNameArabicLong": "سورة الفرقان",
+    "surahNameTranslation": "The Criterion",
+    "revelationPlace": "Mecca",
+    "totalAyah": 77,
+    "surahNo": 25,
+    "ayahNo": 54,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/25_54.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/025054.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/25_54.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/025054.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/25_54.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/025054.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/25_54.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/025054.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/25_54.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/025054.mp3"
+        }
+    },
+    "english": "And He is the One Who creates human beings from a ˹humble˺ liquid, then establishes for them bonds of kinship and marriage. For your Lord is Most Capable.",
+    "arabic1": "وَهُوَ ٱلَّذِى خَلَقَ مِنَ ٱلْمَآءِ بَشَرًا فَجَعَلَهُۥ نَسَبًا وَصِهْرًا ۗ وَكَانَ رَبُّكَ قَدِيرًا",
+    "arabic2": "وهو الذي خلق من الماء بشرا فجعله نسبا وصهرا وكان ربك قديرا",
+    "bengali": "আর তিনিই পানি থেকে মানুষ সৃষ্টি করেছেন, অতঃপর তিনি তাকে বংশগত ও বৈবাহিক সম্পর্কযুক্ত করেছেন। আর তোমার রব হল প্রভূত ক্ষমতাবান।",
+    "urdu": "اور وہی تو ہے جس نے پانی سے آدمی پیدا کیا۔ پھر اس کو صاحب نسب اور صاحب قرابت دامادی بنایا۔ اور تمہارا پروردگار (ہر طرح کی) قدرت رکھتا ہے"
+}

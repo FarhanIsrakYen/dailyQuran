@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 73,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/17_73.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/017073.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/17_73.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/017073.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/17_73.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/017073.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/17_73.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/017073.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/17_73.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/017073.mp3"
+        }
+    },
+    "english": "They definitely ˹thought they˺ were about to lure you away from what We have revealed to you ˹O Prophet˺, hoping that you would attribute something else to Us falsely—and then they would have certainly taken you as a close friend.",
+    "arabic1": "وَإِن كَادُوا۟ لَيَفْتِنُونَكَ عَنِ ٱلَّذِىٓ أَوْحَيْنَآ إِلَيْكَ لِتَفْتَرِىَ عَلَيْنَا غَيْرَهُۥ ۖ وَإِذًا لَّٱتَّخَذُوكَ خَلِيلًا",
+    "arabic2": "وان كادوا ليفتنونك عن الذي اوحينا اليك لتفتري علينا غيره واذا لاتخذوك خليلا",
+    "bengali": "আর তাদের অবস্থা এমন ছিল যে, আমি তোমাকে যে ওহী দিয়েছি, তা থেকে তারা তোমাকে প্রায় ফিতনায় ফেলে দিয়েছিল, যাতে তুমি আমার নামে এর বিপরীত মিথ্যা রটাতে পার এবং তখন তারা অবশ্যই তোমাকে বন্ধুরূপে গ্রহণ করত।",
+    "urdu": "اور اے پیغمبر جو وحی ہم نے تمہاری طرف بھیجی ہے قریب تھا کہ یہ (کافر) لوگ تم کو اس سے بچلا دیں تاکہ تم اس کے سوا اور باتیں ہماری نسبت بنالو۔ اور اس وقت وہ تم کو دوست بنا لیتے"
+}

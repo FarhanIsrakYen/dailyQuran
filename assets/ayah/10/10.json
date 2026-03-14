@@ -1,0 +1,42 @@
+{
+    "surahName": "Yunus",
+    "surahNameArabic": "يونس",
+    "surahNameArabicLong": "سورة يونس",
+    "surahNameTranslation": "Jonas",
+    "revelationPlace": "Mecca",
+    "totalAyah": 109,
+    "surahNo": 10,
+    "ayahNo": 10,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/10_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/010010.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/10_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/010010.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/10_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/010010.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/10_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/010010.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/10_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/010010.mp3"
+        }
+    },
+    "english": "in which their prayer will be, “Glory be to You, O  Allah!” and their greeting will be, “Peace!” and their closing prayer will be, “All praise is for Allah—Lord of all worlds!”",
+    "arabic1": "دَعْوَىٰهُمْ فِيهَا سُبْحَـٰنَكَ ٱللَّهُمَّ وَتَحِيَّتُهُمْ فِيهَا سَلَـٰمٌ ۚ وَءَاخِرُ دَعْوَىٰهُمْ أَنِ ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ",
+    "arabic2": "دعواهم فيها سبحانك اللهم وتحيتهم فيها سلام واخر دعواهم ان الحمد لله رب العالمين",
+    "bengali": "সেখানে তাদের কথা হবে, ‘হে আল্লাহ, তুমি পবিত্র মহান’ এবং তাদের অভিবাদন হবে, ‘সালাম’। আর তাদের শেষ কথা হবে যে, ‘সকল প্রশংসা আল্লাহর, যিনি সকল সৃষ্টির রব’।",
+    "urdu": "(جب وہ) ان میں (ان نعمتوں کو دیکھوں گے تو بےساختہ) کہیں گے سبحان الله۔ اور آپس میں ان کی دعا سلامٌ علیکم ہوگی اور ان کا آخری قول یہ (ہوگا) کہ خدائے رب العالمین کی حمد (اور اس کا شکر) ہے"
+}

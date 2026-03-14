@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 187,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/7_187.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/007187.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/7_187.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/007187.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/7_187.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/007187.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/7_187.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/007187.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/7_187.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/007187.mp3"
+        }
+    },
+    "english": "They ask you ˹O Prophet˺ regarding the Hour, “When will it be?” Say, “That knowledge is only with my Lord. He alone will reveal it when the time comes. It is too tremendous for the heavens and the earth and will only take you by surprise.” They ask you as if you had full knowledge of it. Say, “That knowledge is only with Allah, but most people do not know.”",
+    "arabic1": "يَسْـَٔلُونَكَ عَنِ ٱلسَّاعَةِ أَيَّانَ مُرْسَىٰهَا ۖ قُلْ إِنَّمَا عِلْمُهَا عِندَ رَبِّى ۖ لَا يُجَلِّيهَا لِوَقْتِهَآ إِلَّا هُوَ ۚ ثَقُلَتْ فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ لَا تَأْتِيكُمْ إِلَّا بَغْتَةً ۗ يَسْـَٔلُونَكَ كَأَنَّكَ حَفِىٌّ عَنْهَا ۖ قُلْ إِنَّمَا عِلْمُهَا عِندَ ٱللَّهِ وَلَـٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ",
+    "arabic2": "يسالونك عن الساعة ايان مرساها قل انما علمها عند ربي لا يجليها لوقتها الا هو ثقلت في السماوات والارض لا تاتيكم الا بغتة يسالونك كانك حفي عنها قل انما علمها عند الله ولكن اكثر الناس لا يعلمون",
+    "bengali": "তারা তোমাকে কিয়ামত সম্পর্কে প্রশ্ন করে, ‘তা কখন ঘটবে’? তুমি বল, ‘এর জ্ঞান তো রয়েছে আমার রবের নিকট। তিনিই এর নির্ধারিত সময়ে তা প্রকাশ করবেন। আসমানসমূহ ও যমীনের উপর তা (কিয়ামত) কঠিন হবে। তা তোমাদের নিকট হঠাৎ এসে পড়বে। তারা তোমাকে প্রশ্ন করছে যেন তুমি এ সম্পর্কে বিশেষভাবে অবহিত। বল, ‘এ বিষয়ের জ্ঞান কেবল আল্লাহর নিকট আছে। কিন্তু অধিকাংশ মানুষ জানে না’।",
+    "urdu": "(یہ لوگ) تم سے قیامت کے بارے میں پوچھتے ہیں کہ اس کے واقع ہونے کا وقت کب ہے۔ کہہ دو کہ اس کا علم تو میرے پروردگار ہی کو ہے۔ وہی اسے اس کے وقت پر ظاہر کردےگا۔ وہ آسمان وزمین میں ایک بھاری بات ہوگی اور ناگہاں تم پر آجائے گی۔ یہ تم سے اس طرح دریافت کرتے ہیں کہ گویا تم اس سے بخوبی واقف ہو۔ کہو کہ اس کا علم تو خدا ہی کو ہے لیکن اکثر لوگ یہ نہیں جانتے"
+}

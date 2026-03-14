@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Muminoon",
+    "surahNameArabic": "المؤمنون",
+    "surahNameArabicLong": "سورة المؤمنون",
+    "surahNameTranslation": "The Believers",
+    "revelationPlace": "Mecca",
+    "totalAyah": 118,
+    "surahNo": 23,
+    "ayahNo": 67,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/23_67.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/023067.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/23_67.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/023067.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/23_67.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/023067.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/23_67.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/023067.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/23_67.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/023067.mp3"
+        }
+    },
+    "english": "boasting of the Sacred House, and babbling ˹nonsense about the Quran˺ by night.”",
+    "arabic1": "مُسْتَكْبِرِينَ بِهِۦ سَـٰمِرًا تَهْجُرُونَ",
+    "arabic2": "مستكبرين به سامرا تهجرون",
+    "bengali": "এর উপর অহঙ্কারবশে, রাত জেগে অর্থহীন গল্প-গুজব করতে।",
+    "urdu": "ان سے سرکشی کرتے، کہانیوں میں مشغول ہوتے اور بیہودہ بکواس کرتے تھے"
+}

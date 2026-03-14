@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Naml",
+    "surahNameArabic": "النمل",
+    "surahNameArabicLong": "سورة النمل",
+    "surahNameTranslation": "The Ant",
+    "revelationPlace": "Mecca",
+    "totalAyah": 93,
+    "surahNo": 27,
+    "ayahNo": 56,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/27_56.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/027056.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/27_56.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/027056.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/27_56.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/027056.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/27_56.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/027056.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/27_56.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/027056.mp3"
+        }
+    },
+    "english": "But his people’s only response was to say, “Expel Lot’s followers from your land! They are a people who wish to remain chaste!”",
+    "arabic1": "۞ فَمَا كَانَ جَوَابَ قَوْمِهِۦٓ إِلَّآ أَن قَالُوٓا۟ أَخْرِجُوٓا۟ ءَالَ لُوطٍ مِّن قَرْيَتِكُمْ ۖ إِنَّهُمْ أُنَاسٌ يَتَطَهَّرُونَ",
+    "arabic2": "فما كان جواب قومه الا ان قالوا اخرجوا ال لوط من قريتكم انهم اناس يتطهرون",
+    "bengali": "ফলে তার কওমের জবাব একমাত্র এই ছিল যে, ‘লূতের পরিবারকে তোমাদের জনপদ থেকে বের করে দাও। নিশ্চয় এরা এমন লোক যারা পবিত্র থাকতে চায়’।",
+    "urdu": "تو ان کی قوم کے لوگ (بولے تو) یہ بولے اور اس کے سوا ان کا کچھ جواب نہ تھا کہ لوط کے گھر والوں کو اپنے شہر سے نکال دو۔ یہ لوگ پاک رہنا چاہتے ہیں"
+}

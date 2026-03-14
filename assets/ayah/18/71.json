@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Kahf",
+    "surahNameArabic": "الكهف",
+    "surahNameArabicLong": "سورة الكهف",
+    "surahNameTranslation": "The Cave",
+    "revelationPlace": "Mecca",
+    "totalAyah": 110,
+    "surahNo": 18,
+    "ayahNo": 71,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/18_71.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/018071.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/18_71.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/018071.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/18_71.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/018071.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/18_71.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/018071.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/18_71.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/018071.mp3"
+        }
+    },
+    "english": "So they set out, but after they had boarded a ship, the man made a hole in it. Moses protested, “Have you done this to drown its people? You have certainly done a terrible thing!”",
+    "arabic1": "فَٱنطَلَقَا حَتَّىٰٓ إِذَا رَكِبَا فِى ٱلسَّفِينَةِ خَرَقَهَا ۖ قَالَ أَخَرَقْتَهَا لِتُغْرِقَ أَهْلَهَا لَقَدْ جِئْتَ شَيْـًٔا إِمْرًا",
+    "arabic2": "فانطلقا حتى اذا ركبا في السفينة خرقها قال اخرقتها لتغرق اهلها لقد جئت شيئا امرا",
+    "bengali": "অতঃপর তারা চলতে থাক। অবশেষে যখন তারা জাহাজে চড়ল, সে তা ফুটো করে দিল। সে বলল, ‘আপনি কি তার আরোহীদের ডুবানোর জন্য তা ফুটো করে দিলেন? আপনি অবশ্যই মন্দ কাজ করলেন’।",
+    "urdu": "تو دونوں چل پڑے۔ یہاں تک کہ جب کشتی میں سوار ہوئے تو (خضر نے) کشتی کو پھاڑ ڈالا۔ (موسیٰ نے) کہا کیا آپ نے اس لئے پھاڑا ہے کہ سواروں کو غرق کردیں یہ تو آپ نے بڑی (عجیب) بات کی"
+}

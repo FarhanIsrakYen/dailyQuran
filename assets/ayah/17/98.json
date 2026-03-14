@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 98,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/17_98.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/017098.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/17_98.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/017098.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/17_98.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/017098.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/17_98.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/017098.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/17_98.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/017098.mp3"
+        }
+    },
+    "english": "That is their reward for rejecting Our signs and asking ˹mockingly˺, “When we are reduced to bones and ashes, will we really be raised as a new creation?”",
+    "arabic1": "ذَٰلِكَ جَزَآؤُهُم بِأَنَّهُمْ كَفَرُوا۟ بِـَٔايَـٰتِنَا وَقَالُوٓا۟ أَءِذَا كُنَّا عِظَـٰمًا وَرُفَـٰتًا أَءِنَّا لَمَبْعُوثُونَ خَلْقًا جَدِيدًا",
+    "arabic2": "ذلك جزاؤهم بانهم كفروا باياتنا وقالوا ااذا كنا عظاما ورفاتا اانا لمبعوثون خلقا جديدا",
+    "bengali": "এটাই তাদের প্রতিদান, কারণ তারা আমার আয়াতসমূহ অস্বীকার করেছে এবং বলেছে, ‘আমরা যখন হাড্ডি ও ছিন্ন-ভিন্ন হয়ে যাব, তখন আমরা কি নতুন সৃষ্টিরূপে পুনরুজ্জীবিত হব’?",
+    "urdu": "یہ ان کی سزا ہے اس لئے کہ وہ ہماری آیتوں سے کفر کرتے تھے اور کہتے تھے کہ جب ہم (مر کر بوسیدہ) ہڈیاں اور ریزہ ریزہ ہوجائیں گے تو کیا ازسرنو پیدا کئے جائیں گے"
+}

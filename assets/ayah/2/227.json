@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 227,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_227.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002227.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_227.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002227.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_227.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002227.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_227.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002227.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_227.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002227.mp3"
+        }
+    },
+    "english": "But if they settle on divorce, then Allah is indeed All-Hearing, All-Knowing.",
+    "arabic1": "وَإِنْ عَزَمُوا۟ ٱلطَّلَـٰقَ فَإِنَّ ٱللَّهَ سَمِيعٌ عَلِيمٌ",
+    "arabic2": "وان عزموا الطلاق فان الله سميع عليم",
+    "bengali": "আর যদি তারা তালাকের দৃঢ় ইচ্ছা করে নেয় তবে নিশ্চয় আল্লাহ সর্বশ্রোতা, সর্বজ্ঞ।",
+    "urdu": "اور اگر طلاق کا ارادہ کرلیں تو بھی خدا سنتا (اور) جانتا ہے"
+}

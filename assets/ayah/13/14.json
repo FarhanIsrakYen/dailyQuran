@@ -1,0 +1,42 @@
+{
+    "surahName": "Ar-Ra'd",
+    "surahNameArabic": "الرعد",
+    "surahNameArabicLong": "سورة الرعد",
+    "surahNameTranslation": "The Thunder",
+    "revelationPlace": "Madina",
+    "totalAyah": 43,
+    "surahNo": 13,
+    "ayahNo": 14,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/13_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/013014.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/13_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/013014.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/13_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/013014.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/13_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/013014.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/13_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/013014.mp3"
+        }
+    },
+    "english": "Calling upon Him ˹alone˺ is the truth. But those ˹idols˺ the pagans invoke besides Him ˹can˺ never respond to them in any way. ˹It is˺ just like someone who stretches out their hands to water, ˹asking it˺ to reach their mouths, but it can never do so. The calls of the disbelievers are only in vain.",
+    "arabic1": "لَهُۥ دَعْوَةُ ٱلْحَقِّ ۖ وَٱلَّذِينَ يَدْعُونَ مِن دُونِهِۦ لَا يَسْتَجِيبُونَ لَهُم بِشَىْءٍ إِلَّا كَبَـٰسِطِ كَفَّيْهِ إِلَى ٱلْمَآءِ لِيَبْلُغَ فَاهُ وَمَا هُوَ بِبَـٰلِغِهِۦ ۚ وَمَا دُعَآءُ ٱلْكَـٰفِرِينَ إِلَّا فِى ضَلَـٰلٍ",
+    "arabic2": "له دعوة الحق والذين يدعون من دونه لا يستجيبون لهم بشيء الا كباسط كفيه الى الماء ليبلغ فاه وما هو ببالغه وما دعاء الكافرين الا في ضلال",
+    "bengali": "সত্যের আহবান তাঁরই, আর যারা তাকে ছাড়া অন্যদেরকে ডাকে, তারা তাদের ডাকে সামান্যও সাড়া দিতে পারে না, বরং (তাদের দৃষ্টান্ত) ঐ ব্যক্তির মত, যে পানির দিকে তার দু’হাত বাড়িয়ে দেয় যেন তা তার মুখে পৌঁছে অথচ তা তার কাছে পৌঁছবার নয়। আর কাফেরদের ডাক তো শুধু ভ্রষ্টতায় পর্যবসিত হয়।",
+    "urdu": "سودمند پکارنا تو اسی کا ہے اور جن کو یہ لوگ اس کے سوا پکارتے ہیں وہ ان کی پکار کو کسی طرح قبول نہیں کرتے مگر اس شخص کی طرح جو اپنے دونوں ہاتھ پانی کی طرف پھیلا دے تاکہ (دور ہی سے) اس کے منہ تک آ پہنچے حالانکہ وہ (اس تک کبھی بھی) نہیں آسکتا اور (اسی طرح) کافروں کی پکار بیکار ہے"
+}

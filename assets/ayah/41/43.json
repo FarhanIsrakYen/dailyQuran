@@ -1,0 +1,42 @@
+{
+    "surahName": "Fussilat",
+    "surahNameArabic": "فصلت",
+    "surahNameArabicLong": "سورة فصلت",
+    "surahNameTranslation": "Explained in detail",
+    "revelationPlace": "Mecca",
+    "totalAyah": 54,
+    "surahNo": 41,
+    "ayahNo": 43,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/41_43.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/041043.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/41_43.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/041043.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/41_43.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/041043.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/41_43.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/041043.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/41_43.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/041043.mp3"
+        }
+    },
+    "english": "˹O Prophet!˺ Nothing is said to you ˹by the deniers˺ except what was already said to the messengers before you. Surely your Lord is ˹the Lord˺ of forgiveness and painful punishment.",
+    "arabic1": "مَّا يُقَالُ لَكَ إِلَّا مَا قَدْ قِيلَ لِلرُّسُلِ مِن قَبْلِكَ ۚ إِنَّ رَبَّكَ لَذُو مَغْفِرَةٍ وَذُو عِقَابٍ أَلِيمٍ",
+    "arabic2": "ما يقال لك الا ما قد قيل للرسل من قبلك ان ربك لذو مغفرة وذو عقاب اليم",
+    "bengali": "তোমাকে যা বলা হচ্ছে, তোমার পূর্ববর্তী রাসূলদেরকেও তাই বলা হয়েছিল। নিশ্চয় তোমার রব একান্তই ক্ষমাশীল এবং যন্ত্রণাদায়ক আযাব দাতা।",
+    "urdu": "تم سے وہی باتیں کہیں جاتی ہیں جو تم سے پہلے اور پیغمبروں سے کہی گئی تھیں۔ بےشک تمہارا پروردگار بخش دینے والا بھی اور عذاب الیم دینے والا بھی ہے"
+}

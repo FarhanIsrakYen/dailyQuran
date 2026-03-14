@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Hadid",
+    "surahNameArabic": "الحديد",
+    "surahNameArabicLong": "سورة الحديد",
+    "surahNameTranslation": "The Iron",
+    "revelationPlace": "Madina",
+    "totalAyah": 29,
+    "surahNo": 57,
+    "ayahNo": 13,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/57_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/057013.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/57_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/057013.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/57_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/057013.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/57_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/057013.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/57_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/057013.mp3"
+        }
+    },
+    "english": "On that Day hypocrite men and women will beg the believers, “Wait for us so that we may have some of your light.” It will be said ˹mockingly˺, “Go back ˹to the world˺ and seek a light ˹there˺!” Then a ˹separating˺ wall with a gate will be erected between them. On the near side will be grace and on the far side will be torment.",
+    "arabic1": "يَوْمَ يَقُولُ ٱلْمُنَـٰفِقُونَ وَٱلْمُنَـٰفِقَـٰتُ لِلَّذِينَ ءَامَنُوا۟ ٱنظُرُونَا نَقْتَبِسْ مِن نُّورِكُمْ قِيلَ ٱرْجِعُوا۟ وَرَآءَكُمْ فَٱلْتَمِسُوا۟ نُورًا فَضُرِبَ بَيْنَهُم بِسُورٍ لَّهُۥ بَابٌۢ بَاطِنُهُۥ فِيهِ ٱلرَّحْمَةُ وَظَـٰهِرُهُۥ مِن قِبَلِهِ ٱلْعَذَابُ",
+    "arabic2": "يوم يقول المنافقون والمنافقات للذين امنوا انظرونا نقتبس من نوركم قيل ارجعوا وراءكم فالتمسوا نورا فضرب بينهم بسور له باب باطنه فيه الرحمة وظاهره من قبله العذاب",
+    "bengali": "সেদিন মুনাফিক পুরুষ ও মুনাফিক নারীগণ ঈমানদারদের বলবে, ‘তোমরা আমাদের জন্য অপেক্ষা কর, তোমাদের নূর থেকে আমরা একটু নিয়ে নেই’, বলা হবে, ‘তোমরা তোমাদের পিছনে ফিরে যাও এবং নূরের সন্ধান কর,’ তারপর তাদের মাঝখানে একটি প্রাচীর স্থাপন করে দেয়া হবে, যাতে একটি দরজা থাকবে। তার ভিতরভাগে থাকবে রহমত এবং তার বহির্ভাগে থাকবে আযাব।",
+    "urdu": "اُس دن منافق مرد اور منافق عورتیں مومنوں سے کہیں گے کہ ہماری طرف سے (شفقت) کیجیئے کہ ہم بھی تمہارے نور سے روشنی حاصل کریں۔ تو ان سے کہا جائے گا کہ پیچھے کو لوٹ جاؤ اور (وہاں) نور تلاش کرو۔ پھر ان کے بیچ میں ایک دیوار کھڑی کر دی جائے گی۔ جس میں ایک دروازہ ہوگا جو اس کی جانب اندرونی ہے اس میں تو رحمت ہے اور جو جانب بیرونی ہے اس طرف عذاب (واذیت)"
+}

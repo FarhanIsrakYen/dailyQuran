@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Furqaan",
+    "surahNameArabic": "الفرقان",
+    "surahNameArabicLong": "سورة الفرقان",
+    "surahNameTranslation": "The Criterion",
+    "revelationPlace": "Mecca",
+    "totalAyah": 77,
+    "surahNo": 25,
+    "ayahNo": 70,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/25_70.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/025070.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/25_70.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/025070.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/25_70.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/025070.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/25_70.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/025070.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/25_70.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/025070.mp3"
+        }
+    },
+    "english": "As for those who repent, believe, and do good deeds, they are the ones whose evil deeds Allah will change into good deeds. For Allah is All-Forgiving, Most Merciful.",
+    "arabic1": "إِلَّا مَن تَابَ وَءَامَنَ وَعَمِلَ عَمَلًا صَـٰلِحًا فَأُو۟لَـٰٓئِكَ يُبَدِّلُ ٱللَّهُ سَيِّـَٔاتِهِمْ حَسَنَـٰتٍ ۗ وَكَانَ ٱللَّهُ غَفُورًا رَّحِيمًا",
+    "arabic2": "الا من تاب وامن وعمل عملا صالحا فاولئك يبدل الله سيئاتهم حسنات وكان الله غفورا رحيما",
+    "bengali": "তবে যে তাওবা করে, ঈমান আনে এবং সৎকর্ম করে। পরিণামে আল্লাহ তাদের পাপগুলোকে পূণ্য দ্বারা পরিবর্তন করে দেবেন। আল্লাহ অতীব ক্ষমাশীল, পরম দয়ালু।",
+    "urdu": "مگر جس نے توبہ کی اور ایمان لایا اور اچھے کام کئے تو ایسے لوگوں کے گناہوں کو خدا نیکیوں سے بدل دے گا۔ اور خدا تو بخشنے والا مہربان ہے"
+}

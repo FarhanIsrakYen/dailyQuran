@@ -1,0 +1,42 @@
+{
+    "surahName": "Hud",
+    "surahNameArabic": "هود",
+    "surahNameArabicLong": "سورة هود",
+    "surahNameTranslation": "Hud",
+    "revelationPlace": "Mecca",
+    "totalAyah": 123,
+    "surahNo": 11,
+    "ayahNo": 48,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/11_48.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/011048.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/11_48.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/011048.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/11_48.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/011048.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/11_48.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/011048.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/11_48.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/011048.mp3"
+        }
+    },
+    "english": "It was said, “O Noah! Disembark with Our peace and blessings on you and some of the descendants of those with you. As for the others, We will allow them ˹a brief˺ enjoyment, then they will be touched with a painful punishment from Us.”",
+    "arabic1": "قِيلَ يَـٰنُوحُ ٱهْبِطْ بِسَلَـٰمٍ مِّنَّا وَبَرَكَـٰتٍ عَلَيْكَ وَعَلَىٰٓ أُمَمٍ مِّمَّن مَّعَكَ ۚ وَأُمَمٌ سَنُمَتِّعُهُمْ ثُمَّ يَمَسُّهُم مِّنَّا عَذَابٌ أَلِيمٌ",
+    "arabic2": "قيل يا نوح اهبط بسلام منا وبركات عليك وعلى امم ممن معك وامم سنمتعهم ثم يمسهم منا عذاب اليم",
+    "bengali": "বলা হল, ‘হে নূহ, তোমার ও তোমার সাথে যে উম্মত রয়েছে তাদের উপর আমার পক্ষ থেকে শান্তি ও বরকতসহ অবতরণ কর। আর আরো অনেক উম্মতকে আমি জীবন উপভোগ করতে দেব, তারপর আমার পক্ষ থেকে তাদেরকে স্পর্শ করবে যন্ত্রণাদায়ক আযাব’।",
+    "urdu": "حکم ہوا کہ نوح ہماری طرف سے سلامتی اور برکتوں کے ساتھ (جو) تم پر اور تمہارے ساتھ کی جماعتوں پر (نازل کی گئی ہیں) اتر آؤ۔ اور کچھ اور جماعتیں ہوں گی جن کو ہم (دنیا کے فوائد سے) محظوظ کریں گے پھر ان کو ہماری طرف سے عذاب الیم پہنچے گا"
+}

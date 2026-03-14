@@ -1,0 +1,42 @@
+{
+    "surahName": "Saba",
+    "surahNameArabic": "سبإ",
+    "surahNameArabicLong": "سورة سَبَأ",
+    "surahNameTranslation": "Sheba",
+    "revelationPlace": "Mecca",
+    "totalAyah": 54,
+    "surahNo": 34,
+    "ayahNo": 30,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/34_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/034030.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/34_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/034030.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/34_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/034030.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/34_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/034030.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/34_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/034030.mp3"
+        }
+    },
+    "english": "Say, ˹O Prophet,˺ “A Day has ˹already˺ been appointed for you, which you can neither delay nor advance by a ˹single˺ moment.”",
+    "arabic1": "قُل لَّكُم مِّيعَادُ يَوْمٍ لَّا تَسْتَـْٔخِرُونَ عَنْهُ سَاعَةً وَلَا تَسْتَقْدِمُونَ",
+    "arabic2": "قل لكم ميعاد يوم لا تستاخرون عنه ساعة ولا تستقدمون",
+    "bengali": "বল, ‘তোমাদের জন্য রয়েছে একটি দিনের ওয়াদা যা থেকে তোমরা মুহূর্তকাল বিলম্বিত করতে পারবে না আর তরান্বিতও করতে পারবে না’।",
+    "urdu": "کہہ دو کہ تم سے ایک دن کا وعدہ ہے جس سے نہ ایک گھڑی پیچھے رہوگے اور نہ آگے بڑھو گے"
+}

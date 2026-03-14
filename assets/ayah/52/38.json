@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Tur",
+    "surahNameArabic": "الطور",
+    "surahNameArabicLong": "سورة الطور",
+    "surahNameTranslation": "The Mount",
+    "revelationPlace": "Mecca",
+    "totalAyah": 49,
+    "surahNo": 52,
+    "ayahNo": 38,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/52_38.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/052038.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/52_38.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/052038.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/52_38.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/052038.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/52_38.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/052038.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/52_38.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/052038.mp3"
+        }
+    },
+    "english": "Or do they have a stairway, by which they eavesdrop ˹on the heavens˺? Then let those who do so bring a compelling proof.",
+    "arabic1": "أَمْ لَهُمْ سُلَّمٌ يَسْتَمِعُونَ فِيهِ ۖ فَلْيَأْتِ مُسْتَمِعُهُم بِسُلْطَـٰنٍ مُّبِينٍ",
+    "arabic2": "ام لهم سلم يستمعون فيه فليات مستمعهم بسلطان مبين",
+    "bengali": "নাকি তাদের আছে সিঁড়ি, যাতে চড়ে তারা (ঊর্ধ্বলোকের কথা) শুনতে পায়; তাদের শ্রোতা স্পষ্ট প্রমাণ নিয়ে আসুক না?",
+    "urdu": "یا ان کے پاس کوئی سیڑھی ہے جس پر (چڑھ کر آسمان سے باتیں) سن آتے ہیں۔ تو جو سن آتا ہے وہ صریح سند دکھائے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Yusuf",
+    "surahNameArabic": "يوسف",
+    "surahNameArabicLong": "سورة يوسف",
+    "surahNameTranslation": "Joseph",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 12,
+    "ayahNo": 47,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/12_47.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/012047.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/12_47.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/012047.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/12_47.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/012047.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/12_47.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/012047.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/12_47.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/012047.mp3"
+        }
+    },
+    "english": "Joseph replied, “You will plant ˹grain˺ for seven consecutive years, leaving in the ear whatever you will harvest, except for the little you will eat.",
+    "arabic1": "قَالَ تَزْرَعُونَ سَبْعَ سِنِينَ دَأَبًا فَمَا حَصَدتُّمْ فَذَرُوهُ فِى سُنۢبُلِهِۦٓ إِلَّا قَلِيلًا مِّمَّا تَأْكُلُونَ",
+    "arabic2": "قال تزرعون سبع سنين دابا فما حصدتم فذروه في سنبله الا قليلا مما تاكلون",
+    "bengali": "সে বলল, ‘তোমরা সাত বছর একাধারে চাষাবাদ করবে অতঃপর যে শস্য কেটে ঘরে তুলবে তার মধ্য থেকে যে সামান্য পরিমাণ খাবে সেগুলো ছাড়া সব শীষের মধ্যে রেখে দেবে’।",
+    "urdu": "انہوں نے کہا کہ تم لوگ سات سال متواتر کھیتی کرتے رہوگے تو جو (غلّہ) کاٹو تو تھوڑے سے غلّے کے سوا جو کھانے میں آئے اسے خوشوں میں ہی رہنے دینا"
+}

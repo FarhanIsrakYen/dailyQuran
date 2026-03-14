@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 18,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/17_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/017018.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/17_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/017018.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/17_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/017018.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/17_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/017018.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/17_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/017018.mp3"
+        }
+    },
+    "english": "Whoever desires this fleeting world ˹alone˺, We hasten in it whatever We please to whoever We will; then We destine them for Hell, where they will burn, condemned and rejected.",
+    "arabic1": "مَّن كَانَ يُرِيدُ ٱلْعَاجِلَةَ عَجَّلْنَا لَهُۥ فِيهَا مَا نَشَآءُ لِمَن نُّرِيدُ ثُمَّ جَعَلْنَا لَهُۥ جَهَنَّمَ يَصْلَىٰهَا مَذْمُومًا مَّدْحُورًا",
+    "arabic2": "من كان يريد العاجلة عجلنا له فيها ما نشاء لمن نريد ثم جعلنا له جهنم يصلاها مذموما مدحورا",
+    "bengali": "যে দুনিয়া চায় আমি সেখানে তাকে দ্রুত দিয়ে দেই, যা আমি চাই, যার জন্য চাই। তারপর তার জন্য নির্ধারণ করি জাহান্নাম, সেখানে সে প্রবেশ করবে নিন্দিত, বিতাড়িত অবস্থায়।",
+    "urdu": "جو شخص دنیا (کی آسودگی) کا خواہشمند ہو تو ہم اس میں سے جسے چاہتے ہیں اور جتنا چاہتے ہیں جلد دے دیتے ہیں۔ پھر اس کے لئے جہنم کو (ٹھکانا) مقرر کر رکھا ہے۔ جس میں وہ نفرین سن کر اور (درگاہ خدا سے) راندہ ہو کر داخل ہوگا"
+}

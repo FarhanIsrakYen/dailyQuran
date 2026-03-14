@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Mursalaat",
+    "surahNameArabic": "المرسلات",
+    "surahNameArabicLong": "سورة المرسلات",
+    "surahNameTranslation": "The Emissaries",
+    "revelationPlace": "Mecca",
+    "totalAyah": 50,
+    "surahNo": 77,
+    "ayahNo": 31,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/77_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/077031.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/77_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/077031.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/77_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/077031.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/77_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/077031.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/77_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/077031.mp3"
+        }
+    },
+    "english": "providing neither coolness nor shelter from the flames.",
+    "arabic1": "لَّا ظَلِيلٍ وَلَا يُغْنِى مِنَ ٱللَّهَبِ",
+    "arabic2": "لا ظليل ولا يغني من اللهب",
+    "bengali": "যা ছায়াদানকারী নয় এবং তা জাহান্নামের জ্বলন্ত অগ্নিশিখার মোকাবেলায় কোন কাজেও আসবে না।",
+    "urdu": "نہ ٹھنڈی چھاؤں اور نہ لپٹ سے بچاؤ"
+}

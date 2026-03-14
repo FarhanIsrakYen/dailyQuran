@@ -1,0 +1,42 @@
+{
+    "surahName": "Yusuf",
+    "surahNameArabic": "يوسف",
+    "surahNameArabicLong": "سورة يوسف",
+    "surahNameTranslation": "Joseph",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 12,
+    "ayahNo": 88,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/12_88.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/012088.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/12_88.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/012088.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/12_88.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/012088.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/12_88.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/012088.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/12_88.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/012088.mp3"
+        }
+    },
+    "english": "When they entered Joseph’s presence, they pleaded, “O Chief Minister! We and our family have been touched with hardship, and we have brought only a few worthless coins, but ˹please˺ give us our supplies in full and be charitable to us. Indeed, Allah rewards the charitable.”",
+    "arabic1": "فَلَمَّا دَخَلُوا۟ عَلَيْهِ قَالُوا۟ يَـٰٓأَيُّهَا ٱلْعَزِيزُ مَسَّنَا وَأَهْلَنَا ٱلضُّرُّ وَجِئْنَا بِبِضَـٰعَةٍ مُّزْجَىٰةٍ فَأَوْفِ لَنَا ٱلْكَيْلَ وَتَصَدَّقْ عَلَيْنَآ ۖ إِنَّ ٱللَّهَ يَجْزِى ٱلْمُتَصَدِّقِينَ",
+    "arabic2": "فلما دخلوا عليه قالوا يا ايها العزيز مسنا واهلنا الضر وجئنا ببضاعة مزجاة فاوف لنا الكيل وتصدق علينا ان الله يجزي المتصدقين",
+    "bengali": "অতঃপর যখন তারা ইউসুফের কাছে প্রবেশ করল, তখন বলল, ‘হে আযীয, অভাব-অনটন আমাদেরকে ও আমাদের পরিবারকে স্পর্শ করেছে, আর আমরা তুচ্ছ পুঁজি নিয়ে এসেছি। অতএব, আমাদেরকে মাপে পূর্ণমাত্রায় দিন এবং আমাদের প্রতি অনুগ্রহ করুন, নিশ্চয় আল্লাহ অনুগ্রহকারীদের প্রতিদান দেন’।",
+    "urdu": "جب وہ یوسف کے پاس گئے تو کہنے لگے کہ عزیز ہمیں اور ہمارے اہل وعیال کو بڑی تکلیف ہو رہی ہے اور ہم تھوڑا سا سرمایہ لائے ہیں آپ ہمیں (اس کے عوض) پورا غلّہ دے دیجیئے اور خیرات کیجیئے۔ کہ خدا خیرات کرنے والوں کو ثواب دیتا ہے"
+}

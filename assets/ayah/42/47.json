@@ -1,0 +1,42 @@
+{
+    "surahName": "Ash-Shura",
+    "surahNameArabic": "الشورى",
+    "surahNameArabicLong": "سورة الشورى",
+    "surahNameTranslation": "Consultation",
+    "revelationPlace": "Mecca",
+    "totalAyah": 53,
+    "surahNo": 42,
+    "ayahNo": 47,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/42_47.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/042047.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/42_47.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/042047.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/42_47.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/042047.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/42_47.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/042047.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/42_47.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/042047.mp3"
+        }
+    },
+    "english": "Respond to your Lord before the coming of a Day from Allah that cannot be averted. There will be no refuge for you then, nor ˹grounds for˺ denial ˹of sins˺.",
+    "arabic1": "ٱسْتَجِيبُوا۟ لِرَبِّكُم مِّن قَبْلِ أَن يَأْتِىَ يَوْمٌ لَّا مَرَدَّ لَهُۥ مِنَ ٱللَّهِ ۚ مَا لَكُم مِّن مَّلْجَإٍ يَوْمَئِذٍ وَمَا لَكُم مِّن نَّكِيرٍ",
+    "arabic2": "استجيبوا لربكم من قبل ان ياتي يوم لا مرد له من الله ما لكم من ملجا يومئذ وما لكم من نكير",
+    "bengali": "তোমরা তোমাদের রবের ডাকে সাড়া দাও, আল্লাহর পক্ষ থেকে সেদিন আসার পূর্বের্ই, যাকে ফিরিয়ে দেয়ার কোনো উপায় নেই। সেদিন তোমাদের জন্য কোন আশ্রয়স্থল থাকবে না এবং তোমাদের জন্য প্রতিরোধকারীও থাকবে না।",
+    "urdu": "ان سے کہہ دو کہ) قبل اس کے کہ وہ دن جو ٹلے گا نہیں خدا کی طرف سے آ موجود ہو اپنے پروردگار کا حکم قبول کرو۔ اس دن تمہارے لئے نہ کوئی جائے پناہ ہوگی اور نہ تم سے گناہوں کا انکار ہی بن پڑے گا"
+}

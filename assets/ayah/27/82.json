@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Naml",
+    "surahNameArabic": "النمل",
+    "surahNameArabicLong": "سورة النمل",
+    "surahNameTranslation": "The Ant",
+    "revelationPlace": "Mecca",
+    "totalAyah": 93,
+    "surahNo": 27,
+    "ayahNo": 82,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/27_82.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/027082.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/27_82.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/027082.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/27_82.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/027082.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/27_82.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/027082.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/27_82.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/027082.mp3"
+        }
+    },
+    "english": "And when the decree ˹of the Hour˺ comes to pass against them, We will bring forth for them a beast from the earth, telling them that the people had no sure faith in Our revelations.",
+    "arabic1": "۞ وَإِذَا وَقَعَ ٱلْقَوْلُ عَلَيْهِمْ أَخْرَجْنَا لَهُمْ دَآبَّةً مِّنَ ٱلْأَرْضِ تُكَلِّمُهُمْ أَنَّ ٱلنَّاسَ كَانُوا۟ بِـَٔايَـٰتِنَا لَا يُوقِنُونَ",
+    "arabic2": "واذا وقع القول عليهم اخرجنا لهم دابة من الارض تكلمهم ان الناس كانوا باياتنا لا يوقنون",
+    "bengali": "আর যখন তাদের উপর ‘বাণী’ (আযাব) বাস্তবায়িত হবে তখন আমি যমীনের জন্তু (দাব্বাতুল আরদ)* বের করব, যে তাদের সাথে কথা বলবে। কারণ মানুষ আমার আয়াতসমূহে সুদৃঢ় বিশ্বাস রাখত না। \n* কিয়ামতের অন্যতম নিদর্শন হল ‘দাববাতুল আরদ’ বের হওয়া। ইমাম আহমদ (র.) বর্ণনা করেছেন যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, দশটি নিদর্শন না দেখা পর্যন্ত কিয়ামত হবে না তন্মধ্যে অন্যতম হল, দাববাতুল আরদ বের হওয়া। ইবন কাছীর বলেন, শেষ যামানায় যখন মানুষ সৎকাজের আদেশ দেবে না, অসৎ কাজ হতে নিষেধ করবে না, সত্য দীন পরিবর্তন করবে এবং চারদিকে ফিতনা-ফাসাদ ছড়িয়ে পড়বে তখন ‘দাব্বাতুল আরদ’ বের হবে।",
+    "urdu": "اور جب اُن کے بارے میں (عذاب) کا وعدہ پورا ہوگا تو ہم اُن کے لئے زمین میں سے ایک جانور نکالیں گے جو ان سے بیان کر دے گا۔ اس لئے کہ لوگ ہماری آیتوں پر ایمان نہیں لاتے تھے"
+}

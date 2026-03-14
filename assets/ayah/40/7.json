@@ -1,0 +1,42 @@
+{
+    "surahName": "Ghafir",
+    "surahNameArabic": "غافر",
+    "surahNameArabicLong": "سورة غافر",
+    "surahNameTranslation": "The Forgiver",
+    "revelationPlace": "Mecca",
+    "totalAyah": 85,
+    "surahNo": 40,
+    "ayahNo": 7,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/40_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/040007.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/40_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/040007.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/40_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/040007.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/40_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/040007.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/40_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/040007.mp3"
+        }
+    },
+    "english": "Those ˹angels˺ who carry the Throne and those around it glorify the praises of their Lord, have faith in Him, and seek forgiveness for the believers, ˹praying:˺ “Our Lord! You encompass everything in ˹Your˺ mercy and knowledge. So forgive those who repent and follow Your Way, and protect them from the torment of the Hellfire.",
+    "arabic1": "ٱلَّذِينَ يَحْمِلُونَ ٱلْعَرْشَ وَمَنْ حَوْلَهُۥ يُسَبِّحُونَ بِحَمْدِ رَبِّهِمْ وَيُؤْمِنُونَ بِهِۦ وَيَسْتَغْفِرُونَ لِلَّذِينَ ءَامَنُوا۟ رَبَّنَا وَسِعْتَ كُلَّ شَىْءٍ رَّحْمَةً وَعِلْمًا فَٱغْفِرْ لِلَّذِينَ تَابُوا۟ وَٱتَّبَعُوا۟ سَبِيلَكَ وَقِهِمْ عَذَابَ ٱلْجَحِيمِ",
+    "arabic2": "الذين يحملون العرش ومن حوله يسبحون بحمد ربهم ويؤمنون به ويستغفرون للذين امنوا ربنا وسعت كل شيء رحمة وعلما فاغفر للذين تابوا واتبعوا سبيلك وقهم عذاب الجحيم",
+    "bengali": "যারা আরশকে ধারণ করে এবং যারা এর চারপাশে রয়েছে, তারা তাদের রবের প্রশংসাসহ তাসবীহ পাঠ করে এবং তাঁর প্রতি ঈমান রাখে। আর মুমিনদের জন্য ক্ষমা চেয়ে বলে যে, ‘হে আমাদের রব, আপনি রহমত ও জ্ঞান দ্বারা সব কিছুকে পরিব্যপ্ত করে রয়েছেন। অতএব যারা তাওবা করে এবং আপনার পথ অনুসরণ করে আপনি তাদেরকে ক্ষমা করে দিন। আর জাহান্নামের আযাব থেকে আপনি তাদেরকে রক্ষা করুন’।",
+    "urdu": "جو لوگ عرش کو اٹھائے ہوئے اور جو اس کے گردا گرد (حلقہ باندھے ہوئے) ہیں (یعنی فرشتے) وہ اپنے پروردگار کی تعریف کے ساتھ تسبیح کرتے رہتے ہیں اور مومنوں کے لئے بخشش مانگتے رہتے ہیں۔ کہ اے ہمارے پروردگار تیری رحمت اور تیرا علم ہر چیز کو احاطہ کئے ہوئے ہے تو جن لوگوں نے توبہ کی اور تیرے رستے پر چلے ان کو بخش دے اور دوزخ کے عذاب سے بچالے"
+}

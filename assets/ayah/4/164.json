@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 164,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/4_164.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/004164.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/4_164.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/004164.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/4_164.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/004164.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/4_164.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/004164.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/4_164.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/004164.mp3"
+        }
+    },
+    "english": "There are messengers whose stories We have told you already and others We have not. And to Moses Allah spoke directly.",
+    "arabic1": "وَرُسُلًا قَدْ قَصَصْنَـٰهُمْ عَلَيْكَ مِن قَبْلُ وَرُسُلًا لَّمْ نَقْصُصْهُمْ عَلَيْكَ ۚ وَكَلَّمَ ٱللَّهُ مُوسَىٰ تَكْلِيمًا",
+    "arabic2": "ورسلا قد قصصناهم عليك من قبل ورسلا لم نقصصهم عليك وكلم الله موسى تكليما",
+    "bengali": "আর অনেক রাসূল, যাদের বর্ণনা তোমাকে পূর্বে দিয়েছি এবং অনেক রাসূল, যাদের বর্ণনা তোমাকে দেইনি আর আল্লাহ মূসার সাথে সুস্পষ্টভাবে কথা বলেছেন।",
+    "urdu": "اور بہت سے پیغمبر ہیں جن کے حالات ہم تم سے پیشتر بیان کرچکے ہیں اور بہت سے پیغمبر ہیں جن کے حالات تم سے بیان نہیں کئے۔ اور موسیٰ سے تو خدا نے باتیں بھی کیں"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 20,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/9_20.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/009020.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/9_20.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/009020.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/9_20.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/009020.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/9_20.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/009020.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/9_20.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/009020.mp3"
+        }
+    },
+    "english": "Those who have believed, emigrated, and strived in the cause of Allah with their wealth and their lives are greater in rank in the sight of Allah. It is they who will triumph.",
+    "arabic1": "ٱلَّذِينَ ءَامَنُوا۟ وَهَاجَرُوا۟ وَجَـٰهَدُوا۟ فِى سَبِيلِ ٱللَّهِ بِأَمْوَٰلِهِمْ وَأَنفُسِهِمْ أَعْظَمُ دَرَجَةً عِندَ ٱللَّهِ ۚ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْفَآئِزُونَ",
+    "arabic2": "الذين امنوا وهاجروا وجاهدوا في سبيل الله باموالهم وانفسهم اعظم درجة عند الله واولئك هم الفائزون",
+    "bengali": "যারা ঈমান এনেছে, হিজরত করেছে, আর আল্লাহর পথে নিজদের মাল ও জান দিয়ে জিহাদ করেছে, আল্লাহর কাছে তারা বড়ই মর্যাদাবান আর তারাই সফলকাম।",
+    "urdu": "جو لوگ ایمان لائے اور وطن چھوڑ گئے اور خدا کی راہ میں مال اور جان سے جہاد کرتے رہے۔ خدا کے ہاں ان کے درجے بہت بڑے ہیں۔ اور وہی مراد کو پہنچنے والے ہیں"
+}

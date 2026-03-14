@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Anfaal",
+    "surahNameArabic": "الأنفال",
+    "surahNameArabicLong": "سورة الأنفال",
+    "surahNameTranslation": "The Spoils of War",
+    "revelationPlace": "Madina",
+    "totalAyah": 75,
+    "surahNo": 8,
+    "ayahNo": 31,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/8_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/008031.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/8_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/008031.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/8_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/008031.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/8_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/008031.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/8_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/008031.mp3"
+        }
+    },
+    "english": "Whenever Our revelations are recited to them, they challenge ˹you˺, “We have already heard ˹the recitation˺. If we wanted, we could have easily produced something similar. This ˹Quran˺ is nothing but ancient fables!”",
+    "arabic1": "وَإِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَـٰتُنَا قَالُوا۟ قَدْ سَمِعْنَا لَوْ نَشَآءُ لَقُلْنَا مِثْلَ هَـٰذَآ ۙ إِنْ هَـٰذَآ إِلَّآ أَسَـٰطِيرُ ٱلْأَوَّلِينَ",
+    "arabic2": "واذا تتلى عليهم اياتنا قالوا قد سمعنا لو نشاء لقلنا مثل هذا ان هذا الا اساطير الاولين",
+    "bengali": "আর তাদের উপর যখন আমার আয়াতসমূহ পাঠ করা হয় তখন তারা বলে, শুনলাম তো। যদি আমরা চাই, তাহলে এর অনুরূপ আমরাও বলতে পারি। এতো পিতৃ-পুরুষদের কল্প-কাহিনী ছাড়া কিছু না।",
+    "urdu": "اور جب ان کو ہماری آیتیں پڑھ کر سنائی جاتی ہیں تو کہتے ہیں (یہ کلام) ہم نے سن لیا ہے اگر ہم چاہیں تو اسی طرح کا (کلام) ہم بھی کہہ دیں اور یہ ہے ہی کیا صرف اگلے لوگوں کی حکایتیں ہیں"
+}

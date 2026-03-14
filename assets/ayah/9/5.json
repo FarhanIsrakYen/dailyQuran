@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 5,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/9_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/009005.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/9_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/009005.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/9_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/009005.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/9_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/009005.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/9_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/009005.mp3"
+        }
+    },
+    "english": "But once the Sacred Months have passed, kill the polytheists ˹who violated their treaties˺ wherever you find them, capture them, besiege them, and lie in wait for them on every way. But if they repent, perform prayers, and pay alms-tax, then set them free. Indeed, Allah is All-Forgiving, Most Merciful.",
+    "arabic1": "فَإِذَا ٱنسَلَخَ ٱلْأَشْهُرُ ٱلْحُرُمُ فَٱقْتُلُوا۟ ٱلْمُشْرِكِينَ حَيْثُ وَجَدتُّمُوهُمْ وَخُذُوهُمْ وَٱحْصُرُوهُمْ وَٱقْعُدُوا۟ لَهُمْ كُلَّ مَرْصَدٍ ۚ فَإِن تَابُوا۟ وَأَقَامُوا۟ ٱلصَّلَوٰةَ وَءَاتَوُا۟ ٱلزَّكَوٰةَ فَخَلُّوا۟ سَبِيلَهُمْ ۚ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ",
+    "arabic2": "فاذا انسلخ الاشهر الحرم فاقتلوا المشركين حيث وجدتموهم وخذوهم واحصروهم واقعدوا لهم كل مرصد فان تابوا واقاموا الصلاة واتوا الزكاة فخلوا سبيلهم ان الله غفور رحيم",
+    "bengali": "অতঃপর যখন নিষিদ্ধ মাসগুলো অতিবাহিত হয়ে যাবে, তখন তোমরা মুশরিকদেরকে যেখানেই পাও হত্যা কর এবং তাদেরকে পাকড়াও কর, তাদেরকে অবরোধ কর এবং তাদের জন্য প্রতিটি ঘাঁটিতে বসে থাক। তবে যদি তারা তাওবা করে এবং সালাত কায়েম করে, আর যাকাত দেয়, তাহলে তাদের পথ ছেড়ে দাও। নিশ্চয় আল্লাহ বড়ই ক্ষমাশীল, পরম দয়ালু।",
+    "urdu": "جب عزت کے مہینے گزر جائیں تو مشرکوں کو جہاں پاؤ قتل کر دو اور پکڑلو اور گھیرلو اور ہر گھات کی جگہ ان کی تاک میں بیٹھے رہو۔ پھر اگر وہ توبہ کرلیں اور نماز پڑھنے اور زکوٰة دینے لگیں تو ان کی راہ چھوڑ دو۔ بےشک خدا بخشنے والا مہربان ہے"
+}

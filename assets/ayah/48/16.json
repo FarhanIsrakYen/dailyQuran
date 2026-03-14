@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Fath",
+    "surahNameArabic": "الفتح",
+    "surahNameArabicLong": "سورة الفتح",
+    "surahNameTranslation": "The Victory",
+    "revelationPlace": "Madina",
+    "totalAyah": 29,
+    "surahNo": 48,
+    "ayahNo": 16,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/48_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/048016.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/48_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/048016.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/48_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/048016.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/48_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/048016.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/48_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/048016.mp3"
+        }
+    },
+    "english": "Say to nomadic Arabs, who stayed behind, “You will be called ˹to fight˺ against a people of great might, who you will fight unless they submit. If you then obey, Allah will grant you a fine reward. But if you turn away as you did before, He will inflict upon you a painful punishment.”",
+    "arabic1": "قُل لِّلْمُخَلَّفِينَ مِنَ ٱلْأَعْرَابِ سَتُدْعَوْنَ إِلَىٰ قَوْمٍ أُو۟لِى بَأْسٍ شَدِيدٍ تُقَـٰتِلُونَهُمْ أَوْ يُسْلِمُونَ ۖ فَإِن تُطِيعُوا۟ يُؤْتِكُمُ ٱللَّهُ أَجْرًا حَسَنًا ۖ وَإِن تَتَوَلَّوْا۟ كَمَا تَوَلَّيْتُم مِّن قَبْلُ يُعَذِّبْكُمْ عَذَابًا أَلِيمًا",
+    "arabic2": "قل للمخلفين من الاعراب ستدعون الى قوم اولي باس شديد تقاتلونهم او يسلمون فان تطيعوا يؤتكم الله اجرا حسنا وان تتولوا كما توليتم من قبل يعذبكم عذابا اليما",
+    "bengali": "পেছনে পড়ে থাকা বেদুঈনদেরকে বল, ‘এক কঠোর যোদ্ধা জাতির বিরুদ্ধে শীঘ্রই তোমাদেরকে ডাকা হবে; তোমরা তাদের বিরুদ্ধে যুদ্ধ করবে অথবা তারা আত্মসমর্পণ করবে। অতঃপর তোমরা যদি আনুগত্য কর তবে আল্লাহ তোমাদেরকে উত্তম প্রতিদান দেবেন। আর পূর্বে তোমরা যেমন ফিরে গিয়েছিলে তেমনি যদি ফিরে যাও তবে তিনি তোমাদেরকে যন্ত্রণাদায়ক আযাব দেবেন।",
+    "urdu": "جو گنوار پیچھے رہ گئے تھے ان سے کہہ دو کہ تم ایک سخت جنگجو قوم کے (ساتھ لڑائی کے) لئے بلائے جاؤ گے ان سے تم (یا تو) جنگ کرتے رہو گے یا وہ اسلام لے آئیں گے۔ اگر تم حکم مانو گے تو خدا تم کو اچھا بدلہ دے گا۔ اور اگر منہ پھیر لو گے جیسے پہلی دفعہ پھیرا تھا تو وہ تم کو بری تکلیف کی سزا دے گا"
+}

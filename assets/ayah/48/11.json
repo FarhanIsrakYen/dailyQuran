@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Fath",
+    "surahNameArabic": "الفتح",
+    "surahNameArabicLong": "سورة الفتح",
+    "surahNameTranslation": "The Victory",
+    "revelationPlace": "Madina",
+    "totalAyah": 29,
+    "surahNo": 48,
+    "ayahNo": 11,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/48_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/048011.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/48_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/048011.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/48_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/048011.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/48_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/048011.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/48_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/048011.mp3"
+        }
+    },
+    "english": "The nomadic Arabs, who stayed behind, will say to you ˹O Prophet˺, “We were preoccupied with our wealth and families, so ask for forgiveness for us.” They say with their tongues what is not in their hearts. Say, “Who then can stand between you and Allah in any way, if He intends harm or benefit for you? In fact, Allah is All-Aware of what you do.",
+    "arabic1": "سَيَقُولُ لَكَ ٱلْمُخَلَّفُونَ مِنَ ٱلْأَعْرَابِ شَغَلَتْنَآ أَمْوَٰلُنَا وَأَهْلُونَا فَٱسْتَغْفِرْ لَنَا ۚ يَقُولُونَ بِأَلْسِنَتِهِم مَّا لَيْسَ فِى قُلُوبِهِمْ ۚ قُلْ فَمَن يَمْلِكُ لَكُم مِّنَ ٱللَّهِ شَيْـًٔا إِنْ أَرَادَ بِكُمْ ضَرًّا أَوْ أَرَادَ بِكُمْ نَفْعًۢا ۚ بَلْ كَانَ ٱللَّهُ بِمَا تَعْمَلُونَ خَبِيرًۢا",
+    "arabic2": "سيقول لك المخلفون من الاعراب شغلتنا اموالنا واهلونا فاستغفر لنا يقولون بالسنتهم ما ليس في قلوبهم قل فمن يملك لكم من الله شيئا ان اراد بكم ضرا او اراد بكم نفعا بل كان الله بما تعملون خبيرا",
+    "bengali": "পিছনে পড়ে থাকা বেদুঈনরা তোমাকে অচিরেই বলবে, ‘আমাদের ধন-সম্পদ ও পরিবার-পরিজন আমাদেরকে ব্যস্ত রেখেছিল; অতএব আমাদের জন্য ক্ষমা প্রার্থনা করুন।’ তারা মুখে তা বলে যা তাদের অন্তরে নেই। বল, ‘আল্লাহ যদি তোমাদের কোন ক্ষতি করতে চান কিংবা কোন উপকার করতে চান, তবে কে আল্লাহর মোকাবিলায় তোমাদের জন্য কোন কিছুর মালিক হবে’? বরং তোমরা যে আমল কর আল্লাহ সে বিষয়ে সম্যক অবহিত।’",
+    "urdu": "جو گنوار پیچھے رہ گئے وہ تم سے کہیں گے کہ ہم کو ہمارے مال اور اہل وعیال نے روک رکھا آپ ہمارے لئے (خدا سے) بخشش مانگیں۔ یہ لوگ اپنی زبان سے وہ بات کہتے ہیں جو ان کے دل میں نہیں ہے۔ کہہ دو کہ اگر خدا تم (لوگوں) کو نقصان پہنچانا چاہے یا تمہیں فائدہ پہنچانے کا ارادہ فرمائے تو کون ہے جو اس کے سامنے تمہارے لئے کسی بات کا کچھ اختیار رکھے (کوئی نہیں) بلکہ جو کچھ تم کرتے ہو خدا اس سے واقف ہے"
+}

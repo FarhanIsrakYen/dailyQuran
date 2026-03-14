@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 65,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_65.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002065.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_65.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002065.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_65.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002065.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_65.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002065.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_65.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002065.mp3"
+        }
+    },
+    "english": "You are already aware of those of you who broke the Sabbath. We said to them, “Be disgraced apes!”",
+    "arabic1": "وَلَقَدْ عَلِمْتُمُ ٱلَّذِينَ ٱعْتَدَوْا۟ مِنكُمْ فِى ٱلسَّبْتِ فَقُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَـٰسِـِٔينَ",
+    "arabic2": "ولقد علمتم الذين اعتدوا منكم في السبت فقلنا لهم كونوا قردة خاسئين",
+    "bengali": "আর তোমাদের মধ্যে যারা শনিবারের ব্যাপারে সীমালঙ্ঘন করেছিল, তাদেরকে অবশ্যই তোমরা জান। অতঃপর আমি তাদেরকে বললাম, ‘তোমরা নিকৃষ্ট বানর হয়ে যাও’।",
+    "urdu": "اور تم ان لوگوں کو خوب جانتے ہوں، جو تم میں سے ہفتے کے دن (مچھلی کا شکار کرنے) میں حد سے تجاوز کر گئے تھے، تو ہم نے ان سے کہا کہ ذلیل وخوار بندر ہو جاؤ"
+}

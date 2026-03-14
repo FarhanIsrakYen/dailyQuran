@@ -1,0 +1,42 @@
+{
+    "surahName": "Ghafir",
+    "surahNameArabic": "غافر",
+    "surahNameArabicLong": "سورة غافر",
+    "surahNameTranslation": "The Forgiver",
+    "revelationPlace": "Mecca",
+    "totalAyah": 85,
+    "surahNo": 40,
+    "ayahNo": 31,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/40_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/040031.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/40_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/040031.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/40_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/040031.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/40_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/040031.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/40_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/040031.mp3"
+        }
+    },
+    "english": "like the fate of the people of Noah, ’Ȃd, Thamûd, and those after them. For Allah would never will to wrong ˹His˺ servants.",
+    "arabic1": "مِثْلَ دَأْبِ قَوْمِ نُوحٍ وَعَادٍ وَثَمُودَ وَٱلَّذِينَ مِنۢ بَعْدِهِمْ ۚ وَمَا ٱللَّهُ يُرِيدُ ظُلْمًا لِّلْعِبَادِ",
+    "arabic2": "مثل داب قوم نوح وعاد وثمود والذين من بعدهم وما الله يريد ظلما للعباد",
+    "bengali": "‘যেমন ঘটেছিল নূহ, ‘আদ ও ছামূদ-এর কওম এবং তাদের পরবর্তীদের। আর আল্লাহ বান্দাদের উপর কোন যুলম করতে চান না।’",
+    "urdu": "یعنی) نوح کی قوم اور عاد اور ثمود اور جو لوگ ان کے پیچھے ہوئے ہیں ان کے حال کی طرح (تمہارا حال نہ ہوجائے) اور خدا تو بندوں پر ظلم کرنا نہیں چاہتا"
+}

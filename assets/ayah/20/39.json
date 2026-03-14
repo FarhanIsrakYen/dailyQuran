@@ -1,0 +1,42 @@
+{
+    "surahName": "Taa-Haa",
+    "surahNameArabic": "طه",
+    "surahNameArabicLong": "سورة طه",
+    "surahNameTranslation": "Taa-Haa",
+    "revelationPlace": "Mecca",
+    "totalAyah": 135,
+    "surahNo": 20,
+    "ayahNo": 39,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/20_39.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/020039.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/20_39.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/020039.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/20_39.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/020039.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/20_39.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/020039.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/20_39.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/020039.mp3"
+        }
+    },
+    "english": "‘Put him into a chest, then put it into the river. The river will wash it ashore, and he will be taken by ˹Pharaoh,˺ an enemy of Mine and his.’ And I blessed you with lovability from Me ˹O Moses˺ so that you would be brought up under My ˹watchful˺ Eye.",
+    "arabic1": "أَنِ ٱقْذِفِيهِ فِى ٱلتَّابُوتِ فَٱقْذِفِيهِ فِى ٱلْيَمِّ فَلْيُلْقِهِ ٱلْيَمُّ بِٱلسَّاحِلِ يَأْخُذْهُ عَدُوٌّ لِّى وَعَدُوٌّ لَّهُۥ ۚ وَأَلْقَيْتُ عَلَيْكَ مَحَبَّةً مِّنِّى وَلِتُصْنَعَ عَلَىٰ عَيْنِىٓ",
+    "arabic2": "ان اقذفيه في التابوت فاقذفيه في اليم فليلقه اليم بالساحل ياخذه عدو لي وعدو له والقيت عليك محبة مني ولتصنع على عيني",
+    "bengali": "‘যে, তুমি তাঁকে সিন্ধুকের মধ্যে রেখে দাও। তারপর তা দরিয়ায় ভাসিয়ে দাও। যেন দরিয়া তাকে তীরে ঠেলে দেয়। ফলে তাকে আমার শত্রু ও তার শত্রু নিয়ে নেবে। আর আমি আমার পক্ষ থেকে তোমার প্রতি ভালবাসা ঢেলে দিয়েছিলাম, যাতে তুমি আমার চোখের সামনে প্রতিপালিত হও’।",
+    "urdu": "(وہ یہ تھا) کہ اسے (یعنی موسیٰ کو) صندوق میں رکھو پھر اس (صندوق) کو دریا میں ڈال دو تو دریا اسے کنارے پر ڈال دے گا (اور) میرا اور اس کا دشمن اسے اٹھا لے گا۔ اور (موسیٰ) میں نے تم پر اپنی طرف سے محبت ڈال دی ہے (اس لئے کہ تم پر مہربانی کی جائے) اور اس لئے کہ تم میرے سامنے پرورش پاؤ"
+}

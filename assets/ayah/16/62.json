@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nahl",
+    "surahNameArabic": "النحل",
+    "surahNameArabicLong": "سورة النحل",
+    "surahNameTranslation": "The Bee",
+    "revelationPlace": "Mecca",
+    "totalAyah": 128,
+    "surahNo": 16,
+    "ayahNo": 62,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/16_62.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/016062.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/16_62.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/016062.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/16_62.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/016062.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/16_62.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/016062.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/16_62.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/016062.mp3"
+        }
+    },
+    "english": "They attribute to Allah what they hate ˹for themselves˺, and their tongues utter the lie that they will have the finest reward. Without a doubt, for them is the Fire, where they will be abandoned.",
+    "arabic1": "وَيَجْعَلُونَ لِلَّهِ مَا يَكْرَهُونَ وَتَصِفُ أَلْسِنَتُهُمُ ٱلْكَذِبَ أَنَّ لَهُمُ ٱلْحُسْنَىٰ ۖ لَا جَرَمَ أَنَّ لَهُمُ ٱلنَّارَ وَأَنَّهُم مُّفْرَطُونَ",
+    "arabic2": "ويجعلون لله ما يكرهون وتصف السنتهم الكذب ان لهم الحسنى لا جرم ان لهم النار وانهم مفرطون",
+    "bengali": "আর তারা যা অপছন্দ করে, তাই তারা আল্লাহর জন্য নির্ধারণ করে। তাদের জিহবা মিথ্যা বিবরণ দেয় যে, নিশ্চয় তাদের জন্য শুভ পরিণাম। সন্দেহ নেই যে, তাদের জন্য রয়েছে আগুন এবং নিশ্চয় তারা সর্বাগ্রে নিক্ষিপ্ত হবে।",
+    "urdu": "اور یہ خدا کے لیے ایسی چیزیں تجویز کرتے ہیں جن کو خود ناپسند کرتے ہیں اور زبان سے جھوٹ بکے جاتے ہیں کہ ان کو (قیامت کے دن) بھلائی (یعنی نجات) ہوگی۔ کچھ شک نہیں کہ ان کے لیے (دوزخ کی) آگ (تیار) ہے اور یہ (دوزخ میں) سب سے آگے بھیجے جائیں گے"
+}

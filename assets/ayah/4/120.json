@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 120,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/4_120.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/004120.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/4_120.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/004120.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/4_120.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/004120.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/4_120.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/004120.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/4_120.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/004120.mp3"
+        }
+    },
+    "english": "Satan only makes them ˹false˺ promises and deludes them with ˹empty˺ hopes. Truly Satan promises them nothing but delusion.",
+    "arabic1": "يَعِدُهُمْ وَيُمَنِّيهِمْ ۖ وَمَا يَعِدُهُمُ ٱلشَّيْطَـٰنُ إِلَّا غُرُورًا",
+    "arabic2": "يعدهم ويمنيهم وما يعدهم الشيطان الا غرورا",
+    "bengali": "সে তাদেরকে প্রতিশ্রুতি দেয় এবং তাদেরকে মিথ্যা আশ্বাস দেয়। আর শয়তান তাদেরকে কেবল প্রতারণামূলক প্রতিশ্রুতিই দেয়।",
+    "urdu": "وہ ان کو وعدے دیتا رہا اور امیدیں دلاتا ہے اور جو کچھ شیطان انہیں وعدے دیتا ہے جو دھوکا ہی دھوکا ہے"
+}

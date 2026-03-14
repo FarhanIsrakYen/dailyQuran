@@ -1,0 +1,42 @@
+{
+    "surahName": "Ghafir",
+    "surahNameArabic": "غافر",
+    "surahNameArabicLong": "سورة غافر",
+    "surahNameTranslation": "The Forgiver",
+    "revelationPlace": "Mecca",
+    "totalAyah": 85,
+    "surahNo": 40,
+    "ayahNo": 13,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/40_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/040013.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/40_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/040013.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/40_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/040013.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/40_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/040013.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/40_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/040013.mp3"
+        }
+    },
+    "english": "He is the One Who shows you His signs and sends down ˹rain as˺ a provision for you from the sky. ˹But˺ none will be mindful except those who turn ˹to Him˺.",
+    "arabic1": "هُوَ ٱلَّذِى يُرِيكُمْ ءَايَـٰتِهِۦ وَيُنَزِّلُ لَكُم مِّنَ ٱلسَّمَآءِ رِزْقًا ۚ وَمَا يَتَذَكَّرُ إِلَّا مَن يُنِيبُ",
+    "arabic2": "هو الذي يريكم اياته وينزل لكم من السماء رزقا وما يتذكر الا من ينيب",
+    "bengali": "তিনিই তোমাদেরকে তাঁর নিদর্শনাবলী দেখান এবং আকাশ থেকে তোমাদের জন্য রিযক পাঠান। আর যে আল্লাহ অভিমুখী সেই কেবল উপদেশ গ্রহণ করে থাকে।",
+    "urdu": "وہی تو ہے جو تم کو اپنی نشانیاں دکھاتا ہے اور تم پر آسمان سے رزق اُتارتا ہے۔ اور نصیحت تو وہی پکڑتا ہے جو (اس کی طرف) رجوع کرتا ہے"
+}

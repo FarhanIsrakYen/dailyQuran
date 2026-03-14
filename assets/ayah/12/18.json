@@ -1,0 +1,42 @@
+{
+    "surahName": "Yusuf",
+    "surahNameArabic": "يوسف",
+    "surahNameArabicLong": "سورة يوسف",
+    "surahNameTranslation": "Joseph",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 12,
+    "ayahNo": 18,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/12_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/012018.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/12_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/012018.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/12_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/012018.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/12_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/012018.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/12_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/012018.mp3"
+        }
+    },
+    "english": "And they brought his shirt, stained with false blood. He responded, “No! Your souls must have tempted you to do something ˹evil˺. So ˹I can only endure with˺ beautiful patience! It is Allah’s help that I seek to bear your claims.”",
+    "arabic1": "وَجَآءُو عَلَىٰ قَمِيصِهِۦ بِدَمٍ كَذِبٍ ۚ قَالَ بَلْ سَوَّلَتْ لَكُمْ أَنفُسُكُمْ أَمْرًا ۖ فَصَبْرٌ جَمِيلٌ ۖ وَٱللَّهُ ٱلْمُسْتَعَانُ عَلَىٰ مَا تَصِفُونَ",
+    "arabic2": "وجاءوا على قميصه بدم كذب قال بل سولت لكم انفسكم امرا فصبر جميل والله المستعان على ما تصفون",
+    "bengali": "আর তারা তার জামায় মিথ্যা রক্ত লাগিয়ে নিয়ে এসেছিল। সে বলল, ‘বরং তোমাদের নফস তোমাদের জন্য একটি গল্প সাজিয়েছে। সুতরাং (আমার করণীয় হচ্ছে) সুন্দর ধৈর্য। আর তোমরা যা বর্ণনা করছ সে বিষয়ে আল্লাহই সাহায্যস্থল’।",
+    "urdu": "اور ان کے کرتے پر جھوٹ موٹ کا لہو بھی لگا لائے۔ یعقوب نے کہا (کہ حقیقت حال یوں نہیں ہے) بلکہ تم اپنے دل سے (یہ) بات بنا لائے ہو۔ اچھا صبر (کہ وہی) خوب (ہے) اور جو تم بیان کرتے ہو اس کے بارے میں خدا ہی سے مدد مطلوب ہے"
+}

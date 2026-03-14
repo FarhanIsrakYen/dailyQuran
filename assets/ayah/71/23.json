@@ -1,0 +1,42 @@
+{
+    "surahName": "Nooh",
+    "surahNameArabic": "نوح",
+    "surahNameArabicLong": "سورة نوح",
+    "surahNameTranslation": "Noah",
+    "revelationPlace": "Mecca",
+    "totalAyah": 28,
+    "surahNo": 71,
+    "ayahNo": 23,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/71_23.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/071023.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/71_23.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/071023.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/71_23.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/071023.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/71_23.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/071023.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/71_23.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/071023.mp3"
+        }
+    },
+    "english": "urging ˹their followers˺, ‘Do not abandon your idols—especially Wadd, Suwâ’, Yaghûth, Ya’ûq, and Nasr.’",
+    "arabic1": "وَقَالُوا۟ لَا تَذَرُنَّ ءَالِهَتَكُمْ وَلَا تَذَرُنَّ وَدًّا وَلَا سُوَاعًا وَلَا يَغُوثَ وَيَعُوقَ وَنَسْرًا",
+    "arabic2": "وقالوا لا تذرن الهتكم ولا تذرن ودا ولا سواعا ولا يغوث ويعوق ونسرا",
+    "bengali": "আর তারা বলে, ‘তোমরা তোমাদের উপাস্যদের বর্জন করো না; বর্জন করো না ওয়াদ, সুওয়া‘, ইয়াগূছ, ইয়া‘ঊক ও নাসরকে’।",
+    "urdu": "اور کہنے لگے کہ اپنے معبودوں کو ہرگز نہ چھوڑنا اور ود اور سواع اور یغوث اور یعقوب اور نسر کو کبھی ترک نہ کرنا"
+}

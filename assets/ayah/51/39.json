@@ -1,0 +1,42 @@
+{
+    "surahName": "Adh-Dhaariyat",
+    "surahNameArabic": "الذاريات",
+    "surahNameArabicLong": "سورة الذاريات",
+    "surahNameTranslation": "The Winnowing Winds",
+    "revelationPlace": "Mecca",
+    "totalAyah": 60,
+    "surahNo": 51,
+    "ayahNo": 39,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/51_39.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/051039.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/51_39.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/051039.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/51_39.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/051039.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/51_39.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/051039.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/51_39.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/051039.mp3"
+        }
+    },
+    "english": "but Pharaoh was carried away by his power, saying ˹of Moses˺, “A magician or a madman!”",
+    "arabic1": "فَتَوَلَّىٰ بِرُكْنِهِۦ وَقَالَ سَـٰحِرٌ أَوْ مَجْنُونٌ",
+    "arabic2": "فتولى بركنه وقال ساحر او مجنون",
+    "bengali": "কিন্তু সে তার দলবলসহ মুখ ফিরিয়ে নিল এবং বলল, ‘এ ব্যক্তি যাদুকর অথবা উম্মাদ।’",
+    "urdu": "تو اس نے اپنی جماعت (کے گھمنڈ) پر منہ موڑ لیا اور کہنے لگا یہ تو جادوگر ہے یا دیوانہ"
+}

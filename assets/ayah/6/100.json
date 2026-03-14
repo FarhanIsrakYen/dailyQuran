@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 100,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/6_100.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/006100.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/6_100.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/006100.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/6_100.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/006100.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/6_100.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/006100.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/6_100.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/006100.mp3"
+        }
+    },
+    "english": "Yet they associate the jinn with Allah ˹in worship˺, even though He created them, and they falsely attribute to Him sons and daughters out of ignorance. Glorified and Exalted is He above what they claim!",
+    "arabic1": "وَجَعَلُوا۟ لِلَّهِ شُرَكَآءَ ٱلْجِنَّ وَخَلَقَهُمْ ۖ وَخَرَقُوا۟ لَهُۥ بَنِينَ وَبَنَـٰتٍۭ بِغَيْرِ عِلْمٍ ۚ سُبْحَـٰنَهُۥ وَتَعَـٰلَىٰ عَمَّا يَصِفُونَ",
+    "arabic2": "وجعلوا لله شركاء الجن وخلقهم وخرقوا له بنين وبنات بغير علم سبحانه وتعالى عما يصفون",
+    "bengali": "আর তারা জিনকে আল্লাহর জন্য শরীক সাব্যস্ত করেছে, অথচ তিনি তাদেরকে সৃষ্টি করেছেন। আর তারা অজ্ঞতাবশত মনগড়াভাবে নির্ধারণ করেছে তার জন্য পুত্র ও কন্যা সন্তান। তিনি পবিত্র মহান এবং তারা যা বিবরণ দেয় তা থেকে ঊর্ধ্বে।",
+    "urdu": "اور ان لوگوں نے جنوں کو خدا کا شریک ٹھہرایا۔ حالانکہ ان کو اسی نے پیدا کیا اور بےسمجھے (جھوٹ بہتان) اس کے لئے بیٹے اور بیٹیاں بنا کھڑی کیں وہ ان باتوں سے جو اس کی نسبت بیان کرتے ہیں پاک ہے اور (اس کی شان ان سے) بلند ہے"
+}

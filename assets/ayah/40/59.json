@@ -1,0 +1,42 @@
+{
+    "surahName": "Ghafir",
+    "surahNameArabic": "غافر",
+    "surahNameArabicLong": "سورة غافر",
+    "surahNameTranslation": "The Forgiver",
+    "revelationPlace": "Mecca",
+    "totalAyah": 85,
+    "surahNo": 40,
+    "ayahNo": 59,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/40_59.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/040059.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/40_59.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/040059.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/40_59.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/040059.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/40_59.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/040059.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/40_59.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/040059.mp3"
+        }
+    },
+    "english": "The Hour is certainly coming, there is no doubt about it. But most people do not believe.",
+    "arabic1": "إِنَّ ٱلسَّاعَةَ لَـَٔاتِيَةٌ لَّا رَيْبَ فِيهَا وَلَـٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يُؤْمِنُونَ",
+    "arabic2": "ان الساعة لاتية لا ريب فيها ولكن اكثر الناس لا يؤمنون",
+    "bengali": "নিশ্চয় কিয়ামত আসবেই, এতে কোন সন্দেহ নেই। কিন্তু অধিকাংশ লোক ঈমান আনে না।",
+    "urdu": "قیامت آنے والی ہے اس میں کچھ شک نہیں۔ لیکن اکثر لوگ ایمان نہیں رکھتے"
+}

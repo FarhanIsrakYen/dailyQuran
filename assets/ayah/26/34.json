@@ -1,0 +1,42 @@
+{
+    "surahName": "Ash-Shu'araa",
+    "surahNameArabic": "الشعراء",
+    "surahNameArabicLong": "سورة الشعراء",
+    "surahNameTranslation": "The Poets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 227,
+    "surahNo": 26,
+    "ayahNo": 34,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/26_34.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/026034.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/26_34.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/026034.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/26_34.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/026034.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/26_34.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/026034.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/26_34.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/026034.mp3"
+        }
+    },
+    "english": "Pharaoh said to the chiefs around him, “He is indeed a skilled magician",
+    "arabic1": "قَالَ لِلْمَلَإِ حَوْلَهُۥٓ إِنَّ هَـٰذَا لَسَـٰحِرٌ عَلِيمٌ",
+    "arabic2": "قال للملا حوله ان هذا لساحر عليم",
+    "bengali": "ফির‘আউন তার আশপাশের পারিষদদের উদ্দেশ্যে বলল, ‘এ তো এক বিজ্ঞ যাদুকর।’",
+    "urdu": "فرعون نے اپنے گرد کے سرداروں سے کہا کہ یہ تو کامل فن جادوگر ہے"
+}

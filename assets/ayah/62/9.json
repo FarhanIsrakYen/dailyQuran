@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Jumu'a",
+    "surahNameArabic": "الجمعة",
+    "surahNameArabicLong": "سورة الجمعة",
+    "surahNameTranslation": "Friday",
+    "revelationPlace": "Madina",
+    "totalAyah": 11,
+    "surahNo": 62,
+    "ayahNo": 9,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/62_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/062009.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/62_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/062009.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/62_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/062009.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/62_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/062009.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/62_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/062009.mp3"
+        }
+    },
+    "english": "O believers! When the call to prayer is made on Friday, then proceed ˹diligently˺ to the remembrance of Allah and leave off ˹your˺ business. That is best for you, if only you knew.",
+    "arabic1": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا نُودِىَ لِلصَّلَوٰةِ مِن يَوْمِ ٱلْجُمُعَةِ فَٱسْعَوْا۟ إِلَىٰ ذِكْرِ ٱللَّهِ وَذَرُوا۟ ٱلْبَيْعَ ۚ ذَٰلِكُمْ خَيْرٌ لَّكُمْ إِن كُنتُمْ تَعْلَمُونَ",
+    "arabic2": "يا ايها الذين امنوا اذا نودي للصلاة من يوم الجمعة فاسعوا الى ذكر الله وذروا البيع ذلكم خير لكم ان كنتم تعلمون",
+    "bengali": "হে মুমিনগণ, যখন জুমু‘আর দিনে সালাতের জন্য আহবান করা হয়, তখন তোমরা আল্লাহর স্মরণের দিকে ধাবিত হও। আর বেচা-কেনা বর্জন কর। এটাই তোমাদের জন্য সর্বোত্তম, যদি তোমরা জানতে।",
+    "urdu": "مومنو! جب جمعے کے دن نماز کے لئے اذان دی جائے تو خدا کی یاد (یعنی نماز) کے لئے جلدی کرو اور (خریدو) فروخت ترک کردو۔ اگر سمجھو تو یہ تمہارے حق میں بہتر ہے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 80,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/7_80.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/007080.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/7_80.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/007080.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/7_80.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/007080.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/7_80.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/007080.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/7_80.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/007080.mp3"
+        }
+    },
+    "english": "And ˹remember˺ when Lot scolded ˹the men of˺ his people, ˹saying,˺ “Do you commit a shameful deed that no man has ever done before?",
+    "arabic1": "وَلُوطًا إِذْ قَالَ لِقَوْمِهِۦٓ أَتَأْتُونَ ٱلْفَـٰحِشَةَ مَا سَبَقَكُم بِهَا مِنْ أَحَدٍ مِّنَ ٱلْعَـٰلَمِينَ",
+    "arabic2": "ولوطا اذ قال لقومه اتاتون الفاحشة ما سبقكم بها من احد من العالمين",
+    "bengali": "আর (প্রেরণ করেছি) লূতকে। যখন সে তার কওমকে বলল, ‘তোমরা কি এমন অশ্লীল কাজ করছ, যা তোমাদের পূর্বে সৃষ্টিকুলের কেউ করেনি’?",
+    "urdu": "اور اسی طرح جب ہم نے لوط کو (پیغمبر بنا کر بھیجا تو) اس وقت انہوں نے اپنی قوم سے کہا کہ تم ایسی بےحیائی کا کام کیوں کرتے ہو کہ تم سے اہل عالم میں سے کسی نے اس طرح کا کام نہیں کیا"
+}

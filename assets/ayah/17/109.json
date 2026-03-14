@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 109,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/17_109.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/017109.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/17_109.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/017109.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/17_109.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/017109.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/17_109.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/017109.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/17_109.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/017109.mp3"
+        }
+    },
+    "english": "And they fall down upon their faces weeping, and it increases them in humility.”",
+    "arabic1": "وَيَخِرُّونَ لِلْأَذْقَانِ يَبْكُونَ وَيَزِيدُهُمْ خُشُوعًا ۩",
+    "arabic2": "ويخرون للاذقان يبكون ويزيدهم خشوعا",
+    "bengali": "‘আর তারা কাঁদতে কাঁদতে লুটিয়ে পড়ে এবং এটা তাদের বিনয় বৃদ্ধি করে’।[সাজদাহ]",
+    "urdu": "اور وہ تھوڑیوں کے بل گر پڑتے ہیں (اور) روتے جاتے ہیں اور اس سے ان کو اور زیادہ عاجزی پیدا ہوتی ہے"
+}

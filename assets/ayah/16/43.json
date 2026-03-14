@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nahl",
+    "surahNameArabic": "النحل",
+    "surahNameArabicLong": "سورة النحل",
+    "surahNameTranslation": "The Bee",
+    "revelationPlace": "Mecca",
+    "totalAyah": 128,
+    "surahNo": 16,
+    "ayahNo": 43,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/16_43.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/016043.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/16_43.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/016043.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/16_43.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/016043.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/16_43.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/016043.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/16_43.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/016043.mp3"
+        }
+    },
+    "english": "We did not send ˹messengers˺ before you ˹O Prophet˺ except mere men inspired by Us. If you ˹polytheists˺ do not know ˹this already˺, then ask those who have knowledge ˹of the Scriptures˺.",
+    "arabic1": "وَمَآ أَرْسَلْنَا مِن قَبْلِكَ إِلَّا رِجَالًا نُّوحِىٓ إِلَيْهِمْ ۚ فَسْـَٔلُوٓا۟ أَهْلَ ٱلذِّكْرِ إِن كُنتُمْ لَا تَعْلَمُونَ",
+    "arabic2": "وما ارسلنا من قبلك الا رجالا نوحي اليهم فاسالوا اهل الذكر ان كنتم لا تعلمون",
+    "bengali": "আর আমি তোমার পূর্বে কেবল পুরুষদেরকেই রাসূল হিসেবে প্রেরণ করেছি, যাদের প্রতি আমি ওহী পাঠিয়েছি। সুতরাং জ্ঞানীদের জিজ্ঞাসা কর, যদি তোমরা না জানো।",
+    "urdu": "اور ہم نے تم سے پہلے مردوں ہی کو پیغمبر بنا کر بھیجا تھا جن کی طرف ہم وحی بھیجا کرتے تھے اگر تم لوگ نہیں جانتے تو اہل کتاب سے پوچھ لو"
+}

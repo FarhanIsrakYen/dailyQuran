@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 216,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_216.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002216.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_216.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002216.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_216.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002216.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_216.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002216.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_216.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002216.mp3"
+        }
+    },
+    "english": "Fighting has been made obligatory upon you ˹believers˺, though you dislike it. Perhaps you dislike something which is good for you and like something which is bad for you. Allah knows and you do not know.",
+    "arabic1": "كُتِبَ عَلَيْكُمُ ٱلْقِتَالُ وَهُوَ كُرْهٌ لَّكُمْ ۖ وَعَسَىٰٓ أَن تَكْرَهُوا۟ شَيْـًٔا وَهُوَ خَيْرٌ لَّكُمْ ۖ وَعَسَىٰٓ أَن تُحِبُّوا۟ شَيْـًٔا وَهُوَ شَرٌّ لَّكُمْ ۗ وَٱللَّهُ يَعْلَمُ وَأَنتُمْ لَا تَعْلَمُونَ",
+    "arabic2": "كتب عليكم القتال وهو كره لكم وعسى ان تكرهوا شيئا وهو خير لكم وعسى ان تحبوا شيئا وهو شر لكم والله يعلم وانتم لا تعلمون",
+    "bengali": "তোমাদের উপর লড়াইয়ের বিধান দেয়া হয়েছে, অথচ তা তোমাদের কাছে অপছন্দনীয় এবং হতে পারে কোন বিষয় তোমরা অপছন্দ করছ অথচ তা তোমাদের জন্য কল্যাণকর। আর হতে পারে কোন বিষয় তোমরা পছন্দ করছ অথচ তা তোমাদের জন্য অকল্যাণকর। আর আল্লাহ জানেন এবং তোমরা জান না।",
+    "urdu": "(مسلمانو) تم پر (خدا کے رستے میں) لڑنا فرض کردیا گیا ہے وہ تمہیں ناگوار تو ہوگا مگر عجب نہیں کہ ایک چیز تم کو بری لگے اور وہ تمہارے حق میں بھلی ہو اور عجب نہیں کہ ایک چیز تم کو بھلی لگے اور وہ تمہارے لئے مضر ہو۔ اور ان باتوں کو) خدا ہی بہتر جانتا ہے اور تم نہیں جانتے"
+}

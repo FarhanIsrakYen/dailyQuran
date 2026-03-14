@@ -1,0 +1,42 @@
+{
+    "surahName": "Ash-Sharh",
+    "surahNameArabic": "الشرح",
+    "surahNameArabicLong": "سورة الشرح",
+    "surahNameTranslation": "The Consolation",
+    "revelationPlace": "Mecca",
+    "totalAyah": 8,
+    "surahNo": 94,
+    "ayahNo": 5,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/94_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/094005.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/94_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/094005.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/94_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/094005.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/94_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/094005.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/94_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/094005.mp3"
+        }
+    },
+    "english": "So, surely with hardship comes ease.",
+    "arabic1": "فَإِنَّ مَعَ ٱلْعُسْرِ يُسْرًا",
+    "arabic2": "فان مع العسر يسرا",
+    "bengali": "সুতরাং কষ্টের সাথেই রয়েছে সুখ।",
+    "urdu": "ہاں ہاں مشکل کے ساتھ آسانی بھی ہے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Ar-Ra'd",
+    "surahNameArabic": "الرعد",
+    "surahNameArabicLong": "سورة الرعد",
+    "surahNameTranslation": "The Thunder",
+    "revelationPlace": "Madina",
+    "totalAyah": 43,
+    "surahNo": 13,
+    "ayahNo": 3,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/13_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/013003.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/13_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/013003.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/13_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/013003.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/13_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/013003.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/13_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/013003.mp3"
+        }
+    },
+    "english": "And He is the One Who spread out the earth and placed firm mountains and rivers upon it, and created fruits of every kind in pairs. He covers the day with night. Surely in this are signs for those who reflect.",
+    "arabic1": "وَهُوَ ٱلَّذِى مَدَّ ٱلْأَرْضَ وَجَعَلَ فِيهَا رَوَٰسِىَ وَأَنْهَـٰرًا ۖ وَمِن كُلِّ ٱلثَّمَرَٰتِ جَعَلَ فِيهَا زَوْجَيْنِ ٱثْنَيْنِ ۖ يُغْشِى ٱلَّيْلَ ٱلنَّهَارَ ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍ لِّقَوْمٍ يَتَفَكَّرُونَ",
+    "arabic2": "وهو الذي مد الارض وجعل فيها رواسي وانهارا ومن كل الثمرات جعل فيها زوجين اثنين يغشي الليل النهار ان في ذلك لايات لقوم يتفكرون",
+    "bengali": "আর তিনিই যমীনকে বিস্তৃত করেছেন এবং তাতে সুদৃঢ় পর্বতমালা ও নদ-নদী স্থাপন করেছেন। আর প্রত্যেক প্রকারের ফল তিনি জোড়া জোড়া করে সৃষ্টি করেছেন। তিনি রাত দ্বারা দিনকে ঢেকে দেন। নিশ্চয় যে কওম চিন্তাভাবনা করে তাদের জন্য এতে নিদর্শনাবলী রয়েছে।",
+    "urdu": "اور وہ وہی ہے جس نے زمین کو پھیلایا اور اس میں پہاڑ اور دریا پیدا کئے اور ہر طرح کے میوؤں کی دو دو قسمیں بنائیں۔ وہی رات کو دن کا لباس پہناتا ہے۔ غور کرنے والوں کے لیے اس میں بہت سی نشانیاں ہیں"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Yaseen",
+    "surahNameArabic": "يس",
+    "surahNameArabicLong": "سورة يس",
+    "surahNameTranslation": "Yaseen",
+    "revelationPlace": "Mecca",
+    "totalAyah": 83,
+    "surahNo": 36,
+    "ayahNo": 6,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/36_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/036006.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/36_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/036006.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/36_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/036006.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/36_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/036006.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/36_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/036006.mp3"
+        }
+    },
+    "english": "so that you may warn a people whose forefathers were not warned, and so are heedless.",
+    "arabic1": "لِتُنذِرَ قَوْمًا مَّآ أُنذِرَ ءَابَآؤُهُمْ فَهُمْ غَـٰفِلُونَ",
+    "arabic2": "لتنذر قوما ما انذر اباؤهم فهم غافلون",
+    "bengali": "যাতে তুমি এমন এক কওমকে সতর্ক কর, যাদের পিতৃপুরুষদেরকে সতর্ক করা হয়নি, কাজেই তারা উদাসীন।",
+    "urdu": "تاکہ تم ان لوگوں کو جن کے باپ دادا کو متنبہ نہیں کیا گیا تھا متنبہ کردو وہ غفلت میں پڑے ہوئے ہیں"
+}

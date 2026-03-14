@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 188,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_188.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002188.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_188.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002188.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_188.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002188.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_188.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002188.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_188.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002188.mp3"
+        }
+    },
+    "english": "Do not consume one another’s wealth unjustly, nor deliberately bribe authorities in order to devour a portion of others’ property, knowing that it is a sin.",
+    "arabic1": "وَلَا تَأْكُلُوٓا۟ أَمْوَٰلَكُم بَيْنَكُم بِٱلْبَـٰطِلِ وَتُدْلُوا۟ بِهَآ إِلَى ٱلْحُكَّامِ لِتَأْكُلُوا۟ فَرِيقًا مِّنْ أَمْوَٰلِ ٱلنَّاسِ بِٱلْإِثْمِ وَأَنتُمْ تَعْلَمُونَ",
+    "arabic2": "ولا تاكلوا اموالكم بينكم بالباطل وتدلوا بها الى الحكام لتاكلوا فريقا من اموال الناس بالاثم وانتم تعلمون",
+    "bengali": "আর তোমরা নিজদের মধ্যে তোমাদের সম্পদ অন্যায়ভাবে খেয়ো না এবং তা বিচারকদেরকে (ঘুষ হিসেবে) প্রদান করো না। যাতে মানুষের সম্পদের কোন অংশ পাপের মাধ্যমে জেনে বুঝে খেয়ে ফেলতে পার।",
+    "urdu": "اور ایک دوسرے کا مال ناحق نہ کھاؤ اورنہ اس کو (رشوةً) حاکموں کے پاس پہنچاؤ تاکہ لوگوں کے مال کا کچھ حصہ ناجائز طور پر کھا جاؤ اور (اسے) تم جانتے بھی ہو"
+}

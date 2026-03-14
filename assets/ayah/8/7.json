@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Anfaal",
+    "surahNameArabic": "الأنفال",
+    "surahNameArabicLong": "سورة الأنفال",
+    "surahNameTranslation": "The Spoils of War",
+    "revelationPlace": "Madina",
+    "totalAyah": 75,
+    "surahNo": 8,
+    "ayahNo": 7,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/8_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/008007.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/8_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/008007.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/8_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/008007.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/8_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/008007.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/8_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/008007.mp3"
+        }
+    },
+    "english": "˹Remember, O  believers,˺ when Allah promised ˹to give˺ you the upper hand over either target, you wished to capture the unarmed party. But it was Allah’s Will to establish the truth by His Words and uproot the disbelievers;",
+    "arabic1": "وَإِذْ يَعِدُكُمُ ٱللَّهُ إِحْدَى ٱلطَّآئِفَتَيْنِ أَنَّهَا لَكُمْ وَتَوَدُّونَ أَنَّ غَيْرَ ذَاتِ ٱلشَّوْكَةِ تَكُونُ لَكُمْ وَيُرِيدُ ٱللَّهُ أَن يُحِقَّ ٱلْحَقَّ بِكَلِمَـٰتِهِۦ وَيَقْطَعَ دَابِرَ ٱلْكَـٰفِرِينَ",
+    "arabic2": "واذ يعدكم الله احدى الطائفتين انها لكم وتودون ان غير ذات الشوكة تكون لكم ويريد الله ان يحق الحق بكلماته ويقطع دابر الكافرين",
+    "bengali": "আর স্মরণ কর, যখন আল্লাহ তোমাদেরকে দু’দলের একটির ওয়াদা দিয়েছিলেন যে, নিশ্চয় তা তোমাদের জন্য হবে। আর তোমরা কামনা করছিলে যে, অস্ত্রহীন দলটি তোমাদের জন্য হবে এবং আল্লাহ চাচ্ছিলেন তাঁর কালেমাসমূহ দ্বারা সত্যকে সত্য প্রমাণ করবেন এবং কাফেরদের মূল কেটে দেবেন।",
+    "urdu": "اور (اس وقت کو یاد کرو) جب خدا تم سے وعدہ کرتا تھا کہ (ابوسفیان اور ابوجہل کے) دو گروہوں میں سے ایک گروہ تمہارا (مسخر) ہوجائے گا۔ اور تم چاہتے تھے کہ جو قافلہ بے (شان و) شوکت (یعنی بے ہتھیار ہے) وہ تمہارے ہاتھ آجائے اور خدا چاہتا تھا کہ اپنے فرمان سے حق کو قائم رکھے اور کافروں کی جڑ کاٹ کر (پھینک) دے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Ar-Ra'd",
+    "surahNameArabic": "الرعد",
+    "surahNameArabicLong": "سورة الرعد",
+    "surahNameTranslation": "The Thunder",
+    "revelationPlace": "Madina",
+    "totalAyah": 43,
+    "surahNo": 13,
+    "ayahNo": 16,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/13_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/013016.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/13_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/013016.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/13_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/013016.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/13_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/013016.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/13_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/013016.mp3"
+        }
+    },
+    "english": "Ask ˹them, O  Prophet˺, “Who is the Lord of the heavens and the earth?” Say, “Allah!” Ask ˹them˺, “Why ˹then˺ have you taken besides Him lords who cannot even benefit or protect themselves?” Say, “Can the blind and the sighted be equal? Or can darkness and light be equal?” Or have they associated with Allah partners who ˹supposedly˺ produced a creation like His, leaving them confused between the two creations? Say, “Allah is the Creator of all things, and He is the One, the Supreme.”",
+    "arabic1": "قُلْ مَن رَّبُّ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ قُلِ ٱللَّهُ ۚ قُلْ أَفَٱتَّخَذْتُم مِّن دُونِهِۦٓ أَوْلِيَآءَ لَا يَمْلِكُونَ لِأَنفُسِهِمْ نَفْعًا وَلَا ضَرًّا ۚ قُلْ هَلْ يَسْتَوِى ٱلْأَعْمَىٰ وَٱلْبَصِيرُ أَمْ هَلْ تَسْتَوِى ٱلظُّلُمَـٰتُ وَٱلنُّورُ ۗ أَمْ جَعَلُوا۟ لِلَّهِ شُرَكَآءَ خَلَقُوا۟ كَخَلْقِهِۦ فَتَشَـٰبَهَ ٱلْخَلْقُ عَلَيْهِمْ ۚ قُلِ ٱللَّهُ خَـٰلِقُ كُلِّ شَىْءٍ وَهُوَ ٱلْوَٰحِدُ ٱلْقَهَّـٰرُ",
+    "arabic2": "قل من رب السماوات والارض قل الله قل افاتخذتم من دونه اولياء لا يملكون لانفسهم نفعا ولا ضرا قل هل يستوي الاعمى والبصير ام هل تستوي الظلمات والنور ام جعلوا لله شركاء خلقوا كخلقه فتشابه الخلق عليهم قل الله خالق كل شيء وهو الواحد القهار",
+    "bengali": "বল, ‘আসমানসমূহ ও যমীনের রব কে’? বল, ‘আল্লাহ’। তুমি বল, ‘তোমরা কি তাঁকে ছাড়া এমন কিছুকে অভিভাবক হিসেবে গ্রহণ করেছ, যারা তাদের নিজদের কোন উপকার অথবা অপকারের মালিক না’? বল, ‘অন্ধ ও দৃষ্টিমান ব্যক্তি কি সমান হতে পারে? নাকি অন্ধকার ও আলো সমান হতে পারে? নাকি তারা আল্লাহর জন্য এমন কতগুলো শরীক নির্ধারণ করেছে, যেগুলো তাঁর সৃষ্টির তুল্য কিছু সৃষ্টি করেছে, ফলে তাদের নিকট সৃষ্টির বিষয়টি একরকম মনে হয়েছে’? বল, ‘আল্লাহই সবকিছুর সৃষ্টিকর্তা এবং তিনি এক, একচ্ছত্র ক্ষমতাধর’।",
+    "urdu": "ان سے پوچھو کہ آسمانوں اور زمین کا پروردگار کون ہے؟ (تم ہی ان کی طرف سے) کہہ دو کہ خدا۔ پھر (ان سے) کہو کہ تم نے خدا کو چھوڑ کر ایسے لوگوں کو کیوں کارساز بنایا ہے جو خود اپنے نفع ونقصان کا بھی اختیار نہیں رکھتے (یہ بھی) پوچھو کیا اندھا اور آنکھوں والا برابر ہیں؟ یا اندھیرا اور اُجالا برابر ہوسکتا ہے؟ بھلا ان لوگوں نے جن کو خدا کا شریک مقرر کیا ہے۔ کیا انہوں نے خدا کی سی مخلوقات پیدا کی ہے جس کے سبب ان کو مخلوقات مشتبہ ہوگئی ہے۔ کہہ دو کہ خدا ہی ہر چیز کا پیدا کرنے والا ہے اور وہ یکتا (اور) زبردست ہے"
+}

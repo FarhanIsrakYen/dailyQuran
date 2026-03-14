@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 78,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/6_78.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/006078.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/6_78.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/006078.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/6_78.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/006078.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/6_78.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/006078.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/6_78.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/006078.mp3"
+        }
+    },
+    "english": "Then when he saw the sun shining, he said, “This must be my Lord—it is the greatest!” But again when it set, he declared, “O my people! I totally reject whatever you associate ˹with Allah in worship˺.",
+    "arabic1": "فَلَمَّا رَءَا ٱلشَّمْسَ بَازِغَةً قَالَ هَـٰذَا رَبِّى هَـٰذَآ أَكْبَرُ ۖ فَلَمَّآ أَفَلَتْ قَالَ يَـٰقَوْمِ إِنِّى بَرِىٓءٌ مِّمَّا تُشْرِكُونَ",
+    "arabic2": "فلما راى الشمس بازغة قال هذا ربي هذا اكبر فلما افلت قال يا قوم اني بريء مما تشركون",
+    "bengali": "অতঃপর যখন সে সূর্য উজ্জ্বলরূপে উদীয়মান দেখল, বলল, ‘এ আমার রব, এ সবচেয়ে বড়’। পরে যখন তা ডুবে গেল, তখন সে বলল, ‘হে আমার কওম, তোমরা যা শরীক কর, নিশ্চয় আমি তা থেকে মুক্ত’।",
+    "urdu": "پھر جب سورج کو دیکھا کہ جگمگا رہا ہے تو کہنے لگے میرا پروردگار یہ ہے یہ سب سے بڑا ہے۔ مگر جب وہ بھی غروب ہوگیا تو کہنے لگے لوگو! جن چیزوں کو تم (خدا کا) شریک بناتے ہو میں ان سے بیزار ہوں"
+}

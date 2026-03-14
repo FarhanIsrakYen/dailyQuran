@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 104,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/9_104.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/009104.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/9_104.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/009104.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/9_104.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/009104.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/9_104.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/009104.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/9_104.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/009104.mp3"
+        }
+    },
+    "english": "Do they not know that Allah alone accepts the repentance of His servants and receives ˹their˺ charity, and that Allah alone is the Accepter of Repentance, Most Merciful?",
+    "arabic1": "أَلَمْ يَعْلَمُوٓا۟ أَنَّ ٱللَّهَ هُوَ يَقْبَلُ ٱلتَّوْبَةَ عَنْ عِبَادِهِۦ وَيَأْخُذُ ٱلصَّدَقَـٰتِ وَأَنَّ ٱللَّهَ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+    "arabic2": "الم يعلموا ان الله هو يقبل التوبة عن عباده وياخذ الصدقات وان الله هو التواب الرحيم",
+    "bengali": "তারা কি জানে না যে, নিশ্চয় আল্লাহ তাঁর বান্দাদের তাওবা কবূল করেন এবং সদাকা গ্রহণ করেন। আর নিশ্চয় আল্লাহ তাওবা কবূলকারী, পরম দয়ালু।",
+    "urdu": "کیا یہ لوگ نہیں جانتے کہ خدا ہی اپنے بندوں سے توبہ قبول فرماتا ہے اور صدقات (وخیرات) لیتا ہے اور بےشک خدا ہی توبہ قبول کرنے والا مہربان ہے"
+}

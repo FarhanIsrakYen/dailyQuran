@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 125,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/7_125.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/007125.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/7_125.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/007125.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/7_125.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/007125.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/7_125.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/007125.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/7_125.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/007125.mp3"
+        }
+    },
+    "english": "They responded, “Surely to our Lord we will ˹all˺ return.",
+    "arabic1": "قَالُوٓا۟ إِنَّآ إِلَىٰ رَبِّنَا مُنقَلِبُونَ",
+    "arabic2": "قالوا انا الى ربنا منقلبون",
+    "bengali": "তারা বলল, ‘নিশ্চয় আমরা আমাদের রবের কাছে প্রত্যাবর্তন করব।",
+    "urdu": "وہ بولے کہ ہم تو اپنے پروردگار کی طرف لوٹ کر جانے والے ہیں"
+}

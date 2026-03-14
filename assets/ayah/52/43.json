@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Tur",
+    "surahNameArabic": "الطور",
+    "surahNameArabicLong": "سورة الطور",
+    "surahNameTranslation": "The Mount",
+    "revelationPlace": "Mecca",
+    "totalAyah": 49,
+    "surahNo": 52,
+    "ayahNo": 43,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/52_43.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/052043.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/52_43.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/052043.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/52_43.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/052043.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/52_43.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/052043.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/52_43.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/052043.mp3"
+        }
+    },
+    "english": "Or do they have a god other than Allah? Glorified is Allah far above what they associate ˹with Him˺!",
+    "arabic1": "أَمْ لَهُمْ إِلَـٰهٌ غَيْرُ ٱللَّهِ ۚ سُبْحَـٰنَ ٱللَّهِ عَمَّا يُشْرِكُونَ",
+    "arabic2": "ام لهم اله غير الله سبحان الله عما يشركون",
+    "bengali": "নাকি তাদের জন্য আল্লাহ ছাড়া অন্য ইলাহ আছে? তারা যে শিরক করে তা থেকে আল্লাহ পবিত্র।",
+    "urdu": "کیا خدا کے سوا ان کا کوئی اور معبود ہے؟ خدا ان کے شریک بنانے سے پاک ہے"
+}

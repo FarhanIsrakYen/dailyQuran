@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Ankaboot",
+    "surahNameArabic": "العنكبوت",
+    "surahNameArabicLong": "سورة العنكبوت",
+    "surahNameTranslation": "The Spider",
+    "revelationPlace": "Mecca",
+    "totalAyah": 69,
+    "surahNo": 29,
+    "ayahNo": 43,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/29_43.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/029043.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/29_43.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/029043.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/29_43.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/029043.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/29_43.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/029043.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/29_43.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/029043.mp3"
+        }
+    },
+    "english": "These are the parables We set forth for humanity, but none will understand them except the people of knowledge.",
+    "arabic1": "وَتِلْكَ ٱلْأَمْثَـٰلُ نَضْرِبُهَا لِلنَّاسِ ۖ وَمَا يَعْقِلُهَآ إِلَّا ٱلْعَـٰلِمُونَ",
+    "arabic2": "وتلك الامثال نضربها للناس وما يعقلها الا العالمون",
+    "bengali": "আর এসব দৃষ্টান্ত আমি মানুষের জন্য পেশ করি; আর জ্ঞানী লোকেরা ছাড়া কেউ তা বুঝে না।",
+    "urdu": "اور یہ مثالیں ہم لوگوں کے (سمجھانے کے) لئے بیان کرتے ہیں اور اُسے تو اہلِ دانش ہی سمجھتے ہیں"
+}

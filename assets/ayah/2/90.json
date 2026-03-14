@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 90,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_90.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002090.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_90.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002090.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_90.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002090.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_90.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002090.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_90.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002090.mp3"
+        }
+    },
+    "english": "Miserable is the price they have sold their souls for—denying Allah’s revelation and resenting Allah for granting His grace to whoever He wills of His servants! They have earned wrath upon wrath. And such disbelievers will suffer a humiliating punishment.",
+    "arabic1": "بِئْسَمَا ٱشْتَرَوْا۟ بِهِۦٓ أَنفُسَهُمْ أَن يَكْفُرُوا۟ بِمَآ أَنزَلَ ٱللَّهُ بَغْيًا أَن يُنَزِّلَ ٱللَّهُ مِن فَضْلِهِۦ عَلَىٰ مَن يَشَآءُ مِنْ عِبَادِهِۦ ۖ فَبَآءُو بِغَضَبٍ عَلَىٰ غَضَبٍ ۚ وَلِلْكَـٰفِرِينَ عَذَابٌ مُّهِينٌ",
+    "arabic2": "بئسما اشتروا به انفسهم ان يكفروا بما انزل الله بغيا ان ينزل الله من فضله على من يشاء من عباده فباءوا بغضب على غضب وللكافرين عذاب مهين",
+    "bengali": "যার বিনিময়ে তারা নিজদেরকে বিক্রয় করেছে তা কত জঘন্য (তা এই) যে, আল্লাহ যা নাযিল করেছেন তা তারা অস্বীকার করেছে এই জিদের বশবর্তী হয়ে যে, আল্লাহ তাঁর বান্দাদের মধ্য থেকে যাকে ইচ্ছা তার উপর তাঁর অনুগ্রহ নাযিল করেছেন। সুতরাং তারা ক্রোধের উপর ক্রোধের অধিকারী হল। আর কাফিরদের জন্য রয়েছে লাঞ্ছনাকর আযাব।",
+    "urdu": "جس چیز کے بدلے انہوں نے اپنے تئیں بیچ ڈالا، وہ بہت بری ہے، یعنی اس جلن سے کہ خدا اپنے بندوں میں جس پر چاہتا ہے، اپنی مہربانی سے نازل فرماتا ہے۔ خدا کی نازل کی ہوئی کتاب سے کفر کرنے لگے تو وہ (اس کے) غضب بالائے غضب میں مبتلا ہو گئے۔ اور کافروں کے لیے ذلیل کرنے والا عذاب ہے"
+}

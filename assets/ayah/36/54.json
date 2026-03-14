@@ -1,0 +1,42 @@
+{
+    "surahName": "Yaseen",
+    "surahNameArabic": "يس",
+    "surahNameArabicLong": "سورة يس",
+    "surahNameTranslation": "Yaseen",
+    "revelationPlace": "Mecca",
+    "totalAyah": 83,
+    "surahNo": 36,
+    "ayahNo": 54,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/36_54.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/036054.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/36_54.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/036054.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/36_54.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/036054.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/36_54.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/036054.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/36_54.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/036054.mp3"
+        }
+    },
+    "english": "On that Day no soul will be wronged in the least, nor will you be rewarded except for what you used to do.",
+    "arabic1": "فَٱلْيَوْمَ لَا تُظْلَمُ نَفْسٌ شَيْـًٔا وَلَا تُجْزَوْنَ إِلَّا مَا كُنتُمْ تَعْمَلُونَ",
+    "arabic2": "فاليوم لا تظلم نفس شيئا ولا تجزون الا ما كنتم تعملون",
+    "bengali": "সুতরাং আজ কাউকেই কোন যুলম করা হবে না এবং তোমরা যা আমল করছিলে শুধু তারই প্রতিদান তোমাদের দেয়া হবে।",
+    "urdu": "اس روز کسی شخص پر کچھ ظلم نہیں کیا جائے گا اور تم کو بدلہ ویسا ہی ملے گا جیسے تم کام کرتے تھے"
+}

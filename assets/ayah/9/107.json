@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 107,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/9_107.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/009107.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/9_107.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/009107.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/9_107.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/009107.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/9_107.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/009107.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/9_107.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/009107.mp3"
+        }
+    },
+    "english": "There are also those ˹hypocrites˺ who set up a mosque ˹only˺ to cause harm, promote disbelief, divide the believers, and as a base for those who had previously fought against Allah and His Messenger. They will definitely swear, “We intended nothing but good,” but Allah bears witness that they are surely liars.",
+    "arabic1": "وَٱلَّذِينَ ٱتَّخَذُوا۟ مَسْجِدًا ضِرَارًا وَكُفْرًا وَتَفْرِيقًۢا بَيْنَ ٱلْمُؤْمِنِينَ وَإِرْصَادًا لِّمَنْ حَارَبَ ٱللَّهَ وَرَسُولَهُۥ مِن قَبْلُ ۚ وَلَيَحْلِفُنَّ إِنْ أَرَدْنَآ إِلَّا ٱلْحُسْنَىٰ ۖ وَٱللَّهُ يَشْهَدُ إِنَّهُمْ لَكَـٰذِبُونَ",
+    "arabic2": "والذين اتخذوا مسجدا ضرارا وكفرا وتفريقا بين المؤمنين وارصادا لمن حارب الله ورسوله من قبل وليحلفن ان اردنا الا الحسنى والله يشهد انهم لكاذبون",
+    "bengali": "আর যারা মসজিদ বানিয়েছে ক্ষতিসাধন, কুফরী ও মুমিনদের মধ্যে বিভেদ সৃষ্টির উদ্দেশ্যে এবং ইতঃপূর্বে আল্লাহ ও তাঁর রাসূলের বিরুদ্ধে যে লড়াই করেছে তার ঘাঁটি হিসেবে। আর তারা অবশ্যই শপথ করবে যে, ‘আমরা কেবল ভাল চেয়েছি’। আর আল্লাহ সাক্ষ্য দিচ্ছেন যে, তারা অবশ্যই মিথ্যাবাদী।",
+    "urdu": "اور (ان میں سے ایسے بھی ہیں) جنہوں نے اس غرض سے مسجد بنوائی کہ ضرر پہنچائیں اور کفر کریں اور مومنوں میں تفرقہ ڈالیں اور جو لوگ خدا اور اس کے رسول سے پہلے جنگ کرچکے ہیں ان کے لیے گھات کی جگہ بنائیں۔ اور قسمیں کھائیں گے کہ ہمارا مقصود تو صرف بھلائی تھی۔ مگر خدا گواہی دیتا ہے کہ یہ جھوٹے ہیں"
+}

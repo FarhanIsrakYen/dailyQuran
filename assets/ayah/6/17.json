@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 17,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/6_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/006017.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/6_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/006017.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/6_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/006017.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/6_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/006017.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/6_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/006017.mp3"
+        }
+    },
+    "english": "If Allah touches you with harm, none can undo it except Him. And if He touches you with a blessing, He is Most Capable of everything.",
+    "arabic1": "وَإِن يَمْسَسْكَ ٱللَّهُ بِضُرٍّ فَلَا كَاشِفَ لَهُۥٓ إِلَّا هُوَ ۖ وَإِن يَمْسَسْكَ بِخَيْرٍ فَهُوَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+    "arabic2": "وان يمسسك الله بضر فلا كاشف له الا هو وان يمسسك بخير فهو على كل شيء قدير",
+    "bengali": "আর যদি আল্লাহ তোমাকে কোন দুর্দশা দ্বারা স্পর্শ করেন, তবে তিনি ছাড়া তা দূরকারী কেউ নেই। আর যদি কোন কল্যাণ দ্বারা স্পর্শ করেন তবে তিনিই তো সব কিছুর উপর ক্ষমতাবান।",
+    "urdu": "اور اگر خدا تم کو کوئی سختی پہنچائے تو اس کے سوا اس کو کوئی دور کرنے والا نہیں اور اگر نعمت (وراحت) عطا کرے تو (کوئی اس کو روکنے والا نہیں) وہ ہر چیز پر قادر ہے"
+}

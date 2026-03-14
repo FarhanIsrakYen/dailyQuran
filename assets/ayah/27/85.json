@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Naml",
+    "surahNameArabic": "النمل",
+    "surahNameArabicLong": "سورة النمل",
+    "surahNameTranslation": "The Ant",
+    "revelationPlace": "Mecca",
+    "totalAyah": 93,
+    "surahNo": 27,
+    "ayahNo": 85,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/27_85.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/027085.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/27_85.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/027085.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/27_85.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/027085.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/27_85.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/027085.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/27_85.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/027085.mp3"
+        }
+    },
+    "english": "And the decree ˹of torment˺ will be justified against them for their wrongdoing, leaving them speechless.",
+    "arabic1": "وَوَقَعَ ٱلْقَوْلُ عَلَيْهِم بِمَا ظَلَمُوا۟ فَهُمْ لَا يَنطِقُونَ",
+    "arabic2": "ووقع القول عليهم بما ظلموا فهم لا ينطقون",
+    "bengali": "আর তাদের উপর বাণী (আযাব) বাস্তবায়িত হবে। কারণ তারা যুলম করেছিল। ফলে তারা কথা বলতে পারবে না।",
+    "urdu": "اور اُن کے ظلم کے سبب اُن کے حق میں وعدہ (عذاب) پورا ہوکر رہے گا تو وہ بول بھی نہ سکیں گے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 69,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/17_69.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/017069.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/17_69.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/017069.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/17_69.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/017069.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/17_69.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/017069.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/17_69.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/017069.mp3"
+        }
+    },
+    "english": "Or do you feel secure that He will not send you back to sea once again, and send upon you a violent storm, drowning you for your denial? Then you will find none to avenge you against Us.",
+    "arabic1": "أَمْ أَمِنتُمْ أَن يُعِيدَكُمْ فِيهِ تَارَةً أُخْرَىٰ فَيُرْسِلَ عَلَيْكُمْ قَاصِفًا مِّنَ ٱلرِّيحِ فَيُغْرِقَكُم بِمَا كَفَرْتُمْ ۙ ثُمَّ لَا تَجِدُوا۟ لَكُمْ عَلَيْنَا بِهِۦ تَبِيعًا",
+    "arabic2": "ام امنتم ان يعيدكم فيه تارة اخرى فيرسل عليكم قاصفا من الريح فيغرقكم بما كفرتم ثم لا تجدوا لكم علينا به تبيعا",
+    "bengali": "অথবা তোমরা কি নিরাপদ হয়ে গিয়েছ যে, তিনি তোমাদেরকে আরেকবার সমুদ্রে ফিরিয়ে নেবেন না, অতঃপর তোমাদের উপর প্রচন্ড বাতাস পাঠাবেন না এবং তোমাদেরকে ডুবিয়ে দেবেন না, তোমরা কুফরী করার কারণে? তারপর তোমরা আমার বিরুদ্ধে এ বিষয়ে কোন সাহায্যকারী পাবে না।",
+    "urdu": "یا (اس سے) بےخوف ہو کر تم دوسری دفعہ دریا میں لے جائے پھر تم پر تیز ہوا چلائے اور تمہارے کفر کے سبب تمہیں ڈبو دے۔ پھر تم اس غرق کے سبب اپنے لئے کوئی ہمارا پیچھا کرنے والا نہ پاؤ"
+}

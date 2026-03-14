@@ -1,0 +1,42 @@
+{
+    "surahName": "Ar-Ra'd",
+    "surahNameArabic": "الرعد",
+    "surahNameArabicLong": "سورة الرعد",
+    "surahNameTranslation": "The Thunder",
+    "revelationPlace": "Madina",
+    "totalAyah": 43,
+    "surahNo": 13,
+    "ayahNo": 23,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/13_23.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/013023.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/13_23.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/013023.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/13_23.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/013023.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/13_23.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/013023.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/13_23.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/013023.mp3"
+        }
+    },
+    "english": "the Gardens of Eternity, which they will enter along with the righteous among their parents, spouses, and descendants. And the angels will enter upon them from every gate, ˹saying,˺",
+    "arabic1": "جَنَّـٰتُ عَدْنٍ يَدْخُلُونَهَا وَمَن صَلَحَ مِنْ ءَابَآئِهِمْ وَأَزْوَٰجِهِمْ وَذُرِّيَّـٰتِهِمْ ۖ وَٱلْمَلَـٰٓئِكَةُ يَدْخُلُونَ عَلَيْهِم مِّن كُلِّ بَابٍ",
+    "arabic2": "جنات عدن يدخلونها ومن صلح من ابائهم وازواجهم وذرياتهم والملائكة يدخلون عليهم من كل باب",
+    "bengali": "স্থায়ী জান্নাতসমূহ, যাতে তারা এবং তাদের পিতৃপুরুষগণ, তাদের স্ত্রীগণ ও তাদের সন্তানদের মধ্যে যারা সৎ ছিল তারা প্রবেশ করবে। আর ফেরেশতারা প্রতিটি দরজা দিয়ে তাদের নিকট প্রবেশ করবে।",
+    "urdu": "(یعنی) ہمیشہ رہنے کے باغات جن میں وہ داخل ہوں گے اور ان کے باپ دادا اور بیبیوں اور اولاد میں سے جو نیکوکار ہوں گے وہ بھی (بہشت میں جائیں گے) اور فرشتے (بہشت کے) ہر ایک دروازے سے ان کے پاس آئیں گے"
+}

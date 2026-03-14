@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Maaida",
+    "surahNameArabic": "المائدة",
+    "surahNameArabicLong": "سورة المائدة",
+    "surahNameTranslation": "The Table",
+    "revelationPlace": "Madina",
+    "totalAyah": 120,
+    "surahNo": 5,
+    "ayahNo": 66,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/5_66.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/005066.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/5_66.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/005066.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/5_66.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/005066.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/5_66.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/005066.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/5_66.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/005066.mp3"
+        }
+    },
+    "english": "And had they observed the Torah, the Gospel, and what has been revealed to them from their Lord, they would have been overwhelmed with provisions from above and below. Some among them are upright, yet many do nothing but evil.",
+    "arabic1": "وَلَوْ أَنَّهُمْ أَقَامُوا۟ ٱلتَّوْرَىٰةَ وَٱلْإِنجِيلَ وَمَآ أُنزِلَ إِلَيْهِم مِّن رَّبِّهِمْ لَأَكَلُوا۟ مِن فَوْقِهِمْ وَمِن تَحْتِ أَرْجُلِهِم ۚ مِّنْهُمْ أُمَّةٌ مُّقْتَصِدَةٌ ۖ وَكَثِيرٌ مِّنْهُمْ سَآءَ مَا يَعْمَلُونَ",
+    "arabic2": "ولو انهم اقاموا التوراة والانجيل وما انزل اليهم من ربهم لاكلوا من فوقهم ومن تحت ارجلهم منهم امة مقتصدة وكثير منهم ساء ما يعملون",
+    "bengali": "আর যদি তারা তাওরাত, ইনজীল ও তাদের নিকট তাদের রবের পক্ষ থেকে যা নাযিল করা হয়েছে, তা কায়েম করত, তবে অবশ্যই তারা আহার করত তাদের উপর থেকে এবং তাদের পদতল থেকে। তাদের মধ্য থেকে সঠিক পথের অনুসারী একটি দল রয়েছে এবং তাদের অনেকেই যা করছে, তা কতইনা মন্দ!",
+    "urdu": "اور اگر وہ تورات اور انجیل کو اور جو (اور کتابیں) ان کے پروردگار کی طرف سے ان پر نازل ہوئیں ان کو قائم رکھتے (تو ان پر رزق مینہ کی طرح برستا کہ) اپنے اوپر سے پاؤں کے نیچے سے کھاتے ان میں کچھ لوگ میانہ رو ہیں اور بہت سے ایسے ہیں جن کے اعمال برے ہیں"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 56,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/17_56.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/017056.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/17_56.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/017056.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/17_56.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/017056.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/17_56.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/017056.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/17_56.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/017056.mp3"
+        }
+    },
+    "english": "Say, ˹O Prophet,˺ “Invoke those you claim ˹to be divine˺ besides Him—they do not have the power to undo harm from you or transfer it ˹to someone else˺.”",
+    "arabic1": "قُلِ ٱدْعُوا۟ ٱلَّذِينَ زَعَمْتُم مِّن دُونِهِۦ فَلَا يَمْلِكُونَ كَشْفَ ٱلضُّرِّ عَنكُمْ وَلَا تَحْوِيلًا",
+    "arabic2": "قل ادعوا الذين زعمتم من دونه فلا يملكون كشف الضر عنكم ولا تحويلا",
+    "bengali": "বল, ‘তাদেরকে ডাক, আল্লাহ ছাড়া তোমরা যাদেরকে (উপাস্য) মনে কর। তারা তো তোমাদের দুঃখ-দুর্দশা দূর করার ও পরিবর্তন করার ক্ষমতা রাখে না’।",
+    "urdu": "کہو کہ (مشرکو) جن لوگوں کی نسبت تمہیں (معبود ہونے کا) گمان ہے ان کو بلا کر دیکھو۔ وہ تم سے تکلیف کے دور کرنے یا اس کے بدل دینے کا کچھ بھی اختیار نہیں رکھتے"
+}

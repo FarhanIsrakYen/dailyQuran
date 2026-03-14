@@ -1,0 +1,42 @@
+{
+    "surahName": "Fussilat",
+    "surahNameArabic": "فصلت",
+    "surahNameArabicLong": "سورة فصلت",
+    "surahNameTranslation": "Explained in detail",
+    "revelationPlace": "Mecca",
+    "totalAyah": 54,
+    "surahNo": 41,
+    "ayahNo": 37,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/41_37.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/041037.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/41_37.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/041037.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/41_37.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/041037.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/41_37.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/041037.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/41_37.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/041037.mp3"
+        }
+    },
+    "english": "Among His signs are the day and the night, the sun and the moon. Do not prostrate to the sun or the moon, but prostrate to Allah, Who created them ˹all˺, if you ˹truly˺ worship Him ˹alone˺.",
+    "arabic1": "وَمِنْ ءَايَـٰتِهِ ٱلَّيْلُ وَٱلنَّهَارُ وَٱلشَّمْسُ وَٱلْقَمَرُ ۚ لَا تَسْجُدُوا۟ لِلشَّمْسِ وَلَا لِلْقَمَرِ وَٱسْجُدُوا۟ لِلَّهِ ٱلَّذِى خَلَقَهُنَّ إِن كُنتُمْ إِيَّاهُ تَعْبُدُونَ",
+    "arabic2": "ومن اياته الليل والنهار والشمس والقمر لا تسجدوا للشمس ولا للقمر واسجدوا لله الذي خلقهن ان كنتم اياه تعبدون",
+    "bengali": "আর তাঁর নিদর্শনসমূহের মধ্যে রয়েছে রাত ও দিন, সূর্য ও চাঁদ । তোমরা না সূর্যকে সিজদা করবে, না চাঁদকে। আর তোমরা আল্লাহকে সিজদা কর যিনি এগুলো সৃষ্টি করেছেন, যদি তোমরা কেবলমাত্র তাঁরই ইবাদাত কর।",
+    "urdu": "اور رات اور دن اور سورج اور چاند اس کی نشانیوں میں سے ہیں۔ تم لوگ نہ تو سورج کو سجدہ کرو اور نہ چاند کو۔ بلکہ خدا ہی کو سجدہ کرو جس نے ان چیزوں کو پیدا کیا ہے اگر تم کو اس کی عبادت منظور ہے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 145,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_145.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002145.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_145.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002145.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_145.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002145.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_145.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002145.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_145.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002145.mp3"
+        }
+    },
+    "english": "Even if you were to bring every proof to the People of the Book, they would not accept your direction ˹of prayer˺, nor would you accept theirs; nor would any of them accept the direction ˹of prayer˺ of another. And if you were to follow their desires after ˹all˺ the knowledge that has come to you, then you would certainly be one of the wrongdoers.",
+    "arabic1": "وَلَئِنْ أَتَيْتَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ بِكُلِّ ءَايَةٍ مَّا تَبِعُوا۟ قِبْلَتَكَ ۚ وَمَآ أَنتَ بِتَابِعٍ قِبْلَتَهُمْ ۚ وَمَا بَعْضُهُم بِتَابِعٍ قِبْلَةَ بَعْضٍ ۚ وَلَئِنِ ٱتَّبَعْتَ أَهْوَآءَهُم مِّنۢ بَعْدِ مَا جَآءَكَ مِنَ ٱلْعِلْمِ ۙ إِنَّكَ إِذًا لَّمِنَ ٱلظَّـٰلِمِينَ",
+    "arabic2": "ولئن اتيت الذين اوتوا الكتاب بكل اية ما تبعوا قبلتك وما انت بتابع قبلتهم وما بعضهم بتابع قبلة بعض ولئن اتبعت اهواءهم من بعد ما جاءك من العلم انك اذا لمن الظالمين",
+    "bengali": "আর যাদেরকে কিতাব দেয়া হয়েছে তুমি যদি তাদের নিকট সব নিদর্শন নিয়ে আস, তারা তোমার কিবলার অনুসরণ করবে না আর তুমিও তাদের কিবলার অনুসরণকারী নও এবং তারা একে অপরের কিবলার অনুসরণকারী নয়। আর যদি তুমি তাদের প্রবৃত্তির অনুসরণ কর তোমার নিকট জ্ঞান আসার পর, তবে নিশ্চয় তুমি তখন যালিমদের অন্তর্ভুক্ত।",
+    "urdu": "اور اگر تم ان اہلِ کتاب کے پاس تمام نشانیاں بھی لے کر آؤ، تو بھی یہ تمہارے قبلے کی پیروی نہ کریں۔ اور تم بھی ان کے قبلے کی پیروی کرنے والے نہیں ہو۔ اور ان میں سے بھی بعض بعض کے قبلے کے پیرو نہیں۔ اور اگر تم باوجود اس کے کہ تمہارے پاس دانش (یعنی وحئ خدا) آ چکی ہے، ان کی خواہشوں کے پیچھے چلو گے تو ظالموں میں (داخل) ہو جاؤ گے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 86,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/3_86.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/003086.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/3_86.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/003086.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/3_86.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/003086.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/3_86.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/003086.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/3_86.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/003086.mp3"
+        }
+    },
+    "english": "How will Allah guide a people who chose to disbelieve after they had believed, acknowledged the Messenger to be true, and received clear proofs? For Allah does not guide the wrongdoing people.",
+    "arabic1": "كَيْفَ يَهْدِى ٱللَّهُ قَوْمًا كَفَرُوا۟ بَعْدَ إِيمَـٰنِهِمْ وَشَهِدُوٓا۟ أَنَّ ٱلرَّسُولَ حَقٌّ وَجَآءَهُمُ ٱلْبَيِّنَـٰتُ ۚ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلظَّـٰلِمِينَ",
+    "arabic2": "كيف يهدي الله قوما كفروا بعد ايمانهم وشهدوا ان الرسول حق وجاءهم البينات والله لا يهدي القوم الظالمين",
+    "bengali": "কেমন করে আল্লাহ সে কওমকে হিদায়াত দেবেন, যারা ঈমান আনার পর কুফরী করেছে, আর তারা সাক্ষ্য দিয়েছে যে, নিশ্চয় রাসূল সত্য এবং তাদের নিকট স্পষ্ট প্রমাণ এসেছে। আর আল্লাহ যালিম কওমকে হিদায়াত দেন না।",
+    "urdu": "خدا ایسے لوگوں کو کیونکر ہدایت دے جو ایمان لانے کے بعد کافر ہوگئے اور (پہلے) اس بات کی گواہی دے چکے کہ یہ پیغمبر برحق ہے اور ان کے پاس دلائل بھی آگئے اور خدا بے انصافوں کو ہدایت نہیں دیتا"
+}

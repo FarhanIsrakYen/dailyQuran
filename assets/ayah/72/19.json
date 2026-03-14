@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Jinn",
+    "surahNameArabic": "الجن",
+    "surahNameArabicLong": "سورة الجن",
+    "surahNameTranslation": "The Jinn",
+    "revelationPlace": "Mecca",
+    "totalAyah": 28,
+    "surahNo": 72,
+    "ayahNo": 19,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/72_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/072019.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/72_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/072019.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/72_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/072019.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/72_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/072019.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/72_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/072019.mp3"
+        }
+    },
+    "english": "Yet when the servant of Allah stood up calling upon Him ˹alone˺, the pagans almost swarmed over him.",
+    "arabic1": "وَأَنَّهُۥ لَمَّا قَامَ عَبْدُ ٱللَّهِ يَدْعُوهُ كَادُوا۟ يَكُونُونَ عَلَيْهِ لِبَدًا",
+    "arabic2": "وانه لما قام عبد الله يدعوه كادوا يكونون عليه لبدا",
+    "bengali": "আর নিশ্চয় আল্লাহর বান্দা* যখন তাঁকে ডাকার জন্য দাঁড়াল, তখন তারা** তার নিকট ভিড় জমাল। \n*রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম। **কাফিরগণ।",
+    "urdu": "اور جب خدا کے بندے (محمدﷺ) اس کی عبادت کو کھڑے ہوئے تو کافر ان کے گرد ہجوم کرلینے کو تھے"
+}

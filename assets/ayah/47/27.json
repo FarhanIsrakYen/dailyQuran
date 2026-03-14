@@ -1,0 +1,42 @@
+{
+    "surahName": "Muhammad",
+    "surahNameArabic": "محمد",
+    "surahNameArabicLong": "سورة محمد",
+    "surahNameTranslation": "Muhammad",
+    "revelationPlace": "Madina",
+    "totalAyah": 38,
+    "surahNo": 47,
+    "ayahNo": 27,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/47_27.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/047027.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/47_27.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/047027.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/47_27.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/047027.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/47_27.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/047027.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/47_27.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/047027.mp3"
+        }
+    },
+    "english": "Then how ˹horrible˺ will it be when the angels take their souls, beating their faces and backs!",
+    "arabic1": "فَكَيْفَ إِذَا تَوَفَّتْهُمُ ٱلْمَلَـٰٓئِكَةُ يَضْرِبُونَ وُجُوهَهُمْ وَأَدْبَـٰرَهُمْ",
+    "arabic2": "فكيف اذا توفتهم الملائكة يضربون وجوههم وادبارهم",
+    "bengali": "অতঃপর তাদের অবস্থা কেমন হবে, যখন ফেরেশতারা তাদের মুখমন্ডল ও পৃষ্ঠদেশসমূহে আঘাত করতে করতে তাদের জীবনাবসান ঘটাবে?",
+    "urdu": "تو اُس وقت (ان کا) کیسا (حال) ہوگا جب فرشتے ان کی جان نکالیں گے اور ان کے مونہوں اور پیٹھوں پر مارتے جائیں گے"
+}

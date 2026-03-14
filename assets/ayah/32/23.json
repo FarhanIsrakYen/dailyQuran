@@ -1,0 +1,42 @@
+{
+    "surahName": "As-Sajda",
+    "surahNameArabic": "السجدة",
+    "surahNameArabicLong": "سورة السجدة",
+    "surahNameTranslation": "The Prostration",
+    "revelationPlace": "Mecca",
+    "totalAyah": 30,
+    "surahNo": 32,
+    "ayahNo": 23,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/32_23.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/032023.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/32_23.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/032023.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/32_23.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/032023.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/32_23.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/032023.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/32_23.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/032023.mp3"
+        }
+    },
+    "english": "Indeed, We gave the Scripture to Moses—so let there be no doubt ˹O Prophet˺ that you ˹too˺ are receiving revelations—and We made it a guide for the Children of Israel.",
+    "arabic1": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ فَلَا تَكُن فِى مِرْيَةٍ مِّن لِّقَآئِهِۦ ۖ وَجَعَلْنَـٰهُ هُدًى لِّبَنِىٓ إِسْرَٰٓءِيلَ",
+    "arabic2": "ولقد اتينا موسى الكتاب فلا تكن في مرية من لقائه وجعلناه هدى لبني اسرائيل",
+    "bengali": "আর আমি তো মূসাকে কিতাব দিয়েছিলাম, অতএব তুমি তার সাক্ষাতের ব্যাপারে সন্দেহে থেকো না। আর আমি ওটাকে বনী ইসরাঈলের জন্য হিদায়াতস্বরূপ করেছিলাম।",
+    "urdu": "اور ہم نے موسٰی کو کتاب دی تو تم اُن کے ملنے سے شک میں نہ ہونا اور ہم نے اس (کتاب) کو (یا موسٰی کو) بنی اسرائیل کے لئے( ذریعہ) ہدایت بنایا"
+}

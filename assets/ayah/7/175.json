@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 175,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/7_175.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/007175.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/7_175.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/007175.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/7_175.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/007175.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/7_175.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/007175.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/7_175.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/007175.mp3"
+        }
+    },
+    "english": "And relate to them ˹O Prophet˺ the story of the one to whom We gave Our signs, but he abandoned them, so Satan took hold of him, and he became a deviant.",
+    "arabic1": "وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱلَّذِىٓ ءَاتَيْنَـٰهُ ءَايَـٰتِنَا فَٱنسَلَخَ مِنْهَا فَأَتْبَعَهُ ٱلشَّيْطَـٰنُ فَكَانَ مِنَ ٱلْغَاوِينَ",
+    "arabic2": "واتل عليهم نبا الذي اتيناه اياتنا فانسلخ منها فاتبعه الشيطان فكان من الغاوين",
+    "bengali": "আর তুমি তাদের উপর সে ব্যক্তির সংবাদ পাঠ কর, যাকে আমি আমার আয়াতসমূহ দিয়েছিলাম। অতঃপর সে তা হতে বিচ্ছিন্ন হয়ে গিয়েছিল এবং শয়তান তার পেছনে লেগেছিল। ফলে সে বিপথগামীদের অন্তর্ভুক্ত হয়ে গিয়েছিল।",
+    "urdu": "اور ان کو اس شخص کا حال پڑھ کر سنا دو جس کو ہم نے اپنی آیتیں عطا فرمائیں (اور ہفت پارچہٴ علم شرائع سے مزین کیا) تو اس نے ان کو اتار دیا پھر شیطان اس کے پیچھے لگا تو وہ گمراہوں میں ہوگیا"
+}

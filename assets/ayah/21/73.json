@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Anbiyaa",
+    "surahNameArabic": "الأنبياء",
+    "surahNameArabicLong": "سورة الأنبياء",
+    "surahNameTranslation": "The Prophets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 112,
+    "surahNo": 21,
+    "ayahNo": 73,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/21_73.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/021073.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/21_73.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/021073.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/21_73.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/021073.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/21_73.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/021073.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/21_73.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/021073.mp3"
+        }
+    },
+    "english": "We ˹also˺ made them leaders, guiding by Our command, and inspired them to do good deeds, establish prayer, and pay alms-tax. And they were devoted to Our worship.",
+    "arabic1": "وَجَعَلْنَـٰهُمْ أَئِمَّةً يَهْدُونَ بِأَمْرِنَا وَأَوْحَيْنَآ إِلَيْهِمْ فِعْلَ ٱلْخَيْرَٰتِ وَإِقَامَ ٱلصَّلَوٰةِ وَإِيتَآءَ ٱلزَّكَوٰةِ ۖ وَكَانُوا۟ لَنَا عَـٰبِدِينَ",
+    "arabic2": "وجعلناهم ائمة يهدون بامرنا واوحينا اليهم فعل الخيرات واقام الصلاة وايتاء الزكاة وكانوا لنا عابدين",
+    "bengali": "আর তাদেরকে আমি নেতা বানিয়েছিলাম, তারা আমার নির্দেশ অনুসারে মানুষকে সঠিক পথ দেখাত। আমি তাদের প্রতি সৎকাজ করার, সালাত কায়েম করার এবং যাকাত প্রদান করার জন্য ওহী প্রেরণ করেছিলাম। আর তারা আমারই ইবাদাত করত।",
+    "urdu": "اور ان کو پیشوا بنایا کہ ہمارے حکم سے ہدایت کرتے تھے اور ان کو نیک کام کرنے اور نماز پڑھنے اور زکوٰة دینے کا حکم بھیجا۔ اور وہ ہماری عبادت کیا کرتے تھے"
+}

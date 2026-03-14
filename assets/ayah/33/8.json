@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Ahzaab",
+    "surahNameArabic": "الأحزاب",
+    "surahNameArabicLong": "سورة الأحزاب",
+    "surahNameTranslation": "The Clans",
+    "revelationPlace": "Madina",
+    "totalAyah": 73,
+    "surahNo": 33,
+    "ayahNo": 8,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/33_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/033008.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/33_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/033008.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/33_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/033008.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/33_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/033008.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/33_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/033008.mp3"
+        }
+    },
+    "english": "so that He may question these men of truth about their ˹delivery of the˺ truth. And He has prepared a painful punishment for the disbelievers.",
+    "arabic1": "لِّيَسْـَٔلَ ٱلصَّـٰدِقِينَ عَن صِدْقِهِمْ ۚ وَأَعَدَّ لِلْكَـٰفِرِينَ عَذَابًا أَلِيمًا",
+    "arabic2": "ليسال الصادقين عن صدقهم واعد للكافرين عذابا اليما",
+    "bengali": "সত্যবাদীদেরকে তাদের সত্যবাদিতা সম্পর্কে জিজ্ঞাসা করার জন্য। আর তিনি প্রস্তুত করে রেখেছেন কাফিরদের জন্য যন্ত্রণাদায়ক আযাব।",
+    "urdu": "تاکہ سچ کہنے والوں سے اُن کی سچائی کے بارے میں دریافت کرے اور اس نے کافروں کے لئے دکھ دینے والا عذاب تیار کر رکھا ہے"
+}

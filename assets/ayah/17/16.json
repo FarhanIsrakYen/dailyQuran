@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 16,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/17_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/017016.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/17_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/017016.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/17_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/017016.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/17_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/017016.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/17_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/017016.mp3"
+        }
+    },
+    "english": "Whenever We intend to destroy a society, We command its elite ˹to obey Allah˺ but they act rebelliously in it. So the decree ˹of punishment˺ is justified, and We destroy it utterly.",
+    "arabic1": "وَإِذَآ أَرَدْنَآ أَن نُّهْلِكَ قَرْيَةً أَمَرْنَا مُتْرَفِيهَا فَفَسَقُوا۟ فِيهَا فَحَقَّ عَلَيْهَا ٱلْقَوْلُ فَدَمَّرْنَـٰهَا تَدْمِيرًا",
+    "arabic2": "واذا اردنا ان نهلك قرية امرنا مترفيها ففسقوا فيها فحق عليها القول فدمرناها تدميرا",
+    "bengali": "আর যখন আমি কোন জনপদ ধ্বংস করার ইচ্ছা করি, তখন তার সম্পদশালীদেরকে (সৎকাজের) আদেশ করি। অতঃপর তারা তাতে সীমালঙ্ঘন করে। তখন তাদের উপর নির্দেশটি সাব্যস্ত হয়ে যায় এবং আমি তা সম্পূর্ণরূপে বিধ্বস্ত করি।",
+    "urdu": "اور جب ہمارا ارادہ کسی بستی کے ہلاک کرنے کا ہوا تو وہاں کے آسودہ لوگوں کو (فواحش پر) مامور کردیا تو وہ نافرمانیاں کرتے رہے۔ پھر اس پر (عذاب کا) حکم ثابت ہوگیا۔ اور ہم نے اسے ہلاک کر ڈالا"
+}

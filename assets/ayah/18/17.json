@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Kahf",
+    "surahNameArabic": "الكهف",
+    "surahNameArabicLong": "سورة الكهف",
+    "surahNameTranslation": "The Cave",
+    "revelationPlace": "Mecca",
+    "totalAyah": 110,
+    "surahNo": 18,
+    "ayahNo": 17,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/18_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/018017.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/18_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/018017.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/18_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/018017.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/18_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/018017.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/18_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/018017.mp3"
+        }
+    },
+    "english": "And you would have seen the sun, as it rose, inclining away from their cave to the right, and as it set, declining away from them to the left, while they lay in its open space. That is one of the signs of Allah. Whoever Allah guides is truly guided. But whoever He leaves to stray, you will never find for them a guiding mentor.",
+    "arabic1": "۞ وَتَرَى ٱلشَّمْسَ إِذَا طَلَعَت تَّزَٰوَرُ عَن كَهْفِهِمْ ذَاتَ ٱلْيَمِينِ وَإِذَا غَرَبَت تَّقْرِضُهُمْ ذَاتَ ٱلشِّمَالِ وَهُمْ فِى فَجْوَةٍ مِّنْهُ ۚ ذَٰلِكَ مِنْ ءَايَـٰتِ ٱللَّهِ ۗ مَن يَهْدِ ٱللَّهُ فَهُوَ ٱلْمُهْتَدِ ۖ وَمَن يُضْلِلْ فَلَن تَجِدَ لَهُۥ وَلِيًّا مُّرْشِدًا",
+    "arabic2": "وترى الشمس اذا طلعت تزاور عن كهفهم ذات اليمين واذا غربت تقرضهم ذات الشمال وهم في فجوة منه ذلك من ايات الله من يهد الله فهو المهتد ومن يضلل فلن تجد له وليا مرشدا",
+    "bengali": "আর তুমি দেখতে পেতে, সূর্য উদিত হলে তাদের গুহার ডানে তা হেলে পড়ছে, আর অস্ত গেলে তাদেরকে বামে রেখে কেটে যাচ্ছে, তখন তারা ছিল তার আঙিনায়। এগুলো আল্লাহর আয়াতসমূহের কিছু। আল্লাহ যাকে হিদায়াত দেন, সে হেদায়াতপ্রাপ্ত। আর যাকে ভ্রষ্ট করেন, তুমি তার জন্য পথনির্দেশকারী কোন অভিভাবক পাবে না।",
+    "urdu": "اور جب سورج نکلے تو تم دیکھو کہ (دھوپ) ان کے غار سے داہنی طرف سمٹ جائے اور جب غروب ہو تو ان سے بائیں طرف کترا جائے اور وہ اس کے میدان میں تھے۔ یہ خدا کی نشانیوں میں سے ہیں۔ جس کو خدا ہدایت دے یا وہ ہدایت یاب ہے اور جس کو گمراہ کرے تو تم اس کے لئے کوئی دوست راہ بتانے والا نہ پاؤ گے"
+}

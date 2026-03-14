@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 83,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/17_83.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/017083.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/17_83.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/017083.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/17_83.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/017083.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/17_83.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/017083.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/17_83.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/017083.mp3"
+        }
+    },
+    "english": "When We grant people Our favours, they turn away, acting arrogantly. But when touched with evil, they lose all hope.",
+    "arabic1": "وَإِذَآ أَنْعَمْنَا عَلَى ٱلْإِنسَـٰنِ أَعْرَضَ وَنَـَٔا بِجَانِبِهِۦ ۖ وَإِذَا مَسَّهُ ٱلشَّرُّ كَانَ يَـُٔوسًا",
+    "arabic2": "واذا انعمنا على الانسان اعرض وناى بجانبه واذا مسه الشر كان يئوسا",
+    "bengali": "আর আমি যখন মানুষের উপর নিআমত দান করি তখন সে মুখ ফিরিয়ে নেয় ও দূরে সরে যায় এবং যখন তাকে অনিষ্ট স্পর্শ করে তখন সে খুব হতাশ হয়ে পড়ে।",
+    "urdu": "اور جب ہم انسان کو نعمت بخشتے ہیں تو ردگرداں ہوجاتا اور پہلو پھیر لیتا ہے۔ اور جب اسے سختی پہنچتی ہے تو ناامید ہوجاتا ہے"
+}

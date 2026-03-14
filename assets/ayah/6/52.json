@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 52,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/6_52.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/006052.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/6_52.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/006052.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/6_52.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/006052.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/6_52.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/006052.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/6_52.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/006052.mp3"
+        }
+    },
+    "english": "˹O Prophet!˺ Do not dismiss those ˹poor believers˺ who invoke their Lord morning and evening, seeking His pleasure. You are not accountable for them whatsoever, nor are they accountable for you. So do not dismiss them, or you will be one of the wrongdoers.",
+    "arabic1": "وَلَا تَطْرُدِ ٱلَّذِينَ يَدْعُونَ رَبَّهُم بِٱلْغَدَوٰةِ وَٱلْعَشِىِّ يُرِيدُونَ وَجْهَهُۥ ۖ مَا عَلَيْكَ مِنْ حِسَابِهِم مِّن شَىْءٍ وَمَا مِنْ حِسَابِكَ عَلَيْهِم مِّن شَىْءٍ فَتَطْرُدَهُمْ فَتَكُونَ مِنَ ٱلظَّـٰلِمِينَ",
+    "arabic2": "ولا تطرد الذين يدعون ربهم بالغداة والعشي يريدون وجهه ما عليك من حسابهم من شيء وما من حسابك عليهم من شيء فتطردهم فتكون من الظالمين",
+    "bengali": "আর তুমি তাড়িয়ে দিয়ো না তাদেরকে, যারা নিজ রবকে সকাল সন্ধ্যায় ডাকে, তারা তার সন্তুষ্টি চায়। তাদের কোন হিসাব তোমার উপর নেই এবং তোমার কোন হিসাব তাদের উপর নেই, ফলে তুমি তাদেরকে তাড়িয়ে দিবে এবং তুমি যালিমদের অন্তর্ভুক্ত হবে।",
+    "urdu": "اور جو لوگ صبح وشام اپنی پروردگار سے دعا کرتے ہیں (اور) اس کی ذات کے طالب ہیں ان کو (اپنے پاس سے) مت نکالو۔ ان کے حساب (اعمال) کی جوابدہی تم پر کچھ نہیں اور تمہارے حساب کی جوابدہی ان پر کچھ نہیں (پس ایسا نہ کرنا) اگر ان کو نکالوگے تو ظالموں میں ہوجاؤ گے"
+}

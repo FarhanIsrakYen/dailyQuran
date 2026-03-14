@@ -1,0 +1,42 @@
+{
+    "surahName": "Fussilat",
+    "surahNameArabic": "فصلت",
+    "surahNameArabicLong": "سورة فصلت",
+    "surahNameTranslation": "Explained in detail",
+    "revelationPlace": "Mecca",
+    "totalAyah": 54,
+    "surahNo": 41,
+    "ayahNo": 12,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/41_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/041012.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/41_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/041012.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/41_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/041012.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/41_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/041012.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/41_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/041012.mp3"
+        }
+    },
+    "english": "So He formed the heaven into seven heavens in two Days, assigning to each its mandate. And We adorned the lowest heaven with ˹stars like˺ lamps ˹for beauty˺ and for protection. That is the design of the Almighty, All-Knowing.”",
+    "arabic1": "فَقَضَىٰهُنَّ سَبْعَ سَمَـٰوَاتٍ فِى يَوْمَيْنِ وَأَوْحَىٰ فِى كُلِّ سَمَآءٍ أَمْرَهَا ۚ وَزَيَّنَّا ٱلسَّمَآءَ ٱلدُّنْيَا بِمَصَـٰبِيحَ وَحِفْظًا ۚ ذَٰلِكَ تَقْدِيرُ ٱلْعَزِيزِ ٱلْعَلِيمِ",
+    "arabic2": "فقضاهن سبع سماوات في يومين واوحى في كل سماء امرها وزينا السماء الدنيا بمصابيح وحفظا ذلك تقدير العزيز العليم",
+    "bengali": "তারপর তিনি দু’দিনে আসমানসমূহকে সাত আসমানে পরিণত করলেন। আর প্রত্যেক আসমানে তার কার্যাবলী ওহীর মাধ্যমে জানিয়ে দিলেন। আর আমি নিকটবর্তী আসমানকে প্রদীপমালার দ্বারা সুসজ্জিত করেছি আর সুরক্ষিত করেছি। এ হল মহা পরাক্রমশালী সর্বজ্ঞের নির্ধারণ।",
+    "urdu": "پھر دو دن میں سات آسمان بنائے اور ہر آسمان میں اس (کے کام) کا حکم بھیجا اور ہم نے آسمان دنیا کو چراغوں (یعنی ستاروں) سے مزین کیا اور (شیطانوں سے) محفوظ رکھا۔ یہ زبردست (اور) خبردار کے (مقرر کئے ہوئے) اندازے ہیں"
+}

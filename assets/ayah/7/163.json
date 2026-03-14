@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 163,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/7_163.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/007163.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/7_163.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/007163.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/7_163.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/007163.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/7_163.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/007163.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/7_163.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/007163.mp3"
+        }
+    },
+    "english": "Ask them ˹O Prophet˺ about ˹the people of˺ the town which was by the sea, who broke the Sabbath. During the Sabbath, ˹abundant˺ fish would come to them clearly visible, but on other days the fish were never seen. In this way We tested them for their rebelliousness.",
+    "arabic1": "وَسْـَٔلْهُمْ عَنِ ٱلْقَرْيَةِ ٱلَّتِى كَانَتْ حَاضِرَةَ ٱلْبَحْرِ إِذْ يَعْدُونَ فِى ٱلسَّبْتِ إِذْ تَأْتِيهِمْ حِيتَانُهُمْ يَوْمَ سَبْتِهِمْ شُرَّعًا وَيَوْمَ لَا يَسْبِتُونَ ۙ لَا تَأْتِيهِمْ ۚ كَذَٰلِكَ نَبْلُوهُم بِمَا كَانُوا۟ يَفْسُقُونَ",
+    "arabic2": "واسالهم عن القرية التي كانت حاضرة البحر اذ يعدون في السبت اذ تاتيهم حيتانهم يوم سبتهم شرعا ويوم لا يسبتون لا تاتيهم كذلك نبلوهم بما كانوا يفسقون",
+    "bengali": "আর তাদের কাছে জিজ্ঞেস কর সাগরের নিকটে অবস্থিত জনপদটি* সম্পর্কে, যখন তারা শনিবারে সীমালংঘন করত। যখন তাদের কাছে শনিবারে তাদের মাছগুলো ভেসে আসত। আর যেদিন তারা শনিবার যাপন করত না, সেদিন তাদের কাছে আসত না। এভাবে আমি তাদেরকে পরীক্ষা করতাম। কারণ তারা পাপাচার করত। \n* লোহিত সাগর তীরবর্তী ‘আয়লা’ নামক জনপদ।",
+    "urdu": "اور ان سے اس گاؤں کا حال تو پوچھو جب لب دریا واقع تھا۔ جب یہ لوگ ہفتے کے دن کے بارے میں حد سے تجاوز کرنے لگے (یعنی) اس وقت کہ ان کے ہفتے کے دن مچھلیاں ان کے سامنے پانی کے اوپر آتیں اور جب ہفتے کا دن نہ ہوتا تو نہ آتیں۔ اسی طرح ہم ان لوگوں کو ان کی نافرمانیوں کے سبب آزمائش میں ڈالنے لگے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 87,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_87.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002087.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_87.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002087.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_87.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002087.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_87.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002087.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_87.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002087.mp3"
+        }
+    },
+    "english": "Indeed, We gave Moses the Book and sent after him successive messengers. And We gave Jesus, son of Mary, clear proofs and supported him with the holy spirit. Why is it that every time a messenger comes to you ˹Israelites˺ with something you do not like, you become arrogant, rejecting some and killing others?",
+    "arabic1": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَقَفَّيْنَا مِنۢ بَعْدِهِۦ بِٱلرُّسُلِ ۖ وَءَاتَيْنَا عِيسَى ٱبْنَ مَرْيَمَ ٱلْبَيِّنَـٰتِ وَأَيَّدْنَـٰهُ بِرُوحِ ٱلْقُدُسِ ۗ أَفَكُلَّمَا جَآءَكُمْ رَسُولٌۢ بِمَا لَا تَهْوَىٰٓ أَنفُسُكُمُ ٱسْتَكْبَرْتُمْ فَفَرِيقًا كَذَّبْتُمْ وَفَرِيقًا تَقْتُلُونَ",
+    "arabic2": "ولقد اتينا موسى الكتاب وقفينا من بعده بالرسل واتينا عيسى ابن مريم البينات وايدناه بروح القدس افكلما جاءكم رسول بما لا تهوى انفسكم استكبرتم ففريقا كذبتم وفريقا تقتلون",
+    "bengali": "আর আমি নিশ্চয় মূসাকে কিতাব দিয়েছি এবং তার পরে একের পর এক রাসূল প্রেরণ করেছি এবং মারইয়াম পুত্র ঈসাকে দিয়েছি সুস্পষ্ট নিদর্শনসমূহ। আর তাকে শক্তিশালী করেছি ‘পবিত্র আত্মা’র* মাধ্যমে। তবে কি তোমাদের নিকট যখনই কোন রাসূল এমন কিছু নিয়ে এসেছে, যা তোমাদের মনঃপূত নয়, তখন তোমরা অহঙ্কার করেছ, অতঃপর (নবীদের) একদলকে তোমরা মিথ্যাবাদী বলেছ আর একদলকে হত্যা করেছ। \n*পবিত্র আত্মা অর্থ জিবরীল(আ.)",
+    "urdu": "اور ہم نے موسیٰ کو کتاب عنایت کی اور ان کے پیچھے یکے بعد دیگرے پیغمبر بھیجتے رہے اور عیسیٰ بن مریم کو کھلے نشانات بخشے اور روح القدس (یعنی جبرئیل) سے ان کو مدد دی۔تو جب کوئی پیغمبر تمہارے پاس ایسی باتیں لے کر آئے، جن کو تمہارا جی نہیں چاہتا تھا، تو تم سرکش ہو جاتے رہے، اور ایک گروہ (انبیاء) کو تو جھٹلاتے رہے اور ایک گروہ کو قتل کرتے رہے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Ar-Ra'd",
+    "surahNameArabic": "الرعد",
+    "surahNameArabicLong": "سورة الرعد",
+    "surahNameTranslation": "The Thunder",
+    "revelationPlace": "Madina",
+    "totalAyah": 43,
+    "surahNo": 13,
+    "ayahNo": 31,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/13_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/013031.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/13_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/013031.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/13_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/013031.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/13_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/013031.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/13_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/013031.mp3"
+        }
+    },
+    "english": "If there were a recitation that could cause mountains to move, or the earth to split, or the dead to speak, ˹it would have been this Quran˺. But all matters are by Allah’s Will. Have the believers not yet realized that had Allah willed, He could have guided all of humanity? And disasters will continue to afflict the disbelievers or strike close to their homes for their misdeeds, until Allah’s promise comes to pass. Surely Allah never fails in His promise.",
+    "arabic1": "وَلَوْ أَنَّ قُرْءَانًا سُيِّرَتْ بِهِ ٱلْجِبَالُ أَوْ قُطِّعَتْ بِهِ ٱلْأَرْضُ أَوْ كُلِّمَ بِهِ ٱلْمَوْتَىٰ ۗ بَل لِّلَّهِ ٱلْأَمْرُ جَمِيعًا ۗ أَفَلَمْ يَا۟يْـَٔسِ ٱلَّذِينَ ءَامَنُوٓا۟ أَن لَّوْ يَشَآءُ ٱللَّهُ لَهَدَى ٱلنَّاسَ جَمِيعًا ۗ وَلَا يَزَالُ ٱلَّذِينَ كَفَرُوا۟ تُصِيبُهُم بِمَا صَنَعُوا۟ قَارِعَةٌ أَوْ تَحُلُّ قَرِيبًا مِّن دَارِهِمْ حَتَّىٰ يَأْتِىَ وَعْدُ ٱللَّهِ ۚ إِنَّ ٱللَّهَ لَا يُخْلِفُ ٱلْمِيعَادَ",
+    "arabic2": "ولو ان قرانا سيرت به الجبال او قطعت به الارض او كلم به الموتى بل لله الامر جميعا افلم يياس الذين امنوا ان لو يشاء الله لهدى الناس جميعا ولا يزال الذين كفروا تصيبهم بما صنعوا قارعة او تحل قريبا من دارهم حتى ياتي وعد الله ان الله لا يخلف الميعاد",
+    "bengali": "আর যদি এমন কোন কুরআন হত, যার দ্বারা পাহাড়সমূহকে চলমান করা যেত অথবা যমীনকে টুকরো-টুকরো করা যেত অথবা তার দ্বারা মৃতকে কথা বলানো যেত (তবে সেটা এই কুরআনই হত, আর তারা ঈমান আনত না)। বরং সব সিদ্ধান্ত আল্লাহরই। যারা ঈমান এনেছে, তারা কি (ওদের ঈমানের ব্যাপারে) নিরাশ হয়নি এবং তারা জানে যে, আল্লাহ ইচ্ছা করলে সমগ্র মানুষকে হিদায়াত দান করতেন? আর যারা কুফরী করে, তাদের কর্মের দরুন সর্বদা তাদের বিপদ ঘটতে থাকবে অথবা তাদের আবাসের আশপাশে বিপদ আপতিত হতে থাকবে,* অবশেষে আসবে আল্লাহর ওয়াদা। নিশ্চয় আল্লাহ প্রতিশ্রুতির ব্যতিক্রম করেন না। \n* মুসলিম সৈন্যরা তাদের বিপক্ষে অবস্থান নেয়া, তাদের সাথে যুদ্ধ করা, তাদের হত্যা করা,তাদের ভূখন্ড মুসলমানদের করায়ত্ব হওয়া ইত্যাদি। (ইব্ন কাসীর)",
+    "urdu": "اور اگر کوئی قرآن ایسا ہوتا کہ اس (کی تاثیر) سے پہاڑ چل پڑتے یا زمین پھٹ جاتی یا مردوں سے کلام کرسکتے۔ (تو یہی قرآن ان اوصاف سے متصف ہوتا مگر) بات یہ ہے کہ سب باتیں خدا کے اختیار میں ہیں تو کیا مومنوں کو اس سے اطمینان نہیں ہوا کہ اگر خدا چاہتا تو سب لوگوں کو ہدایت کے رستے پر چلا دیتا۔ اور کافروں پر ہمیشہ ان کے اعمال کے بدلے بلا آتی رہے گی یا ان کے مکانات کے قریب نازل ہوتی رہے گی یہاں تک کہ خدا کا وعدہ آپہنچے۔ بےشک خدا وعدہ خلاف نہیں کرتا"
+}

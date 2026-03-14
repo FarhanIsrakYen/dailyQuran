@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Anfaal",
+    "surahNameArabic": "الأنفال",
+    "surahNameArabicLong": "سورة الأنفال",
+    "surahNameTranslation": "The Spoils of War",
+    "revelationPlace": "Madina",
+    "totalAyah": 75,
+    "surahNo": 8,
+    "ayahNo": 53,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/8_53.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/008053.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/8_53.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/008053.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/8_53.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/008053.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/8_53.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/008053.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/8_53.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/008053.mp3"
+        }
+    },
+    "english": "This is because Allah would never discontinue His favour to a people until they discontinue their faith. Surely Allah is All-Hearing, All-Knowing.",
+    "arabic1": "ذَٰلِكَ بِأَنَّ ٱللَّهَ لَمْ يَكُ مُغَيِّرًا نِّعْمَةً أَنْعَمَهَا عَلَىٰ قَوْمٍ حَتَّىٰ يُغَيِّرُوا۟ مَا بِأَنفُسِهِمْ ۙ وَأَنَّ ٱللَّهَ سَمِيعٌ عَلِيمٌ",
+    "arabic2": "ذلك بان الله لم يك مغيرا نعمة انعمها على قوم حتى يغيروا ما بانفسهم وان الله سميع عليم",
+    "bengali": "তা এ জন্য যে, আল্লাহ কোন নিআমতের পরিবর্তনকারী নন, যা তিনি কোন কওমকে দিয়েছেন, যতক্ষণ না তারা পরিবর্তন করে তাদের নিজদের মধ্যে যা আছে। আর নিশ্চয় আল্লাহ সর্বশ্রোতা, সর্বজ্ঞ।",
+    "urdu": "یہ اس لیے کہ جو نعمت خدا کسی قوم کو دیا کرتا ہے جب تک وہ خود اپنے دلوں کی حالت نہ بدل ڈالیں خدا اسے نہیں بدلا کرتا۔ اور اس لیے کہ خدا سنتا جانتا ہے"
+}

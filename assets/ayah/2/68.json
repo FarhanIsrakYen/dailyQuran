@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 68,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_68.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002068.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_68.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002068.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_68.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002068.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_68.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002068.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_68.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002068.mp3"
+        }
+    },
+    "english": "They said, “Call upon your Lord to clarify for us what type ˹of cow˺ it should be!” He replied, “Allah says, ‘The cow should neither be old nor young but in between. So do as you are commanded!’”",
+    "arabic1": "قَالُوا۟ ٱدْعُ لَنَا رَبَّكَ يُبَيِّن لَّنَا مَا هِىَ ۚ قَالَ إِنَّهُۥ يَقُولُ إِنَّهَا بَقَرَةٌ لَّا فَارِضٌ وَلَا بِكْرٌ عَوَانٌۢ بَيْنَ ذَٰلِكَ ۖ فَٱفْعَلُوا۟ مَا تُؤْمَرُونَ",
+    "arabic2": "قالوا ادع لنا ربك يبين لنا ما هي قال انه يقول انها بقرة لا فارض ولا بكر عوان بين ذلك فافعلوا ما تؤمرون",
+    "bengali": "তারা বলল, ‘তুমি আমাদের জন্য তোমার রবের নিকট দো‘আ কর, তিনি যেন আমাদের জন্য স্পষ্ট করে দেন গাভীটি কেমন হবে’। সে বলল, ‘নিশ্চয় তিনি বলছেন, নিশ্চয় তা হবে গরু, বুড়ো নয় এবং বাচ্চাও নয়। এর মাঝামাঝি ধরনের। সুতরাং তোমরা কর যা তোমাদেরকে নির্দেশ দেয়া হচ্ছে’।",
+    "urdu": "انہوں نے کہا کہ اپنے پروردگار سے التجا کیجئے کہ وہ ہمیں یہ بتائے کہ وہ بیل کس طرح کا ہو۔ (موسیٰ نے) کہا کہ پروردگار فرماتا ہے کہ وہ بیل نہ تو بوڑھا ہو اور نہ بچھڑا، بلکہ ان کے درمیان (یعنی جوان) ہو۔ جیسا تم کو حکم دیا گیا ہے، ویسا کرو"
+}

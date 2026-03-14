@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Ahqaf",
+    "surahNameArabic": "الأحقاف",
+    "surahNameArabicLong": "سورة الأحقاف",
+    "surahNameTranslation": "The Dunes",
+    "revelationPlace": "Mecca",
+    "totalAyah": 35,
+    "surahNo": 46,
+    "ayahNo": 21,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/46_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/046021.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/46_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/046021.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/46_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/046021.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/46_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/046021.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/46_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/046021.mp3"
+        }
+    },
+    "english": "And remember the brother of ’Ȃd, when he warned his people, who inhabited the sand-hills—there were certainly warners before and after him—˹saying,˺ “Worship none but Allah. I truly fear for you the torment of a tremendous day.”",
+    "arabic1": "۞ وَٱذْكُرْ أَخَا عَادٍ إِذْ أَنذَرَ قَوْمَهُۥ بِٱلْأَحْقَافِ وَقَدْ خَلَتِ ٱلنُّذُرُ مِنۢ بَيْنِ يَدَيْهِ وَمِنْ خَلْفِهِۦٓ أَلَّا تَعْبُدُوٓا۟ إِلَّا ٱللَّهَ إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ",
+    "arabic2": "واذكر اخا عاد اذ انذر قومه بالاحقاف وقد خلت النذر من بين يديه ومن خلفه الا تعبدوا الا الله اني اخاف عليكم عذاب يوم عظيم",
+    "bengali": "আর স্মরণ কর ‘আ’দ সম্প্রদায়ের ভাইয়ের কথা, যখন সে আহকাফের স্বীয় সম্প্রদায়কে সতর্ক করেছিল। আর এমন সতর্ককারীরা তার পূর্বে এবং তার পরেও গত হয়েছে যে, ‘তোমরা আল্লাহ ছাড়া কারো ইবাদাত করো না। নিশ্চয় আমি তোমাদের উপর এক ভয়াবহ দিনের আযাবের আশঙ্কা করছি’।",
+    "urdu": "اور (قوم) عاد کے بھائی (ہود) کو یاد کرو کہ جب انہوں نے اپنی قوم کو سرزمین احقاف میں ہدایت کی اور ان سے پہلے اور پیچھے بھی ہدایت کرنے والے گزرچکے تھے کہ خدا کے سوا کسی کی عبادت نہ کرو۔ مجھے تمہارے بارے میں بڑے دن کے عذاب کا ڈر لگتا ہے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 184,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/3_184.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/003184.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/3_184.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/003184.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/3_184.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/003184.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/3_184.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/003184.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/3_184.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/003184.mp3"
+        }
+    },
+    "english": "If you are rejected by them, so too were messengers before you who came with clear proofs, divine Books, and enlightening Scriptures.",
+    "arabic1": "فَإِن كَذَّبُوكَ فَقَدْ كُذِّبَ رُسُلٌ مِّن قَبْلِكَ جَآءُو بِٱلْبَيِّنَـٰتِ وَٱلزُّبُرِ وَٱلْكِتَـٰبِ ٱلْمُنِيرِ",
+    "arabic2": "فان كذبوك فقد كذب رسل من قبلك جاءوا بالبينات والزبر والكتاب المنير",
+    "bengali": "অতএব যদি তারা তোমাকে মিথ্যাবাদী বলে, তবে তোমার পূর্বে রাসূলগণকে মিথ্যাবাদী বলা হয়েছিল। তারা স্পষ্ট প্রমাণসমূহ, সহীফা ও আলোকময় কিতাবসহ এসেছিল।",
+    "urdu": "پھر اگر یہ لوگ تم کو سچا نہ سمجھیں تو تم سے پہلے بہت سے پیغمبر کھلی ہوئی نشانیاں اور صحیفے اور روشن کتابیں لے کر آچکے ہیں اور لوگوں نے ان کو بھی سچا نہیں سمجھا"
+}

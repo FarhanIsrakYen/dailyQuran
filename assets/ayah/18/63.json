@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Kahf",
+    "surahNameArabic": "الكهف",
+    "surahNameArabicLong": "سورة الكهف",
+    "surahNameTranslation": "The Cave",
+    "revelationPlace": "Mecca",
+    "totalAyah": 110,
+    "surahNo": 18,
+    "ayahNo": 63,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/18_63.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/018063.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/18_63.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/018063.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/18_63.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/018063.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/18_63.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/018063.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/18_63.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/018063.mp3"
+        }
+    },
+    "english": "He replied, “Do you remember when we rested by the rock? ˹That is when˺ I forgot the fish. None made me forget to mention this except Satan. And the fish made its way into the sea miraculously.”",
+    "arabic1": "قَالَ أَرَءَيْتَ إِذْ أَوَيْنَآ إِلَى ٱلصَّخْرَةِ فَإِنِّى نَسِيتُ ٱلْحُوتَ وَمَآ أَنسَىٰنِيهُ إِلَّا ٱلشَّيْطَـٰنُ أَنْ أَذْكُرَهُۥ ۚ وَٱتَّخَذَ سَبِيلَهُۥ فِى ٱلْبَحْرِ عَجَبًا",
+    "arabic2": "قال ارايت اذ اوينا الى الصخرة فاني نسيت الحوت وما انسانيه الا الشيطان ان اذكره واتخذ سبيله في البحر عجبا",
+    "bengali": "সে বলল, আপনি কি লক্ষ্য করেছেন যে, যখন আমরা পাথরটিতে বিশ্রাম নিচ্ছিলাম, তখন আমি মাছটি হারিয়ে ফেলি। আর আমাকে তা স্মরণ করতে ভুলিয়েছে কেবল শয়তান এবং আশ্চর্যজনকভাবে তা সমুদ্রে তার পথ করে নিয়েছে’।",
+    "urdu": "(اس نے) کہا کہ بھلا آپ نے دیکھا کہ جب ہم نے پتھر کے ساتھ آرام کیا تھا تو میں مچھلی (وہیں) بھول گیا۔ اور مجھے (آپ سے) اس کا ذکر کرنا شیطان نے بھلا دیا۔ اور اس نے عجب طرح سے دریا میں اپنا رستہ لیا"
+}

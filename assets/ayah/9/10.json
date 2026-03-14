@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 10,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/9_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/009010.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/9_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/009010.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/9_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/009010.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/9_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/009010.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/9_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/009010.mp3"
+        }
+    },
+    "english": "They do not honour the bonds of kinship or treaties with the believers. It is they who are the transgressors.",
+    "arabic1": "لَا يَرْقُبُونَ فِى مُؤْمِنٍ إِلًّا وَلَا ذِمَّةً ۚ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُعْتَدُونَ",
+    "arabic2": "لا يرقبون في مؤمن الا ولا ذمة واولئك هم المعتدون",
+    "bengali": "তারা কোন মুমিনের ব্যাপারে আত্মীয়তা ও অঙ্গীকারের খেয়াল রাখে না। আর তারাই হল সীমালঙ্ঘনকারী।",
+    "urdu": "یہ لوگ کسی مومن کے حق میں نہ تو رشتہ داری کا پاس کرتے ہیں نہ عہد کا۔ اور یہ حد سے تجاوز کرنے والے ہیں"
+}

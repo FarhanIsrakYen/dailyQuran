@@ -1,0 +1,42 @@
+{
+    "surahName": "As-Saaffaat",
+    "surahNameArabic": "الصافات",
+    "surahNameArabicLong": "سورة الصافات",
+    "surahNameTranslation": "Those drawn up in Ranks",
+    "revelationPlace": "Mecca",
+    "totalAyah": 182,
+    "surahNo": 37,
+    "ayahNo": 108,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/37_108.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/037108.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/37_108.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/037108.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/37_108.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/037108.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/37_108.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/037108.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/37_108.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/037108.mp3"
+        }
+    },
+    "english": "and blessed Abraham ˹with honourable mention˺ among later generations:",
+    "arabic1": "وَتَرَكْنَا عَلَيْهِ فِى ٱلْـَٔاخِرِينَ",
+    "arabic2": "وتركنا عليه في الاخرين",
+    "bengali": "আর তার জন্য আমি পরবর্তীদের মধ্যে সুখ্যাতি রেখে দিয়েছি।",
+    "urdu": "اور پیچھے آنے والوں میں ابراہیم کا (ذکر خیر باقی) چھوڑ دیا"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Hud",
+    "surahNameArabic": "هود",
+    "surahNameArabicLong": "سورة هود",
+    "surahNameTranslation": "Hud",
+    "revelationPlace": "Mecca",
+    "totalAyah": 123,
+    "surahNo": 11,
+    "ayahNo": 108,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/11_108.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/011108.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/11_108.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/011108.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/11_108.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/011108.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/11_108.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/011108.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/11_108.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/011108.mp3"
+        }
+    },
+    "english": "And as for those destined to joy, they will be in Paradise, staying there forever, as long as the heavens and the earth will endure, except what your Lord wills—a ˹generous˺ giving, without end.",
+    "arabic1": "۞ وَأَمَّا ٱلَّذِينَ سُعِدُوا۟ فَفِى ٱلْجَنَّةِ خَـٰلِدِينَ فِيهَا مَا دَامَتِ ٱلسَّمَـٰوَٰتُ وَٱلْأَرْضُ إِلَّا مَا شَآءَ رَبُّكَ ۖ عَطَآءً غَيْرَ مَجْذُوذٍ",
+    "arabic2": "واما الذين سعدوا ففي الجنة خالدين فيها ما دامت السماوات والارض الا ما شاء ربك عطاء غير مجذوذ",
+    "bengali": "আর যারা ভাগ্যবান হয়েছে, তারা জান্নাতে থাকবে, সেখানে তারা স্থায়ী হবে যতদিন পর্যন্ত আসমানসমূহ ও যমীন থাকবে, অবশ্য তোমার রব যা চান*, অব্যাহত প্রতিদানস্বরূপ। \n* অর্থাৎ আল্লাহ ইচ্ছা করলে তাদেরকে জান্নাত থেকে বের করে দিতে পারেন। তবে তিনি তা করবেন না। কেননা তিনি নিজেই তাদের স্থায়ীত্বের ঘোষণা দিয়েছেন।",
+    "urdu": "اور جو نیک بخت ہوں گے، وہ بہشت میں داخل کیے جائیں گے اور جب تک آسمان اور زمین ہیں ہمیشہ اسی میں رہیں گے مگر جتنا تمہارا پروردگار چاہے۔ بےشک تمہارا پروردگار جو چاہتا ہے کردیتا ہے۔ اور جو نیک بخت ہوں گے وہ بہشت میں داخل کئے جائیں گے (اور) جب تک آسمان اور زمین ہیں ہمیشہ اسی میں رہیں گے۔ مگر جتنا تمہارا پروردگار چاہے۔ یہ (خدا کی) بخشش ہے جو کبھی منقطع نہیں ہوگی"
+}

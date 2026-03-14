@@ -1,0 +1,42 @@
+{
+    "surahName": "Qaaf",
+    "surahNameArabic": "ق",
+    "surahNameArabicLong": "سورة ق",
+    "surahNameTranslation": "The letter Qaaf",
+    "revelationPlace": "Mecca",
+    "totalAyah": 45,
+    "surahNo": 50,
+    "ayahNo": 27,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/50_27.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/050027.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/50_27.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/050027.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/50_27.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/050027.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/50_27.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/050027.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/50_27.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/050027.mp3"
+        }
+    },
+    "english": "One’s ˹devilish˺ associate will say, “Our Lord! I did not make them transgress. Rather, they were far astray ˹on their own˺.”",
+    "arabic1": "۞ قَالَ قَرِينُهُۥ رَبَّنَا مَآ أَطْغَيْتُهُۥ وَلَـٰكِن كَانَ فِى ضَلَـٰلٍۭ بَعِيدٍ",
+    "arabic2": "قال قرينه ربنا ما اطغيته ولكن كان في ضلال بعيد",
+    "bengali": "তার সঙ্গী (শয়তান) বলবে, ‘হে আমাদের ‘রব’, আমি তাকে বিদ্রোহী করে তুলিনি, বরং সে নিজেই ছিল সুদূর পথভ্রষ্টতার মধ্যে’।",
+    "urdu": "اس کا ساتھی (شیطان) کہے گا کہ اے ہمارے پروردگار میں نے اس کو گمراہ نہیں کیا تھا بلکہ یہ آپ ہی رستے سے دور بھٹکا ہوا تھا"
+}

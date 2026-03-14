@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 94,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_94.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002094.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_94.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002094.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_94.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002094.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_94.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002094.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_94.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002094.mp3"
+        }
+    },
+    "english": "Say, ˹O Prophet,˺ “If the ˹eternal˺ Home of the Hereafter with Allah is exclusively for you ˹Israelites˺ out of all humanity, then wish for death if what you say is true!”",
+    "arabic1": "قُلْ إِن كَانَتْ لَكُمُ ٱلدَّارُ ٱلْـَٔاخِرَةُ عِندَ ٱللَّهِ خَالِصَةً مِّن دُونِ ٱلنَّاسِ فَتَمَنَّوُا۟ ٱلْمَوْتَ إِن كُنتُمْ صَـٰدِقِينَ",
+    "arabic2": "قل ان كانت لكم الدار الاخرة عند الله خالصة من دون الناس فتمنوا الموت ان كنتم صادقين",
+    "bengali": "বল, ‘যদি অন্যান্য মানুষ ছাড়া আল্লাহর নিকট আখিরাতের আবাস শুধু তোমাদের জন্যই নির্দিষ্ট থাকে, তবে তোমরা মৃত্যু কামনা কর, যদি তোমরা সত্যবাদী হয়ে থাক’।",
+    "urdu": "کہہ دو کہ اگر آخرت کا گھر اور لوگوں (یعنی مسلمانوں) کے لیے نہیں اور خدا کے نزدیک تمہارے ہی لیے مخصوص ہے تو اگر سچے ہو تو موت کی آرزو تو کرو"
+}

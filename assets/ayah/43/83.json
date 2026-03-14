@@ -1,0 +1,42 @@
+{
+    "surahName": "Az-Zukhruf",
+    "surahNameArabic": "الزخرف",
+    "surahNameArabicLong": "سورة الزخرف",
+    "surahNameTranslation": "Ornaments of gold",
+    "revelationPlace": "Mecca",
+    "totalAyah": 89,
+    "surahNo": 43,
+    "ayahNo": 83,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/43_83.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/043083.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/43_83.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/043083.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/43_83.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/043083.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/43_83.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/043083.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/43_83.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/043083.mp3"
+        }
+    },
+    "english": "So let them indulge ˹in falsehood˺ and amuse ˹themselves˺ until they face their Day, which they have been warned of.",
+    "arabic1": "فَذَرْهُمْ يَخُوضُوا۟ وَيَلْعَبُوا۟ حَتَّىٰ يُلَـٰقُوا۟ يَوْمَهُمُ ٱلَّذِى يُوعَدُونَ",
+    "arabic2": "فذرهم يخوضوا ويلعبوا حتى يلاقوا يومهم الذي يوعدون",
+    "bengali": "অতএব তাদেরকে ছেড়ে দাও, তারা মগ্ন থাকুক বেহুদা কথায় আর খেল-তামাশায় মত্ত থাকুক যতক্ষণ না সেদিনের সাথে তারা সাক্ষাৎ করে যার প্রতিশ্রুতি তাদেরকে দেয়া হয়েছে।",
+    "urdu": "تو ان کو بک بک کرنے اور کھیلنے دو۔ یہاں تک کہ جس دن کا ان سے وعدہ کیا جاتا ہے اس کو دیکھ لیں"
+}

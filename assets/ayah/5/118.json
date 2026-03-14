@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Maaida",
+    "surahNameArabic": "المائدة",
+    "surahNameArabicLong": "سورة المائدة",
+    "surahNameTranslation": "The Table",
+    "revelationPlace": "Madina",
+    "totalAyah": 120,
+    "surahNo": 5,
+    "ayahNo": 118,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/5_118.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/005118.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/5_118.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/005118.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/5_118.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/005118.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/5_118.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/005118.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/5_118.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/005118.mp3"
+        }
+    },
+    "english": "If You punish them, they belong to You after all. But if You forgive them, You are surely the Almighty, All-Wise.”",
+    "arabic1": "إِن تُعَذِّبْهُمْ فَإِنَّهُمْ عِبَادُكَ ۖ وَإِن تَغْفِرْ لَهُمْ فَإِنَّكَ أَنتَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+    "arabic2": "ان تعذبهم فانهم عبادك وان تغفر لهم فانك انت العزيز الحكيم",
+    "bengali": "যদি আপনি তাদেরকে শাস্তি প্রদান করেন তবে তারা আপনারই বান্দা, আর তাদেরকে যদি ক্ষমা করেন, তবে নিশ্চয় আপনি পরাক্রমশালী, প্রজ্ঞাময়।’",
+    "urdu": "اگر تو ان کو عذاب دے تو یہ تیرے بندے ہیں اور اگر بخش دے تو (تیری مہربانی ہے) بےشک تو غالب اور حکمت والا ہے"
+}

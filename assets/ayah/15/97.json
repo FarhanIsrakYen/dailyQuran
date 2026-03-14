@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Hijr",
+    "surahNameArabic": "الحجر",
+    "surahNameArabicLong": "سورة الحجر",
+    "surahNameTranslation": "The Rock",
+    "revelationPlace": "Mecca",
+    "totalAyah": 99,
+    "surahNo": 15,
+    "ayahNo": 97,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/15_97.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/015097.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/15_97.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/015097.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/15_97.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/015097.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/15_97.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/015097.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/15_97.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/015097.mp3"
+        }
+    },
+    "english": "We certainly know that your heart is truly distressed by what they say.",
+    "arabic1": "وَلَقَدْ نَعْلَمُ أَنَّكَ يَضِيقُ صَدْرُكَ بِمَا يَقُولُونَ",
+    "arabic2": "ولقد نعلم انك يضيق صدرك بما يقولون",
+    "bengali": "আর অবশ্যই আমি জানি যে, তারা যা বলে তাতে তোমার অন্তর সঙ্কুচিত হয়।",
+    "urdu": "اور ہم جانتے ہیں کہ ان باتوں سے تمہارا دل تنگ ہوتا ہے"
+}

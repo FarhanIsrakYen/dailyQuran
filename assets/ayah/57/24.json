@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Hadid",
+    "surahNameArabic": "الحديد",
+    "surahNameArabicLong": "سورة الحديد",
+    "surahNameTranslation": "The Iron",
+    "revelationPlace": "Madina",
+    "totalAyah": 29,
+    "surahNo": 57,
+    "ayahNo": 24,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/57_24.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/057024.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/57_24.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/057024.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/57_24.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/057024.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/57_24.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/057024.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/57_24.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/057024.mp3"
+        }
+    },
+    "english": "those who are stingy and promote stinginess among people. And whoever turns away ˹should know that˺ Allah ˹alone˺ is truly the Self-Sufficient, Praiseworthy.",
+    "arabic1": "ٱلَّذِينَ يَبْخَلُونَ وَيَأْمُرُونَ ٱلنَّاسَ بِٱلْبُخْلِ ۗ وَمَن يَتَوَلَّ فَإِنَّ ٱللَّهَ هُوَ ٱلْغَنِىُّ ٱلْحَمِيدُ",
+    "arabic2": "الذين يبخلون ويامرون الناس بالبخل ومن يتول فان الله هو الغني الحميد",
+    "bengali": "যারা কৃপণতা করে এবং মানুষকে কৃপণতার নির্দেশ দেয়, আর যে মুখ ফিরিয়ে নেয়, তাহলে আল্লাহ নিশ্চয় অভাবমুক্ত, সপ্রশংসিত।",
+    "urdu": "جو خود بھی بخل کریں اور لوگوں کو بھی بخل سکھائیں اور جو شخص روگردانی کرے تو خدا بھی بےپروا (اور) وہی سزاوار حمد (وثنا) ہے"
+}

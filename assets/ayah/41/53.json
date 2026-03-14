@@ -1,0 +1,42 @@
+{
+    "surahName": "Fussilat",
+    "surahNameArabic": "فصلت",
+    "surahNameArabicLong": "سورة فصلت",
+    "surahNameTranslation": "Explained in detail",
+    "revelationPlace": "Mecca",
+    "totalAyah": 54,
+    "surahNo": 41,
+    "ayahNo": 53,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/41_53.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/041053.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/41_53.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/041053.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/41_53.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/041053.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/41_53.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/041053.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/41_53.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/041053.mp3"
+        }
+    },
+    "english": "We will show them Our signs in the universe and within themselves until it becomes clear to them that this ˹Quran˺ is the truth. Is it not enough that your Lord is a Witness over all things?",
+    "arabic1": "سَنُرِيهِمْ ءَايَـٰتِنَا فِى ٱلْـَٔافَاقِ وَفِىٓ أَنفُسِهِمْ حَتَّىٰ يَتَبَيَّنَ لَهُمْ أَنَّهُ ٱلْحَقُّ ۗ أَوَلَمْ يَكْفِ بِرَبِّكَ أَنَّهُۥ عَلَىٰ كُلِّ شَىْءٍ شَهِيدٌ",
+    "arabic2": "سنريهم اياتنا في الافاق وفي انفسهم حتى يتبين لهم انه الحق اولم يكف بربك انه على كل شيء شهيد",
+    "bengali": "বিশ্বজগতে ও তাদের নিজদের মধ্যে আমি তাদেরকে আমার নিদর্শনাবলী দেখাব যাতে তাদের কাছে সুস্পষ্ট হয় যে, এটি (কুরআন) সত্য; তোমার রবের জন্য এটাই যথেষ্ট নয় কি যে, তিনি সকল বিষয়ে সাক্ষী?",
+    "urdu": "ہم عنقریب ان کو اطراف (عالم) میں بھی اور خود ان کی ذات میں بھی اپنی نشانیاں دکھائیں گے یہاں تک کہ ان پر ظاہر ہوجائے گا کہ (قرآن) حق ہے۔ کیا تم کو یہ کافی نہیں کہ تمہارا پروردگار ہر چیز سے خبردار ہے"
+}

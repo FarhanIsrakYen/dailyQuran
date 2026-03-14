@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Qamar",
+    "surahNameArabic": "القمر",
+    "surahNameArabicLong": "سورة القمر",
+    "surahNameTranslation": "The Moon",
+    "revelationPlace": "Mecca",
+    "totalAyah": 55,
+    "surahNo": 54,
+    "ayahNo": 45,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/54_45.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/054045.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/54_45.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/054045.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/54_45.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/054045.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/54_45.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/054045.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/54_45.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/054045.mp3"
+        }
+    },
+    "english": "˹Soon˺ their united front will be defeated and ˹forced to˺ flee.",
+    "arabic1": "سَيُهْزَمُ ٱلْجَمْعُ وَيُوَلُّونَ ٱلدُّبُرَ",
+    "arabic2": "سيهزم الجمع ويولون الدبر",
+    "bengali": "সংঘবদ্ধ দলটি শীঘ্রই পরাজিত হবে এবং পিঠ দেখিয়ে পালাবে।",
+    "urdu": "عنقریب یہ جماعت شکست کھائے گی اور یہ لوگ پیٹھ پھیر کر بھاگ جائیں گے"
+}

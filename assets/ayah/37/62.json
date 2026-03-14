@@ -1,0 +1,42 @@
+{
+    "surahName": "As-Saaffaat",
+    "surahNameArabic": "الصافات",
+    "surahNameArabicLong": "سورة الصافات",
+    "surahNameTranslation": "Those drawn up in Ranks",
+    "revelationPlace": "Mecca",
+    "totalAyah": 182,
+    "surahNo": 37,
+    "ayahNo": 62,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/37_62.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/037062.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/37_62.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/037062.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/37_62.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/037062.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/37_62.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/037062.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/37_62.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/037062.mp3"
+        }
+    },
+    "english": "Is this ˹bliss˺ a better accommodation or the tree of Zaqqûm?",
+    "arabic1": "أَذَٰلِكَ خَيْرٌ نُّزُلًا أَمْ شَجَرَةُ ٱلزَّقُّومِ",
+    "arabic2": "اذلك خير نزلا ام شجرة الزقوم",
+    "bengali": "আপ্যায়নের জন্য এগুলো উত্তম না যাক্কূম* বৃক্ষ? \n* অতি তিক্ত স্বাদযুক্ত জাহান্নামের এক গাছ।",
+    "urdu": "بھلا یہ مہمانی اچھی ہے یا تھوہر کا درخت؟"
+}

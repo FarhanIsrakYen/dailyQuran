@@ -1,0 +1,42 @@
+{
+    "surahName": "Ibrahim",
+    "surahNameArabic": "ابراهيم",
+    "surahNameArabicLong": "سورة ابراهيم",
+    "surahNameTranslation": "Abraham",
+    "revelationPlace": "Mecca",
+    "totalAyah": 52,
+    "surahNo": 14,
+    "ayahNo": 19,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/14_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/014019.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/14_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/014019.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/14_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/014019.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/14_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/014019.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/14_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/014019.mp3"
+        }
+    },
+    "english": "Have you not seen that Allah created the heavens and the earth for a reason? If He wills, He can eliminate you and produce a new creation.",
+    "arabic1": "أَلَمْ تَرَ أَنَّ ٱللَّهَ خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ بِٱلْحَقِّ ۚ إِن يَشَأْ يُذْهِبْكُمْ وَيَأْتِ بِخَلْقٍ جَدِيدٍ",
+    "arabic2": "الم تر ان الله خلق السماوات والارض بالحق ان يشا يذهبكم ويات بخلق جديد",
+    "bengali": "তুমি কি দেখ না যে, আল্লাহ আসমানসমূহ এবং যমীন সৃষ্টি করেছেন যথাযথভাবে? তিনি ইচ্ছা করলে তোমাদেরকে নিশ্চি‎হ্ন করতে পারেন এবং অস্তিত্বে আনতে পারেন নতুন সৃষ্টি ।",
+    "urdu": "کیا تم نے نہیں دیکھا کہ خدا نے آسمانوں اور زمین کو تدبیر سے پیدا کیا ہے۔ اگر وہ چاہے تو تم کو نابود کر دے اور (تمہاری جگہ) نئی مخلوق پیدا کر دے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nahl",
+    "surahNameArabic": "النحل",
+    "surahNameArabicLong": "سورة النحل",
+    "surahNameTranslation": "The Bee",
+    "revelationPlace": "Mecca",
+    "totalAyah": 128,
+    "surahNo": 16,
+    "ayahNo": 123,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/16_123.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/016123.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/16_123.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/016123.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/16_123.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/016123.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/16_123.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/016123.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/16_123.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/016123.mp3"
+        }
+    },
+    "english": "Then We revealed to you ˹O Prophet, saying˺: “Follow the faith of Abraham, the upright, who was not one of the polytheists.”",
+    "arabic1": "ثُمَّ أَوْحَيْنَآ إِلَيْكَ أَنِ ٱتَّبِعْ مِلَّةَ إِبْرَٰهِيمَ حَنِيفًا ۖ وَمَا كَانَ مِنَ ٱلْمُشْرِكِينَ",
+    "arabic2": "ثم اوحينا اليك ان اتبع ملة ابراهيم حنيفا وما كان من المشركين",
+    "bengali": "তারপর আমি তোমার প্রতি ওহী পঠিয়েছি যে, তুমি মিল্লাতে ইবরাহীমের অনুসরণ কর, যে ছিল একনিষ্ঠ এবং ছিল না মুশরিকদের অন্তর্ভুক্ত।",
+    "urdu": "پھر ہم نے تمہاری طرف وحی بھیجی کہ دین ابراہیم کی پیروی اختیار کرو جو ایک طرف کے ہو رہے تھے اور مشرکوں میں سے نہ تھے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Ash-Shura",
+    "surahNameArabic": "الشورى",
+    "surahNameArabicLong": "سورة الشورى",
+    "surahNameTranslation": "Consultation",
+    "revelationPlace": "Mecca",
+    "totalAyah": 53,
+    "surahNo": 42,
+    "ayahNo": 21,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/42_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/042021.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/42_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/042021.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/42_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/042021.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/42_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/042021.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/42_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/042021.mp3"
+        }
+    },
+    "english": "Or do they have associate-gods who have ordained for them some ˹polytheistic˺ beliefs, which Allah has not authorized? Had it not been for ˹prior˺ decree on Judgment, the matter would have certainly been settled between them ˹at once˺. And surely the wrongdoers will suffer a painful punishment.",
+    "arabic1": "أَمْ لَهُمْ شُرَكَـٰٓؤُا۟ شَرَعُوا۟ لَهُم مِّنَ ٱلدِّينِ مَا لَمْ يَأْذَنۢ بِهِ ٱللَّهُ ۚ وَلَوْلَا كَلِمَةُ ٱلْفَصْلِ لَقُضِىَ بَيْنَهُمْ ۗ وَإِنَّ ٱلظَّـٰلِمِينَ لَهُمْ عَذَابٌ أَلِيمٌ",
+    "arabic2": "ام لهم شركاء شرعوا لهم من الدين ما لم ياذن به الله ولولا كلمة الفصل لقضي بينهم وان الظالمين لهم عذاب اليم",
+    "bengali": "তাদের জন্য কি এমন কিছু শরীক আছে, যারা তাদের জন্য দীনের বিধান দিয়েছে, যার অনুমতি আল্লাহ দেননি? আর ফয়সালার ঘোষণা না থাকলে তাদের ব্যাপারে সিদ্ধান্ত হয়েই যেত। আর নিশ্চয় যালিমদের জন্য রয়েছে যন্ত্রণাদায়ক আযাব।",
+    "urdu": "کیا ان کے وہ شریک ہیں جنہوں نے ان کے لئے ایسا دین مقرر کیا ہے جس کا خدا نے حکم نہیں دیا۔ اور اگر فیصلے (کے دن) کا وعدہ نہ ہوتا تو ان میں فیصلہ کردیا جاتا اور جو ظالم ہیں ان کے لئے درد دینے والا عذاب ہے"
+}

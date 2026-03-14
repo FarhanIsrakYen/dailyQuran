@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Jinn",
+    "surahNameArabic": "الجن",
+    "surahNameArabicLong": "سورة الجن",
+    "surahNameTranslation": "The Jinn",
+    "revelationPlace": "Mecca",
+    "totalAyah": 28,
+    "surahNo": 72,
+    "ayahNo": 21,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/72_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/072021.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/72_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/072021.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/72_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/072021.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/72_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/072021.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/72_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/072021.mp3"
+        }
+    },
+    "english": "Say, “It is not in my power to harm or benefit you.”",
+    "arabic1": "قُلْ إِنِّى لَآ أَمْلِكُ لَكُمْ ضَرًّا وَلَا رَشَدًا",
+    "arabic2": "قل اني لا املك لكم ضرا ولا رشدا",
+    "bengali": "বল, ‘নিশ্চয় আমি তোমাদের জন্য না কোন অকল্যাণ করার ক্ষমতা রাখি এবং না কোন কল্যাণ করার’।",
+    "urdu": "(یہ بھی) کہہ دو کہ میں تمہارے حق میں نقصان اور نفع کا کچھ اختیار نہیں رکھتا"
+}

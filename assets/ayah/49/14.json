@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Hujuraat",
+    "surahNameArabic": "الحجرات",
+    "surahNameArabicLong": "سورة الحجرات",
+    "surahNameTranslation": "The Inner Apartments",
+    "revelationPlace": "Madina",
+    "totalAyah": 18,
+    "surahNo": 49,
+    "ayahNo": 14,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/49_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/049014.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/49_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/049014.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/49_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/049014.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/49_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/049014.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/49_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/049014.mp3"
+        }
+    },
+    "english": "˹Some of˺ the nomadic Arabs say, “We believe.” Say, ˹O Prophet,˺ “You have not believed. But say, ‘We have submitted,’ for faith has not yet entered your hearts. But if you obey Allah and His Messenger ˹wholeheartedly˺, He will not discount anything from ˹the reward of˺ your deeds. Allah is truly All-Forgiving, Most Merciful.”",
+    "arabic1": "۞ قَالَتِ ٱلْأَعْرَابُ ءَامَنَّا ۖ قُل لَّمْ تُؤْمِنُوا۟ وَلَـٰكِن قُولُوٓا۟ أَسْلَمْنَا وَلَمَّا يَدْخُلِ ٱلْإِيمَـٰنُ فِى قُلُوبِكُمْ ۖ وَإِن تُطِيعُوا۟ ٱللَّهَ وَرَسُولَهُۥ لَا يَلِتْكُم مِّنْ أَعْمَـٰلِكُمْ شَيْـًٔا ۚ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ",
+    "arabic2": "قالت الاعراب امنا قل لم تؤمنوا ولكن قولوا اسلمنا ولما يدخل الايمان في قلوبكم وان تطيعوا الله ورسوله لا يلتكم من اعمالكم شيئا ان الله غفور رحيم",
+    "bengali": "বেদুঈনরা বলল, ‘আমরা ঈমান আনলাম’। বল, ‘তোমরা ঈমান আননি’। বরং তোমরা বল, ‘আমরা আত্মসমর্পণ করলাম’। আর এখন পর্যন্ত তোমাদের অন্তরে ঈমান প্রবেশ করেনি। আর যদি তোমরা আল্লাহ ও তাঁর রাসূলের আনুগত্য কর, তাহলে তিনি তোমাদের আমলসমূহের কোন কিছুই হ্রাস করবেন না। নিশ্চয় আল্লাহ অধিক ক্ষমাশীল, পরম দয়ালু।",
+    "urdu": "دیہاتی کہتے ہیں کہ ہم ایمان لے آئے۔ کہہ دو کہ تم ایمان نہیں لائے (بلکہ یوں) کہو کہ ہم اسلام لائے ہیں اور ایمان تو ہنوز تمہارے دلوں میں داخل ہی نہیں ہوا۔ اور تم خدا اور اس کے رسول کی فرمانبرداری کرو گے تو خدا تمہارے اعمال سے کچھ کم نہیں کرے گا۔ بےشک خدا بخشنے والا مہربان ہے"
+}

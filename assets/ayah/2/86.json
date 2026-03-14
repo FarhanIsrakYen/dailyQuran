@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 86,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_86.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002086.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_86.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002086.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_86.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002086.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_86.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002086.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_86.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002086.mp3"
+        }
+    },
+    "english": "These are the ones who trade the Hereafter for the life of this world. So their punishment will not be reduced, nor will they be helped.",
+    "arabic1": "أُو۟لَـٰٓئِكَ ٱلَّذِينَ ٱشْتَرَوُا۟ ٱلْحَيَوٰةَ ٱلدُّنْيَا بِٱلْـَٔاخِرَةِ ۖ فَلَا يُخَفَّفُ عَنْهُمُ ٱلْعَذَابُ وَلَا هُمْ يُنصَرُونَ",
+    "arabic2": "اولئك الذين اشتروا الحياة الدنيا بالاخرة فلا يخفف عنهم العذاب ولا هم ينصرون",
+    "bengali": "তারা আখিরাতের বিনিময়ে দুনিয়ার জীবনকে খরিদ করেছে। সুতরাং তাদের থেকে আযাব হালকা করা হবে না এবং তারা সাহায্যপ্রাপ্তও হবে না।",
+    "urdu": "یہ وہ لوگ ہیں جنہوں نے آخرت کے بدلے دنیا کی زندگی خریدی۔ سو نہ تو ان سے عذاب ہی ہلکا کیا جائے گا اور نہ ان کو (اور طرح کی) مدد ملے گی"
+}

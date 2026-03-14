@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 50,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/4_50.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/004050.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/4_50.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/004050.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/4_50.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/004050.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/4_50.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/004050.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/4_50.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/004050.mp3"
+        }
+    },
+    "english": "See how they fabricate lies against Allah—this alone is a blatant sin.",
+    "arabic1": "ٱنظُرْ كَيْفَ يَفْتَرُونَ عَلَى ٱللَّهِ ٱلْكَذِبَ ۖ وَكَفَىٰ بِهِۦٓ إِثْمًا مُّبِينًا",
+    "arabic2": "انظر كيف يفترون على الله الكذب وكفى به اثما مبينا",
+    "bengali": "দেখ, কেমন করে তারা আল্লাহর উপর মিথ্যা রটনা করে। আর প্রকাশ্য পাপ হিসেবে এটিই যথেষ্ট।",
+    "urdu": "دیکھو یہ خدا پر کیسا جھوٹ (طوفان) باندھتے ہیں اور یہی گناہ صریح کافی ہے"
+}

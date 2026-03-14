@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Maaida",
+    "surahNameArabic": "المائدة",
+    "surahNameArabicLong": "سورة المائدة",
+    "surahNameTranslation": "The Table",
+    "revelationPlace": "Madina",
+    "totalAyah": 120,
+    "surahNo": 5,
+    "ayahNo": 93,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/5_93.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/005093.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/5_93.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/005093.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/5_93.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/005093.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/5_93.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/005093.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/5_93.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/005093.mp3"
+        }
+    },
+    "english": "There is no blame on those who believe and do good for what they had consumed before ˹the prohibition˺, as long as they fear Allah, have faith, and do what is good; then they believe and act virtuously, then become fully mindful ˹of Allah˺ and do righteous deeds. For Allah loves the good-doers.",
+    "arabic1": "لَيْسَ عَلَى ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ جُنَاحٌ فِيمَا طَعِمُوٓا۟ إِذَا مَا ٱتَّقَوا۟ وَّءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ ثُمَّ ٱتَّقَوا۟ وَّءَامَنُوا۟ ثُمَّ ٱتَّقَوا۟ وَّأَحْسَنُوا۟ ۗ وَٱللَّهُ يُحِبُّ ٱلْمُحْسِنِينَ",
+    "arabic2": "ليس على الذين امنوا وعملوا الصالحات جناح فيما طعموا اذا ما اتقوا وامنوا وعملوا الصالحات ثم اتقوا وامنوا ثم اتقوا واحسنوا والله يحب المحسنين",
+    "bengali": "যারা ঈমান এনেছে ও নেক আমল করেছে তারা যা আহার করেছে তাতে কোন পাপ নেই, যখন তারা তাকওয়া অবলম্বন করে এবং ঈমান আনে আর নেক আমল করে, তারপর তাকওয়া অবলম্বন করে ও ঈমান আনে। এরপরও তারা তাকওয়া অবলম্বন করে এবং সৎকর্ম করে। আর আল্লাহ সৎকর্মশীলদের ভালবাসেন।",
+    "urdu": "جو لوگ ایمان لائے اور نیک کام کرتے رہے ان پر ان چیزوں کا کچھ گناہ نہیں جو وہ کھا چکے جب کہ انہوں نے پرہیز کیا اور ایمان لائے اور نیک کام کیے پھر پرہیز کیا اور ایمان لائے پھر پرہیز کیا اور نیکو کاری کی اور خدا نیکو کاروں کو دوست رکھتا ہے"
+}

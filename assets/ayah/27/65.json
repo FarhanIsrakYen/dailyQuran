@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Naml",
+    "surahNameArabic": "النمل",
+    "surahNameArabicLong": "سورة النمل",
+    "surahNameTranslation": "The Ant",
+    "revelationPlace": "Mecca",
+    "totalAyah": 93,
+    "surahNo": 27,
+    "ayahNo": 65,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/27_65.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/027065.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/27_65.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/027065.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/27_65.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/027065.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/27_65.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/027065.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/27_65.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/027065.mp3"
+        }
+    },
+    "english": "Say, ˹O Prophet,˺ “None in the heavens and the earth has knowledge of the unseen except Allah. Nor do they know when they will be resurrected.",
+    "arabic1": "قُل لَّا يَعْلَمُ مَن فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ٱلْغَيْبَ إِلَّا ٱللَّهُ ۚ وَمَا يَشْعُرُونَ أَيَّانَ يُبْعَثُونَ",
+    "arabic2": "قل لا يعلم من في السماوات والارض الغيب الا الله وما يشعرون ايان يبعثون",
+    "bengali": "বল, ‘আল্লাহ ছাড়া আসমানসমূহে ও যমীনে যারা আছে তারা গায়েব জানে না। আর কখন তাদেরকে পুনরুত্থিত করা হবে তা তারা অনুভব করতে পারে না’।",
+    "urdu": "کہہ دو کہ جو لوگ آسمانوں اور زمین میں ہیں خدا کے سوا غیب کی باتیں نہیں جانتے۔ اور نہ یہ جانتے ہیں کہ کب (زندہ کرکے) اٹھائے جائیں گے"
+}

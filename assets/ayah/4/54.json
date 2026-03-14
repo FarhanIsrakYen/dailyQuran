@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 54,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/4_54.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/004054.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/4_54.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/004054.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/4_54.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/004054.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/4_54.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/004054.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/4_54.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/004054.mp3"
+        }
+    },
+    "english": "Or do they envy the people for Allah’s bounties? Indeed, We have given the descendants of Abraham the Book and wisdom, along with great authority.",
+    "arabic1": "أَمْ يَحْسُدُونَ ٱلنَّاسَ عَلَىٰ مَآ ءَاتَىٰهُمُ ٱللَّهُ مِن فَضْلِهِۦ ۖ فَقَدْ ءَاتَيْنَآ ءَالَ إِبْرَٰهِيمَ ٱلْكِتَـٰبَ وَٱلْحِكْمَةَ وَءَاتَيْنَـٰهُم مُّلْكًا عَظِيمًا",
+    "arabic2": "ام يحسدون الناس على ما اتاهم الله من فضله فقد اتينا ال ابراهيم الكتاب والحكمة واتيناهم ملكا عظيما",
+    "bengali": "বরং তারা কি লোকদেরকে হিংসা করে, আল্লাহ স্বীয় অনুগ্রহে তাদেরকে যা দিয়েছেন তার কারণে? তাহলে তো আমি ইবরাহীমের বংশধরকে কিতাব ও হিকমত দান করেছি এবং তাদেরকে দিয়েছি বিশাল রাজত্ব।",
+    "urdu": "یا جو خدا نے لوگوں کو اپنے فضل سے دے رکھا ہے اس کا حسد کرتے ہیں تو ہم نے خاندان ابراہیم ؑ کو کتاب اور دانائی عطا فرمائی تھی اور سلطنت عظیم بھی بخشی تھی"
+}

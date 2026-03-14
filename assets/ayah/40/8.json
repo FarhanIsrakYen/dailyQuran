@@ -1,0 +1,42 @@
+{
+    "surahName": "Ghafir",
+    "surahNameArabic": "غافر",
+    "surahNameArabicLong": "سورة غافر",
+    "surahNameTranslation": "The Forgiver",
+    "revelationPlace": "Mecca",
+    "totalAyah": 85,
+    "surahNo": 40,
+    "ayahNo": 8,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/40_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/040008.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/40_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/040008.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/40_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/040008.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/40_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/040008.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/40_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/040008.mp3"
+        }
+    },
+    "english": "Our Lord! Admit them into the Gardens of Eternity which You have promised them, along with the righteous among their parents, spouses, and descendants. You ˹alone˺ are truly the Almighty, All-Wise.",
+    "arabic1": "رَبَّنَا وَأَدْخِلْهُمْ جَنَّـٰتِ عَدْنٍ ٱلَّتِى وَعَدتَّهُمْ وَمَن صَلَحَ مِنْ ءَابَآئِهِمْ وَأَزْوَٰجِهِمْ وَذُرِّيَّـٰتِهِمْ ۚ إِنَّكَ أَنتَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+    "arabic2": "ربنا وادخلهم جنات عدن التي وعدتهم ومن صلح من ابائهم وازواجهم وذرياتهم انك انت العزيز الحكيم",
+    "bengali": "‘হে আমাদের রব, আর আপনি তাদেরকে স্থায়ী জান্নাতে প্রবেশ করান, যার ওয়াদা আপনি তাদেরকে দিয়েছেন। আর তাদের পিতা-মাতা, পতি-পত্নি ও সন্তান-সন্ততিদের মধ্যে যারা সৎকর্ম সম্পাদন করেছে তাদেরকেও। নিশ্চয় আপনি মহাপরাক্রমশালী, মহাপ্রজ্ঞাময়।’",
+    "urdu": "اے ہمارے پروردگار ان کو ہمیشہ رہنے کے بہشتوں میں داخل کر جن کا تونے ان سے وعدہ کیا ہے اور جو ان کے باپ دادا اور ان کی بیویوں اور ان کی اولاد میں سے نیک ہوں ان کو بھی۔ بےشک تو غالب حکمت والا ہے"
+}

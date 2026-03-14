@@ -1,0 +1,42 @@
+{
+    "surahName": "Ghafir",
+    "surahNameArabic": "غافر",
+    "surahNameArabicLong": "سورة غافر",
+    "surahNameTranslation": "The Forgiver",
+    "revelationPlace": "Mecca",
+    "totalAyah": 85,
+    "surahNo": 40,
+    "ayahNo": 22,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/40_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/040022.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/40_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/040022.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/40_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/040022.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/40_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/040022.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/40_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/040022.mp3"
+        }
+    },
+    "english": "That was because their messengers used to come to them with clear proofs, but they persisted in disbelief. So Allah seized them. Surely He is All-Powerful, severe in punishment.",
+    "arabic1": "ذَٰلِكَ بِأَنَّهُمْ كَانَت تَّأْتِيهِمْ رُسُلُهُم بِٱلْبَيِّنَـٰتِ فَكَفَرُوا۟ فَأَخَذَهُمُ ٱللَّهُ ۚ إِنَّهُۥ قَوِىٌّ شَدِيدُ ٱلْعِقَابِ",
+    "arabic2": "ذلك بانهم كانت تاتيهم رسلهم بالبينات فكفروا فاخذهم الله انه قوي شديد العقاب",
+    "bengali": "এটি এ কারণে যে, তাদের কাছে তাদের রাসূলগণ সুস্পষ্ট প্রমাণাদি নিয়ে আসত, কিন্তু তারা তাদেরকে প্রত্যাখ্যান করত। ফলে আল্লাহ তাদেরকে পাকড়াও করলেন। নিশ্চয় তিনি শক্তিমান, আযাবদানে কঠোর।",
+    "urdu": "یہ اس لئے کہ ان کے پاس پیغمبر کھلی دلیلیں لاتے تھے تو یہ کفر کرتے تھے سو خدا نے ان کو پکڑ لیا۔ بےشک وہ صاحب قوت (اور) سخت عذاب دینے والا ہے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Anbiyaa",
+    "surahNameArabic": "الأنبياء",
+    "surahNameArabicLong": "سورة الأنبياء",
+    "surahNameTranslation": "The Prophets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 112,
+    "surahNo": 21,
+    "ayahNo": 112,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/21_112.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/021112.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/21_112.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/021112.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/21_112.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/021112.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/21_112.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/021112.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/21_112.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/021112.mp3"
+        }
+    },
+    "english": "˹In the end,˺ the Prophet said, “My Lord! Judge ˹between us˺ in truth. And our Lord is the Most Compassionate, Whose help is sought against what you claim.”",
+    "arabic1": "قَـٰلَ رَبِّ ٱحْكُم بِٱلْحَقِّ ۗ وَرَبُّنَا ٱلرَّحْمَـٰنُ ٱلْمُسْتَعَانُ عَلَىٰ مَا تَصِفُونَ",
+    "arabic2": "قال رب احكم بالحق وربنا الرحمن المستعان على ما تصفون",
+    "bengali": "রাসূল বলেছিল, ‘হে আমার রব, আপনি ন্যায়সঙ্গতভাবে ফয়সালা করে দিন’। আর আমাদের রব তো পরম করুণাময়। তোমরা যা বলছ সে বিষয়ে তিনিই একমাত্র সহায়স্থল।",
+    "urdu": "پیغمبر نے کہا کہ اے میرے پروردگار حق کے ساتھ فیصلہ کردے۔ اور ہمارا پروردگار بڑا مہربان ہے اسی سے ان باتوں میں جو تم بیان کرتے ہو مدد مانگی جاتی ہے"
+}

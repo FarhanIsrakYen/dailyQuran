@@ -1,0 +1,42 @@
+{
+    "surahName": "Taa-Haa",
+    "surahNameArabic": "طه",
+    "surahNameArabicLong": "سورة طه",
+    "surahNameTranslation": "Taa-Haa",
+    "revelationPlace": "Mecca",
+    "totalAyah": 135,
+    "surahNo": 20,
+    "ayahNo": 88,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/20_88.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/020088.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/20_88.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/020088.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/20_88.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/020088.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/20_88.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/020088.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/20_88.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/020088.mp3"
+        }
+    },
+    "english": "Then he moulded for them an idol of a calf that made a lowing sound. They said, “This is your god and the god of Moses, but Moses forgot ˹where it was˺!”",
+    "arabic1": "فَأَخْرَجَ لَهُمْ عِجْلًا جَسَدًا لَّهُۥ خُوَارٌ فَقَالُوا۟ هَـٰذَآ إِلَـٰهُكُمْ وَإِلَـٰهُ مُوسَىٰ فَنَسِىَ",
+    "arabic2": "فاخرج لهم عجلا جسدا له خوار فقالوا هذا الهكم واله موسى فنسي",
+    "bengali": "তারপর সে তাদের জন্য একটা গো বাছুরের প্রতিকৃতি বের করে আনল, যার ছিল আওয়াজ। তখন তারা বলল, ‘এটাই তোমাদের ইলাহ এবং মূসারও ইলাহ; কিন্তু সে এ কথা ভুলে গেছে’।",
+    "urdu": "تو اس نے ان کے لئے ایک بچھڑا بنا دیا (یعنی اس کا) قالب جس کی آواز گائے کی سی تھی۔ تو لوگ کہنے لگے کہ یہی تمہارا معبود ہے اور موسیٰ کا بھی معبود ہے۔ مگر وہ بھول گئے ہیں"
+}

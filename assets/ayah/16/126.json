@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nahl",
+    "surahNameArabic": "النحل",
+    "surahNameArabicLong": "سورة النحل",
+    "surahNameTranslation": "The Bee",
+    "revelationPlace": "Mecca",
+    "totalAyah": 128,
+    "surahNo": 16,
+    "ayahNo": 126,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/16_126.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/016126.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/16_126.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/016126.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/16_126.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/016126.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/16_126.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/016126.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/16_126.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/016126.mp3"
+        }
+    },
+    "english": "If you retaliate, then let it be equivalent to what you have suffered. But if you patiently endure, it is certainly best for those who are patient.",
+    "arabic1": "وَإِنْ عَاقَبْتُمْ فَعَاقِبُوا۟ بِمِثْلِ مَا عُوقِبْتُم بِهِۦ ۖ وَلَئِن صَبَرْتُمْ لَهُوَ خَيْرٌ لِّلصَّـٰبِرِينَ",
+    "arabic2": "وان عاقبتم فعاقبوا بمثل ما عوقبتم به ولئن صبرتم لهو خير للصابرين",
+    "bengali": "আর যদি তোমরা শাস্তি দাও, তবে ঠিক ততটুকু শাস্তি দাও যতটুকু তোমাদের দেয়া হয়েছে। আর যদি তোমরা সবর কর, তবে তাই সবরকারীদের জন্য উত্তম।",
+    "urdu": "اور اگر تم ان کو تکلیف دینی چاہو تو اتنی ہی دو جتنی تکلیف تم کو ان سے پہنچی۔ اور اگر صبر کرو تو وہ صبر کرنے والوں کے لیے بہت اچھا ہے"
+}

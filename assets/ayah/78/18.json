@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Naba",
+    "surahNameArabic": "النبإ",
+    "surahNameArabicLong": "سورة النبأ",
+    "surahNameTranslation": "The Announcement",
+    "revelationPlace": "Mecca",
+    "totalAyah": 40,
+    "surahNo": 78,
+    "ayahNo": 18,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/78_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/078018.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/78_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/078018.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/78_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/078018.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/78_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/078018.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/78_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/078018.mp3"
+        }
+    },
+    "english": "˹it is˺ the Day the Trumpet will be blown, and you will ˹all˺ come forth in crowds.",
+    "arabic1": "يَوْمَ يُنفَخُ فِى ٱلصُّورِ فَتَأْتُونَ أَفْوَاجًا",
+    "arabic2": "يوم ينفخ في الصور فتاتون افواجا",
+    "bengali": "সেদিন শিঙ্গায় ফুঁক দেয়া হবে, তখন তোমরা দলে দলে আসবে।",
+    "urdu": "جس دن صور پھونکا جائے گا تو تم لوگ غٹ کے غٹ آ موجود ہو گے"
+}

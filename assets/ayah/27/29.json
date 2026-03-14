@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Naml",
+    "surahNameArabic": "النمل",
+    "surahNameArabicLong": "سورة النمل",
+    "surahNameTranslation": "The Ant",
+    "revelationPlace": "Mecca",
+    "totalAyah": 93,
+    "surahNo": 27,
+    "ayahNo": 29,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/27_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/027029.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/27_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/027029.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/27_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/027029.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/27_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/027029.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/27_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/027029.mp3"
+        }
+    },
+    "english": "The Queen ˹later˺ announced, “O chiefs! Indeed, a noble letter has been delivered to me.",
+    "arabic1": "قَالَتْ يَـٰٓأَيُّهَا ٱلْمَلَؤُا۟ إِنِّىٓ أُلْقِىَ إِلَىَّ كِتَـٰبٌ كَرِيمٌ",
+    "arabic2": "قالت يا ايها الملا اني القي الي كتاب كريم",
+    "bengali": "সে (রাণী) বলল, ‘হে পারিষদবর্গ! নিশ্চয় আমাকে এক সম্মানজনক পত্র দেয়া হয়েছে’।",
+    "urdu": "ملکہ نے کہا کہ دربار والو! میری طرف ایک نامہ گرامی ڈالا گیا ہے"
+}

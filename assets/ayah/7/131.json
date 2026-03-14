@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 131,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/7_131.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/007131.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/7_131.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/007131.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/7_131.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/007131.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/7_131.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/007131.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/7_131.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/007131.mp3"
+        }
+    },
+    "english": "In times of prosperity, they said, “This is what we deserve,” but in adversity, they blamed it on Moses and those with him. Surely all is destined by Allah. Yet most of them did not know.",
+    "arabic1": "فَإِذَا جَآءَتْهُمُ ٱلْحَسَنَةُ قَالُوا۟ لَنَا هَـٰذِهِۦ ۖ وَإِن تُصِبْهُمْ سَيِّئَةٌ يَطَّيَّرُوا۟ بِمُوسَىٰ وَمَن مَّعَهُۥٓ ۗ أَلَآ إِنَّمَا طَـٰٓئِرُهُمْ عِندَ ٱللَّهِ وَلَـٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ",
+    "arabic2": "فاذا جاءتهم الحسنة قالوا لنا هذه وان تصبهم سيئة يطيروا بموسى ومن معه الا انما طائرهم عند الله ولكن اكثرهم لا يعلمون",
+    "bengali": "অতঃপর যখন তাদের কাছে কল্যাণ আসত, তখন তারা বলত, ‘এটা আমাদের জন্য।’ আর যখন তাদের কাছে অকল্যাণ পৌঁছত তখন তারা মূসা ও তার সঙ্গীদেরকে অশুভলক্ষুণে মনে করত। তাদের কল্যাণ-অকল্যাণ তো আল্লাহর কাছে। কিন্তু তাদের অধিকাংশ জানে না।",
+    "urdu": "تو جب ان کو آسائش حاصل ہوتی تو کہتے کہ ہم اس کے مستحق ہیں۔ اور اگر سختی پہنچتی تو موسیٰ اور ان کے رفیقوں کی بدشگونی بتاتے۔ دیکھو ان کی بدشگونی خدا کے ہاں مقرر ہے لیکن ان میں اکثر نہیں جانتے"
+}

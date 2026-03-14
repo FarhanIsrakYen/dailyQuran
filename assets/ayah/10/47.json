@@ -1,0 +1,42 @@
+{
+    "surahName": "Yunus",
+    "surahNameArabic": "يونس",
+    "surahNameArabicLong": "سورة يونس",
+    "surahNameTranslation": "Jonas",
+    "revelationPlace": "Mecca",
+    "totalAyah": 109,
+    "surahNo": 10,
+    "ayahNo": 47,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/10_47.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/010047.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/10_47.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/010047.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/10_47.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/010047.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/10_47.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/010047.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/10_47.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/010047.mp3"
+        }
+    },
+    "english": "And for every community there is a messenger. After their messenger has come, judgment is passed on them in all fairness, and they are not wronged.",
+    "arabic1": "وَلِكُلِّ أُمَّةٍ رَّسُولٌ ۖ فَإِذَا جَآءَ رَسُولُهُمْ قُضِىَ بَيْنَهُم بِٱلْقِسْطِ وَهُمْ لَا يُظْلَمُونَ",
+    "arabic2": "ولكل امة رسول فاذا جاء رسولهم قضي بينهم بالقسط وهم لا يظلمون",
+    "bengali": "আর প্রত্যেক উম্মতের জন্য রয়েছে রাসূল। তারপর যখন তাদের রাসূল আসে, তাদের মধ্যে তখন ন্যায়ভিত্তিক ফয়সালা করা হয় এবং তাদের যুলম করা হয় না।",
+    "urdu": "اور ہر ایک اُمت کی طرف سے پیغمبر بھیجا گیا۔ جب ان کا پیغمبر آتا ہے تو اُن میں انصاف کے ساتھ فیصلہ کر دیا جاتا ہے اور ان پر کچھ ظلم نہیں کیا جاتا"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Anbiyaa",
+    "surahNameArabic": "الأنبياء",
+    "surahNameArabicLong": "سورة الأنبياء",
+    "surahNameTranslation": "The Prophets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 112,
+    "surahNo": 21,
+    "ayahNo": 81,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/21_81.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/021081.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/21_81.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/021081.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/21_81.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/021081.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/21_81.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/021081.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/21_81.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/021081.mp3"
+        }
+    },
+    "english": "And to Solomon We subjected the raging winds, blowing by his command to the land We had showered with blessings. It is We Who know everything.",
+    "arabic1": "وَلِسُلَيْمَـٰنَ ٱلرِّيحَ عَاصِفَةً تَجْرِى بِأَمْرِهِۦٓ إِلَى ٱلْأَرْضِ ٱلَّتِى بَـٰرَكْنَا فِيهَا ۚ وَكُنَّا بِكُلِّ شَىْءٍ عَـٰلِمِينَ",
+    "arabic2": "ولسليمان الريح عاصفة تجري بامره الى الارض التي باركنا فيها وكنا بكل شيء عالمين",
+    "bengali": "আর আমি সুলায়মানের জন্য অনুগত করে দিয়েছিলাম প্রবল হাওয়াকে, যা তার নির্দেশে প্রবাহিত হত সেই দেশের দিকে, যেখানে আমি বরকত রেখেছি। আর আমি প্রত্যেক বিষয় সম্পর্কেই অবগত ছিলাম।",
+    "urdu": "اور ہم نے تیز ہوا سلیمان کے تابع (فرمان) کردی تھی جو ان کے حکم سے اس ملک میں چلتی تھی جس میں ہم نے برکت دی تھی (یعنی شام) اور ہم ہر چیز سے خبردار ہیں"
+}

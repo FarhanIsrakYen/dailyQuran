@@ -1,0 +1,42 @@
+{
+    "surahName": "Faatir",
+    "surahNameArabic": "فاطر",
+    "surahNameArabicLong": "سورة فاطر",
+    "surahNameTranslation": "The Originator",
+    "revelationPlace": "Mecca",
+    "totalAyah": 45,
+    "surahNo": 35,
+    "ayahNo": 12,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/35_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/035012.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/35_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/035012.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/35_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/035012.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/35_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/035012.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/35_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/035012.mp3"
+        }
+    },
+    "english": "The two bodies of water are not alike: one is fresh, palatable, and pleasant to drink and the other is salty and bitter. Yet from them both you eat tender seafood and extract ornaments to wear. And you see the ships ploughing their way through both, so you may seek His bounty and give thanks ˹to Him˺.",
+    "arabic1": "وَمَا يَسْتَوِى ٱلْبَحْرَانِ هَـٰذَا عَذْبٌ فُرَاتٌ سَآئِغٌ شَرَابُهُۥ وَهَـٰذَا مِلْحٌ أُجَاجٌ ۖ وَمِن كُلٍّ تَأْكُلُونَ لَحْمًا طَرِيًّا وَتَسْتَخْرِجُونَ حِلْيَةً تَلْبَسُونَهَا ۖ وَتَرَى ٱلْفُلْكَ فِيهِ مَوَاخِرَ لِتَبْتَغُوا۟ مِن فَضْلِهِۦ وَلَعَلَّكُمْ تَشْكُرُونَ",
+    "arabic2": "وما يستوي البحران هذا عذب فرات سائغ شرابه وهذا ملح اجاج ومن كل تاكلون لحما طريا وتستخرجون حلية تلبسونها وترى الفلك فيه مواخر لتبتغوا من فضله ولعلكم تشكرون",
+    "bengali": "আর দু’টি সমুদ্র সমান নয়; একটি খুবই সুমিষ্ট ও সুপেয়, আরেকটি অত্যন্ত লবণাক্ত আর প্রত্যেকটি থেকে তোমরা তাজা গোশত খাও এবং আহরণ কর অলঙ্কার* যা তোমরা পরিধান কর। আর তুমি তাতে দেখ নৌযান পানি চিরে চলাচল করে। যাতে তোমরা আল্লাহর অনুগ্রহ তালাশ কর এবং যাতে তোমরা শোকর কর। \n* মুক্তা",
+    "urdu": "اور دونوں دریا (مل کر) یکساں نہیں ہوجاتے۔ یہ تو میٹھا ہے پیاس بجھانے والا۔ جس کا پانی خوشگوار ہے اور یہ کھاری ہے کڑوا۔ اور سب سے تم تازہ گوشت کھاتے ہو اور زیور نکالتے ہو جسے پہنتے ہو۔ اور تم دریا میں کشتیوں کو دیکھتے ہو کہ (پانی کو) پھاڑتی چلی آتی ہیں تاکہ تم اس کے فضل سے (معاش) تلاش کرو اور تاکہ شکر کرو"
+}

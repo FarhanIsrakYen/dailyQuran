@@ -1,0 +1,42 @@
+{
+    "surahName": "Az-Zukhruf",
+    "surahNameArabic": "الزخرف",
+    "surahNameArabicLong": "سورة الزخرف",
+    "surahNameTranslation": "Ornaments of gold",
+    "revelationPlace": "Mecca",
+    "totalAyah": 89,
+    "surahNo": 43,
+    "ayahNo": 20,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/43_20.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/043020.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/43_20.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/043020.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/43_20.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/043020.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/43_20.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/043020.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/43_20.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/043020.mp3"
+        }
+    },
+    "english": "And they argue, “Had the Most Compassionate willed, we would have never worshipped them.” They have no knowledge ˹in support˺ of this ˹claim˺. They do nothing but lie.",
+    "arabic1": "وَقَالُوا۟ لَوْ شَآءَ ٱلرَّحْمَـٰنُ مَا عَبَدْنَـٰهُم ۗ مَّا لَهُم بِذَٰلِكَ مِنْ عِلْمٍ ۖ إِنْ هُمْ إِلَّا يَخْرُصُونَ",
+    "arabic2": "وقالوا لو شاء الرحمن ما عبدناهم ما لهم بذلك من علم ان هم الا يخرصون",
+    "bengali": "তারা আর বলে, ‘পরম করুণাময় আল্লাহ ইচ্ছা করলে আমরা এদের ইবাদাত করতাম না’, এ বিষয়ে তাদের কোন জ্ঞান নেই। তারা শুধু মনগড়া কথা বলছে।",
+    "urdu": "اور کہتے ہیں اگر خدا چاہتا تو ہم ان کو نہ پوجتے۔ ان کو اس کا کچھ علم نہیں۔ یہ تو صرف اٹکلیں دوڑا رہے ہیں"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Fajr",
+    "surahNameArabic": "الفجر",
+    "surahNameArabicLong": "سورة الفجر",
+    "surahNameTranslation": "The Dawn",
+    "revelationPlace": "Mecca",
+    "totalAyah": 30,
+    "surahNo": 89,
+    "ayahNo": 23,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/89_23.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/089023.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/89_23.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/089023.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/89_23.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/089023.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/89_23.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/089023.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/89_23.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/089023.mp3"
+        }
+    },
+    "english": "and Hell is brought forth on that Day—this is when every ˹disbelieving˺ person will remember ˹their own sins˺. But what is the use of remembering then?",
+    "arabic1": "وَجِا۟ىٓءَ يَوْمَئِذٍۭ بِجَهَنَّمَ ۚ يَوْمَئِذٍ يَتَذَكَّرُ ٱلْإِنسَـٰنُ وَأَنَّىٰ لَهُ ٱلذِّكْرَىٰ",
+    "arabic2": "وجيء يومئذ بجهنم يومئذ يتذكر الانسان وانى له الذكرى",
+    "bengali": "আর সেদিন জাহান্নামকে উপস্থিত করা হবে, সেদিন মানুষ স্মরণ করবে, কিন্তু সেই স্মরণ তার কী উপকারে আসবে?",
+    "urdu": "اور دوزخ اس دن حاضر کی جائے گی تو انسان اس دن متنبہ ہو گا مگر تنبہ (سے) اسے (فائدہ) کہاں (مل سکے گا)"
+}

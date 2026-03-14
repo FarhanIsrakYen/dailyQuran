@@ -1,0 +1,42 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 41,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/3_41.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/003041.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/3_41.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/003041.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/3_41.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/003041.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/3_41.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/003041.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/3_41.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/003041.mp3"
+        }
+    },
+    "english": "Zachariah said, “My Lord! Grant me a sign.” He said, “Your sign is that you will not ˹be able to˺ speak to people for three days except through gestures. Remember your Lord often and glorify ˹Him˺ morning and evening.”",
+    "arabic1": "قَالَ رَبِّ ٱجْعَل لِّىٓ ءَايَةً ۖ قَالَ ءَايَتُكَ أَلَّا تُكَلِّمَ ٱلنَّاسَ ثَلَـٰثَةَ أَيَّامٍ إِلَّا رَمْزًا ۗ وَٱذْكُر رَّبَّكَ كَثِيرًا وَسَبِّحْ بِٱلْعَشِىِّ وَٱلْإِبْكَـٰرِ",
+    "arabic2": "قال رب اجعل لي اية قال ايتك الا تكلم الناس ثلاثة ايام الا رمزا واذكر ربك كثيرا وسبح بالعشي والابكار",
+    "bengali": "সে বলল, ‘হে আমার রব, আমাকে দেন একটি নিদর্শন’। তিনি বললেন, ‘তোমার নিদর্শন হল, তুমি তিন দিন পর্যন্ত মানুষের সাথে ইশারা ছাড়া কথা বলবে না। আর তোমার রবকে অধিক স্মরণ কর এবং সকাল-সন্ধ্যা তার তাসবীহ পাঠ কর’।",
+    "urdu": "زکریا نے کہا کہ پروردگار (میرے لیے) کوئی نشانی مقرر فرما خدا نے فرمایا نشانی یہ ہے کہ تم لوگوں سے تین دن اشارے کے سوا بات نہ کر سکو گے تو (ان دنوں میں) اپنے پروردگار کی کثرت سے یاد اور صبح و شام اس کی تسبیح کرنا"
+}

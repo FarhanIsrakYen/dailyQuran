@@ -1,0 +1,42 @@
+{
+    "surahName": "Saba",
+    "surahNameArabic": "سبإ",
+    "surahNameArabicLong": "سورة سَبَأ",
+    "surahNameTranslation": "Sheba",
+    "revelationPlace": "Mecca",
+    "totalAyah": 54,
+    "surahNo": 34,
+    "ayahNo": 50,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/34_50.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/034050.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/34_50.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/034050.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/34_50.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/034050.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/34_50.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/034050.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/34_50.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/034050.mp3"
+        }
+    },
+    "english": "Say, “If I am astray, the loss is only mine. And if I am guided, it is ˹only˺ because of what my Lord reveals to me. He is indeed All-Hearing, Ever Near.”",
+    "arabic1": "قُلْ إِن ضَلَلْتُ فَإِنَّمَآ أَضِلُّ عَلَىٰ نَفْسِى ۖ وَإِنِ ٱهْتَدَيْتُ فَبِمَا يُوحِىٓ إِلَىَّ رَبِّىٓ ۚ إِنَّهُۥ سَمِيعٌ قَرِيبٌ",
+    "arabic2": "قل ان ضللت فانما اضل على نفسي وان اهتديت فبما يوحي الي ربي انه سميع قريب",
+    "bengali": "বল, ‘যদি আমি পথভ্রষ্ট হয়ে যাই তবে আমার অকল্যাণেই আমি পথভ্রষ্ট হব। আর যদি আমি হিদায়াত প্রাপ্ত হই তবে তা এজন্য যে, আমার রব আমার প্রতি ওহী প্রেরণ করেন। নিশ্চয় তিনি সর্বশ্রোতা ও অতি নিকটবর্তী’।",
+    "urdu": "کہہ دو کہ اگر میں گمراہ ہوں تو میری گمراہی کا ضرر مجھی کو ہے۔ اور اگر ہدایت پر ہوں تو یہ اس کا طفیل ہے جو میرا پروردگار میری طرف وحی بھیجتا ہے۔ بےشک وہ سننے والا (اور) نزدیک ہے"
+}

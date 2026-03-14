@@ -1,0 +1,42 @@
+{
+    "surahName": "Taa-Haa",
+    "surahNameArabic": "طه",
+    "surahNameArabicLong": "سورة طه",
+    "surahNameTranslation": "Taa-Haa",
+    "revelationPlace": "Mecca",
+    "totalAyah": 135,
+    "surahNo": 20,
+    "ayahNo": 20,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/20_20.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/020020.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/20_20.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/020020.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/20_20.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/020020.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/20_20.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/020020.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/20_20.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/020020.mp3"
+        }
+    },
+    "english": "So he did, then—behold!—it became a serpent, slithering.",
+    "arabic1": "فَأَلْقَىٰهَا فَإِذَا هِىَ حَيَّةٌ تَسْعَىٰ",
+    "arabic2": "فالقاها فاذا هي حية تسعى",
+    "bengali": "অতঃপর সে তা ফেলে দিল; অমনি তা সাপ হয়ে ছুটতে লাগল।",
+    "urdu": "تو انہوں نے اس کو ڈال دیا اور وہ ناگہاں سانپ بن کر دوڑنے لگا"
+}

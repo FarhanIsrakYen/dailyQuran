@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Hashr",
+    "surahNameArabic": "الحشر",
+    "surahNameArabicLong": "سورة الحشر",
+    "surahNameTranslation": "The Exile",
+    "revelationPlace": "Madina",
+    "totalAyah": 24,
+    "surahNo": 59,
+    "ayahNo": 18,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/59_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/059018.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/59_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/059018.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/59_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/059018.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/59_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/059018.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/59_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/059018.mp3"
+        }
+    },
+    "english": "O believers! Be mindful of Allah and let every soul look to what ˹deeds˺ it has sent forth for tomorrow. And fear Allah, ˹for˺ certainly Allah is All-Aware of what you do.",
+    "arabic1": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱتَّقُوا۟ ٱللَّهَ وَلْتَنظُرْ نَفْسٌ مَّا قَدَّمَتْ لِغَدٍ ۖ وَٱتَّقُوا۟ ٱللَّهَ ۚ إِنَّ ٱللَّهَ خَبِيرٌۢ بِمَا تَعْمَلُونَ",
+    "arabic2": "يا ايها الذين امنوا اتقوا الله ولتنظر نفس ما قدمت لغد واتقوا الله ان الله خبير بما تعملون",
+    "bengali": "হে ঈমানদারগণ, তোমরা আল্লাহকে ভয় কর; আর প্রত্যেকের উচিত চিন্তা করে দেখা সে আগামীকালের জন্য কি প্রেরণ করেছে; তোমরা আল্লাহকে ভয় কর। তোমরা যা কর নিশ্চয় আল্লাহ সে বিষয়ে সম্যক অবহিত।",
+    "urdu": "اے ایمان والوں! خدا سے ڈرتے رہو اور ہر شخص کو دیکھنا چاہیئے کہ اس نے کل (یعنی فردائے قیامت) کے لئے کیا (سامان) بھیجا ہے اور (ہم پھر کہتے ہیں کہ) خدا سے ڈرتے رہو بےشک خدا تمہارے سب اعمال سے خبردار ہے"
+}

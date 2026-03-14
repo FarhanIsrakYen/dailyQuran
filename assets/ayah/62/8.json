@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Jumu'a",
+    "surahNameArabic": "الجمعة",
+    "surahNameArabicLong": "سورة الجمعة",
+    "surahNameTranslation": "Friday",
+    "revelationPlace": "Madina",
+    "totalAyah": 11,
+    "surahNo": 62,
+    "ayahNo": 8,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/62_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/062008.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/62_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/062008.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/62_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/062008.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/62_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/062008.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/62_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/062008.mp3"
+        }
+    },
+    "english": "Say, “The death you are running away from will inevitably come to you. Then you will be returned to the Knower of the seen and unseen, and He will inform you of what you used to do.”",
+    "arabic1": "قُلْ إِنَّ ٱلْمَوْتَ ٱلَّذِى تَفِرُّونَ مِنْهُ فَإِنَّهُۥ مُلَـٰقِيكُمْ ۖ ثُمَّ تُرَدُّونَ إِلَىٰ عَـٰلِمِ ٱلْغَيْبِ وَٱلشَّهَـٰدَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ",
+    "arabic2": "قل ان الموت الذي تفرون منه فانه ملاقيكم ثم تردون الى عالم الغيب والشهادة فينبئكم بما كنتم تعملون",
+    "bengali": "বল যে মৃত্যু হতে তোমরা পলায়ন করছ তা অবশ্যই তোমাদের সাথে সাক্ষাৎ করবে। তারপর তোমাদেরকে অদৃশ্য ও দৃশ্য সম্পর্কে পরিজ্ঞাত আল্লাহর কাছে ফিরিয়ে নেয়া হবে। তারপর তিনি তোমাদেরকে জানিয়ে দেবেন যা তোমরা করতে।",
+    "urdu": "کہہ دو کہ موت جس سے تم گریز کرتے ہو وہ تو تمہارے سامنے آ کر رہے گی۔ پھر تم پوشیدہ اور ظاہر کے جاننے والے (خدا) کی طرف لوٹائے جاؤ گے پھر جو کچھ تم کرتے رہے ہو وہ سب تمہیں بتائے گا"
+}

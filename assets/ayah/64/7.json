@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Taghaabun",
+    "surahNameArabic": "التغابن",
+    "surahNameArabicLong": "سورة التغابن",
+    "surahNameTranslation": "Mutual Disillusion",
+    "revelationPlace": "Madina",
+    "totalAyah": 18,
+    "surahNo": 64,
+    "ayahNo": 7,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/64_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/064007.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/64_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/064007.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/64_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/064007.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/64_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/064007.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/64_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/064007.mp3"
+        }
+    },
+    "english": "The disbelievers claim they will not be resurrected. Say, ˹O Prophet,˺ “Yes, by my Lord, you will surely be resurrected, then you will certainly be informed of what you have done. And that is easy for Allah.”",
+    "arabic1": "زَعَمَ ٱلَّذِينَ كَفَرُوٓا۟ أَن لَّن يُبْعَثُوا۟ ۚ قُلْ بَلَىٰ وَرَبِّى لَتُبْعَثُنَّ ثُمَّ لَتُنَبَّؤُنَّ بِمَا عَمِلْتُمْ ۚ وَذَٰلِكَ عَلَى ٱللَّهِ يَسِيرٌ",
+    "arabic2": "زعم الذين كفروا ان لن يبعثوا قل بلى وربي لتبعثن ثم لتنبؤن بما عملتم وذلك على الله يسير",
+    "bengali": "কাফিররা ধারণা করেছিল যে, তারা কখনোই পুনরুত্থিত হবে না। বল, ‘হ্যাঁ, আমার রবের কসম, তোমরা অবশ্যই পুনরুত্থিত হবে। অতঃপর তোমরা যা আমল করেছিলে তা অবশ্যই তোমাদের জানানো হবে। আর এটি আল্লাহর পক্ষে খুবই সহজ।",
+    "urdu": "جو لوگ کافر ہیں ان کا اعتقاد ہے کہ وہ (دوبارہ) ہرگز نہیں اٹھائے جائیں گے۔ کہہ دو کہ ہاں ہاں میرے پروردگار کی قسم تم ضرور اٹھائے جاؤ گے پھر جو کام تم کرتے رہے ہو وہ تمہیں بتائے جائیں گے اور یہ (بات) خدا کو آسان ہے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Ankaboot",
+    "surahNameArabic": "العنكبوت",
+    "surahNameArabicLong": "سورة العنكبوت",
+    "surahNameTranslation": "The Spider",
+    "revelationPlace": "Mecca",
+    "totalAyah": 69,
+    "surahNo": 29,
+    "ayahNo": 23,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/29_23.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/029023.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/29_23.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/029023.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/29_23.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/029023.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/29_23.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/029023.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/29_23.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/029023.mp3"
+        }
+    },
+    "english": "As for those who disbelieve in Allah’s signs and the meeting with Him, it is they who will have no hope in His mercy. And it is they who will suffer a painful punishment.",
+    "arabic1": "وَٱلَّذِينَ كَفَرُوا۟ بِـَٔايَـٰتِ ٱللَّهِ وَلِقَآئِهِۦٓ أُو۟لَـٰٓئِكَ يَئِسُوا۟ مِن رَّحْمَتِى وَأُو۟لَـٰٓئِكَ لَهُمْ عَذَابٌ أَلِيمٌ",
+    "arabic2": "والذين كفروا بايات الله ولقائه اولئك يئسوا من رحمتي واولئك لهم عذاب اليم",
+    "bengali": "আর যারা আল্লাহর আয়াতসমূহ ও তাঁর সাক্ষাত অস্বীকার করে তারা আমার রহমত থেকে হতাশ হবে এবং তাদের জন্যই রয়েছে যন্ত্রণাদায়ক আযাব।",
+    "urdu": "اور جن لوگوں نے خدا کی آیتوں سے اور اس کے ملنے سے انکار کیا وہ میری رحمت سے نااُمید ہوگئے ہیں اور ان کو درد دینے والا عذاب ہوگا"
+}

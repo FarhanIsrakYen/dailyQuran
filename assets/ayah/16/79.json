@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nahl",
+    "surahNameArabic": "النحل",
+    "surahNameArabicLong": "سورة النحل",
+    "surahNameTranslation": "The Bee",
+    "revelationPlace": "Mecca",
+    "totalAyah": 128,
+    "surahNo": 16,
+    "ayahNo": 79,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/16_79.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/016079.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/16_79.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/016079.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/16_79.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/016079.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/16_79.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/016079.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/16_79.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/016079.mp3"
+        }
+    },
+    "english": "Have they not seen the birds glide in the open sky? None holds them up except Allah. Surely in this are signs for those who believe.",
+    "arabic1": "أَلَمْ يَرَوْا۟ إِلَى ٱلطَّيْرِ مُسَخَّرَٰتٍ فِى جَوِّ ٱلسَّمَآءِ مَا يُمْسِكُهُنَّ إِلَّا ٱللَّهُ ۗ إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍ لِّقَوْمٍ يُؤْمِنُونَ",
+    "arabic2": "الم يروا الى الطير مسخرات في جو السماء ما يمسكهن الا الله ان في ذلك لايات لقوم يؤمنون",
+    "bengali": "তারা কি আকাশে (উড়ন্ত অবস্থায়) নিয়োজিত পাখিগুলোর দিকে তাকায় না? আল্লাহ ছাড়া কেউ তাদেরকে ধরে রাখে না। নিশ্চয় তাতে নিদর্শনবলী রয়েছে সেই কওমের জন্য যারা বিশ্বাস করে।",
+    "urdu": "کیا ان لوگوں نے پرندوں کو نہیں دیکھا کہ آسمان کی ہوا میں گھرے ہوئے (اُڑتے رہتے) ہیں۔ ان کو خدا ہی تھامے رکھتا ہے۔ ایمان والوں کے لیے اس میں (بہت سی) نشانیاں ہیں"
+}

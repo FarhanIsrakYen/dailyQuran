@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Ahzaab",
+    "surahNameArabic": "الأحزاب",
+    "surahNameArabicLong": "سورة الأحزاب",
+    "surahNameTranslation": "The Clans",
+    "revelationPlace": "Madina",
+    "totalAyah": 73,
+    "surahNo": 33,
+    "ayahNo": 62,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/33_62.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/033062.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/33_62.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/033062.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/33_62.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/033062.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/33_62.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/033062.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/33_62.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/033062.mp3"
+        }
+    },
+    "english": "That was Allah’s way with those ˹hypocrites˺ who have gone before. And you will find no change in Allah’s way.",
+    "arabic1": "سُنَّةَ ٱللَّهِ فِى ٱلَّذِينَ خَلَوْا۟ مِن قَبْلُ ۖ وَلَن تَجِدَ لِسُنَّةِ ٱللَّهِ تَبْدِيلًا",
+    "arabic2": "سنة الله في الذين خلوا من قبل ولن تجد لسنة الله تبديلا",
+    "bengali": "ইতঃপূর্বে যারা অতিবাহিত হয়ে গিয়েছে, তাদের ক্ষেত্রে এটাই ছিল আল্লাহর রীতি, আর তুমি আল্লাহর রীতিতে কখনই কোন পরিবর্তন পাবে না।",
+    "urdu": "جو لوگ پہلے گزر چکے ہیں ان کے بارے میں بھی خدا کی یہی عادت رہی ہے۔ اور تم خدا کی عادت میں تغیر وتبدل نہ پاؤ گے"
+}

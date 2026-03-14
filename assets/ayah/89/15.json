@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Fajr",
+    "surahNameArabic": "الفجر",
+    "surahNameArabicLong": "سورة الفجر",
+    "surahNameTranslation": "The Dawn",
+    "revelationPlace": "Mecca",
+    "totalAyah": 30,
+    "surahNo": 89,
+    "ayahNo": 15,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/89_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/089015.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/89_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/089015.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/89_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/089015.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/89_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/089015.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/89_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/089015.mp3"
+        }
+    },
+    "english": "Now, whenever a human being is tested by their Lord through ˹His˺ generosity and blessings, they boast, “My Lord has ˹deservedly˺ honoured me!”",
+    "arabic1": "فَأَمَّا ٱلْإِنسَـٰنُ إِذَا مَا ٱبْتَلَىٰهُ رَبُّهُۥ فَأَكْرَمَهُۥ وَنَعَّمَهُۥ فَيَقُولُ رَبِّىٓ أَكْرَمَنِ",
+    "arabic2": "فاما الانسان اذا ما ابتلاه ربه فاكرمه ونعمه فيقول ربي اكرمن",
+    "bengali": "আর মানুষ তো এমন যে, যখন তার রব তাকে পরীক্ষা করেন, অতঃপর তাকে সম্মান দান করেন এবং অনুগ্রহ প্রদান করেন, তখন সে বলে, ‘আমার রব আমাকে সম্মানিত করেছেন।",
+    "urdu": "مگر انسان (عجیب مخلوق ہے کہ) جب اس کا پروردگار اس کو آزماتا ہے تو اسے عزت دیتا اور نعمت بخشتا ہے۔ تو کہتا ہے کہ (آہا) میرے پروردگار نے مجھے عزت بخشی"
+}

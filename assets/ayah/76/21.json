@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Insaan",
+    "surahNameArabic": "الانسان",
+    "surahNameArabicLong": "سورة الانسان",
+    "surahNameTranslation": "Man",
+    "revelationPlace": "Madina",
+    "totalAyah": 31,
+    "surahNo": 76,
+    "ayahNo": 21,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/76_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/076021.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/76_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/076021.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/76_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/076021.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/76_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/076021.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/76_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/076021.mp3"
+        }
+    },
+    "english": "The virtuous will be ˹dressed˺ in garments of fine green silk and rich brocade, and adorned with bracelets of silver, and their Lord will give them a purifying drink.",
+    "arabic1": "عَـٰلِيَهُمْ ثِيَابُ سُندُسٍ خُضْرٌ وَإِسْتَبْرَقٌ ۖ وَحُلُّوٓا۟ أَسَاوِرَ مِن فِضَّةٍ وَسَقَىٰهُمْ رَبُّهُمْ شَرَابًا طَهُورًا",
+    "arabic2": "عاليهم ثياب سندس خضر واستبرق وحلوا اساور من فضة وسقاهم ربهم شرابا طهورا",
+    "bengali": "তাদের উপর থাকবে সবুজ ও মিহি রেশমের পোশাক এবং মোটা রেশমের পোশাক, আর তাদেরকে পরিধান করানো হবে রূপার চুড়ি এবং তাদের রব তাদেরকে পান করাবেন পবিত্র পানীয়।",
+    "urdu": "ان (کے بدنوں) پر دیبا سبز اور اطلس کے کپڑے ہوں گے۔ اور انہیں چاندی کے کنگن پہنائے جائیں گے اور ان کا پروردگار ان کو نہایت پاکیزہ شراب پلائے گا"
+}

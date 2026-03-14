@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 51,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/4_51.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/004051.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/4_51.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/004051.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/4_51.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/004051.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/4_51.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/004051.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/4_51.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/004051.mp3"
+        }
+    },
+    "english": "Have you ˹O Prophet˺ not seen those who were given a portion of the Scriptures yet believe in idols and false gods and reassure the disbelievers that they are better guided than the believers?",
+    "arabic1": "أَلَمْ تَرَ إِلَى ٱلَّذِينَ أُوتُوا۟ نَصِيبًا مِّنَ ٱلْكِتَـٰبِ يُؤْمِنُونَ بِٱلْجِبْتِ وَٱلطَّـٰغُوتِ وَيَقُولُونَ لِلَّذِينَ كَفَرُوا۟ هَـٰٓؤُلَآءِ أَهْدَىٰ مِنَ ٱلَّذِينَ ءَامَنُوا۟ سَبِيلًا",
+    "arabic2": "الم تر الى الذين اوتوا نصيبا من الكتاب يؤمنون بالجبت والطاغوت ويقولون للذين كفروا هؤلاء اهدى من الذين امنوا سبيلا",
+    "bengali": "তুমি কি তাদেরকে দেখনি, যাদেরকে কিতাবের এক অংশ দেয়া হয়েছে? তারা জিবত* ও তাগূতের প্রতি ঈমান আনে এবং কাফিরদেরকে বলে, এরা মুমিনদের তুলনায় অধিক সঠিক পথপ্রাপ্ত। \n* জিবত الجبتঅর্থ: মূর্তি , প্রতিমা, যাদুকর, ভেলকিবাজ, যাদু, ভেলকি ইত্যাদি।",
+    "urdu": "بھلا تم نے ان لوگوں کو نہیں دیکھا جن کو کتاب سے حصہ دیا گیا ہے کہ بتوں اور شیطان کو مانتے ہیں اور کفار کے بارے میں کہتے ہیں کہ یہ لوگ مومنوں کی نسبت سیدھے رستے پر ہیں"
+}

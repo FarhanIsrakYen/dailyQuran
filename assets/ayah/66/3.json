@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Tahrim",
+    "surahNameArabic": "التحريم",
+    "surahNameArabicLong": "سورة التحريم",
+    "surahNameTranslation": "The Prohibition",
+    "revelationPlace": "Madina",
+    "totalAyah": 12,
+    "surahNo": 66,
+    "ayahNo": 3,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/66_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/066003.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/66_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/066003.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/66_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/066003.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/66_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/066003.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/66_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/066003.mp3"
+        }
+    },
+    "english": "˹Remember˺ when the Prophet had ˹once˺ confided something to one of his wives, then when she disclosed it ˹to another wife˺ and Allah made it known to him, he presented ˹to her˺ part of what was disclosed and overlooked a part. So when he informed her of it, she exclaimed, “Who told you this?” He replied, “I was informed by the All-Knowing, All-Aware.”",
+    "arabic1": "وَإِذْ أَسَرَّ ٱلنَّبِىُّ إِلَىٰ بَعْضِ أَزْوَٰجِهِۦ حَدِيثًا فَلَمَّا نَبَّأَتْ بِهِۦ وَأَظْهَرَهُ ٱللَّهُ عَلَيْهِ عَرَّفَ بَعْضَهُۥ وَأَعْرَضَ عَنۢ بَعْضٍ ۖ فَلَمَّا نَبَّأَهَا بِهِۦ قَالَتْ مَنْ أَنۢبَأَكَ هَـٰذَا ۖ قَالَ نَبَّأَنِىَ ٱلْعَلِيمُ ٱلْخَبِيرُ",
+    "arabic2": "واذ اسر النبي الى بعض ازواجه حديثا فلما نبات به واظهره الله عليه عرف بعضه واعرض عن بعض فلما نباها به قالت من انباك هذا قال نباني العليم الخبير",
+    "bengali": "আর যখন নবী তার এক স্ত্রীকে গোপনে একটি কথা বলেছিলেন; অতঃপর যখন সে (স্ত্রী) অন্যকে তা জানিয়ে দিল এবং আল্লাহ তার (নবীর) কাছে এটি প্রকাশ করে দিলেন, তখন নবী কিছুটা তার স্ত্রীকে অবহিত করল আর কিছু এড়িয়ে গেল। যখন সে তাকে বিষয়টি জানাল তখন সে বলল, ‘আপনাকে এ সংবাদ কে দিল?’ সে বলল, ‘মহাজ্ঞানী ও সর্বজ্ঞ আল্লাহ আমাকে জানিয়েছেন।’",
+    "urdu": "اور (یاد کرو) جب پیغمبر نے اپنی ایک بی بی سے ایک بھید کی بات کہی تو (اس نے دوسری کو بتا دی)۔ جب اس نے اس کو افشاء کیا اور خدا نے اس (حال) سے پیغمبر کو آگاہ کردیا تو پیغمبر نے ان (بی بی کو وہ بات) کچھ تو بتائی اور کچھ نہ بتائی۔ تو جب وہ ان کو جتائی تو پوچھنے لگیں کہ آپ کو کس نے بتایا؟ انہوں نے کہا کہ مجھے اس نے بتایا ہے جو جاننے والا خبردار ہے"
+}

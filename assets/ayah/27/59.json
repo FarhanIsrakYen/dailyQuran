@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Naml",
+    "surahNameArabic": "النمل",
+    "surahNameArabicLong": "سورة النمل",
+    "surahNameTranslation": "The Ant",
+    "revelationPlace": "Mecca",
+    "totalAyah": 93,
+    "surahNo": 27,
+    "ayahNo": 59,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/27_59.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/027059.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/27_59.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/027059.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/27_59.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/027059.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/27_59.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/027059.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/27_59.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/027059.mp3"
+        }
+    },
+    "english": "Say, ˹O Prophet,˺ “Praise be to Allah, and peace be upon the servants He has chosen.” ˹Ask the disbelievers,˺ “Which is better: Allah or whatever ˹gods˺ they associate ˹with Him˺?”",
+    "arabic1": "قُلِ ٱلْحَمْدُ لِلَّهِ وَسَلَـٰمٌ عَلَىٰ عِبَادِهِ ٱلَّذِينَ ٱصْطَفَىٰٓ ۗ ءَآللَّهُ خَيْرٌ أَمَّا يُشْرِكُونَ",
+    "arabic2": "قل الحمد لله وسلام على عباده الذين اصطفى الله خير اما يشركون",
+    "bengali": "বল, ‘সকল প্রশংসাই আল্লাহর নিমিত্তে। আর শান্তি তাঁর বান্দাদের প্রতি যাদের তিনি মনোনীত করেছেন। আল্লাহ শ্রেষ্ঠ, না কি যাদের এরা শরীক করে তারা’?",
+    "urdu": "کہہ دو کہ سب تعریف خدا ہی کو سزاوار ہے اور اس کے بندوں پر سلام ہے جن کو اس نے منتخب فرمایا۔ بھلا خدا بہتر ہے یا وہ جن کو یہ (اس کا شریک) ٹھہراتے ہیں"
+}

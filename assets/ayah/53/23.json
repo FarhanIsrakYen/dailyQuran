@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Najm",
+    "surahNameArabic": "النجم",
+    "surahNameArabicLong": "سورة النجم",
+    "surahNameTranslation": "The Star",
+    "revelationPlace": "Mecca",
+    "totalAyah": 62,
+    "surahNo": 53,
+    "ayahNo": 23,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/53_23.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/053023.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/53_23.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/053023.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/53_23.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/053023.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/53_23.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/053023.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/53_23.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/053023.mp3"
+        }
+    },
+    "english": "These ˹idols˺ are mere names that you and your forefathers have made up—a practice Allah has never authorized. They follow nothing but ˹inherited˺ assumptions and whatever ˹their˺ souls desire, although ˹true˺ guidance has already come to them from their Lord.",
+    "arabic1": "إِنْ هِىَ إِلَّآ أَسْمَآءٌ سَمَّيْتُمُوهَآ أَنتُمْ وَءَابَآؤُكُم مَّآ أَنزَلَ ٱللَّهُ بِهَا مِن سُلْطَـٰنٍ ۚ إِن يَتَّبِعُونَ إِلَّا ٱلظَّنَّ وَمَا تَهْوَى ٱلْأَنفُسُ ۖ وَلَقَدْ جَآءَهُم مِّن رَّبِّهِمُ ٱلْهُدَىٰٓ",
+    "arabic2": "ان هي الا اسماء سميتموها انتم واباؤكم ما انزل الله بها من سلطان ان يتبعون الا الظن وما تهوى الانفس ولقد جاءهم من ربهم الهدى",
+    "bengali": "এগুলো কেবল কতিপয় নাম, যে নামগুলো তোমরা ও তোমাদের পিতৃপুরুষেরা রেখেছ। এ ব্যাপারে আল্লাহ কোন দলীল-প্রমাণ নাযিল করেননি। তারা তো কেবল অনুমান এবং নিজেরা যা চায়, তার অনুসরণ করে। অথচ তাদের কাছে তাদের রবের পক্ষ থেকে হিদায়াত এসেছে।",
+    "urdu": "وہ تو صرف نام ہی نام ہیں جو تم نے اور تمہارے باپ دادا نے گھڑ لئے ہیں۔ خدا نے تو ان کی کوئی سند نازل نہیں کی۔ یہ لوگ محض ظن (فاسد) اور خواہشات نفس کے پیچھے چل رہے ہیں۔ حالانکہ ان کے پروردگار کی طرف سے ان کے پاس ہدایت آچکی ہے"
+}

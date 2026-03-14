@@ -1,0 +1,42 @@
+{
+    "surahName": "Ibrahim",
+    "surahNameArabic": "ابراهيم",
+    "surahNameArabicLong": "سورة ابراهيم",
+    "surahNameTranslation": "Abraham",
+    "revelationPlace": "Mecca",
+    "totalAyah": 52,
+    "surahNo": 14,
+    "ayahNo": 37,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/14_37.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/014037.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/14_37.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/014037.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/14_37.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/014037.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/14_37.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/014037.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/14_37.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/014037.mp3"
+        }
+    },
+    "english": "Our Lord! I have settled some of my offspring in a barren valley, near Your Sacred House, our Lord, so that they may establish prayer. So make the hearts of ˹believing˺ people incline towards them and provide them with fruits, so perhaps they will be thankful.",
+    "arabic1": "رَّبَّنَآ إِنِّىٓ أَسْكَنتُ مِن ذُرِّيَّتِى بِوَادٍ غَيْرِ ذِى زَرْعٍ عِندَ بَيْتِكَ ٱلْمُحَرَّمِ رَبَّنَا لِيُقِيمُوا۟ ٱلصَّلَوٰةَ فَٱجْعَلْ أَفْـِٔدَةً مِّنَ ٱلنَّاسِ تَهْوِىٓ إِلَيْهِمْ وَٱرْزُقْهُم مِّنَ ٱلثَّمَرَٰتِ لَعَلَّهُمْ يَشْكُرُونَ",
+    "arabic2": "ربنا اني اسكنت من ذريتي بواد غير ذي زرع عند بيتك المحرم ربنا ليقيموا الصلاة فاجعل افئدة من الناس تهوي اليهم وارزقهم من الثمرات لعلهم يشكرون",
+    "bengali": "‘হে আমাদের রব, নিশ্চয় আমি আমার কিছু বংশধরদেরকে ফসলহীন উপত্যকায় তোমার পবিত্র ঘরের নিকট বসতি স্থাপন করালাম, হে আমাদের রব, যাতে তারা সালাত কায়েম করে। সুতরাং কিছু মানুষের হৃদয় আপনি তাদের দিকে ঝুঁকিয়ে দিন এবং তাদেরকে রিয্ক প্রদান করুন ফল-ফলাদি থেকে, আশা করা যায় তারা শুকরিয়া আদায় করবে’।",
+    "urdu": "اے پروردگار میں نے اپنی اولاد کو میدان (مکہ) میں جہاں کھیتی نہیں تیرے عزت (وادب) والے گھر کے پاس لابسائی ہے۔ اے پروردگار تاکہ یہ نماز پڑھیں تو لوگوں کے دلوں کو ایسا کر دے کہ ان کی طرف جھکے رہیں اور ان کو میوؤں سے روزی دے تاکہ (تیرا) شکر کریں"
+}

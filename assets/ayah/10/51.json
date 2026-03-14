@@ -1,0 +1,42 @@
+{
+    "surahName": "Yunus",
+    "surahNameArabic": "يونس",
+    "surahNameArabicLong": "سورة يونس",
+    "surahNameTranslation": "Jonas",
+    "revelationPlace": "Mecca",
+    "totalAyah": 109,
+    "surahNo": 10,
+    "ayahNo": 51,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/10_51.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/010051.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/10_51.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/010051.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/10_51.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/010051.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/10_51.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/010051.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/10_51.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/010051.mp3"
+        }
+    },
+    "english": "Will you believe in it only after it has overtaken you? Now? But you always wanted to hasten it!”",
+    "arabic1": "أَثُمَّ إِذَا مَا وَقَعَ ءَامَنتُم بِهِۦٓ ۚ ءَآلْـَٔـٰنَ وَقَدْ كُنتُم بِهِۦ تَسْتَعْجِلُونَ",
+    "arabic2": "اثم اذا ما وقع امنتم به الان وقد كنتم به تستعجلون",
+    "bengali": "তবে কি যখন তা ঘটবে, তখন তোমরা তাতে ঈমান আনবে? এখন? অথচ তোমরা এর জন্যই তাড়াহুড়া করতে।",
+    "urdu": "کیا جب وہ آ واقع ہوگا تب اس پر ایمان لاؤ گے (اس وقت کہا جائے گا کہ) اور اب (ایمان لائے؟) اس کے لیے تو تم جلدی مچایا کرتے تھے"
+}

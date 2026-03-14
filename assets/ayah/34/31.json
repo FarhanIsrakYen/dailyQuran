@@ -1,0 +1,42 @@
+{
+    "surahName": "Saba",
+    "surahNameArabic": "سبإ",
+    "surahNameArabicLong": "سورة سَبَأ",
+    "surahNameTranslation": "Sheba",
+    "revelationPlace": "Mecca",
+    "totalAyah": 54,
+    "surahNo": 34,
+    "ayahNo": 31,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/34_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/034031.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/34_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/034031.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/34_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/034031.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/34_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/034031.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/34_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/034031.mp3"
+        }
+    },
+    "english": "The disbelievers vow, “We will never believe in this Quran, nor in those ˹Scriptures˺ before it.” If only you could see when the wrongdoers will be detained before their Lord, throwing blame at each other! The lowly ˹followers˺ will say to the arrogant ˹leaders˺, “Had it not been for you, we would certainly have been believers.”",
+    "arabic1": "وَقَالَ ٱلَّذِينَ كَفَرُوا۟ لَن نُّؤْمِنَ بِهَـٰذَا ٱلْقُرْءَانِ وَلَا بِٱلَّذِى بَيْنَ يَدَيْهِ ۗ وَلَوْ تَرَىٰٓ إِذِ ٱلظَّـٰلِمُونَ مَوْقُوفُونَ عِندَ رَبِّهِمْ يَرْجِعُ بَعْضُهُمْ إِلَىٰ بَعْضٍ ٱلْقَوْلَ يَقُولُ ٱلَّذِينَ ٱسْتُضْعِفُوا۟ لِلَّذِينَ ٱسْتَكْبَرُوا۟ لَوْلَآ أَنتُمْ لَكُنَّا مُؤْمِنِينَ",
+    "arabic2": "وقال الذين كفروا لن نؤمن بهذا القران ولا بالذي بين يديه ولو ترى اذ الظالمون موقوفون عند ربهم يرجع بعضهم الى بعض القول يقول الذين استضعفوا للذين استكبروا لولا انتم لكنا مؤمنين",
+    "bengali": "আর কাফিরগণ বলে, ‘আমরা কখনো এ কুরআনের প্রতি ঈমান আনব না এবং এর পূববর্তী কোন কিতাবের প্রতিও না’। আর তুমি যদি দেখতে যালিমদেরকে, যখন তাদের রবের কাছে দাঁড় করিয়ে দেয়া হবে তখন তারা পরস্পর বাদানুবাদ করতে থাকবে। যাদেরকে দুর্বল করে রাখা হয়েছিল তারা অহঙ্কারীদেরকে বলবে, ‘তোমরা না থাকলে অবশ্যই আমরা মুমিন হতাম’।",
+    "urdu": "اور جو کافر ہیں وہ کہتے ہیں کہ ہم نہ تو اس قرآن کو مانیں گے اور نہ ان (کتابوں) کو جو ان سے پہلے کی ہیں اور کاش (ان) ظالموں کو تم اس وقت دیکھو جب یہ اپنے پروردگار کے سامنے کھڑے ہوں گے اور ایک دوسرے سے ردوکد کر رہے ہوں گے۔ جو لوگ کمزور سمجھے جاتے تھے وہ بڑے لوگوں سے کہیں گے کہ اگر تم نہ ہوتے تو ہم ضرور مومن ہوجاتے"
+}

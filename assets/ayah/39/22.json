@@ -1,0 +1,42 @@
+{
+    "surahName": "Az-Zumar",
+    "surahNameArabic": "الزمر",
+    "surahNameArabicLong": "سورة الزمر",
+    "surahNameTranslation": "The Groups",
+    "revelationPlace": "Mecca",
+    "totalAyah": 75,
+    "surahNo": 39,
+    "ayahNo": 22,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/39_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/039022.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/39_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/039022.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/39_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/039022.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/39_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/039022.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/39_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/039022.mp3"
+        }
+    },
+    "english": "Can ˹the misguided be like˺ those whose hearts Allah has opened to Islam, so they are enlightened by their Lord? So woe to those whose hearts are hardened at the remembrance of Allah! It is they who are clearly astray.",
+    "arabic1": "أَفَمَن شَرَحَ ٱللَّهُ صَدْرَهُۥ لِلْإِسْلَـٰمِ فَهُوَ عَلَىٰ نُورٍ مِّن رَّبِّهِۦ ۚ فَوَيْلٌ لِّلْقَـٰسِيَةِ قُلُوبُهُم مِّن ذِكْرِ ٱللَّهِ ۚ أُو۟لَـٰٓئِكَ فِى ضَلَـٰلٍ مُّبِينٍ",
+    "arabic2": "افمن شرح الله صدره للاسلام فهو على نور من ربه فويل للقاسية قلوبهم من ذكر الله اولئك في ضلال مبين",
+    "bengali": "আল্লাহ ইসলামের জন্য যার বক্ষ খুলে দিয়েছেন ফলে সে তার রবের পক্ষ থেকে নূরের উপর রয়েছে, (সে কি তার সমান, যে এরূপ নয়?) অতএব ধ্বংস সে লোকদের জন্য যাদের হৃদয় কঠিন হয়ে গেছে আল্লাহর স্মরণ থেকে। তারা স্পষ্ট বিভ্রান্তিতে নিপতিত।",
+    "urdu": "بھلا جس شخص کا سینہ خدا نے اسلام کے لئے کھول دیا ہو اور وہ اپنے پروردگار کی طرف سے روشنی پر ہو (تو کیا وہ سخت دل کافر کی طرح ہوسکتا ہے) پس ان پر افسوس ہے جن کے دل خدا کی یاد سے سخت ہو رہے ہیں۔ اور یہی لوگ صریح گمراہی میں ہیں"
+}

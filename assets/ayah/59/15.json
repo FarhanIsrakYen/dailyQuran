@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Hashr",
+    "surahNameArabic": "الحشر",
+    "surahNameArabicLong": "سورة الحشر",
+    "surahNameTranslation": "The Exile",
+    "revelationPlace": "Madina",
+    "totalAyah": 24,
+    "surahNo": 59,
+    "ayahNo": 15,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/59_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/059015.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/59_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/059015.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/59_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/059015.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/59_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/059015.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/59_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/059015.mp3"
+        }
+    },
+    "english": "They are ˹both just˺ like those who recently went down before them: they tasted the evil consequences of their doings. And they will suffer a painful punishment.",
+    "arabic1": "كَمَثَلِ ٱلَّذِينَ مِن قَبْلِهِمْ قَرِيبًا ۖ ذَاقُوا۟ وَبَالَ أَمْرِهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌ",
+    "arabic2": "كمثل الذين من قبلهم قريبا ذاقوا وبال امرهم ولهم عذاب اليم",
+    "bengali": "তাদের অব্যবহিত পূর্বসূরিদের ন্যায়, যারা নিজেদের কৃতকর্মের কুফল আস্বাদন করেছে; আর তাদের জন্য রয়েছে যন্ত্রণাদায়ক আযাব।",
+    "urdu": "ان کا حال ان لوگوں کا سا ہے جو ان سے کچھ ہی پیشتر اپنے کاموں کی سزا کا مزہ چکھ چکے ہیں۔ اور (ابھی) ان کے لئے دکھ دینے والا عذاب (تیار) ہے"
+}

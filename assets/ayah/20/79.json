@@ -1,0 +1,42 @@
+{
+    "surahName": "Taa-Haa",
+    "surahNameArabic": "طه",
+    "surahNameArabicLong": "سورة طه",
+    "surahNameTranslation": "Taa-Haa",
+    "revelationPlace": "Mecca",
+    "totalAyah": 135,
+    "surahNo": 20,
+    "ayahNo": 79,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/20_79.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/020079.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/20_79.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/020079.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/20_79.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/020079.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/20_79.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/020079.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/20_79.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/020079.mp3"
+        }
+    },
+    "english": "And ˹so˺ Pharaoh led his people astray, and did not guide ˹them rightly˺.",
+    "arabic1": "وَأَضَلَّ فِرْعَوْنُ قَوْمَهُۥ وَمَا هَدَىٰ",
+    "arabic2": "واضل فرعون قومه وما هدى",
+    "bengali": "আর ফির‘আউন তার কওমকে পথভ্রষ্ট করেছিল এবং সে সঠিক পথ দেখায়নি।",
+    "urdu": "اور فرعون نے اپنی قوم کو گمراہ کردیا اور سیدھے رستے پر نہ ڈالا"
+}

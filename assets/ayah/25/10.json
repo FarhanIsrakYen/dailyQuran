@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Furqaan",
+    "surahNameArabic": "الفرقان",
+    "surahNameArabicLong": "سورة الفرقان",
+    "surahNameTranslation": "The Criterion",
+    "revelationPlace": "Mecca",
+    "totalAyah": 77,
+    "surahNo": 25,
+    "ayahNo": 10,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/25_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/025010.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/25_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/025010.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/25_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/025010.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/25_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/025010.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/25_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/025010.mp3"
+        }
+    },
+    "english": "Blessed is the One Who—if He wills—can give you far better than ˹all˺ that: gardens under which rivers flow, and palaces as well.",
+    "arabic1": "تَبَارَكَ ٱلَّذِىٓ إِن شَآءَ جَعَلَ لَكَ خَيْرًا مِّن ذَٰلِكَ جَنَّـٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ وَيَجْعَل لَّكَ قُصُورًۢا",
+    "arabic2": "تبارك الذي ان شاء جعل لك خيرا من ذلك جنات تجري من تحتها الانهار ويجعل لك قصورا",
+    "bengali": "তিনি বরকতময়, যিনি ইচ্ছা করলে তোমার জন্য করে দিতে পারেন তার চেয়ে উত্তম বস্ত্ত অনেক বাগান, যার পাদদেশে নদীসমূহ প্রবাহিত হয় এবং তিনি তোমাকে প্রাসাদসমূহ দিতে পারেন।",
+    "urdu": "وہ (خدا) بہت بابرکت ہے جو اگر چاہے تو تمہارے لئے اس سے بہتر (چیزیں) بنا دے (یعنی) باغات جن کے نیچے نہریں بہہ رہی ہوں۔ نیز تمہارے لئے محل بنادے"
+}

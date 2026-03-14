@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Hashr",
+    "surahNameArabic": "الحشر",
+    "surahNameArabicLong": "سورة الحشر",
+    "surahNameTranslation": "The Exile",
+    "revelationPlace": "Madina",
+    "totalAyah": 24,
+    "surahNo": 59,
+    "ayahNo": 9,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/59_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/059009.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/59_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/059009.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/59_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/059009.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/59_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/059009.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/59_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/059009.mp3"
+        }
+    },
+    "english": "As for those who had settled in the city and ˹embraced˺ the faith before ˹the arrival of˺ the emigrants, they love whoever immigrates to them, never having a desire in their hearts for whatever ˹of the gains˺ is given to the emigrants. They give ˹the emigrants˺ preference over themselves even though they may be in need. And whoever is saved from the selfishness of their own souls, it is they who are ˹truly˺ successful.",
+    "arabic1": "وَٱلَّذِينَ تَبَوَّءُو ٱلدَّارَ وَٱلْإِيمَـٰنَ مِن قَبْلِهِمْ يُحِبُّونَ مَنْ هَاجَرَ إِلَيْهِمْ وَلَا يَجِدُونَ فِى صُدُورِهِمْ حَاجَةً مِّمَّآ أُوتُوا۟ وَيُؤْثِرُونَ عَلَىٰٓ أَنفُسِهِمْ وَلَوْ كَانَ بِهِمْ خَصَاصَةٌ ۚ وَمَن يُوقَ شُحَّ نَفْسِهِۦ فَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ",
+    "arabic2": "والذين تبوءوا الدار والايمان من قبلهم يحبون من هاجر اليهم ولا يجدون في صدورهم حاجة مما اوتوا ويؤثرون على انفسهم ولو كان بهم خصاصة ومن يوق شح نفسه فاولئك هم المفلحون",
+    "bengali": "আর মুহাজিরদের আগমনের পূর্বে যারা মদীনাকে নিবাস হিসেবে গ্রহণ করেছিল এবং ঈমান এনেছিল (তাদের জন্যও এ সম্পদে অংশ রয়েছে), আর যারা তাদের কাছে হিজরত করে এসেছে তাদেরকে ভালবাসে। আর মুহাজরিদেরকে যা প্রদান করা হয়েছে তার জন্য এরা তাদের অন্তরে কোন ঈর্ষা অনুভব করে না। এবং নিজেদের অভাব থাকা সত্ত্বেও নিজেদের ওপর তাদেরকে অগ্রাধিকার দেয়। যাদের মনের কার্পণ্য থেকে রক্ষা করা হয়েছে, তারাই সফলকাম।",
+    "urdu": "اور (ان لوگوں کے لئے بھی) جو مہاجرین سے پہلے (ہجرت کے) گھر (یعنی مدینے) میں مقیم اور ایمان میں (مستقل) رہے (اور) جو لوگ ہجرت کرکے ان کے پاس آتے ہیں ان سے محبت کرتے ہیں اور جو کچھ ان کو ملا اس سے اپنے دل میں کچھ خواہش (اور خلش) نہیں پاتے اور ان کو اپنی جانوں سے مقدم رکھتے ہیں خواہ ان کو خود احتیاج ہی ہو۔ اور جو شخص حرص نفس سے بچا لیا گیا تو ایسے لوگ مراد پانے والے ہیں"
+}

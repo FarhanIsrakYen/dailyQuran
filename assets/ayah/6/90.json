@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 90,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/6_90.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/006090.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/6_90.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/006090.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/6_90.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/006090.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/6_90.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/006090.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/6_90.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/006090.mp3"
+        }
+    },
+    "english": "These ˹prophets˺ were ˹rightly˺ guided by Allah, so follow their guidance. Say, “I ask no reward of you for this ˹Quran˺—it is a reminder to the whole world.”",
+    "arabic1": "أُو۟لَـٰٓئِكَ ٱلَّذِينَ هَدَى ٱللَّهُ ۖ فَبِهُدَىٰهُمُ ٱقْتَدِهْ ۗ قُل لَّآ أَسْـَٔلُكُمْ عَلَيْهِ أَجْرًا ۖ إِنْ هُوَ إِلَّا ذِكْرَىٰ لِلْعَـٰلَمِينَ",
+    "arabic2": "اولئك الذين هدى الله فبهداهم اقتده قل لا اسالكم عليه اجرا ان هو الا ذكرى للعالمين",
+    "bengali": "এরাই তারা, যাদেরকে আল্লাহ হিদায়াত করেছেন। অতএব তাদের হিদায়াত তুমি অনুসরণ কর। বল, ‘আমি তোমাদের কাছে এর উপর কোন বিনিময় চাই না। এটা তো সৃষ্টিকুলের জন্য উপদেশমাত্র।",
+    "urdu": "یہ وہ لوگ ہیں جن کو خدا نے ہدایت دی تھی تو تم انہیں کی ہدایت کی پیروی کرو۔ کہہ دو کہ میں تم سے اس (قرآن) کا صلہ نہیں مانگتا۔ یہ تو جہان کے لوگوں کے لئےمحض نصیحت ہے"
+}

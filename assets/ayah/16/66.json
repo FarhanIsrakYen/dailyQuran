@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nahl",
+    "surahNameArabic": "النحل",
+    "surahNameArabicLong": "سورة النحل",
+    "surahNameTranslation": "The Bee",
+    "revelationPlace": "Mecca",
+    "totalAyah": 128,
+    "surahNo": 16,
+    "ayahNo": 66,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/16_66.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/016066.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/16_66.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/016066.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/16_66.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/016066.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/16_66.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/016066.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/16_66.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/016066.mp3"
+        }
+    },
+    "english": "And there is certainly a lesson for you in cattle: We give you to drink of what is in their bellies, from between digested food and blood: pure milk, pleasant to drink.",
+    "arabic1": "وَإِنَّ لَكُمْ فِى ٱلْأَنْعَـٰمِ لَعِبْرَةً ۖ نُّسْقِيكُم مِّمَّا فِى بُطُونِهِۦ مِنۢ بَيْنِ فَرْثٍ وَدَمٍ لَّبَنًا خَالِصًا سَآئِغًا لِّلشَّـٰرِبِينَ",
+    "arabic2": "وان لكم في الانعام لعبرة نسقيكم مما في بطونه من بين فرث ودم لبنا خالصا سائغا للشاربين",
+    "bengali": "আর নিশ্চয় চতুষ্পদ জন্তুতে রয়েছে তোমাদের জন্য শিক্ষা। তার পেটের ভেতরের গোবর ও রক্তের মধ্যখান থেকে তোমাদেরকে আমি দুধ পান করাই, যা খাঁটি এবং পানকারীদের জন্য স্বাচ্ছ্যন্দকর।",
+    "urdu": "اور تمہارے لیے چارپایوں میں بھی (مقام) عبرت (وغور) ہے کہ ان کے پیٹوں میں جو گوبر اور لہو ہے اس سے ہم تم کو خالص دودھ پلاتے ہیں جو پینے والوں کے لیے خوشگوار ہے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Fussilat",
+    "surahNameArabic": "فصلت",
+    "surahNameArabicLong": "سورة فصلت",
+    "surahNameTranslation": "Explained in detail",
+    "revelationPlace": "Mecca",
+    "totalAyah": 54,
+    "surahNo": 41,
+    "ayahNo": 46,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/41_46.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/041046.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/41_46.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/041046.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/41_46.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/041046.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/41_46.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/041046.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/41_46.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/041046.mp3"
+        }
+    },
+    "english": "Whoever does good, it is to their own benefit. And whoever does evil, it is to their own loss. Your Lord is never unjust to ˹His˺ creation.",
+    "arabic1": "مَّنْ عَمِلَ صَـٰلِحًا فَلِنَفْسِهِۦ ۖ وَمَنْ أَسَآءَ فَعَلَيْهَا ۗ وَمَا رَبُّكَ بِظَلَّـٰمٍ لِّلْعَبِيدِ",
+    "arabic2": "من عمل صالحا فلنفسه ومن اساء فعليها وما ربك بظلام للعبيد",
+    "bengali": "যে সৎকর্ম করে সে তার নিজের জন্যই তা করে। আর যে অসৎকর্ম করে তা তার উপরই বর্তাবে। তোমার রব তাঁর বান্দাদের প্রতি মোটেই যালিম নন।",
+    "urdu": "جو نیک کام کرے گا تو اپنے لئے۔ اور جو برے کام کرے گا تو ان کا ضرر اسی کو ہوگا۔ اور تمہارا پروردگار بندوں پر ظلم کرنے والا نہیں"
+}

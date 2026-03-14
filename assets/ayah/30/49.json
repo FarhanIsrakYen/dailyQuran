@@ -1,0 +1,42 @@
+{
+    "surahName": "Ar-Room",
+    "surahNameArabic": "الروم",
+    "surahNameArabicLong": "سورة الروم",
+    "surahNameTranslation": "The Romans",
+    "revelationPlace": "Mecca",
+    "totalAyah": 60,
+    "surahNo": 30,
+    "ayahNo": 49,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/30_49.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/030049.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/30_49.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/030049.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/30_49.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/030049.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/30_49.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/030049.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/30_49.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/030049.mp3"
+        }
+    },
+    "english": "although they had utterly lost hope just before it was sent down to them.",
+    "arabic1": "وَإِن كَانُوا۟ مِن قَبْلِ أَن يُنَزَّلَ عَلَيْهِم مِّن قَبْلِهِۦ لَمُبْلِسِينَ",
+    "arabic2": "وان كانوا من قبل ان ينزل عليهم من قبله لمبلسين",
+    "bengali": "যদিও এর আগে তাদের প্রতি বৃষ্টি বর্ষণের পূর্বে তারা ছিল নিরাশ।",
+    "urdu": "اور بیشتر تو وہ مینھہ کے اُترنے سے پہلے نااُمید ہو رہے تھے"
+}

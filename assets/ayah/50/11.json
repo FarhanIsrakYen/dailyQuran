@@ -1,0 +1,42 @@
+{
+    "surahName": "Qaaf",
+    "surahNameArabic": "ق",
+    "surahNameArabicLong": "سورة ق",
+    "surahNameTranslation": "The letter Qaaf",
+    "revelationPlace": "Mecca",
+    "totalAyah": 45,
+    "surahNo": 50,
+    "ayahNo": 11,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/50_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/050011.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/50_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/050011.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/50_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/050011.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/50_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/050011.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/50_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/050011.mp3"
+        }
+    },
+    "english": "˹as˺ a provision for ˹Our˺ servants. And with this ˹rain˺ We revive a lifeless land. Similar is the emergence ˹from the graves˺.",
+    "arabic1": "رِّزْقًا لِّلْعِبَادِ ۖ وَأَحْيَيْنَا بِهِۦ بَلْدَةً مَّيْتًا ۚ كَذَٰلِكَ ٱلْخُرُوجُ",
+    "arabic2": "رزقا للعباد واحيينا به بلدة ميتا كذلك الخروج",
+    "bengali": "আমার বান্দাদের জন্য রিয্কস্বরূপ। আর আমি পানি দ্বারা মৃত শহর সঞ্জীবিত করি। এভাবেই উত্থান ঘটবে।",
+    "urdu": "(یہ سب کچھ) بندوں کو روزی دینے کے لئے (کیا ہے) اور اس (پانی) سے ہم نے شہر مردہ (یعنی زمین افتادہ) کو زندہ کیا۔ (بس) اسی طرح (قیامت کے روز) نکل پڑنا ہے"
+}

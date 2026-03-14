@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Hashr",
+    "surahNameArabic": "الحشر",
+    "surahNameArabicLong": "سورة الحشر",
+    "surahNameTranslation": "The Exile",
+    "revelationPlace": "Madina",
+    "totalAyah": 24,
+    "surahNo": 59,
+    "ayahNo": 11,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/59_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/059011.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/59_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/059011.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/59_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/059011.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/59_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/059011.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/59_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/059011.mp3"
+        }
+    },
+    "english": "Have you ˹O Prophet˺ not seen the hypocrites who say to their fellow disbelievers from the People of the Book, “If you are expelled, we will certainly leave with you, and We will never obey anyone against you. And if you are fought against, we will surely help you.”? But Allah bears witness that they are truly liars.",
+    "arabic1": "۞ أَلَمْ تَرَ إِلَى ٱلَّذِينَ نَافَقُوا۟ يَقُولُونَ لِإِخْوَٰنِهِمُ ٱلَّذِينَ كَفَرُوا۟ مِنْ أَهْلِ ٱلْكِتَـٰبِ لَئِنْ أُخْرِجْتُمْ لَنَخْرُجَنَّ مَعَكُمْ وَلَا نُطِيعُ فِيكُمْ أَحَدًا أَبَدًا وَإِن قُوتِلْتُمْ لَنَنصُرَنَّكُمْ وَٱللَّهُ يَشْهَدُ إِنَّهُمْ لَكَـٰذِبُونَ",
+    "arabic2": "الم تر الى الذين نافقوا يقولون لاخوانهم الذين كفروا من اهل الكتاب لئن اخرجتم لنخرجن معكم ولا نطيع فيكم احدا ابدا وان قوتلتم لننصرنكم والله يشهد انهم لكاذبون",
+    "bengali": "তুমি কি মুনাফিকদেরকে দেখনি যারা আহলে কিতাবের মধ্য হতে তাদের কাফির ভাইদেরকে বলে, ‘তোমাদেরকে বের করে দেয়া হলে আমরাও তোমাদের সাথে অবশ্য বেরিয়ে যাব এবং তোমাদের ব্যাপারে আমরা কখনোই কারো আনুগত্য করব না। আর তোমাদের সাথে যুদ্ধ করা হলে আমরা অবশ্যই তোমাদেরকে সাহায্য করব।’ আর আল্লাহ সাক্ষ্য দিচ্ছেন যে, তারা মিথ্যাবাদী।",
+    "urdu": "کیا تم نے ان منافقوں کو نہیں دیکھا جو اپنے کافر بھائیوں سے جو اہل کتاب ہیں کہا کرتے ہیں کہ اگر تم جلا وطن کئے گئے تو ہم بھی تمہارے ساتھ نکل چلیں گے اور تمہارے بارے میں کبھی کسی کا کہا نہ مانیں گے۔ اور اگر تم سے جنگ ہوئی تو تمہاری مدد کریں گے۔ مگر خدا ظاہر کئے دیتا ہے کہ یہ جھوٹے ہیں"
+}

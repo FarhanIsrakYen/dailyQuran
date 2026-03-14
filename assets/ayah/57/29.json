@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Hadid",
+    "surahNameArabic": "الحديد",
+    "surahNameArabicLong": "سورة الحديد",
+    "surahNameTranslation": "The Iron",
+    "revelationPlace": "Madina",
+    "totalAyah": 29,
+    "surahNo": 57,
+    "ayahNo": 29,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/57_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/057029.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/57_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/057029.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/57_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/057029.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/57_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/057029.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/57_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/057029.mp3"
+        }
+    },
+    "english": "˹This is so˺ that the People of the Book ˹who deny the Prophet˺ may know that they do not have any control over Allah’s grace, and that all grace is in Allah’s Hands. He grants it to whoever He wills. For Allah is the Lord of infinite bounty.",
+    "arabic1": "لِّئَلَّا يَعْلَمَ أَهْلُ ٱلْكِتَـٰبِ أَلَّا يَقْدِرُونَ عَلَىٰ شَىْءٍ مِّن فَضْلِ ٱللَّهِ ۙ وَأَنَّ ٱلْفَضْلَ بِيَدِ ٱللَّهِ يُؤْتِيهِ مَن يَشَآءُ ۚ وَٱللَّهُ ذُو ٱلْفَضْلِ ٱلْعَظِيمِ",
+    "arabic2": "لئلا يعلم اهل الكتاب الا يقدرون على شيء من فضل الله وان الفضل بيد الله يؤتيه من يشاء والله ذو الفضل العظيم",
+    "bengali": "(তা এজন্য যে,) আহলে কিতাবগণ যেন জেনে নিতে পারে, আল্লাহর অনুগ্রহের কোন বস্তুতেই তারা ক্ষমতা রাখে না। আর নিশ্চয় অনুগ্রহ আল্লাহর হাতেই, যাকে ইচ্ছা তিনি তা দেন। আর আল্লাহ মহাঅনুগ্রহের অধিকারী।",
+    "urdu": "(یہ باتیں) اس لئے (بیان کی گئی ہیں) کہ اہل کتاب جان لیں کہ وہ خدا کے فضل پر کچھ بھی قدرت نہیں رکھتے۔ اور یہ کہ فضل خدا ہی کے ہاتھ ہے جس کو چاہتا ہے دیتا ہے اور خدا بڑے فضل کا مالک ہے"
+}

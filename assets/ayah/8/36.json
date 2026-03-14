@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Anfaal",
+    "surahNameArabic": "الأنفال",
+    "surahNameArabicLong": "سورة الأنفال",
+    "surahNameTranslation": "The Spoils of War",
+    "revelationPlace": "Madina",
+    "totalAyah": 75,
+    "surahNo": 8,
+    "ayahNo": 36,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/8_36.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/008036.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/8_36.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/008036.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/8_36.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/008036.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/8_36.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/008036.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/8_36.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/008036.mp3"
+        }
+    },
+    "english": "Surely the disbelievers spend their wealth to hinder others from the Path of Allah. They will continue to spend to the point of regret. Then they will be defeated and the disbelievers will be driven into Hell",
+    "arabic1": "إِنَّ ٱلَّذِينَ كَفَرُوا۟ يُنفِقُونَ أَمْوَٰلَهُمْ لِيَصُدُّوا۟ عَن سَبِيلِ ٱللَّهِ ۚ فَسَيُنفِقُونَهَا ثُمَّ تَكُونُ عَلَيْهِمْ حَسْرَةً ثُمَّ يُغْلَبُونَ ۗ وَٱلَّذِينَ كَفَرُوٓا۟ إِلَىٰ جَهَنَّمَ يُحْشَرُونَ",
+    "arabic2": "ان الذين كفروا ينفقون اموالهم ليصدوا عن سبيل الله فسينفقونها ثم تكون عليهم حسرة ثم يغلبون والذين كفروا الى جهنم يحشرون",
+    "bengali": "নিশ্চয় যারা কুফরী করেছে, তারা নিজদের সম্পদসমূহ ব্যয় করে, আল্লাহর রাস্তা হতে বাধা প্রদান করার উদ্দেশ্যে। তারা তো তা ব্যয় করবে। অতঃপর এটি তাদের উপর আক্ষেপের কারণ হবে এরপর তারা পরাজিত হবে। আর যারা কুফরী করেছে তাদেরকে জাহান্নামে সমবেত করা হবে।",
+    "urdu": "جو لوگ کافر ہیں اپنا مال خرچ کرتے ہیں کہ (لوگوں کو) خدا کے رستے سے روکیں۔ سو ابھی اور خرچ کریں گے مگر آخر وہ (خرچ کرنا) ان کے لیے (موجب) افسوس ہوگا اور وہ مغلوب ہوجائیں گے۔ اور کافر لوگ دوزخ کی طرف ہانکے جائیں گے"
+}

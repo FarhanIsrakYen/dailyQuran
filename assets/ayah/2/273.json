@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 273,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_273.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002273.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_273.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002273.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_273.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002273.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_273.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002273.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_273.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002273.mp3"
+        }
+    },
+    "english": "˹Charity is˺ for the needy who are too engaged in the cause of Allah to move about in the land ˹for work˺. Those unfamiliar with their situation will think they are not in need ˹of charity˺ because they do not beg. You can recognize them by their appearance. They do not beg people persistently. Whatever you give in charity is certainly well known to Allah.",
+    "arabic1": "لِلْفُقَرَآءِ ٱلَّذِينَ أُحْصِرُوا۟ فِى سَبِيلِ ٱللَّهِ لَا يَسْتَطِيعُونَ ضَرْبًا فِى ٱلْأَرْضِ يَحْسَبُهُمُ ٱلْجَاهِلُ أَغْنِيَآءَ مِنَ ٱلتَّعَفُّفِ تَعْرِفُهُم بِسِيمَـٰهُمْ لَا يَسْـَٔلُونَ ٱلنَّاسَ إِلْحَافًا ۗ وَمَا تُنفِقُوا۟ مِنْ خَيْرٍ فَإِنَّ ٱللَّهَ بِهِۦ عَلِيمٌ",
+    "arabic2": "للفقراء الذين احصروا في سبيل الله لا يستطيعون ضربا في الارض يحسبهم الجاهل اغنياء من التعفف تعرفهم بسيماهم لا يسالون الناس الحافا وما تنفقوا من خير فان الله به عليم",
+    "bengali": "(সদাকা) সেসব দরিদ্রের জন্য যারা আল্লাহর রাস্তায় আটকে গিয়েছে, তারা যমীনে চলতে পারে না। না চাওয়ার কারণে অনবগত ব্যক্তি তাদেরকে অভাবমুক্ত মনে করে। তুমি তাদেরকে চিনতে পারবে তাদের চি‎হ্ন দ্বারা। তারা মানুষের কাছে নাছোড় হয়ে চায় না। আর তোমরা যে সম্পদ ব্যয় কর, অবশ্যই আল্লাহ সে সম্পর্কে পূর্ণ জ্ঞানী।",
+    "urdu": "(اور ہاں تم جو خرچ کرو گے تو) ان حاجتمندوں کے لئے جو خدا کی راہ میں رکے بیٹھے ہیں اور ملک میں کسی طرف جانے کی طاقت نہیں رکھتے (اور مانگنے سے عار رکھتے ہیں) یہاں تک کہ نہ مانگنے کی وجہ سے ناواقف شخص ان کو غنی خیال کرتا ہے اور تم قیافے سے ان کو صاف پہچان لو (کہ حاجتمند ہیں اور شرم کے سبب) لوگوں سے (منہ پھوڑ کر اور) لپٹ کر نہیں مانگ سکتے اور تم جو مال خرچ کرو گے کچھ شک نہیں کہ خدا اس کو جانتا ہے"
+}

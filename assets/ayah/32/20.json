@@ -1,0 +1,42 @@
+{
+    "surahName": "As-Sajda",
+    "surahNameArabic": "السجدة",
+    "surahNameArabicLong": "سورة السجدة",
+    "surahNameTranslation": "The Prostration",
+    "revelationPlace": "Mecca",
+    "totalAyah": 30,
+    "surahNo": 32,
+    "ayahNo": 20,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/32_20.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/032020.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/32_20.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/032020.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/32_20.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/032020.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/32_20.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/032020.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/32_20.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/032020.mp3"
+        }
+    },
+    "english": "But as for those who are rebellious, the Fire will be their home. Whenever they try to escape from it, they will be forced back into it, and will be told, “Taste the Fire’s torment, which you used to deny.”",
+    "arabic1": "وَأَمَّا ٱلَّذِينَ فَسَقُوا۟ فَمَأْوَىٰهُمُ ٱلنَّارُ ۖ كُلَّمَآ أَرَادُوٓا۟ أَن يَخْرُجُوا۟ مِنْهَآ أُعِيدُوا۟ فِيهَا وَقِيلَ لَهُمْ ذُوقُوا۟ عَذَابَ ٱلنَّارِ ٱلَّذِى كُنتُم بِهِۦ تُكَذِّبُونَ",
+    "arabic2": "واما الذين فسقوا فماواهم النار كلما ارادوا ان يخرجوا منها اعيدوا فيها وقيل لهم ذوقوا عذاب النار الذي كنتم به تكذبون",
+    "bengali": "আর যারা পাপকাজ করে, তাদের বাসস্থান হবে আগুন; যখনই তারা তা থেকে বের হতে চাইবে, তাদেরকে তাতেই ফিরিয়ে দেয়া হবে এবং তাদেরকে বলা হবে, ‘তোমরা আগুনের আযাব আস্বাদন কর, যাকে তোমরা অস্বীকার করতে।",
+    "urdu": "اور جنہوں نے نافرمانی کی اُن کے رہنے کے لئے دوزخ ہے جب چاہیں گے کہ اس میں سے نکل جائیں تو اس میں لوٹا دیئے جائیں گے۔ اور اُن سے کہا جائے گا کہ جس دوزخ کے عذاب کو تم جھوٹ سمجھتے تھے اس کے مزے چکھو"
+}

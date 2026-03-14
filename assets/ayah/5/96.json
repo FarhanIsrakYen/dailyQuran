@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Maaida",
+    "surahNameArabic": "المائدة",
+    "surahNameArabicLong": "سورة المائدة",
+    "surahNameTranslation": "The Table",
+    "revelationPlace": "Madina",
+    "totalAyah": 120,
+    "surahNo": 5,
+    "ayahNo": 96,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/5_96.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/005096.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/5_96.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/005096.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/5_96.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/005096.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/5_96.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/005096.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/5_96.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/005096.mp3"
+        }
+    },
+    "english": "It is lawful for you to hunt and eat seafood, as a provision for you and for travellers. But hunting on land is forbidden to you while on pilgrimage. Be mindful of Allah to Whom you all will be gathered.",
+    "arabic1": "أُحِلَّ لَكُمْ صَيْدُ ٱلْبَحْرِ وَطَعَامُهُۥ مَتَـٰعًا لَّكُمْ وَلِلسَّيَّارَةِ ۖ وَحُرِّمَ عَلَيْكُمْ صَيْدُ ٱلْبَرِّ مَا دُمْتُمْ حُرُمًا ۗ وَٱتَّقُوا۟ ٱللَّهَ ٱلَّذِىٓ إِلَيْهِ تُحْشَرُونَ",
+    "arabic2": "احل لكم صيد البحر وطعامه متاعا لكم وللسيارة وحرم عليكم صيد البر ما دمتم حرما واتقوا الله الذي اليه تحشرون",
+    "bengali": "তোমাদের জন্য হালাল করা হয়েছে সমুদ্রের শিকার ও তার খাদ্য; তোমাদের ও মুসাফিরদের ভোগের জন্য। আর স্থলের শিকার তোমাদের উপর হারাম করা হয়েছে যতক্ষণ তোমরা ইহরাম অবস্থায় থাক। আর তোমরা আল্লাহর তাকওয়া অবলম্বন কর, যার দিকে তোমাদেরকে একত্র করা হবে।",
+    "urdu": "تمہارے لیے دریا (کی چیزوں) کا شکار اور ان کا کھانا حلال کر دیا گیا ہے (یعنی) تمہارے اور مسافروں کے فائدے کے لیے اور جنگل (کی چیزوں) کا شکار جب تک تم احرام کی حالت میں رہو تم پر حرام ہے اور خدا سے جس کے پاس تم (سب) جمع کئے جاؤ گے ڈرتے رہو"
+}

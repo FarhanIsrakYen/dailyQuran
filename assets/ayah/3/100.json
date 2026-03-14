@@ -1,0 +1,42 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 100,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/3_100.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/003100.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/3_100.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/003100.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/3_100.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/003100.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/3_100.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/003100.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/3_100.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/003100.mp3"
+        }
+    },
+    "english": "O believers! If you were to yield to a group of those who were given the Scripture, they would turn you back from belief to disbelief.",
+    "arabic1": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِن تُطِيعُوا۟ فَرِيقًا مِّنَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ يَرُدُّوكُم بَعْدَ إِيمَـٰنِكُمْ كَـٰفِرِينَ",
+    "arabic2": "يا ايها الذين امنوا ان تطيعوا فريقا من الذين اوتوا الكتاب يردوكم بعد ايمانكم كافرين",
+    "bengali": "হে মুমিনগণ, যাদেরকে কিতাব দেয়া হয়েছে, তোমরা যদি তাদের একটি দলের আনুগত্য কর, তারা তোমাদের ঈমানের পর তোমাদেরকে কাফির অবস্থায় ফিরিয়ে নেবে।",
+    "urdu": "مومنو! اگر تم اہلِ کتاب کے کسی فریق کا کہا مان لو گے تو وہ تمھیں ایمان لانے کے بعد کافر بنا دیں گے"
+}

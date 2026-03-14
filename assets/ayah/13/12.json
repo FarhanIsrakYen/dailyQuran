@@ -1,0 +1,42 @@
+{
+    "surahName": "Ar-Ra'd",
+    "surahNameArabic": "الرعد",
+    "surahNameArabicLong": "سورة الرعد",
+    "surahNameTranslation": "The Thunder",
+    "revelationPlace": "Madina",
+    "totalAyah": 43,
+    "surahNo": 13,
+    "ayahNo": 12,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/13_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/013012.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/13_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/013012.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/13_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/013012.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/13_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/013012.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/13_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/013012.mp3"
+        }
+    },
+    "english": "He is the One Who shows you lightning, inspiring ˹you with˺ hope and fear, and produces heavy clouds.",
+    "arabic1": "هُوَ ٱلَّذِى يُرِيكُمُ ٱلْبَرْقَ خَوْفًا وَطَمَعًا وَيُنشِئُ ٱلسَّحَابَ ٱلثِّقَالَ",
+    "arabic2": "هو الذي يريكم البرق خوفا وطمعا وينشئ السحاب الثقال",
+    "bengali": "তিনিই ভয় ও আশা সঞ্চার করার জন্য তোমাদেরকে বিজলী দেখান এবং তিনি ভারী মেঘমালা সৃষ্টি করেন।",
+    "urdu": "اور وہی تو ہے جو تم کو ڈرانے اور امید دلانے کے لیے بجلی دکھاتا اور بھاری بھاری بادل پیدا کرتا ہے"
+}

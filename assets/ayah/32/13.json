@@ -1,0 +1,42 @@
+{
+    "surahName": "As-Sajda",
+    "surahNameArabic": "السجدة",
+    "surahNameArabicLong": "سورة السجدة",
+    "surahNameTranslation": "The Prostration",
+    "revelationPlace": "Mecca",
+    "totalAyah": 30,
+    "surahNo": 32,
+    "ayahNo": 13,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/32_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/032013.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/32_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/032013.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/32_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/032013.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/32_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/032013.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/32_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/032013.mp3"
+        }
+    },
+    "english": "Had We willed, We could have easily imposed guidance on every soul. But My Word will come to pass: I will surely fill up Hell with jinn and humans all together.",
+    "arabic1": "وَلَوْ شِئْنَا لَـَٔاتَيْنَا كُلَّ نَفْسٍ هُدَىٰهَا وَلَـٰكِنْ حَقَّ ٱلْقَوْلُ مِنِّى لَأَمْلَأَنَّ جَهَنَّمَ مِنَ ٱلْجِنَّةِ وَٱلنَّاسِ أَجْمَعِينَ",
+    "arabic2": "ولو شئنا لاتينا كل نفس هداها ولكن حق القول مني لاملان جهنم من الجنة والناس اجمعين",
+    "bengali": "আর যদি আমি ইচ্ছা করতাম, তাহলে প্রত্যেক ব্যক্তিকে তার হিদায়াত দান করতাম। কিন্তু আমার কথাই সত্যে পরিণত হবে যে, ‘নিশ্চয় আমি জিন ও মানুষ উভয় দ্বারা জাহান্নাম পূর্ণ করব’।",
+    "urdu": "اور اگر ہم چاہتے تو ہر شخص کو ہدایت دے دیتے۔ لیکن میری طرف سے یہ بات قرار پاچکی ہے کہ میں دوزخ کو جنوں اور انسانوں سب سے بھردوں گا"
+}

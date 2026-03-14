@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 41,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/6_41.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/006041.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/6_41.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/006041.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/6_41.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/006041.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/6_41.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/006041.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/6_41.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/006041.mp3"
+        }
+    },
+    "english": "No! He is the only One you would call. And if He willed, He could remove the affliction that made you invoke Him. Only then will you forget whatever you associate with Him ˹in worship˺.”",
+    "arabic1": "بَلْ إِيَّاهُ تَدْعُونَ فَيَكْشِفُ مَا تَدْعُونَ إِلَيْهِ إِن شَآءَ وَتَنسَوْنَ مَا تُشْرِكُونَ",
+    "arabic2": "بل اياه تدعون فيكشف ما تدعون اليه ان شاء وتنسون ما تشركون",
+    "bengali": "বরং তাকেই তোমরা ডাকবে। অতঃপর যদি তিনি চান, যে জন্য তাকে ডাকছ, তা তিনি দূর করে দেবেন। আর তোমরা যা শরীক কর, তা তোমরা ভুলে যাবে।",
+    "urdu": "بلکہ (مصیبت کے وقت تم) اسی کو پکارتے ہو تو جس دکھ کے لئے اسے پکارتے ہو۔ وہ اگر چاہتا ہے تو اس کو دور کردیتا ہے اور جن کو تم شریک بناتے ہو (اس وقت) انہیں بھول جاتے ہو"
+}

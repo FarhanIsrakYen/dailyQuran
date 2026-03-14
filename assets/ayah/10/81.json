@@ -1,0 +1,42 @@
+{
+    "surahName": "Yunus",
+    "surahNameArabic": "يونس",
+    "surahNameArabicLong": "سورة يونس",
+    "surahNameTranslation": "Jonas",
+    "revelationPlace": "Mecca",
+    "totalAyah": 109,
+    "surahNo": 10,
+    "ayahNo": 81,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/10_81.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/010081.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/10_81.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/010081.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/10_81.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/010081.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/10_81.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/010081.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/10_81.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/010081.mp3"
+        }
+    },
+    "english": "When they did, Moses said, “What you have produced is mere magic, Allah will surely make it useless, for Allah certainly does not set right the work of the corruptors.",
+    "arabic1": "فَلَمَّآ أَلْقَوْا۟ قَالَ مُوسَىٰ مَا جِئْتُم بِهِ ٱلسِّحْرُ ۖ إِنَّ ٱللَّهَ سَيُبْطِلُهُۥٓ ۖ إِنَّ ٱللَّهَ لَا يُصْلِحُ عَمَلَ ٱلْمُفْسِدِينَ",
+    "arabic2": "فلما القوا قال موسى ما جئتم به السحر ان الله سيبطله ان الله لا يصلح عمل المفسدين",
+    "bengali": "অতঃপর যখন তারা (তাদের রশি ও লাঠি) ফেলল, তখন মূসা বলল, ‘তোমরা যা আনলে, তা যাদু। নিশ্চয় আল্লাহ তা বাতিল করে দেবেন। নিশ্চয় আল্লাহ ফাসাদকারীদের আমল পরিশুদ্ধ করেন না’।",
+    "urdu": "جب انہوں نے (اپنی رسیوں اور لاٹھیوں کو) ڈالا تو موسیٰ نے کہا کہ جو چیزیں تم (بنا کر) لائے ہو جادو ہے خدا اس کو بھی نیست ونابود کردے گا۔ خدا شریروں کے کام سنوارا نہیں کرتا"
+}

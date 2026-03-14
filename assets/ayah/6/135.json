@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 135,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/6_135.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/006135.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/6_135.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/006135.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/6_135.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/006135.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/6_135.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/006135.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/6_135.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/006135.mp3"
+        }
+    },
+    "english": "Say, ˹O Prophet,˺ “O my people! Persist in your ways, for I ˹too˺ will persist in mine. You will soon know who will fare best in the end. Indeed, the wrongdoers will never succeed.”",
+    "arabic1": "قُلْ يَـٰقَوْمِ ٱعْمَلُوا۟ عَلَىٰ مَكَانَتِكُمْ إِنِّى عَامِلٌ ۖ فَسَوْفَ تَعْلَمُونَ مَن تَكُونُ لَهُۥ عَـٰقِبَةُ ٱلدَّارِ ۗ إِنَّهُۥ لَا يُفْلِحُ ٱلظَّـٰلِمُونَ",
+    "arabic2": "قل يا قوم اعملوا على مكانتكم اني عامل فسوف تعلمون من تكون له عاقبة الدار انه لا يفلح الظالمون",
+    "bengali": "বল, ‘হে আমার কওম, তোমরা তোমাদের অবস্থানে থেকে কাজ কর, নিশ্চয় আমিও কাজ করছি। অচিরেই তোমরা জানতে পারবে কার জন্য হবে আখিরাতের পরিণতি। নিশ্চয় যালিমরা সফল হয় না।’",
+    "urdu": "کہہ دو کہ لوگو تم اپنی جگہ عمل کئے جاؤ میں (اپنی جگہ) عمل کئے جاتا ہوں عنقریب تم کو معلوم ہو جائے گا کہ آخرت میں (بہشت) کس کا گھر ہوگا کچھ شک نہیں کہ مشرک نجات نہیں پانے کے"
+}

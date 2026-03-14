@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 90,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/7_90.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/007090.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/7_90.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/007090.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/7_90.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/007090.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/7_90.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/007090.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/7_90.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/007090.mp3"
+        }
+    },
+    "english": "The disbelieving chiefs of his people threatened, “If you follow Shu’aib, you will surely be losers!”",
+    "arabic1": "وَقَالَ ٱلْمَلَأُ ٱلَّذِينَ كَفَرُوا۟ مِن قَوْمِهِۦ لَئِنِ ٱتَّبَعْتُمْ شُعَيْبًا إِنَّكُمْ إِذًا لَّخَـٰسِرُونَ",
+    "arabic2": "وقال الملا الذين كفروا من قومه لئن اتبعتم شعيبا انكم اذا لخاسرون",
+    "bengali": "আর তার কওম থেকে যে নেতৃবৃন্দ কুফরী করেছিল তারা বলল, ‘যদি তোমরা শু‘আইবকে অনুসরণ কর তাহলে নিশ্চয় তোমরা ক্ষতিগ্রস্ত হবে।’",
+    "urdu": "اور ان کی قوم میں سے سردار لوگ جو کافر تھے، کہنے لگے (بھائیو) اگر تم نے شعیب کی پیروی کی تو بےشک تم خسارے میں پڑگئے"
+}

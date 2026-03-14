@@ -1,0 +1,42 @@
+{
+    "surahName": "Hud",
+    "surahNameArabic": "هود",
+    "surahNameArabicLong": "سورة هود",
+    "surahNameTranslation": "Hud",
+    "revelationPlace": "Mecca",
+    "totalAyah": 123,
+    "surahNo": 11,
+    "ayahNo": 109,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/11_109.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/011109.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/11_109.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/011109.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/11_109.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/011109.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/11_109.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/011109.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/11_109.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/011109.mp3"
+        }
+    },
+    "english": "So do not be in doubt ˹O Prophet˺ about what those ˹pagans˺ worship. They worship nothing except what their forefathers worshipped before ˹them˺. And We will certainly give them their share ˹of punishment˺ in full, without any reduction.",
+    "arabic1": "فَلَا تَكُ فِى مِرْيَةٍ مِّمَّا يَعْبُدُ هَـٰٓؤُلَآءِ ۚ مَا يَعْبُدُونَ إِلَّا كَمَا يَعْبُدُ ءَابَآؤُهُم مِّن قَبْلُ ۚ وَإِنَّا لَمُوَفُّوهُمْ نَصِيبَهُمْ غَيْرَ مَنقُوصٍ",
+    "arabic2": "فلا تك في مرية مما يعبد هؤلاء ما يعبدون الا كما يعبد اباؤهم من قبل وانا لموفوهم نصيبهم غير منقوص",
+    "bengali": "সুতরাং এরা যাদের উপাসনা করে, তুমি তাদের ব্যাপারে সংশয়ে থেকো না। তারা তো ইবাদাত করে, যেমন ইতঃপূর্বে ইবাদাত করত তাদের পিতৃপুরুষগণ। নিশ্চয় আমি তাদের অংশ হ্রাস না করে তাদেরকে পুরোপুরি দেব।",
+    "urdu": "تو یہ لوگ جو (غیر خدا کی) پرستش کرتے ہیں۔ اس سے تم خلجان میں نہ پڑنا۔ یہ اسی طرح پرستش کرتے ہیں جس طرح پہلے سے ان کے باپ دادا پرستش کرتے آئے ہیں۔ اور ہم ان کو ان کا حصہ پورا پورا بلا کم وکاست دینے والے ہیں"
+}

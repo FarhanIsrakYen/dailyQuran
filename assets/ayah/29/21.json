@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Ankaboot",
+    "surahNameArabic": "العنكبوت",
+    "surahNameArabicLong": "سورة العنكبوت",
+    "surahNameTranslation": "The Spider",
+    "revelationPlace": "Mecca",
+    "totalAyah": 69,
+    "surahNo": 29,
+    "ayahNo": 21,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/29_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/029021.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/29_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/029021.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/29_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/029021.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/29_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/029021.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/29_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/029021.mp3"
+        }
+    },
+    "english": "He punishes whoever He wills, and shows mercy to whoever He wills. And you will ˹all˺ be returned to Him.",
+    "arabic1": "يُعَذِّبُ مَن يَشَآءُ وَيَرْحَمُ مَن يَشَآءُ ۖ وَإِلَيْهِ تُقْلَبُونَ",
+    "arabic2": "يعذب من يشاء ويرحم من يشاء واليه تقلبون",
+    "bengali": "তিনি যাকে ইচ্ছা আযাব দেবেন এবং যাকে ইচ্ছা দয়া করবেন, আর তাঁর কাছেই তোমাদেরকে ফিরিয়ে নেয়া হবে।",
+    "urdu": "وہ جسے چاہے عذاب دے اور جس پر چاہے رحم کرے۔ اور اُسی کی طرف تم لوٹائے جاؤ گے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "As-Sajda",
+    "surahNameArabic": "السجدة",
+    "surahNameArabicLong": "سورة السجدة",
+    "surahNameTranslation": "The Prostration",
+    "revelationPlace": "Mecca",
+    "totalAyah": 30,
+    "surahNo": 32,
+    "ayahNo": 10,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/32_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/032010.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/32_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/032010.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/32_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/032010.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/32_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/032010.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/32_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/032010.mp3"
+        }
+    },
+    "english": "˹Still˺ they ask ˹mockingly˺, “When we are disintegrated into the earth, will we really be raised as a new creation?” In fact, they are in denial of the meeting with their Lord.",
+    "arabic1": "وَقَالُوٓا۟ أَءِذَا ضَلَلْنَا فِى ٱلْأَرْضِ أَءِنَّا لَفِى خَلْقٍ جَدِيدٍۭ ۚ بَلْ هُم بِلِقَآءِ رَبِّهِمْ كَـٰفِرُونَ",
+    "arabic2": "وقالوا ااذا ضللنا في الارض اانا لفي خلق جديد بل هم بلقاء ربهم كافرون",
+    "bengali": "আর তারা বলে, ‘আমরা যখন মাটিতে মিশে যাব তখন কি আবার নতুন সৃষ্টি হব’? বরং তারাতো তাদের রবের সাক্ষাৎকে অস্বীকারকারী।",
+    "urdu": "اور کہنے لگے کہ جب ہم زمین میں ملیامیٹ ہوجائیں گے تو کیا ازسرنو پیدا ہوں گے۔ حقیقت یہ ہے کہ یہ لوگ اپنے پروردگار کے سامنے جانے ہی کے قائل نہیں"
+}

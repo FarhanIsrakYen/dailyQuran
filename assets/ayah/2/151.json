@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 151,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_151.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002151.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_151.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002151.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_151.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002151.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_151.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002151.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_151.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002151.mp3"
+        }
+    },
+    "english": "Since We have sent you a messenger from among yourselves—reciting to you Our revelations, purifying you, teaching you the Book and wisdom, and teaching you what you never knew—",
+    "arabic1": "كَمَآ أَرْسَلْنَا فِيكُمْ رَسُولًا مِّنكُمْ يَتْلُوا۟ عَلَيْكُمْ ءَايَـٰتِنَا وَيُزَكِّيكُمْ وَيُعَلِّمُكُمُ ٱلْكِتَـٰبَ وَٱلْحِكْمَةَ وَيُعَلِّمُكُم مَّا لَمْ تَكُونُوا۟ تَعْلَمُونَ",
+    "arabic2": "كما ارسلنا فيكم رسولا منكم يتلو عليكم اياتنا ويزكيكم ويعلمكم الكتاب والحكمة ويعلمكم ما لم تكونوا تعلمون",
+    "bengali": "যেভাবে আমি তোমাদের মধ্যে একজন রাসূল প্রেরণ করেছি তোমাদের মধ্য থেকে, যে তোমাদের কাছে আমার আয়াতসমূহ তিলাওয়াত করে, তোমাদেরকে পবিত্র করে এবং কিতাব ও হিকমত শিক্ষা দেয়। আর তোমাদেরকে শিক্ষা দেয় এমন কিছু যা তোমরা জানতে না।",
+    "urdu": "جس طرح (منجملہ اور نعمتوں کے) ہم نے تم میں تمھیں میں سے ایک رسول بھیجے ہیں جو تم کو ہماری آیتیں پڑھ پڑھ کر سناتے اور تمہیں پاک بناتے اور کتاب (یعنی قرآن) اور دانائی سکھاتے ہیں، اور ایسی باتیں بتاتے ہیں، جو تم پہلے نہیں جانتے تھے"
+}

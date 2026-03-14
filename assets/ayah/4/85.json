@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 85,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/4_85.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/004085.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/4_85.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/004085.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/4_85.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/004085.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/4_85.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/004085.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/4_85.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/004085.mp3"
+        }
+    },
+    "english": "Whoever intercedes for a good cause will have a share in the reward, and whoever intercedes for an evil cause will have a share in the burden. And Allah is Watchful over all things.",
+    "arabic1": "مَّن يَشْفَعْ شَفَـٰعَةً حَسَنَةً يَكُن لَّهُۥ نَصِيبٌ مِّنْهَا ۖ وَمَن يَشْفَعْ شَفَـٰعَةً سَيِّئَةً يَكُن لَّهُۥ كِفْلٌ مِّنْهَا ۗ وَكَانَ ٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ مُّقِيتًا",
+    "arabic2": "من يشفع شفاعة حسنة يكن له نصيب منها ومن يشفع شفاعة سيئة يكن له كفل منها وكان الله على كل شيء مقيتا",
+    "bengali": "যে ভাল সুপারিশ করবে, তা থেকে তার জন্য একটি অংশ থাকবে এবং যে মন্দ সুপারিশ করবে তার জন্যও তা থেকে একটি অংশ থাকবে। আর আল্লাহ প্রতিটি বিষয়ের সংরক্ষণকারী।",
+    "urdu": "جو شخص نیک بات کی سفارش کرے تو اس کو اس (کے ثواب) میں سے حصہ ملے گا اور جو بری بات کی سفارش کرے اس کو اس (کے عذاب) میں سے حصہ ملے گا اور خدا ہر چیز پر قدرت رکھتا ہے"
+}

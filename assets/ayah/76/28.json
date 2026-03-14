@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Insaan",
+    "surahNameArabic": "الانسان",
+    "surahNameArabicLong": "سورة الانسان",
+    "surahNameTranslation": "Man",
+    "revelationPlace": "Madina",
+    "totalAyah": 31,
+    "surahNo": 76,
+    "ayahNo": 28,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/76_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/076028.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/76_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/076028.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/76_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/076028.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/76_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/076028.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/76_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/076028.mp3"
+        }
+    },
+    "english": "It is We Who created them and perfected their ˹physical˺ form. But if We will, We can easily replace them with others.",
+    "arabic1": "نَّحْنُ خَلَقْنَـٰهُمْ وَشَدَدْنَآ أَسْرَهُمْ ۖ وَإِذَا شِئْنَا بَدَّلْنَآ أَمْثَـٰلَهُمْ تَبْدِيلًا",
+    "arabic2": "نحن خلقناهم وشددنا اسرهم واذا شئنا بدلنا امثالهم تبديلا",
+    "bengali": "আমিই তাদেরকে সৃষ্টি করেছি এবং তাদের গ্রন্থি শক্ত করে দিয়েছি আর আমি চাইলে তাদের স্থানে তাদের মত (মানুষ) দিয়ে পরিবর্তন করে দিতে পারি।",
+    "urdu": "ہم نے ان کو پیدا کیا اور ان کے مقابل کو مضبوط بنایا۔ اور اگر ہم چاہیں تو ان کے بدلے ان ہی کی طرح اور لوگ لے آئیں"
+}

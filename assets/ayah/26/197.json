@@ -1,0 +1,42 @@
+{
+    "surahName": "Ash-Shu'araa",
+    "surahNameArabic": "الشعراء",
+    "surahNameArabicLong": "سورة الشعراء",
+    "surahNameTranslation": "The Poets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 227,
+    "surahNo": 26,
+    "ayahNo": 197,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/26_197.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/026197.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/26_197.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/026197.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/26_197.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/026197.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/26_197.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/026197.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/26_197.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/026197.mp3"
+        }
+    },
+    "english": "Was it not sufficient proof for the deniers that it has been recognized by the knowledgeable among the Children of Israel?",
+    "arabic1": "أَوَلَمْ يَكُن لَّهُمْ ءَايَةً أَن يَعْلَمَهُۥ عُلَمَـٰٓؤُا۟ بَنِىٓ إِسْرَٰٓءِيلَ",
+    "arabic2": "اولم يكن لهم اية ان يعلمه علماء بني اسرائيل",
+    "bengali": "এটা কি তাদের জন্য একটি নিদর্শন নয় যে, বনী ইসরাঈলের পন্ডিতগণ তা জানে?",
+    "urdu": "کیا ان کے لئے یہ سند نہیں ہے کہ علمائے بنی اسرائیل اس (بات) کو جانتے ہیں"
+}

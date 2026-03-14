@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Muminoon",
+    "surahNameArabic": "المؤمنون",
+    "surahNameArabicLong": "سورة المؤمنون",
+    "surahNameTranslation": "The Believers",
+    "revelationPlace": "Mecca",
+    "totalAyah": 118,
+    "surahNo": 23,
+    "ayahNo": 100,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/23_100.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/023100.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/23_100.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/023100.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/23_100.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/023100.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/23_100.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/023100.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/23_100.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/023100.mp3"
+        }
+    },
+    "english": "so I may do good in what I left behind.” Never! It is only a ˹useless˺ appeal they make. And there is a barrier behind them until the Day they are resurrected.",
+    "arabic1": "لَعَلِّىٓ أَعْمَلُ صَـٰلِحًا فِيمَا تَرَكْتُ ۚ كَلَّآ ۚ إِنَّهَا كَلِمَةٌ هُوَ قَآئِلُهَا ۖ وَمِن وَرَآئِهِم بَرْزَخٌ إِلَىٰ يَوْمِ يُبْعَثُونَ",
+    "arabic2": "لعلي اعمل صالحا فيما تركت كلا انها كلمة هو قائلها ومن ورائهم برزخ الى يوم يبعثون",
+    "bengali": "যেন আমি সৎকাজ করতে পারি যা আমি ছেড়ে দিয়েছিলাম।’ কখনো নয়, এটি একটি বাক্য যা সে বলবে। যেদিন তাদেরকে পুনরুত্থিত করা হবে সেদিন পর্যন্ত তাদের সামনে থাকবে বরযখ।",
+    "urdu": "تاکہ میں اس میں جسے چھوڑ آیا ہوں نیک کام کیا کروں۔ ہرگز نہیں۔ یہ ایک ایسی بات ہے کہ وہ اسے زبان سے کہہ رہا ہوگا (اور اس کے ساتھ عمل نہیں ہوگا) اور اس کے پیچھے برزخ ہے (جہاں وہ) اس دن تک کہ (دوبارہ) اٹھائے جائیں گے، (رہیں گے)"
+}

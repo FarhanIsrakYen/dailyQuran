@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 69,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/4_69.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/004069.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/4_69.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/004069.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/4_69.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/004069.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/4_69.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/004069.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/4_69.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/004069.mp3"
+        }
+    },
+    "english": "And whoever obeys Allah and the Messenger will be in the company of those blessed by Allah: the prophets, the people of truth, the martyrs, and the righteous—what honourable company!",
+    "arabic1": "وَمَن يُطِعِ ٱللَّهَ وَٱلرَّسُولَ فَأُو۟لَـٰٓئِكَ مَعَ ٱلَّذِينَ أَنْعَمَ ٱللَّهُ عَلَيْهِم مِّنَ ٱلنَّبِيِّـۧنَ وَٱلصِّدِّيقِينَ وَٱلشُّهَدَآءِ وَٱلصَّـٰلِحِينَ ۚ وَحَسُنَ أُو۟لَـٰٓئِكَ رَفِيقًا",
+    "arabic2": "ومن يطع الله والرسول فاولئك مع الذين انعم الله عليهم من النبيين والصديقين والشهداء والصالحين وحسن اولئك رفيقا",
+    "bengali": "আর যারা আল্লাহ ও রাসূলের আনুগত্য করে তারা তাদের সাথে থাকবে, আল্লাহ যাদের উপর অনুগ্রহ করেছেন নবী, সিদ্দীক, শহীদ ও সৎকর্মশীলদের মধ্য থেকে। আর সাথী হিসেবে তারা হবে উত্তম।",
+    "urdu": "اور جو لوگ خدا اور اس کے رسول کی اطاعت کرتے ہیں وہ (قیامت کے روز) ان لوگوں کے ساتھ ہوں گے جن پر خدا نے بڑا فضل کیا یعنی انبیاء اور صدیق اور شہید اور نیک لوگ اور ان لوگوں کی رفاقت بہت ہی خوب ہے"
+}

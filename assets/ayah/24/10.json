@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Noor",
+    "surahNameArabic": "النور",
+    "surahNameArabicLong": "سورة النور",
+    "surahNameTranslation": "The Light",
+    "revelationPlace": "Madina",
+    "totalAyah": 64,
+    "surahNo": 24,
+    "ayahNo": 10,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/24_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/024010.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/24_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/024010.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/24_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/024010.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/24_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/024010.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/24_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/024010.mp3"
+        }
+    },
+    "english": "˹You would have suffered,˺ had it not been for Allah’s grace and mercy upon you, and had Allah not been Accepting of Repentance, All-Wise.",
+    "arabic1": "وَلَوْلَا فَضْلُ ٱللَّهِ عَلَيْكُمْ وَرَحْمَتُهُۥ وَأَنَّ ٱللَّهَ تَوَّابٌ حَكِيمٌ",
+    "arabic2": "ولولا فضل الله عليكم ورحمته وان الله تواب حكيم",
+    "bengali": "যদি তোমাদের উপর আল্লাহর অনুগ্রহ ও তাঁর দয়া না থাকত, (তাহলে তোমরা ধ্বংস হয়ে যেতে) আর নিশ্চয় আল্লাহ অধিক তাওবা গ্রহণকারী, প্রজ্ঞাময়।",
+    "urdu": "اور اگر تم پر خدا کا فضل اور اس کی مہربانی نہ ہوتی تو بہت سی خرابیاں پیدا ہوجاتیں۔ مگر وہ صاحب کرم ہے اور یہ کہ خدا توبہ قبول کرنے والا حکیم ہے"
+}

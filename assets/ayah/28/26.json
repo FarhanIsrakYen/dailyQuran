@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Qasas",
+    "surahNameArabic": "القصص",
+    "surahNameArabicLong": "سورة القصص",
+    "surahNameTranslation": "The Stories",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 28,
+    "ayahNo": 26,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/28_26.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/028026.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/28_26.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/028026.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/28_26.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/028026.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/28_26.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/028026.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/28_26.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/028026.mp3"
+        }
+    },
+    "english": "One of the two daughters suggested, “O my dear father! Hire him. The best man for employment is definitely the strong and trustworthy ˹one˺.”",
+    "arabic1": "قَالَتْ إِحْدَىٰهُمَا يَـٰٓأَبَتِ ٱسْتَـْٔجِرْهُ ۖ إِنَّ خَيْرَ مَنِ ٱسْتَـْٔجَرْتَ ٱلْقَوِىُّ ٱلْأَمِينُ",
+    "arabic2": "قالت احداهما يا ابت استاجره ان خير من استاجرت القوي الامين",
+    "bengali": "নারীদ্বয়ের একজন বলল, ‘হে আমার পিতা, আপনি তাকে মজুর নিযুক্ত করুন। নিশ্চয় আপনি যাদেরকে মজুর নিযুক্ত করবেন তাদের মধ্যে সে উত্তম, যে শক্তিশালী বিশ্বস্ত’।",
+    "urdu": "ایک لڑکی بولی کہ ابّا ان کو نوکر رکھ لیجئے کیونکہ بہتر نوکر جو آپ رکھیں وہ ہے (جو) توانا اور امانت دار (ہو)"
+}

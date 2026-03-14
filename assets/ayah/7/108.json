@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 108,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/7_108.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/007108.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/7_108.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/007108.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/7_108.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/007108.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/7_108.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/007108.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/7_108.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/007108.mp3"
+        }
+    },
+    "english": "Then he drew his hand ˹out of his collar˺ and it was ˹shining˺ white for all to see.",
+    "arabic1": "وَنَزَعَ يَدَهُۥ فَإِذَا هِىَ بَيْضَآءُ لِلنَّـٰظِرِينَ",
+    "arabic2": "ونزع يده فاذا هي بيضاء للناظرين",
+    "bengali": "আর সে বের করল তার হাত, তৎক্ষণাৎ তা দর্শকদের কাছে ধবধবে সাদা (দেখাচ্ছিল)।",
+    "urdu": "اور اپنا ہاتھ باہر نکالا تو اسی دم دیکھنے والوں کی نگاہوں میں سفید براق (تھا)"
+}

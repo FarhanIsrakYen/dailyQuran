@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Mumtahana",
+    "surahNameArabic": "الممتحنة",
+    "surahNameArabicLong": "سورة الممتحنة",
+    "surahNameTranslation": "She that is to be examined",
+    "revelationPlace": "Madina",
+    "totalAyah": 13,
+    "surahNo": 60,
+    "ayahNo": 13,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/60_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/060013.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/60_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/060013.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/60_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/060013.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/60_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/060013.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/60_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/060013.mp3"
+        }
+    },
+    "english": "O believers! Do not ally yourselves with a people Allah is displeased with. They already have no hope for the Hereafter, just like the disbelievers lying in ˹their˺ graves.",
+    "arabic1": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَتَوَلَّوْا۟ قَوْمًا غَضِبَ ٱللَّهُ عَلَيْهِمْ قَدْ يَئِسُوا۟ مِنَ ٱلْـَٔاخِرَةِ كَمَا يَئِسَ ٱلْكُفَّارُ مِنْ أَصْحَـٰبِ ٱلْقُبُورِ",
+    "arabic2": "يا ايها الذين امنوا لا تتولوا قوما غضب الله عليهم قد يئسوا من الاخرة كما يئس الكفار من اصحاب القبور",
+    "bengali": "হে ঈমানদারগণ, তোমরা সেই সম্প্রদায়ের সাথে বন্ধুত্ব করো না, যাদের প্রতি আল্লাহ রাগান্বিত হয়েছেন। তারা তো আখিরাত সম্পর্কে নিরাশ হয়ে পড়েছে, যেমনিভাবে কাফিররা কবরবাসীদের সম্পর্কে নিরাশ হয়েছে।",
+    "urdu": "مومنو! ان لوگوں سے جن پر خدا غصے ہوا ہے دوستی نہ کرو (کیونکہ) جس طرح کافروں کو مردوں (کے جی اُٹھنے) کی امید نہیں اسی طرح ان لوگوں کو بھی آخرت (کے آنے) کی امید نہیں"
+}

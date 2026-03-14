@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nahl",
+    "surahNameArabic": "النحل",
+    "surahNameArabicLong": "سورة النحل",
+    "surahNameTranslation": "The Bee",
+    "revelationPlace": "Mecca",
+    "totalAyah": 128,
+    "surahNo": 16,
+    "ayahNo": 120,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/16_120.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/016120.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/16_120.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/016120.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/16_120.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/016120.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/16_120.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/016120.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/16_120.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/016120.mp3"
+        }
+    },
+    "english": "Indeed, Abraham was a model of excellence: devoted to Allah, ˹perfectly˺ upright—not a polytheist—",
+    "arabic1": "إِنَّ إِبْرَٰهِيمَ كَانَ أُمَّةً قَانِتًا لِّلَّهِ حَنِيفًا وَلَمْ يَكُ مِنَ ٱلْمُشْرِكِينَ",
+    "arabic2": "ان ابراهيم كان امة قانتا لله حنيفا ولم يك من المشركين",
+    "bengali": "নিশ্চয় ইবরাহীম ছিলেন এক উম্মত*, আল্লাহর একান্ত অনুগত ও একনিষ্ঠ। তিনি মুশরিকদের অন্তর্ভূক্ত ছিলেন না। \n* তিনি উম্মত বা জাতি ছিলেন, এই অর্থে যে, একটি জাতির মাঝে যে সমস্ত গুণাবলী পাওয়া যায়, ব্যক্তি ইবরাহীমের মাঝেই তা বিদ্যমান ছিল। কারও কারও মতে এর অর্থ ‘আদর্শ পুরুষ’ ‘ইমাম’ বা কল্যাণের শিক্ষক।",
+    "urdu": "بےشک ابراہیم (لوگوں کے) امام اور خدا کے فرمانبردار تھے۔ جو ایک طرف کے ہو رہے تھے اور مشرکوں میں سے نہ تھے"
+}

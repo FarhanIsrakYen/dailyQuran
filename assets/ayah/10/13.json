@@ -1,0 +1,42 @@
+{
+    "surahName": "Yunus",
+    "surahNameArabic": "يونس",
+    "surahNameArabicLong": "سورة يونس",
+    "surahNameTranslation": "Jonas",
+    "revelationPlace": "Mecca",
+    "totalAyah": 109,
+    "surahNo": 10,
+    "ayahNo": 13,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/10_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/010013.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/10_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/010013.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/10_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/010013.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/10_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/010013.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/10_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/010013.mp3"
+        }
+    },
+    "english": "We surely destroyed ˹other˺ peoples before you when they did wrong, and their messengers came to them with clear proofs but they would not believe! This is how We reward the wicked people.",
+    "arabic1": "وَلَقَدْ أَهْلَكْنَا ٱلْقُرُونَ مِن قَبْلِكُمْ لَمَّا ظَلَمُوا۟ ۙ وَجَآءَتْهُمْ رُسُلُهُم بِٱلْبَيِّنَـٰتِ وَمَا كَانُوا۟ لِيُؤْمِنُوا۟ ۚ كَذَٰلِكَ نَجْزِى ٱلْقَوْمَ ٱلْمُجْرِمِينَ",
+    "arabic2": "ولقد اهلكنا القرون من قبلكم لما ظلموا وجاءتهم رسلهم بالبينات وما كانوا ليؤمنوا كذلك نجزي القوم المجرمين",
+    "bengali": "আর অবশ্যই আমি তোমাদের পূর্বে বহু প্রজন্মকে ধ্বংস করেছি, যখন তারা যুলম করেছে। আর তাদের নিকট তাদের রাসূলগণ প্রমাণাদিসহ আগমন করেছিল, কিন্তু তারা ঈমান আনার ছিল না। এভাবে আমি অপরাধী কওমকে শাস্তি প্রদান করি।",
+    "urdu": "اور تم سے پہلے ہم کئی امتوں کو جب انہوں نے ظلم کا راستہ اختیار کیا ہلاک کرچکے ہیں۔ اور ان کے پاس پیغمبر کھلی نشانیاں لے کر آئے مگر وہ ایسے نہ تھے کہ ایمان لاتے۔ ہم گنہگار لوگوں کو اسی طرح بدلہ دیا کرتے ہیں"
+}

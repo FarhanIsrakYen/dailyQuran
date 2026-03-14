@@ -1,0 +1,42 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 39,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/3_39.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/003039.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/3_39.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/003039.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/3_39.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/003039.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/3_39.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/003039.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/3_39.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/003039.mp3"
+        }
+    },
+    "english": "So the angels called out to him while he stood praying in the sanctuary, “Allah gives you good news of ˹the birth of˺ John who will confirm the Word of Allah and will be a great leader, chaste, and a prophet among the righteous.”",
+    "arabic1": "فَنَادَتْهُ ٱلْمَلَـٰٓئِكَةُ وَهُوَ قَآئِمٌ يُصَلِّى فِى ٱلْمِحْرَابِ أَنَّ ٱللَّهَ يُبَشِّرُكَ بِيَحْيَىٰ مُصَدِّقًۢا بِكَلِمَةٍ مِّنَ ٱللَّهِ وَسَيِّدًا وَحَصُورًا وَنَبِيًّا مِّنَ ٱلصَّـٰلِحِينَ",
+    "arabic2": "فنادته الملائكة وهو قائم يصلي في المحراب ان الله يبشرك بيحيى مصدقا بكلمة من الله وسيدا وحصورا ونبيا من الصالحين",
+    "bengali": "অতঃপর ফেরেশতারা তাকে ডেকে বলল, সে যখন কক্ষে দাঁড়িয়ে সালাত আদায় করছিল, ‘নিশ্চয় আল্লাহ তোমাকে ইয়াহইয়া সম্পর্কে সুসংবাদ দিচ্ছেন, যে হবে আল্লাহর পক্ষ থেকে বাণীর সত্যায়নকারী, নেতা ও নারী সম্ভোগমুক্ত এবং নেককারদের মধ্য থেকে একজন নবী’।",
+    "urdu": "وہ ابھی عبادت گاہ میں کھڑے نماز ہی پڑھ رہے تھے کہ فرشتوں نے آواز دی کہ (زکریا) خدا تمہیں یحییٰ کی بشارت دیتا ہے جو خدا کے فیض یعنی (عیسیٰ) کی تصدیق کریں گے اور سردار ہوں گے اور عورتوں سے رغبت نہ رکھنے والے اور (خدا کے) پیغمبر (یعنی) نیکو کاروں میں ہوں گے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 17,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/17_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/017017.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/17_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/017017.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/17_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/017017.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/17_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/017017.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/17_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/017017.mp3"
+        }
+    },
+    "english": "˹Imagine˺ how many peoples We have destroyed after Noah! And sufficient is your Lord as All-Aware and All-Seeing of the sins of His servants.",
+    "arabic1": "وَكَمْ أَهْلَكْنَا مِنَ ٱلْقُرُونِ مِنۢ بَعْدِ نُوحٍ ۗ وَكَفَىٰ بِرَبِّكَ بِذُنُوبِ عِبَادِهِۦ خَبِيرًۢا بَصِيرًا",
+    "arabic2": "وكم اهلكنا من القرون من بعد نوح وكفى بربك بذنوب عباده خبيرا بصيرا",
+    "bengali": "আর নূহের পর আমি কত প্রজন্ম ধ্বংস করেছি! তোমার রব তাঁর বান্দাদের পাপের ব্যাপারে পূর্ণ অবহিত ও সর্বদ্রষ্টা হিসেবে যথেষ্ট।",
+    "urdu": "اور ہم نے نوح کے بعد بہت سی اُمتوں کو ہلاک کر ڈالا۔ اور تمہارا پروردگار اپنے بندوں کے گناہوں کو جاننے اور دیکھنے والا کافی ہے"
+}

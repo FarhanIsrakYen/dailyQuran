@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Haaqqa",
+    "surahNameArabic": "الحاقة",
+    "surahNameArabicLong": "سورة الحاقة",
+    "surahNameTranslation": "The Reality",
+    "revelationPlace": "Mecca",
+    "totalAyah": 52,
+    "surahNo": 69,
+    "ayahNo": 24,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/69_24.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/069024.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/69_24.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/069024.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/69_24.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/069024.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/69_24.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/069024.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/69_24.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/069024.mp3"
+        }
+    },
+    "english": "˹They will be told,˺ “Eat and drink joyfully for what you did in the days gone by.”",
+    "arabic1": "كُلُوا۟ وَٱشْرَبُوا۟ هَنِيٓـًٔۢا بِمَآ أَسْلَفْتُمْ فِى ٱلْأَيَّامِ ٱلْخَالِيَةِ",
+    "arabic2": "كلوا واشربوا هنيئا بما اسلفتم في الايام الخالية",
+    "bengali": "(বলা হবে,) ‘বিগত দিনসমূহে তোমরা যা অগ্রে প্রেরণ করেছ তার বিনিময়ে তোমরা তৃপ্তি সহকারে খাও ও পান কর’।",
+    "urdu": "جو (عمل) تم ایام گزشتہ میں آگے بھیج چکے ہو اس کے صلے میں مزے سے کھاؤ اور پیو"
+}

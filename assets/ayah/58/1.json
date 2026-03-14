@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Mujaadila",
+    "surahNameArabic": "المجادلة",
+    "surahNameArabicLong": "سورة المجادلة",
+    "surahNameTranslation": "The Pleading Woman",
+    "revelationPlace": "Madina",
+    "totalAyah": 22,
+    "surahNo": 58,
+    "ayahNo": 1,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/58_1.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/058001.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/58_1.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/058001.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/58_1.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/058001.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/58_1.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/058001.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/58_1.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/058001.mp3"
+        }
+    },
+    "english": "Indeed, Allah has heard the argument of the woman who pleaded with you ˹O Prophet˺ concerning her husband, and appealed to Allah. Allah has heard your exchange. Surely Allah is All-Hearing, All-Seeing.",
+    "arabic1": "قَدْ سَمِعَ ٱللَّهُ قَوْلَ ٱلَّتِى تُجَـٰدِلُكَ فِى زَوْجِهَا وَتَشْتَكِىٓ إِلَى ٱللَّهِ وَٱللَّهُ يَسْمَعُ تَحَاوُرَكُمَآ ۚ إِنَّ ٱللَّهَ سَمِيعٌۢ بَصِيرٌ",
+    "arabic2": "قد سمع الله قول التي تجادلك في زوجها وتشتكي الى الله والله يسمع تحاوركما ان الله سميع بصير",
+    "bengali": "আল্লাহ অবশ্যই সে রমনীর কথা শুনেছেন যে তার স্বামীর ব্যাপারে তোমার সাথে বাদানুবাদ করছিল আর আল্লাহর কাছে ফরিয়াদ করছিল। আল্লাহ তোমাদের কথোপকথন শোনেন। নিশ্চয় আল্লাহ সর্বশ্রোতা, সর্বদ্রষ্টা।",
+    "urdu": "(اے پیغمبر) جو عورت تم سے اپنے شوہر کے بارے میں بحث جدال کرتی اور خدا سے شکایت (رنج وملال) کرتی تھی۔ خدا نے اس کی التجا سن لی اور خدا تم دونوں کی گفتگو سن رہا تھا۔ کچھ شک نہیں کہ خدا سنتا دیکھتا ہے"
+}

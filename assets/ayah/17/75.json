@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 75,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/17_75.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/017075.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/17_75.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/017075.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/17_75.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/017075.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/17_75.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/017075.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/17_75.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/017075.mp3"
+        }
+    },
+    "english": "and then We truly would have made you taste double ˹punishment˺ both in this life and after death, and you would have found no helper against Us.",
+    "arabic1": "إِذًا لَّأَذَقْنَـٰكَ ضِعْفَ ٱلْحَيَوٰةِ وَضِعْفَ ٱلْمَمَاتِ ثُمَّ لَا تَجِدُ لَكَ عَلَيْنَا نَصِيرًا",
+    "arabic2": "اذا لاذقناك ضعف الحياة وضعف الممات ثم لا تجد لك علينا نصيرا",
+    "bengali": "তখন আমি অবশ্যই তোমাকে আস্বাদন করাতাম জীবনের দ্বিগুণ ও মরণের দ্বিগুণ আযাব।* তারপর তুমি তোমার জন্য আমার বিরুদ্ধে কোন সাহায্যকারী পাবে না। \n* এখানে জীবনের দিগুণ ও মরণের দিগুণ আযাব দ্বারা দুনিয়াবী জীবন ও আখিরাতের জীবনের দিগুণ আযাব উদ্দেশ্য।",
+    "urdu": "اس وقت ہم تم کو زندگی میں (عذاب کا) دونا اور مرنے پر بھی دونا مزا چکھاتے پھر تم ہمارے مقابلے میں کسی کو اپنا مددگار نہ پاتے"
+}

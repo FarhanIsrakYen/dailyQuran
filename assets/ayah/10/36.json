@@ -1,0 +1,42 @@
+{
+    "surahName": "Yunus",
+    "surahNameArabic": "يونس",
+    "surahNameArabicLong": "سورة يونس",
+    "surahNameTranslation": "Jonas",
+    "revelationPlace": "Mecca",
+    "totalAyah": 109,
+    "surahNo": 10,
+    "ayahNo": 36,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/10_36.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/010036.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/10_36.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/010036.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/10_36.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/010036.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/10_36.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/010036.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/10_36.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/010036.mp3"
+        }
+    },
+    "english": "Most of them follow nothing but ˹inherited˺ assumptions. ˹And˺ surely assumptions can in no way replace the truth. Allah is indeed All-Knowing of what they do.",
+    "arabic1": "وَمَا يَتَّبِعُ أَكْثَرُهُمْ إِلَّا ظَنًّا ۚ إِنَّ ٱلظَّنَّ لَا يُغْنِى مِنَ ٱلْحَقِّ شَيْـًٔا ۚ إِنَّ ٱللَّهَ عَلِيمٌۢ بِمَا يَفْعَلُونَ",
+    "arabic2": "وما يتبع اكثرهم الا ظنا ان الظن لا يغني من الحق شيئا ان الله عليم بما يفعلون",
+    "bengali": "আর তাদের অধিকাংশ কেবল ধারণার অনুসরণ করে। নিশ্চয় সত্যের বিপরীতে ধারণা কোন কার্যকারিতা রাখে না । নিশ্চয় আল্লাহ তারা যা করে সে সম্পর্কে সম্যক অবগত।",
+    "urdu": "اور ان میں سے اکثر صرف ظن کی پیروی کرتے ہیں۔ اور کچھ شک نہیں کہ ظن حق کے مقابلے میں کچھ بھی کارآمد نہیں ہوسکتا۔ بےشک خدا تمہارے (سب) افعال سے واقف ہے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 25,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/17_25.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/017025.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/17_25.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/017025.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/17_25.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/017025.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/17_25.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/017025.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/17_25.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/017025.mp3"
+        }
+    },
+    "english": "Your Lord knows best what is within yourselves. If you are righteous, He is certainly All-Forgiving to those who ˹constantly˺ turn to Him.",
+    "arabic1": "رَّبُّكُمْ أَعْلَمُ بِمَا فِى نُفُوسِكُمْ ۚ إِن تَكُونُوا۟ صَـٰلِحِينَ فَإِنَّهُۥ كَانَ لِلْأَوَّٰبِينَ غَفُورًا",
+    "arabic2": "ربكم اعلم بما في نفوسكم ان تكونوا صالحين فانه كان للاوابين غفورا",
+    "bengali": "তোমাদের অন্তরে যা আছে, সে সম্পর্কে তোমাদের রবই অধিক জ্ঞাত। যদি তোমরা নেককার হও তবে তিনি তাঁর দিকে প্রত্যাবর্তনকারীদের প্রতি অধিক ক্ষমাশীল।",
+    "urdu": "جو کچھ تمہارے دلوں میں ہے تمہارا پروردگار اس سے بخوبی واقف ہے۔ اگر تم نیک ہوگے تو وہ رجوع لانے والوں کو بخش دینے والا ہے"
+}

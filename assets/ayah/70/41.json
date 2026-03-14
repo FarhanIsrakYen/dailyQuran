@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Ma'aarij",
+    "surahNameArabic": "المعارج",
+    "surahNameArabicLong": "سورة المعارج",
+    "surahNameTranslation": "The Ascending Stairways",
+    "revelationPlace": "Mecca",
+    "totalAyah": 44,
+    "surahNo": 70,
+    "ayahNo": 41,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/70_41.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/070041.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/70_41.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/070041.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/70_41.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/070041.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/70_41.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/070041.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/70_41.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/070041.mp3"
+        }
+    },
+    "english": "of replacing them with ˹others˺ better than them, and We cannot be prevented ˹from doing so˺.",
+    "arabic1": "عَلَىٰٓ أَن نُّبَدِّلَ خَيْرًا مِّنْهُمْ وَمَا نَحْنُ بِمَسْبُوقِينَ",
+    "arabic2": "على ان نبدل خيرا منهم وما نحن بمسبوقين",
+    "bengali": "তাদের চাইতে উত্তমদেরকে তাদের স্থলে নিয়ে আসতে এবং আমি অক্ষম নই।",
+    "urdu": "(یعنی) اس بات پر (قادر ہیں) کہ ان سے بہتر لوگ بدل لائیں اور ہم عاجز نہیں ہیں"
+}

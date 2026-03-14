@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Maaida",
+    "surahNameArabic": "المائدة",
+    "surahNameArabicLong": "سورة المائدة",
+    "surahNameTranslation": "The Table",
+    "revelationPlace": "Madina",
+    "totalAyah": 120,
+    "surahNo": 5,
+    "ayahNo": 104,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/5_104.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/005104.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/5_104.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/005104.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/5_104.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/005104.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/5_104.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/005104.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/5_104.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/005104.mp3"
+        }
+    },
+    "english": "When it is said to them, “Come to Allah’s revelations and to the Messenger,” they reply, “What we found our forefathers practicing is good enough for us.” ˹Would they still do so,˺ even if their forefathers had absolutely no knowledge or guidance?",
+    "arabic1": "وَإِذَا قِيلَ لَهُمْ تَعَالَوْا۟ إِلَىٰ مَآ أَنزَلَ ٱللَّهُ وَإِلَى ٱلرَّسُولِ قَالُوا۟ حَسْبُنَا مَا وَجَدْنَا عَلَيْهِ ءَابَآءَنَآ ۚ أَوَلَوْ كَانَ ءَابَآؤُهُمْ لَا يَعْلَمُونَ شَيْـًٔا وَلَا يَهْتَدُونَ",
+    "arabic2": "واذا قيل لهم تعالوا الى ما انزل الله والى الرسول قالوا حسبنا ما وجدنا عليه اباءنا اولو كان اباؤهم لا يعلمون شيئا ولا يهتدون",
+    "bengali": "আর যখন তাদেরকে বলা হয়, ‘আল্লাহ যা নাযিল করেছেন তার দিকে ও রাসূলের দিকে আস’, তারা বলে, ‘আমরা আমাদের পিতৃপুরুষদের যার উপর পেয়েছি তাই আমাদের জন্য যথেষ্ট।’ যদিও তাদের পিতৃপুরুষরা কিছুই জানত না এবং হিদায়াতপ্রাপ্ত ছিল না তবুও?",
+    "urdu": "اور جب ان لوگوں سے کہا جاتا ہے کہ جو (کتاب) خدا نے نازل فرمائی ہے اس کی اور رسول الله کی طرف رجوع کرو تو کہتے ہیں کہ جس طریق پر ہم نے اپنے باپ دادا کو پایا ہے وہی ہمیں کافی ہے بھلا اگر ان کے باپ دادا نہ تو کچھ جانتے ہوں اور نہ سیدھے رستے پر ہوں (تب بھی؟)"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Maaida",
+    "surahNameArabic": "المائدة",
+    "surahNameArabicLong": "سورة المائدة",
+    "surahNameTranslation": "The Table",
+    "revelationPlace": "Madina",
+    "totalAyah": 120,
+    "surahNo": 5,
+    "ayahNo": 23,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/5_23.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/005023.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/5_23.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/005023.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/5_23.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/005023.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/5_23.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/005023.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/5_23.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/005023.mp3"
+        }
+    },
+    "english": "Two God-fearing men—who had been blessed by Allah—said, “Surprise them through the gate. If you do, you will certainly prevail. Put your trust in Allah if you are ˹truly˺ believers.”",
+    "arabic1": "قَالَ رَجُلَانِ مِنَ ٱلَّذِينَ يَخَافُونَ أَنْعَمَ ٱللَّهُ عَلَيْهِمَا ٱدْخُلُوا۟ عَلَيْهِمُ ٱلْبَابَ فَإِذَا دَخَلْتُمُوهُ فَإِنَّكُمْ غَـٰلِبُونَ ۚ وَعَلَى ٱللَّهِ فَتَوَكَّلُوٓا۟ إِن كُنتُم مُّؤْمِنِينَ",
+    "arabic2": "قال رجلان من الذين يخافون انعم الله عليهما ادخلوا عليهم الباب فاذا دخلتموه فانكم غالبون وعلى الله فتوكلوا ان كنتم مؤمنين",
+    "bengali": "যারা ভয় করে, তাদের মধ্য থেকে এমন দু’ব্যক্তি বলল, ‘যাদের উপর আল্লাহ নিআমত দিয়েছেন, ‘তোমরা তাদের নিকট দরজা দিয়ে প্রবেশ কর। যখন সেখানে প্রবেশ করবে, তখন নিশ্চয় জয়ী হবে। আর আল্লাহর উপরই তাওয়াক্কুল কর, যদি তোমরা মুমিন হও’।",
+    "urdu": "جو لوگ (خدا سے) ڈرتے تھے ان میں سے دو شخص جن پر خدا کی عنایت تھی کہنے لگے کہ ان لوگوں پر دروازے کے رستے سے حملہ کردو جب تم دروازے میں داخل ہو گئے تو فتح تمہارے ہے اور خدا ہی پر بھروسہ رکھو بشرطیکہ صاحبِ ایمان ہو"
+}

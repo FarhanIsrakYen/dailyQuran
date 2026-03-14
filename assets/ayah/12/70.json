@@ -1,0 +1,42 @@
+{
+    "surahName": "Yusuf",
+    "surahNameArabic": "يوسف",
+    "surahNameArabicLong": "سورة يوسف",
+    "surahNameTranslation": "Joseph",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 12,
+    "ayahNo": 70,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/12_70.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/012070.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/12_70.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/012070.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/12_70.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/012070.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/12_70.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/012070.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/12_70.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/012070.mp3"
+        }
+    },
+    "english": "When Joseph had provided them with supplies, he slipped the royal cup into his brother’s bag. Then a herald cried, “O people of the caravan! You must be thieves!”",
+    "arabic1": "فَلَمَّا جَهَّزَهُم بِجَهَازِهِمْ جَعَلَ ٱلسِّقَايَةَ فِى رَحْلِ أَخِيهِ ثُمَّ أَذَّنَ مُؤَذِّنٌ أَيَّتُهَا ٱلْعِيرُ إِنَّكُمْ لَسَـٰرِقُونَ",
+    "arabic2": "فلما جهزهم بجهازهم جعل السقاية في رحل اخيه ثم اذن مؤذن ايتها العير انكم لسارقون",
+    "bengali": "অতঃপর সে যখন তাদেরকে তাদের রসদপত্র প্রস্তুত করে দিল, তখন তার ভাইয়ের মালপত্রে পানপাত্রটি রেখে দিল। তারপর একজন ঘোষক ঘোষণা করল, ‘ওহে কাফেলার লোকজন, নিশ্চয় তোমরা চোর’।",
+    "urdu": "جب ان کا اسباب تیار کر دیا تو اپنے بھائی کے شلیتے میں گلاس رکھ دیا اور پھر (جب وہ آبادی سے باہر نکل گئے تو) ایک پکارنے والے نے آواز دی کہ قافلے والو تم تو چور ہو"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Faatir",
+    "surahNameArabic": "فاطر",
+    "surahNameArabicLong": "سورة فاطر",
+    "surahNameTranslation": "The Originator",
+    "revelationPlace": "Mecca",
+    "totalAyah": 45,
+    "surahNo": 35,
+    "ayahNo": 2,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/35_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/035002.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/35_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/035002.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/35_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/035002.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/35_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/035002.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/35_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/035002.mp3"
+        }
+    },
+    "english": "Whatever mercy Allah opens up for people, none can withhold it. And whatever He withholds, none but Him can release it. For He is the Almighty, All-Wise.",
+    "arabic1": "مَّا يَفْتَحِ ٱللَّهُ لِلنَّاسِ مِن رَّحْمَةٍ فَلَا مُمْسِكَ لَهَا ۖ وَمَا يُمْسِكْ فَلَا مُرْسِلَ لَهُۥ مِنۢ بَعْدِهِۦ ۚ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+    "arabic2": "ما يفتح الله للناس من رحمة فلا ممسك لها وما يمسك فلا مرسل له من بعده وهو العزيز الحكيم",
+    "bengali": "আল্লাহ মানুষের জন্য যে রহমত উন্মুক্ত করে দেন তা আটকে রাখার কেউ নেই। আর তিনি যা আটকে রাখেন, তারপর তা ছাড়াবার কেউ নেই। আর তিনি পরাক্রমশালী, প্রজ্ঞাময়।",
+    "urdu": "خدا جو اپنی رحمت (کا دروازہ) کھول دے تو کوئی اس کو بند کرنے والا نہیں۔ اور جو بند کردے تو اس کے بعد کوئی اس کو کھولنے والا نہیں۔ اور وہ غالب حکمت والا ہے"
+}

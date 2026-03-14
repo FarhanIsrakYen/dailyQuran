@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nahl",
+    "surahNameArabic": "النحل",
+    "surahNameArabicLong": "سورة النحل",
+    "surahNameTranslation": "The Bee",
+    "revelationPlace": "Mecca",
+    "totalAyah": 128,
+    "surahNo": 16,
+    "ayahNo": 124,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/16_124.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/016124.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/16_124.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/016124.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/16_124.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/016124.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/16_124.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/016124.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/16_124.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/016124.mp3"
+        }
+    },
+    "english": "˹Honouring˺ the Sabbath was ordained only for those who disputed about Abraham. And surely your Lord will judge between them on the Day of Judgment regarding their disputes.",
+    "arabic1": "إِنَّمَا جُعِلَ ٱلسَّبْتُ عَلَى ٱلَّذِينَ ٱخْتَلَفُوا۟ فِيهِ ۚ وَإِنَّ رَبَّكَ لَيَحْكُمُ بَيْنَهُمْ يَوْمَ ٱلْقِيَـٰمَةِ فِيمَا كَانُوا۟ فِيهِ يَخْتَلِفُونَ",
+    "arabic2": "انما جعل السبت على الذين اختلفوا فيه وان ربك ليحكم بينهم يوم القيامة فيما كانوا فيه يختلفون",
+    "bengali": "শনিবার তো তাদের উপর চাপিয়ে দেয়া হয়েছে যারা তাতে মতবিরোধ করেছে। আর নিশ্চয় তোমার রব কিয়ামতের দিন তাদের মধ্যে ফয়সালা করে দেবেন, যাতে তারা মতভেদ করত।",
+    "urdu": "ہفتے کا دن تو ان ہی لوگوں کے لئے مقرر کیا گیا تھا۔ جنہوں نے اس میں اختلاف کیا۔ اور تمہارا پروردگار قیامت کے دن ان میں ان باتوں کا فیصلہ کردے گا جن میں وہ اختلاف کرتے تھے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Hud",
+    "surahNameArabic": "هود",
+    "surahNameArabicLong": "سورة هود",
+    "surahNameTranslation": "Hud",
+    "revelationPlace": "Mecca",
+    "totalAyah": 123,
+    "surahNo": 11,
+    "ayahNo": 78,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/11_78.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/011078.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/11_78.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/011078.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/11_78.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/011078.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/11_78.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/011078.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/11_78.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/011078.mp3"
+        }
+    },
+    "english": "And ˹the men of˺ his people—who were used to shameful deeds—came to him rushing. He pleaded, “O my people! Here are my daughters ˹for marriage˺—they are pure for you. So fear Allah, and do not humiliate me by disrespecting my guests. Is there not ˹even˺ a single right-minded man among you?”",
+    "arabic1": "وَجَآءَهُۥ قَوْمُهُۥ يُهْرَعُونَ إِلَيْهِ وَمِن قَبْلُ كَانُوا۟ يَعْمَلُونَ ٱلسَّيِّـَٔاتِ ۚ قَالَ يَـٰقَوْمِ هَـٰٓؤُلَآءِ بَنَاتِى هُنَّ أَطْهَرُ لَكُمْ ۖ فَٱتَّقُوا۟ ٱللَّهَ وَلَا تُخْزُونِ فِى ضَيْفِىٓ ۖ أَلَيْسَ مِنكُمْ رَجُلٌ رَّشِيدٌ",
+    "arabic2": "وجاءه قومه يهرعون اليه ومن قبل كانوا يعملون السيئات قال يا قوم هؤلاء بناتي هن اطهر لكم فاتقوا الله ولا تخزون في ضيفي اليس منكم رجل رشيد",
+    "bengali": "আর তার কওম তার কাছে ছুটে আসল এবং ইতঃপূর্বে তারা মন্দ কাজ করত। সে বলল, ‘হে আমার কওম, এরা আমার মেয়ে, তারা তোমাদের জন্য পবিত্র। সুতরাং তোমরা আল্লাহকে ভয় কর এবং আমার মেহমানদের ব্যাপারে তোমরা আমাকে অপমানিত করো না। তোমাদের মধ্যে কি কোন সুবোধ ব্যক্তি নেই’?",
+    "urdu": "اور لوط کی قوم کے لوگ ان کے پاس بےتحاشا دوڑتے ہوئے آئے اور یہ لوگ پہلے ہی سے فعل شنیع کیا کرتے تھے۔ لوط نے کہا کہ اے قوم! یہ (جو) میری (قوم کی) لڑکیاں ہیں، یہ تمہارے لیے (جائز اور) پاک ہیں۔ تو خدا سے ڈرو اور میرے مہمانوں کے (بارے) میں میری آبرو نہ کھوؤ۔ کیا تم میں کوئی بھی شائستہ آدمی نہیں"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Hashr",
+    "surahNameArabic": "الحشر",
+    "surahNameArabicLong": "سورة الحشر",
+    "surahNameTranslation": "The Exile",
+    "revelationPlace": "Madina",
+    "totalAyah": 24,
+    "surahNo": 59,
+    "ayahNo": 6,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/59_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/059006.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/59_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/059006.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/59_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/059006.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/59_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/059006.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/59_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/059006.mp3"
+        }
+    },
+    "english": "As for the gains Allah has turned over to His Messenger from them—you did not ˹even˺ spur on any horse or camel for such gains. But Allah gives authority to His messengers over whoever He wills. For Allah is Most Capable of everything.",
+    "arabic1": "وَمَآ أَفَآءَ ٱللَّهُ عَلَىٰ رَسُولِهِۦ مِنْهُمْ فَمَآ أَوْجَفْتُمْ عَلَيْهِ مِنْ خَيْلٍ وَلَا رِكَابٍ وَلَـٰكِنَّ ٱللَّهَ يُسَلِّطُ رُسُلَهُۥ عَلَىٰ مَن يَشَآءُ ۚ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+    "arabic2": "وما افاء الله على رسوله منهم فما اوجفتم عليه من خيل ولا ركاب ولكن الله يسلط رسله على من يشاء والله على كل شيء قدير",
+    "bengali": "আল্লাহ ইয়াহুদীদের নিকট থেকে তাঁর রাসূলকে ফায়* হিসেবে যা দিয়েছেন তোমরা তার জন্য কোন ঘোড়া বা উটে আরোহণ করে অভিযান পরিচালনা করনি। বরং আল্লাহ তাঁর রাসূলগণকে যাদের ওপর ইচ্ছা কতৃত্ব প্রদান করেন। আল্লাহ সকল কিছুর ওপর সর্বশক্তিমান। \n*যুদ্ধ ছাড়াই যে ধন-সম্পদ অর্জিত হয় তাকে في বলে। এটি সাধারণত বায়তুল মালে জমা রাখা হয় এবং রাসূল স্বীয় তত্ত্বাবধানে রাষ্ট্রীয় প্রয়োজনে তা ব্যবহার করতেন। আর যুদ্ধের মাধ্যমে যা অর্জিত হয় তাকে গনিমত غنيمت বলা হয়।",
+    "urdu": "اور جو (مال) خدا نے اپنے پیغمبر کو ان لوگوں سے (بغیر لڑائی بھڑائی کے) دلوایا ہے اس میں تمہارا کچھ حق نہیں کیونکہ اس کے لئے نہ تم نے گھوڑے دوڑائے نہ اونٹ لیکن خدا اپنے پیغمبروں کو جن پر چاہتا ہے مسلط کردیتا ہے۔ اور خدا ہر چیز پر قادر ہے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 188,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/7_188.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/007188.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/7_188.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/007188.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/7_188.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/007188.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/7_188.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/007188.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/7_188.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/007188.mp3"
+        }
+    },
+    "english": "Say, “I have no power to benefit or protect myself, except by the Will of Allah. If I had known the unknown, I would have benefited myself enormously, and no harm would have ever touched me. I am only a warner and deliverer of good news for those who believe.”",
+    "arabic1": "قُل لَّآ أَمْلِكُ لِنَفْسِى نَفْعًا وَلَا ضَرًّا إِلَّا مَا شَآءَ ٱللَّهُ ۚ وَلَوْ كُنتُ أَعْلَمُ ٱلْغَيْبَ لَٱسْتَكْثَرْتُ مِنَ ٱلْخَيْرِ وَمَا مَسَّنِىَ ٱلسُّوٓءُ ۚ إِنْ أَنَا۠ إِلَّا نَذِيرٌ وَبَشِيرٌ لِّقَوْمٍ يُؤْمِنُونَ",
+    "arabic2": "قل لا املك لنفسي نفعا ولا ضرا الا ما شاء الله ولو كنت اعلم الغيب لاستكثرت من الخير وما مسني السوء ان انا الا نذير وبشير لقوم يؤمنون",
+    "bengali": "বল, ‘আমি আমার নিজের কোন উপকার ও ক্ষতির ক্ষমতা রাখি না, তবে আল্লাহ যা চান। আর আমি যদি গায়েব জানতাম তাহলে অধিক কল্যাণ লাভ করতাম এবং আমাকে কোন ক্ষতি স্পর্শ করত না। আমিতো একজন সতর্ককারী ও সুসংবাদদাতা এমন কওমের জন্য, যারা বিশ্বাস করে’।",
+    "urdu": "کہہ دو کہ میں اپنے فائدے اور نقصان کا کچھ بھی اختیار نہیں رکھتا مگر جو الله چاہے اور اگر میں غیب کی باتیں جانتا ہوتا تو بہت سے فائدے جمع کرلیتا اور مجھ کو کوئی تکلیف نہ پہنچتی۔ میں تو مومنوں کو ڈر اور خوشخبری سنانے والا ہوں"
+}

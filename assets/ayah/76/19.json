@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Insaan",
+    "surahNameArabic": "الانسان",
+    "surahNameArabicLong": "سورة الانسان",
+    "surahNameTranslation": "Man",
+    "revelationPlace": "Madina",
+    "totalAyah": 31,
+    "surahNo": 76,
+    "ayahNo": 19,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/76_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/076019.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/76_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/076019.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/76_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/076019.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/76_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/076019.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/76_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/076019.mp3"
+        }
+    },
+    "english": "They will be waited on by eternal youths. If you saw them, you would think they were scattered pearls.",
+    "arabic1": "۞ وَيَطُوفُ عَلَيْهِمْ وِلْدَٰنٌ مُّخَلَّدُونَ إِذَا رَأَيْتَهُمْ حَسِبْتَهُمْ لُؤْلُؤًا مَّنثُورًا",
+    "arabic2": "ويطوف عليهم ولدان مخلدون اذا رايتهم حسبتهم لؤلؤا منثورا",
+    "bengali": "আর তাদের চারপাশে প্রদক্ষিণ করবে চিরকিশোরেরা; তুমি তাদেরকে দেখলে বিক্ষিপ্ত মুক্তা মনে করবে।",
+    "urdu": "اور ان کے پاس لڑکے آتے جاتے ہوں گے جو ہمیشہ (ایک ہی حالت پر) رہیں گے۔ جب تم ان پر نگاہ ڈالو تو خیال کرو کہ بکھرے ہوئے موتی ہیں"
+}

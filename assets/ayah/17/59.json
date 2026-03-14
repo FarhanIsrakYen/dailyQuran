@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 59,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/17_59.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/017059.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/17_59.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/017059.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/17_59.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/017059.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/17_59.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/017059.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/17_59.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/017059.mp3"
+        }
+    },
+    "english": "Nothing keeps Us from sending the ˹demanded˺ signs except that they had ˹already˺ been denied by earlier peoples. And We gave Thamûd the she-camel as a clear sign, but they wrongfully rejected it. We only send the signs as a warning.",
+    "arabic1": "وَمَا مَنَعَنَآ أَن نُّرْسِلَ بِٱلْـَٔايَـٰتِ إِلَّآ أَن كَذَّبَ بِهَا ٱلْأَوَّلُونَ ۚ وَءَاتَيْنَا ثَمُودَ ٱلنَّاقَةَ مُبْصِرَةً فَظَلَمُوا۟ بِهَا ۚ وَمَا نُرْسِلُ بِٱلْـَٔايَـٰتِ إِلَّا تَخْوِيفًا",
+    "arabic2": "وما منعنا ان نرسل بالايات الا ان كذب بها الاولون واتينا ثمود الناقة مبصرة فظلموا بها وما نرسل بالايات الا تخويفا",
+    "bengali": "আর পূর্ববর্তীগণ কর্তৃক নিদর্শনাবলীকে অস্বীকার করাই আমাকে তা (নিদর্শনাবলী) প্রেরণ করা হতে বিরত রেখেছে। আর আমি শিক্ষাপ্রদ নিদর্শনস্বরূপ সামূদ জাতিকে উষ্ট্রী দিয়েছিলাম, অতঃপর তারা তার উপর যুলম করেছিল। আমি কেবল ভীতি প্রদর্শনের উদ্দেশ্যে নিদর্শনসমূহ পাঠাই।",
+    "urdu": "اور ہم نے نشانیاں بھیجنی اس لئے موقوف کردیں کہ اگلے لوگوں نے اس کی تکذیب کی تھی۔ اور ہم نے ثمود کو اونٹنی (نبوت صالح کی کھلی) نشانی دی۔ تو انہوں نے اس پر ظلم کیا اور ہم جو نشانیاں بھیجا کرتے ہیں تو ڈرانے کو"
+}

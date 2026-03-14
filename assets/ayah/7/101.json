@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 101,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/7_101.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/007101.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/7_101.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/007101.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/7_101.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/007101.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/7_101.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/007101.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/7_101.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/007101.mp3"
+        }
+    },
+    "english": "We have narrated to you ˹O Prophet˺ some of the stories of those societies. Surely, their messengers came to them with clear proofs, but still they would not believe in what they had already denied. This is how Allah seals the hearts of the disbelievers.",
+    "arabic1": "تِلْكَ ٱلْقُرَىٰ نَقُصُّ عَلَيْكَ مِنْ أَنۢبَآئِهَا ۚ وَلَقَدْ جَآءَتْهُمْ رُسُلُهُم بِٱلْبَيِّنَـٰتِ فَمَا كَانُوا۟ لِيُؤْمِنُوا۟ بِمَا كَذَّبُوا۟ مِن قَبْلُ ۚ كَذَٰلِكَ يَطْبَعُ ٱللَّهُ عَلَىٰ قُلُوبِ ٱلْكَـٰفِرِينَ",
+    "arabic2": "تلك القرى نقص عليك من انبائها ولقد جاءتهم رسلهم بالبينات فما كانوا ليؤمنوا بما كذبوا من قبل كذلك يطبع الله على قلوب الكافرين",
+    "bengali": "এ হল সে সব জনপদ, যার কিছু কাহিনী আমি তোমার কাছে বর্ণনা করছি। আর তাদের কাছে তো স্পষ্ট প্রমাণাদিসহ তাদের রাসূলগণ এসেছিল। কিন্তু যা তারা পূর্বে অস্বীকার করেছিল তার প্রতি তারা ঈমান আনার ছিল না। এমনিভাবে আল্লাহ কাফিরদের অন্তরে মোহর মেরে দেন।",
+    "urdu": "یہ بستیاں ہیں جن کے کچھ حالات ہم تم کو سناتے ہیں۔ اور ان کے پاس ان کے پیغمبر نشانیاں لے کر آئے۔ مگر وہ ایسے نہیں تھے کہ جس چیز کو پہلے جھٹلا چکے ہوں اسے مان لیں اسی طرح خدا کافروں کے دلوں پر مہر لگا دیتا ہے"
+}

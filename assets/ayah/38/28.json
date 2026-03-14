@@ -1,0 +1,42 @@
+{
+    "surahName": "Saad",
+    "surahNameArabic": "ص",
+    "surahNameArabicLong": "سورة ص",
+    "surahNameTranslation": "The letter Saad",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 38,
+    "ayahNo": 28,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/38_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/038028.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/38_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/038028.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/38_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/038028.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/38_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/038028.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/38_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/038028.mp3"
+        }
+    },
+    "english": "Or should We treat those who believe and do good like those who make mischief throughout the land? Or should We treat the righteous like the wicked?",
+    "arabic1": "أَمْ نَجْعَلُ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ كَٱلْمُفْسِدِينَ فِى ٱلْأَرْضِ أَمْ نَجْعَلُ ٱلْمُتَّقِينَ كَٱلْفُجَّارِ",
+    "arabic2": "ام نجعل الذين امنوا وعملوا الصالحات كالمفسدين في الارض ام نجعل المتقين كالفجار",
+    "bengali": "যারা ঈমান আনে ও নেক আমল করে আমি কি তাদেরকে যমীনে বিপর্যয় সৃষ্টিকারীদের সমতুল্য গণ্য করব? নাকি আমি মুত্তাকীদেরকে পাপাচারীদের সমতুল্য গণ্য করব?",
+    "urdu": "جو لوگ ایمان لائے اور عمل نیک کرتے رہے۔ کیا ان کو ہم ان کی طرح کر دیں گے جو ملک میں فساد کرتے ہیں۔ یا پرہیزگاروں کو بدکاروں کی طرح کر دیں گے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 14,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/4_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/004014.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/4_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/004014.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/4_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/004014.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/4_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/004014.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/4_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/004014.mp3"
+        }
+    },
+    "english": "But whoever disobeys Allah and His Messenger and exceeds their limits will be cast into Hell, to stay there forever. And they will suffer a humiliating punishment.",
+    "arabic1": "وَمَن يَعْصِ ٱللَّهَ وَرَسُولَهُۥ وَيَتَعَدَّ حُدُودَهُۥ يُدْخِلْهُ نَارًا خَـٰلِدًا فِيهَا وَلَهُۥ عَذَابٌ مُّهِينٌ",
+    "arabic2": "ومن يعص الله ورسوله ويتعد حدوده يدخله نارا خالدا فيها وله عذاب مهين",
+    "bengali": "আর যে আল্লাহ ও তাঁর রাসূলের নাফরমানী করে এবং তাঁর সীমারেখা লঙ্ঘন করে আল্লাহ তাকে আগুনে প্রবেশ করাবেন। সেখানে সে স্থায়ী হবে। আর তার জন্যই রয়েছে অপমানজনক আযাব।",
+    "urdu": "اور جو خدا اور اس کے رسول کی نافرمانی کرے گا اور اس کی حدوں سے نکل جائے گا اس کو خدا دوزخ میں ڈالے گا جہاں وہ ہمیشہ رہے گا۔ اور اس کو ذلت کا عذاب ہوگا"
+}

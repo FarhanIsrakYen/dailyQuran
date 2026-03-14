@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 77,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/17_77.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/017077.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/17_77.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/017077.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/17_77.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/017077.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/17_77.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/017077.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/17_77.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/017077.mp3"
+        }
+    },
+    "english": "˹This has been˺ Our way with the messengers We sent before you. And you will never find any change in Our way.",
+    "arabic1": "سُنَّةَ مَن قَدْ أَرْسَلْنَا قَبْلَكَ مِن رُّسُلِنَا ۖ وَلَا تَجِدُ لِسُنَّتِنَا تَحْوِيلًا",
+    "arabic2": "سنة من قد ارسلنا قبلك من رسلنا ولا تجد لسنتنا تحويلا",
+    "bengali": "তাদের নিয়ম অনুসারে যাদেরকে আমি আমার রাসূলদের মধ্যে তোমার পূর্বে পাঠিয়েছিলাম এবং তুমি আমার নিয়মে কোন পরিবর্তন পাবে না।",
+    "urdu": "جو پیغمبر ہم نے تم سے پہلے بھیجے تھے ان کا (اور ان کے بارے میں ہمارا یہی) طریق رہا ہے اور تم ہمارے طریق میں تغیروتبدل نہ پاؤ گے"
+}

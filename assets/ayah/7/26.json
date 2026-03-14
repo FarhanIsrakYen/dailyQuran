@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 26,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/7_26.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/007026.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/7_26.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/007026.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/7_26.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/007026.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/7_26.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/007026.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/7_26.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/007026.mp3"
+        }
+    },
+    "english": "O children of Adam! We have provided for you clothing to cover your nakedness and as an adornment. However, the best clothing is righteousness. This is one of Allah’s bounties, so perhaps you will be mindful.",
+    "arabic1": "يَـٰبَنِىٓ ءَادَمَ قَدْ أَنزَلْنَا عَلَيْكُمْ لِبَاسًا يُوَٰرِى سَوْءَٰتِكُمْ وَرِيشًا ۖ وَلِبَاسُ ٱلتَّقْوَىٰ ذَٰلِكَ خَيْرٌ ۚ ذَٰلِكَ مِنْ ءَايَـٰتِ ٱللَّهِ لَعَلَّهُمْ يَذَّكَّرُونَ",
+    "arabic2": "يا بني ادم قد انزلنا عليكم لباسا يواري سواتكم وريشا ولباس التقوى ذلك خير ذلك من ايات الله لعلهم يذكرون",
+    "bengali": "হে বনী আদম, আমি তো তোমাদের জন্য পোশাক অবতীর্ণ করেছি, যা তোমাদের লজ্জাস্থান ঢাকবে এবং যা সৌন্দর্যস্বরূপ। আর তাকওয়ার পোশাক, তা উত্তম। এগুলো আল্লাহর আয়াতসমূহের অন্তর্ভুক্ত। যাতে তারা উপদেশ গ্রহণ করে।",
+    "urdu": "اے نبی آدم ہم نے تم پر پوشاک اتاری کہ تمہارا ستر ڈھانکے اور (تمہارے بدن کو) زینت (دے) اور (جو) پرہیزگاری کا لباس (ہے) وہ سب سے اچھا ہے۔ یہ خدا کی نشانیاں ہیں تاکہ لوگ نصحیت پکڑ یں"
+}

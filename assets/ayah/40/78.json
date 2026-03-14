@@ -1,0 +1,42 @@
+{
+    "surahName": "Ghafir",
+    "surahNameArabic": "غافر",
+    "surahNameArabicLong": "سورة غافر",
+    "surahNameTranslation": "The Forgiver",
+    "revelationPlace": "Mecca",
+    "totalAyah": 85,
+    "surahNo": 40,
+    "ayahNo": 78,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/40_78.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/040078.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/40_78.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/040078.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/40_78.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/040078.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/40_78.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/040078.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/40_78.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/040078.mp3"
+        }
+    },
+    "english": "We already sent messengers before you. We have told you the stories of some of them, while others We have not. It was not for any messenger to bring a sign without Allah’s permission. But when Allah’s decree comes, judgment will be passed with fairness, and the people of falsehood will then be in ˹total˺ loss.",
+    "arabic1": "وَلَقَدْ أَرْسَلْنَا رُسُلًا مِّن قَبْلِكَ مِنْهُم مَّن قَصَصْنَا عَلَيْكَ وَمِنْهُم مَّن لَّمْ نَقْصُصْ عَلَيْكَ ۗ وَمَا كَانَ لِرَسُولٍ أَن يَأْتِىَ بِـَٔايَةٍ إِلَّا بِإِذْنِ ٱللَّهِ ۚ فَإِذَا جَآءَ أَمْرُ ٱللَّهِ قُضِىَ بِٱلْحَقِّ وَخَسِرَ هُنَالِكَ ٱلْمُبْطِلُونَ",
+    "arabic2": "ولقد ارسلنا رسلا من قبلك منهم من قصصنا عليك ومنهم من لم نقصص عليك وما كان لرسول ان ياتي باية الا باذن الله فاذا جاء امر الله قضي بالحق وخسر هنالك المبطلون",
+    "bengali": "আর অবশ্যই আমি তোমার পূর্বে অনেক রাসূল পাঠিয়েছি। তাদের মধ্যে কারো কারো কাহিনী আমি তোমার কাছে বর্ণনা করেছি আর কারো কারো কাহিনী তোমার কাছে বর্ণনা করিনি। আর আল্লাহর অনুমতি ছাড়া কোন নিদর্শন নিয়ে আসা কোন রাসূলের উচিৎ নয়। তারপর যখন আল্লাহর নির্দেশ আসবে, তখন ন্যায়সঙ্গতভাবে ফয়সালা করা হবে। আর তখনই বাতিলপন্থীরা ক্ষতিগ্রস্ত হবে।",
+    "urdu": "اور ہم نے تم سے پہلے (بہت سے) پیغمبر بھیجے۔ ان میں کچھ تو ایسے ہیں جن کے حالات تم سے بیان کر دیئے ہیں اور کچھ ایسے ہیں جن کے حالات بیان نہیں کئے۔ اور کسی پیغمبر کا مقدور نہ تھا کہ خدا کے حکم کے سوا کوئی نشانی لائے۔ پھر جب خدا کا حکم آپہنچا تو انصاف کے ساتھ فیصلہ کردیا گیا اور اہل باطل نقصان میں پڑ گئے"
+}

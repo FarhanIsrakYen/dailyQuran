@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Anfaal",
+    "surahNameArabic": "الأنفال",
+    "surahNameArabicLong": "سورة الأنفال",
+    "surahNameTranslation": "The Spoils of War",
+    "revelationPlace": "Madina",
+    "totalAyah": 75,
+    "surahNo": 8,
+    "ayahNo": 40,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/8_40.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/008040.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/8_40.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/008040.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/8_40.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/008040.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/8_40.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/008040.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/8_40.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/008040.mp3"
+        }
+    },
+    "english": "And if they do not comply, then know that Allah is your Protector. What an excellent Protector, and what an excellent Helper!",
+    "arabic1": "وَإِن تَوَلَّوْا۟ فَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ مَوْلَىٰكُمْ ۚ نِعْمَ ٱلْمَوْلَىٰ وَنِعْمَ ٱلنَّصِيرُ",
+    "arabic2": "وان تولوا فاعلموا ان الله مولاكم نعم المولى ونعم النصير",
+    "bengali": "আর যদি তারা পৃষ্ঠ প্রদর্শন করে, তাহলে জেনে রাখ, নিশ্চয় আল্লাহ তোমাদের অভিভাবক। তিনি কতইনা উত্তম অভিভাবক এবং কতইনা উত্তম সাহায্যকারী।",
+    "urdu": "اور اگر روگردانی کریں تو جان رکھو کہ خدا تمہارا حمایتی ہے۔ (اور) وہ خوب حمایتی اور خوب مددگار ہے"
+}

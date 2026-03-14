@@ -1,0 +1,42 @@
+{
+    "surahName": "Nooh",
+    "surahNameArabic": "نوح",
+    "surahNameArabicLong": "سورة نوح",
+    "surahNameTranslation": "Noah",
+    "revelationPlace": "Mecca",
+    "totalAyah": 28,
+    "surahNo": 71,
+    "ayahNo": 16,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/71_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/071016.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/71_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/071016.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/71_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/071016.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/71_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/071016.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/71_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/071016.mp3"
+        }
+    },
+    "english": "placing the moon within them as a ˹reflected˺ light, and the sun as a ˹radiant˺ lamp?",
+    "arabic1": "وَجَعَلَ ٱلْقَمَرَ فِيهِنَّ نُورًا وَجَعَلَ ٱلشَّمْسَ سِرَاجًا",
+    "arabic2": "وجعل القمر فيهن نورا وجعل الشمس سراجا",
+    "bengali": "আর এগুলোর মধ্যে চাঁদকে সৃষ্টি করেছেন আলো আর সূর্যকে সৃষ্টি করেছেন প্রদীপরূপে’।",
+    "urdu": "اور چاند کو ان میں (زمین کا) نور بنایا ہے اور سورج کو چراغ ٹھہرایا ہے"
+}

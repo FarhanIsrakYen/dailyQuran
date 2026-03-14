@@ -1,0 +1,42 @@
+{
+    "surahName": "Yusuf",
+    "surahNameArabic": "يوسف",
+    "surahNameArabicLong": "سورة يوسف",
+    "surahNameTranslation": "Joseph",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 12,
+    "ayahNo": 99,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/12_99.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/012099.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/12_99.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/012099.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/12_99.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/012099.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/12_99.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/012099.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/12_99.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/012099.mp3"
+        }
+    },
+    "english": "When they entered Joseph’s presence, he received his parents ˹graciously˺ and said, “Enter Egypt, Allah willing, in security.”",
+    "arabic1": "فَلَمَّا دَخَلُوا۟ عَلَىٰ يُوسُفَ ءَاوَىٰٓ إِلَيْهِ أَبَوَيْهِ وَقَالَ ٱدْخُلُوا۟ مِصْرَ إِن شَآءَ ٱللَّهُ ءَامِنِينَ",
+    "arabic2": "فلما دخلوا على يوسف اوى اليه ابويه وقال ادخلوا مصر ان شاء الله امنين",
+    "bengali": "অতঃপর যখন তারা ইউসুফের নিকট প্রবেশ করল, তখন সে তার পিতামাতাকে নিজের কাছে স্থান করে দিল এবং বলল, ‘আল্লাহর ইচ্ছায় আপনারা নিরাপদে মিসরে প্রবেশ করুন’।",
+    "urdu": "جب یہ (سب لوگ) یوسف کے پاس پہنچے تو یوسف نے اپنے والدین کو اپنے پاس بٹھایا اور کہا مصر میں داخل ہو جائیے خدا نے چاہا تو جمع خاطر سے رہیئے گا"
+}

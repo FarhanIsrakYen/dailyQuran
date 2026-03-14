@@ -1,0 +1,42 @@
+{
+    "surahName": "Saba",
+    "surahNameArabic": "سبإ",
+    "surahNameArabicLong": "سورة سَبَأ",
+    "surahNameTranslation": "Sheba",
+    "revelationPlace": "Mecca",
+    "totalAyah": 54,
+    "surahNo": 34,
+    "ayahNo": 17,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/34_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/034017.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/34_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/034017.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/34_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/034017.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/34_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/034017.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/34_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/034017.mp3"
+        }
+    },
+    "english": "This is how We rewarded them for their ingratitude. Would We ever punish ˹anyone in such a way˺ except the ungrateful?",
+    "arabic1": "ذَٰلِكَ جَزَيْنَـٰهُم بِمَا كَفَرُوا۟ ۖ وَهَلْ نُجَـٰزِىٓ إِلَّا ٱلْكَفُورَ",
+    "arabic2": "ذلك جزيناهم بما كفروا وهل نجازي الا الكفور",
+    "bengali": "সে আযাব আমি তাদেরকে দিয়েছিলাম তাদের কুফরীর কারণে। আর আমি অকৃতজ্ঞ ছাড়া অন্য কাউকে এমন আযাব দেই না।",
+    "urdu": "یہ ہم نے ان کی ناشکری کی ان کو سزا دی۔ اور ہم سزا ناشکرے ہی کو دیا کرتے ہیں"
+}

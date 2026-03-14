@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Ahzaab",
+    "surahNameArabic": "الأحزاب",
+    "surahNameArabicLong": "سورة الأحزاب",
+    "surahNameTranslation": "The Clans",
+    "revelationPlace": "Madina",
+    "totalAyah": 73,
+    "surahNo": 33,
+    "ayahNo": 54,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/33_54.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/033054.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/33_54.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/033054.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/33_54.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/033054.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/33_54.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/033054.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/33_54.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/033054.mp3"
+        }
+    },
+    "english": "Whether you reveal something or conceal it, surely Allah has ˹perfect˺ knowledge of all things.",
+    "arabic1": "إِن تُبْدُوا۟ شَيْـًٔا أَوْ تُخْفُوهُ فَإِنَّ ٱللَّهَ كَانَ بِكُلِّ شَىْءٍ عَلِيمًا",
+    "arabic2": "ان تبدوا شيئا او تخفوه فان الله كان بكل شيء عليما",
+    "bengali": "যদি তোমরা কোন কিছু প্রকাশ কর কিংবা গোপন কর তবে নিশ্চয় আল্লাহ সর্ববিষয়ে সর্বজ্ঞ।",
+    "urdu": "اگر تم کسی چیز کو ظاہر کرو یا اس کو مخفی رکھو تو (یاد رکھو کہ) خدا ہر چیز سے باخبر ہے"
+}

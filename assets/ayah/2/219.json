@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 219,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_219.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002219.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_219.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002219.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_219.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002219.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_219.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002219.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_219.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002219.mp3"
+        }
+    },
+    "english": "They ask you ˹O Prophet˺ about intoxicants and gambling. Say, “There is great evil in both, as well as some benefit for people—but the evil outweighs the benefit.” They ˹also˺ ask you ˹O Prophet˺ what they should donate. Say, “Whatever you can spare.” This is how Allah makes His revelations clear to you ˹believers˺, so perhaps you may reflect",
+    "arabic1": "۞ يَسْـَٔلُونَكَ عَنِ ٱلْخَمْرِ وَٱلْمَيْسِرِ ۖ قُلْ فِيهِمَآ إِثْمٌ كَبِيرٌ وَمَنَـٰفِعُ لِلنَّاسِ وَإِثْمُهُمَآ أَكْبَرُ مِن نَّفْعِهِمَا ۗ وَيَسْـَٔلُونَكَ مَاذَا يُنفِقُونَ قُلِ ٱلْعَفْوَ ۗ كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ لَكُمُ ٱلْـَٔايَـٰتِ لَعَلَّكُمْ تَتَفَكَّرُونَ",
+    "arabic2": "يسالونك عن الخمر والميسر قل فيهما اثم كبير ومنافع للناس واثمهما اكبر من نفعهما ويسالونك ماذا ينفقون قل العفو كذلك يبين الله لكم الايات لعلكم تتفكرون",
+    "bengali": "তারা তোমাকে মদ ও জুয়া সম্পর্কে জিজ্ঞাসা করে। বল, এ দু’টোয় রয়েছে বড় পাপ ও মানুষের জন্য উপকার। আর তার পাপ তার উপকারিতার চেয়ে অধিক বড়। আর তারা তোমাকে জিজ্ঞাসা করে, তারা কী ব্যয় করবে। বল, ‘যা প্রয়োজনের অতিরিক্ত’। এভাবে আল্লাহ তোমাদের জন্য আয়াতসমূহ স্পষ্টভাবে বর্ণনা করেন, যাতে তোমরা চিন্তা কর।",
+    "urdu": "(اے پیغمبر) لوگ تم سے شراب اور جوئے کا حکم دریافت کرتے ہیں۔ کہہ دو کہ ان میں نقصان بڑے ہیں اور لوگوں کے لئے کچھ فائدے بھی ہیں مگر ان کے نقصان فائدوں سے کہیں زیادہ ہیں اور یہ بھی تم سے پوچھتے ہیں کہ (خدا کی راہ میں) کون سا مال خرچ کریں۔ کہہ دو کہ جو ضرورت سے زیادہ ہو۔ اس طرح خدا تمہارے لئے اپنے احکام کھول کھول کر بیان فرماتا ہے تاکہ تم سوچو"
+}

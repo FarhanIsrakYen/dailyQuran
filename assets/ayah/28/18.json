@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Qasas",
+    "surahNameArabic": "القصص",
+    "surahNameArabicLong": "سورة القصص",
+    "surahNameTranslation": "The Stories",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 28,
+    "ayahNo": 18,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/28_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/028018.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/28_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/028018.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/28_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/028018.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/28_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/028018.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/28_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/028018.mp3"
+        }
+    },
+    "english": "And so Moses became fearful, watching out in the city, when suddenly the one who sought his help the day before cried out to him again for help. Moses rebuked him, “Indeed, you are clearly a trouble-maker.”",
+    "arabic1": "فَأَصْبَحَ فِى ٱلْمَدِينَةِ خَآئِفًا يَتَرَقَّبُ فَإِذَا ٱلَّذِى ٱسْتَنصَرَهُۥ بِٱلْأَمْسِ يَسْتَصْرِخُهُۥ ۚ قَالَ لَهُۥ مُوسَىٰٓ إِنَّكَ لَغَوِىٌّ مُّبِينٌ",
+    "arabic2": "فاصبح في المدينة خائفا يترقب فاذا الذي استنصره بالامس يستصرخه قال له موسى انك لغوي مبين",
+    "bengali": "অতঃপর ভীত প্রতীক্ষারত অবস্থায় সেই শহরে তার সকাল হল। হঠাৎ সে শুনতে পেল, যে লোকটি গতকাল তার কাছে সাহায্য চেয়েছিল, সে আবার সাহায্যের জন্য চিৎকার করছে। মূসা তাকে বলল, ‘নিশ্চয় তুমি তো একজন স্পষ্ট বিভ্রান্ত ব্যক্তি’।",
+    "urdu": "الغرض صبح کے وقت شہر میں ڈرتے ڈرتے داخل ہوئے کہ دیکھیں (کیا ہوتا ہے) تو ناگہاں وہی شخص جس نے کل اُن سے مدد مانگی تھی پھر اُن کو پکار رہا ہے۔ موسٰی نے اس سے کہا کہ تُو تو صریح گمراہ ہے"
+}

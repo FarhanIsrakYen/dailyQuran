@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 116,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/6_116.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/006116.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/6_116.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/006116.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/6_116.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/006116.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/6_116.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/006116.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/6_116.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/006116.mp3"
+        }
+    },
+    "english": "˹O Prophet!˺ If you were to obey most of those on earth, they would lead you away from Allah’s Way. They follow nothing but assumptions and do nothing but lie.",
+    "arabic1": "وَإِن تُطِعْ أَكْثَرَ مَن فِى ٱلْأَرْضِ يُضِلُّوكَ عَن سَبِيلِ ٱللَّهِ ۚ إِن يَتَّبِعُونَ إِلَّا ٱلظَّنَّ وَإِنْ هُمْ إِلَّا يَخْرُصُونَ",
+    "arabic2": "وان تطع اكثر من في الارض يضلوك عن سبيل الله ان يتبعون الا الظن وان هم الا يخرصون",
+    "bengali": "আর যদি তুমি যারা যমীনে আছে তাদের অধিকাংশের আনুগত্য কর, তবে তারা তোমাকে আল্লাহর পথ থেকে বিচ্যুত করবে। তারা শুধু ধারণারই অনুসরণ করে এবং তারা শুধু অনুমানই করে।",
+    "urdu": "اور اکثر لوگ جو زمین پر آباد ہیں (گمراہ ہیں) اگر تم ان کا کہا مان لو گے تو وہ تمہیں خدا کا رستہ بھلا دیں گے یہ محض خیال کے پیچھے چلتے اور نرے اٹکل کے تیر چلاتے ہیں"
+}

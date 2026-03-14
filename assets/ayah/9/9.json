@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 9,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/9_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/009009.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/9_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/009009.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/9_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/009009.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/9_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/009009.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/9_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/009009.mp3"
+        }
+    },
+    "english": "They chose a fleeting gain over Allah’s revelations, hindering ˹others˺ from His Way. Evil indeed is what they have done!",
+    "arabic1": "ٱشْتَرَوْا۟ بِـَٔايَـٰتِ ٱللَّهِ ثَمَنًا قَلِيلًا فَصَدُّوا۟ عَن سَبِيلِهِۦٓ ۚ إِنَّهُمْ سَآءَ مَا كَانُوا۟ يَعْمَلُونَ",
+    "arabic2": "اشتروا بايات الله ثمنا قليلا فصدوا عن سبيله انهم ساء ما كانوا يعملون",
+    "bengali": "তারা আল্লাহর আয়াতসমূহের বিনিময়ে তুচ্ছ মূল্য খরিদ করে নিয়েছে। ফলত তারা তাঁর পথে বাধা দিয়েছে, নিশ্চয় তারা যে কাজ করত তা কতই না মন্দ!",
+    "urdu": "یہ خدا کی آیتوں کے عوض تھوڑا سا فائدہ حاصل کرتے اور لوگوں کو خدا کے رستے سے روکتے ہیں۔ کچھ شک نہیں کہ جو کام یہ کرتے ہیں برے ہیں"
+}

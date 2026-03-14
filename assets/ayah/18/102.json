@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Kahf",
+    "surahNameArabic": "الكهف",
+    "surahNameArabicLong": "سورة الكهف",
+    "surahNameTranslation": "The Cave",
+    "revelationPlace": "Mecca",
+    "totalAyah": 110,
+    "surahNo": 18,
+    "ayahNo": 102,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/18_102.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/018102.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/18_102.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/018102.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/18_102.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/018102.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/18_102.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/018102.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/18_102.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/018102.mp3"
+        }
+    },
+    "english": "Do the disbelievers think they can ˹simply˺ take My servants as lords instead of Me? We have surely prepared Hell as an accommodation for the disbelievers.",
+    "arabic1": "أَفَحَسِبَ ٱلَّذِينَ كَفَرُوٓا۟ أَن يَتَّخِذُوا۟ عِبَادِى مِن دُونِىٓ أَوْلِيَآءَ ۚ إِنَّآ أَعْتَدْنَا جَهَنَّمَ لِلْكَـٰفِرِينَ نُزُلًا",
+    "arabic2": "افحسب الذين كفروا ان يتخذوا عبادي من دوني اولياء انا اعتدنا جهنم للكافرين نزلا",
+    "bengali": "যারা কুফরী করছে, তারা কি মনে করেছে যে, তারা আমার পরিবর্তে আমার বান্দাদেরকে অভিভাবকরূপে গ্রহণ করবে? নিশ্চয় আমি জাহান্নামকে কাফিরদের আপ্যায়নের জন্য প্রস্তুত করছি।",
+    "urdu": "کیا کافر یہ خیال کرتے ہیں کہ وہ ہمارے بندوں کو ہمارے سوا (اپنا) کارساز بنائیں گے (تو ہم خفا نہیں ہوں گے) ہم نے (ایسے) کافروں کے لئے جہنم کی (مہمانی) تیار کر رکھی ہے"
+}

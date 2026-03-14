@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Anbiyaa",
+    "surahNameArabic": "الأنبياء",
+    "surahNameArabicLong": "سورة الأنبياء",
+    "surahNameTranslation": "The Prophets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 112,
+    "surahNo": 21,
+    "ayahNo": 80,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/21_80.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/021080.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/21_80.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/021080.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/21_80.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/021080.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/21_80.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/021080.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/21_80.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/021080.mp3"
+        }
+    },
+    "english": "We taught him the art of making body armour to protect you in battle. Will you then be grateful?",
+    "arabic1": "وَعَلَّمْنَـٰهُ صَنْعَةَ لَبُوسٍ لَّكُمْ لِتُحْصِنَكُم مِّنۢ بَأْسِكُمْ ۖ فَهَلْ أَنتُمْ شَـٰكِرُونَ",
+    "arabic2": "وعلمناه صنعة لبوس لكم لتحصنكم من باسكم فهل انتم شاكرون",
+    "bengali": "আর আমিই তাকে তোমাদের জন্য বর্ম বানানো শিক্ষা দিয়েছিলাম। যাতে তা যুদ্ধে তোমাদেরকে রক্ষা করতে পারে। সুতরাং তোমরা কি কৃতজ্ঞ হবে?",
+    "urdu": "اور ہم نے تمہارے لئے ان کو ایک (طرح) کا لباس بنانا بھی سکھا دیا تاکہ تم کو لڑائی (کے ضرر) سے بچائے۔ پس تم کو شکرگزار ہونا چاہیئے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Az-Zumar",
+    "surahNameArabic": "الزمر",
+    "surahNameArabicLong": "سورة الزمر",
+    "surahNameTranslation": "The Groups",
+    "revelationPlace": "Mecca",
+    "totalAyah": 75,
+    "surahNo": 39,
+    "ayahNo": 67,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/39_67.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/039067.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/39_67.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/039067.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/39_67.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/039067.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/39_67.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/039067.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/39_67.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/039067.mp3"
+        }
+    },
+    "english": "They have not shown Allah His proper reverence—when on the Day of Judgment the ˹whole˺ earth will be in His Grip, and the heavens will be rolled up in His Right Hand. Glorified and Exalted is He above what they associate ˹with Him˺!",
+    "arabic1": "وَمَا قَدَرُوا۟ ٱللَّهَ حَقَّ قَدْرِهِۦ وَٱلْأَرْضُ جَمِيعًا قَبْضَتُهُۥ يَوْمَ ٱلْقِيَـٰمَةِ وَٱلسَّمَـٰوَٰتُ مَطْوِيَّـٰتٌۢ بِيَمِينِهِۦ ۚ سُبْحَـٰنَهُۥ وَتَعَـٰلَىٰ عَمَّا يُشْرِكُونَ",
+    "arabic2": "وما قدروا الله حق قدره والارض جميعا قبضته يوم القيامة والسماوات مطويات بيمينه سبحانه وتعالى عما يشركون",
+    "bengali": "আর তারা আল্লাহকে যথাযোগ্য মর্যাদা দেয়নি। অথচ কিয়ামতের দিন গোটা পৃথিবীই থাকবে তাঁর মুষ্টিতে এবং আকাশসমূহ তাঁর ডান হাতে ভাঁজ করা থাকবে। তিনি পবিত্র, তারা যাদেরকে শরীক করে তিনি তাদের ঊর্ধ্বে।",
+    "urdu": "اور انہوں نے خدا کی قدر شناسی جیسی کرنی چاہیئے تھی نہیں کی۔ اور قیامت کے دن تمام زمین اس کی مٹھی میں ہوگی اور آسمان اس کے داہنے ہاتھ میں لپٹے ہوں گے۔ (اور) وہ ان لوگوں کے شرک سے پاک اور عالی شان ہے"
+}

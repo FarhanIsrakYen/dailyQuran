@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Kahf",
+    "surahNameArabic": "الكهف",
+    "surahNameArabicLong": "سورة الكهف",
+    "surahNameTranslation": "The Cave",
+    "revelationPlace": "Mecca",
+    "totalAyah": 110,
+    "surahNo": 18,
+    "ayahNo": 57,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/18_57.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/018057.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/18_57.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/018057.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/18_57.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/018057.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/18_57.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/018057.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/18_57.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/018057.mp3"
+        }
+    },
+    "english": "And who does more wrong than those who, when reminded of their Lord’s revelations, turn away from them and forget what their own hands have done? We have certainly cast veils over their hearts—leaving them unable to comprehend this ˹Quran˺—and deafness in their ears. And if you ˹O Prophet˺ invite them to ˹true˺ guidance, they will never be ˹rightly˺ guided.",
+    "arabic1": "وَمَنْ أَظْلَمُ مِمَّن ذُكِّرَ بِـَٔايَـٰتِ رَبِّهِۦ فَأَعْرَضَ عَنْهَا وَنَسِىَ مَا قَدَّمَتْ يَدَاهُ ۚ إِنَّا جَعَلْنَا عَلَىٰ قُلُوبِهِمْ أَكِنَّةً أَن يَفْقَهُوهُ وَفِىٓ ءَاذَانِهِمْ وَقْرًا ۖ وَإِن تَدْعُهُمْ إِلَى ٱلْهُدَىٰ فَلَن يَهْتَدُوٓا۟ إِذًا أَبَدًا",
+    "arabic2": "ومن اظلم ممن ذكر بايات ربه فاعرض عنها ونسي ما قدمت يداه انا جعلنا على قلوبهم اكنة ان يفقهوه وفي اذانهم وقرا وان تدعهم الى الهدى فلن يهتدوا اذا ابدا",
+    "bengali": "আর তার চেয়ে অধিক যালিম আর কে হতে পারে, যাকে তার রবের আয়াতসমূহ স্মরণ করিয়ে দেয়া হয়েছে, অতঃপর সে তা থেকে বিমুখ হয়েছে এবং সে ভুলে গেছে যা তার দু-হাত পেশ করেছে? নিশ্চয় আমি তাদের অন্তরসমূহের উপর পর্দা দিয়ে দিয়েছি, যাতে তারা তা (কুরআন) বুঝতে না পারে। আর তাদের কর্ণসমূহে রয়েছে বধিরতা এবং তুমি তাদেরকে হিদায়াতের প্রতি আহবান করলেও তারা কখনো হিদায়াতপ্রাপ্ত হবে না।",
+    "urdu": "اور اس سے ظالم کون جس کو اس کے پروردگار کے کلام سے سمجھایا گیا تو اُس نے اس سے منہ پھیر لیا۔ اور جو اعمال وہ آگے کرچکا اس کو بھول گیا۔ ہم نے ان کے دلوں پر پردے ڈال دیئے کہ اسے سمجھ نہ سکیں۔ اور کانوں میں ثقل (پیدا کردیا ہے کہ سن نہ سکیں) اور اگر تم ان کو رستے کی طرف بلاؤ تو کبھی رستے پر نہ آئیں گے"
+}

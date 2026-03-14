@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 130,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/7_130.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/007130.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/7_130.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/007130.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/7_130.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/007130.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/7_130.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/007130.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/7_130.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/007130.mp3"
+        }
+    },
+    "english": "Indeed, We afflicted Pharaoh’s people with famine and shortage of crops so they might come back ˹to their senses˺.",
+    "arabic1": "وَلَقَدْ أَخَذْنَآ ءَالَ فِرْعَوْنَ بِٱلسِّنِينَ وَنَقْصٍ مِّنَ ٱلثَّمَرَٰتِ لَعَلَّهُمْ يَذَّكَّرُونَ",
+    "arabic2": "ولقد اخذنا ال فرعون بالسنين ونقص من الثمرات لعلهم يذكرون",
+    "bengali": "আর আমি পাকড়াও করেছি ফির‘আউনের অনুসারীদেরকে দুর্ভিক্ষ ও ফল- ফলাদির ক্ষয়-ক্ষতির মাধ্যমে, যাতে তারা উপদেশ গ্রহণ করে।",
+    "urdu": "اور ہم نے فرعونیوں کو قحطوں اور میووں کے نقصان میں پکڑا تاکہ نصیحت حاصل کریں"
+}

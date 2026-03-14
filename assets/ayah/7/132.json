@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 132,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/7_132.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/007132.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/7_132.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/007132.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/7_132.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/007132.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/7_132.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/007132.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/7_132.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/007132.mp3"
+        }
+    },
+    "english": "They said, “No matter what sign you may bring to deceive us, we will never believe in you.”",
+    "arabic1": "وَقَالُوا۟ مَهْمَا تَأْتِنَا بِهِۦ مِنْ ءَايَةٍ لِّتَسْحَرَنَا بِهَا فَمَا نَحْنُ لَكَ بِمُؤْمِنِينَ",
+    "arabic2": "وقالوا مهما تاتنا به من اية لتسحرنا بها فما نحن لك بمؤمنين",
+    "bengali": "আর তারা বলল, ‘তুমি আমাদেরকে যাদু করার জন্য যে কোন নিদর্শন আমাদের কাছে নিয়ে আস না কেন আমরা তো তোমার প্রতি ঈমান আনব না।’",
+    "urdu": "اور کہنے لگے کہ تم ہمارے پاس (خواہ) کوئی ہی نشانی لاؤ تاکہ اس سے ہم پر جادو کرو۔ مگر ہم تم پر ایمان لانے والے نہیں ہیں"
+}

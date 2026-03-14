@@ -1,0 +1,42 @@
+{
+    "surahName": "Luqman",
+    "surahNameArabic": "لقمان",
+    "surahNameArabicLong": "سورة لقمان",
+    "surahNameTranslation": "Luqman",
+    "revelationPlace": "Mecca",
+    "totalAyah": 34,
+    "surahNo": 31,
+    "ayahNo": 16,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/31_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/031016.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/31_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/031016.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/31_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/031016.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/31_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/031016.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/31_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/031016.mp3"
+        }
+    },
+    "english": "˹Luqmân  added,˺ “O my dear son! ˹Even˺ if a deed were the weight of a mustard seed—be it ˹hidden˺ in a rock or in the heavens or the earth—Allah will bring it forth. Surely Allah is Most Subtle, All-Aware.",
+    "arabic1": "يَـٰبُنَىَّ إِنَّهَآ إِن تَكُ مِثْقَالَ حَبَّةٍ مِّنْ خَرْدَلٍ فَتَكُن فِى صَخْرَةٍ أَوْ فِى ٱلسَّمَـٰوَٰتِ أَوْ فِى ٱلْأَرْضِ يَأْتِ بِهَا ٱللَّهُ ۚ إِنَّ ٱللَّهَ لَطِيفٌ خَبِيرٌ",
+    "arabic2": "يا بني انها ان تك مثقال حبة من خردل فتكن في صخرة او في السماوات او في الارض يات بها الله ان الله لطيف خبير",
+    "bengali": "‘হে আমার প্রিয় বৎস, নিশ্চয় তা (পাপ-পুণ্য) যদি সরিষা দানার পরিমাণ হয়, অতঃপর তা থাকে পাথরের মধ্যে কিংবা আসমানসমূহে বা যমীনের মধ্যে, আল্লাহ তাও নিয়ে আসবেন; নিশ্চয় আল্লাহ সূক্ষ্মদর্শী, সর্বজ্ঞ’।",
+    "urdu": "( لقمان نے یہ بھی کہا کہ) بیٹا اگر کوئی عمل (بالفرض) رائی کے دانے کے برابر بھی (چھوٹا) ہو اور ہو بھی کسی پتھر کے اندر یا آسمانوں میں (مخفی ہو) یا زمین میں۔ خدا اُس کو قیامت کے دن لاموجود کرے گا۔ کچھ شک نہیں کہ خدا باریک بین (اور) خبردار ہے"
+}

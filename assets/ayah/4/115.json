@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 115,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/4_115.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/004115.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/4_115.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/004115.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/4_115.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/004115.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/4_115.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/004115.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/4_115.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/004115.mp3"
+        }
+    },
+    "english": "And whoever defies the Messenger after guidance has become clear to them and follows a path other than that of the believers, We will let them pursue what they have chosen, then burn them in Hell—what an evil end!",
+    "arabic1": "وَمَن يُشَاقِقِ ٱلرَّسُولَ مِنۢ بَعْدِ مَا تَبَيَّنَ لَهُ ٱلْهُدَىٰ وَيَتَّبِعْ غَيْرَ سَبِيلِ ٱلْمُؤْمِنِينَ نُوَلِّهِۦ مَا تَوَلَّىٰ وَنُصْلِهِۦ جَهَنَّمَ ۖ وَسَآءَتْ مَصِيرًا",
+    "arabic2": "ومن يشاقق الرسول من بعد ما تبين له الهدى ويتبع غير سبيل المؤمنين نوله ما تولى ونصله جهنم وساءت مصيرا",
+    "bengali": "আর যে রাসূলের বিরুদ্ধাচরণ করে তার জন্য হিদায়াত প্রকাশ পাওয়ার পর এবং মুমিনদের পথের বিপরীত পথ অনুসরণ করে, আমি তাকে ফেরাব যেদিকে সে ফিরে এবং তাকে প্রবেশ করাব জাহান্নামে। আর আবাস হিসেবে তা খুবই মন্দ।",
+    "urdu": "اور جو شخص سیدھا رستہ معلوم ہونے کے بعد پیغمبر کی مخالف کرے اور مومنوں کے رستے کے سوا اور رستے پر چلے تو جدھر وہ چلتا ہے ہم اسے ادھر ہی چلنے دیں گے اور (قیامت کے دن) جہنم میں داخل کریں گے اور وہ بری جگہ ہے"
+}

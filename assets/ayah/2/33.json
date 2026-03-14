@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 33,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002033.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002033.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002033.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002033.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002033.mp3"
+        }
+    },
+    "english": "Allah said, “O Adam! Inform them of their names.” Then when Adam did, Allah said, “Did I not tell you that I know the secrets of the heavens and the earth, and I know what you reveal and what you conceal?”",
+    "arabic1": "قَالَ يَـٰٓـَٔادَمُ أَنۢبِئْهُم بِأَسْمَآئِهِمْ ۖ فَلَمَّآ أَنۢبَأَهُم بِأَسْمَآئِهِمْ قَالَ أَلَمْ أَقُل لَّكُمْ إِنِّىٓ أَعْلَمُ غَيْبَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَأَعْلَمُ مَا تُبْدُونَ وَمَا كُنتُمْ تَكْتُمُونَ",
+    "arabic2": "قال يا ادم انبئهم باسمائهم فلما انباهم باسمائهم قال الم اقل لكم اني اعلم غيب السماوات والارض واعلم ما تبدون وما كنتم تكتمون",
+    "bengali": "তিনি বললেন, ‘হে আদম, এগুলোর নাম তাদেরকে জানাও’। অতঃপর যখন সে এগুলোর নাম তাদেরকে জানাল, তিনি বললেন, ‘আমি কি তোমাদেরকে বলিনি, নিশ্চয় আমি আসমানসমূহ ও যমীনের গায়েব জানি এবং জানি যা তোমরা প্রকাশ কর এবং যা তোমরা গোপন করতে’?",
+    "urdu": "(تب) خدا نے (آدم کو) حکم دیا کہ آدم! تم ان کو ان (چیزوں) کے نام بتاؤ۔ جب انہوں نے ان کو ان کے نام بتائے تو (فرشتوں سے) فرمایا کیوں میں نے تم سے نہیں کہا تھا کہ میں آسمانوں اور زمین کی (سب) پوشیدہ باتیں جاتنا ہوں اور جو تم ظاہر کرتے ہو اور جو پوشیدہ کرتے ہو (سب) مجھ کو معلوم ہے"
+}

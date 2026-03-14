@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 131,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_131.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002131.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_131.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002131.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_131.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002131.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_131.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002131.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_131.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002131.mp3"
+        }
+    },
+    "english": "When his Lord ordered him, “Submit ˹to My Will˺,” he responded, “I submit to the Lord of all worlds.”",
+    "arabic1": "إِذْ قَالَ لَهُۥ رَبُّهُۥٓ أَسْلِمْ ۖ قَالَ أَسْلَمْتُ لِرَبِّ ٱلْعَـٰلَمِينَ",
+    "arabic2": "اذ قال له ربه اسلم قال اسلمت لرب العالمين",
+    "bengali": "যখন তার রব তাকে বললেন, ‘তুমি আত্মসমর্পণ কর’। সে বলল, ‘আমি সকল সৃষ্টির রবের কাছে নিজকে সমর্পণ করলাম’।",
+    "urdu": "جب ان سے ان کے پروردگار نے فرمایا کہ اسلام لے آؤ تو انہوں نے عرض کی کہ میں رب العالمین کے آگے سر اطاعت خم کرتا ہوں"
+}

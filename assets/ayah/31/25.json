@@ -1,0 +1,42 @@
+{
+    "surahName": "Luqman",
+    "surahNameArabic": "لقمان",
+    "surahNameArabicLong": "سورة لقمان",
+    "surahNameTranslation": "Luqman",
+    "revelationPlace": "Mecca",
+    "totalAyah": 34,
+    "surahNo": 31,
+    "ayahNo": 25,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/31_25.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/031025.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/31_25.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/031025.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/31_25.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/031025.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/31_25.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/031025.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/31_25.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/031025.mp3"
+        }
+    },
+    "english": "And if you ask them who created the heavens and the earth, they will definitely say, “Allah!” Say, “Praise be to Allah!” In fact, most of them do not know.",
+    "arabic1": "وَلَئِن سَأَلْتَهُم مَّنْ خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ لَيَقُولُنَّ ٱللَّهُ ۚ قُلِ ٱلْحَمْدُ لِلَّهِ ۚ بَلْ أَكْثَرُهُمْ لَا يَعْلَمُونَ",
+    "arabic2": "ولئن سالتهم من خلق السماوات والارض ليقولن الله قل الحمد لله بل اكثرهم لا يعلمون",
+    "bengali": "আর যদি তুমি তাদেরকে জিজ্ঞাসা কর, ‘কে আসমানসমূহ ও যমীন সৃষ্টি করেছেন?’ তারা অবশ্যই বলবে, ‘আল্লাহ।’ বল, ‘সমস্ত প্রশংসা আল্লাহর; কিন্তু তাদের অধিকাংশই জানে না’।",
+    "urdu": "اور اگر تم اُن سے پوچھو کہ آسمانوں اور زمین کو کس نے پیدا کیا تو بول اُٹھیں گے کہ خدا نے۔ کہہ دو کہ خدا کا شکر ہے لیکن ان میں اکثر سمجھ نہیں رکھتے"
+}

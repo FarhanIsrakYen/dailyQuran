@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Kahf",
+    "surahNameArabic": "الكهف",
+    "surahNameArabicLong": "سورة الكهف",
+    "surahNameTranslation": "The Cave",
+    "revelationPlace": "Mecca",
+    "totalAyah": 110,
+    "surahNo": 18,
+    "ayahNo": 93,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/18_93.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/018093.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/18_93.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/018093.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/18_93.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/018093.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/18_93.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/018093.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/18_93.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/018093.mp3"
+        }
+    },
+    "english": "until he reached ˹a pass˺ between two mountains. He found in front of them a people who could hardly understand ˹his˺ language.",
+    "arabic1": "حَتَّىٰٓ إِذَا بَلَغَ بَيْنَ ٱلسَّدَّيْنِ وَجَدَ مِن دُونِهِمَا قَوْمًا لَّا يَكَادُونَ يَفْقَهُونَ قَوْلًا",
+    "arabic2": "حتى اذا بلغ بين السدين وجد من دونهما قوما لا يكادون يفقهون قولا",
+    "bengali": "অবশেষে যখন সে দুই পর্বতের মধ্যবর্তী স্থানে পৌঁছল, তখন সেখানে সে এমন এক জাতিকে পেল, যারা তার কথা তেমন একটা বুঝতে পারছিল না।",
+    "urdu": "یہاں تک کہ دو دیواروں کے درمیان پہنچا تو دیکھا کہ ان کے اس طرف کچھ لوگ ہیں کہ بات کو سمجھ نہیں سکتے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Maaida",
+    "surahNameArabic": "المائدة",
+    "surahNameArabicLong": "سورة المائدة",
+    "surahNameTranslation": "The Table",
+    "revelationPlace": "Madina",
+    "totalAyah": 120,
+    "surahNo": 5,
+    "ayahNo": 111,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/5_111.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/005111.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/5_111.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/005111.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/5_111.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/005111.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/5_111.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/005111.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/5_111.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/005111.mp3"
+        }
+    },
+    "english": "And how I inspired the disciples, “Believe in Me and My messenger!” They declared, “We believe and bear witness that we fully submit ˹to Allah˺.”",
+    "arabic1": "وَإِذْ أَوْحَيْتُ إِلَى ٱلْحَوَارِيِّـۧنَ أَنْ ءَامِنُوا۟ بِى وَبِرَسُولِى قَالُوٓا۟ ءَامَنَّا وَٱشْهَدْ بِأَنَّنَا مُسْلِمُونَ",
+    "arabic2": "واذ اوحيت الى الحواريين ان امنوا بي وبرسولي قالوا امنا واشهد باننا مسلمون",
+    "bengali": "আর যখন আমি হাওয়ারী* গণকে এ আদেশ দিয়েছিলাম যে, ‘আমার প্রতি তোমরা ঈমান আন ও আমার রাসূলের প্রতি’। তারা বলেছিল, ‘আমরা ঈমান আনলাম এবং আপনি সাক্ষী থাকুন যে, আমরা অবশ্যই মুসলিম’। \n* ঈসা আ. এর বিশেষ অনুসারীদের হাওয়ারী বলা হয়।",
+    "urdu": "اور جب میں نے حواریوں کی طرف حکم بھیجا کہ مجھ پر اور میرے پیغمبر پر ایمان لاؤ وہ کہنے لگے کہ (پروردگار) ہم ایمان لائے تو شاہد رہیو کہ ہم فرمانبردار ہیں"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 167,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_167.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002167.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_167.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002167.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_167.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002167.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_167.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002167.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_167.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002167.mp3"
+        }
+    },
+    "english": "The ˹misled˺ followers will cry, “If only we could have a second chance, we would disown them as they disowned us.” And so Allah will make them remorseful of their misdeeds. And they will never ˹be able to˺ leave the Fire.",
+    "arabic1": "وَقَالَ ٱلَّذِينَ ٱتَّبَعُوا۟ لَوْ أَنَّ لَنَا كَرَّةً فَنَتَبَرَّأَ مِنْهُمْ كَمَا تَبَرَّءُوا۟ مِنَّا ۗ كَذَٰلِكَ يُرِيهِمُ ٱللَّهُ أَعْمَـٰلَهُمْ حَسَرَٰتٍ عَلَيْهِمْ ۖ وَمَا هُم بِخَـٰرِجِينَ مِنَ ٱلنَّارِ",
+    "arabic2": "وقال الذين اتبعوا لو ان لنا كرة فنتبرا منهم كما تبرءوا منا كذلك يريهم الله اعمالهم حسرات عليهم وما هم بخارجين من النار",
+    "bengali": "আর যারা অনুসরণ করেছে, তারা বলবে, ‘যদি আমাদের ফিরে যাওয়ার সুযোগ হত, তাহলে আমরা তাদের থেকে আলাদা হয়ে যেতাম, যেভাবে তারা আলাদা হয়ে গিয়েছে’। এভাবে আল্লাহ তাদেরকে তাদের আমলসমূহ দেখাবেন, তাদের জন্য আক্ষেপস্বরূপ। আর তারা আগুন থেকে বের হতে পারবে না।",
+    "urdu": "(یہ حال دیکھ کر) پیروی کرنے والے (حسرت سے) کہیں گے کہ اے کاش ہمیں پھر دنیا میں جانا نصیب ہو تاکہ جس طرح یہ ہم سے بیزار ہو رہے ہیں اسی طرح ہم بھی ان سے بیزار ہوں۔ اسی طرح خدا ان کے اعمال انہیں حسرت بنا کر دکھائے گااور وہ دوزخ سے نکل نہیں سکیں گے"
+}

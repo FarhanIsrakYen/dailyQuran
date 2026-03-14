@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Naml",
+    "surahNameArabic": "النمل",
+    "surahNameArabicLong": "سورة النمل",
+    "surahNameTranslation": "The Ant",
+    "revelationPlace": "Mecca",
+    "totalAyah": 93,
+    "surahNo": 27,
+    "ayahNo": 71,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/27_71.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/027071.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/27_71.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/027071.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/27_71.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/027071.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/27_71.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/027071.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/27_71.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/027071.mp3"
+        }
+    },
+    "english": "They ask ˹the believers˺, “When will this threat come to pass, if what you say is true?”",
+    "arabic1": "وَيَقُولُونَ مَتَىٰ هَـٰذَا ٱلْوَعْدُ إِن كُنتُمْ صَـٰدِقِينَ",
+    "arabic2": "ويقولون متى هذا الوعد ان كنتم صادقين",
+    "bengali": "আর তারা বলে, ‘তোমরা সত্যবাদী হলে (বল) এই ওয়াদা কখন আসবে’?",
+    "urdu": "اور کہتے ہیں کہ اگر تم سچے ہو تو یہ وعدہ کب پورا ہوگا؟"
+}

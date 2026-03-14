@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Naml",
+    "surahNameArabic": "النمل",
+    "surahNameArabicLong": "سورة النمل",
+    "surahNameTranslation": "The Ant",
+    "revelationPlace": "Mecca",
+    "totalAyah": 93,
+    "surahNo": 27,
+    "ayahNo": 88,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/27_88.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/027088.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/27_88.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/027088.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/27_88.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/027088.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/27_88.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/027088.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/27_88.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/027088.mp3"
+        }
+    },
+    "english": "Now you see the mountains, thinking they are firmly fixed, but they are travelling ˹just˺ like clouds. ˹That is˺ the design of Allah, Who has perfected everything. Surely He is All-Aware of what you do.",
+    "arabic1": "وَتَرَى ٱلْجِبَالَ تَحْسَبُهَا جَامِدَةً وَهِىَ تَمُرُّ مَرَّ ٱلسَّحَابِ ۚ صُنْعَ ٱللَّهِ ٱلَّذِىٓ أَتْقَنَ كُلَّ شَىْءٍ ۚ إِنَّهُۥ خَبِيرٌۢ بِمَا تَفْعَلُونَ",
+    "arabic2": "وترى الجبال تحسبها جامدة وهي تمر مر السحاب صنع الله الذي اتقن كل شيء انه خبير بما تفعلون",
+    "bengali": "আর তুমি পাহাড়সমূকে দেখছ, সেগুলোকে তুমি স্থির মনে করছ। অথচ তা মেঘমালার ন্যায় চলতে থাকবে। (এটা) আল্লাহর কাজ, যিনি সব কিছু দৃঢ়ভাবে করেছেন। নিশ্চয় তোমরা যা কর, তিনি সে সম্পর্কে বিশেষভাবে অবহিত।",
+    "urdu": "اور تم پہاڑوں کو دیکھتے ہو تو خیال کرتے ہو کہ (اپنی جگہ پر) کھڑے ہیں مگر وہ (اس روز) اس طرح اُڑے پھریں گے جیسے بادل۔ (یہ) خدا کی کاریگری ہے جس نے ہر چیز کو مضبوط بنایا۔ بےشک وہ تمہارے سب افعال سے باخبر ہے"
+}

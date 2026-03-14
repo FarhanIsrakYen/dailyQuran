@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Muminoon",
+    "surahNameArabic": "المؤمنون",
+    "surahNameArabicLong": "سورة المؤمنون",
+    "surahNameTranslation": "The Believers",
+    "revelationPlace": "Mecca",
+    "totalAyah": 118,
+    "surahNo": 23,
+    "ayahNo": 61,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/23_61.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/023061.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/23_61.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/023061.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/23_61.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/023061.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/23_61.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/023061.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/23_61.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/023061.mp3"
+        }
+    },
+    "english": "it is they who race to do good deeds, always taking the lead.",
+    "arabic1": "أُو۟لَـٰٓئِكَ يُسَـٰرِعُونَ فِى ٱلْخَيْرَٰتِ وَهُمْ لَهَا سَـٰبِقُونَ",
+    "arabic2": "اولئك يسارعون في الخيرات وهم لها سابقون",
+    "bengali": "তারাই কল্যাণসমূহের দিকে দ্রুত এগিয়ে যাচ্ছে। এবং তাতে তারা অগ্রগামী।",
+    "urdu": "یہی لوگ نیکیوں میں جلدی کرے اور یہی اُن کے لئے آگے نکل جاتے ہیں"
+}

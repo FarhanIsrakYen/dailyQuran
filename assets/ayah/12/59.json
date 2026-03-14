@@ -1,0 +1,42 @@
+{
+    "surahName": "Yusuf",
+    "surahNameArabic": "يوسف",
+    "surahNameArabicLong": "سورة يوسف",
+    "surahNameTranslation": "Joseph",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 12,
+    "ayahNo": 59,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/12_59.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/012059.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/12_59.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/012059.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/12_59.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/012059.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/12_59.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/012059.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/12_59.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/012059.mp3"
+        }
+    },
+    "english": "When he had provided them with their supplies, he demanded, “Bring me your brother on your father’s side. Do you not see that I give full measure and I am the best of hosts?",
+    "arabic1": "وَلَمَّا جَهَّزَهُم بِجَهَازِهِمْ قَالَ ٱئْتُونِى بِأَخٍ لَّكُم مِّنْ أَبِيكُمْ ۚ أَلَا تَرَوْنَ أَنِّىٓ أُوفِى ٱلْكَيْلَ وَأَنَا۠ خَيْرُ ٱلْمُنزِلِينَ",
+    "arabic2": "ولما جهزهم بجهازهم قال ائتوني باخ لكم من ابيكم الا ترون اني اوفي الكيل وانا خير المنزلين",
+    "bengali": "আর সে যখন তাদেরকে তাদের রসদসামগ্রী প্রস্তুত করে দিল, তখন বলল, ‘তোমরা তোমাদের পিতার পক্ষ হতে তোমাদের এক ভাইকে আমার কাছে নিয়ে আস, তোমরা কি দেখ না, আমি পরিমাপে পূর্ণমাত্রায় দেই এবং আমি উত্তম অতিথিপরায়ণ?",
+    "urdu": "جب یوسف نے ان کے لیے ان کا سامان تیار کر دیا تو کہا کہ (پھر آنا تو) جو باپ کی طرف سے تمہارا ایک اور بھائی ہے اسے بھی میرے پاس لیتے آنا۔ کیا تم نہیں دیکھتے کہ میں ناپ بھی پوری پوری دیتا ہوں اور مہمانداری بھی خوب کرتا ہوں"
+}

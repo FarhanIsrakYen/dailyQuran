@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Ankaboot",
+    "surahNameArabic": "العنكبوت",
+    "surahNameArabicLong": "سورة العنكبوت",
+    "surahNameTranslation": "The Spider",
+    "revelationPlace": "Mecca",
+    "totalAyah": 69,
+    "surahNo": 29,
+    "ayahNo": 51,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/29_51.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/029051.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/29_51.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/029051.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/29_51.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/029051.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/29_51.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/029051.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/29_51.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/029051.mp3"
+        }
+    },
+    "english": "Is it not enough for them that We have sent down to you the Book, ˹which is˺ recited to them. Surely in this ˹Quran˺ is a mercy and reminder for people who believe.",
+    "arabic1": "أَوَلَمْ يَكْفِهِمْ أَنَّآ أَنزَلْنَا عَلَيْكَ ٱلْكِتَـٰبَ يُتْلَىٰ عَلَيْهِمْ ۚ إِنَّ فِى ذَٰلِكَ لَرَحْمَةً وَذِكْرَىٰ لِقَوْمٍ يُؤْمِنُونَ",
+    "arabic2": "اولم يكفهم انا انزلنا عليك الكتاب يتلى عليهم ان في ذلك لرحمة وذكرى لقوم يؤمنون",
+    "bengali": "এটা কি তাদের জন্য যথেষ্ট নয় যে, নিশ্চয় আমি তোমার প্রতি কিতাব নাযিল করেছি, যা তাদের নিকট তিলাওয়াত করা হয়? নিশ্চয় এর মধ্যে রহমত ও উপদেশ রয়েছে সেই কওমের জন্য, যারা ঈমান আনে।",
+    "urdu": "کیا اُن لوگوں کے لئے یہ کافی نہیں کہ ہم نے تم پر کتاب نازل کی جو اُن کو پڑھ کر سنائی جاتی ہے۔ کچھ شک نہیں کہ مومن لوگوں کے لیے اس میں رحمت اور نصیحت ہے"
+}

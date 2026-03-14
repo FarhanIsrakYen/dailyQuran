@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Hujuraat",
+    "surahNameArabic": "الحجرات",
+    "surahNameArabicLong": "سورة الحجرات",
+    "surahNameTranslation": "The Inner Apartments",
+    "revelationPlace": "Madina",
+    "totalAyah": 18,
+    "surahNo": 49,
+    "ayahNo": 1,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/49_1.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/049001.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/49_1.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/049001.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/49_1.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/049001.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/49_1.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/049001.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/49_1.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/049001.mp3"
+        }
+    },
+    "english": "O believers! Do not proceed ˹in any matter˺ before ˹a decree from˺ Allah and His Messenger. And fear Allah. Surely Allah is All-Hearing, All-Knowing.",
+    "arabic1": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تُقَدِّمُوا۟ بَيْنَ يَدَىِ ٱللَّهِ وَرَسُولِهِۦ ۖ وَٱتَّقُوا۟ ٱللَّهَ ۚ إِنَّ ٱللَّهَ سَمِيعٌ عَلِيمٌ",
+    "arabic2": "يا ايها الذين امنوا لا تقدموا بين يدي الله ورسوله واتقوا الله ان الله سميع عليم",
+    "bengali": "হে ঈমানদারগণ, তোমরা আল্লাহ ও তাঁর রাসূলের সামনে অগ্রবর্তী হয়ো না এবং তোমরা আল্লাহর তাকওয়া অবলম্বন কর, নিশ্চয় আল্লাহ সর্বশ্রোতা, সর্বজ্ঞ।",
+    "urdu": "مومنو! (کسی بات کے جواب میں) خدا اور اس کے رسول سے پہلے نہ بول اٹھا کرو اور خدا سے ڈرتے رہو۔ بےشک خدا سنتا جانتا ہے"
+}

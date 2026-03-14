@@ -1,0 +1,42 @@
+{
+    "surahName": "Ar-Room",
+    "surahNameArabic": "الروم",
+    "surahNameArabicLong": "سورة الروم",
+    "surahNameTranslation": "The Romans",
+    "revelationPlace": "Mecca",
+    "totalAyah": 60,
+    "surahNo": 30,
+    "ayahNo": 55,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/30_55.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/030055.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/30_55.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/030055.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/30_55.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/030055.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/30_55.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/030055.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/30_55.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/030055.mp3"
+        }
+    },
+    "english": "And on the Day the Hour will arrive, the wicked will swear that they did not stay ˹in this world˺ more than an hour. In this way they were always deluded ˹in the world˺.",
+    "arabic1": "وَيَوْمَ تَقُومُ ٱلسَّاعَةُ يُقْسِمُ ٱلْمُجْرِمُونَ مَا لَبِثُوا۟ غَيْرَ سَاعَةٍ ۚ كَذَٰلِكَ كَانُوا۟ يُؤْفَكُونَ",
+    "arabic2": "ويوم تقوم الساعة يقسم المجرمون ما لبثوا غير ساعة كذلك كانوا يؤفكون",
+    "bengali": "আর যেদিন কিয়ামত অনুষ্ঠিত হবে সেদিন অপরাধীরা কসম করে বলবে যে, তারা মুহূর্তকালের বেশী অবস্থান করেনি। এভাবেই তারা সত্যবিমুখ থেকেছে।",
+    "urdu": "اور جس روز قیامت برپا ہوگی گنہگار قسمیں کھائیں گے کہ وہ (دنیا میں) ایک گھڑی سے زیادہ نہیں رہے تھے۔ اسی طرح وہ (رستے سے) اُلٹے جاتے تھے"
+}

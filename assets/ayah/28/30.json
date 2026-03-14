@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Qasas",
+    "surahNameArabic": "القصص",
+    "surahNameArabicLong": "سورة القصص",
+    "surahNameTranslation": "The Stories",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 28,
+    "ayahNo": 30,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/28_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/028030.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/28_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/028030.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/28_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/028030.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/28_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/028030.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/28_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/028030.mp3"
+        }
+    },
+    "english": "But when he came to it, he was called from the bush in the sacred ground to the right side of the valley: “O Moses! It is truly I. I am Allah—the Lord of all worlds.",
+    "arabic1": "فَلَمَّآ أَتَىٰهَا نُودِىَ مِن شَـٰطِئِ ٱلْوَادِ ٱلْأَيْمَنِ فِى ٱلْبُقْعَةِ ٱلْمُبَـٰرَكَةِ مِنَ ٱلشَّجَرَةِ أَن يَـٰمُوسَىٰٓ إِنِّىٓ أَنَا ٱللَّهُ رَبُّ ٱلْعَـٰلَمِينَ",
+    "arabic2": "فلما اتاها نودي من شاطئ الواد الايمن في البقعة المباركة من الشجرة ان يا موسى اني انا الله رب العالمين",
+    "bengali": "অতঃপর যখন মূসা আগুনের নিকট আসল, তখন উপত্যকার ডান পার্শে পবিত্র ভূমিতে অবস্থিত বৃক্ষ থেকে তাকে আহবান করে বলা হলো, ‘হে মূসা, নিশ্চয় আমিই আল্লাহ, সৃষ্টিকুলের রব’।",
+    "urdu": "جب اس کے پاس پہنچے تو میدان کے دائیں کنارے سے ایک مبارک جگہ میں ایک درخت میں سے آواز آئی کہ موسٰی میں تو خدائے رب العالمین ہوں"
+}

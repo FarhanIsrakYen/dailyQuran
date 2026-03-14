@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 60,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/4_60.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/004060.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/4_60.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/004060.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/4_60.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/004060.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/4_60.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/004060.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/4_60.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/004060.mp3"
+        }
+    },
+    "english": "Have you ˹O Prophet˺ not seen those who claim they believe in what has been revealed to you and what was revealed before you? They seek the judgment of false judges, which they were commanded to reject. And Satan ˹only˺ desires to lead them farther away.",
+    "arabic1": "أَلَمْ تَرَ إِلَى ٱلَّذِينَ يَزْعُمُونَ أَنَّهُمْ ءَامَنُوا۟ بِمَآ أُنزِلَ إِلَيْكَ وَمَآ أُنزِلَ مِن قَبْلِكَ يُرِيدُونَ أَن يَتَحَاكَمُوٓا۟ إِلَى ٱلطَّـٰغُوتِ وَقَدْ أُمِرُوٓا۟ أَن يَكْفُرُوا۟ بِهِۦ وَيُرِيدُ ٱلشَّيْطَـٰنُ أَن يُضِلَّهُمْ ضَلَـٰلًۢا بَعِيدًا",
+    "arabic2": "الم تر الى الذين يزعمون انهم امنوا بما انزل اليك وما انزل من قبلك يريدون ان يتحاكموا الى الطاغوت وقد امروا ان يكفروا به ويريد الشيطان ان يضلهم ضلالا بعيدا",
+    "bengali": "তুমি কি তাদেরকে দেখনি, যারা দাবী করে যে, নিশ্চয় তারা ঈমান এনেছে তার উপর, যা নাযিল করা হয়েছে তোমার প্রতি এবং যা নাযিল করা হয়েছে তোমার পূর্বে। তারা তাগূতের কাছে বিচার নিয়ে যেতে চায় অথচ তাদেরকে নির্দেশ দেয়া হয়েছে তাকে অস্বীকার করতে। আর শয়তান চায় তাদেরকে ঘোর বিভ্রান্তিতে বিভ্রান্ত করতে।",
+    "urdu": "کیا تم نے ان لوگوں کو نہیں دیکھا جو دعویٰ تو یہ کرتے ہیں کہ جو (کتاب) تم پر نازل ہوئی اور جو (کتابیں) تم سے پہلے نازل ہوئیں ان سب پر ایمان رکھتے ہیں اور چاہتے یہ ہیں کہ اپنا مقدمہ ایک سرکش کے پاس لے جا کر فیصلہ کرائیں حالانکہ ان کو حکم دیا گیا تھا کہ اس سے اعتقاد نہ رکھیں اور شیطان (تو یہ) چاہتا ہے کہ ان کو بہکا کر رستے سے دور ڈال دے"
+}

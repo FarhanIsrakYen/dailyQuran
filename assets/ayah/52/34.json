@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Tur",
+    "surahNameArabic": "الطور",
+    "surahNameArabicLong": "سورة الطور",
+    "surahNameTranslation": "The Mount",
+    "revelationPlace": "Mecca",
+    "totalAyah": 49,
+    "surahNo": 52,
+    "ayahNo": 34,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/52_34.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/052034.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/52_34.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/052034.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/52_34.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/052034.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/52_34.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/052034.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/52_34.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/052034.mp3"
+        }
+    },
+    "english": "Let them then produce something like it, if what they say is true!",
+    "arabic1": "فَلْيَأْتُوا۟ بِحَدِيثٍ مِّثْلِهِۦٓ إِن كَانُوا۟ صَـٰدِقِينَ",
+    "arabic2": "فلياتوا بحديث مثله ان كانوا صادقين",
+    "bengali": "অতএব, তারা যদি সত্যবাদী হয় তবে তার অনুরূপ বাণী নিয়ে আসুক।",
+    "urdu": "اگر یہ سچے ہیں تو ایسا کلام بنا تو لائیں"
+}

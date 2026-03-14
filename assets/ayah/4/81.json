@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 81,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/4_81.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/004081.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/4_81.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/004081.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/4_81.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/004081.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/4_81.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/004081.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/4_81.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/004081.mp3"
+        }
+    },
+    "english": "And they say, “We obey,” but when they leave you, a group of them would spend the night contradicting what they said. Allah records all their schemes. So turn away from them, and put your trust in Allah. And Allah is sufficient as a Trustee of Affairs.",
+    "arabic1": "وَيَقُولُونَ طَاعَةٌ فَإِذَا بَرَزُوا۟ مِنْ عِندِكَ بَيَّتَ طَآئِفَةٌ مِّنْهُمْ غَيْرَ ٱلَّذِى تَقُولُ ۖ وَٱللَّهُ يَكْتُبُ مَا يُبَيِّتُونَ ۖ فَأَعْرِضْ عَنْهُمْ وَتَوَكَّلْ عَلَى ٱللَّهِ ۚ وَكَفَىٰ بِٱللَّهِ وَكِيلًا",
+    "arabic2": "ويقولون طاعة فاذا برزوا من عندك بيت طائفة منهم غير الذي تقول والله يكتب ما يبيتون فاعرض عنهم وتوكل على الله وكفى بالله وكيلا",
+    "bengali": "আর তারা বলে, ‘আনুগত্য (করি)’; অতঃপর যখন তারা তোমার কাছ থেকে বের হয়ে যায়, তাদের একদল যা বলে, রাতে তার বিপরীত পরিকল্পনা করে। আর আল্লাহ লিখে রাখেন, তারা রাতে যা পরিকল্পনা করে। সুতরাং তুমি তাদেরকে এড়িয়ে চল এবং আল্লাহর উপর তাওয়াক্কুল কর। কর্মবিধায়ক হিসেবে আল্লাহই যথেষ্ট।",
+    "urdu": "اور یہ لوگ منہ سے تو کہتے ہیں کہ (آپ کی) فرمانبرداری (دل سے منظور ہے) لیکن جب تمہارے پاس سے چلے جاتے ہیں تو ان میں سے بعض لوگ رات کو تمہاری باتوں کے خلاف مشورے کرتے ہیں اور جو مشورے یہ کرتے ہیں خدا ان کو لکھ لیتا ہے تو ان کا کچھ خیال نہ کرو اور خدا پر بھروسہ رکھو اور خدا ہی کافی کارساز ہے"
+}

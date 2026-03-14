@@ -1,0 +1,42 @@
+{
+    "surahName": "Az-Zumar",
+    "surahNameArabic": "الزمر",
+    "surahNameArabicLong": "سورة الزمر",
+    "surahNameTranslation": "The Groups",
+    "revelationPlace": "Mecca",
+    "totalAyah": 75,
+    "surahNo": 39,
+    "ayahNo": 16,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/39_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/039016.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/39_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/039016.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/39_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/039016.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/39_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/039016.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/39_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/039016.mp3"
+        }
+    },
+    "english": "They will have layers of fire above and below them. That is what Allah warns His servants with. So fear Me, O  My servants!",
+    "arabic1": "لَهُم مِّن فَوْقِهِمْ ظُلَلٌ مِّنَ ٱلنَّارِ وَمِن تَحْتِهِمْ ظُلَلٌ ۚ ذَٰلِكَ يُخَوِّفُ ٱللَّهُ بِهِۦ عِبَادَهُۥ ۚ يَـٰعِبَادِ فَٱتَّقُونِ",
+    "arabic2": "لهم من فوقهم ظلل من النار ومن تحتهم ظلل ذلك يخوف الله به عباده يا عباد فاتقون",
+    "bengali": "তাদের জন্য তাদের উপরের দিকে থাকবে আগুনের আচ্ছাদন আর তাদের নিচের দিকেও থাকবে (আগুনের) আচ্ছাদন; এদ্বারা আল্লাহ তাঁর বান্দাদেরকে ভয় দেখান। ‘হে আমার বান্দারা, তোমরা আমাকেই ভয় কর’।",
+    "urdu": "ان کے اوپر تو آگ کے سائبان ہوں گے اور نیچے (اس کے) فرش ہوں گے۔ یہ وہ (عذاب) ہے جس سے خدا اپنے بندوں کو ڈراتا ہے۔ تو اے میرے بندو مجھ سے ڈرتے رہو"
+}

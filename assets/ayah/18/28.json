@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Kahf",
+    "surahNameArabic": "الكهف",
+    "surahNameArabicLong": "سورة الكهف",
+    "surahNameTranslation": "The Cave",
+    "revelationPlace": "Mecca",
+    "totalAyah": 110,
+    "surahNo": 18,
+    "ayahNo": 28,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/18_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/018028.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/18_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/018028.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/18_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/018028.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/18_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/018028.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/18_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/018028.mp3"
+        }
+    },
+    "english": "And patiently stick with those who call upon their Lord morning and evening, seeking His pleasure. Do not let your eyes look beyond them, desiring the luxuries of this worldly life. And do not obey those whose hearts We have made heedless of Our remembrance, who follow ˹only˺ their desires and whose state is ˹total˺ loss.",
+    "arabic1": "وَٱصْبِرْ نَفْسَكَ مَعَ ٱلَّذِينَ يَدْعُونَ رَبَّهُم بِٱلْغَدَوٰةِ وَٱلْعَشِىِّ يُرِيدُونَ وَجْهَهُۥ ۖ وَلَا تَعْدُ عَيْنَاكَ عَنْهُمْ تُرِيدُ زِينَةَ ٱلْحَيَوٰةِ ٱلدُّنْيَا ۖ وَلَا تُطِعْ مَنْ أَغْفَلْنَا قَلْبَهُۥ عَن ذِكْرِنَا وَٱتَّبَعَ هَوَىٰهُ وَكَانَ أَمْرُهُۥ فُرُطًا",
+    "arabic2": "واصبر نفسك مع الذين يدعون ربهم بالغداة والعشي يريدون وجهه ولا تعد عيناك عنهم تريد زينة الحياة الدنيا ولا تطع من اغفلنا قلبه عن ذكرنا واتبع هواه وكان امره فرطا",
+    "bengali": "আর তুমি নিজকে ধৈর্যশীল রাখ তাদের সাথে, যারা সকাল-সন্ধ্যায় তাদের রবকে ডাকে, তাঁর সন্তুষ্টির উদ্দেশে, এবং দুনিয়ার জীবনের সৌন্দর্য কামনা করে তোমার দু’চোখ যেন তাদের থেকে ঘুরে না যায়। আর ওই ব্যক্তির আনুগত্য করো না, যার অন্তরকে আমি আমার যিকির থেকে গাফেল করে দিয়েছি এবং যে তার প্রবৃত্তির অনুসরণ করেছে এবং যার কর্ম বিনষ্ট হয়েছে।",
+    "urdu": "اور جو لوگ صبح و شام اپنے پروردگار کو پکارتے اور اس کی خوشنودی کے طالب ہیں۔ ان کے ساتھ صبر کرتے رہو۔ اور تمہاری نگاہیں ان میں (گزر کر اور طرف) نہ دوڑیں کہ تم آرائشِ زندگانی دنیا کے خواستگار ہوجاؤ۔ اور جس شخص کے دل کو ہم نے اپنی یاد سے غافل کردیا ہے اور وہ اپنی خواہش کی پیروی کرتا ہے اور اس کا کام حد سے بڑھ گیا ہے اس کا کہا نہ ماننا"
+}

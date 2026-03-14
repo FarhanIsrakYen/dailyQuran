@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Kahf",
+    "surahNameArabic": "الكهف",
+    "surahNameArabicLong": "سورة الكهف",
+    "surahNameTranslation": "The Cave",
+    "revelationPlace": "Mecca",
+    "totalAyah": 110,
+    "surahNo": 18,
+    "ayahNo": 12,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/18_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/018012.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/18_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/018012.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/18_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/018012.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/18_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/018012.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/18_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/018012.mp3"
+        }
+    },
+    "english": "then We raised them so We may show which of the two groups would make a better estimation of the length of their stay.",
+    "arabic1": "ثُمَّ بَعَثْنَـٰهُمْ لِنَعْلَمَ أَىُّ ٱلْحِزْبَيْنِ أَحْصَىٰ لِمَا لَبِثُوٓا۟ أَمَدًا",
+    "arabic2": "ثم بعثناهم لنعلم اي الحزبين احصى لما لبثوا امدا",
+    "bengali": "তারপর আমি তাদেরকে জাগালাম, যাতে আমি জানতে পারি, যতটুকু সময় তারা অবস্থান করেছিল, দু’দলের মধ্যে* কে তা অধিক নির্ণয়কারী। \n* গুহায় অবস্থান কাল নিয়ে দু’টি দল হয়েছিল। একদল বলেছিল, আমরা অবস্থান করেছি এক দিন অথবা এক দিনের কিছু কম সময়; অন্যদল বলেছিল, দীর্ঘ সময়।",
+    "urdu": "پھر ان کو جگا اُٹھایا تاکہ معلوم کریں کہ جتنی مدّت وہ (غار میں) رہے دونوں جماعتوں میں سے اس کی مقدار کس کو خوب یاد ہے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Muhammad",
+    "surahNameArabic": "محمد",
+    "surahNameArabicLong": "سورة محمد",
+    "surahNameTranslation": "Muhammad",
+    "revelationPlace": "Madina",
+    "totalAyah": 38,
+    "surahNo": 47,
+    "ayahNo": 17,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/47_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/047017.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/47_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/047017.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/47_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/047017.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/47_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/047017.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/47_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/047017.mp3"
+        }
+    },
+    "english": "As for those who are ˹rightly˺ guided, He increases them in guidance and blesses them with righteousness.",
+    "arabic1": "وَٱلَّذِينَ ٱهْتَدَوْا۟ زَادَهُمْ هُدًى وَءَاتَىٰهُمْ تَقْوَىٰهُمْ",
+    "arabic2": "والذين اهتدوا زادهم هدى واتاهم تقواهم",
+    "bengali": "আর যারা হিদায়াতপ্রাপ্ত হয়েছে আল্লাহ তাদের হিদায়াত প্রাপ্তি আরো বৃদ্ধি করেন এবং তাদেরকে তাদের তাকওয়া প্রদান করেন।",
+    "urdu": "اور جو لوگ ہدایت یافتہ ہیں ان کو وہ ہدایت مزید بخشتا اور پرہیزگاری عنایت کرتا ہے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 86,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/17_86.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/017086.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/17_86.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/017086.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/17_86.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/017086.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/17_86.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/017086.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/17_86.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/017086.mp3"
+        }
+    },
+    "english": "If We willed, We could have certainly taken away what We have revealed to you ˹O Prophet˺—then you would find none to guarantee its return from Us—",
+    "arabic1": "وَلَئِن شِئْنَا لَنَذْهَبَنَّ بِٱلَّذِىٓ أَوْحَيْنَآ إِلَيْكَ ثُمَّ لَا تَجِدُ لَكَ بِهِۦ عَلَيْنَا وَكِيلًا",
+    "arabic2": "ولئن شئنا لنذهبن بالذي اوحينا اليك ثم لا تجد لك به علينا وكيلا",
+    "bengali": "আর আমি ইচ্ছা করলে তোমার কাছে ওহীর মাধ্যমে যা পাঠিয়েছি তা অবশ্যই নিয়ে নিতে পারতাম; অতঃপর তুমি এ বিষয়ে আমার বিরুদ্ধে তোমার জন্য কোন কর্মবিধায়ক পেতে না।",
+    "urdu": "اور اگر ہم چاہیں تو جو (کتاب) ہم تمہاری طرف بھیجتے ہیں اسے (دلوں سے) محو کردیں۔ پھر تم اس کے لئے ہمارے مقابلے میں کسی کو مددگار نہ پاؤ"
+}

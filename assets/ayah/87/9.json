@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-A'laa",
+    "surahNameArabic": "الأعلى",
+    "surahNameArabicLong": "سورة الأعلى",
+    "surahNameTranslation": "The Most High",
+    "revelationPlace": "Mecca",
+    "totalAyah": 19,
+    "surahNo": 87,
+    "ayahNo": 9,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/87_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/087009.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/87_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/087009.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/87_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/087009.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/87_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/087009.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/87_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/087009.mp3"
+        }
+    },
+    "english": "So ˹always˺ remind ˹with the Quran˺—˹even˺ if the reminder is beneficial ˹only to some˺.",
+    "arabic1": "فَذَكِّرْ إِن نَّفَعَتِ ٱلذِّكْرَىٰ",
+    "arabic2": "فذكر ان نفعت الذكرى",
+    "bengali": "অতঃপর উপদেশ দাও যদি উপদেশ ফলপ্রসু হয়।",
+    "urdu": "سو جہاں تک نصیحت (کے) نافع( ہونے کی امید) ہو نصیحت کرتے رہو"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Hajj",
+    "surahNameArabic": "الحج",
+    "surahNameArabicLong": "سورة الحج",
+    "surahNameTranslation": "The Pilgrimage",
+    "revelationPlace": "Madina",
+    "totalAyah": 78,
+    "surahNo": 22,
+    "ayahNo": 66,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/22_66.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/022066.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/22_66.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/022066.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/22_66.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/022066.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/22_66.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/022066.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/22_66.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/022066.mp3"
+        }
+    },
+    "english": "And He is the One Who gave you life, then will cause you to die, and then will bring you back to life. ˹But˺ surely humankind is ever ungrateful.",
+    "arabic1": "وَهُوَ ٱلَّذِىٓ أَحْيَاكُمْ ثُمَّ يُمِيتُكُمْ ثُمَّ يُحْيِيكُمْ ۗ إِنَّ ٱلْإِنسَـٰنَ لَكَفُورٌ",
+    "arabic2": "وهو الذي احياكم ثم يميتكم ثم يحييكم ان الانسان لكفور",
+    "bengali": "আর তিনিই তোমাদের জীবন দিয়েছেন, অতঃপর তিনিই তোমাদের মৃত্যু দেবেন, তারপর তিনিই তোমাদেরকে আবার জীবন দেবেন। নিশ্চয় মানুষ বড়ই অকৃতজ্ঞ।",
+    "urdu": "اور وہی تو ہے جس نے تم کو حیات بخشی۔ پھر تم کو مارتا ہے۔ پھر تمہیں زندہ بھی کرے گا۔ اور انسان تو بڑا ناشکر ہے"
+}

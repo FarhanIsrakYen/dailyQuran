@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 14,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/6_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/006014.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/6_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/006014.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/6_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/006014.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/6_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/006014.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/6_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/006014.mp3"
+        }
+    },
+    "english": "Say, ˹O Prophet,˺ “Will I take any guardian other than Allah, the Originator of the heavens and the earth, Who provides for all and is not in need of provision?” Say, “I have been commanded to be the first to submit and not be one of the polytheists.”",
+    "arabic1": "قُلْ أَغَيْرَ ٱللَّهِ أَتَّخِذُ وَلِيًّا فَاطِرِ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَهُوَ يُطْعِمُ وَلَا يُطْعَمُ ۗ قُلْ إِنِّىٓ أُمِرْتُ أَنْ أَكُونَ أَوَّلَ مَنْ أَسْلَمَ ۖ وَلَا تَكُونَنَّ مِنَ ٱلْمُشْرِكِينَ",
+    "arabic2": "قل اغير الله اتخذ وليا فاطر السماوات والارض وهو يطعم ولا يطعم قل اني امرت ان اكون اول من اسلم ولا تكونن من المشركين",
+    "bengali": "বল, ‘আমি কি আল্লাহ ছাড়া অন্যকে অভিভাবক হিসেবে গ্রহণ করব, যিনি আসমানসমূহ ও যমীনের স্রষ্টা? তিনি আহার দেন, তাঁকে আহার দেয়া হয় না।’ বল, ‘নিশ্চয় আমি আদিষ্ট হয়েছি যে, যারা ইসলাম গ্রহণ করেছে যেন আমি তাদের প্রথম হই’। আর তুমি কখনো মুশরিকদের অন্তর্ভুক্ত হয়ো না’।",
+    "urdu": "کہو کیا میں خدا کو چھوڑ کر کسی اور کو مددگار بناؤں کہ (وہی تو) آسمانوں اور زمین کا پیدا کرنے والا ہے اور وہی (سب کو) کھانا دیتا ہے اور خود کسی سے کھانا نہیں لیتا (یہ بھی) کہہ دو کہ مجھے یہ حکم ہوا ہے کہ میں سب سے پہلے اسلام لانے والا ہوں اور یہ کہ تم (اے پیغمبر!) مشرکوں میں نہ ہونا"
+}

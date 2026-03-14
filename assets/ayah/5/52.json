@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Maaida",
+    "surahNameArabic": "المائدة",
+    "surahNameArabicLong": "سورة المائدة",
+    "surahNameTranslation": "The Table",
+    "revelationPlace": "Madina",
+    "totalAyah": 120,
+    "surahNo": 5,
+    "ayahNo": 52,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/5_52.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/005052.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/5_52.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/005052.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/5_52.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/005052.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/5_52.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/005052.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/5_52.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/005052.mp3"
+        }
+    },
+    "english": "You see those with sickness in their hearts racing for their guardianship, saying ˹in justification˺, “We fear a turn of fortune will strike us.” But perhaps Allah will bring about ˹your˺ victory or another favour by His command, and they will regret what they have hidden in their hearts.",
+    "arabic1": "فَتَرَى ٱلَّذِينَ فِى قُلُوبِهِم مَّرَضٌ يُسَـٰرِعُونَ فِيهِمْ يَقُولُونَ نَخْشَىٰٓ أَن تُصِيبَنَا دَآئِرَةٌ ۚ فَعَسَى ٱللَّهُ أَن يَأْتِىَ بِٱلْفَتْحِ أَوْ أَمْرٍ مِّنْ عِندِهِۦ فَيُصْبِحُوا۟ عَلَىٰ مَآ أَسَرُّوا۟ فِىٓ أَنفُسِهِمْ نَـٰدِمِينَ",
+    "arabic2": "فترى الذين في قلوبهم مرض يسارعون فيهم يقولون نخشى ان تصيبنا دائرة فعسى الله ان ياتي بالفتح او امر من عنده فيصبحوا على ما اسروا في انفسهم نادمين",
+    "bengali": "সুতরাং তুমি দেখতে পাবে, যাদের অন্তরে ব্যাধি রয়েছে, তারা কাফিরদের মধ্যে (বন্ধুত্বের জন্য) ছুটছে। তারা বলে, ‘আমরা আশঙ্কা করছি যে, কোন বিপদ আমাদেরকে আক্রান্ত করবে’। অতঃপর হতে পারে আল্লাহ দান করবেন বিজয় কিংবা তাঁর পক্ষ থেকে এমন কিছু, যার ফলে তারা তাদের অন্তরে যা লুকিয়ে রেখেছে, তাতে লজ্জিত হবে।",
+    "urdu": "تو جن لوگوں کے دلوں میں (نفاق کا) مرض ہے تم ان کو دیکھو گے کہ ان میں دوڑ دوڑ کے ملے جاتے ہیں کہتے ہیں کہ ہمیں خوف ہے کہ کہیں ہم پر زمانے کی گردش نہ آجائے سو قریب ہے کہ خدا فتح بھیجے یا اپنے ہاں سے کوئی اور امر (نازل فرمائے) پھر یہ اپنے دل کی باتوں پر جو چھپایا کرتے تھے پشیمان ہو کر رہ جائیں گے"
+}

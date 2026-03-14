@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 95,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/17_95.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/017095.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/17_95.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/017095.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/17_95.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/017095.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/17_95.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/017095.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/17_95.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/017095.mp3"
+        }
+    },
+    "english": "Say, ˹O Prophet,˺ “Had there been angels walking the earth, well settled, We would have surely sent down for them an angel from heaven as a messenger.”",
+    "arabic1": "قُل لَّوْ كَانَ فِى ٱلْأَرْضِ مَلَـٰٓئِكَةٌ يَمْشُونَ مُطْمَئِنِّينَ لَنَزَّلْنَا عَلَيْهِم مِّنَ ٱلسَّمَآءِ مَلَكًا رَّسُولًا",
+    "arabic2": "قل لو كان في الارض ملائكة يمشون مطمئنين لنزلنا عليهم من السماء ملكا رسولا",
+    "bengali": "বল, ‘ফেরেশ্তারা যদি যমীনে চলাচল করত নিশ্চিন্তভাবে তাহলে আমি অবশ্যই আসমান হতে তাদের কাছে ফেরেশতা পাঠাতাম রাসূল হিসেবে’।",
+    "urdu": "کہہ دو کہ اگر زمین میں فرشتے ہوتے (کہ اس میں) چلتے پھرتے (اور) آرام کرتے (یعنی بستے) تو ہم اُن کے پاس فرشتے کو پیغمبر بنا کر بھیجتے"
+}

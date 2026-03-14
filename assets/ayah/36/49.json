@@ -1,0 +1,42 @@
+{
+    "surahName": "Yaseen",
+    "surahNameArabic": "يس",
+    "surahNameArabicLong": "سورة يس",
+    "surahNameTranslation": "Yaseen",
+    "revelationPlace": "Mecca",
+    "totalAyah": 83,
+    "surahNo": 36,
+    "ayahNo": 49,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/36_49.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/036049.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/36_49.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/036049.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/36_49.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/036049.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/36_49.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/036049.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/36_49.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/036049.mp3"
+        }
+    },
+    "english": "They must be awaiting a single Blast, which will seize them while they are ˹entrenched˺ in ˹worldly˺ disputes.",
+    "arabic1": "مَا يَنظُرُونَ إِلَّا صَيْحَةً وَٰحِدَةً تَأْخُذُهُمْ وَهُمْ يَخِصِّمُونَ",
+    "arabic2": "ما ينظرون الا صيحة واحدة تاخذهم وهم يخصمون",
+    "bengali": "তারা তো কেবল এক বিকট আওয়াজের অপেক্ষা করছে যা তাদেরকে বাক-বিতন্ডায় লিপ্ত অবস্থায় পাকড়াও করবে।",
+    "urdu": "یہ تو ایک چنگھاڑ کے منتظر ہیں جو ان کو اس حال میں کہ باہم جھگڑ رہے ہوں گے آپکڑے گی"
+}

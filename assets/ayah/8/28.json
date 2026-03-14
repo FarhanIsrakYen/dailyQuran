@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Anfaal",
+    "surahNameArabic": "الأنفال",
+    "surahNameArabicLong": "سورة الأنفال",
+    "surahNameTranslation": "The Spoils of War",
+    "revelationPlace": "Madina",
+    "totalAyah": 75,
+    "surahNo": 8,
+    "ayahNo": 28,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/8_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/008028.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/8_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/008028.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/8_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/008028.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/8_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/008028.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/8_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/008028.mp3"
+        }
+    },
+    "english": "And know that your wealth and your children are only a test and that with Allah is a great reward.",
+    "arabic1": "وَٱعْلَمُوٓا۟ أَنَّمَآ أَمْوَٰلُكُمْ وَأَوْلَـٰدُكُمْ فِتْنَةٌ وَأَنَّ ٱللَّهَ عِندَهُۥٓ أَجْرٌ عَظِيمٌ",
+    "arabic2": "واعلموا انما اموالكم واولادكم فتنة وان الله عنده اجر عظيم",
+    "bengali": "আর জেনে রাখ, তোমাদের ধন-সম্পদ ও সন্তান-সন্ততি তো ফিতনা। আর নিশ্চয় আল্লাহ, তাঁর নিকট আছে মহা পুরস্কার।",
+    "urdu": "اور جان رکھو کہ تمہارا مال اور اولاد بڑی آزمائش ہے اور یہ کہ خدا کے پاس (نیکیوں کا) بڑا ثواب ہے"
+}

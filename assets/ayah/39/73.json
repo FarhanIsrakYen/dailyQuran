@@ -1,0 +1,42 @@
+{
+    "surahName": "Az-Zumar",
+    "surahNameArabic": "الزمر",
+    "surahNameArabicLong": "سورة الزمر",
+    "surahNameTranslation": "The Groups",
+    "revelationPlace": "Mecca",
+    "totalAyah": 75,
+    "surahNo": 39,
+    "ayahNo": 73,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/39_73.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/039073.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/39_73.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/039073.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/39_73.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/039073.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/39_73.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/039073.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/39_73.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/039073.mp3"
+        }
+    },
+    "english": "And those who were mindful of their Lord will be led to Paradise in ˹successive˺ groups. When they arrive at its ˹already˺ open gates, its keepers will say, “Peace be upon you! You have done well, so come in, to stay forever.”",
+    "arabic1": "وَسِيقَ ٱلَّذِينَ ٱتَّقَوْا۟ رَبَّهُمْ إِلَى ٱلْجَنَّةِ زُمَرًا ۖ حَتَّىٰٓ إِذَا جَآءُوهَا وَفُتِحَتْ أَبْوَٰبُهَا وَقَالَ لَهُمْ خَزَنَتُهَا سَلَـٰمٌ عَلَيْكُمْ طِبْتُمْ فَٱدْخُلُوهَا خَـٰلِدِينَ",
+    "arabic2": "وسيق الذين اتقوا ربهم الى الجنة زمرا حتى اذا جاءوها وفتحت ابوابها وقال لهم خزنتها سلام عليكم طبتم فادخلوها خالدين",
+    "bengali": "আর যারা তাদের রবকে ভয় করেছে তাদেরকে দলে দলে জান্নাতের দিকে নিয়ে যাওয়া হবে। অবশেষে তারা যখন সেখানে এসে পৌঁছবে এবং এর দরজাসমূহ খুলে দেয়া হবে তখন জান্নাতের রক্ষীরা তাদেরকে বলবে, ‘তোমাদের প্রতি সালাম, তোমরা ভাল ছিলে। অতএব স্থায়ীভাবে থাকার জন্য এখানে প্রবেশ কর’।",
+    "urdu": "اور جو لوگ اپنے پروردگار سے ڈرتے ہیں ان کو گروہ گروہ بنا کر بہشت کی طرف لے جائیں گے یہاں تک کہ جب اس کے پاس پہنچ جائیں گے اور اس کے دروازے کھول دیئے جائیں گے تو اس کے داروغہ ان سے کہیں کہ تم پر سلام تم بہت اچھے رہے۔ اب اس میں ہمیشہ کے لئے داخل ہوجاؤ"
+}

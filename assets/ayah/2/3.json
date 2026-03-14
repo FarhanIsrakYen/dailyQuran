@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 3,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002003.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002003.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002003.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002003.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002003.mp3"
+        }
+    },
+    "english": "who believe in the unseen, establish prayer, and donate from what We have provided for them",
+    "arabic1": "ٱلَّذِينَ يُؤْمِنُونَ بِٱلْغَيْبِ وَيُقِيمُونَ ٱلصَّلَوٰةَ وَمِمَّا رَزَقْنَـٰهُمْ يُنفِقُونَ",
+    "arabic2": "الذين يؤمنون بالغيب ويقيمون الصلاة ومما رزقناهم ينفقون",
+    "bengali": "গায়েবের প্রতি ঈমান আনে, সালাত কায়েম করে এবং আমি তাদেরকে যে রিয্ক দিয়েছি তা থেকে ব্যয় করে।",
+    "urdu": "جو غیب پر ایمان لاتے اور آداب کے ساتھ نماز پڑھتے اور جو کچھ ہم نے ان کو عطا فرمایا ہے اس میں سے خرچ کرتے ہیں"
+}

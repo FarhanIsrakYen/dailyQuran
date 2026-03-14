@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Kahf",
+    "surahNameArabic": "الكهف",
+    "surahNameArabicLong": "سورة الكهف",
+    "surahNameTranslation": "The Cave",
+    "revelationPlace": "Mecca",
+    "totalAyah": 110,
+    "surahNo": 18,
+    "ayahNo": 82,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/18_82.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/018082.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/18_82.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/018082.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/18_82.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/018082.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/18_82.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/018082.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/18_82.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/018082.mp3"
+        }
+    },
+    "english": "“And as for the wall, it belonged to two orphan boys in the city, and under the wall was a treasure that belonged to them, and their father had been a righteous man. So your Lord willed that these children should come of age and retrieve their treasure, as a mercy from your Lord. I did not do it ˹all˺ on my own. This is the explanation of what you could not bear patiently.”",
+    "arabic1": "وَأَمَّا ٱلْجِدَارُ فَكَانَ لِغُلَـٰمَيْنِ يَتِيمَيْنِ فِى ٱلْمَدِينَةِ وَكَانَ تَحْتَهُۥ كَنزٌ لَّهُمَا وَكَانَ أَبُوهُمَا صَـٰلِحًا فَأَرَادَ رَبُّكَ أَن يَبْلُغَآ أَشُدَّهُمَا وَيَسْتَخْرِجَا كَنزَهُمَا رَحْمَةً مِّن رَّبِّكَ ۚ وَمَا فَعَلْتُهُۥ عَنْ أَمْرِى ۚ ذَٰلِكَ تَأْوِيلُ مَا لَمْ تَسْطِع عَّلَيْهِ صَبْرًا",
+    "arabic2": "واما الجدار فكان لغلامين يتيمين في المدينة وكان تحته كنز لهما وكان ابوهما صالحا فاراد ربك ان يبلغا اشدهما ويستخرجا كنزهما رحمة من ربك وما فعلته عن امري ذلك تاويل ما لم تسطع عليه صبرا",
+    "bengali": "‘আর প্রাচীরটির বিষয় হল, তা ছিল শহরের দু’জন ইয়াতীম বালকের এবং তার নিচে ছিল তাদের গুপ্তধন। আর তাদের পিতা ছিল সৎকর্মপরায়ণ। তাই আপনার রব চাইলেন যে, তারা দু’জন প্রাপ্তবয়স্ক হয়ে তাদের গুপ্তধন বের করে নেবে। এ সবই আপনার রবের রহমত স্বরূপ। আমি নিজ থেকে তা করিনি। এ হলো সে বিষয়ের ব্যাখ্যা, যে সম্পর্কে আপনি ধৈর্য ধারণ করতে পারেননি।",
+    "urdu": "اور وہ جو دیوار تھی سو وہ دو یتیم لڑکوں کی تھی (جو) شہر میں (رہتے تھے) اور اس کے نیچے ان کا خزانہ (مدفون) تھا اور ان کا باپ ایک نیک بخت آدمی تھا۔ تو تمہارے پروردگار نے چاہا کہ وہ اپنی جوانی کو پہنچ جائیں اور (پھر) اپنا خزانہ نکالیں۔ یہ تمہارے پروردگار کی مہربانی ہے۔ اور یہ کام میں نے اپنی طرف سے نہیں کئے۔ یہ ان باتوں کا راز ہے جن پر تم صبر نہ کرسکے"
+}

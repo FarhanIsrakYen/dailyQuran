@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Qasas",
+    "surahNameArabic": "القصص",
+    "surahNameArabicLong": "سورة القصص",
+    "surahNameTranslation": "The Stories",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 28,
+    "ayahNo": 63,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/28_63.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/028063.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/28_63.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/028063.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/28_63.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/028063.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/28_63.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/028063.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/28_63.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/028063.mp3"
+        }
+    },
+    "english": "Those ˹misleaders˺ against whom the decree ˹of torment˺ is justified will cry, “Our Lord! These ˹followers˺ are the ones we caused to deviate. We led them into deviance, for we ourselves were deviant. We disassociate ourselves ˹from them˺ before You. It was not us that they used to worship.”",
+    "arabic1": "قَالَ ٱلَّذِينَ حَقَّ عَلَيْهِمُ ٱلْقَوْلُ رَبَّنَا هَـٰٓؤُلَآءِ ٱلَّذِينَ أَغْوَيْنَآ أَغْوَيْنَـٰهُمْ كَمَا غَوَيْنَا ۖ تَبَرَّأْنَآ إِلَيْكَ ۖ مَا كَانُوٓا۟ إِيَّانَا يَعْبُدُونَ",
+    "arabic2": "قال الذين حق عليهم القول ربنا هؤلاء الذين اغوينا اغويناهم كما غوينا تبرانا اليك ما كانوا ايانا يعبدون",
+    "bengali": "যাদের জন্য (শাস্তির) বাণী অবধারিত হবে তারা বলবে, ‘হে আমাদের রব, ওরা তো তারা যাদেরকে আমরা বিভ্রান্ত করেছিলাম। তাদেরকে আমরা বিভ্রান্ত করেছিলাম যেমন আমরা বিভ্রান্ত হয়েছিলাম। আমরা আপনার কাছে দায় মুক্তি চাচ্ছি। তারা তো আমাদের ইবাদাত করত না’।",
+    "urdu": "(تو) جن لوگوں پر (عذاب کا) حکم ثابت ہوچکا ہوگا وہ کہیں گے کہ ہمارے پروردگار یہ وہ لوگ ہیں جن کو ہم نے گمراہ کیا تھا۔ اور جس طرح ہم خود گمراہ ہوئے تھے اسی طرح اُن کو گمراہ کیا تھا (اب) ہم تیری طرف (متوجہ ہوکر) اُن سے بیزار ہوتے ہیں یہ ہمیں نہیں پوجتے تھے"
+}

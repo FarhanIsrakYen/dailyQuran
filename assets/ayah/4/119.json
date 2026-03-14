@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 119,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/4_119.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/004119.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/4_119.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/004119.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/4_119.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/004119.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/4_119.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/004119.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/4_119.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/004119.mp3"
+        }
+    },
+    "english": "I will certainly mislead them and delude them with empty hopes. Also, I will order them and they will slit the ears of cattle and alter Allah’s creation.” And whoever takes Satan as a guardian instead of Allah has certainly suffered a tremendous loss.",
+    "arabic1": "وَلَأُضِلَّنَّهُمْ وَلَأُمَنِّيَنَّهُمْ وَلَـَٔامُرَنَّهُمْ فَلَيُبَتِّكُنَّ ءَاذَانَ ٱلْأَنْعَـٰمِ وَلَـَٔامُرَنَّهُمْ فَلَيُغَيِّرُنَّ خَلْقَ ٱللَّهِ ۚ وَمَن يَتَّخِذِ ٱلشَّيْطَـٰنَ وَلِيًّا مِّن دُونِ ٱللَّهِ فَقَدْ خَسِرَ خُسْرَانًا مُّبِينًا",
+    "arabic2": "ولاضلنهم ولامنينهم ولامرنهم فليبتكن اذان الانعام ولامرنهم فليغيرن خلق الله ومن يتخذ الشيطان وليا من دون الله فقد خسر خسرانا مبينا",
+    "bengali": "‘আর অবশ্যই আমি তাদেরকে পথভ্রষ্ট করব, মিথ্যা আশ্বাস দেব এবং অবশ্যই তাদেরকে আদেশ দেব, ফলে তারা পশুর কান ছিদ্র করবে এবং অবশ্যই তাদেরকে আদেশ করব, ফলে অবশ্যই তারা আল্লাহর সৃষ্টি বিকৃত করবে’। আর যারা আল্লাহর পরিবর্তে শয়তানকে অভিভাবকরূপে গ্রহণ করে, তারা তো স্পষ্টই ক্ষতিগ্রস্ত হল।",
+    "urdu": "اور ان کو گمراہ کرتا اور امیدیں دلاتا ہروں گا اور یہ سکھاتا رہوں گا کہ جانوروں کے کان چیرتے رہیں اور (یہ بھی) کہتا رہوں گا کہ وہ خدا کی بنائی ہوئی صورتوں کو بدلتے رہیں اور جس شخص نے خدا کو چھوڑ کر شیطان کو دوست بنایا اور وہ صریح نقصان میں پڑ گیا"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Kahf",
+    "surahNameArabic": "الكهف",
+    "surahNameArabicLong": "سورة الكهف",
+    "surahNameTranslation": "The Cave",
+    "revelationPlace": "Mecca",
+    "totalAyah": 110,
+    "surahNo": 18,
+    "ayahNo": 107,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/18_107.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/018107.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/18_107.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/018107.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/18_107.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/018107.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/18_107.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/018107.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/18_107.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/018107.mp3"
+        }
+    },
+    "english": "Indeed, those who believe and do good will have the Gardens of Paradise as an accommodation",
+    "arabic1": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ كَانَتْ لَهُمْ جَنَّـٰتُ ٱلْفِرْدَوْسِ نُزُلًا",
+    "arabic2": "ان الذين امنوا وعملوا الصالحات كانت لهم جنات الفردوس نزلا",
+    "bengali": "নিশ্চয় যারা ঈমান এনেছে এবং সৎকাজ করেছে, তাদের মেহমানদারির জন্য রয়েছে জান্নাতুল ফেরদাউস।",
+    "urdu": "جو لوگ ایمان لائے اور عمل نیک کئے ان کے لئے بہشت کے باغ مہمانی ہوں گے"
+}

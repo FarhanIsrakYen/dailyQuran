@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Anbiyaa",
+    "surahNameArabic": "الأنبياء",
+    "surahNameArabicLong": "سورة الأنبياء",
+    "surahNameTranslation": "The Prophets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 112,
+    "surahNo": 21,
+    "ayahNo": 24,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/21_24.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/021024.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/21_24.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/021024.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/21_24.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/021024.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/21_24.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/021024.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/21_24.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/021024.mp3"
+        }
+    },
+    "english": "Or have they taken other gods besides Him? Say, ˹O Prophet,˺ “Show ˹me˺ your proof. Here is ˹the Quran,˺ the Reminder for those with me; along with ˹earlier Scriptures,˺ the Reminder for those before me.” But most of them do not know the truth, so they turn away.",
+    "arabic1": "أَمِ ٱتَّخَذُوا۟ مِن دُونِهِۦٓ ءَالِهَةً ۖ قُلْ هَاتُوا۟ بُرْهَـٰنَكُمْ ۖ هَـٰذَا ذِكْرُ مَن مَّعِىَ وَذِكْرُ مَن قَبْلِى ۗ بَلْ أَكْثَرُهُمْ لَا يَعْلَمُونَ ٱلْحَقَّ ۖ فَهُم مُّعْرِضُونَ",
+    "arabic2": "ام اتخذوا من دونه الهة قل هاتوا برهانكم هذا ذكر من معي وذكر من قبلي بل اكثرهم لا يعلمون الحق فهم معرضون",
+    "bengali": "তারা কি তাঁকে ছাড়া অনেক ইলাহ গ্রহণ করেছে? বল, ‘তোমাদের প্রমাণ নিয়ে আস। আমার সাথে যারা আছে এটি তাদের জন্য উপদেশ এবং আমার পূর্বে যারা ছিল তাদের জন্যও এটাই ছিল উপদেশ।’ কিন্তু তাদের বেশীরভাগই প্রকৃত সত্যকে জানে না; তাই তারা মুখ ফিরিয়ে নেয়।",
+    "urdu": "کیا لوگوں نے خدا کو چھوڑ کر اور معبود بنالئے ہیں۔ کہہ دو کہ (اس بات پر) اپنی دلیل پیش کرو۔ یہ (میری اور) میرے ساتھ والوں کی کتاب بھی ہے اور جو مجھ سے پہلے (پیغمبر) ہوئے ہیں۔ ان کی کتابیں بھی ہیں۔ بلکہ (بات یہ ہے کہ) ان اکثر حق بات کو نہیں جانتے اور اس لئے اس سے منہ پھیر لیتے ہیں"
+}

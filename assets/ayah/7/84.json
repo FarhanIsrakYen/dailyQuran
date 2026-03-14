@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 84,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/7_84.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/007084.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/7_84.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/007084.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/7_84.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/007084.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/7_84.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/007084.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/7_84.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/007084.mp3"
+        }
+    },
+    "english": "We poured upon them a rain ˹of brimstone˺. See what was the end of the wicked!",
+    "arabic1": "وَأَمْطَرْنَا عَلَيْهِم مَّطَرًا ۖ فَٱنظُرْ كَيْفَ كَانَ عَـٰقِبَةُ ٱلْمُجْرِمِينَ",
+    "arabic2": "وامطرنا عليهم مطرا فانظر كيف كان عاقبة المجرمين",
+    "bengali": "আর আমি তাদের উপর বর্ষণ করেছিলাম বৃষ্টি। সুতরাং দেখ, অপরাধীদের পরিণতি কিরূপ ছিল।",
+    "urdu": "اور ہم نے ان پر (پتھروں کا) مینھ برسایا۔ سو دیکھ لو کہ گنہگاروں کا کیسا انجام ہوا"
+}

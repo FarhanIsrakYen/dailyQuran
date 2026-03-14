@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Noor",
+    "surahNameArabic": "النور",
+    "surahNameArabicLong": "سورة النور",
+    "surahNameTranslation": "The Light",
+    "revelationPlace": "Madina",
+    "totalAyah": 64,
+    "surahNo": 24,
+    "ayahNo": 48,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/24_48.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/024048.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/24_48.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/024048.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/24_48.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/024048.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/24_48.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/024048.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/24_48.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/024048.mp3"
+        }
+    },
+    "english": "And as soon as they are called to Allah and His Messenger so he may judge between them, a group of them turns away.",
+    "arabic1": "وَإِذَا دُعُوٓا۟ إِلَى ٱللَّهِ وَرَسُولِهِۦ لِيَحْكُمَ بَيْنَهُمْ إِذَا فَرِيقٌ مِّنْهُم مُّعْرِضُونَ",
+    "arabic2": "واذا دعوا الى الله ورسوله ليحكم بينهم اذا فريق منهم معرضون",
+    "bengali": "আর যখন তাদেরকে আল্লাহ ও তাঁর রাসূলের প্রতি এ মর্মে আহবান করা হয় যে, তিনি তাদের মধ্যে বিচারমীমাংসা করবেন, তখন তাদের একটি দল মুখ ফিরিয়ে নেয়।",
+    "urdu": "اور جب ان کو خدا اور اس کے رسول کی طرف بلایا جاتا ہے تاکہ (رسول خدا) ان کا قضیہ چکا دیں تو ان میں سے ایک فرقہ منہ پھیر لیتا ہے"
+}

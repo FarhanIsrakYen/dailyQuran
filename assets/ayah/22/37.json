@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Hajj",
+    "surahNameArabic": "الحج",
+    "surahNameArabicLong": "سورة الحج",
+    "surahNameTranslation": "The Pilgrimage",
+    "revelationPlace": "Madina",
+    "totalAyah": 78,
+    "surahNo": 22,
+    "ayahNo": 37,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/22_37.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/022037.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/22_37.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/022037.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/22_37.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/022037.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/22_37.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/022037.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/22_37.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/022037.mp3"
+        }
+    },
+    "english": "Neither their meat nor blood reaches Allah. Rather, it is your piety that reaches Him. This is how He has subjected them to you so that you may proclaim the greatness of Allah for what He has guided you to, and give good news to the good-doers.",
+    "arabic1": "لَن يَنَالَ ٱللَّهَ لُحُومُهَا وَلَا دِمَآؤُهَا وَلَـٰكِن يَنَالُهُ ٱلتَّقْوَىٰ مِنكُمْ ۚ كَذَٰلِكَ سَخَّرَهَا لَكُمْ لِتُكَبِّرُوا۟ ٱللَّهَ عَلَىٰ مَا هَدَىٰكُمْ ۗ وَبَشِّرِ ٱلْمُحْسِنِينَ",
+    "arabic2": "لن ينال الله لحومها ولا دماؤها ولكن يناله التقوى منكم كذلك سخرها لكم لتكبروا الله على ما هداكم وبشر المحسنين",
+    "bengali": "আল্লাহর কাছে পৌঁছে না এগুলোর গোশ্ত ও রক্ত; বরং তাঁর কাছে পৌঁছে তোমাদের তাকওয়া। এভাবেই তিনি সে সবকে তোমাদের অধীন করে দিয়েছেন, যাতে তোমরা আল্লাহর তাকবীর পাঠ করতে পার, এজন্য যে, তিনি তোমাদেরকে হিদায়াত দান করেছেন; সুতরাং তুমি সৎকর্মশীলদেরকে সুসংবাদ দাও।",
+    "urdu": "خدا تک نہ اُن کا گوشت پہنچتا ہے اور نہ خون۔ بلکہ اس تک تمہاری پرہیزگاری پہنچتی ہے۔ اسی طرح خدا نے ان کو تمہارا مسخر کر دیا ہے تاکہ اس بات کے بدلے کہ اس نے تم کو ہدایت بخشی ہے اسے بزرگی سے یاد کرو۔ اور (اے پیغمبر) نیکوکاروں کو خوشخبری سنا دو"
+}

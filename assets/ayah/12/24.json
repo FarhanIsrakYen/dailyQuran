@@ -1,0 +1,42 @@
+{
+    "surahName": "Yusuf",
+    "surahNameArabic": "يوسف",
+    "surahNameArabicLong": "سورة يوسف",
+    "surahNameTranslation": "Joseph",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 12,
+    "ayahNo": 24,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/12_24.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/012024.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/12_24.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/012024.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/12_24.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/012024.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/12_24.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/012024.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/12_24.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/012024.mp3"
+        }
+    },
+    "english": "She advanced towards him, and he would have done likewise, had he not seen a sign from his Lord. This is how We kept evil and indecency away from him, for he was truly one of Our chosen servants.",
+    "arabic1": "وَلَقَدْ هَمَّتْ بِهِۦ ۖ وَهَمَّ بِهَا لَوْلَآ أَن رَّءَا بُرْهَـٰنَ رَبِّهِۦ ۚ كَذَٰلِكَ لِنَصْرِفَ عَنْهُ ٱلسُّوٓءَ وَٱلْفَحْشَآءَ ۚ إِنَّهُۥ مِنْ عِبَادِنَا ٱلْمُخْلَصِينَ",
+    "arabic2": "ولقد همت به وهم بها لولا ان راى برهان ربه كذلك لنصرف عنه السوء والفحشاء انه من عبادنا المخلصين",
+    "bengali": "আর সে মহিলা তার প্রতি আসক্ত হল, আর সেও তার প্রতি আসক্ত হত, যদি না তার রবের স্পষ্ট প্রমাণ* প্রত্যক্ষ করত। এভাবেই, যাতে আমি তার থেকে অনিষ্ট ও অশ্লীলতা দূর করে দেই। নিশ্চয় সে আমার খালেস বান্দাদের অন্তর্ভুক্ত। \n* برهان অর্থ উজ্জ্বল প্রমাণ এখানে নিদর্শন অর্থে ব্যবহৃত হয়েছে। সে নিদর্শনটি কী ছিল এ সম্পর্কে বিভিন্ন মতামত পাওয়া যায় । তাফসীরে ইবনে কাছীরে এর বিশদ বর্ণনা এসেছে। কেউ কেউ বলেন, তিনি নিজ পিতা ইয়াকূবের মুখচ্ছবি এবং তাঁর পক্ষ থেকে সতর্ক ইঙ্গিত পেয়েছিলেন। আবার কেউ কেউ বলেছেন, আযীয মিসরের মুখচ্ছবি দেখেছিলেন। আর কারো কারো মতে সেই বুরহান হচ্ছে আল্লাহ প্রদত্ত বিবেকের নির্দেশ।",
+    "urdu": "اور اس عورت نے ان کا قصد کیا اور انہوں نے اس کا قصد کیا۔ اگر وہ اپنے پروردگار کی نشانی نہ دیکھتے (تو جو ہوتا ہوتا) یوں اس لیے (کیا گیا) کہ ہم ان سے برائی اور بےحیائی کو روک دیں۔ بےشک وہ ہمارے خالص بندوں میں سے تھے"
+}

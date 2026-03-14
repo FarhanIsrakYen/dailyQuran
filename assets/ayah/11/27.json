@@ -1,0 +1,42 @@
+{
+    "surahName": "Hud",
+    "surahNameArabic": "هود",
+    "surahNameArabicLong": "سورة هود",
+    "surahNameTranslation": "Hud",
+    "revelationPlace": "Mecca",
+    "totalAyah": 123,
+    "surahNo": 11,
+    "ayahNo": 27,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/11_27.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/011027.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/11_27.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/011027.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/11_27.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/011027.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/11_27.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/011027.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/11_27.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/011027.mp3"
+        }
+    },
+    "english": "The disbelieving chiefs of his people said, “We see you only as a human being like ourselves, and we see that no one follows you except the lowliest among us, who do so ˹hastily˺ without thinking. We do not see anything that makes ˹all of˺ you any better than us. In fact, we think you are liars.”",
+    "arabic1": "فَقَالَ ٱلْمَلَأُ ٱلَّذِينَ كَفَرُوا۟ مِن قَوْمِهِۦ مَا نَرَىٰكَ إِلَّا بَشَرًا مِّثْلَنَا وَمَا نَرَىٰكَ ٱتَّبَعَكَ إِلَّا ٱلَّذِينَ هُمْ أَرَاذِلُنَا بَادِىَ ٱلرَّأْىِ وَمَا نَرَىٰ لَكُمْ عَلَيْنَا مِن فَضْلٍۭ بَلْ نَظُنُّكُمْ كَـٰذِبِينَ",
+    "arabic2": "فقال الملا الذين كفروا من قومه ما نراك الا بشرا مثلنا وما نراك اتبعك الا الذين هم اراذلنا بادي الراي وما نرى لكم علينا من فضل بل نظنكم كاذبين",
+    "bengali": "অতঃপর তার কওমের নেতৃস্থানীয়রা, যারা কুফরী করেছিল, তারা বলল, ‘আমরা তো তোমাকে আমাদের মত একজন মানুষ ছাড়া আর কিছু দেখছি না এবং আমরা দেখছি যে, কেবল আমাদের নীচু শ্রেণীর লোকেরাই বিবেচনাহীনভাবে তোমার অনুসরণ করেছে। আর আমাদের উপর তোমাদের কোন শ্রেষ্ঠত্ব আমরা দেখছি না; বরং আমরা তোমাদেরকে মিথ্যাবাদী মনে করছি’।",
+    "urdu": "تو ان کی قوم کے سردار جو کافر تھے کہنے لگے کہ ہم تم کو اپنے ہی جیسا ایک آدمی دیکھتے ہیں اور یہ بھی دیکھتے ہیں کہ تمہارے پیرو وہی لوگ ہوئے ہیں جو ہم میں ادنیٰ درجے کے ہیں۔ اور وہ بھی رائے ظاہر سے (نہ غوروتعمق سے) اور ہم تم میں اپنے اوپر کسی طرح کی فضیلت نہیں دیکھتے بلکہ تمہیں جھوٹا خیال کرتے ہیں"
+}

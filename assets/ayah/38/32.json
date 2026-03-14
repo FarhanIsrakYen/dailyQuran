@@ -1,0 +1,42 @@
+{
+    "surahName": "Saad",
+    "surahNameArabic": "ص",
+    "surahNameArabicLong": "سورة ص",
+    "surahNameTranslation": "The letter Saad",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 38,
+    "ayahNo": 32,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/38_32.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/038032.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/38_32.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/038032.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/38_32.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/038032.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/38_32.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/038032.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/38_32.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/038032.mp3"
+        }
+    },
+    "english": "He then proclaimed, “I am truly in love with ˹these˺ fine things out of remembrance for Allah,” until they went out of sight.",
+    "arabic1": "فَقَالَ إِنِّىٓ أَحْبَبْتُ حُبَّ ٱلْخَيْرِ عَن ذِكْرِ رَبِّى حَتَّىٰ تَوَارَتْ بِٱلْحِجَابِ",
+    "arabic2": "فقال اني احببت حب الخير عن ذكر ربي حتى توارت بالحجاب",
+    "bengali": "তখন সে বলল, ‘আমি তো আমার রবের স্মরণ থেকে বিমুখ হয়ে ঐশ্বর্যের প্রেমে মগ্ন হয়ে পড়েছি, এদিকে সূর্য পর্দার আড়ালে চলে গেছে।* \n* অর্থাৎ সূর্য ডুবে গেছে।",
+    "urdu": "تو کہنے لگے کہ میں نے اپنے پروردگار کی یاد سے (غافل ہو کر) مال کی محبت اختیار کی۔ یہاں تک کہ (آفتاب) پردے میں چھپ گیا"
+}

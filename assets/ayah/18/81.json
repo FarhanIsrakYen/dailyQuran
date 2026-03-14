@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Kahf",
+    "surahNameArabic": "الكهف",
+    "surahNameArabicLong": "سورة الكهف",
+    "surahNameTranslation": "The Cave",
+    "revelationPlace": "Mecca",
+    "totalAyah": 110,
+    "surahNo": 18,
+    "ayahNo": 81,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/18_81.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/018081.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/18_81.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/018081.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/18_81.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/018081.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/18_81.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/018081.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/18_81.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/018081.mp3"
+        }
+    },
+    "english": "So we hoped that their Lord would give them another, more virtuous and caring in his place.",
+    "arabic1": "فَأَرَدْنَآ أَن يُبْدِلَهُمَا رَبُّهُمَا خَيْرًا مِّنْهُ زَكَوٰةً وَأَقْرَبَ رُحْمًا",
+    "arabic2": "فاردنا ان يبدلهما ربهما خيرا منه زكاة واقرب رحما",
+    "bengali": "‘তাই আমি চাইলাম, তাদের রব তাদেরকে তার পরিবর্তে এমন সন্তান দান করবেন, যে হবে তার চেয়ে পবিত্রতায় উত্তম এবং দয়ামায়ায় অধিক ঘনিষ্ঠ।",
+    "urdu": "تو ہم نے چاہا کہ ان کا پروردگار اس کی جگہ ان کو اور (بچّہ) عطا فرمائے جو پاک طینتی میں اور محبت میں اس سے بہتر ہو"
+}

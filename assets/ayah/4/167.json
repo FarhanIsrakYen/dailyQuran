@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 167,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/4_167.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/004167.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/4_167.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/004167.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/4_167.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/004167.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/4_167.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/004167.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/4_167.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/004167.mp3"
+        }
+    },
+    "english": "Those who disbelieve and hinder ˹others˺ from the Way of Allah have certainly strayed far away.",
+    "arabic1": "إِنَّ ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ قَدْ ضَلُّوا۟ ضَلَـٰلًۢا بَعِيدًا",
+    "arabic2": "ان الذين كفروا وصدوا عن سبيل الله قد ضلوا ضلالا بعيدا",
+    "bengali": "নিশ্চয় যারা কুফরী করেছে এবং আল্লাহর পথ থেকে বাধা দিয়েছে,তারা অবশ্যই চূড়ান্তভাবে পথভ্রষ্ট হয়েছে।",
+    "urdu": "جن لوگوں نے کفر کیا اور (لوگوں کو) خدا کے رستے سے روکا وہ رستے سے بھٹک کر دور جا پڑے"
+}

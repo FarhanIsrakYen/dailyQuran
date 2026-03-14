@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Hadid",
+    "surahNameArabic": "الحديد",
+    "surahNameArabicLong": "سورة الحديد",
+    "surahNameTranslation": "The Iron",
+    "revelationPlace": "Madina",
+    "totalAyah": 29,
+    "surahNo": 57,
+    "ayahNo": 22,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/57_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/057022.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/57_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/057022.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/57_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/057022.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/57_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/057022.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/57_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/057022.mp3"
+        }
+    },
+    "english": "No calamity ˹or blessing˺ occurs on earth or in yourselves without being ˹written˺ in a Record before We bring it into being. This is certainly easy for Allah.",
+    "arabic1": "مَآ أَصَابَ مِن مُّصِيبَةٍ فِى ٱلْأَرْضِ وَلَا فِىٓ أَنفُسِكُمْ إِلَّا فِى كِتَـٰبٍ مِّن قَبْلِ أَن نَّبْرَأَهَآ ۚ إِنَّ ذَٰلِكَ عَلَى ٱللَّهِ يَسِيرٌ",
+    "arabic2": "ما اصاب من مصيبة في الارض ولا في انفسكم الا في كتاب من قبل ان نبراها ان ذلك على الله يسير",
+    "bengali": "যমীনে এবং তোমাদের নিজদের মধ্যে এমন কোন মুসীবত আপতিত হয় না, যা আমি সংঘটিত করার পূর্বে কিতাবে লিপিবদ্ধ রাখি না। নিশ্চয় এটা আল্লাহর পক্ষে খুবই সহজ।",
+    "urdu": "کوئی مصیبت ملک پر اور خود تم پر نہیں پڑتی مگر پیشتر اس کے کہ ہم اس کو پیدا کریں ایک کتاب میں (لکھی ہوئی) ہے۔ (اور) یہ (کام) خدا کو آسان ہے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 130,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/4_130.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/004130.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/4_130.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/004130.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/4_130.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/004130.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/4_130.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/004130.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/4_130.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/004130.mp3"
+        }
+    },
+    "english": "But if they choose to separate, Allah will enrich both of them from His bounties. And Allah is Ever-Bountiful, All-Wise.",
+    "arabic1": "وَإِن يَتَفَرَّقَا يُغْنِ ٱللَّهُ كُلًّا مِّن سَعَتِهِۦ ۚ وَكَانَ ٱللَّهُ وَٰسِعًا حَكِيمًا",
+    "arabic2": "وان يتفرقا يغن الله كلا من سعته وكان الله واسعا حكيما",
+    "bengali": "আর যদি তারা উভয়ে বিচ্ছিন্ন হয়ে যায় তবে আল্লাহ প্রত্যেককে নিজ প্রাচুর্য দ্বারা অভাবমুক্ত করবেন। আর আল্লাহ প্রাচুর্যময়, প্রজ্ঞাবান।",
+    "urdu": "اور اگر میاں بیوی (میں موافقت نہ ہوسکے اور) ایک دوسرے سے جدا ہوجائیں تو خدا ہر ایک کو اپنی دولت سے غنی کردے گا اور خدا بڑی کشائش والا اور حکمت والا ہے"
+}

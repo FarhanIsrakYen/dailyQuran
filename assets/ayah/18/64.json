@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Kahf",
+    "surahNameArabic": "الكهف",
+    "surahNameArabicLong": "سورة الكهف",
+    "surahNameTranslation": "The Cave",
+    "revelationPlace": "Mecca",
+    "totalAyah": 110,
+    "surahNo": 18,
+    "ayahNo": 64,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/18_64.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/018064.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/18_64.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/018064.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/18_64.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/018064.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/18_64.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/018064.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/18_64.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/018064.mp3"
+        }
+    },
+    "english": "Moses responded, “That is ˹exactly˺ what we were looking for.” So they returned, retracing their footsteps.",
+    "arabic1": "قَالَ ذَٰلِكَ مَا كُنَّا نَبْغِ ۚ فَٱرْتَدَّا عَلَىٰٓ ءَاثَارِهِمَا قَصَصًا",
+    "arabic2": "قال ذلك ما كنا نبغ فارتدا على اثارهما قصصا",
+    "bengali": "সে বলল, ‘ঐ স্থানটিই আমরা খুঁজছি। তাই তারা তাদের পদচি‎হ্ন অনুসরণ করে পেছনে ফিরে গেল’।",
+    "urdu": "(موسیٰ نے) کہا یہی تو (وہ مقام) ہے جسے ہم تلاش کرتے تھے تو وہ اپنے پاؤں کے نشان دیکھتے دیکھتے لوٹ گئے"
+}

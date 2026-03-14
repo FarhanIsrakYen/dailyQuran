@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Hajj",
+    "surahNameArabic": "الحج",
+    "surahNameArabicLong": "سورة الحج",
+    "surahNameTranslation": "The Pilgrimage",
+    "revelationPlace": "Madina",
+    "totalAyah": 78,
+    "surahNo": 22,
+    "ayahNo": 72,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/22_72.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/022072.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/22_72.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/022072.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/22_72.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/022072.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/22_72.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/022072.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/22_72.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/022072.mp3"
+        }
+    },
+    "english": "Whenever Our clear revelations are recited to them, you ˹O Prophet˺ recognize rage on the faces of the disbelievers, as if they are going to snap at those who recite Our revelations to them. Say, “Shall I inform you of something far more enraging than that? ˹It is˺ the Fire with which Allah has threatened those who disbelieve. What an evil destination!”",
+    "arabic1": "وَإِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَـٰتُنَا بَيِّنَـٰتٍ تَعْرِفُ فِى وُجُوهِ ٱلَّذِينَ كَفَرُوا۟ ٱلْمُنكَرَ ۖ يَكَادُونَ يَسْطُونَ بِٱلَّذِينَ يَتْلُونَ عَلَيْهِمْ ءَايَـٰتِنَا ۗ قُلْ أَفَأُنَبِّئُكُم بِشَرٍّ مِّن ذَٰلِكُمُ ۗ ٱلنَّارُ وَعَدَهَا ٱللَّهُ ٱلَّذِينَ كَفَرُوا۟ ۖ وَبِئْسَ ٱلْمَصِيرُ",
+    "arabic2": "واذا تتلى عليهم اياتنا بينات تعرف في وجوه الذين كفروا المنكر يكادون يسطون بالذين يتلون عليهم اياتنا قل افانبئكم بشر من ذلكم النار وعدها الله الذين كفروا وبئس المصير",
+    "bengali": "আর তাদের কাছে আমার আয়াতসমূহ সুস্পষ্টরূপে তিলাওয়াত করা হলে যারা কুফরী করে তাদের মুখমন্ডলে তুমি অসন্তোষ লক্ষ্য করবে; তাদের কাছে যারা আমার আয়াতসমূহ তিলাওয়াত করে, তাদেরকে তারা আক্রমণ করতে উদ্যত হয়। বল, তাহলে কি আমি তোমাদেরকে এর চেয়েও খারাপ কিছুর সংবাদ দেব? সেটা আগুন। যারা কুফরী করে, আল্লাহ তাদেরকে এর ওয়াদা দিয়েছেন। আর এটা কত নিকৃষ্ট ঠিকানা!",
+    "urdu": "اور جب ان کو ہماری آیتیں پڑھ کر سنائی جاتی تو (ان کی شکل بگڑ جاتی ہے اور) تم ان کے چہروں میں صاف طور پر ناخوشی (کے آثار) دیکھتے ہو۔ قریب ہوتے ہیں کہ جو لوگ ان کو ہماری آیتیں پڑھ کر سناتے ہیں ان پر حملہ کردیں۔ کہہ دو کہ میں تم کو اس سے بھی بری چیز بتاؤں؟ وہ دوزخ کی آگ ہے۔ جس کا خدا نے کافروں سے وعدہ کیا ہے۔ اور وہ برا ٹھکانا ہے"
+}

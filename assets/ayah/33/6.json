@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Ahzaab",
+    "surahNameArabic": "الأحزاب",
+    "surahNameArabicLong": "سورة الأحزاب",
+    "surahNameTranslation": "The Clans",
+    "revelationPlace": "Madina",
+    "totalAyah": 73,
+    "surahNo": 33,
+    "ayahNo": 6,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/33_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/033006.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/33_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/033006.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/33_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/033006.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/33_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/033006.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/33_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/033006.mp3"
+        }
+    },
+    "english": "The Prophet has a stronger affinity to the believers than they do themselves. And his wives are their mothers. As ordained by Allah, blood relatives are more entitled ˹to inheritance˺ than ˹other˺ believers and immigrants, unless you ˹want to˺ show kindness to your ˹close˺ associates ˹through bequest˺. This is decreed in the Record.",
+    "arabic1": "ٱلنَّبِىُّ أَوْلَىٰ بِٱلْمُؤْمِنِينَ مِنْ أَنفُسِهِمْ ۖ وَأَزْوَٰجُهُۥٓ أُمَّهَـٰتُهُمْ ۗ وَأُو۟لُوا۟ ٱلْأَرْحَامِ بَعْضُهُمْ أَوْلَىٰ بِبَعْضٍ فِى كِتَـٰبِ ٱللَّهِ مِنَ ٱلْمُؤْمِنِينَ وَٱلْمُهَـٰجِرِينَ إِلَّآ أَن تَفْعَلُوٓا۟ إِلَىٰٓ أَوْلِيَآئِكُم مَّعْرُوفًا ۚ كَانَ ذَٰلِكَ فِى ٱلْكِتَـٰبِ مَسْطُورًا",
+    "arabic2": "النبي اولى بالمؤمنين من انفسهم وازواجه امهاتهم واولو الارحام بعضهم اولى ببعض في كتاب الله من المؤمنين والمهاجرين الا ان تفعلوا الى اوليائكم معروفا كان ذلك في الكتاب مسطورا",
+    "bengali": "নবী মুমিনদের কাছে তাদের নিজদের চেয়ে ঘনিষ্ঠতর। আর তার স্ত্রীগণ তাদের মাতাস্বরূপ। আর আল্লাহর বিধান অনুসারে মুমিন ও মুহাজিরদের তুলনায় আত্নীয় স্বজনরা একে অপরের নিকটতর। তবে তোমরা যদি বন্ধু-বান্ধবদের সাথে ভাল কিছু করতে চাও (তা করতে পার)। এটা কিতাবে লিপিবদ্ধ আছে।",
+    "urdu": "پیغمبر مومنوں پر اُن کی جانوں سے بھی زیادہ حق رکھتے ہیں اور پیغمبر کی بیویاں اُن کی مائیں ہیں۔ اور رشتہ دار آپس میں کتاب الله کے رُو سے مسلمانوں اور مہاجروں سے ایک دوسرے (کے ترکے) کے زیادہ حقدار ہیں۔ مگر یہ کہ تم اپنے دوستوں سے احسان کرنا چاہو۔ (تو اور بات ہے)۔ یہ حکم کتاب یعنی (قرآن) میں لکھ دیا گیا ہے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Qasas",
+    "surahNameArabic": "القصص",
+    "surahNameArabicLong": "سورة القصص",
+    "surahNameTranslation": "The Stories",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 28,
+    "ayahNo": 10,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/28_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/028010.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/28_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/028010.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/28_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/028010.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/28_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/028010.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/28_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/028010.mp3"
+        }
+    },
+    "english": "And the heart of Moses’ mother ached so much that she almost gave away his identity, had We not reassured her heart in order for her to have faith ˹in Allah’s promise˺.",
+    "arabic1": "وَأَصْبَحَ فُؤَادُ أُمِّ مُوسَىٰ فَـٰرِغًا ۖ إِن كَادَتْ لَتُبْدِى بِهِۦ لَوْلَآ أَن رَّبَطْنَا عَلَىٰ قَلْبِهَا لِتَكُونَ مِنَ ٱلْمُؤْمِنِينَ",
+    "arabic2": "واصبح فؤاد ام موسى فارغا ان كادت لتبدي به لولا ان ربطنا على قلبها لتكون من المؤمنين",
+    "bengali": "আর মূসার মায়ের অন্তর বিচলিত হয়ে উঠেছিল। সে তো তার পরিচয় প্রকাশ করেই দিত, যদি আমি তার অন্তরকে দৃঢ় করে না দিতাম, যাতে সে আস্থাশীলদের অন্তর্ভুক্ত হয়।",
+    "urdu": "اور موسٰی کی ماں کا دل بے صبر ہو گیا اگر ہم اُن کے دل مضبوط نہ کر دیتے تو قریب تھا کہ وہ اس (قصّے) کو ظاہر کر دیں۔ غرض یہ تھی کہ وہ مومنوں میں رہیں"
+}

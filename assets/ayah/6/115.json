@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 115,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/6_115.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/006115.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/6_115.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/006115.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/6_115.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/006115.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/6_115.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/006115.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/6_115.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/006115.mp3"
+        }
+    },
+    "english": "The Word of your Lord has been perfected in truth and justice. None can change His Words. And He is the All-Hearing, All- Knowing.",
+    "arabic1": "وَتَمَّتْ كَلِمَتُ رَبِّكَ صِدْقًا وَعَدْلًا ۚ لَّا مُبَدِّلَ لِكَلِمَـٰتِهِۦ ۚ وَهُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+    "arabic2": "وتمت كلمت ربك صدقا وعدلا لا مبدل لكلماته وهو السميع العليم",
+    "bengali": "আর তোমার রবের বাণী সত্য ও ন্যায়পরায়ণতার দিক থেকে পরিপূর্ণ হয়েছে। তাঁর বাণীসমূহের কোন পরিবর্তনকারী নেই। আর তিনিই সর্বশ্রোতা ও সর্বজ্ঞানী।",
+    "urdu": "اور تمہارے پروردگار کی باتیں سچائی اور انصاف میں پوری ہیں اس کی باتوں کو کوئی بدلنے والا نہیں اور وہ سنتا جانتا ہے"
+}

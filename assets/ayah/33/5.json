@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Ahzaab",
+    "surahNameArabic": "الأحزاب",
+    "surahNameArabicLong": "سورة الأحزاب",
+    "surahNameTranslation": "The Clans",
+    "revelationPlace": "Madina",
+    "totalAyah": 73,
+    "surahNo": 33,
+    "ayahNo": 5,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/33_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/033005.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/33_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/033005.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/33_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/033005.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/33_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/033005.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/33_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/033005.mp3"
+        }
+    },
+    "english": "Let your adopted children keep their family names. That is more just in the sight of Allah. But if you do not know their fathers, then they are ˹simply˺ your fellow believers and close associates. There is no blame on you for what you do by mistake, but ˹only˺ for what you do intentionally. And Allah is All-Forgiving, Most Merciful.",
+    "arabic1": "ٱدْعُوهُمْ لِـَٔابَآئِهِمْ هُوَ أَقْسَطُ عِندَ ٱللَّهِ ۚ فَإِن لَّمْ تَعْلَمُوٓا۟ ءَابَآءَهُمْ فَإِخْوَٰنُكُمْ فِى ٱلدِّينِ وَمَوَٰلِيكُمْ ۚ وَلَيْسَ عَلَيْكُمْ جُنَاحٌ فِيمَآ أَخْطَأْتُم بِهِۦ وَلَـٰكِن مَّا تَعَمَّدَتْ قُلُوبُكُمْ ۚ وَكَانَ ٱللَّهُ غَفُورًا رَّحِيمًا",
+    "arabic2": "ادعوهم لابائهم هو اقسط عند الله فان لم تعلموا اباءهم فاخوانكم في الدين ومواليكم وليس عليكم جناح فيما اخطاتم به ولكن ما تعمدت قلوبكم وكان الله غفورا رحيما",
+    "bengali": "তোমরা তাদেরকে তাদের পিতৃ-পরিচয়ে ডাক; আল্লাহর কাছে এটাই অধিক ইনসাফপূর্ণ। অতঃপর যদি তোমরা তাদের পিতৃ-পরিচয় না জান, তাহলে তারা তোমাদের দীনি ভাই এবং তোমাদের বন্ধু। আর এ বিষয়ে তোমরা কোন ভুল করলে তোমাদের কোন পাপ নেই; কিন্তু তোমাদের অন্তরে সংকল্প থাকলে (পাপ হবে)। আর আল্লাহ অধিক ক্ষমাশীল, পরম দয়ালু।",
+    "urdu": "مومنو! لےپالکوں کو اُن کے (اصلی) باپوں کے نام سے پکارا کرو۔ کہ خدا کے نزدیک یہی بات درست ہے۔ اگر تم کو اُن کے باپوں کے نام معلوم نہ ہوں تو دین میں وہ تمہارے بھائی اور دوست ہیں اور جو بات تم سے غلطی سے ہوگئی ہو اس میں تم پر کچھ گناہ نہیں۔ لیکن جو قصد دلی سے کرو (اس پر مواخذہ ہے) اور خدا بخشنے والا مہربان ہے"
+}

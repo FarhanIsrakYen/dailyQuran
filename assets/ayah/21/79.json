@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Anbiyaa",
+    "surahNameArabic": "الأنبياء",
+    "surahNameArabicLong": "سورة الأنبياء",
+    "surahNameTranslation": "The Prophets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 112,
+    "surahNo": 21,
+    "ayahNo": 79,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/21_79.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/021079.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/21_79.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/021079.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/21_79.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/021079.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/21_79.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/021079.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/21_79.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/021079.mp3"
+        }
+    },
+    "english": "We guided ˹young˺ Solomon to a fairer settlement, and granted each of them wisdom and knowledge. We subjected the mountains as well as the birds to hymn ˹Our praises˺ along with David. It is We Who did ˹it all˺.",
+    "arabic1": "فَفَهَّمْنَـٰهَا سُلَيْمَـٰنَ ۚ وَكُلًّا ءَاتَيْنَا حُكْمًا وَعِلْمًا ۚ وَسَخَّرْنَا مَعَ دَاوُۥدَ ٱلْجِبَالَ يُسَبِّحْنَ وَٱلطَّيْرَ ۚ وَكُنَّا فَـٰعِلِينَ",
+    "arabic2": "ففهمناها سليمان وكلا اتينا حكما وعلما وسخرنا مع داوود الجبال يسبحن والطير وكنا فاعلين",
+    "bengali": "অতঃপর আমি এ বিষয়ের ফয়সালা সুলায়মানকে বুঝিয়ে দিয়েছিলাম। আর আমি তাদের প্রত্যেককেই দিয়েছিলাম প্রজ্ঞা ও জ্ঞান। আর আমি পর্বতমালা ও পাখীদেরকে দাঊদের অধীন করে দিয়েছিলাম, তারা দাঊদের সাথে আমার তাসবীহ পাঠ করত। আর এসবকিছু আমিই করছিলাম।",
+    "urdu": "تو ہم نے فیصلہ (کرنے کا طریق) سلیمان کو سمجھا دیا۔ اور ہم نے دونوں کو حکم (یعنی حکمت ونبوت) اور علم بخشا تھا۔ اور ہم نے پہاڑوں کو داؤد کا مسخر کردیا تھا کہ ان کے ساتھ تسبیح کرتے تھے اور جانوروں کو بھی (مسخر کردیا تھا اور ہم ہی ایسا) کرنے والے تھے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nahl",
+    "surahNameArabic": "النحل",
+    "surahNameArabicLong": "سورة النحل",
+    "surahNameTranslation": "The Bee",
+    "revelationPlace": "Mecca",
+    "totalAyah": 128,
+    "surahNo": 16,
+    "ayahNo": 63,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/16_63.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/016063.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/16_63.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/016063.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/16_63.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/016063.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/16_63.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/016063.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/16_63.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/016063.mp3"
+        }
+    },
+    "english": "By Allah! We have surely sent messengers to communities before you ˹O Prophet˺, but Satan made their misdeeds appealing to them. So he is their patron today, and they will suffer a painful punishment.",
+    "arabic1": "تَٱللَّهِ لَقَدْ أَرْسَلْنَآ إِلَىٰٓ أُمَمٍ مِّن قَبْلِكَ فَزَيَّنَ لَهُمُ ٱلشَّيْطَـٰنُ أَعْمَـٰلَهُمْ فَهُوَ وَلِيُّهُمُ ٱلْيَوْمَ وَلَهُمْ عَذَابٌ أَلِيمٌ",
+    "arabic2": "تالله لقد ارسلنا الى امم من قبلك فزين لهم الشيطان اعمالهم فهو وليهم اليوم ولهم عذاب اليم",
+    "bengali": "আল্লাহর শপথ, আমি তোমার পূর্বে বহু জাতির নিকট রাসূল প্রেরণ করেছি। অতঃপর শয়তান তাদের জন্য তাদের কর্মকে শোভিত করেছে। তাই আজ সে তাদের অভিভাবক। আর তাদের জন্য রয়েছে যন্ত্রনাদায়ক আযাব।",
+    "urdu": "خدا کی قسم ہم نے تم سے پہلی امتوں کی طرف بھی پیغمبر بھیجے تو شیطان نے ان کے کردار (ناشائستہ) ان کو آراستہ کر دکھائے تو آج بھی وہی ان کا دوست ہے اور ان کے لیے عذاب الیم ہے"
+}

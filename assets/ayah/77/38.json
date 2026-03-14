@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Mursalaat",
+    "surahNameArabic": "المرسلات",
+    "surahNameArabicLong": "سورة المرسلات",
+    "surahNameTranslation": "The Emissaries",
+    "revelationPlace": "Mecca",
+    "totalAyah": 50,
+    "surahNo": 77,
+    "ayahNo": 38,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/77_38.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/077038.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/77_38.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/077038.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/77_38.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/077038.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/77_38.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/077038.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/77_38.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/077038.mp3"
+        }
+    },
+    "english": "˹They will be told by Allah,˺ “This is the Day of ˹Final˺ Decision: We have gathered you along with earlier disbelievers ˹for punishment˺.",
+    "arabic1": "هَـٰذَا يَوْمُ ٱلْفَصْلِ ۖ جَمَعْنَـٰكُمْ وَٱلْأَوَّلِينَ",
+    "arabic2": "هذا يوم الفصل جمعناكم والاولين",
+    "bengali": "এটি ফয়সালার দিন; তোমাদেরকে ও পূর্ববর্তীদেরকে আমি একত্র করেছি।",
+    "urdu": "یہی فیصلے کا دن ہے (جس میں) ہم نے تم کو اور پہلے لوگوں کو جمع کیا ہے"
+}

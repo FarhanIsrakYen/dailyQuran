@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Hadid",
+    "surahNameArabic": "الحديد",
+    "surahNameArabicLong": "سورة الحديد",
+    "surahNameTranslation": "The Iron",
+    "revelationPlace": "Madina",
+    "totalAyah": 29,
+    "surahNo": 57,
+    "ayahNo": 6,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/57_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/057006.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/57_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/057006.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/57_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/057006.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/57_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/057006.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/57_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/057006.mp3"
+        }
+    },
+    "english": "He merges the night into day and the day into night. And He knows best what is ˹hidden˺ in the heart.",
+    "arabic1": "يُولِجُ ٱلَّيْلَ فِى ٱلنَّهَارِ وَيُولِجُ ٱلنَّهَارَ فِى ٱلَّيْلِ ۚ وَهُوَ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ",
+    "arabic2": "يولج الليل في النهار ويولج النهار في الليل وهو عليم بذات الصدور",
+    "bengali": "তিনি রাতকে দিনের মধ্যে প্রবেশ করান এবং দিনকে রাতের মধ্যে প্রবেশ করান। আর তিনি অন্তরসমূহের বিষয়াদি সম্পর্কে সম্যক অবগত।",
+    "urdu": "رات کو دن میں داخل کرتا اور دن کو رات میں داخل کرتا ہے۔ اور وہ دلوں کے بھیدوں تک سے واقف ہے"
+}

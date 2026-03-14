@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 127,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/7_127.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/007127.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/7_127.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/007127.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/7_127.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/007127.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/7_127.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/007127.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/7_127.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/007127.mp3"
+        }
+    },
+    "english": "The chiefs of Pharaoh’s people protested, “Are you going to leave Moses and his people free to spread corruption in the land and abandon you and your gods?” He responded, “We will kill their sons and keep their women. We will completely dominate them.”",
+    "arabic1": "وَقَالَ ٱلْمَلَأُ مِن قَوْمِ فِرْعَوْنَ أَتَذَرُ مُوسَىٰ وَقَوْمَهُۥ لِيُفْسِدُوا۟ فِى ٱلْأَرْضِ وَيَذَرَكَ وَءَالِهَتَكَ ۚ قَالَ سَنُقَتِّلُ أَبْنَآءَهُمْ وَنَسْتَحْىِۦ نِسَآءَهُمْ وَإِنَّا فَوْقَهُمْ قَـٰهِرُونَ",
+    "arabic2": "وقال الملا من قوم فرعون اتذر موسى وقومه ليفسدوا في الارض ويذرك والهتك قال سنقتل ابناءهم ونستحيي نساءهم وانا فوقهم قاهرون",
+    "bengali": "আর ফির‘আউনের কওমের সভাসদগণ বলল, ‘আপনি কি মূসা ও তার কওমকে ছেড়ে দেবেন যাতে তারা যমীনে ফাসাদ করে এবং আপনাকে ও আপনার উপাস্যগুলোকে বর্জন করে?’ সে বলল, ‘আমরা অতিসত্বর তাদের ছেলেদেরকে হত্যা করব আর মেয়েদেরকে জীবিত রাখব। আর নিশ্চয় আমরা তাদের উপর ক্ষমতাবান।’",
+    "urdu": "اور قومِ فرعون میں جو سردار تھے کہنے لگے کہ کیا آپ موسیٰ اور اس کی قوم کو چھوڑ دیجیے گا کہ ملک میں خرابی کریں اور آپ سے اور آپ کے معبودوں سے دست کش ہوجائیں۔ وہ بولے کہ ہم ان کے لڑکوں کو قتل کرڈالیں گے اور لڑکیوں کو زندہ رہنے دیں گے اور بےشک ہم ان پر غالب ہیں"
+}

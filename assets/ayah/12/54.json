@@ -1,0 +1,42 @@
+{
+    "surahName": "Yusuf",
+    "surahNameArabic": "يوسف",
+    "surahNameArabicLong": "سورة يوسف",
+    "surahNameTranslation": "Joseph",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 12,
+    "ayahNo": 54,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/12_54.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/012054.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/12_54.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/012054.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/12_54.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/012054.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/12_54.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/012054.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/12_54.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/012054.mp3"
+        }
+    },
+    "english": "The King said, “Bring him to me. I will employ him exclusively in my service.” And when Joseph spoke to him, the King said, “Today you are highly esteemed and fully trusted by us.”",
+    "arabic1": "وَقَالَ ٱلْمَلِكُ ٱئْتُونِى بِهِۦٓ أَسْتَخْلِصْهُ لِنَفْسِى ۖ فَلَمَّا كَلَّمَهُۥ قَالَ إِنَّكَ ٱلْيَوْمَ لَدَيْنَا مَكِينٌ أَمِينٌ",
+    "arabic2": "وقال الملك ائتوني به استخلصه لنفسي فلما كلمه قال انك اليوم لدينا مكين امين",
+    "bengali": "আর বাদশাহ বলল, ‘তোমরা তাকে আমার নিকট নিয়ে আস, আমি তাকে নিজের জন্য আপন করে নেব’। অতঃপর যখন সে তার সাথে কথা বলল, তখন বলল, ‘নিশ্চয় আজ তুমি আমাদের নিকট মর্যাদাবান ও আস্থাভাজন’।",
+    "urdu": "بادشاہ نے حکم دیا کہ اسے میرے پاس لاؤ میں اسے اپنا مصاحب خاص بناؤں گا۔ پھر جب ان سے گفتگو کی تو کہا کہ آج سے تم ہمارے ہاں صاحب منزلت اور صاحبِ اعتبار ہو"
+}

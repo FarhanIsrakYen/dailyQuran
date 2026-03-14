@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 90,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/9_90.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/009090.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/9_90.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/009090.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/9_90.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/009090.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/9_90.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/009090.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/9_90.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/009090.mp3"
+        }
+    },
+    "english": "Some nomadic Arabs ˹also˺ came with excuses, seeking exemption. And those who were untrue to Allah and His Messenger remained behind ˹with no excuse˺. The unfaithful among them will be afflicted with a painful punishment.",
+    "arabic1": "وَجَآءَ ٱلْمُعَذِّرُونَ مِنَ ٱلْأَعْرَابِ لِيُؤْذَنَ لَهُمْ وَقَعَدَ ٱلَّذِينَ كَذَبُوا۟ ٱللَّهَ وَرَسُولَهُۥ ۚ سَيُصِيبُ ٱلَّذِينَ كَفَرُوا۟ مِنْهُمْ عَذَابٌ أَلِيمٌ",
+    "arabic2": "وجاء المعذرون من الاعراب ليؤذن لهم وقعد الذين كذبوا الله ورسوله سيصيب الذين كفروا منهم عذاب اليم",
+    "bengali": "আর গ্রামবাসীদের থেকে ওযর পেশকারীরা আসল, যেন তাদের অনুমতি দেয়া হয় এবং (জিহাদ না করে) বসে থাকল তারা, যারা আল্লাহ ও তাঁর রাসূলের সাথে মিথ্যা বলেছিল। তাদের মধ্য থেকে যারা কুফরী করেছে, তাদেরকে অচিরেই যন্ত্রণাদায়ক আযাব আক্রান্ত করবে।",
+    "urdu": "اور صحرا نشینوں میں سے بھی کچھ لوگ عذر کرتے ہوئے (تمہارے پاس) آئے کہ ان کو بھی اجازت دی جائے اور جنہوں نے خدا اور اس کے رسول سے جھوٹ بولا وہ (گھر میں) بیٹھ رہے سو جو لوگ ان میں سے کافر ہوئے ہیں ان کو دکھ دینے والا عذاب پہنچے گا"
+}

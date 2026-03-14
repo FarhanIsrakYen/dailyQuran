@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Jaathiya",
+    "surahNameArabic": "الجاثية",
+    "surahNameArabicLong": "سورة الجاثية",
+    "surahNameTranslation": "Crouching",
+    "revelationPlace": "Mecca",
+    "totalAyah": 37,
+    "surahNo": 45,
+    "ayahNo": 5,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/45_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/045005.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/45_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/045005.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/45_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/045005.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/45_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/045005.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/45_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/045005.mp3"
+        }
+    },
+    "english": "And ˹in˺ the alternation of the day and the night, the provision sent down from the skies by Allah—reviving the earth after its death—and the shifting of the winds, are signs for people of understanding.",
+    "arabic1": "وَٱخْتِلَـٰفِ ٱلَّيْلِ وَٱلنَّهَارِ وَمَآ أَنزَلَ ٱللَّهُ مِنَ ٱلسَّمَآءِ مِن رِّزْقٍ فَأَحْيَا بِهِ ٱلْأَرْضَ بَعْدَ مَوْتِهَا وَتَصْرِيفِ ٱلرِّيَـٰحِ ءَايَـٰتٌ لِّقَوْمٍ يَعْقِلُونَ",
+    "arabic2": "واختلاف الليل والنهار وما انزل الله من السماء من رزق فاحيا به الارض بعد موتها وتصريف الرياح ايات لقوم يعقلون",
+    "bengali": "আর রাত ও দিনের পরিবর্তনে, আল্লাহ আসমান থেকে যে পানি বর্ষণ করেন তারপর তা দ্বারা যমীনকে তার মৃত্যুর পর পুনর্জীবিত করেন তাতে এবং বাতাসের পরিবর্তনে সে কওমের জন্য নিদর্শনাবলী রয়েছে যারা বোঝে।",
+    "urdu": "اور رات اور دن کے آگے پیچھے آنے جانے میں اور وہ جو خدا نے آسمان سے (ذریعہٴ) رزق نازل فرمایا پھر اس سے زمین کو اس کے مرجانے کے بعد زندہ کیا اس میں اور ہواؤں کے بدلنے میں عقل والوں کے لئے نشانیاں ہیں"
+}

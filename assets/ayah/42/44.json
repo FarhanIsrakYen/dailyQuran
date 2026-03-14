@@ -1,0 +1,42 @@
+{
+    "surahName": "Ash-Shura",
+    "surahNameArabic": "الشورى",
+    "surahNameArabicLong": "سورة الشورى",
+    "surahNameTranslation": "Consultation",
+    "revelationPlace": "Mecca",
+    "totalAyah": 53,
+    "surahNo": 42,
+    "ayahNo": 44,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/42_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/042044.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/42_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/042044.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/42_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/042044.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/42_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/042044.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/42_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/042044.mp3"
+        }
+    },
+    "english": "And whoever Allah leaves to stray will have no guide after Him. You will see the wrongdoers, when they face the torment, pleading, “Is there any way back ˹to the world˺?”",
+    "arabic1": "وَمَن يُضْلِلِ ٱللَّهُ فَمَا لَهُۥ مِن وَلِىٍّ مِّنۢ بَعْدِهِۦ ۗ وَتَرَى ٱلظَّـٰلِمِينَ لَمَّا رَأَوُا۟ ٱلْعَذَابَ يَقُولُونَ هَلْ إِلَىٰ مَرَدٍّ مِّن سَبِيلٍ",
+    "arabic2": "ومن يضلل الله فما له من ولي من بعده وترى الظالمين لما راوا العذاب يقولون هل الى مرد من سبيل",
+    "bengali": "আর আল্লাহ যাকে পথভ্রষ্ট করেন, তারপর তার জন্য কোন অভিভাবক নেই। আর তুমি যালিমদেরকে দেখবে, যখন তারা আযাব প্রত্যক্ষ করবে তখন বলবে, ‘ফিরে যাওয়ার কোন পথ আছে কি’?",
+    "urdu": "اور جس شخص کو خدا گمراہ کرے تو اس کے بعد اس کا کوئی دوست نہیں۔ اور تم ظالموں کو دیکھو گے کہ جب وہ (دوزخ کا) عذاب دیکھیں گے تو کہیں گے کیا (دنیا میں) واپس جانے کی بھی کوئی سبیل ہے؟"
+}

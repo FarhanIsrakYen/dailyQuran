@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 200,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_200.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002200.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_200.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002200.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_200.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002200.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_200.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002200.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_200.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002200.mp3"
+        }
+    },
+    "english": "When you have fulfilled your sacred rites, praise Allah as you used to praise your forefathers ˹before Islam˺, or even more passionately. There are some who say, “Our Lord! Grant us ˹Your bounties˺ in this world,” but they will have no share in the Hereafter.",
+    "arabic1": "فَإِذَا قَضَيْتُم مَّنَـٰسِكَكُمْ فَٱذْكُرُوا۟ ٱللَّهَ كَذِكْرِكُمْ ءَابَآءَكُمْ أَوْ أَشَدَّ ذِكْرًا ۗ فَمِنَ ٱلنَّاسِ مَن يَقُولُ رَبَّنَآ ءَاتِنَا فِى ٱلدُّنْيَا وَمَا لَهُۥ فِى ٱلْـَٔاخِرَةِ مِنْ خَلَـٰقٍ",
+    "arabic2": "فاذا قضيتم مناسككم فاذكروا الله كذكركم اباءكم او اشد ذكرا فمن الناس من يقول ربنا اتنا في الدنيا وما له في الاخرة من خلاق",
+    "bengali": "তারপর যখন তোমরা তোমাদের হজের কাজসমূহ শেষ করবে, তখন আল্লাহকে স্মরণ কর, যেভাবে তোমরা স্মরণ করতে তোমাদের বাপ-দাদাদেরকে, এমনকি তার চেয়ে অধিক স্মরণ। আর মানুষের মধ্যে এমনও আছে যে বলে, হে আমাদের রব, আমাদেরকে দুনিয়াতেই দিয়ে দিন। বস্তুত আখিরাতে তার জন্য কোন অংশ নেই।",
+    "urdu": "پھر جب حج کے تمام ارکان پورے کرچکو تو (منیٰ میں) خدا کو یاد کرو۔ جس طرح اپنے باپ دادا کو یاد کیا کرتے تھے بلکہ اس سے بھی زیادہ اور بعض لوگ ایسے ہیں جو (خدا سے) التجا کرتے ہیں کہ اے پروردگار ہم کو (جو دنیا ہے) دنیا ہی میں عنایت کر ایسے لوگوں کا آخرت میں کچھ حصہ نہیں"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Naml",
+    "surahNameArabic": "النمل",
+    "surahNameArabicLong": "سورة النمل",
+    "surahNameTranslation": "The Ant",
+    "revelationPlace": "Mecca",
+    "totalAyah": 93,
+    "surahNo": 27,
+    "ayahNo": 15,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/27_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/027015.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/27_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/027015.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/27_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/027015.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/27_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/027015.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/27_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/027015.mp3"
+        }
+    },
+    "english": "Indeed, We granted knowledge to David and Solomon. And they said ˹in acknowledgment˺, “All praise is for Allah Who has privileged us over many of His faithful servants.”",
+    "arabic1": "وَلَقَدْ ءَاتَيْنَا دَاوُۥدَ وَسُلَيْمَـٰنَ عِلْمًا ۖ وَقَالَا ٱلْحَمْدُ لِلَّهِ ٱلَّذِى فَضَّلَنَا عَلَىٰ كَثِيرٍ مِّنْ عِبَادِهِ ٱلْمُؤْمِنِينَ",
+    "arabic2": "ولقد اتينا داوود وسليمان علما وقالا الحمد لله الذي فضلنا على كثير من عباده المؤمنين",
+    "bengali": "আর অবশ্যই আমি দাঊদ ও সুলাইমানকে জ্ঞান দান করেছি এবং তারা উভয়ে বলল, ‘সকল প্রশংসা আল্লাহর জন্যই, যিনি তাঁর অনেক মুমিন বান্দাদের উপর আমাদেরকে মর্যাদা দান করেছেন’।",
+    "urdu": "اور ہم نے داؤد اور سلیمان کو علم بخشا اور انہوں نے کہا کہ خدا کا شکر ہے جس نے ہمیں بہت سے مومن بندوں پر فضلیت دی"
+}

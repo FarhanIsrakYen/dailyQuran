@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 69,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/9_69.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/009069.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/9_69.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/009069.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/9_69.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/009069.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/9_69.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/009069.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/9_69.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/009069.mp3"
+        }
+    },
+    "english": "˹You hypocrites are˺ like those ˹disbelievers˺ before you. They were far superior to you in might and more abundant in wealth and children. They enjoyed their share in this life. You have enjoyed your share, just as they did. And you have engaged in idle talk, just as they did. Their deeds have become void in this world and the Hereafter. And it is they who are the ˹true˺ losers.",
+    "arabic1": "كَٱلَّذِينَ مِن قَبْلِكُمْ كَانُوٓا۟ أَشَدَّ مِنكُمْ قُوَّةً وَأَكْثَرَ أَمْوَٰلًا وَأَوْلَـٰدًا فَٱسْتَمْتَعُوا۟ بِخَلَـٰقِهِمْ فَٱسْتَمْتَعْتُم بِخَلَـٰقِكُمْ كَمَا ٱسْتَمْتَعَ ٱلَّذِينَ مِن قَبْلِكُم بِخَلَـٰقِهِمْ وَخُضْتُمْ كَٱلَّذِى خَاضُوٓا۟ ۚ أُو۟لَـٰٓئِكَ حَبِطَتْ أَعْمَـٰلُهُمْ فِى ٱلدُّنْيَا وَٱلْـَٔاخِرَةِ ۖ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْخَـٰسِرُونَ",
+    "arabic2": "كالذين من قبلكم كانوا اشد منكم قوة واكثر اموالا واولادا فاستمتعوا بخلاقهم فاستمتعتم بخلاقكم كما استمتع الذين من قبلكم بخلاقهم وخضتم كالذي خاضوا اولئك حبطت اعمالهم في الدنيا والاخرة واولئك هم الخاسرون",
+    "bengali": "তাদের মত, যারা তোমাদের পূর্বে ছিল, তারা ছিল তোমাদের চেয়ে অধিক শক্তিশালী, ধন-সম্পদ ও সন্তানাদিতে অধিক। ফলে তারা তাদের অংশ ভোগ করেছে, আর তোমরাও তোমাদের অংশ ভোগ করেছ, যেমনিভাবে তোমাদের পূর্বে যারা ছিল তারা তাদের অংশ ভোগ করেছে। আর তোমরা খেল-তামাশায় মত্ত হয়েছ, যেমনিভাবে তারা মত্ত হয়েছে। এদেরই আমলসমূহ নষ্ট হয়ে গিয়েছে দুনিয়া ও আখিরাতে। আর তারাই ক্ষতিগ্রস্ত।",
+    "urdu": "(تم منافق لوگ) ان لوگوں کی طرح ہو، جو تم سے پہلے ہوچکے ہیں۔ وہ تم سے بہت زیادہ طاقتور اور مال و اولاد میں کہیں زیادہ تھے تو وہ اپنے حصے سے بہرہ یاب ہوچکے۔ سو جس طرح تم سے پہلے لوگ اپنے حصے سے فائدہ اٹھا چکے ہیں۔ اسی طرح تم نے اپنے حصے سے فائدہ اٹھا لیا۔ اور جس طرح وہ باطل میں ڈوبے رہے اسی طرح تم باطل میں ڈوبے رہے یہ وہ لوگ ہیں جن کے اعمال دنیا اور آخرت میں ضائع ہوگئے۔ اور یہی نقصان اٹھانے والے ہیں"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 61,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/17_61.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/017061.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/17_61.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/017061.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/17_61.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/017061.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/17_61.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/017061.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/17_61.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/017061.mp3"
+        }
+    },
+    "english": "And ˹remember˺ when We said to the angels, “Prostrate before Adam,” so they all did—but not Iblîs, who protested, “Should I prostrate to the one You have created from mud?”",
+    "arabic1": "وَإِذْ قُلْنَا لِلْمَلَـٰٓئِكَةِ ٱسْجُدُوا۟ لِـَٔادَمَ فَسَجَدُوٓا۟ إِلَّآ إِبْلِيسَ قَالَ ءَأَسْجُدُ لِمَنْ خَلَقْتَ طِينًا",
+    "arabic2": "واذ قلنا للملائكة اسجدوا لادم فسجدوا الا ابليس قال ااسجد لمن خلقت طينا",
+    "bengali": "আর স্মরণ কর, যখন আমি ফেরেশতাদের বললাম, ‘আদমকে সিজদা কর’, তখন ইবলীস ছাড়া সকলে সিজদা করল। সে বলল, ‘আমি কি এমন ব্যক্তিকে সিজদা করব যাকে আপনি কাদামাটি থেকে সৃষ্টি করেছেন’?",
+    "urdu": "اور جب ہم نے فرشتوں سے کہا کہ آدم کو سجدہ کرو تو سب نے سجدہ کیا مگر ابلیس نے نہ کیا۔ بولا کہ بھلا میں ایسے شخص کو سجدہ کرو جس کو تو نے مٹی سے پیدا کیا ہے"
+}

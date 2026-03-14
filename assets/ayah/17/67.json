@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 67,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/17_67.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/017067.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/17_67.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/017067.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/17_67.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/017067.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/17_67.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/017067.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/17_67.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/017067.mp3"
+        }
+    },
+    "english": "When you are touched with hardship at sea, you ˹totally˺ forget all ˹the gods˺ you ˹normally˺ invoke, except Him. But when He delivers you ˹safely˺ to shore, you turn away. Humankind is ever ungrateful.",
+    "arabic1": "وَإِذَا مَسَّكُمُ ٱلضُّرُّ فِى ٱلْبَحْرِ ضَلَّ مَن تَدْعُونَ إِلَّآ إِيَّاهُ ۖ فَلَمَّا نَجَّىٰكُمْ إِلَى ٱلْبَرِّ أَعْرَضْتُمْ ۚ وَكَانَ ٱلْإِنسَـٰنُ كَفُورًا",
+    "arabic2": "واذا مسكم الضر في البحر ضل من تدعون الا اياه فلما نجاكم الى البر اعرضتم وكان الانسان كفورا",
+    "bengali": "আর যখন তোমাদেরকে সমুদ্রে বিপদ স্পর্শ করে, তখন তিনি ছাড়া যাদেরকে তোমরা ডাক, তারা (তোমাদের মন থেকে) হারিয়ে যায়; অতঃপর তিনি যখন তোমাদেরকে রক্ষা করে স্থলে আনেন, তখন তোমরা বিমুখ হয়ে যাও। আর মানুষ তো খুব অকৃতজ্ঞ।",
+    "urdu": "اور جب تم کو دریا میں تکلیف پہنچتی ہے (یعنی ڈوبنے کا خوف ہوتا ہے) تو جن کو تم پکارا کرتے ہو سب اس (پروردگار) کے سوا گم ہوجاتے ہیں۔ پھر جب وہ تم کو (ڈوبنے سے) بچا کر خشکی پر لے جاتا ہے تو تم منہ پھیر لیتے ہو اور انسان ہے ہی ناشکرا"
+}

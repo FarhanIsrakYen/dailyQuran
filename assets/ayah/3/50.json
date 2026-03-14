@@ -1,0 +1,42 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 50,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/3_50.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/003050.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/3_50.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/003050.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/3_50.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/003050.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/3_50.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/003050.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/3_50.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/003050.mp3"
+        }
+    },
+    "english": "And I will confirm the Torah revealed before me and legalize some of what had been forbidden to you. I have come to you with a sign from your Lord, so be mindful of Allah and obey me.",
+    "arabic1": "وَمُصَدِّقًا لِّمَا بَيْنَ يَدَىَّ مِنَ ٱلتَّوْرَىٰةِ وَلِأُحِلَّ لَكُم بَعْضَ ٱلَّذِى حُرِّمَ عَلَيْكُمْ ۚ وَجِئْتُكُم بِـَٔايَةٍ مِّن رَّبِّكُمْ فَٱتَّقُوا۟ ٱللَّهَ وَأَطِيعُونِ",
+    "arabic2": "ومصدقا لما بين يدي من التوراة ولاحل لكم بعض الذي حرم عليكم وجئتكم باية من ربكم فاتقوا الله واطيعون",
+    "bengali": "‘আর আমার সামনে পূর্ববর্তী কিতাব তাওরাতের যা রয়েছে তার সত্যায়নকারীরূপে এবং তোমাদের উপর যা হারাম করা হয়েছিল তার কিছু তোমাদের জন্য হালাল করতে এবং আমি তোমাদের নিকট এসেছি তোমাদের রবের পক্ষ থেকে নিদর্শন নিয়ে। অতএব, তোমরা আল্লাহর তাকওয়া অবলম্বন কর এবং আমার আনুগত্য কর’।",
+    "urdu": "اور مجھ سے پہلے جو تورات (نازل ہوئی) تھی اس کی تصدیق بھی کرتا ہوں اور (میں) اس لیے بھی (آیا ہوں) کہ بعض چیزیں جو تم پر حرام تھیں ان کو تمہارے لیے حلال کر دوں اور میں تو تمہارے پروردگار کی طرف سے نشانی لے کر آیا ہوں تو خدا سے ڈرو اور میرا کہا مانو"
+}

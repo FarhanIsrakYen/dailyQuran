@@ -1,0 +1,42 @@
+{
+    "surahName": "Yusuf",
+    "surahNameArabic": "يوسف",
+    "surahNameArabicLong": "سورة يوسف",
+    "surahNameTranslation": "Joseph",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 12,
+    "ayahNo": 53,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/12_53.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/012053.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/12_53.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/012053.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/12_53.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/012053.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/12_53.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/012053.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/12_53.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/012053.mp3"
+        }
+    },
+    "english": "And I do not seek to free myself from blame, for indeed the soul is ever inclined to evil, except those shown mercy by my Lord. Surely my Lord is All-Forgiving, Most Merciful.”",
+    "arabic1": "۞ وَمَآ أُبَرِّئُ نَفْسِىٓ ۚ إِنَّ ٱلنَّفْسَ لَأَمَّارَةٌۢ بِٱلسُّوٓءِ إِلَّا مَا رَحِمَ رَبِّىٓ ۚ إِنَّ رَبِّى غَفُورٌ رَّحِيمٌ",
+    "arabic2": "وما ابرئ نفسي ان النفس لامارة بالسوء الا ما رحم ربي ان ربي غفور رحيم",
+    "bengali": "‘আর আমি আমার নাফ্সকে পবিত্র মনে করি না, নিশ্চয় নাফ্স মন্দ কজের নির্দেশ দিয়ে থাকে, আমার রব যাকে দয়া করেন সে ছাড়া। নিশ্চয় আমার রব ক্ষমাশীল, পরম দয়ালু’।",
+    "urdu": "اور میں اپنے تئیں پاک صاف نہیں کہتا کیونکہ نفس امارہ (انسان کو) برائی سکھاتا رہتا ہے۔ مگر یہ کہ میرا پروردگار رحم کرے گا۔ بےشک میرا پروردگار بخشنے والا مہربان ہے"
+}

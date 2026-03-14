@@ -1,0 +1,42 @@
+{
+    "surahName": "Ash-Shura",
+    "surahNameArabic": "الشورى",
+    "surahNameArabicLong": "سورة الشورى",
+    "surahNameTranslation": "Consultation",
+    "revelationPlace": "Mecca",
+    "totalAyah": 53,
+    "surahNo": 42,
+    "ayahNo": 24,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/42_24.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/042024.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/42_24.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/042024.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/42_24.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/042024.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/42_24.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/042024.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/42_24.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/042024.mp3"
+        }
+    },
+    "english": "Or do they say, “He has fabricated a lie about Allah!”? ˹If you had,˺ Allah would have sealed your heart, if He willed. And Allah wipes out falsehood and establishes the truth by His Words. He certainly knows best what is ˹hidden˺ in the heart.",
+    "arabic1": "أَمْ يَقُولُونَ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًا ۖ فَإِن يَشَإِ ٱللَّهُ يَخْتِمْ عَلَىٰ قَلْبِكَ ۗ وَيَمْحُ ٱللَّهُ ٱلْبَـٰطِلَ وَيُحِقُّ ٱلْحَقَّ بِكَلِمَـٰتِهِۦٓ ۚ إِنَّهُۥ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ",
+    "arabic2": "ام يقولون افترى على الله كذبا فان يشا الله يختم على قلبك ويمح الله الباطل ويحق الحق بكلماته انه عليم بذات الصدور",
+    "bengali": "তারা কি একথা বলে যে, সে আল্লাহ সম্পর্কে মিথ্যা উদ্ভাবন করেছে? অথচ যদি আল্লাহ চাইতেন তোমার হৃদয়ে মোহর মেরে দিতেন। আর আল্লাহ মিথ্যাকে মুছে দেন এবং নিজ বাণী দ্বারা সত্যকে প্রতিষ্ঠিত করেন। নিশ্চয় তিনি অন্তরসমূহে যা আছে, সে সম্পর্কে সবিশেষ অবহিত।",
+    "urdu": "کیا یہ لوگ کہتے ہیں کہ پیغمبر نے خدا پر جھوٹ باندھ لیا ہے؟ اگر خدا چاہے تو (اے محمدﷺ) تمہارے دل پر مہر لگا دے۔ اور خدا جھوٹ کو نابود کرتا اور اپنی باتوں سے حق کو ثابت کرتا ہے۔ بےشک وہ سینے تک کی باتوں سے واقف ہے"
+}

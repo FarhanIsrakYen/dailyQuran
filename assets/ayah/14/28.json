@@ -1,0 +1,42 @@
+{
+    "surahName": "Ibrahim",
+    "surahNameArabic": "ابراهيم",
+    "surahNameArabicLong": "سورة ابراهيم",
+    "surahNameTranslation": "Abraham",
+    "revelationPlace": "Mecca",
+    "totalAyah": 52,
+    "surahNo": 14,
+    "ayahNo": 28,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/14_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/014028.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/14_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/014028.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/14_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/014028.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/14_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/014028.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/14_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/014028.mp3"
+        }
+    },
+    "english": "Have you not seen those ˹disbelievers˺ who meet Allah’s favours with ingratitude and lead their own people to their doom?",
+    "arabic1": "۞ أَلَمْ تَرَ إِلَى ٱلَّذِينَ بَدَّلُوا۟ نِعْمَتَ ٱللَّهِ كُفْرًا وَأَحَلُّوا۟ قَوْمَهُمْ دَارَ ٱلْبَوَارِ",
+    "arabic2": "الم تر الى الذين بدلوا نعمت الله كفرا واحلوا قومهم دار البوار",
+    "bengali": "তুমি কি তাদেরকে দেখ না, যারা আল্লাহর নিআমতকে কুফরী দ্বারা পরিবর্তন করেছে এবং তাদের কওমকে ধ্বংসের ঘরে নামিয়ে দিয়েছে?",
+    "urdu": "کیا تم نے ان لوگوں کو نہیں دیکھا جنہوں نے خدا کے احسان کو ناشکری سے بدل دیا۔ اور اپنی قوم کو تباہی کے گھر میں اتارا"
+}

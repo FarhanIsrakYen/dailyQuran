@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Noor",
+    "surahNameArabic": "النور",
+    "surahNameArabicLong": "سورة النور",
+    "surahNameTranslation": "The Light",
+    "revelationPlace": "Madina",
+    "totalAyah": 64,
+    "surahNo": 24,
+    "ayahNo": 29,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/24_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/024029.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/24_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/024029.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/24_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/024029.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/24_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/024029.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/24_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/024029.mp3"
+        }
+    },
+    "english": "There is no blame on you if you enter public places where there is something of benefit for you. And Allah knows what you reveal and what you conceal.",
+    "arabic1": "لَّيْسَ عَلَيْكُمْ جُنَاحٌ أَن تَدْخُلُوا۟ بُيُوتًا غَيْرَ مَسْكُونَةٍ فِيهَا مَتَـٰعٌ لَّكُمْ ۚ وَٱللَّهُ يَعْلَمُ مَا تُبْدُونَ وَمَا تَكْتُمُونَ",
+    "arabic2": "ليس عليكم جناح ان تدخلوا بيوتا غير مسكونة فيها متاع لكم والله يعلم ما تبدون وما تكتمون",
+    "bengali": "যে ঘরে কেউ বাস করে না, তাতে তোমাদের কোন ভোগসামগ্রী থাকলে, সেখানে তোমাদের প্রবেশে কোন পাপ হবে না। আর আল্লাহ জানেন যা তোমরা প্রকাশ কর আর যা তোমরা গোপন কর।",
+    "urdu": "ہاں اگر تم کسی ایسے مکان میں جاؤ جس میں کوئی نہ بستا ہو اور اس میں تمہارا اسباب (رکھا) ہو، تم پر کچھ گناہ نہیں، اور جو کچھ تم ظاہر کرتے ہو اور جو پوشیدہ کرتے ہو خدا کو سب معلوم ہے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Ash-Shura",
+    "surahNameArabic": "الشورى",
+    "surahNameArabicLong": "سورة الشورى",
+    "surahNameTranslation": "Consultation",
+    "revelationPlace": "Mecca",
+    "totalAyah": 53,
+    "surahNo": 42,
+    "ayahNo": 51,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/42_51.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/042051.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/42_51.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/042051.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/42_51.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/042051.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/42_51.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/042051.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/42_51.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/042051.mp3"
+        }
+    },
+    "english": "It is not ˹possible˺ for a human being to have Allah communicate with them, except through inspiration, or from behind a veil, or by sending a messenger-angel to reveal whatever He wills by His permission. He is surely Most High, All-Wise.",
+    "arabic1": "۞ وَمَا كَانَ لِبَشَرٍ أَن يُكَلِّمَهُ ٱللَّهُ إِلَّا وَحْيًا أَوْ مِن وَرَآئِ حِجَابٍ أَوْ يُرْسِلَ رَسُولًا فَيُوحِىَ بِإِذْنِهِۦ مَا يَشَآءُ ۚ إِنَّهُۥ عَلِىٌّ حَكِيمٌ",
+    "arabic2": "وما كان لبشر ان يكلمه الله الا وحيا او من وراء حجاب او يرسل رسولا فيوحي باذنه ما يشاء انه علي حكيم",
+    "bengali": "কোন মানুষের এ মর্যাদা নেই যে, আল্লাহ তার সাথে সরাসরি কথা বলবেন, ওহীর মাধ্যম, পর্দার আড়াল অথবা কোন দূত পাঠানো ছাড়া। তারপর আল্লাহর অনুমতি সাপেক্ষে তিনি যা চান তাই ওহী প্রেরণ করেন। তিনি তো মহীয়ান, প্রজ্ঞাময়।",
+    "urdu": "اور کسی آدمی کے لئے ممکن نہیں کہ خدا اس سے بات کرے مگر الہام (کے ذریعے) سے یا پردے کے پیچھے سے یا کوئی فرشتہ بھیج دے تو وہ خدا کے حکم سے جو خدا چاہے القا کرے۔ بےشک وہ عالی رتبہ (اور) حکمت والا ہے"
+}

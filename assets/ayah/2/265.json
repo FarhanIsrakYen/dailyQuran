@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 265,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_265.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002265.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_265.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002265.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_265.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002265.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_265.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002265.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_265.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002265.mp3"
+        }
+    },
+    "english": "And the example of those who donate their wealth, seeking Allah’s pleasure and believing the reward is certain, is that of a garden on a fertile hill: when heavy rain falls, it yields up twice its normal produce. If no heavy rain falls, a drizzle is sufficient. And Allah is All-Seeing of what you do.",
+    "arabic1": "وَمَثَلُ ٱلَّذِينَ يُنفِقُونَ أَمْوَٰلَهُمُ ٱبْتِغَآءَ مَرْضَاتِ ٱللَّهِ وَتَثْبِيتًا مِّنْ أَنفُسِهِمْ كَمَثَلِ جَنَّةٍۭ بِرَبْوَةٍ أَصَابَهَا وَابِلٌ فَـَٔاتَتْ أُكُلَهَا ضِعْفَيْنِ فَإِن لَّمْ يُصِبْهَا وَابِلٌ فَطَلٌّ ۗ وَٱللَّهُ بِمَا تَعْمَلُونَ بَصِيرٌ",
+    "arabic2": "ومثل الذين ينفقون اموالهم ابتغاء مرضات الله وتثبيتا من انفسهم كمثل جنة بربوة اصابها وابل فاتت اكلها ضعفين فان لم يصبها وابل فطل والله بما تعملون بصير",
+    "bengali": "আর যারা আল্লাহর সন্তুষ্টি লাভ ও নিজদেরকে সুদৃঢ় রাখার লক্ষ্যে সম্পদ ব্যয় করে, তাদের উপমা উঁচু ভূমিতে অবস্থিত বাগানের মত, যাতে পড়েছে প্রবল বৃষ্টি। ফলে তা দ্বিগুণ ফল-ফলাদি উৎপন্ন করেছে। আর যদি তাতে প্রবল বৃষ্টি নাও পড়ে, তবে হালকা বৃষ্টি (যথেষ্ট)। আর আল্লাহ তোমরা যা আমল কর, সে ব্যাপারে সম্যক দ্রষ্টা।",
+    "urdu": "اور جو لوگ خدا کی خوشنودی حاصل کرنے کے لئے خلوص نیت سے اپنا مال خرچ کرتے ہیں ان کی مثال ایک باغ کی سی ہے جو اونچی جگہ پر واقع ہو(جب) اس پر مینہ پڑے تو دگنا پھل لائے۔ اور اگر مینہ نہ بھی پڑے تو خیر پھوار ہی سہی اور خدا تمہارے کاموں کو دیکھ رہا ہے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "As-Saaffaat",
+    "surahNameArabic": "الصافات",
+    "surahNameArabicLong": "سورة الصافات",
+    "surahNameTranslation": "Those drawn up in Ranks",
+    "revelationPlace": "Mecca",
+    "totalAyah": 182,
+    "surahNo": 37,
+    "ayahNo": 29,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/37_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/037029.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/37_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/037029.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/37_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/037029.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/37_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/037029.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/37_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/037029.mp3"
+        }
+    },
+    "english": "The misleaders will reply, “No! You disbelieved on your own.",
+    "arabic1": "قَالُوا۟ بَل لَّمْ تَكُونُوا۟ مُؤْمِنِينَ",
+    "arabic2": "قالوا بل لم تكونوا مؤمنين",
+    "bengali": "জবাবে তারা (নেতৃস্থানীয় কাফিররা) বলবে, ‘বরং তোমরা তো মুমিন ছিলে না’।",
+    "urdu": "وہ کہیں گے بلکہ تم ہی ایمان لانے والے نہ تھے"
+}

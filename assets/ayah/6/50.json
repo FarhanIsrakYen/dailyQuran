@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 50,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/6_50.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/006050.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/6_50.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/006050.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/6_50.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/006050.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/6_50.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/006050.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/6_50.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/006050.mp3"
+        }
+    },
+    "english": "Say, ˹O Prophet,˺ “I do not say to you that I possess Allah’s treasuries or know the unseen, nor do I claim to be an angel. I only follow what is revealed to me.” Say, “Are those blind ˹to the truth˺ equal to those who can see? Will you not then reflect?”",
+    "arabic1": "قُل لَّآ أَقُولُ لَكُمْ عِندِى خَزَآئِنُ ٱللَّهِ وَلَآ أَعْلَمُ ٱلْغَيْبَ وَلَآ أَقُولُ لَكُمْ إِنِّى مَلَكٌ ۖ إِنْ أَتَّبِعُ إِلَّا مَا يُوحَىٰٓ إِلَىَّ ۚ قُلْ هَلْ يَسْتَوِى ٱلْأَعْمَىٰ وَٱلْبَصِيرُ ۚ أَفَلَا تَتَفَكَّرُونَ",
+    "arabic2": "قل لا اقول لكم عندي خزائن الله ولا اعلم الغيب ولا اقول لكم اني ملك ان اتبع الا ما يوحى الي قل هل يستوي الاعمى والبصير افلا تتفكرون",
+    "bengali": "বল, ‘তোমাদেরকে আমি বলি না, আমার কাছে আল্লাহর ভান্ডারসমূহ রয়েছে এবং আমি গায়েব জানি না এবং তোমাদেরকে বলি না, নিশ্চয় আমি ফেরেশতা। আমি কেবল তাই অনুসরণ করি যা আমার কাছে ওহী প্রেরণ করা হয়’। বল, ‘অন্ধ আর চক্ষুষ্মান কি সমান হতে পারে? অতএব তোমরা কি চিন্তা করবে না?’",
+    "urdu": "کہہ دو کہ میں تم سے یہ نہیں کہتا کہ میرے پاس الله تعالیٰ کے خزانے ہیں اور نہ (یہ کہ) میں غیب جانتا ہوں اور نہ تم سے یہ کہتا کہ میں فرشتہ ہوں۔ میں تو صرف اس حکم پر چلتا ہوں جو مجھے (خدا کی طرف سے) آتا ہے۔ کہہ دو کہ بھلا اندھا اور آنکھ والے برابر ہوتے ہیں؟ تو پھر تم غور کیوں نہیں کرتے"
+}

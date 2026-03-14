@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 23,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/9_23.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/009023.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/9_23.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/009023.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/9_23.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/009023.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/9_23.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/009023.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/9_23.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/009023.mp3"
+        }
+    },
+    "english": "O believers! Do not take your parents and siblings as trusted allies if they choose disbelief over belief. And whoever of you does so, they are the ˹true˺ wrongdoers.",
+    "arabic1": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَتَّخِذُوٓا۟ ءَابَآءَكُمْ وَإِخْوَٰنَكُمْ أَوْلِيَآءَ إِنِ ٱسْتَحَبُّوا۟ ٱلْكُفْرَ عَلَى ٱلْإِيمَـٰنِ ۚ وَمَن يَتَوَلَّهُم مِّنكُمْ فَأُو۟لَـٰٓئِكَ هُمُ ٱلظَّـٰلِمُونَ",
+    "arabic2": "يا ايها الذين امنوا لا تتخذوا اباءكم واخوانكم اولياء ان استحبوا الكفر على الايمان ومن يتولهم منكم فاولئك هم الظالمون",
+    "bengali": "হে ঈমানদারগণ, তোমরা নিজদের পিতা ও ভাইদেরকে বন্ধুরূপে গ্রহণ করো না, যদি তারা ঈমান অপেক্ষা কুফরীকে প্রিয় মনে করে। তোমাদের মধ্য থেকে যারা তাদেরকে বন্ধুরূপে গ্রহণ করে তারাই যালিম।",
+    "urdu": "اے اہل ایمان! اگر تمہارے (ماں) باپ اور (بہن) بھائی ایمان کے مقابل کفر کو پسند کریں تو ان سے دوستی نہ رکھو۔ اور جو ان سے دوستی رکھیں گے وہ ظالم ہیں"
+}

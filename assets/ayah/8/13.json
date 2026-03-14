@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Anfaal",
+    "surahNameArabic": "الأنفال",
+    "surahNameArabicLong": "سورة الأنفال",
+    "surahNameTranslation": "The Spoils of War",
+    "revelationPlace": "Madina",
+    "totalAyah": 75,
+    "surahNo": 8,
+    "ayahNo": 13,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/8_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/008013.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/8_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/008013.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/8_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/008013.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/8_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/008013.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/8_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/008013.mp3"
+        }
+    },
+    "english": "This is because they defied Allah and His Messenger. And whoever defies Allah and His Messenger, then ˹know that˺ Allah is surely severe in punishment.",
+    "arabic1": "ذَٰلِكَ بِأَنَّهُمْ شَآقُّوا۟ ٱللَّهَ وَرَسُولَهُۥ ۚ وَمَن يُشَاقِقِ ٱللَّهَ وَرَسُولَهُۥ فَإِنَّ ٱللَّهَ شَدِيدُ ٱلْعِقَابِ",
+    "arabic2": "ذلك بانهم شاقوا الله ورسوله ومن يشاقق الله ورسوله فان الله شديد العقاب",
+    "bengali": "এটি এ কারণে যে, তারা আল্লাহ ও তাঁর রাসূলের বিরোধিতা করেছে। আর যে ব্যক্তি আল্লাহ ও তাঁর রাসূলের বিরোধিতা করবে, তবে নিশ্চয় আল্লাহ শাস্তি দানে কঠোর।",
+    "urdu": "یہ (سزا) اس لیے دی گئی کہ انہوں نے خدا اور اس کے رسول کی مخالفت کی۔ اور جو شخص خدا اور اس کے رسول کی مخالفت کرتا ہے تو خدا بھی سخت عذاب دینے والا ہے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 12,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/7_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/007012.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/7_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/007012.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/7_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/007012.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/7_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/007012.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/7_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/007012.mp3"
+        }
+    },
+    "english": "Allah asked, “What prevented you from prostrating when I commanded you?” He replied, “I am better than he is: You created me from fire and him from clay.”",
+    "arabic1": "قَالَ مَا مَنَعَكَ أَلَّا تَسْجُدَ إِذْ أَمَرْتُكَ ۖ قَالَ أَنَا۠ خَيْرٌ مِّنْهُ خَلَقْتَنِى مِن نَّارٍ وَخَلَقْتَهُۥ مِن طِينٍ",
+    "arabic2": "قال ما منعك الا تسجد اذ امرتك قال انا خير منه خلقتني من نار وخلقته من طين",
+    "bengali": "তিনি বললেন, ‘কিসে তোমাকে বাধা দিয়েছে যে, সিজদা করছ না, যখন আমি তোমাকে নির্দেশ দিয়েছি’? সে বলল, ‘আমি তার চেয়ে উত্তম। আপনি আমাকে আগুন থেকে সৃষ্টি করেছেন, আর তাকে সৃষ্টি করেছেন কাদামাটি থেকে’।",
+    "urdu": "(خدا نے) فرمایا جب میں نے تجھ کو حکم دیا تو کس چیز نے تجھے سجدہ کرنے سے باز رکھا۔ اس نے کہا کہ میں اس سے افضل ہوں۔ مجھے تو نے آگ سے پیدا کیا ہے اور اسے مٹی سے بنایا ہے"
+}

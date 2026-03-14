@@ -1,0 +1,42 @@
+{
+    "surahName": "Ar-Room",
+    "surahNameArabic": "الروم",
+    "surahNameArabicLong": "سورة الروم",
+    "surahNameTranslation": "The Romans",
+    "revelationPlace": "Mecca",
+    "totalAyah": 60,
+    "surahNo": 30,
+    "ayahNo": 43,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/30_43.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/030043.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/30_43.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/030043.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/30_43.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/030043.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/30_43.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/030043.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/30_43.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/030043.mp3"
+        }
+    },
+    "english": "So be steadfast in the Upright Faith ˹O Prophet˺, before the coming of a Day from Allah that cannot be averted. On that Day the people will be divided:",
+    "arabic1": "فَأَقِمْ وَجْهَكَ لِلدِّينِ ٱلْقَيِّمِ مِن قَبْلِ أَن يَأْتِىَ يَوْمٌ لَّا مَرَدَّ لَهُۥ مِنَ ٱللَّهِ ۖ يَوْمَئِذٍ يَصَّدَّعُونَ",
+    "arabic2": "فاقم وجهك للدين القيم من قبل ان ياتي يوم لا مرد له من الله يومئذ يصدعون",
+    "bengali": "তাই তুমি তোমার নিজকে সরল-সঠিক দীনের উপর কায়েম রাখ, আল্লাহর পক্ষ থেকে সেদিন আসার পূর্বে, যা ফেরানো যাবে না। সেদিন তারা বিভক্ত হয়ে পড়বে।",
+    "urdu": "تو اس روز سے پہلے جو خدا کی طرف سے آکر رہے گا اور رک نہیں سکے گا دین (کے رستے) پر سیدھا منہ کئے چلے چلو اس روز (سب) لوگ منتشر ہوجائیں گے"
+}

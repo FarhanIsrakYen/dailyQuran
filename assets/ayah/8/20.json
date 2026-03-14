@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Anfaal",
+    "surahNameArabic": "الأنفال",
+    "surahNameArabicLong": "سورة الأنفال",
+    "surahNameTranslation": "The Spoils of War",
+    "revelationPlace": "Madina",
+    "totalAyah": 75,
+    "surahNo": 8,
+    "ayahNo": 20,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/8_20.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/008020.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/8_20.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/008020.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/8_20.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/008020.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/8_20.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/008020.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/8_20.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/008020.mp3"
+        }
+    },
+    "english": "O believers! Obey Allah and His Messenger and do not turn away from him while you hear ˹his call˺.",
+    "arabic1": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ أَطِيعُوا۟ ٱللَّهَ وَرَسُولَهُۥ وَلَا تَوَلَّوْا۟ عَنْهُ وَأَنتُمْ تَسْمَعُونَ",
+    "arabic2": "يا ايها الذين امنوا اطيعوا الله ورسوله ولا تولوا عنه وانتم تسمعون",
+    "bengali": "হে মুমিনগণ, তোমরা আল্লাহ ও তাঁর রাসূলের আনুগত্য কর এবং তার থেকে মুখ ফিরিয়ে নিও না, অথচ তোমরা শুনছ।",
+    "urdu": "اے ایمان والو! خدا اور اس کے رسول کے حکم پر چلو اور اس سے روگردانی نہ کرو اور تم سنتے ہو"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Az-Zukhruf",
+    "surahNameArabic": "الزخرف",
+    "surahNameArabicLong": "سورة الزخرف",
+    "surahNameTranslation": "Ornaments of gold",
+    "revelationPlace": "Mecca",
+    "totalAyah": 89,
+    "surahNo": 43,
+    "ayahNo": 53,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/43_53.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/043053.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/43_53.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/043053.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/43_53.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/043053.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/43_53.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/043053.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/43_53.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/043053.mp3"
+        }
+    },
+    "english": "Why then have no golden bracelets ˹of kingship˺ been granted to him or angels come with him as escorts!”",
+    "arabic1": "فَلَوْلَآ أُلْقِىَ عَلَيْهِ أَسْوِرَةٌ مِّن ذَهَبٍ أَوْ جَآءَ مَعَهُ ٱلْمَلَـٰٓئِكَةُ مُقْتَرِنِينَ",
+    "arabic2": "فلولا القي عليه اسورة من ذهب او جاء معه الملائكة مقترنين",
+    "bengali": "‘তবে তাকে কেন স্বর্ণবলয় প্রদান করা হল না অথবা দলবদ্ধভাবে ফেরেশতাগণ তার সাথে কেন আসল না?’",
+    "urdu": "تو اس پر سونے کے کنگن کیوں نہ اُتارے گئے یا (یہ ہوتا کہ) فرشتے جمع ہو کر اس کے ساتھ آتے"
+}

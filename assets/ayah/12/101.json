@@ -1,0 +1,42 @@
+{
+    "surahName": "Yusuf",
+    "surahNameArabic": "يوسف",
+    "surahNameArabicLong": "سورة يوسف",
+    "surahNameTranslation": "Joseph",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 12,
+    "ayahNo": 101,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/12_101.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/012101.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/12_101.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/012101.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/12_101.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/012101.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/12_101.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/012101.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/12_101.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/012101.mp3"
+        }
+    },
+    "english": "“My Lord! You have surely granted me authority and taught me the interpretation of dreams. ˹O˺ Originator of the heavens and the earth! You are my Guardian in this world and the Hereafter. Allow me to die as one who submits and join me with the righteous.”",
+    "arabic1": "۞ رَبِّ قَدْ ءَاتَيْتَنِى مِنَ ٱلْمُلْكِ وَعَلَّمْتَنِى مِن تَأْوِيلِ ٱلْأَحَادِيثِ ۚ فَاطِرَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ أَنتَ وَلِىِّۦ فِى ٱلدُّنْيَا وَٱلْـَٔاخِرَةِ ۖ تَوَفَّنِى مُسْلِمًا وَأَلْحِقْنِى بِٱلصَّـٰلِحِينَ",
+    "arabic2": "رب قد اتيتني من الملك وعلمتني من تاويل الاحاديث فاطر السماوات والارض انت وليي في الدنيا والاخرة توفني مسلما والحقني بالصالحين",
+    "bengali": "‘হে আমার রব, আপনি আমাকে কিছু রাজত্ব দান করেছেন এবং স্বপ্নের কিছু ব্যাখ্যা শিখিয়েছেন। হে আসমানসমূহ ও যমীনের স্রষ্টা, দুনিয়া ও আখিরাতে আপনিই আমার অভিভাবক, আমাকে মুসলিম অবস্থায় মৃত্যু দিন এবং নেককারদের সাথে আমাকে যুক্ত করুন’।",
+    "urdu": "(جب یہ سب باتیں ہولیں تو یوسف نے خدا سے دعا کی کہ) اے میرے پروردگار تو نے مجھ کو حکومت سے بہرہ دیا اور خوابوں کی تعبیر کا علم بخشا۔ اے آسمانوں اور زمین کے پیدا کرنے والے تو ہی دنیا اور آخرت میں میرا کارساز ہے۔ تو مجھے (دنیا سے) اپنی اطاعت (کی حالت) میں اٹھائیو اور (آخرت میں) اپنے نیک بندوں میں داخل کیجیو"
+}

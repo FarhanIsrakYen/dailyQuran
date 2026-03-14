@@ -1,0 +1,42 @@
+{
+    "surahName": "Taa-Haa",
+    "surahNameArabic": "طه",
+    "surahNameArabicLong": "سورة طه",
+    "surahNameTranslation": "Taa-Haa",
+    "revelationPlace": "Mecca",
+    "totalAyah": 135,
+    "surahNo": 20,
+    "ayahNo": 5,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/20_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/020005.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/20_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/020005.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/20_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/020005.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/20_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/020005.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/20_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/020005.mp3"
+        }
+    },
+    "english": "the Most Compassionate, ˹Who is˺ established on the Throne.",
+    "arabic1": "ٱلرَّحْمَـٰنُ عَلَى ٱلْعَرْشِ ٱسْتَوَىٰ",
+    "arabic2": "الرحمن على العرش استوى",
+    "bengali": "পরম করুণাময় আরশের ওপর উঠেছেন* । \n* এ আয়াতে আল্লাহর একটি ক্রিয়াবাচক গুণ সাব্যস্ত করা হয়েছে। সেটি হচ্ছে استواء বা আরশের উপর উঠা। ইমাম মালেককে এ গুণ সম্পর্কে জিজ্ঞাসা করা হলে তিনি বলেন, استواء এর অর্থ জানা আছে। তবে তার ধরন (كيفيت) জানা নেই। এর প্রতি ঈমান রাখা ওয়াজিব এবং ধরন সম্পর্কে জিজ্ঞাসা করা বিদআত। এ নীতিটি আল্লাহর সকল গুণের ক্ষেত্রে প্রযোজ্য।",
+    "urdu": "(یعنی خدائے) رحمٰن جس نےعرش پر قرار پکڑا"
+}

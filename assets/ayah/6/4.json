@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 4,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/6_4.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/006004.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/6_4.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/006004.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/6_4.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/006004.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/6_4.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/006004.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/6_4.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/006004.mp3"
+        }
+    },
+    "english": "Whenever a sign comes to them from their Lord, they turn away from it.",
+    "arabic1": "وَمَا تَأْتِيهِم مِّنْ ءَايَةٍ مِّنْ ءَايَـٰتِ رَبِّهِمْ إِلَّا كَانُوا۟ عَنْهَا مُعْرِضِينَ",
+    "arabic2": "وما تاتيهم من اية من ايات ربهم الا كانوا عنها معرضين",
+    "bengali": "আর তাদের কাছে তাদের রবের আয়াতসমূহের কোন আয়াত আসলেই তারা তা থেকে মুখ ফিরিয়ে নেয়।",
+    "urdu": "اور خدا کی نشانیوں میں سے کوئی نشانی ان لوگوں کے پاس نہیں آتی مگر یہ اس سے منہ پھیر لیتے ہیں"
+}

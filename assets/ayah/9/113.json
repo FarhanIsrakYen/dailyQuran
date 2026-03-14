@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 113,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/9_113.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/009113.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/9_113.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/009113.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/9_113.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/009113.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/9_113.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/009113.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/9_113.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/009113.mp3"
+        }
+    },
+    "english": "It is not ˹proper˺ for the Prophet and the believers to seek forgiveness for the polytheists, even if they were close relatives, after it has become clear to the believers that they are bound for the Hellfire.",
+    "arabic1": "مَا كَانَ لِلنَّبِىِّ وَٱلَّذِينَ ءَامَنُوٓا۟ أَن يَسْتَغْفِرُوا۟ لِلْمُشْرِكِينَ وَلَوْ كَانُوٓا۟ أُو۟لِى قُرْبَىٰ مِنۢ بَعْدِ مَا تَبَيَّنَ لَهُمْ أَنَّهُمْ أَصْحَـٰبُ ٱلْجَحِيمِ",
+    "arabic2": "ما كان للنبي والذين امنوا ان يستغفروا للمشركين ولو كانوا اولي قربى من بعد ما تبين لهم انهم اصحاب الجحيم",
+    "bengali": "নবী ও মুমিনদের জন্য উচিত নয় যে, তারা মুশরিকদের জন্য ক্ষমা প্রার্থনা করবে। যদিও তারা আত্মীয় হয়। তাদের নিকট এটা স্পষ্ট হয়ে যাওয়ার পর যে, নিশ্চয় তারা প্রজ্বলিত আগুনের অধিবাসী।",
+    "urdu": "پیغمبر اور مسلمانوں کو شایاں نہیں کہ جب ان پر ظاہر ہوگیا کہ مشرک اہل دوزخ ہیں۔ تو ان کے لیے بخشش مانگیں گو وہ ان کے قرابت دار ہی ہوں"
+}

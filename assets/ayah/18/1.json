@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Kahf",
+    "surahNameArabic": "الكهف",
+    "surahNameArabicLong": "سورة الكهف",
+    "surahNameTranslation": "The Cave",
+    "revelationPlace": "Mecca",
+    "totalAyah": 110,
+    "surahNo": 18,
+    "ayahNo": 1,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/18_1.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/018001.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/18_1.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/018001.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/18_1.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/018001.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/18_1.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/018001.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/18_1.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/018001.mp3"
+        }
+    },
+    "english": "All praise is for Allah Who has revealed the Book to His servant, allowing no crookedness in it",
+    "arabic1": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِىٓ أَنزَلَ عَلَىٰ عَبْدِهِ ٱلْكِتَـٰبَ وَلَمْ يَجْعَل لَّهُۥ عِوَجَا ۜ",
+    "arabic2": "الحمد لله الذي انزل على عبده الكتاب ولم يجعل له عوجا",
+    "bengali": "সমস্ত প্রশংসা আল্লাহর, যিনি তাঁর বান্দার উপর কিতাব নাযিল করেছেন এবং তাতে রাখেননি কোন বক্রতা ।",
+    "urdu": "سب تعریف خدا ہی کو ہے جس نے اپنے بندے (محمدﷺ) پر (یہ) کتاب نازل کی اور اس میں کسی طرح کی کجی (اور پیچیدگی) نہ رکھی"
+}

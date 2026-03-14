@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Maaida",
+    "surahNameArabic": "المائدة",
+    "surahNameArabicLong": "سورة المائدة",
+    "surahNameTranslation": "The Table",
+    "revelationPlace": "Madina",
+    "totalAyah": 120,
+    "surahNo": 5,
+    "ayahNo": 98,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/5_98.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/005098.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/5_98.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/005098.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/5_98.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/005098.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/5_98.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/005098.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/5_98.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/005098.mp3"
+        }
+    },
+    "english": "Know that Allah is severe in punishment and that He is All-Forgiving, Most Merciful.",
+    "arabic1": "ٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ شَدِيدُ ٱلْعِقَابِ وَأَنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ",
+    "arabic2": "اعلموا ان الله شديد العقاب وان الله غفور رحيم",
+    "bengali": "জেনে রাখ, নিশ্চয়ই আল্লাহ শাস্তি দানে কঠোর আর নিশ্চয়ই আল্লাহ ক্ষমাশীল, পরম দয়ালু।",
+    "urdu": "جان رکھو کہ خدا سخت غداب دینے والا ہے اور یہ کہ خدا بخشنے والا مہربان بھی ہے"
+}

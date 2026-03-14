@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nahl",
+    "surahNameArabic": "النحل",
+    "surahNameArabicLong": "سورة النحل",
+    "surahNameTranslation": "The Bee",
+    "revelationPlace": "Mecca",
+    "totalAyah": 128,
+    "surahNo": 16,
+    "ayahNo": 86,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/16_86.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/016086.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/16_86.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/016086.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/16_86.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/016086.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/16_86.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/016086.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/16_86.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/016086.mp3"
+        }
+    },
+    "english": "And when the polytheists see their associate-gods, they will say, “Our Lord! These are our associate-gods that we used to invoke besides You.” Their gods will throw a rebuttal at them, ˹saying,˺ “You are definitely liars.”",
+    "arabic1": "وَإِذَا رَءَا ٱلَّذِينَ أَشْرَكُوا۟ شُرَكَآءَهُمْ قَالُوا۟ رَبَّنَا هَـٰٓؤُلَآءِ شُرَكَآؤُنَا ٱلَّذِينَ كُنَّا نَدْعُوا۟ مِن دُونِكَ ۖ فَأَلْقَوْا۟ إِلَيْهِمُ ٱلْقَوْلَ إِنَّكُمْ لَكَـٰذِبُونَ",
+    "arabic2": "واذا راى الذين اشركوا شركاءهم قالوا ربنا هؤلاء شركاؤنا الذين كنا ندعو من دونك فالقوا اليهم القول انكم لكاذبون",
+    "bengali": "আর যারা শিরক করেছে, তারা যখন তাদের শরীকদের দেখবে, তখন বলবে, ‘হে আমাদের রব, এরা হল আমাদের শরীক, যাদেরকে আমরা আপনার পরিবর্তে আহবান করতাম।’ অতঃপর তারা তাদের প্রতি উত্তরে বলবে, ‘নিশ্চয় তোমরা মিথ্যাবাদী।’",
+    "urdu": "اور جب مشرک (اپنے بنائے ہوئے) شریکوں کو دیکھیں گے تو کہیں گے کہ پروردگار یہ وہی ہمارے شریک ہیں جن کو ہم تیرے سوا پُکارا کرتے تھے۔ تو وہ (اُن کے کلام کو مسترد کردیں گے اور) اُن سے کہیں گے کہ تم تو جھوٹے ہو"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Kahf",
+    "surahNameArabic": "الكهف",
+    "surahNameArabicLong": "سورة الكهف",
+    "surahNameTranslation": "The Cave",
+    "revelationPlace": "Mecca",
+    "totalAyah": 110,
+    "surahNo": 18,
+    "ayahNo": 9,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/18_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/018009.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/18_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/018009.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/18_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/018009.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/18_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/018009.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/18_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/018009.mp3"
+        }
+    },
+    "english": "Have you ˹O Prophet˺ thought that the people of the cave and the plaque were ˹the only˺ wonders of Our signs?",
+    "arabic1": "أَمْ حَسِبْتَ أَنَّ أَصْحَـٰبَ ٱلْكَهْفِ وَٱلرَّقِيمِ كَانُوا۟ مِنْ ءَايَـٰتِنَا عَجَبًا",
+    "arabic2": "ام حسبت ان اصحاب الكهف والرقيم كانوا من اياتنا عجبا",
+    "bengali": "তুমি কি মনে করেছ যে, গুহা ও রাকীমের* অধিবাসীরা ছিল আমার আয়াতসমূহের এক বিস্ময়? \n* রাকীম একটি পাহাড়ের নাম, অথবা যে গ্রাম থেকে তারা বের হয়েছিল সে গ্রামের নাম, অথবা একটি ফলক- যাতে ঐ সব যুবকের নাম লিখা ছিল।",
+    "urdu": "کیا تم خیال کرتے ہو کہ غار اور لوح والے ہمارے نشانیوں میں سے عجیب تھے"
+}

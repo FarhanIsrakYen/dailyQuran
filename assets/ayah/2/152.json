@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 152,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_152.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002152.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_152.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002152.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_152.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002152.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_152.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002152.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_152.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002152.mp3"
+        }
+    },
+    "english": "remember Me; I will remember you. And thank Me, and never be ungrateful.",
+    "arabic1": "فَٱذْكُرُونِىٓ أَذْكُرْكُمْ وَٱشْكُرُوا۟ لِى وَلَا تَكْفُرُونِ",
+    "arabic2": "فاذكروني اذكركم واشكروا لي ولا تكفرون",
+    "bengali": "অতএব, তোমরা আমাকে স্মরণ কর, আমি তোমাদেরকে স্মরণ করব। আর আমার শোকর আদায় কর, আমার সাথে কুফরী করো না।",
+    "urdu": "سو تم مجھے یاد کرو۔ میں تمہیں یاد کیا کروں گا۔ اور میرے احسان مانتے رہنا اور ناشکری نہ کرنا"
+}

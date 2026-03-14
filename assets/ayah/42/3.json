@@ -1,0 +1,42 @@
+{
+    "surahName": "Ash-Shura",
+    "surahNameArabic": "الشورى",
+    "surahNameArabicLong": "سورة الشورى",
+    "surahNameTranslation": "Consultation",
+    "revelationPlace": "Mecca",
+    "totalAyah": 53,
+    "surahNo": 42,
+    "ayahNo": 3,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/42_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/042003.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/42_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/042003.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/42_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/042003.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/42_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/042003.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/42_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/042003.mp3"
+        }
+    },
+    "english": "And so you ˹O Prophet˺ are sent revelation, just like those before you, by Allah—the Almighty, All-Wise.",
+    "arabic1": "كَذَٰلِكَ يُوحِىٓ إِلَيْكَ وَإِلَى ٱلَّذِينَ مِن قَبْلِكَ ٱللَّهُ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+    "arabic2": "كذلك يوحي اليك والى الذين من قبلك الله العزيز الحكيم",
+    "bengali": "এমনিভাবে মহাপরাক্রমশালী ও প্রজ্ঞাময় আল্লাহ তোমার কাছে ওহী প্রেরণ করেন এবং তোমার পূর্ববর্তীদের কাছেও।",
+    "urdu": "خدائے غالب و دانا اسی طرح تمہاری طرف مضامین اور (براہین) بھیجتا ہے جس طرح تم سے پہلے لوگوں کی طرف وحی بھیجتا رہا ہے"
+}

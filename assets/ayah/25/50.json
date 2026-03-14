@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Furqaan",
+    "surahNameArabic": "الفرقان",
+    "surahNameArabicLong": "سورة الفرقان",
+    "surahNameTranslation": "The Criterion",
+    "revelationPlace": "Mecca",
+    "totalAyah": 77,
+    "surahNo": 25,
+    "ayahNo": 50,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/25_50.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/025050.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/25_50.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/025050.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/25_50.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/025050.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/25_50.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/025050.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/25_50.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/025050.mp3"
+        }
+    },
+    "english": "We certainly disperse it among them so they may be mindful, but most people persist in ungratefulness.",
+    "arabic1": "وَلَقَدْ صَرَّفْنَـٰهُ بَيْنَهُمْ لِيَذَّكَّرُوا۟ فَأَبَىٰٓ أَكْثَرُ ٱلنَّاسِ إِلَّا كُفُورًا",
+    "arabic2": "ولقد صرفناه بينهم ليذكروا فابى اكثر الناس الا كفورا",
+    "bengali": "আর আমি তা তাদের মধ্যে বণ্টন করি, যাতে তারা উপদেশ গ্রহণ করতে পারে; তারপর অধিকাংশ লোক শুধু অকৃতজ্ঞতাই প্রকাশ করে।",
+    "urdu": "اور ہم نے اس (قرآن کی آیتوں) کو طرح طرح سے لوگوں میں بیان کیا تاکہ نصیحت پکڑیں مگر بہت سے لوگوں نے انکار کے سوا قبول نہ کیا"
+}

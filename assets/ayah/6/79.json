@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 79,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/6_79.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/006079.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/6_79.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/006079.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/6_79.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/006079.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/6_79.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/006079.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/6_79.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/006079.mp3"
+        }
+    },
+    "english": "I have turned my face towards the One Who has originated the heavens and the earth—being upright—and I am not one of the polytheists.”",
+    "arabic1": "إِنِّى وَجَّهْتُ وَجْهِىَ لِلَّذِى فَطَرَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ حَنِيفًا ۖ وَمَآ أَنَا۠ مِنَ ٱلْمُشْرِكِينَ",
+    "arabic2": "اني وجهت وجهي للذي فطر السماوات والارض حنيفا وما انا من المشركين",
+    "bengali": "‘নিশ্চয় আমি নিবিষ্ট করেছি আমার চেহারা একনিষ্ঠভাবে তাঁর জন্য, যিনি আসমানসমূহ ও যমীন সৃষ্টি করেছেন। আর আমি মুশরিকদের অন্তর্ভুক্ত নই’।",
+    "urdu": "میں نے سب سے یکسو ہو کر اپنے تئیں اسی ذات کی طرف متوجہ کیا جس نے آسمانوں اور زمین کو پیدا کیا ہے اور میں مشرکوں میں سے نہیں ہوں"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Qasas",
+    "surahNameArabic": "القصص",
+    "surahNameArabicLong": "سورة القصص",
+    "surahNameTranslation": "The Stories",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 28,
+    "ayahNo": 33,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/28_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/028033.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/28_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/028033.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/28_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/028033.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/28_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/028033.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/28_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/028033.mp3"
+        }
+    },
+    "english": "Moses appealed, “My Lord! I have indeed killed a man from them, so I fear they may kill me.",
+    "arabic1": "قَالَ رَبِّ إِنِّى قَتَلْتُ مِنْهُمْ نَفْسًا فَأَخَافُ أَن يَقْتُلُونِ",
+    "arabic2": "قال رب اني قتلت منهم نفسا فاخاف ان يقتلون",
+    "bengali": "মূসা বলল, ‘হে আমার রব, নিশ্চয় আমি তাদের এক ব্যক্তিকে হত্যা করেছি, তাই আমি আশঙ্কা করছি যে, তারা আমাকে হত্যা করবে’।",
+    "urdu": "موسٰی نے کہا اے پروردگار اُن میں کا ایک شخص میرے ہاتھ سے قتل ہوچکا ہے سو مجھے خوف ہے کہ وہ (کہیں) مجھ کو مار نہ ڈالیں"
+}

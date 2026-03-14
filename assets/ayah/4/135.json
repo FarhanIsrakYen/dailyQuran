@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 135,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/4_135.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/004135.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/4_135.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/004135.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/4_135.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/004135.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/4_135.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/004135.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/4_135.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/004135.mp3"
+        }
+    },
+    "english": "O believers! Stand firm for justice as witnesses for Allah even if it is against yourselves, your parents, or close relatives. Be they rich or poor, Allah is best to ensure their interests. So do not let your desires cause you to deviate ˹from justice˺. If you distort the testimony or refuse to give it, then ˹know that˺ Allah is certainly All-Aware of what you do.",
+    "arabic1": "۞ يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُونُوا۟ قَوَّٰمِينَ بِٱلْقِسْطِ شُهَدَآءَ لِلَّهِ وَلَوْ عَلَىٰٓ أَنفُسِكُمْ أَوِ ٱلْوَٰلِدَيْنِ وَٱلْأَقْرَبِينَ ۚ إِن يَكُنْ غَنِيًّا أَوْ فَقِيرًا فَٱللَّهُ أَوْلَىٰ بِهِمَا ۖ فَلَا تَتَّبِعُوا۟ ٱلْهَوَىٰٓ أَن تَعْدِلُوا۟ ۚ وَإِن تَلْوُۥٓا۟ أَوْ تُعْرِضُوا۟ فَإِنَّ ٱللَّهَ كَانَ بِمَا تَعْمَلُونَ خَبِيرًا",
+    "arabic2": "يا ايها الذين امنوا كونوا قوامين بالقسط شهداء لله ولو على انفسكم او الوالدين والاقربين ان يكن غنيا او فقيرا فالله اولى بهما فلا تتبعوا الهوى ان تعدلوا وان تلووا او تعرضوا فان الله كان بما تعملون خبيرا",
+    "bengali": "হে মুমিনগণ, তোমরা ন্যায়ের উপর সুপ্রতিষ্ঠিত থাকবে আল্লাহর জন্য সাক্ষীরূপে। যদিও তা তোমাদের নিজদের কিংবা পিতা-মাতার অথবা নিকটাত্মীয়দের বিরুদ্ধে হয়। যদি সে বিত্তশালী হয় কিংবা দরিদ্র, তবে আল্লাহ উভয়ের ঘনিষ্ঠতর। সুতরাং ন্যায় প্রতিষ্ঠা করতে তোমরা প্রবৃত্তির অনুসরণ করো না। আর যদি তোমরা ঘুরিয়ে- পেঁচিয়ে কথা বল কিংবা এড়িয়ে যাও তবে আল্লাহ তোমরা যা কর সে বিষয়ে সম্যক অবগত।",
+    "urdu": "اے ایمان والو! انصاف پر قائم رہو اور خدا کے لئے سچی گواہی دو خواہ (اس میں) تمہارا یا تمہارےماں باپ اور رشتہ داروں کا نقصان ہی ہو۔ اگر کوئی امیر ہے یا فقیر تو خدا ان کا خیر خواہ ہے۔ تو تم خواہش نفس کے پیچھے چل کر عدل کو نہ چھوڑ دینا۔ اگر تم پیچیدا شہادت دو گے یا (شہادت سے) بچنا چاہو گے تو (جان رکھو) خدا تمہارے سب کاموں سے واقف ہے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Maaida",
+    "surahNameArabic": "المائدة",
+    "surahNameArabicLong": "سورة المائدة",
+    "surahNameTranslation": "The Table",
+    "revelationPlace": "Madina",
+    "totalAyah": 120,
+    "surahNo": 5,
+    "ayahNo": 32,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/5_32.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/005032.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/5_32.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/005032.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/5_32.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/005032.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/5_32.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/005032.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/5_32.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/005032.mp3"
+        }
+    },
+    "english": "That is why We ordained for the Children of Israel that whoever takes a life—unless as a punishment for murder or mischief in the land—it will be as if they killed all of humanity; and whoever saves a life, it will be as if they saved all of humanity. ˹Although˺ Our messengers already came to them with clear proofs, many of them still transgressed afterwards through the land.",
+    "arabic1": "مِنْ أَجْلِ ذَٰلِكَ كَتَبْنَا عَلَىٰ بَنِىٓ إِسْرَٰٓءِيلَ أَنَّهُۥ مَن قَتَلَ نَفْسًۢا بِغَيْرِ نَفْسٍ أَوْ فَسَادٍ فِى ٱلْأَرْضِ فَكَأَنَّمَا قَتَلَ ٱلنَّاسَ جَمِيعًا وَمَنْ أَحْيَاهَا فَكَأَنَّمَآ أَحْيَا ٱلنَّاسَ جَمِيعًا ۚ وَلَقَدْ جَآءَتْهُمْ رُسُلُنَا بِٱلْبَيِّنَـٰتِ ثُمَّ إِنَّ كَثِيرًا مِّنْهُم بَعْدَ ذَٰلِكَ فِى ٱلْأَرْضِ لَمُسْرِفُونَ",
+    "arabic2": "من اجل ذلك كتبنا على بني اسرائيل انه من قتل نفسا بغير نفس او فساد في الارض فكانما قتل الناس جميعا ومن احياها فكانما احيا الناس جميعا ولقد جاءتهم رسلنا بالبينات ثم ان كثيرا منهم بعد ذلك في الارض لمسرفون",
+    "bengali": "এ কারণেই, আমি বনী ইসরাঈলের উপর এই হুকুম দিলাম যে, যে ব্যক্তি কাউকে হত্যা করা কিংবা যমীনে ফাসাদ সৃষ্টি করা ছাড়া যে কাউকে হত্যা করল, সে যেন সব মানুষকে হত্যা করল। আর যে তাকে বাঁচাল, সে যেন সব মানুষকে বাঁচাল। আর অবশ্যই তাদের নিকট আমার রাসূলগণ সুস্পষ্ট নিদর্শনসমূহ নিয়ে এসেছে। তা সত্ত্বেও এরপর যমীনে তাদের অনেকে অবশ্যই সীমালঙ্ঘনকারী।",
+    "urdu": "اس قتل کی وجہ سے ہم نے بنی اسرائیل پر یہ حکم نازل کیا کہ جو شخص کسی کو (ناحق) قتل کرے گا (یعنی) بغیر اس کے کہ جان کا بدلہ لیا جائے یا ملک میں خرابی کرنے کی سزا دی جائے اُس نے گویا تمام لوگوں کو قتل کیا اور جو اس کی زندگانی کا موجب ہوا تو گویا تمام لوگوں کی زندگانی کا موجب ہوا اور ان لوگوں کے پاس ہمارے پیغمبر روشن دلیلیں لا چکے ہیں پھر اس کے بعد بھی ان سے بہت سے لوگ ملک میں حدِ اعتدال سے نکل جاتے ہیں"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 112,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/9_112.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/009112.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/9_112.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/009112.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/9_112.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/009112.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/9_112.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/009112.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/9_112.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/009112.mp3"
+        }
+    },
+    "english": "˹It is the believers˺ who repent, who are devoted to worship, who praise ˹their Lord˺, who fast, who bow down and prostrate themselves, who encourage good and forbid evil, and who observe the limits set by Allah. And give good news to the believers.",
+    "arabic1": "ٱلتَّـٰٓئِبُونَ ٱلْعَـٰبِدُونَ ٱلْحَـٰمِدُونَ ٱلسَّـٰٓئِحُونَ ٱلرَّٰكِعُونَ ٱلسَّـٰجِدُونَ ٱلْـَٔامِرُونَ بِٱلْمَعْرُوفِ وَٱلنَّاهُونَ عَنِ ٱلْمُنكَرِ وَٱلْحَـٰفِظُونَ لِحُدُودِ ٱللَّهِ ۗ وَبَشِّرِ ٱلْمُؤْمِنِينَ",
+    "arabic2": "التائبون العابدون الحامدون السائحون الراكعون الساجدون الامرون بالمعروف والناهون عن المنكر والحافظون لحدود الله وبشر المؤمنين",
+    "bengali": "তারা তাওবাকারী, ইবাদাতকারী, আল্লাহর প্রশংসাকারী, সিয়াম পালনকারী, রুকূকারী, সিজ্দাকারী, সৎকাজের আদেশদাতা, অসৎকাজের নিষেধকারী এবং আল্লাহর নির্ধারিত সীমারেখা হেফাযতকারী। আর মুমিনদেরকে তুমি সুসংবাদ দাও।",
+    "urdu": "توبہ کرنے والے، عبادت کرنے والے، حمد کرنے والے، روزہ رکھنے والے، رکوع کرنے والے، سجدہ کرنے والے، نیک کاموں کا امر کرنے والے، بری باتوں سے منع کرنے والے، خدا کی حدوں کی حفاظت کرنے والے، (یہی مومن لوگ ہیں) اور اے پیغمبر مومنوں کو (بہشت کی) خوش خبری سنادو"
+}

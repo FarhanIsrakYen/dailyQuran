@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 96,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/7_96.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/007096.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/7_96.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/007096.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/7_96.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/007096.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/7_96.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/007096.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/7_96.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/007096.mp3"
+        }
+    },
+    "english": "Had the people of those societies been faithful and mindful ˹of Allah˺, We would have overwhelmed them with blessings from heaven and earth. But they disbelieved, so We seized them for what they used to commit.",
+    "arabic1": "وَلَوْ أَنَّ أَهْلَ ٱلْقُرَىٰٓ ءَامَنُوا۟ وَٱتَّقَوْا۟ لَفَتَحْنَا عَلَيْهِم بَرَكَـٰتٍ مِّنَ ٱلسَّمَآءِ وَٱلْأَرْضِ وَلَـٰكِن كَذَّبُوا۟ فَأَخَذْنَـٰهُم بِمَا كَانُوا۟ يَكْسِبُونَ",
+    "arabic2": "ولو ان اهل القرى امنوا واتقوا لفتحنا عليهم بركات من السماء والارض ولكن كذبوا فاخذناهم بما كانوا يكسبون",
+    "bengali": "আর যদি জনপদসমূহের অধিবাসীরা ঈমান আনত এবং তাকওয়া অবলম্বন করত তাহলে আমি অবশ্যই আসমান ও যমীন থেকে বরকতসমূহ তাদের উপর খুলে দিতাম; কিন্তু তারা অস্বীকার করল। অতঃপর তারা যা অর্জন করত তার কারণে আমি তাদেরকে পাকড়াও করলাম।",
+    "urdu": "اگر ان بستیوں کے لوگ ایمان لے آتے اور پرہیزگار ہوجاتے۔ تو ہم ان پر آسمان اور زمین کی برکات (کے دروازے) کھول دیتے مگر انہوں نے تو تکذیب کی۔ سو ان کے اعمال کی سزا میں ہم نے ان کو پکڑ لیا"
+}

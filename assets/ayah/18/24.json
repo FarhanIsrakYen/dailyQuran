@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Kahf",
+    "surahNameArabic": "الكهف",
+    "surahNameArabicLong": "سورة الكهف",
+    "surahNameTranslation": "The Cave",
+    "revelationPlace": "Mecca",
+    "totalAyah": 110,
+    "surahNo": 18,
+    "ayahNo": 24,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/18_24.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/018024.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/18_24.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/018024.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/18_24.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/018024.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/18_24.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/018024.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/18_24.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/018024.mp3"
+        }
+    },
+    "english": "without adding, “if Allah so wills!” But if you forget, then remember your Lord, and say, “I trust my Lord will guide me to what is more right than this.”",
+    "arabic1": "إِلَّآ أَن يَشَآءَ ٱللَّهُ ۚ وَٱذْكُر رَّبَّكَ إِذَا نَسِيتَ وَقُلْ عَسَىٰٓ أَن يَهْدِيَنِ رَبِّى لِأَقْرَبَ مِنْ هَـٰذَا رَشَدًا",
+    "arabic2": "الا ان يشاء الله واذكر ربك اذا نسيت وقل عسى ان يهدين ربي لاقرب من هذا رشدا",
+    "bengali": "তবে ‘আল্লাহ যদি চান’। আর যখন ভুলে যাও, তখন তুমি তোমার রবের যিকির কর এবং বল, আশা করি, আল্লাহ আমাকে এর চেয়েও নিকটবর্তী সত্য পথের হিদায়াত দেবেন।",
+    "urdu": "مگر (انشاء الله کہہ کر یعنی اگر) خدا چاہے تو (کردوں گا) اور جب خدا کا نام لینا بھول جاؤ تو یاد آنے پر لے لو۔ اور کہہ دو کہ امید ہے کہ میرا پروردگار مجھے اس سے بھی زیادہ ہدایت کی باتیں بتائے"
+}

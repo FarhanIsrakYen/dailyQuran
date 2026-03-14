@@ -1,0 +1,42 @@
+{
+    "surahName": "Ar-Room",
+    "surahNameArabic": "الروم",
+    "surahNameArabicLong": "سورة الروم",
+    "surahNameTranslation": "The Romans",
+    "revelationPlace": "Mecca",
+    "totalAyah": 60,
+    "surahNo": 30,
+    "ayahNo": 16,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/30_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/030016.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/30_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/030016.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/30_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/030016.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/30_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/030016.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/30_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/030016.mp3"
+        }
+    },
+    "english": "And as for those who disbelieved, and denied Our signs and the meeting ˹with Allah˺ in the Hereafter, they will be confined in punishment.",
+    "arabic1": "وَأَمَّا ٱلَّذِينَ كَفَرُوا۟ وَكَذَّبُوا۟ بِـَٔايَـٰتِنَا وَلِقَآئِ ٱلْـَٔاخِرَةِ فَأُو۟لَـٰٓئِكَ فِى ٱلْعَذَابِ مُحْضَرُونَ",
+    "arabic2": "واما الذين كفروا وكذبوا باياتنا ولقاء الاخرة فاولئك في العذاب محضرون",
+    "bengali": "আর যারা কুফরী করেছে এবং আমার আয়াত ও আখিরাতের সাক্ষাতকে অস্বীকার করেছে, তাদেরকে আযাবের মধ্যে উপস্থিত করা হবে।",
+    "urdu": "اور جنہوں نے کفر کیا اور ہماری آیتوں اور آخرت کے آنے کو جھٹلایا۔ وہ عذاب میں ڈالے جائیں گے"
+}

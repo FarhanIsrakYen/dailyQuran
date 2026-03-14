@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Naml",
+    "surahNameArabic": "النمل",
+    "surahNameArabicLong": "سورة النمل",
+    "surahNameTranslation": "The Ant",
+    "revelationPlace": "Mecca",
+    "totalAyah": 93,
+    "surahNo": 27,
+    "ayahNo": 36,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/27_36.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/027036.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/27_36.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/027036.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/27_36.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/027036.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/27_36.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/027036.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/27_36.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/027036.mp3"
+        }
+    },
+    "english": "When the chief-envoy came to him, Solomon said, “Do you offer me wealth? What Allah has granted me is far greater than what He has granted you. No! It is you who rejoice in ˹receiving˺ gifts.",
+    "arabic1": "فَلَمَّا جَآءَ سُلَيْمَـٰنَ قَالَ أَتُمِدُّونَنِ بِمَالٍ فَمَآ ءَاتَىٰنِۦَ ٱللَّهُ خَيْرٌ مِّمَّآ ءَاتَىٰكُم بَلْ أَنتُم بِهَدِيَّتِكُمْ تَفْرَحُونَ",
+    "arabic2": "فلما جاء سليمان قال اتمدونن بمال فما اتاني الله خير مما اتاكم بل انتم بهديتكم تفرحون",
+    "bengali": "অতঃপর দূত যখন সুলাইমানের কাছে আসল, তখন সে বলল, ‘তোমরা কি আমাকে সম্পদ দ্বারা সাহায্য করতে চাচ্ছ? সুতরাং আল্লাহ আমাকে যা দিয়েছেন তা তোমাদেরকে যা দিয়েছেন তা থেকে উত্তম। বরং তোমরা তোমাদের উপঢৌকন নিয়ে খুশি হও’।",
+    "urdu": "جب (قاصد) سلیمان کے پاس پہنچا تو سلیمان نے کہا کیا تم مجھے مال سے مدد دینا چاہتے ہو، جو کچھ خدا نے مجھے عطا فرمایا ہے وہ اس سے بہتر ہے جو تمہیں دیا ہے حقیقت یہ ہے کہ تم ہی اپنے تحفے سے خوش ہوتے ہوگے"
+}

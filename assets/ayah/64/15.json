@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Taghaabun",
+    "surahNameArabic": "التغابن",
+    "surahNameArabicLong": "سورة التغابن",
+    "surahNameTranslation": "Mutual Disillusion",
+    "revelationPlace": "Madina",
+    "totalAyah": 18,
+    "surahNo": 64,
+    "ayahNo": 15,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/64_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/064015.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/64_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/064015.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/64_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/064015.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/64_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/064015.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/64_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/064015.mp3"
+        }
+    },
+    "english": "Your wealth and children are only a test, but Allah ˹alone˺ has a great reward.",
+    "arabic1": "إِنَّمَآ أَمْوَٰلُكُمْ وَأَوْلَـٰدُكُمْ فِتْنَةٌ ۚ وَٱللَّهُ عِندَهُۥٓ أَجْرٌ عَظِيمٌ",
+    "arabic2": "انما اموالكم واولادكم فتنة والله عنده اجر عظيم",
+    "bengali": "তোমাদের ধন-সম্পদ ও সন্তান-সন্ততি তো কেবল পরীক্ষা বিশেষ। আর আল্লাহর নিকটই মহান প্রতিদান।",
+    "urdu": "تمہارا مال اور تمہاری اولاد تو آزمائش ہے۔ اور خدا کے ہاں بڑا اجر ہے"
+}

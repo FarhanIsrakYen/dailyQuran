@@ -1,0 +1,42 @@
+{
+    "surahName": "As-Saff",
+    "surahNameArabic": "الصف",
+    "surahNameArabicLong": "سورة الصف",
+    "surahNameTranslation": "The Ranks",
+    "revelationPlace": "Madina",
+    "totalAyah": 14,
+    "surahNo": 61,
+    "ayahNo": 12,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/61_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/061012.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/61_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/061012.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/61_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/061012.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/61_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/061012.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/61_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/061012.mp3"
+        }
+    },
+    "english": "He will forgive your sins, and admit you into Gardens under which rivers flow, and ˹house you in˺ splendid homes in the Gardens of Eternity. That is the ultimate triumph.",
+    "arabic1": "يَغْفِرْ لَكُمْ ذُنُوبَكُمْ وَيُدْخِلْكُمْ جَنَّـٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ وَمَسَـٰكِنَ طَيِّبَةً فِى جَنَّـٰتِ عَدْنٍ ۚ ذَٰلِكَ ٱلْفَوْزُ ٱلْعَظِيمُ",
+    "arabic2": "يغفر لكم ذنوبكم ويدخلكم جنات تجري من تحتها الانهار ومساكن طيبة في جنات عدن ذلك الفوز العظيم",
+    "bengali": "তিনি তোমাদের জন্য তোমাদের পাপসমূহ ক্ষমা করে দিবেন। আর তোমাদেরকে এমন জান্নাতসমূহে প্রবেশ করাবেন যার তলদেশে নহরসমূহ প্রবাহিত এবং চিরস্থায়ী জান্নাতসমূহে উত্তম আবাসগুলোতেও (প্রবেশ করবেন)। এটাই মহাসাফল্য।",
+    "urdu": "وہ تمہارے گناہ بخش دے گا اور تم کو باغہائے جنت میں جن میں نہریں بہہ رہیں ہیں اور پاکیزہ مکانات میں جو بہشت ہائے جاودانی میں (تیار) ہیں داخل کرے گا۔ یہ بڑی کامیابی ہے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Saad",
+    "surahNameArabic": "ص",
+    "surahNameArabicLong": "سورة ص",
+    "surahNameTranslation": "The letter Saad",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 38,
+    "ayahNo": 85,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/38_85.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/038085.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/38_85.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/038085.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/38_85.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/038085.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/38_85.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/038085.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/38_85.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/038085.mp3"
+        }
+    },
+    "english": "I will surely fill up Hell with you and whoever follows you from among them, all together.”",
+    "arabic1": "لَأَمْلَأَنَّ جَهَنَّمَ مِنكَ وَمِمَّن تَبِعَكَ مِنْهُمْ أَجْمَعِينَ",
+    "arabic2": "لاملان جهنم منك وممن تبعك منهم اجمعين",
+    "bengali": "‘তোমাকে দিয়ে এবং তাদের মধ্যে যারা তোমার অনুসরণ করত তাদের দিয়ে নিশ্চয় আমি জাহান্নাম পূর্ণ করব।’",
+    "urdu": "کہ میں تجھ سے اور جو ان میں سے تیری پیروی کریں گے سب سے جہنم کو بھر دوں گا"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Fussilat",
+    "surahNameArabic": "فصلت",
+    "surahNameArabicLong": "سورة فصلت",
+    "surahNameTranslation": "Explained in detail",
+    "revelationPlace": "Mecca",
+    "totalAyah": 54,
+    "surahNo": 41,
+    "ayahNo": 25,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/41_25.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/041025.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/41_25.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/041025.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/41_25.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/041025.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/41_25.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/041025.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/41_25.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/041025.mp3"
+        }
+    },
+    "english": "We placed at their disposal ˹evil˺ associates who made their past and future ˹misdeeds˺ appealing to them. ˹So˺ the fate of earlier communities of jinn and humans has been justified against them ˹as well˺, ˹for˺ they were truly losers.",
+    "arabic1": "۞ وَقَيَّضْنَا لَهُمْ قُرَنَآءَ فَزَيَّنُوا۟ لَهُم مَّا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَحَقَّ عَلَيْهِمُ ٱلْقَوْلُ فِىٓ أُمَمٍ قَدْ خَلَتْ مِن قَبْلِهِم مِّنَ ٱلْجِنِّ وَٱلْإِنسِ ۖ إِنَّهُمْ كَانُوا۟ خَـٰسِرِينَ",
+    "arabic2": "وقيضنا لهم قرناء فزينوا لهم ما بين ايديهم وما خلفهم وحق عليهم القول في امم قد خلت من قبلهم من الجن والانس انهم كانوا خاسرين",
+    "bengali": "আর আমি তাদের জন্য মন্দ সহচরবৃন্দ নির্ধারণ করে দিয়েছিলাম, যারা তাদের সামনে ও পিছনে যা আছে তা তাদের দৃষ্টিতে চাকচিক্যময় করে দিয়েছিল। আর তাদের উপরে আযাবের বাণী সত্যে পরিণত হল, তাদের পূর্বে গত হওয়া জিন ও মানুষের বিভিন্ন জাতির ন্যায়, নিশ্চয় এরা ছিল ক্ষতিগ্রস্ত।",
+    "urdu": "اور ہم نے (شیطانوں کو) ان کا ہم نشین مقرر کردیا تھا تو انہوں نے ان کے اگلے اور پچھلے اعمال ان کو عمدہ کر دکھائے تھے اور جنات اور انسانوں کی جماعتیں جو ان سے پہلے گذر چکیں ان پر بھی خدا (کے عذاب) کا وعدہ پورا ہوگیا۔ بےشک یہ نقصان اٹھانے والے ہیں"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Ahqaf",
+    "surahNameArabic": "الأحقاف",
+    "surahNameArabicLong": "سورة الأحقاف",
+    "surahNameTranslation": "The Dunes",
+    "revelationPlace": "Mecca",
+    "totalAyah": 35,
+    "surahNo": 46,
+    "ayahNo": 9,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/46_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/046009.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/46_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/046009.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/46_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/046009.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/46_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/046009.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/46_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/046009.mp3"
+        }
+    },
+    "english": "Say, “I am not the first messenger ever sent, nor do I know what will happen to me or you. I only follow what is revealed to me. And I am only sent with a clear warning.”",
+    "arabic1": "قُلْ مَا كُنتُ بِدْعًا مِّنَ ٱلرُّسُلِ وَمَآ أَدْرِى مَا يُفْعَلُ بِى وَلَا بِكُمْ ۖ إِنْ أَتَّبِعُ إِلَّا مَا يُوحَىٰٓ إِلَىَّ وَمَآ أَنَا۠ إِلَّا نَذِيرٌ مُّبِينٌ",
+    "arabic2": "قل ما كنت بدعا من الرسل وما ادري ما يفعل بي ولا بكم ان اتبع الا ما يوحى الي وما انا الا نذير مبين",
+    "bengali": "বল, ‘আমি রাসূলদের মধ্যে নতুন নই। আর আমি জানি না আমার ও তোমাদের ব্যাপারে কী করা হবে। আমার প্রতি যা ওহী করা হয়, আমি কেবল তারই অনুসরণ করি। আর আমি একজন সুস্পষ্ট সতর্ককারী মাত্র’।",
+    "urdu": "کہہ دو کہ میں کوئی نیا پیغمبر نہیں آیا۔ اور میں نہیں جانتا کہ میرے ساتھ کیا سلوک کیا جائے گا اور تمہارے ساتھ کیا (کیا جائے گا) میں تو اسی کی پیروی کرتا ہوں جو مجھ پر وحی آتی ہے اور میرا کام تو علانیہ ہدایت کرنا ہے"
+}

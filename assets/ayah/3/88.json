@@ -1,0 +1,42 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 88,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/3_88.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/003088.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/3_88.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/003088.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/3_88.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/003088.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/3_88.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/003088.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/3_88.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/003088.mp3"
+        }
+    },
+    "english": "They will be in Hell forever. Their punishment will not be lightened, nor will they be delayed ˹from it˺.",
+    "arabic1": "خَـٰلِدِينَ فِيهَا لَا يُخَفَّفُ عَنْهُمُ ٱلْعَذَابُ وَلَا هُمْ يُنظَرُونَ",
+    "arabic2": "خالدين فيها لا يخفف عنهم العذاب ولا هم ينظرون",
+    "bengali": "তারা তাতে স্থায়ী হবে, তাদের থেকে আযাব শিথিল করা হবে না এবং তাদেরকে অবকাশও দেয়া হবে না।",
+    "urdu": "ہمیشہ اس لعنت میں (گرفتار) رہیں گے ان سے نہ تو عذاب ہلکا کیا جائے گا اور نہ انہیں مہلت دے جائے گی"
+}

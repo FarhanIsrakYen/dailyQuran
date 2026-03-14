@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 160,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/7_160.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/007160.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/7_160.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/007160.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/7_160.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/007160.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/7_160.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/007160.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/7_160.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/007160.mp3"
+        }
+    },
+    "english": "We divided them into twelve tribes—each as a community. And We revealed to Moses, when his people asked for water, “Strike the rock with your staff.” Then twelve springs gushed out. Each tribe knew its drinking place. We shaded them with clouds and sent down to them manna and quails, ˹saying˺, “Eat from the good things We have provided for you.” They ˹certainly˺ did not wrong Us, but wronged themselves.",
+    "arabic1": "وَقَطَّعْنَـٰهُمُ ٱثْنَتَىْ عَشْرَةَ أَسْبَاطًا أُمَمًا ۚ وَأَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ إِذِ ٱسْتَسْقَىٰهُ قَوْمُهُۥٓ أَنِ ٱضْرِب بِّعَصَاكَ ٱلْحَجَرَ ۖ فَٱنۢبَجَسَتْ مِنْهُ ٱثْنَتَا عَشْرَةَ عَيْنًا ۖ قَدْ عَلِمَ كُلُّ أُنَاسٍ مَّشْرَبَهُمْ ۚ وَظَلَّلْنَا عَلَيْهِمُ ٱلْغَمَـٰمَ وَأَنزَلْنَا عَلَيْهِمُ ٱلْمَنَّ وَٱلسَّلْوَىٰ ۖ كُلُوا۟ مِن طَيِّبَـٰتِ مَا رَزَقْنَـٰكُمْ ۚ وَمَا ظَلَمُونَا وَلَـٰكِن كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ",
+    "arabic2": "وقطعناهم اثنتي عشرة اسباطا امما واوحينا الى موسى اذ استسقاه قومه ان اضرب بعصاك الحجر فانبجست منه اثنتا عشرة عينا قد علم كل اناس مشربهم وظللنا عليهم الغمام وانزلنا عليهم المن والسلوى كلوا من طيبات ما رزقناكم وما ظلمونا ولكن كانوا انفسهم يظلمون",
+    "bengali": "আর আমি তাদেরকে বিভক্ত করেছি বারোটি জাতি-গোত্রে। আমি মূসার কাছে ওহী পাঠালাম- যখন তার কওম তার কাছে পানি চাইল- যে, ‘তুমি তোমার লাঠি দিয়ে পাথরে আঘাত কর’। ফলে এ থেকে উৎসারিত হল বারোটি ঝর্ণা। প্রত্যেক গোত্র চিনে নিল নিজদের পানস্থান। আর আমি তাদের উপর মেঘের ছায়া দিয়েছিলাম এবং তাদের উপর নাযিল করেছিলাম মান্না* ও সালওয়া** । ‘তোমাদেরকে যে রিযিক দিয়েছি তা থেকে পবিত্র বস্তু আহার কর’। আর তারা আমার প্রতি যুলম করেনি, বরং তারা নিজদের উপরই যুলম করত। \n* মান্না’ এক ধরণের সুস্বাদু খাবার, যা শিশিরের মত গাছের পাতায় ও ঘাসের উপর জমে থাকত। আল্লাহ বিশেষভাবে তা বনী ইসরাঈলের জন্য প্রেরণ করেছিলেন।",
+    "urdu": "اور ہم نے ان کو (یعنی بنی اسرائیل کو) الگ الگ کرکے بارہ قبیلے (اور) بڑی بڑی جماعتیں بنا دیا۔ اور جب موسیٰ سے ان کی قوم نے پانی طلب کیا تو ہم نے ان کی طرف وحی بھیجی کہ اپنی لاٹھی پتھر پر مار دو۔ تو اس میں سے بارہ چشمے پھوٹ نکلے۔ اور سب لوگوں نے اپنا اپنا گھاٹ معلوم کرلیا۔ اور ہم نے ان (کے سروں) پر بادل کو سائبان بنائے رکھا اور ان پر من وسلویٰ اتارتے رہے۔ اور (ان سے کہا کہ) جو پاکیزہ چیزیں ہم تمہیں دیتے ہیں انہیں کھاؤ۔ اور ان لوگوں نے ہمارا کچھ نقصان نہیں کیا بلکہ (جو) نقصان کیا اپنا ہی کیا"
+}

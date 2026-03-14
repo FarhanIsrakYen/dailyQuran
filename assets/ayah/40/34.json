@@ -1,0 +1,42 @@
+{
+    "surahName": "Ghafir",
+    "surahNameArabic": "غافر",
+    "surahNameArabicLong": "سورة غافر",
+    "surahNameTranslation": "The Forgiver",
+    "revelationPlace": "Mecca",
+    "totalAyah": 85,
+    "surahNo": 40,
+    "ayahNo": 34,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/40_34.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/040034.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/40_34.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/040034.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/40_34.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/040034.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/40_34.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/040034.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/40_34.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/040034.mp3"
+        }
+    },
+    "english": "Joseph already came to you earlier with clear proofs, yet you never ceased to doubt what he came to you with. When he died you said, ‘Allah will never send a messenger after him.’ This is how Allah leaves every transgressor and doubter to stray—",
+    "arabic1": "وَلَقَدْ جَآءَكُمْ يُوسُفُ مِن قَبْلُ بِٱلْبَيِّنَـٰتِ فَمَا زِلْتُمْ فِى شَكٍّ مِّمَّا جَآءَكُم بِهِۦ ۖ حَتَّىٰٓ إِذَا هَلَكَ قُلْتُمْ لَن يَبْعَثَ ٱللَّهُ مِنۢ بَعْدِهِۦ رَسُولًا ۚ كَذَٰلِكَ يُضِلُّ ٱللَّهُ مَنْ هُوَ مُسْرِفٌ مُّرْتَابٌ",
+    "arabic2": "ولقد جاءكم يوسف من قبل بالبينات فما زلتم في شك مما جاءكم به حتى اذا هلك قلتم لن يبعث الله من بعده رسولا كذلك يضل الله من هو مسرف مرتاب",
+    "bengali": "আর অবশ্যই পূর্বে তোমাদের কাছে সুস্পষ্ট প্রমাণাদিসহ ইউসুফ এসেছিল, সে যা নিয়ে তোমাদের কাছে এসেছিল তা নিয়ে তোমরা সন্দেহে স্থির ছিলে; এমনকি যখন সে মারা গেল তখন তোমরা বললে, ‘আল্লাহ তার পরে কখনো কোন রাসূল পাঠাবেন না’। যে সীমালংঘনকারী, সংশয়বাদী, আল্লাহ তাকে এভাবেই পথভ্রষ্ট করেন।",
+    "urdu": "اور پہلے یوسف بھی تمہارے پاس نشانیاں لے کر آئے تھے تو جو وہ لائے تھے اس سے تم ہمیشہ شک ہی میں رہے۔ یہاں تک کہ جب وہ فوت ہوگئے تو تم کہنے لگے کہ خدا اس کے بعد کبھی کوئی پیغمبر نہیں بھیجے گا۔ اسی طرح خدا اس شخص کو گمراہ کر دیتا ہے جو حد سے نکل جانے والا اور شک کرنے والا ہو"
+}

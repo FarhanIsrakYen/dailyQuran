@@ -1,0 +1,42 @@
+{
+    "surahName": "Yunus",
+    "surahNameArabic": "يونس",
+    "surahNameArabicLong": "سورة يونس",
+    "surahNameTranslation": "Jonas",
+    "revelationPlace": "Mecca",
+    "totalAyah": 109,
+    "surahNo": 10,
+    "ayahNo": 9,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/10_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/010009.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/10_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/010009.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/10_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/010009.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/10_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/010009.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/10_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/010009.mp3"
+        }
+    },
+    "english": "Surely those who believe and do good, their Lord will guide them ˹to Paradise˺ through their faith, rivers will flow under their feet in the Gardens of Bliss",
+    "arabic1": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ يَهْدِيهِمْ رَبُّهُم بِإِيمَـٰنِهِمْ ۖ تَجْرِى مِن تَحْتِهِمُ ٱلْأَنْهَـٰرُ فِى جَنَّـٰتِ ٱلنَّعِيمِ",
+    "arabic2": "ان الذين امنوا وعملوا الصالحات يهديهم ربهم بايمانهم تجري من تحتهم الانهار في جنات النعيم",
+    "bengali": "নিশ্চয় যারা ঈমান আনে এবং নেক আমল করে, তাদের রব ঈমানের কারণে তাদেরকে পথ দেখাবেন, আরামদায়ক জান্নাতসমূহে যার তলদেশে নহরসমূহ প্রবাহিত।",
+    "urdu": "اور جو لوگ ایمان لائے اور نیک کام کرتے رہے ان کو پروردگار ان کے ایمان کی وجہ سے (ایسے محلوں کی) راہ دکھائے گا (کہ) ان کے نیچے نعمت کے باغوں میں نہریں بہہ رہی ہوں گی"
+}

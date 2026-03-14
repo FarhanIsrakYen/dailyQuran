@@ -1,0 +1,42 @@
+{
+    "surahName": "Ash-Shu'araa",
+    "surahNameArabic": "الشعراء",
+    "surahNameArabicLong": "سورة الشعراء",
+    "surahNameTranslation": "The Poets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 227,
+    "surahNo": 26,
+    "ayahNo": 184,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/26_184.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/026184.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/26_184.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/026184.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/26_184.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/026184.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/26_184.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/026184.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/26_184.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/026184.mp3"
+        }
+    },
+    "english": "And fear the One Who created you and ˹all˺ earlier peoples.”",
+    "arabic1": "وَٱتَّقُوا۟ ٱلَّذِى خَلَقَكُمْ وَٱلْجِبِلَّةَ ٱلْأَوَّلِينَ",
+    "arabic2": "واتقوا الذي خلقكم والجبلة الاولين",
+    "bengali": "‘যিনি তোমাদেরকে ও পূর্ববর্তী প্রজন্মসমূহকে সৃষ্টি করেছেন, তাঁর তাকওয়া অবলম্বন কর’।",
+    "urdu": "اور اس سے ڈرو جس نے تم کو اور پہلی خلقت کو پیدا کیا"
+}

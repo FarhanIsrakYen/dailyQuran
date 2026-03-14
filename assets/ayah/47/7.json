@@ -1,0 +1,42 @@
+{
+    "surahName": "Muhammad",
+    "surahNameArabic": "محمد",
+    "surahNameArabicLong": "سورة محمد",
+    "surahNameTranslation": "Muhammad",
+    "revelationPlace": "Madina",
+    "totalAyah": 38,
+    "surahNo": 47,
+    "ayahNo": 7,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/47_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/047007.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/47_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/047007.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/47_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/047007.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/47_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/047007.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/47_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/047007.mp3"
+        }
+    },
+    "english": "O believers! If you stand up for Allah, He will help you and make your steps firm.",
+    "arabic1": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِن تَنصُرُوا۟ ٱللَّهَ يَنصُرْكُمْ وَيُثَبِّتْ أَقْدَامَكُمْ",
+    "arabic2": "يا ايها الذين امنوا ان تنصروا الله ينصركم ويثبت اقدامكم",
+    "bengali": "হে মুমিনগণ, যদি তোমরা আল্লাহকে সাহায্য কর তবে আল্লাহও তোমাদেরকে সাহায্য করবেন এবং তোমাদের পা সুদৃঢ় করে দেবেন।",
+    "urdu": "اے اہل ایمان! اگر تم خدا کی مدد کرو گے تو وہ بھی تمہاری مدد کرے گا اور تم کو ثابت قدم رکھے گا"
+}

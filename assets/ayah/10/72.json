@@ -1,0 +1,42 @@
+{
+    "surahName": "Yunus",
+    "surahNameArabic": "يونس",
+    "surahNameArabicLong": "سورة يونس",
+    "surahNameTranslation": "Jonas",
+    "revelationPlace": "Mecca",
+    "totalAyah": 109,
+    "surahNo": 10,
+    "ayahNo": 72,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/10_72.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/010072.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/10_72.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/010072.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/10_72.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/010072.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/10_72.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/010072.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/10_72.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/010072.mp3"
+        }
+    },
+    "english": "And if you turn away, ˹remember˺ I have never demanded a reward from you ˹for delivering the message˺. My reward is only from Allah. And I have been commanded to be one of those who submit ˹to Allah˺.”",
+    "arabic1": "فَإِن تَوَلَّيْتُمْ فَمَا سَأَلْتُكُم مِّنْ أَجْرٍ ۖ إِنْ أَجْرِىَ إِلَّا عَلَى ٱللَّهِ ۖ وَأُمِرْتُ أَنْ أَكُونَ مِنَ ٱلْمُسْلِمِينَ",
+    "arabic2": "فان توليتم فما سالتكم من اجر ان اجري الا على الله وامرت ان اكون من المسلمين",
+    "bengali": "‘অতঃপর তোমরা যদি বিমুখ হও, তবে আমি তোমাদের কাছে কোন প্রতিদান চাই না। আমার প্রতিদান তো কেবল আল্লাহর দায়িত্বে। আর আমি আদিষ্ট হয়েছি মুসলিমদের অন্তর্ভুক্ত হওয়ার’।",
+    "urdu": "اور اگر تم نے منہ پھیر لیا تو (تم جانتے ہو کہ) میں نے تم سے کچھ معاوضہ نہیں مانگا۔ میرا معاوضہ تو خدا کے ذمے ہے۔ اور مجھے حکم ہوا ہے کہ میں فرمانبرداروں میں رہوں"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 222,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_222.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002222.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_222.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002222.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_222.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002222.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_222.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002222.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_222.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002222.mp3"
+        }
+    },
+    "english": "They ask you ˹O Prophet˺ about menstruation. Say, “Beware of its harm! So keep away, and do not have intercourse with your wives during their monthly cycles until they are purified. When they purify themselves, then you may approach them in the manner specified by Allah. Surely Allah loves those who always turn to Him in repentance and those who purify themselves.”",
+    "arabic1": "وَيَسْـَٔلُونَكَ عَنِ ٱلْمَحِيضِ ۖ قُلْ هُوَ أَذًى فَٱعْتَزِلُوا۟ ٱلنِّسَآءَ فِى ٱلْمَحِيضِ ۖ وَلَا تَقْرَبُوهُنَّ حَتَّىٰ يَطْهُرْنَ ۖ فَإِذَا تَطَهَّرْنَ فَأْتُوهُنَّ مِنْ حَيْثُ أَمَرَكُمُ ٱللَّهُ ۚ إِنَّ ٱللَّهَ يُحِبُّ ٱلتَّوَّٰبِينَ وَيُحِبُّ ٱلْمُتَطَهِّرِينَ",
+    "arabic2": "ويسالونك عن المحيض قل هو اذى فاعتزلوا النساء في المحيض ولا تقربوهن حتى يطهرن فاذا تطهرن فاتوهن من حيث امركم الله ان الله يحب التوابين ويحب المتطهرين",
+    "bengali": "আর তারা তোমাকে হায়েয সম্পর্কে প্রশ্ন করে। বল, তা কষ্ট। সুতরাং তোমরা হায়েযকালে স্ত্রীদের থেকে দূরে থাক এবং তারা পবিত্র না হওয়া পর্যন্ত তাদের নিকটবর্তী হয়ো না। অতঃপর যখন তারা পবিত্র হবে তখন তাদের নিকট আস, যেভাবে আল্লাহ তোমাদেরকে নির্দেশ দিয়েছেন। নিশ্চয় আল্লাহ তাওবাকারীদেরকে ভালবাসেন এবং ভালবাসেন অধিক পবিত্রতা অর্জনকারীদেরকে।",
+    "urdu": "اور تم سے حیض کے بارے میں دریافت کرتے ہیں۔ کہہ دو کہ وہ تو نجاست ہے۔ سو ایام حیض میں عورتوں سے کنارہ کش رہو۔ اور جب تک پاک نہ ہوجائیں ان سے مقاربت نہ کرو۔ ہاں جب پاک ہوجائیں تو جس طریق سے خدا نے ارشاد فرمایا ہے ان کے پاس جاؤ۔ کچھ شک نہیں کہ خدا توبہ کرنے والوں اور پاک صاف رہنے والوں کو دوست رکھتا ہے"
+}

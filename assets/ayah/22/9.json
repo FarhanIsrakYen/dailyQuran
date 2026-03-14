@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Hajj",
+    "surahNameArabic": "الحج",
+    "surahNameArabicLong": "سورة الحج",
+    "surahNameTranslation": "The Pilgrimage",
+    "revelationPlace": "Madina",
+    "totalAyah": 78,
+    "surahNo": 22,
+    "ayahNo": 9,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/22_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/022009.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/22_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/022009.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/22_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/022009.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/22_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/022009.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/22_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/022009.mp3"
+        }
+    },
+    "english": "turning away ˹in pride˺ to lead ˹others˺ astray from Allah’s Way. They will suffer disgrace in this world, and on the Day of Judgment We will make them taste the torment of burning.",
+    "arabic1": "ثَانِىَ عِطْفِهِۦ لِيُضِلَّ عَن سَبِيلِ ٱللَّهِ ۖ لَهُۥ فِى ٱلدُّنْيَا خِزْىٌ ۖ وَنُذِيقُهُۥ يَوْمَ ٱلْقِيَـٰمَةِ عَذَابَ ٱلْحَرِيقِ",
+    "arabic2": "ثاني عطفه ليضل عن سبيل الله له في الدنيا خزي ونذيقه يوم القيامة عذاب الحريق",
+    "bengali": "সে বিতর্ক করে ঘাড় বাঁকিয়ে, মানুষকে আল্লাহর পথ থেকে ভ্রষ্ট করার উদ্দেশ্যে তার জন্য রয়েছে দুনিয়াতে লাঞ্ছনা এবং কিয়ামতের দিন আমি তাকে দহন যন্ত্রণা আস্বাদন করাব।",
+    "urdu": "(اور تکبر سے) گردن موڑ لیتا (ہے) تاکہ (لوگوں کو) خدا کے رستے سے گمراہ کردے۔ اس کے لئے دنیا میں ذلت ہے۔ اور قیامت کے دن ہم اسے عذاب (آتش) سوزاں کا مزہ چکھائیں گے"
+}

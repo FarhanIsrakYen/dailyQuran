@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 13,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/4_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/004013.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/4_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/004013.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/4_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/004013.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/4_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/004013.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/4_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/004013.mp3"
+        }
+    },
+    "english": "These ˹entitlements˺ are the limits set by Allah. Whoever obeys Allah and His Messenger will be admitted into Gardens under which rivers flow, to stay there forever. That is the ultimate triumph!",
+    "arabic1": "تِلْكَ حُدُودُ ٱللَّهِ ۚ وَمَن يُطِعِ ٱللَّهَ وَرَسُولَهُۥ يُدْخِلْهُ جَنَّـٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ خَـٰلِدِينَ فِيهَا ۚ وَذَٰلِكَ ٱلْفَوْزُ ٱلْعَظِيمُ",
+    "arabic2": "تلك حدود الله ومن يطع الله ورسوله يدخله جنات تجري من تحتها الانهار خالدين فيها وذلك الفوز العظيم",
+    "bengali": "এগুলো আল্লাহর সীমারেখা। আর যে আল্লাহ ও তাঁর রাসূলের আনুগত্য করে আল্লাহ তাকে প্রবেশ করাবেন জান্নাতসমূহে, যার তলদেশে প্রবাহিত রয়েছে নহরসমূহ। সেখানে তারা স্থায়ী হবে। আর এটা মহা সফলতা ।",
+    "urdu": "(یہ تمام احکام) خدا کی حدیں ہیں۔ اور جو شخص خدا اور اس کے پیغمبر کی فرمانبرداری کرے گا خدا اس کو بہشتوں میں داخل کرے گا جن میں نہریں بہہ رہی ہیں وہ ان میں ہمیشہ رہیں گے۔اور یہ بڑی کامیابی ہے"
+}

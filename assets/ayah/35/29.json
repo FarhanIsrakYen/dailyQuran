@@ -1,0 +1,42 @@
+{
+    "surahName": "Faatir",
+    "surahNameArabic": "فاطر",
+    "surahNameArabicLong": "سورة فاطر",
+    "surahNameTranslation": "The Originator",
+    "revelationPlace": "Mecca",
+    "totalAyah": 45,
+    "surahNo": 35,
+    "ayahNo": 29,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/35_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/035029.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/35_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/035029.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/35_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/035029.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/35_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/035029.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/35_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/035029.mp3"
+        }
+    },
+    "english": "Surely those who recite the Book of Allah, establish prayer, and donate from what We have provided for them—secretly and openly—˹can˺ hope for an exchange that will never fail",
+    "arabic1": "إِنَّ ٱلَّذِينَ يَتْلُونَ كِتَـٰبَ ٱللَّهِ وَأَقَامُوا۟ ٱلصَّلَوٰةَ وَأَنفَقُوا۟ مِمَّا رَزَقْنَـٰهُمْ سِرًّا وَعَلَانِيَةً يَرْجُونَ تِجَـٰرَةً لَّن تَبُورَ",
+    "arabic2": "ان الذين يتلون كتاب الله واقاموا الصلاة وانفقوا مما رزقناهم سرا وعلانية يرجون تجارة لن تبور",
+    "bengali": "নিশ্চয় যারা আল্লাহর কিতাব অধ্যয়ন করে, সালাত কায়েম করে এবং আল্লাহ যে রিয্ক দিয়েছেন তা থেকে গোপনে ও প্রকাশ্যে ব্যয় করে, তারা এমন ব্যবসার আশা করতে পারে যা কখনো ধ্বংস হবে না।",
+    "urdu": "جو لوگ خدا کی کتاب پڑھتے اور نماز کی پابندی کرتے ہیں اور جو کچھ ہم نے ان کو دیا ہے اس میں سے پوشیدہ اور ظاہر خرچ کرتے ہیں وہ اس تجارت (کے فائدے) کے امیدوار ہیں جو کبھی تباہ نہیں ہوگی"
+}

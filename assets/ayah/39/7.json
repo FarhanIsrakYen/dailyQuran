@@ -1,0 +1,42 @@
+{
+    "surahName": "Az-Zumar",
+    "surahNameArabic": "الزمر",
+    "surahNameArabicLong": "سورة الزمر",
+    "surahNameTranslation": "The Groups",
+    "revelationPlace": "Mecca",
+    "totalAyah": 75,
+    "surahNo": 39,
+    "ayahNo": 7,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/39_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/039007.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/39_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/039007.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/39_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/039007.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/39_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/039007.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/39_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/039007.mp3"
+        }
+    },
+    "english": "If you disbelieve, then ˹know that˺ Allah is truly not in need of you, nor does He approve of disbelief from His servants. But if you become grateful ˹through faith˺, He will appreciate that from you. No soul burdened with sin will bear the burden of another. Then to your Lord is your return, and He will inform you of what you used to do. He certainly knows best what is ˹hidden˺ in the heart.",
+    "arabic1": "إِن تَكْفُرُوا۟ فَإِنَّ ٱللَّهَ غَنِىٌّ عَنكُمْ ۖ وَلَا يَرْضَىٰ لِعِبَادِهِ ٱلْكُفْرَ ۖ وَإِن تَشْكُرُوا۟ يَرْضَهُ لَكُمْ ۗ وَلَا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ ۗ ثُمَّ إِلَىٰ رَبِّكُم مَّرْجِعُكُمْ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ ۚ إِنَّهُۥ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ",
+    "arabic2": "ان تكفروا فان الله غني عنكم ولا يرضى لعباده الكفر وان تشكروا يرضه لكم ولا تزر وازرة وزر اخرى ثم الى ربكم مرجعكم فينبئكم بما كنتم تعملون انه عليم بذات الصدور",
+    "bengali": "তোমরা যদি কুফরী কর তবে (জেনে রাখ) আল্লাহ তোমাদের থেকে অমুখাপেক্ষী; আর তিনি তাঁর বান্দাদের জন্য কুফরী পছন্দ করেন না এবং তোমরা যদি শোকর কর তবে তোমাদের জন্য তিনি তা পছন্দ করেন; আর কোন বোঝা বহনকারী অপরের বোঝা বহন করে না। তারপর তোমাদের রবের দিকেই তোমাদের প্রত্যাবর্তন হবে। তখন তোমরা যে আমল করতে তিনি তা তোমাদেরকে জানিয়ে দেবেন। নিশ্চয় অন্তরে যা আছে তা তিনি সম্যক অবগত।",
+    "urdu": "اگر ناشکری کرو گے تو خدا تم سے بےپروا ہے۔ اور وہ اپنے بندوں کے لئے ناشکری پسند نہیں کرتا اور اگر شکر کرو گے تو وہ اس کو تمہارے لئے پسند کرے گا۔ اور کوئی اٹھانے والا دوسرے کا بوجھ نہیں اٹھائے گا۔ پھر تم اپنے پروردگار کی طرف لوٹنا ہے۔ پھر جو کچھ تم کرتے رہے وہ تم کو بتائے گا۔ وہ تو دلوں کی پوشیدہ باتوں تک سے آگاہ ہے"
+}

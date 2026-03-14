@@ -1,0 +1,42 @@
+{
+    "surahName": "Fussilat",
+    "surahNameArabic": "فصلت",
+    "surahNameArabicLong": "سورة فصلت",
+    "surahNameTranslation": "Explained in detail",
+    "revelationPlace": "Mecca",
+    "totalAyah": 54,
+    "surahNo": 41,
+    "ayahNo": 39,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/41_39.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/041039.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/41_39.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/041039.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/41_39.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/041039.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/41_39.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/041039.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/41_39.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/041039.mp3"
+        }
+    },
+    "english": "And among His signs is that you see the earth devoid of life, but as soon as We send down rain upon it, it begins to stir ˹to life˺ and swell. Indeed, the One Who revives it can easily revive the dead. He is certainly Most Capable of everything.",
+    "arabic1": "وَمِنْ ءَايَـٰتِهِۦٓ أَنَّكَ تَرَى ٱلْأَرْضَ خَـٰشِعَةً فَإِذَآ أَنزَلْنَا عَلَيْهَا ٱلْمَآءَ ٱهْتَزَّتْ وَرَبَتْ ۚ إِنَّ ٱلَّذِىٓ أَحْيَاهَا لَمُحْىِ ٱلْمَوْتَىٰٓ ۚ إِنَّهُۥ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+    "arabic2": "ومن اياته انك ترى الارض خاشعة فاذا انزلنا عليها الماء اهتزت وربت ان الذي احياها لمحيي الموتى انه على كل شيء قدير",
+    "bengali": "তাঁর আরেকটি নিদর্শন হল এই যে, তুমি যমীনকে দেখতে পাও শুষ্ক-অনুর্বর, অতঃপর যখন আমি তার উপর পানি বর্ষণ করি তখন তা আন্দোলিত ও স্ফীত হয়। নিশ্চয়ই যিনি যমীনকে জীবিত করেন তিনি মৃতদেরও জীবিতকারী। নিশ্চয় তিনি সব কিছুর উপর ক্ষমতাবান।",
+    "urdu": "اور (اے بندے یہ) اسی کی قدرت کے نمونے ہیں کہ تو زمین کو دبی ہوئی (یعنی خشک) دیکھتا ہے۔ جب ہم اس پر پانی برسا دیتے ہیں تو شاداب ہوجاتی اور پھولنے لگتی ہے تو جس نے زمین کو زندہ کیا وہی مردوں کو زندہ کرنے والا ہے۔ بےشک وہ ہر چیز پر قادر ہے"
+}

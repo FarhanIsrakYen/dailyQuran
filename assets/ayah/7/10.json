@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 10,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/7_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/007010.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/7_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/007010.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/7_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/007010.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/7_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/007010.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/7_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/007010.mp3"
+        }
+    },
+    "english": "We have indeed established you on earth and provided you with a means of livelihood. ˹Yet˺ you seldom give any thanks.",
+    "arabic1": "وَلَقَدْ مَكَّنَّـٰكُمْ فِى ٱلْأَرْضِ وَجَعَلْنَا لَكُمْ فِيهَا مَعَـٰيِشَ ۗ قَلِيلًا مَّا تَشْكُرُونَ",
+    "arabic2": "ولقد مكناكم في الارض وجعلنا لكم فيها معايش قليلا ما تشكرون",
+    "bengali": "আর অবশ্যই আমি তো তোমাদেরকে যমীনে প্রতিষ্ঠিত করেছি এবং তোমাদের জন্য তাতে রেখেছি জীবনোপকরণ। তোমরা অল্পই কৃতজ্ঞ হও।",
+    "urdu": "اور ہم ہی نے زمین میں تمہارا ٹھکانہ بنایا اور اس میں تمہارے لیے سامان معشیت پیدا کئے۔ (مگر) تم کم ہی شکر کرتے ہو"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Az-Zukhruf",
+    "surahNameArabic": "الزخرف",
+    "surahNameArabicLong": "سورة الزخرف",
+    "surahNameTranslation": "Ornaments of gold",
+    "revelationPlace": "Mecca",
+    "totalAyah": 89,
+    "surahNo": 43,
+    "ayahNo": 32,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/43_32.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/043032.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/43_32.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/043032.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/43_32.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/043032.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/43_32.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/043032.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/43_32.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/043032.mp3"
+        }
+    },
+    "english": "Is it they who distribute your Lord’s mercy? We ˹alone˺ have distributed their ˹very˺ livelihood among them in this worldly life and raised some of them in rank above others so that some may employ others in service. ˹But˺ your Lord’s mercy is far better than whatever ˹wealth˺ they amass.",
+    "arabic1": "أَهُمْ يَقْسِمُونَ رَحْمَتَ رَبِّكَ ۚ نَحْنُ قَسَمْنَا بَيْنَهُم مَّعِيشَتَهُمْ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا ۚ وَرَفَعْنَا بَعْضَهُمْ فَوْقَ بَعْضٍ دَرَجَـٰتٍ لِّيَتَّخِذَ بَعْضُهُم بَعْضًا سُخْرِيًّا ۗ وَرَحْمَتُ رَبِّكَ خَيْرٌ مِّمَّا يَجْمَعُونَ",
+    "arabic2": "اهم يقسمون رحمت ربك نحن قسمنا بينهم معيشتهم في الحياة الدنيا ورفعنا بعضهم فوق بعض درجات ليتخذ بعضهم بعضا سخريا ورحمت ربك خير مما يجمعون",
+    "bengali": "তারা কি তোমার রবের রহমত ভাগ-বণ্টন করে? আমিই দুনিয়ার জীবনে তাদের মধ্যে তাদের জীবিকা বণ্টন করে দেই এবং তাদের একজনকে অপর জনের উপর মর্যাদায় উন্নীত করি যাতে একে অপরকে অধিনস্থ হিসেবে গ্রহণ করতে পারে। আর তারা যা সঞ্চয় করে তোমার রবের রহমত তা অপেক্ষা উৎকৃষ্ট।",
+    "urdu": "کیا یہ لوگ تمہارے پروردگار کی رحمت کو بانٹتے ہیں؟ ہم نے ان میں ان کی معیشت کو دنیا کی زندگی میں تقسیم کردیا اور ایک کے دوسرے پر درجے بلند کئے تاکہ ایک دوسرے سے خدمت لے اور جو کچھ یہ جمع کرتے ہیں تمہارے پروردگار کی رحمت اس سے کہیں بہتر ہے"
+}

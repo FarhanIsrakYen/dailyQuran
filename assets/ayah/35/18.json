@@ -1,0 +1,42 @@
+{
+    "surahName": "Faatir",
+    "surahNameArabic": "فاطر",
+    "surahNameArabicLong": "سورة فاطر",
+    "surahNameTranslation": "The Originator",
+    "revelationPlace": "Mecca",
+    "totalAyah": 45,
+    "surahNo": 35,
+    "ayahNo": 18,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/35_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/035018.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/35_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/035018.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/35_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/035018.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/35_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/035018.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/35_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/035018.mp3"
+        }
+    },
+    "english": "No soul burdened with sin will bear the burden of another. And if a sin-burdened soul cries for help with its burden, none of it will be carried—even by a close relative. You ˹O Prophet˺ can only warn those who stand in awe of their Lord without seeing Him and establish prayer. Whoever purifies themselves, they only do so for their own good. And to Allah is the final return.",
+    "arabic1": "وَلَا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ ۚ وَإِن تَدْعُ مُثْقَلَةٌ إِلَىٰ حِمْلِهَا لَا يُحْمَلْ مِنْهُ شَىْءٌ وَلَوْ كَانَ ذَا قُرْبَىٰٓ ۗ إِنَّمَا تُنذِرُ ٱلَّذِينَ يَخْشَوْنَ رَبَّهُم بِٱلْغَيْبِ وَأَقَامُوا۟ ٱلصَّلَوٰةَ ۚ وَمَن تَزَكَّىٰ فَإِنَّمَا يَتَزَكَّىٰ لِنَفْسِهِۦ ۚ وَإِلَى ٱللَّهِ ٱلْمَصِيرُ",
+    "arabic2": "ولا تزر وازرة وزر اخرى وان تدع مثقلة الى حملها لا يحمل منه شيء ولو كان ذا قربى انما تنذر الذين يخشون ربهم بالغيب واقاموا الصلاة ومن تزكى فانما يتزكى لنفسه والى الله المصير",
+    "bengali": "আর কোন বোঝা বহনকারী অন্যের বোঝা বহন করবে না এবং কোন ভারাক্রান্ত ব্যক্তি যদি তার বোঝা বহনের জন্য কাউকে ডাকে তবে তার বোঝার কোন অংশই বহন করা হবে না যদিও সে আত্মীয় হয়; তুমি কেবল তাদেরকেই সতর্ক করবে যারা তাদের রবকে না দেখেও ভয় করে এবং সালাত কায়েম করে; আর যে ব্যক্তি পরিশুদ্ধি অর্জন করে সে নিজের জন্যই পরিশুদ্ধি অর্জন করে। আর আল্লাহর কাছেই প্রত্যাবর্তন।",
+    "urdu": "اور کوئی اٹھانے والا دوسرے کا بوجھ نہ اٹھائے گا۔ اور کوئی بوجھ میں دبا ہوا اپنا بوجھ بٹانے کو کسی کو بلائے تو کوئی اس میں سے کچھ نہ اٹھائے گا اگرچہ قرابت دار ہی ہو۔ (اے پیغمبر) تم انہی لوگوں کو نصیحت کرسکتے ہو جو بن دیکھے اپنے پروردگار سے ڈرتے اور نماز بالالتزام پڑھتے ہیں۔ اور جو شخص پاک ہوتا ہے اپنے ہی لئے پاک ہوتا ہے۔ اور (سب کو) خدا ہی کی طرف لوٹ کر جانا ہے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Furqaan",
+    "surahNameArabic": "الفرقان",
+    "surahNameArabicLong": "سورة الفرقان",
+    "surahNameTranslation": "The Criterion",
+    "revelationPlace": "Mecca",
+    "totalAyah": 77,
+    "surahNo": 25,
+    "ayahNo": 53,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/25_53.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/025053.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/25_53.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/025053.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/25_53.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/025053.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/25_53.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/025053.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/25_53.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/025053.mp3"
+        }
+    },
+    "english": "And He is the One Who merges the two bodies of water: one fresh and palatable and the other salty and bitter, placing between them a barrier they cannot cross.",
+    "arabic1": "۞ وَهُوَ ٱلَّذِى مَرَجَ ٱلْبَحْرَيْنِ هَـٰذَا عَذْبٌ فُرَاتٌ وَهَـٰذَا مِلْحٌ أُجَاجٌ وَجَعَلَ بَيْنَهُمَا بَرْزَخًا وَحِجْرًا مَّحْجُورًا",
+    "arabic2": "وهو الذي مرج البحرين هذا عذب فرات وهذا ملح اجاج وجعل بينهما برزخا وحجرا محجورا",
+    "bengali": "আর তিনিই দু’টো সাগরকে একসাথে প্রবাহিত করেছেন। একটি সুপেয় সুস্বাদু, অপরটি লবণাক্ত ক্ষারবিশিষ্ট এবং তিনি এতদোভয়ের মাঝখানে একটি অন্তরায় ও একটি অনতিক্রম্য সীমানা স্থাপন করেছেন।",
+    "urdu": "اور وہی تو ہے جس نے دو دریاؤں کو ملا دیا ایک کا پانی شیریں ہے پیاس بجھانے والا اور دوسرے کا کھاری چھاتی جلانے والا۔ اور دونوں کے درمیان ایک آڑ اور مضبوط اوٹ بنادی"
+}

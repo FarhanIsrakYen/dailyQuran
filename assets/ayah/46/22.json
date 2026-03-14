@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Ahqaf",
+    "surahNameArabic": "الأحقاف",
+    "surahNameArabicLong": "سورة الأحقاف",
+    "surahNameTranslation": "The Dunes",
+    "revelationPlace": "Mecca",
+    "totalAyah": 35,
+    "surahNo": 46,
+    "ayahNo": 22,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/46_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/046022.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/46_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/046022.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/46_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/046022.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/46_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/046022.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/46_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/046022.mp3"
+        }
+    },
+    "english": "They argued, “Have you come to turn us away from our gods? Bring us then whatever you threaten us with, if what you say is true.”",
+    "arabic1": "قَالُوٓا۟ أَجِئْتَنَا لِتَأْفِكَنَا عَنْ ءَالِهَتِنَا فَأْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلصَّـٰدِقِينَ",
+    "arabic2": "قالوا اجئتنا لتافكنا عن الهتنا فاتنا بما تعدنا ان كنت من الصادقين",
+    "bengali": "তারা বলল, ‘তুমি কি আমাদেরকে আমাদের উপাস্যদের থেকে নিবৃত্ত করতে আমাদের নিকট এসেছ? তুমি যদি সত্যবাদীদের অন্তর্ভুক্ত হও, তাহলে আমাদেরকে যার ভয় দেখাচ্ছ তা নিয়ে এসো’।",
+    "urdu": "کہنے لگے کیا تم ہمارے پاس اس لئے آئے ہو کہ ہم کو ہمارے معبودوں سے پھیر دو۔ اگر سچے ہو تو جس چیز سے ہمیں ڈراتے ہو اسے ہم پر لے آؤ"
+}

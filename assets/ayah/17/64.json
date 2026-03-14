@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 64,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/17_64.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/017064.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/17_64.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/017064.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/17_64.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/017064.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/17_64.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/017064.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/17_64.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/017064.mp3"
+        }
+    },
+    "english": "And incite whoever you can of them with your voice, mobilize against them all your cavalry and infantry, manipulate them in their wealth and children, and make them promises.” But Satan promises them nothing but delusion.",
+    "arabic1": "وَٱسْتَفْزِزْ مَنِ ٱسْتَطَعْتَ مِنْهُم بِصَوْتِكَ وَأَجْلِبْ عَلَيْهِم بِخَيْلِكَ وَرَجِلِكَ وَشَارِكْهُمْ فِى ٱلْأَمْوَٰلِ وَٱلْأَوْلَـٰدِ وَعِدْهُمْ ۚ وَمَا يَعِدُهُمُ ٱلشَّيْطَـٰنُ إِلَّا غُرُورًا",
+    "arabic2": "واستفزز من استطعت منهم بصوتك واجلب عليهم بخيلك ورجلك وشاركهم في الاموال والاولاد وعدهم وما يعدهم الشيطان الا غرورا",
+    "bengali": "‘তোমার কণ্ঠ দিয়ে তাদের মধ্যে যাকে পারো প্ররোচিত কর, তাদের উপর ঝাপিয়ে পড় তোমার অশ্বারোহী ও পদাতিক বাহিনী নিয়ে এবং তাদের ধন-সম্পদ ও সন্তান-সন্ততিতে অংশীদার হও এবং তাদেরকে ওয়াদা দাও’। আর শয়তান প্রতারণা ছাড়া তাদেরকে কোন ওয়াদাই দেয় না।",
+    "urdu": "اور ان میں سے جس کو بہکا سکے اپنی آواز سے بہکاتا رہ۔ اور ان پر اپنے سواروں اور پیاروں کو چڑھا کر لاتا رہ اور ان کے مال اور اولاد میں شریک ہوتا رہ اور ان سے وعدے کرتا رہ۔ اور شیطان جو وعدے ان سے کرتا ہے سب دھوکا ہے"
+}

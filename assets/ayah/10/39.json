@@ -1,0 +1,42 @@
+{
+    "surahName": "Yunus",
+    "surahNameArabic": "يونس",
+    "surahNameArabicLong": "سورة يونس",
+    "surahNameTranslation": "Jonas",
+    "revelationPlace": "Mecca",
+    "totalAyah": 109,
+    "surahNo": 10,
+    "ayahNo": 39,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/10_39.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/010039.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/10_39.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/010039.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/10_39.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/010039.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/10_39.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/010039.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/10_39.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/010039.mp3"
+        }
+    },
+    "english": "In fact, they ˹hastily˺ rejected the Book without comprehending it and before the fulfilment of its warnings. Similarly, those before them were in denial. See then what was the end of the wrongdoers!",
+    "arabic1": "بَلْ كَذَّبُوا۟ بِمَا لَمْ يُحِيطُوا۟ بِعِلْمِهِۦ وَلَمَّا يَأْتِهِمْ تَأْوِيلُهُۥ ۚ كَذَٰلِكَ كَذَّبَ ٱلَّذِينَ مِن قَبْلِهِمْ ۖ فَٱنظُرْ كَيْفَ كَانَ عَـٰقِبَةُ ٱلظَّـٰلِمِينَ",
+    "arabic2": "بل كذبوا بما لم يحيطوا بعلمه ولما ياتهم تاويله كذلك كذب الذين من قبلهم فانظر كيف كان عاقبة الظالمين",
+    "bengali": "বরং তারা যে ব্যাপারে পূর্ণ জ্ঞান লাভ করেনি, তা তারা অস্বীকার করেছে এবং এখনও তার পরিণতি তাদের কাছে আসেনি। এভাবেই তারা অস্বীকার করেছিল, যারা ছিল তাদের পূর্বে। সুতরাং তুমি লক্ষ্য কর, কেমন ছিল যালিমদের পরিণাম।",
+    "urdu": "حقیقت یہ ہے کہ جس چیز کے علم پر یہ قابو نہیں پاسکے اس کو (نادانی سے) جھٹلا دیا اور ابھی اس کی حقیقت ان پر کھلی ہی نہیں۔ اسی طرح جو لوگ ان سے پہلے تھے انہوں نے تکذیب کی تھی سو دیکھ لو ظالموں کا انجام کیسا ہوا"
+}

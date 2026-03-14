@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 71,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/7_71.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/007071.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/7_71.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/007071.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/7_71.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/007071.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/7_71.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/007071.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/7_71.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/007071.mp3"
+        }
+    },
+    "english": "He said, “You will certainly be subjected to your Lord’s torment and wrath. Do you dispute with me regarding the so-called gods which you and your forefathers have made up—a practice Allah has never authorized? Then wait! I too am waiting with you.”",
+    "arabic1": "قَالَ قَدْ وَقَعَ عَلَيْكُم مِّن رَّبِّكُمْ رِجْسٌ وَغَضَبٌ ۖ أَتُجَـٰدِلُونَنِى فِىٓ أَسْمَآءٍ سَمَّيْتُمُوهَآ أَنتُمْ وَءَابَآؤُكُم مَّا نَزَّلَ ٱللَّهُ بِهَا مِن سُلْطَـٰنٍ ۚ فَٱنتَظِرُوٓا۟ إِنِّى مَعَكُم مِّنَ ٱلْمُنتَظِرِينَ",
+    "arabic2": "قال قد وقع عليكم من ربكم رجس وغضب اتجادلونني في اسماء سميتموها انتم واباؤكم ما نزل الله بها من سلطان فانتظروا اني معكم من المنتظرين",
+    "bengali": "সে বলল, ‘নিশ্চয় তোমাদের উপর তোমাদের রবের পক্ষ থেকে আযাব ও ক্রোধ পতিত হয়েছে। তোমরা কি এমন নামসমূহের ব্যাপারে আমার সাথে বিবাদ করছ, যার নামকরণ করেছ তোমরা ও তোমাদের পিতৃপুরুষরা, যার ব্যাপারে আল্লাহ কোন প্রমাণ নাযিল করেননি? সুতরাং তোমরা অপেক্ষা কর। আমিও তোমাদের সাথে অপেক্ষা করছি’।",
+    "urdu": "ہود نے کہا تمہارے پروردگار کی طرف سے تم پر عذاب اور غضب کا (نازل ہونا) مقرر ہو چکا ہے۔ کیا تم مجھ سے ایسے ناموں کے بارے میں جھگڑتے ہو جو تم نے اور تمہارے باپ دادا نے (اپنی طرف سے) رکھ لئے ہیں۔ جن کی خدا نے کوئی سند نازل نہیں کی۔ تو تم بھی انتظار کرو میں بھی تمہارے ساتھ انتظار کرتا ہوں"
+}

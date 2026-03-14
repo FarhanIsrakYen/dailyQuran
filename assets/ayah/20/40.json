@@ -1,0 +1,42 @@
+{
+    "surahName": "Taa-Haa",
+    "surahNameArabic": "طه",
+    "surahNameArabicLong": "سورة طه",
+    "surahNameTranslation": "Taa-Haa",
+    "revelationPlace": "Mecca",
+    "totalAyah": 135,
+    "surahNo": 20,
+    "ayahNo": 40,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/20_40.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/020040.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/20_40.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/020040.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/20_40.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/020040.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/20_40.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/020040.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/20_40.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/020040.mp3"
+        }
+    },
+    "english": "˹Remember˺ when your sister came along and proposed, ‘Shall I direct you to someone who will nurse him?’ So We reunited you with your mother so that her heart would be put at ease, and she would not grieve. ˹Later˺ you killed a man ˹by mistake˺, but We saved you from sorrow, as well as other tests We put you through. Then you stayed for a number of years among the people of Midian. Then you came here as pre-destined, O  Moses!",
+    "arabic1": "إِذْ تَمْشِىٓ أُخْتُكَ فَتَقُولُ هَلْ أَدُلُّكُمْ عَلَىٰ مَن يَكْفُلُهُۥ ۖ فَرَجَعْنَـٰكَ إِلَىٰٓ أُمِّكَ كَىْ تَقَرَّ عَيْنُهَا وَلَا تَحْزَنَ ۚ وَقَتَلْتَ نَفْسًا فَنَجَّيْنَـٰكَ مِنَ ٱلْغَمِّ وَفَتَنَّـٰكَ فُتُونًا ۚ فَلَبِثْتَ سِنِينَ فِىٓ أَهْلِ مَدْيَنَ ثُمَّ جِئْتَ عَلَىٰ قَدَرٍ يَـٰمُوسَىٰ",
+    "arabic2": "اذ تمشي اختك فتقول هل ادلكم على من يكفله فرجعناك الى امك كي تقر عينها ولا تحزن وقتلت نفسا فنجيناك من الغم وفتناك فتونا فلبثت سنين في اهل مدين ثم جئت على قدر يا موسى",
+    "bengali": "যখন তোমার বোন (সিন্দুকের সাথে সাথে) চলছিল। অতঃপর সে গিয়ে বলল, ‘আমি কি তোমাদেরকে এমন একজনের সন্ধান দেব, যে এর দায়িত্বভার নিতে পারবে’? অতঃপর আমি তোমাকে তোমার মায়ের নিকট ফিরিয়ে দিলাম; যাতে তার চোখ জুড়ায় এবং সে দুঃখ না পায়। আর তুমি এক ব্যক্তিকে হত্যা করেছিলে। তখন আমি তোমাকে মানোবেদনা থেকে মুক্তি দিলাম এবং তোমাকে আমি বিভিন্নভাবে পরীক্ষা করেছি। অতঃপর তুমি কয়েক বছর মাদইয়ানবাসীদের মধ্যে অবস্থান করেছ। হে মূসা, তারপর নির্ধারিত সময়ে তুমি এসে উপস্থিত হলে’।",
+    "urdu": "جب تمہاری بہن (فرعون کے ہاں) گئی اور کہنے لگی کہ میں تمہیں ایسا شخص بتاؤں جو اس کو پالے۔ تو (اس طریق سے) ہم نے تم کو تمہاری ماں کے پاس پہنچا دیا تاکہ ان کی آنکھیں ٹھنڈی ہوں اور وہ رنج نہ کریں۔ اور تم نے ایک شخص کو مار ڈالا تو ہم نے تم کو غم سے مخلصی دی اور ہم نے تمہاری (کئی بار) آزمائش کی۔ پھر تم کئی سال اہل مدین میں ٹھہرے رہے۔ پھر اے موسیٰ تم (قابلیت رسالت کے) اندازے پر آ پہنچے"
+}

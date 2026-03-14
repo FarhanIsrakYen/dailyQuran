@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Ahzaab",
+    "surahNameArabic": "الأحزاب",
+    "surahNameArabicLong": "سورة الأحزاب",
+    "surahNameTranslation": "The Clans",
+    "revelationPlace": "Madina",
+    "totalAyah": 73,
+    "surahNo": 33,
+    "ayahNo": 63,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/33_63.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/033063.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/33_63.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/033063.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/33_63.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/033063.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/33_63.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/033063.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/33_63.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/033063.mp3"
+        }
+    },
+    "english": "People ask you ˹O Prophet˺ about the Hour. Say, “That knowledge is only with Allah. You never know, perhaps the Hour is near.”",
+    "arabic1": "يَسْـَٔلُكَ ٱلنَّاسُ عَنِ ٱلسَّاعَةِ ۖ قُلْ إِنَّمَا عِلْمُهَا عِندَ ٱللَّهِ ۚ وَمَا يُدْرِيكَ لَعَلَّ ٱلسَّاعَةَ تَكُونُ قَرِيبًا",
+    "arabic2": "يسالك الناس عن الساعة قل انما علمها عند الله وما يدريك لعل الساعة تكون قريبا",
+    "bengali": "লোকেরা তোমাকে কিয়ামত সম্পর্কে জিজ্ঞাসা করে, বল, ‘এ বিষয়ের জ্ঞান কেবল আল্লাহর নিকটই আছে, আর তোমার কি জানা আছে, কিয়ামত হয়ত খুব নিকটে!",
+    "urdu": "لوگ تم سے قیامت کی نسبت دریافت کرتے ہیں (کہ کب آئے گی) کہہ دو کہ اس کا علم خدا ہی کو ہے۔ اور تمہیں کیا معلوم ہے شاید قیامت قریب ہی آگئی ہو"
+}

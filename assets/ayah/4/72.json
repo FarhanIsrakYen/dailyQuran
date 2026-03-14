@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 72,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/4_72.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/004072.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/4_72.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/004072.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/4_72.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/004072.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/4_72.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/004072.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/4_72.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/004072.mp3"
+        }
+    },
+    "english": "There will be some among you who will lag behind so that if you face a disaster, they will say, “Allah has blessed us for not being there among them.”",
+    "arabic1": "وَإِنَّ مِنكُمْ لَمَن لَّيُبَطِّئَنَّ فَإِنْ أَصَـٰبَتْكُم مُّصِيبَةٌ قَالَ قَدْ أَنْعَمَ ٱللَّهُ عَلَىَّ إِذْ لَمْ أَكُن مَّعَهُمْ شَهِيدًا",
+    "arabic2": "وان منكم لمن ليبطئن فان اصابتكم مصيبة قال قد انعم الله علي اذ لم اكن معهم شهيدا",
+    "bengali": "আর তোমাদের মধ্যে কেউ কেউ এমন আছে, যে অবশ্যই বিলম্ব করবে। সুতরাং তোমাদের কোন বিপদ আপতিত হলে সে বলবে, ‘আল্লাহ আমার উপর অনুগ্রহ করেছেন যে, আমি তাদের সাথে উপস্থিত ছিলাম না’।",
+    "urdu": "اور تم میں کوئی ایسا بھی ہے کہ (عمداً) دیر لگاتا ہے۔ پھر اگر تم پر کوئی مصیبت پڑ جائے تو کہتا ہے کہ خدا نے مجھ پر بڑی مہربانی کی کہ میں ان میں موجود نہ تھا"
+}

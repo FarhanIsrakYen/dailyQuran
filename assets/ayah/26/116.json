@@ -1,0 +1,42 @@
+{
+    "surahName": "Ash-Shu'araa",
+    "surahNameArabic": "الشعراء",
+    "surahNameArabicLong": "سورة الشعراء",
+    "surahNameTranslation": "The Poets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 227,
+    "surahNo": 26,
+    "ayahNo": 116,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/26_116.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/026116.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/26_116.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/026116.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/26_116.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/026116.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/26_116.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/026116.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/26_116.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/026116.mp3"
+        }
+    },
+    "english": "They threatened, “If you do not desist, O  Noah, you will surely be stoned ˹to death˺.”",
+    "arabic1": "قَالُوا۟ لَئِن لَّمْ تَنتَهِ يَـٰنُوحُ لَتَكُونَنَّ مِنَ ٱلْمَرْجُومِينَ",
+    "arabic2": "قالوا لئن لم تنته يا نوح لتكونن من المرجومين",
+    "bengali": "তারা বলল, ‘হে নূহ, তুমি যদি বিরত না হও তবে অবশ্যই তুমি প্রস্তরাঘাতে নিহতদের অন্তর্ভুক্ত হবে’।",
+    "urdu": "انہوں نے کہا کہ نوح اگر تم باز نہ آؤ گے تو سنگسار کردیئے جاؤ گے"
+}

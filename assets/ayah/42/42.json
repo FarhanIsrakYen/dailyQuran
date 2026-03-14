@@ -1,0 +1,42 @@
+{
+    "surahName": "Ash-Shura",
+    "surahNameArabic": "الشورى",
+    "surahNameArabicLong": "سورة الشورى",
+    "surahNameTranslation": "Consultation",
+    "revelationPlace": "Mecca",
+    "totalAyah": 53,
+    "surahNo": 42,
+    "ayahNo": 42,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/42_42.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/042042.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/42_42.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/042042.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/42_42.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/042042.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/42_42.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/042042.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/42_42.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/042042.mp3"
+        }
+    },
+    "english": "Blame is only on those who wrong people and transgress in the land unjustly. It is they who will suffer a painful punishment.",
+    "arabic1": "إِنَّمَا ٱلسَّبِيلُ عَلَى ٱلَّذِينَ يَظْلِمُونَ ٱلنَّاسَ وَيَبْغُونَ فِى ٱلْأَرْضِ بِغَيْرِ ٱلْحَقِّ ۚ أُو۟لَـٰٓئِكَ لَهُمْ عَذَابٌ أَلِيمٌ",
+    "arabic2": "انما السبيل على الذين يظلمون الناس ويبغون في الارض بغير الحق اولئك لهم عذاب اليم",
+    "bengali": "কেবল তাদের বিরুদ্ধেই ব্যবস্থা গ্রহণ করা হবে, যারা মানুষের উপর যুলম করে এবং যমীনে অন্যায়ভাবে সীমালঙ্ঘন করে বেড়ায়। তাদের জন্য রয়েছে যন্ত্রণাদায়ক আযাব।",
+    "urdu": "الزام تو ان لوگوں پر ہے جو لوگوں پر ظلم کرتے ہیں اور ملک میں ناحق فساد پھیلاتے ہیں۔ یہی لوگ ہیں جن کو تکلیف دینے والا عذاب ہوگا"
+}

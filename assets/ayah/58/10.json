@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Mujaadila",
+    "surahNameArabic": "المجادلة",
+    "surahNameArabicLong": "سورة المجادلة",
+    "surahNameTranslation": "The Pleading Woman",
+    "revelationPlace": "Madina",
+    "totalAyah": 22,
+    "surahNo": 58,
+    "ayahNo": 10,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/58_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/058010.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/58_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/058010.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/58_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/058010.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/58_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/058010.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/58_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/058010.mp3"
+        }
+    },
+    "english": "Secret talks are only inspired by Satan to grieve the believers. Yet he cannot harm them whatsoever except by Allah’s Will. So in Allah let the believers put their trust.",
+    "arabic1": "إِنَّمَا ٱلنَّجْوَىٰ مِنَ ٱلشَّيْطَـٰنِ لِيَحْزُنَ ٱلَّذِينَ ءَامَنُوا۟ وَلَيْسَ بِضَآرِّهِمْ شَيْـًٔا إِلَّا بِإِذْنِ ٱللَّهِ ۚ وَعَلَى ٱللَّهِ فَلْيَتَوَكَّلِ ٱلْمُؤْمِنُونَ",
+    "arabic2": "انما النجوى من الشيطان ليحزن الذين امنوا وليس بضارهم شيئا الا باذن الله وعلى الله فليتوكل المؤمنون",
+    "bengali": "গোপন পরামর্শ তো হল মুমিনরা যাতে দুঃখ পায় সে উদ্দেশ্যে কৃত শয়তানের কুমন্ত্রণা মাত্র। আর আল্লাহর অনুমতি ছাড়া সে তাদের কিছুই ক্ষতি করতে পারে না। অতএব আল্লাহরই ওপর মুমিনরা যেন তাওয়াক্কুল করে।",
+    "urdu": "کافروں کی) سرگوشیاں تو شیطان (کی حرکات) سے ہیں (جو) اس لئے (کی جاتی ہیں) کہ مومن (ان سے) غمناک ہوں مگر خدا کے حکم کے سوا ان سے انہیں کچھ نقصان نہیں پہنچ سکتا۔ تو مومنو کو چاہیئے کہ خدا ہی پر بھروسہ رکھیں"
+}

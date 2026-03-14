@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 48,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/9_48.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/009048.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/9_48.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/009048.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/9_48.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/009048.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/9_48.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/009048.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/9_48.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/009048.mp3"
+        }
+    },
+    "english": "They had already sought to spread discord before and devised every ˹possible˺ plot against you ˹O Prophet˺, until the truth came and Allah’s Will prevailed—much to their dismay.",
+    "arabic1": "لَقَدِ ٱبْتَغَوُا۟ ٱلْفِتْنَةَ مِن قَبْلُ وَقَلَّبُوا۟ لَكَ ٱلْأُمُورَ حَتَّىٰ جَآءَ ٱلْحَقُّ وَظَهَرَ أَمْرُ ٱللَّهِ وَهُمْ كَـٰرِهُونَ",
+    "arabic2": "لقد ابتغوا الفتنة من قبل وقلبوا لك الامور حتى جاء الحق وظهر امر الله وهم كارهون",
+    "bengali": "অবশ্য তারা ইতঃপূর্বে ফিতনা অনুসন্ধান করেছিল এবং তোমার কাজগুলো পালটে দিয়েছিল, অবশেষে হকের আগমন ঘটল এবং আল্লাহর দীন বিজয়ী হল, অথচ তারা ছিল অপছন্দকারী।",
+    "urdu": "یہ پہلے بھی طالب فساد رہے ہیں اور بہت سی باتوں میں تمہارے لیے الٹ پھیر کرتے رہے ہیں۔ یہاں تک کہ حق آپہنچا اور خدا کا حکم غالب ہوا اور وہ برا مانتے ہی رہ گئے"
+}

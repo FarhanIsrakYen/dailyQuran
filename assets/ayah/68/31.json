@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Qalam",
+    "surahNameArabic": "القلم",
+    "surahNameArabicLong": "سورة القلم",
+    "surahNameTranslation": "The Pen",
+    "revelationPlace": "Mecca",
+    "totalAyah": 52,
+    "surahNo": 68,
+    "ayahNo": 31,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/68_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/068031.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/68_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/068031.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/68_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/068031.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/68_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/068031.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/68_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/068031.mp3"
+        }
+    },
+    "english": "They said, “Woe to us! We have certainly been transgressors.",
+    "arabic1": "قَالُوا۟ يَـٰوَيْلَنَآ إِنَّا كُنَّا طَـٰغِينَ",
+    "arabic2": "قالوا يا ويلنا انا كنا طاغين",
+    "bengali": "তারা বলল, ‘হায়, আমাদের ধ্বংস! নিশ্চয় আমরা সীমালঙ্ঘনকারী ছিলাম’।",
+    "urdu": "کہنے لگے ہائے شامت ہم ہی حد سے بڑھ گئے تھے"
+}

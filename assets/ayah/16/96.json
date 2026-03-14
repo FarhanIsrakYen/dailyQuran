@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nahl",
+    "surahNameArabic": "النحل",
+    "surahNameArabicLong": "سورة النحل",
+    "surahNameTranslation": "The Bee",
+    "revelationPlace": "Mecca",
+    "totalAyah": 128,
+    "surahNo": 16,
+    "ayahNo": 96,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/16_96.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/016096.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/16_96.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/016096.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/16_96.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/016096.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/16_96.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/016096.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/16_96.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/016096.mp3"
+        }
+    },
+    "english": "Whatever you have will end, but whatever Allah has is everlasting. And We will certainly reward the steadfast according to the best of their deeds.",
+    "arabic1": "مَا عِندَكُمْ يَنفَدُ ۖ وَمَا عِندَ ٱللَّهِ بَاقٍ ۗ وَلَنَجْزِيَنَّ ٱلَّذِينَ صَبَرُوٓا۟ أَجْرَهُم بِأَحْسَنِ مَا كَانُوا۟ يَعْمَلُونَ",
+    "arabic2": "ما عندكم ينفد وما عند الله باق ولنجزين الذين صبروا اجرهم باحسن ما كانوا يعملون",
+    "bengali": "তোমাদের নিকট যা আছে তা ফুরিয়ে যায়। আর আল্লাহর নিকট যা আছে তা স্থায়ী। আর যারা সবর করেছে, তারা যা করত তার তুলনায় অবশ্যই আমি তাদেরকে উত্তম প্রতিদান দেব।",
+    "urdu": "جو کچھ تمہارے پاس ہے وہ ختم ہو جاتا ہے اور جو خدا کے پاس ہے وہ باقی ہے کہ (کبھی ختم نہیں ہوگا) اور جن لوگوں نے صبر کیا ہم اُن کو ان کے اعمال کا بہت اچھا بدلہ دیں گے"
+}

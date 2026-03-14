@@ -1,0 +1,42 @@
+{
+    "surahName": "Ash-Shu'araa",
+    "surahNameArabic": "الشعراء",
+    "surahNameArabicLong": "سورة الشعراء",
+    "surahNameTranslation": "The Poets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 227,
+    "surahNo": 26,
+    "ayahNo": 4,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/26_4.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/026004.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/26_4.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/026004.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/26_4.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/026004.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/26_4.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/026004.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/26_4.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/026004.mp3"
+        }
+    },
+    "english": "If We willed, We could send down upon them a ˹compelling˺ sign from the heavens, leaving their necks bent in ˹utter˺ submission to it.",
+    "arabic1": "إِن نَّشَأْ نُنَزِّلْ عَلَيْهِم مِّنَ ٱلسَّمَآءِ ءَايَةً فَظَلَّتْ أَعْنَـٰقُهُمْ لَهَا خَـٰضِعِينَ",
+    "arabic2": "ان نشا ننزل عليهم من السماء اية فظلت اعناقهم لها خاضعين",
+    "bengali": "আমি ইচ্ছা করলে আসমান থেকে তাদের উপর এমন নিদর্শন অবতীর্ণ করতাম ফলে তার প্রতি তাদের ঘাড়গুলো নত হয়ে যেত।",
+    "urdu": "اگر ہم چاہیں تو ان پر آسمان سے نشانی اُتار دیں۔ پھر ان کی گردنیں اس کے آگے جھک جائیں"
+}

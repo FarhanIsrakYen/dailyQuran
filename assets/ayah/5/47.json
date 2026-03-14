@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Maaida",
+    "surahNameArabic": "المائدة",
+    "surahNameArabicLong": "سورة المائدة",
+    "surahNameTranslation": "The Table",
+    "revelationPlace": "Madina",
+    "totalAyah": 120,
+    "surahNo": 5,
+    "ayahNo": 47,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/5_47.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/005047.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/5_47.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/005047.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/5_47.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/005047.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/5_47.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/005047.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/5_47.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/005047.mp3"
+        }
+    },
+    "english": "So let the people of the Gospel judge by what Allah has revealed in it. And those who do not judge by what Allah has revealed are ˹truly˺ the rebellious.",
+    "arabic1": "وَلْيَحْكُمْ أَهْلُ ٱلْإِنجِيلِ بِمَآ أَنزَلَ ٱللَّهُ فِيهِ ۚ وَمَن لَّمْ يَحْكُم بِمَآ أَنزَلَ ٱللَّهُ فَأُو۟لَـٰٓئِكَ هُمُ ٱلْفَـٰسِقُونَ",
+    "arabic2": "وليحكم اهل الانجيل بما انزل الله فيه ومن لم يحكم بما انزل الله فاولئك هم الفاسقون",
+    "bengali": "আর ইনজীলের অনুসারীগণ তাতে আল্লাহ যা নাযিল করেছেন তার মাধ্যমে যেন ফয়সালা করে আর আল্লাহ যা নাযিল করেছেন তার মাধ্যমে যারা ফয়সালা করে না, তারাই ফাসিক।",
+    "urdu": "اور اہل انجیل کو چاہیئے کہ جو احکام خدا نے اس میں نازل فرمائے ہیں اس کے مطابق حکم دیا کریں اور جو خدا کے نازل کئے ہوئے احکام کے مطابق حکم نہ دے گا تو ایسے لوگ نافرماں ہیں"
+}

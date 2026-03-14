@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Tahrim",
+    "surahNameArabic": "التحريم",
+    "surahNameArabicLong": "سورة التحريم",
+    "surahNameTranslation": "The Prohibition",
+    "revelationPlace": "Madina",
+    "totalAyah": 12,
+    "surahNo": 66,
+    "ayahNo": 12,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/66_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/066012.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/66_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/066012.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/66_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/066012.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/66_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/066012.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/66_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/066012.mp3"
+        }
+    },
+    "english": "˹There is˺ also ˹the example of˺ Mary, the daughter of ’Imrân, who guarded her chastity, so We breathed into her ˹womb˺ through Our angel ˹Gabriel˺. She testified to the words of her Lord and His Scriptures, and was one of the ˹sincerely˺ devout.",
+    "arabic1": "وَمَرْيَمَ ٱبْنَتَ عِمْرَٰنَ ٱلَّتِىٓ أَحْصَنَتْ فَرْجَهَا فَنَفَخْنَا فِيهِ مِن رُّوحِنَا وَصَدَّقَتْ بِكَلِمَـٰتِ رَبِّهَا وَكُتُبِهِۦ وَكَانَتْ مِنَ ٱلْقَـٰنِتِينَ",
+    "arabic2": "ومريم ابنت عمران التي احصنت فرجها فنفخنا فيه من روحنا وصدقت بكلمات ربها وكتبه وكانت من القانتين",
+    "bengali": "(আল্লাহ আরো উদাহরণ পেশ করেন) ইমরান কন্যা মারয়াম-এর, যে নিজের সতীত্ব রক্ষা করেছিল, ফলে আমি তাতে আমার রূহ থেকে ফুঁকে দিয়েছিলাম। আর সে তার রবের বাণীসমূহ ও তাঁর কিতাবসমূহের সত্যতা স্বীকার করেছিল এবং সে ছিল অনুগতদের অন্তর্ভুক্ত।",
+    "urdu": "اور (دوسری) عمران کی بیٹی مریمؑ کی جنہوں نے اپنی شرمگاہ کو محفوظ رکھا تو ہم نے اس میں اپنی روح پھونک دی اور اپنے پروردگار کے کلام اور اس کی کتابوں کو برحق سمجھتی تھیں اور فرمانبرداروں میں سے تھیں"
+}

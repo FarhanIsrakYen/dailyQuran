@@ -1,0 +1,42 @@
+{
+    "surahName": "Yunus",
+    "surahNameArabic": "يونس",
+    "surahNameArabicLong": "سورة يونس",
+    "surahNameTranslation": "Jonas",
+    "revelationPlace": "Mecca",
+    "totalAyah": 109,
+    "surahNo": 10,
+    "ayahNo": 90,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/10_90.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/010090.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/10_90.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/010090.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/10_90.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/010090.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/10_90.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/010090.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/10_90.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/010090.mp3"
+        }
+    },
+    "english": "We brought the Children of Israel across the sea. Then Pharaoh and his soldiers pursued them unjustly and oppressively. But as Pharaoh was drowning, he cried out, “I believe that there is no god except that in whom the Children of Israel believe, and I am ˹now˺ one of those who submit.”",
+    "arabic1": "۞ وَجَـٰوَزْنَا بِبَنِىٓ إِسْرَٰٓءِيلَ ٱلْبَحْرَ فَأَتْبَعَهُمْ فِرْعَوْنُ وَجُنُودُهُۥ بَغْيًا وَعَدْوًا ۖ حَتَّىٰٓ إِذَآ أَدْرَكَهُ ٱلْغَرَقُ قَالَ ءَامَنتُ أَنَّهُۥ لَآ إِلَـٰهَ إِلَّا ٱلَّذِىٓ ءَامَنَتْ بِهِۦ بَنُوٓا۟ إِسْرَٰٓءِيلَ وَأَنَا۠ مِنَ ٱلْمُسْلِمِينَ",
+    "arabic2": "وجاوزنا ببني اسرائيل البحر فاتبعهم فرعون وجنوده بغيا وعدوا حتى اذا ادركه الغرق قال امنت انه لا اله الا الذي امنت به بنو اسرائيل وانا من المسلمين",
+    "bengali": "আর আমি বনী ইসরাঈলকে সমুদ্র পার করিয়ে নিলাম। আর ফির‘আউন ও তার সৈন্যবাহিনী ঔদ্ধত্য প্রকাশ ও সীমালঙ্ঘনকারী হয়ে তাদের পিছু নিল। অবশেষে যখন সে ডুবে যেতে লাগল, তখন বলল, ‘আমি ঈমান এনেছি যে, সে সত্তা ছাড়া কোন ইলাহ নেই, যার প্রতি বনী ইসরাঈল ঈমান এনেছে। আর আমি মুসলিমদের অন্তর্ভুক্ত’।",
+    "urdu": "اور ہم نے بنی اسرائیل کو دریا سے پار کردیا تو فرعون اور اس کے لشکر نے سرکشی اور تعدی سے ان کا تعاقب کیا۔ یہاں تک کہ جب اس کو غرق (کے عذاب) نے آپکڑا تو کہنے لگا کہ میں ایمان لایا کہ جس (خدا) پر بنی اسرائیل ایمان لائے ہیں اس کے سوا کوئی معبود نہیں اور میں فرمانبرداروں میں ہوں"
+}

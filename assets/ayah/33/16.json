@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Ahzaab",
+    "surahNameArabic": "الأحزاب",
+    "surahNameArabicLong": "سورة الأحزاب",
+    "surahNameTranslation": "The Clans",
+    "revelationPlace": "Madina",
+    "totalAyah": 73,
+    "surahNo": 33,
+    "ayahNo": 16,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/33_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/033016.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/33_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/033016.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/33_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/033016.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/33_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/033016.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/33_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/033016.mp3"
+        }
+    },
+    "english": "Say, ˹O Prophet,˺ “Fleeing will not benefit you if you ˹try to˺ escape a natural or violent death. ˹If it is not your time,˺ you will only be allowed enjoyment for a little while.”",
+    "arabic1": "قُل لَّن يَنفَعَكُمُ ٱلْفِرَارُ إِن فَرَرْتُم مِّنَ ٱلْمَوْتِ أَوِ ٱلْقَتْلِ وَإِذًا لَّا تُمَتَّعُونَ إِلَّا قَلِيلًا",
+    "arabic2": "قل لن ينفعكم الفرار ان فررتم من الموت او القتل واذا لا تمتعون الا قليلا",
+    "bengali": "বল, ‘যদি তোমরা মৃত্যু অথবা হত্যার ভয়ে পালাতে চাও তবে পালানো তোমাদের কোন উপকারে আসবে না। আর সে ক্ষেত্রে তোমাদের সামান্যই ভোগ করতে দেয়া হবে’।",
+    "urdu": "کہہ دو کہ اگر تم مرنے یا مارے سے بھاگتے ہو تو بھاگنا تم کو فائدہ نہیں دے گا اور اس وقت تم بہت ہی کم فائدہ اٹھاؤ گے"
+}

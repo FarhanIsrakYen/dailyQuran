@@ -1,0 +1,42 @@
+{
+    "surahName": "Yunus",
+    "surahNameArabic": "يونس",
+    "surahNameArabicLong": "سورة يونس",
+    "surahNameTranslation": "Jonas",
+    "revelationPlace": "Mecca",
+    "totalAyah": 109,
+    "surahNo": 10,
+    "ayahNo": 84,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/10_84.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/010084.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/10_84.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/010084.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/10_84.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/010084.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/10_84.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/010084.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/10_84.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/010084.mp3"
+        }
+    },
+    "english": "Moses said, “O my people! If you do believe in Allah and submit ˹to His Will˺, then put your trust in Him.”",
+    "arabic1": "وَقَالَ مُوسَىٰ يَـٰقَوْمِ إِن كُنتُمْ ءَامَنتُم بِٱللَّهِ فَعَلَيْهِ تَوَكَّلُوٓا۟ إِن كُنتُم مُّسْلِمِينَ",
+    "arabic2": "وقال موسى يا قوم ان كنتم امنتم بالله فعليه توكلوا ان كنتم مسلمين",
+    "bengali": "আর মূসা বলল, ‘হে আমার কওম, তোমরা যদি আল্লাহর প্রতি ঈমান এনে থাক, তবে তাঁরই উপর তাওয়াক্কুল কর, যদি তোমরা মুসলিম হয়ে থাক’।",
+    "urdu": "اور موسیٰ نے کہا کہ بھائیو! اگر تم خدا پر ایمان لائے ہو تو اگر (دل سے) فرمانبردار ہو تو اسی پر بھروسہ رکھو"
+}

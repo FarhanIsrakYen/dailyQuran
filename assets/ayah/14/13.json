@@ -1,0 +1,42 @@
+{
+    "surahName": "Ibrahim",
+    "surahNameArabic": "ابراهيم",
+    "surahNameArabicLong": "سورة ابراهيم",
+    "surahNameTranslation": "Abraham",
+    "revelationPlace": "Mecca",
+    "totalAyah": 52,
+    "surahNo": 14,
+    "ayahNo": 13,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/14_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/014013.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/14_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/014013.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/14_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/014013.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/14_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/014013.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/14_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/014013.mp3"
+        }
+    },
+    "english": "The disbelievers then threatened their messengers, “We will certainly expel you from our land, unless you return to our faith.” So their Lord revealed to them, “We will surely destroy the wrongdoers",
+    "arabic1": "وَقَالَ ٱلَّذِينَ كَفَرُوا۟ لِرُسُلِهِمْ لَنُخْرِجَنَّكُم مِّنْ أَرْضِنَآ أَوْ لَتَعُودُنَّ فِى مِلَّتِنَا ۖ فَأَوْحَىٰٓ إِلَيْهِمْ رَبُّهُمْ لَنُهْلِكَنَّ ٱلظَّـٰلِمِينَ",
+    "arabic2": "وقال الذين كفروا لرسلهم لنخرجنكم من ارضنا او لتعودن في ملتنا فاوحى اليهم ربهم لنهلكن الظالمين",
+    "bengali": "আর যারা কুফরী করেছে, তারা তাদের রাসূলদের বলল, ‘আমরা তোমাদেরকে আমাদের ভূ-খন্ড থেকে অবশ্যই বের করে দেব, অথবা তোমরা অবশ্যই আমাদের মিল্লাতে ফিরে আসবে’। অতঃপর তাদের রব তাদের নিকট ওহী পাঠালেন, ‘আমি অবশ্যই যালিমদের ধ্বংস করে দেব’।",
+    "urdu": "اور جو کافر تھے انہوں نے اپنے پیغمبروں سے کہا کہ (یا تو) ہم تم کو اپنے ملک سے باہر نکال دیں گے یا ہمارے مذہب میں داخل ہو جاؤ۔ تو پروردگار نے ان کی طرف وحی بھیجی کہ ہم ظالموں کو ہلاک کر دیں گے"
+}

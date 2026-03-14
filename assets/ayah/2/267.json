@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 267,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_267.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002267.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_267.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002267.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_267.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002267.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_267.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002267.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_267.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002267.mp3"
+        }
+    },
+    "english": "O believers! Donate from the best of what you have earned and of what We have produced for you from the earth. Do not pick out worthless things for donation, which you yourselves would only accept with closed eyes. And know that Allah is Self-Sufficient, Praiseworthy.",
+    "arabic1": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ أَنفِقُوا۟ مِن طَيِّبَـٰتِ مَا كَسَبْتُمْ وَمِمَّآ أَخْرَجْنَا لَكُم مِّنَ ٱلْأَرْضِ ۖ وَلَا تَيَمَّمُوا۟ ٱلْخَبِيثَ مِنْهُ تُنفِقُونَ وَلَسْتُم بِـَٔاخِذِيهِ إِلَّآ أَن تُغْمِضُوا۟ فِيهِ ۚ وَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ غَنِىٌّ حَمِيدٌ",
+    "arabic2": "يا ايها الذين امنوا انفقوا من طيبات ما كسبتم ومما اخرجنا لكم من الارض ولا تيمموا الخبيث منه تنفقون ولستم باخذيه الا ان تغمضوا فيه واعلموا ان الله غني حميد",
+    "bengali": "হে মুমিনগণ, তোমরা ব্যয় কর উত্তম বস্ত্ত, তোমরা যা অর্জন করেছ এবং আমি যমীন থেকে তোমাদের জন্য যা উৎপন্ন করেছি তা থেকে এবং নিকৃষ্ট বস্ত্তর ইচ্ছা করো না যে, তা থেকে তোমরা ব্যয় করবে। অথচ চোখ বন্ধ করা ছাড়া যা তোমরা গ্রহণ করো না। আর জেনে রাখ, নিশ্চয় আল্লাহ অভাবমুক্ত, সপ্রশংসিত।",
+    "urdu": "مومنو! جو پاکیزہ اور عمدہ مال تم کماتے ہوں اور جو چیزیں ہم تمہارے لئے زمین سےنکالتے ہیں ان میں سے (راہ خدا میں) خرچ کرو۔ اور بری اور ناپاک چیزیں دینے کا قصد نہ کرنا کہ (اگر وہ چیزیں تمہیں دی جائیں تو) بجز اس کے کہ (لیتے وقت) آنکھیں بند کرلو ان کو کبھی نہ لو۔ اور جان رکھو کہ خدا بےپروا (اور) قابل ستائش ہے"
+}

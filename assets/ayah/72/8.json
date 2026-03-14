@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Jinn",
+    "surahNameArabic": "الجن",
+    "surahNameArabicLong": "سورة الجن",
+    "surahNameTranslation": "The Jinn",
+    "revelationPlace": "Mecca",
+    "totalAyah": 28,
+    "surahNo": 72,
+    "ayahNo": 8,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/72_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/072008.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/72_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/072008.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/72_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/072008.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/72_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/072008.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/72_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/072008.mp3"
+        }
+    },
+    "english": "˹Earlier˺ we tried to reach heaven ˹for news˺, only to find it filled with stern guards and shooting stars.",
+    "arabic1": "وَأَنَّا لَمَسْنَا ٱلسَّمَآءَ فَوَجَدْنَـٰهَا مُلِئَتْ حَرَسًا شَدِيدًا وَشُهُبًا",
+    "arabic2": "وانا لمسنا السماء فوجدناها ملئت حرسا شديدا وشهبا",
+    "bengali": "‘আর নিশ্চয় আমরা আকাশ স্পর্শ করতে চেয়েছিলাম*, কিন্তু আমরা সেটাকে পেলাম যে, তা কঠোর প্রহরী এবং উল্কাপিন্ড দ্বারা পরিপূর্ণ’। \n*আকাশের সংবাদ সংগ্রহ করার চেষ্টা করেছিলাম।",
+    "urdu": "اور یہ کہ ہم نے آسمان کو ٹٹولا تو اس کو مضبوط چوکیداروں اور انگاروں سے سے بھرا پایا"
+}

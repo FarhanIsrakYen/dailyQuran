@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Najm",
+    "surahNameArabic": "النجم",
+    "surahNameArabicLong": "سورة النجم",
+    "surahNameTranslation": "The Star",
+    "revelationPlace": "Mecca",
+    "totalAyah": 62,
+    "surahNo": 53,
+    "ayahNo": 15,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/53_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/053015.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/53_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/053015.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/53_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/053015.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/53_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/053015.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/53_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/053015.mp3"
+        }
+    },
+    "english": "near which is the Garden of ˹Eternal˺ Residence—",
+    "arabic1": "عِندَهَا جَنَّةُ ٱلْمَأْوَىٰٓ",
+    "arabic2": "عندها جنة الماوى",
+    "bengali": "যার কাছে জান্নাতুল মা’ওয়া* অবস্থিত। \n* ফেরেশতা, শহীদদের রূহ ও মুত্তাকীদের অবস্থানস্থল।",
+    "urdu": "اسی کے پاس رہنے کی جنت ہے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Fath",
+    "surahNameArabic": "الفتح",
+    "surahNameArabicLong": "سورة الفتح",
+    "surahNameTranslation": "The Victory",
+    "revelationPlace": "Madina",
+    "totalAyah": 29,
+    "surahNo": 48,
+    "ayahNo": 7,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/48_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/048007.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/48_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/048007.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/48_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/048007.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/48_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/048007.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/48_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/048007.mp3"
+        }
+    },
+    "english": "To Allah ˹alone˺ belong the forces of the heavens and the earth. And Allah is Almighty, All-Wise.",
+    "arabic1": "وَلِلَّهِ جُنُودُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ وَكَانَ ٱللَّهُ عَزِيزًا حَكِيمًا",
+    "arabic2": "ولله جنود السماوات والارض وكان الله عزيزا حكيما",
+    "bengali": "আর আল্লাহরই জন্য আসমানসমূহ ও যমীনের যাবতীয় সৈন্যবাহিনী; এবং আল্লাহ মহাপরাক্রমশালী, প্রজ্ঞাময়।",
+    "urdu": "اور آسمانوں اور زمین کے لشکر خدا ہی کے ہیں۔ اور خدا غالب (اور) حکمت والا ہے"
+}

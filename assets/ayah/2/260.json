@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 260,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_260.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002260.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_260.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002260.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_260.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002260.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_260.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002260.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_260.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002260.mp3"
+        }
+    },
+    "english": "And ˹remember˺ when Abraham said, “My Lord! Show me how you give life to the dead.” Allah responded, “Do you not believe?” Abraham replied, “Yes I do, but just so my heart can be reassured.” Allah said, “Then bring four birds, train them to come to you, ˹then cut them into pieces,˺ and scatter them on different hilltops. Then call them back, they will fly to you in haste. And ˹so you will˺ know that Allah is Almighty, All-Wise.”",
+    "arabic1": "وَإِذْ قَالَ إِبْرَٰهِـۧمُ رَبِّ أَرِنِى كَيْفَ تُحْىِ ٱلْمَوْتَىٰ ۖ قَالَ أَوَلَمْ تُؤْمِن ۖ قَالَ بَلَىٰ وَلَـٰكِن لِّيَطْمَئِنَّ قَلْبِى ۖ قَالَ فَخُذْ أَرْبَعَةً مِّنَ ٱلطَّيْرِ فَصُرْهُنَّ إِلَيْكَ ثُمَّ ٱجْعَلْ عَلَىٰ كُلِّ جَبَلٍ مِّنْهُنَّ جُزْءًا ثُمَّ ٱدْعُهُنَّ يَأْتِينَكَ سَعْيًا ۚ وَٱعْلَمْ أَنَّ ٱللَّهَ عَزِيزٌ حَكِيمٌ",
+    "arabic2": "واذ قال ابراهيم رب ارني كيف تحيي الموتى قال اولم تؤمن قال بلى ولكن ليطمئن قلبي قال فخذ اربعة من الطير فصرهن اليك ثم اجعل على كل جبل منهن جزءا ثم ادعهن ياتينك سعيا واعلم ان الله عزيز حكيم",
+    "bengali": "আর যখন ইবরাহীম বলল ‘হে, আমার রব, আমাকে দেখান, কিভাবে আপনি মৃতদেরকে জীবিত করেন। তিনি বললেন, তুমি কি বিশ্বাস করনি’? সে বলল, ‘অবশ্যই হ্যাঁ, কিন্তু আমার অন্তর যাতে প্রশান্ত হয়’। তিনি বললেন, ‘তাহলে তুমি চারটি পাখি নাও। তারপর সেগুলোকে তোমার প্রতি পোষ মানাও। অতঃপর প্রতিটি পাহাড়ে সেগুলোর টুকরো অংশ রেখে আস। তারপর সেগুলোকে ডাক, সেগুলো দৌড়ে আসবে তোমার নিকট। আর জেনে রাখ, নিশ্চয় আল্লাহ পরাক্রমশালী, প্রজ্ঞাময়’।",
+    "urdu": "اور جب ابراہیم نے (خدا سے) کہا کہ اے پروردگار مجھے دکھا کہ تو مردوں کو کیونکر زندہ کرے گا۔ خدا نے فرمایا کیا تم نے (اس بات کو) باور نہیں کیا۔ انہوں نے کہا کیوں نہیں۔ لیکن (میں دیکھنا) اس لئے (چاہتا ہوں) کہ میرا دل اطمینان کامل حاصل کرلے۔ خدا نے فرمایا کہ چار جانور پکڑوا کر اپنے پاس منگا لو (اور ٹکڑے ٹکڑے کرادو) پھر ان کا ایک ٹکڑا ہر ایک پہاڑ پر رکھوا دو پھر ان کو بلاؤ تو وہ تمہارے پاس دوڑتے چلے آئیں گے۔ اور جان رکھو کہ خدا غالب اور صاحب حکمت ہے۔"
+}

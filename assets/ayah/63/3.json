@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Munaafiqoon",
+    "surahNameArabic": "المنافقون",
+    "surahNameArabicLong": "سورة المنافقون",
+    "surahNameTranslation": "The Hypocrites",
+    "revelationPlace": "Madina",
+    "totalAyah": 11,
+    "surahNo": 63,
+    "ayahNo": 3,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/63_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/063003.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/63_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/063003.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/63_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/063003.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/63_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/063003.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/63_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/063003.mp3"
+        }
+    },
+    "english": "This is because they believed and then abandoned faith. Therefore, their hearts have been sealed, so they do not comprehend.",
+    "arabic1": "ذَٰلِكَ بِأَنَّهُمْ ءَامَنُوا۟ ثُمَّ كَفَرُوا۟ فَطُبِعَ عَلَىٰ قُلُوبِهِمْ فَهُمْ لَا يَفْقَهُونَ",
+    "arabic2": "ذلك بانهم امنوا ثم كفروا فطبع على قلوبهم فهم لا يفقهون",
+    "bengali": "তা এ জন্য যে, তারা ঈমান এনেছিল তারপর কুফরী করেছিল। ফলে তাদের অন্তরসমূহে মোহর লাগিয়ে দেয়া হয়েছে। তাই তারা বুঝতে পারছে না।",
+    "urdu": "یہ اس لئے کہ یہ (پہلے تو) ایمان لائے پھر کافر ہوگئے تو ان کے دلوں پر مہر لگادی گئی۔ سو اب یہ سمجھتے ہی نہیں"
+}

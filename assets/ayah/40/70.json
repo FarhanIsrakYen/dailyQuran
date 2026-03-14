@@ -1,0 +1,42 @@
+{
+    "surahName": "Ghafir",
+    "surahNameArabic": "غافر",
+    "surahNameArabicLong": "سورة غافر",
+    "surahNameTranslation": "The Forgiver",
+    "revelationPlace": "Mecca",
+    "totalAyah": 85,
+    "surahNo": 40,
+    "ayahNo": 70,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/40_70.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/040070.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/40_70.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/040070.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/40_70.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/040070.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/40_70.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/040070.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/40_70.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/040070.mp3"
+        }
+    },
+    "english": "˹They are˺ the ones who reject this Book and all ˹scriptures˺ We sent Our messengers with. So they will know ˹the consequences˺",
+    "arabic1": "ٱلَّذِينَ كَذَّبُوا۟ بِٱلْكِتَـٰبِ وَبِمَآ أَرْسَلْنَا بِهِۦ رُسُلَنَا ۖ فَسَوْفَ يَعْلَمُونَ",
+    "arabic2": "الذين كذبوا بالكتاب وبما ارسلنا به رسلنا فسوف يعلمون",
+    "bengali": "যারা কিতাব এবং আমার রাসূলগণকে যা দিয়ে আমি প্রেরণ করেছি তা অস্বীকার করে, অতএব তারা শীঘ্রই জানতে পারবে।",
+    "urdu": "جن لوگوں نے کتاب (خدا) کو اور جو کچھ ہم نے پیغمبروں کو دے کر بھیجا اس کو جھٹلایا۔ وہ عنقریب معلوم کرلیں گے"
+}

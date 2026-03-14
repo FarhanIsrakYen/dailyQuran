@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 97,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/4_97.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/004097.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/4_97.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/004097.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/4_97.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/004097.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/4_97.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/004097.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/4_97.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/004097.mp3"
+        }
+    },
+    "english": "When the angels seize the souls of those who have wronged themselves—scolding them, “What do you think you were doing?” they will reply, “We were oppressed in the land.” The angels will respond, “Was Allah’s earth not spacious enough for you to emigrate?” It is they who will have Hell as their home—what an evil destination!",
+    "arabic1": "إِنَّ ٱلَّذِينَ تَوَفَّىٰهُمُ ٱلْمَلَـٰٓئِكَةُ ظَالِمِىٓ أَنفُسِهِمْ قَالُوا۟ فِيمَ كُنتُمْ ۖ قَالُوا۟ كُنَّا مُسْتَضْعَفِينَ فِى ٱلْأَرْضِ ۚ قَالُوٓا۟ أَلَمْ تَكُنْ أَرْضُ ٱللَّهِ وَٰسِعَةً فَتُهَاجِرُوا۟ فِيهَا ۚ فَأُو۟لَـٰٓئِكَ مَأْوَىٰهُمْ جَهَنَّمُ ۖ وَسَآءَتْ مَصِيرًا",
+    "arabic2": "ان الذين توفاهم الملائكة ظالمي انفسهم قالوا فيم كنتم قالوا كنا مستضعفين في الارض قالوا الم تكن ارض الله واسعة فتهاجروا فيها فاولئك ماواهم جهنم وساءت مصيرا",
+    "bengali": "নিশ্চয় যারা নিজদের প্রতি যুলমকারী, ফেরেশতারা তাদের জান কবজ করার সময় বলে, ‘তোমরা কী অবস্থায় ছিলে’? তারা বলে, ‘আমরা যমীনে দুর্বল ছিলাম’। ফেরেশতারা বলে, ‘আল্লাহর যমীন কি প্রশস্ত ছিল না যে, তোমরা তাতে হিজরত করতে’? সুতরাং ওরাই তারা যাদের আশ্রয়স্থল জাহান্নাম। আর তা মন্দ প্রত্যাবর্তনস্থল।",
+    "urdu": "اور جو لوگ اپنی جانوں پر ظلم کرتے ہیں جب فرشتے ان کی جان قبض کرنے لگتے ہیں تو ان سے پوچھتے ہیں کہ تم کس حال میں تھے وہ کہتے ہیں کہ ہم ملک میں عاجز وناتواں تھے فرشتے کہتے ہیں کیا خدا کا ملک فراخ نہیں تھا کہ تم اس میں ہجرت کر جاتے ایسے لوگوں کا ٹھکانہ دوزخ ہے اور وہ بری جگہ ہے"
+}

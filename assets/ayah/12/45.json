@@ -1,0 +1,42 @@
+{
+    "surahName": "Yusuf",
+    "surahNameArabic": "يوسف",
+    "surahNameArabicLong": "سورة يوسف",
+    "surahNameTranslation": "Joseph",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 12,
+    "ayahNo": 45,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/12_45.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/012045.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/12_45.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/012045.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/12_45.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/012045.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/12_45.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/012045.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/12_45.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/012045.mp3"
+        }
+    },
+    "english": "˹Finally,˺ the surviving ex-prisoner remembered ˹Joseph˺ after a long time and said, “I will tell you its interpretation, so send me forth ˹to Joseph˺.”",
+    "arabic1": "وَقَالَ ٱلَّذِى نَجَا مِنْهُمَا وَٱدَّكَرَ بَعْدَ أُمَّةٍ أَنَا۠ أُنَبِّئُكُم بِتَأْوِيلِهِۦ فَأَرْسِلُونِ",
+    "arabic2": "وقال الذي نجا منهما وادكر بعد امة انا انبئكم بتاويله فارسلون",
+    "bengali": "আর সে দু’জনের মধ্যে যে মুক্তি পেয়েছিল, সে বলল এবং দীর্ঘ দিন পর তার স্মরণ হল, ‘আমি তোমাদেরকে এর ব্যাখ্যা জানিয়ে দিচ্ছি, অতএব তোমরা আমাকে পাঠিয়ে দাও’।",
+    "urdu": "اب وہ شخص جو دونوں قیدیوں میں سے رہائی پا گیا تھا اور جسے مدت کے بعد وہ بات یاد آگئی بول اٹھا کہ میں آپ کو اس کی تعبیر (لا) بتاتا ہوں مجھے (جیل خانے) جانے کی اجازت دے دیجیئے"
+}

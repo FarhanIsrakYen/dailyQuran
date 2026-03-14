@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Ankaboot",
+    "surahNameArabic": "العنكبوت",
+    "surahNameArabicLong": "سورة العنكبوت",
+    "surahNameTranslation": "The Spider",
+    "revelationPlace": "Mecca",
+    "totalAyah": 69,
+    "surahNo": 29,
+    "ayahNo": 53,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/29_53.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/029053.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/29_53.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/029053.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/29_53.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/029053.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/29_53.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/029053.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/29_53.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/029053.mp3"
+        }
+    },
+    "english": "They challenge you ˹O Prophet˺ to hasten the punishment. Had it not been for a time already set, the punishment would have certainly come to them ˹at once˺. But it will definitely take them by surprise when they least expect it.",
+    "arabic1": "وَيَسْتَعْجِلُونَكَ بِٱلْعَذَابِ ۚ وَلَوْلَآ أَجَلٌ مُّسَمًّى لَّجَآءَهُمُ ٱلْعَذَابُ وَلَيَأْتِيَنَّهُم بَغْتَةً وَهُمْ لَا يَشْعُرُونَ",
+    "arabic2": "ويستعجلونك بالعذاب ولولا اجل مسمى لجاءهم العذاب ولياتينهم بغتة وهم لا يشعرون",
+    "bengali": "আর তারা তোমাকে আযাব ত্বরান্বিত করতে বলে। যদি নির্ধারিত সময় না থাকত, তবে তাদের উপর অবশ্যই আযাব আসত এবং তা আকস্মিকভাবে তাদের উপর আসবেই। অথচ তারা টেরও পাবে না।",
+    "urdu": "اور یہ لوگ تم سے عذاب کے لئے جلدی کر رہے ہیں۔ اگر ایک وقت مقرر نہ( ہو چکا) ہوتا تو اُن پر عذاب آبھی گیا ہوتا۔ اور وہ (کسی وقت میں) اُن پر ضرور ناگہاں آکر رہے گا اور اُن کو معلوم بھی نہ ہوگا"
+}

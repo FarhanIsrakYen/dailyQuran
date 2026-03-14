@@ -1,0 +1,42 @@
+{
+    "surahName": "Yusuf",
+    "surahNameArabic": "يوسف",
+    "surahNameArabicLong": "سورة يوسف",
+    "surahNameTranslation": "Joseph",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 12,
+    "ayahNo": 52,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/12_52.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/012052.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/12_52.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/012052.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/12_52.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/012052.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/12_52.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/012052.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/12_52.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/012052.mp3"
+        }
+    },
+    "english": "From this, Joseph should know that I did not speak dishonestly about him in his absence, for Allah certainly does not guide the scheming of the dishonest.",
+    "arabic1": "ذَٰلِكَ لِيَعْلَمَ أَنِّى لَمْ أَخُنْهُ بِٱلْغَيْبِ وَأَنَّ ٱللَّهَ لَا يَهْدِى كَيْدَ ٱلْخَآئِنِينَ",
+    "arabic2": "ذلك ليعلم اني لم اخنه بالغيب وان الله لا يهدي كيد الخائنين",
+    "bengali": "এটি এ জন্য যে, যাতে সে জানতে পারে, আমি তার অনুপস্থিতিতে তার সাথে বিশ্বাসঘাতকতা করিনি। আর আল্লাহ অবশ্যই বিশ্বাসঘাতকদের চক্রান্ত লক্ষ্যে পৌঁছতে দেন না।",
+    "urdu": "(یوسف نے کہا کہ میں نے) یہ بات اس لیے (پوچھی ہے) کہ عزیز کو یقین ہوجائے کہ میں نے اس کی پیٹھ پیچھے اس کی (امانت میں خیانت نہیں کی) اور خدا خیانت کرنے والوں کے مکروں کو روبراہ نہیں کرتا"
+}

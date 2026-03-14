@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Furqaan",
+    "surahNameArabic": "الفرقان",
+    "surahNameArabicLong": "سورة الفرقان",
+    "surahNameTranslation": "The Criterion",
+    "revelationPlace": "Mecca",
+    "totalAyah": 77,
+    "surahNo": 25,
+    "ayahNo": 67,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/25_67.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/025067.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/25_67.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/025067.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/25_67.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/025067.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/25_67.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/025067.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/25_67.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/025067.mp3"
+        }
+    },
+    "english": "˹They are˺ those who spend neither wastefully nor stingily, but moderately in between.",
+    "arabic1": "وَٱلَّذِينَ إِذَآ أَنفَقُوا۟ لَمْ يُسْرِفُوا۟ وَلَمْ يَقْتُرُوا۟ وَكَانَ بَيْنَ ذَٰلِكَ قَوَامًا",
+    "arabic2": "والذين اذا انفقوا لم يسرفوا ولم يقتروا وكان بين ذلك قواما",
+    "bengali": "আর তারা যখন ব্যয় করে তখন অপব্যয় করে না এবং কার্পণ্যও করে না। বরং মাঝামাঝি অবস্থানে থাকে।",
+    "urdu": "اور وہ جب خرچ کرتے ہیں تو نہ بےجا اُڑاتے ہیں اور نہ تنگی کو کام میں لاتے ہیں بلکہ اعتدال کے ساتھ۔ نہ ضرورت سے زیادہ نہ کم"
+}

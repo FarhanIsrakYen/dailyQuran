@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Hashr",
+    "surahNameArabic": "الحشر",
+    "surahNameArabicLong": "سورة الحشر",
+    "surahNameTranslation": "The Exile",
+    "revelationPlace": "Madina",
+    "totalAyah": 24,
+    "surahNo": 59,
+    "ayahNo": 16,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/59_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/059016.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/59_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/059016.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/59_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/059016.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/59_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/059016.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/59_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/059016.mp3"
+        }
+    },
+    "english": "˹They are˺ like Satan when he lures someone to disbelieve. Then after they have done so, he will say ˹on Judgment Day˺, “I have absolutely nothing to do with you. I truly fear Allah—the Lord of all worlds.”",
+    "arabic1": "كَمَثَلِ ٱلشَّيْطَـٰنِ إِذْ قَالَ لِلْإِنسَـٰنِ ٱكْفُرْ فَلَمَّا كَفَرَ قَالَ إِنِّى بَرِىٓءٌ مِّنكَ إِنِّىٓ أَخَافُ ٱللَّهَ رَبَّ ٱلْعَـٰلَمِينَ",
+    "arabic2": "كمثل الشيطان اذ قال للانسان اكفر فلما كفر قال اني بريء منك اني اخاف الله رب العالمين",
+    "bengali": "(এরা) শয়তান-এর ন্যায়, সে মানুষকে বলেছিল, ‘কুফরি কর’, অতঃপর যখন সে কুফরি করল তখন সে বলল, আমি তোমার থেকে মুক্ত; নিশ্চয় আমি সকল সৃষ্টির রব আল্লাহকে ভয় করি।",
+    "urdu": "منافقوں کی) مثال شیطان کی سی ہے کہ انسان سے کہتا رہا کہ کافر ہوجا۔ جب وہ کافر ہوگیا تو کہنے لگا کہ مجھے تجھ سے کچھ سروکار نہیں۔ مجھ کو خدائے رب العالمین سے ڈر لگتا ہے"
+}

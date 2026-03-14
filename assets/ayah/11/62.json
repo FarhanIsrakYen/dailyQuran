@@ -1,0 +1,42 @@
+{
+    "surahName": "Hud",
+    "surahNameArabic": "هود",
+    "surahNameArabicLong": "سورة هود",
+    "surahNameTranslation": "Hud",
+    "revelationPlace": "Mecca",
+    "totalAyah": 123,
+    "surahNo": 11,
+    "ayahNo": 62,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/11_62.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/011062.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/11_62.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/011062.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/11_62.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/011062.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/11_62.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/011062.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/11_62.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/011062.mp3"
+        }
+    },
+    "english": "They argued, “O Ṣâliḥ! We truly had high hopes in you before this. How dare you forbid us to worship what our forefathers had worshipped? We are certainly in alarming doubt about what you are inviting us to.”",
+    "arabic1": "قَالُوا۟ يَـٰصَـٰلِحُ قَدْ كُنتَ فِينَا مَرْجُوًّا قَبْلَ هَـٰذَآ ۖ أَتَنْهَىٰنَآ أَن نَّعْبُدَ مَا يَعْبُدُ ءَابَآؤُنَا وَإِنَّنَا لَفِى شَكٍّ مِّمَّا تَدْعُونَآ إِلَيْهِ مُرِيبٍ",
+    "arabic2": "قالوا يا صالح قد كنت فينا مرجوا قبل هذا اتنهانا ان نعبد ما يعبد اباؤنا واننا لفي شك مما تدعونا اليه مريب",
+    "bengali": "তারা বলল, ‘হে সালিহ, তুমি তো ইতঃপূর্বে আমাদের মধ্যে ছিলে প্রত্যাশিত। তুমি কি আমাদেরকে নিষেধ করছ তাদের ইবাদাত করতে আমাদের পিতৃপুরুষরা যাদের ইবাদাত করত? তুমি আমাদেরকে যার দিকে আহবান করছ, সে ব্যাপারে নিশ্চয় আমরা ঘোর সন্দেহের মধ্যে আছি’।",
+    "urdu": "انہوں نے کہا کہ صالح اس سے پہلے ہم تم سے (کئی طرح کی) امیدیں رکھتے تھے (اب وہ منقطع ہوگئیں) کیا تم ہم کو ان چیزوں کے پوجنے سے منع کرتے ہو جن کو ہمارے بزرگ پوجتے آئے ہیں؟ اور جس بات کی طرف تم ہمیں بلاتے ہو، اس میں ہمیں قوی شبہ ہے"
+}

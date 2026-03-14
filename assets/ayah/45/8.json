@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Jaathiya",
+    "surahNameArabic": "الجاثية",
+    "surahNameArabicLong": "سورة الجاثية",
+    "surahNameTranslation": "Crouching",
+    "revelationPlace": "Mecca",
+    "totalAyah": 37,
+    "surahNo": 45,
+    "ayahNo": 8,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/45_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/045008.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/45_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/045008.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/45_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/045008.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/45_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/045008.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/45_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/045008.mp3"
+        }
+    },
+    "english": "They hear Allah’s revelations recited to them, then persist ˹in denial˺ arrogantly as if they did not hear them. So give them good news of a painful punishment.",
+    "arabic1": "يَسْمَعُ ءَايَـٰتِ ٱللَّهِ تُتْلَىٰ عَلَيْهِ ثُمَّ يُصِرُّ مُسْتَكْبِرًا كَأَن لَّمْ يَسْمَعْهَا ۖ فَبَشِّرْهُ بِعَذَابٍ أَلِيمٍ",
+    "arabic2": "يسمع ايات الله تتلى عليه ثم يصر مستكبرا كان لم يسمعها فبشره بعذاب اليم",
+    "bengali": "সে শোনে আল্লাহর আয়াতসমূহ যা তার সামনে তিলাওয়াত করা হচ্ছে, তারপর সে ঔদ্ধত্যের সাথে অবিচল থাকে, যেন সে তা শুনতে পায়নি। অতএব তুমি তাকে এক যন্ত্রণাদায়ক আযাবের সুসংবাদ দাও।",
+    "urdu": "(کہ) خدا کی آیتیں اس کو پڑھ کر سنائی جاتی ہیں تو ان کو سن تو لیتا ہے (مگر) پھر غرور سے ضد کرتا ہے کہ گویا ان کو سنا ہی نہیں۔ سو ایسے شخص کو دکھ دینے والے عذاب کی خوشخبری سنا دو"
+}

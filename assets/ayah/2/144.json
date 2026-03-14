@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 144,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_144.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002144.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_144.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002144.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_144.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002144.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_144.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002144.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_144.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002144.mp3"
+        }
+    },
+    "english": "Indeed, We see you ˹O Prophet˺ turning your face towards heaven. Now We will make you turn towards a direction ˹of prayer˺ that will please you. So turn your face towards the Sacred Mosque ˹in Mecca˺—wherever you are, turn your faces towards it. Those who were given the Scripture certainly know this to be the truth from their Lord. And Allah is never unaware of what they do.",
+    "arabic1": "قَدْ نَرَىٰ تَقَلُّبَ وَجْهِكَ فِى ٱلسَّمَآءِ ۖ فَلَنُوَلِّيَنَّكَ قِبْلَةً تَرْضَىٰهَا ۚ فَوَلِّ وَجْهَكَ شَطْرَ ٱلْمَسْجِدِ ٱلْحَرَامِ ۚ وَحَيْثُ مَا كُنتُمْ فَوَلُّوا۟ وُجُوهَكُمْ شَطْرَهُۥ ۗ وَإِنَّ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ لَيَعْلَمُونَ أَنَّهُ ٱلْحَقُّ مِن رَّبِّهِمْ ۗ وَمَا ٱللَّهُ بِغَـٰفِلٍ عَمَّا يَعْمَلُونَ",
+    "arabic2": "قد نرى تقلب وجهك في السماء فلنولينك قبلة ترضاها فول وجهك شطر المسجد الحرام وحيث ما كنتم فولوا وجوهكم شطره وان الذين اوتوا الكتاب ليعلمون انه الحق من ربهم وما الله بغافل عما يعملون",
+    "bengali": "আকাশের দিকে বার বার তোমার মুখ ফিরানো আমি অবশ্যই দেখছি। অতএব আমি অবশ্যই তোমাকে এমন কিবলার দিকে ফিরাব, যা তুমি পছন্দ কর। সুতরাং তোমার চেহারা মাসজিদুল হারামের দিকে ফিরাও এবং তোমরা যেখানেই থাক, তার দিকেই তোমাদের চেহারা ফিরাও। আর নিশ্চয় যারা কিতাবপ্রাপ্ত হয়েছে, তারা অবশ্যই জানে যে, তা তাদের রবের পক্ষ থেকে সত্য এবং তারা যা করে, সে ব্যাপারে আল্লাহ গাফিল নন।",
+    "urdu": "(اے محمدﷺ) ہم تمہارا آسمان کی طرف منہ پھیر پھیر کر دیکھنا دیکھ رہے ہیں۔ سو ہم تم کو اسی قبلے کی طرف جس کو تم پسند کرتے ہو، منہ کرنے کا حکم دیں گے تو اپنا منہ مسجد حرام (یعنی خانہٴ کعبہ) کی طرف پھیر لو۔ اور تم لوگ جہاں ہوا کرو، (نماز پڑھنے کے وقت) اسی مسجد کی طرف منہ کر لیا کرو۔ اور جن لوگوں کو کتاب دی گئی ہے، وہ خوب جانتے ہیں کہ (نیا قبلہ) ان کے پروردگار کی طرف سے حق ہے۔ اور جو کام یہ لوگ کرتے ہیں، خدا ان سے بے خبر نہیں"
+}

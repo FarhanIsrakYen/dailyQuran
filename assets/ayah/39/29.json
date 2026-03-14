@@ -1,0 +1,42 @@
+{
+    "surahName": "Az-Zumar",
+    "surahNameArabic": "الزمر",
+    "surahNameArabicLong": "سورة الزمر",
+    "surahNameTranslation": "The Groups",
+    "revelationPlace": "Mecca",
+    "totalAyah": 75,
+    "surahNo": 39,
+    "ayahNo": 29,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/39_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/039029.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/39_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/039029.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/39_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/039029.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/39_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/039029.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/39_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/039029.mp3"
+        }
+    },
+    "english": "Allah sets forth the parable of a slave owned by several quarrelsome masters, and a slave owned by only one master. Are they equal in condition? Praise be to Allah! In fact, most of them do not know.",
+    "arabic1": "ضَرَبَ ٱللَّهُ مَثَلًا رَّجُلًا فِيهِ شُرَكَآءُ مُتَشَـٰكِسُونَ وَرَجُلًا سَلَمًا لِّرَجُلٍ هَلْ يَسْتَوِيَانِ مَثَلًا ۚ ٱلْحَمْدُ لِلَّهِ ۚ بَلْ أَكْثَرُهُمْ لَا يَعْلَمُونَ",
+    "arabic2": "ضرب الله مثلا رجلا فيه شركاء متشاكسون ورجلا سلما لرجل هل يستويان مثلا الحمد لله بل اكثرهم لا يعلمون",
+    "bengali": "আল্লাহ একটি দৃষ্টান্ত উপস্থাপন করেছেন : এক ব্যক্তি যার মনিব অনেক, যারা পরস্পর বিরোধী; এবং আরেক ব্যক্তি, যে এক মনিবের অনুগত, এ দু’জনের অবস্থা কি সমান? সকল প্রশংসা আল্লাহর; কিন্তু তাদের অধিকাংশই জানে না।",
+    "urdu": "خدا ایک مثال بیان کرتا ہے کہ ایک شخص ہے جس میں کئی (آدمی) شریک ہیں۔ (مختلف المزاج اور) بدخو اور ایک آدمی خاص ایک شخص کا (غلام) ہے۔ بھلا دونوں کی حالت برابر ہے۔ (نہیں) الحمدلله بلکہ یہ اکثر لوگ نہیں جانتے"
+}

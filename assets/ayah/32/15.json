@@ -1,0 +1,42 @@
+{
+    "surahName": "As-Sajda",
+    "surahNameArabic": "السجدة",
+    "surahNameArabicLong": "سورة السجدة",
+    "surahNameTranslation": "The Prostration",
+    "revelationPlace": "Mecca",
+    "totalAyah": 30,
+    "surahNo": 32,
+    "ayahNo": 15,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/32_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/032015.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/32_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/032015.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/32_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/032015.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/32_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/032015.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/32_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/032015.mp3"
+        }
+    },
+    "english": "The only ˹true˺ believers in Our revelation are those who—when it is recited to them—fall into prostration and glorify the praises of their Lord and are not too proud.",
+    "arabic1": "إِنَّمَا يُؤْمِنُ بِـَٔايَـٰتِنَا ٱلَّذِينَ إِذَا ذُكِّرُوا۟ بِهَا خَرُّوا۟ سُجَّدًا وَسَبَّحُوا۟ بِحَمْدِ رَبِّهِمْ وَهُمْ لَا يَسْتَكْبِرُونَ ۩",
+    "arabic2": "انما يؤمن باياتنا الذين اذا ذكروا بها خروا سجدا وسبحوا بحمد ربهم وهم لا يستكبرون",
+    "bengali": "আমার আয়াতসমূহ কেবল তারাই বিশ্বাস করে, যারা এর দ্বারা তাদেরকে উপদেশ দেয়া হলে সিজদায় লুটিয়ে পড়ে এবং তাদের রবের প্রশংসাসহ তাসবীহ করে। আর তারা অহঙ্কার করে না।[সাজদাহ]",
+    "urdu": "ہماری آیتوں پر تو وہی لوگ ایمان لاتے ہیں کہ جب اُن کو اُن سے نصیحت کی جاتی ہے تو سجدے میں گرپڑتے اور اپنے پروردگار کی تعریف کے ساتھ تسبیح کرتے ہیں اور غرور نہیں کرتے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Ar-Ra'd",
+    "surahNameArabic": "الرعد",
+    "surahNameArabicLong": "سورة الرعد",
+    "surahNameTranslation": "The Thunder",
+    "revelationPlace": "Madina",
+    "totalAyah": 43,
+    "surahNo": 13,
+    "ayahNo": 22,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/13_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/013022.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/13_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/013022.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/13_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/013022.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/13_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/013022.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/13_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/013022.mp3"
+        }
+    },
+    "english": "And ˹they are˺ those who endure patiently, seeking their Lord’s pleasure, establish prayer, donate from what We have provided for them—secretly and openly—and respond to evil with good. It is they who will have the ultimate abode:",
+    "arabic1": "وَٱلَّذِينَ صَبَرُوا۟ ٱبْتِغَآءَ وَجْهِ رَبِّهِمْ وَأَقَامُوا۟ ٱلصَّلَوٰةَ وَأَنفَقُوا۟ مِمَّا رَزَقْنَـٰهُمْ سِرًّا وَعَلَانِيَةً وَيَدْرَءُونَ بِٱلْحَسَنَةِ ٱلسَّيِّئَةَ أُو۟لَـٰٓئِكَ لَهُمْ عُقْبَى ٱلدَّارِ",
+    "arabic2": "والذين صبروا ابتغاء وجه ربهم واقاموا الصلاة وانفقوا مما رزقناهم سرا وعلانية ويدرءون بالحسنة السيئة اولئك لهم عقبى الدار",
+    "bengali": "যারা তাদের রবের সন্তুষ্টি লাভের উদ্দেশ্যে সবর করে, সালাত কায়েম করে এবং আমি তাদের যে রিয্ক প্রদান করেছি, তা থেকে গোপনে ও প্রকাশ্যে ব্যয় করে এবং ভাল কাজের মাধ্যমে মন্দকে দূর করে, তাদের জন্যই রয়েছে আখিরাতের শুভ পরিণাম।",
+    "urdu": "اور جو پروردگار کی خوشنودی حاصل کرنے کے لیے (مصائب پر) صبر کرتے ہیں اور نماز پڑھتے ہیں اور جو (مال) ہم نے ان کو دیا ہے اس میں سے پوشیدہ اور ظاہر خرچ کرتے ہیں اور نیکی سے برائی دور کرتے ہیں یہی لوگ ہیں جن کے لیے عاقبت کا گھر ہے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Jaathiya",
+    "surahNameArabic": "الجاثية",
+    "surahNameArabicLong": "سورة الجاثية",
+    "surahNameTranslation": "Crouching",
+    "revelationPlace": "Mecca",
+    "totalAyah": 37,
+    "surahNo": 45,
+    "ayahNo": 17,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/45_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/045017.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/45_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/045017.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/45_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/045017.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/45_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/045017.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/45_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/045017.mp3"
+        }
+    },
+    "english": "We ˹also˺ gave them clear commandments regarding ˹their˺ faith. But it was not until knowledge came to them that they differed out of mutual envy. Surely your Lord will judge between them on the Day of Judgment regarding their differences.",
+    "arabic1": "وَءَاتَيْنَـٰهُم بَيِّنَـٰتٍ مِّنَ ٱلْأَمْرِ ۖ فَمَا ٱخْتَلَفُوٓا۟ إِلَّا مِنۢ بَعْدِ مَا جَآءَهُمُ ٱلْعِلْمُ بَغْيًۢا بَيْنَهُمْ ۚ إِنَّ رَبَّكَ يَقْضِى بَيْنَهُمْ يَوْمَ ٱلْقِيَـٰمَةِ فِيمَا كَانُوا۟ فِيهِ يَخْتَلِفُونَ",
+    "arabic2": "واتيناهم بينات من الامر فما اختلفوا الا من بعد ما جاءهم العلم بغيا بينهم ان ربك يقضي بينهم يوم القيامة فيما كانوا فيه يختلفون",
+    "bengali": "আর আমি তাদেরকে দীনের যাবতীয় বিষয়ে সুস্পষ্ট প্রমাণাদি দিয়েছিলাম। তাদের কাছে জ্ঞান আসার পরও কেবল পারস্পরিক হিংসা-বিদ্বেষবশত তারা মতবিরোধ করেছিল। তারা যে সব বিষয়ে মতবিরোধ করত তোমার রব কিয়ামতের দিনে সে সব বিষয়ে মীমাংসা করে দেবেন।",
+    "urdu": "اور ان کو دین کے بارے میں دلیلیں عطا کیں۔ تو انہوں نے جو اختلاف کیا تو علم آچکنے کے بعد آپس کی ضد سے کیا۔ بےشک تمہارا پروردگار قیامت کے دن ان میں ان باتوں کا جن میں وہ اختلاف کرتے تھے فیصلہ کرے گا"
+}

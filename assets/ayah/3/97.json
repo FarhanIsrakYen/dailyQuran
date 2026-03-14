@@ -1,0 +1,42 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 97,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/3_97.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/003097.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/3_97.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/003097.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/3_97.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/003097.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/3_97.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/003097.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/3_97.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/003097.mp3"
+        }
+    },
+    "english": "In it are clear signs and the standing-place of Abraham. Whoever enters it should be safe. Pilgrimage to this House is an obligation by Allah upon whoever is able among the people. And whoever disbelieves, then surely Allah is not in need of ˹any of His˺ creation.",
+    "arabic1": "فِيهِ ءَايَـٰتٌۢ بَيِّنَـٰتٌ مَّقَامُ إِبْرَٰهِيمَ ۖ وَمَن دَخَلَهُۥ كَانَ ءَامِنًا ۗ وَلِلَّهِ عَلَى ٱلنَّاسِ حِجُّ ٱلْبَيْتِ مَنِ ٱسْتَطَاعَ إِلَيْهِ سَبِيلًا ۚ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ عَنِ ٱلْعَـٰلَمِينَ",
+    "arabic2": "فيه ايات بينات مقام ابراهيم ومن دخله كان امنا ولله على الناس حج البيت من استطاع اليه سبيلا ومن كفر فان الله غني عن العالمين",
+    "bengali": "তাতে রয়েছে স্পষ্ট নির্দশনসমূহ, মাকামে ইবরাহীম। আর যে তাতে প্রবেশ করবে, সে নিরাপদ হয়ে যাবে এবং সামর্থ্যবান মানুষের উপর আল্লাহর জন্য বায়তুল্লাহর হজ্জ করা ফরয। আর যে কুফরী করে, তবে আল্লাহ তো নিশ্চয় সৃষ্টিকুল থেকে অমুখাপেক্ষী।",
+    "urdu": "اس میں کھلی ہوئی نشانیاں ہیں جن میں سے ایک ابراہیم کے کھڑے ہونے کی جگہ ہے جو شخص اس (مبارک) گھر میں داخل ہوا اس نے امن پا لیا اور لوگوں پر خدا کا حق (یعنی فرض) ہے کہ جو اس گھر تک جانے کا مقدور رکھے وہ اس کا حج کرے اور جو اس حکم کی تعمیل نہ کرے گا تو خدا بھی اہلِ عالم سے بے نیاز ہے"
+}

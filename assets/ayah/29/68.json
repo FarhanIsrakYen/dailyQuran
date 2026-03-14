@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Ankaboot",
+    "surahNameArabic": "العنكبوت",
+    "surahNameArabicLong": "سورة العنكبوت",
+    "surahNameTranslation": "The Spider",
+    "revelationPlace": "Mecca",
+    "totalAyah": 69,
+    "surahNo": 29,
+    "ayahNo": 68,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/29_68.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/029068.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/29_68.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/029068.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/29_68.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/029068.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/29_68.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/029068.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/29_68.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/029068.mp3"
+        }
+    },
+    "english": "And who does more wrong than those who fabricate lies against Allah or reject the truth after it has reached them? Is Hell not a ˹fitting˺ home for the disbelievers?",
+    "arabic1": "وَمَنْ أَظْلَمُ مِمَّنِ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًا أَوْ كَذَّبَ بِٱلْحَقِّ لَمَّا جَآءَهُۥٓ ۚ أَلَيْسَ فِى جَهَنَّمَ مَثْوًى لِّلْكَـٰفِرِينَ",
+    "arabic2": "ومن اظلم ممن افترى على الله كذبا او كذب بالحق لما جاءه اليس في جهنم مثوى للكافرين",
+    "bengali": "আর সে ব্যক্তির চেয়ে যালিম আর কে, যে আল্লাহর উপর মিথ্যা আরোপ করে অথবা তার নিকট সত্য আসার পর তা অস্বীকার করে? জাহান্নামের মধ্যেই কি কাফিরদের আবাস নয়?",
+    "urdu": "اور اس سے ظالم کون جو خدا پر جھوٹ بہتان باندھے یا جب حق بات اُس کے پاس آئے تو اس کی تکذیب کرے۔ کیا کافروں کا ٹھکانا جہنم میں نہیں ہے؟"
+}

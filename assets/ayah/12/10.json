@@ -1,0 +1,42 @@
+{
+    "surahName": "Yusuf",
+    "surahNameArabic": "يوسف",
+    "surahNameArabicLong": "سورة يوسف",
+    "surahNameTranslation": "Joseph",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 12,
+    "ayahNo": 10,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/12_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/012010.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/12_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/012010.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/12_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/012010.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/12_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/012010.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/12_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/012010.mp3"
+        }
+    },
+    "english": "One of them said, “Do not kill Joseph. But if you must do something, throw him into the bottom of a well so perhaps he may be picked up by some travellers.”",
+    "arabic1": "قَالَ قَآئِلٌ مِّنْهُمْ لَا تَقْتُلُوا۟ يُوسُفَ وَأَلْقُوهُ فِى غَيَـٰبَتِ ٱلْجُبِّ يَلْتَقِطْهُ بَعْضُ ٱلسَّيَّارَةِ إِن كُنتُمْ فَـٰعِلِينَ",
+    "arabic2": "قال قائل منهم لا تقتلوا يوسف والقوه في غيابت الجب يلتقطه بعض السيارة ان كنتم فاعلين",
+    "bengali": "তাদের মধ্য থেকে একজন বলল, ‘তোমরা ইউসুফকে হত্যা করো না, আর যদি কিছু করই, তাহলে তাকে কোন কূপের গভীরে ফেলে দাও, যাত্রীদলের কেউ তাকে তুলে নিয়ে যাবে’।",
+    "urdu": "ان میں سے ایک کہنے والے نے کہا کہ یوسف کو جان سے نہ مارو کسی گہرے کنویں میں ڈال دو کہ کوئی راہگیر نکال (کر اور ملک میں) لے جائے گا۔ اگر تم کو کرنا ہے (تو یوں کرو)"
+}

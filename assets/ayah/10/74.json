@@ -1,0 +1,42 @@
+{
+    "surahName": "Yunus",
+    "surahNameArabic": "يونس",
+    "surahNameArabicLong": "سورة يونس",
+    "surahNameTranslation": "Jonas",
+    "revelationPlace": "Mecca",
+    "totalAyah": 109,
+    "surahNo": 10,
+    "ayahNo": 74,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/10_74.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/010074.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/10_74.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/010074.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/10_74.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/010074.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/10_74.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/010074.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/10_74.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/010074.mp3"
+        }
+    },
+    "english": "Then after him We sent ˹other˺ messengers to their ˹own˺ people and they came to them with clear proofs. But they would not believe in what they had rejected before. This is how We seal the hearts of the transgressors.",
+    "arabic1": "ثُمَّ بَعَثْنَا مِنۢ بَعْدِهِۦ رُسُلًا إِلَىٰ قَوْمِهِمْ فَجَآءُوهُم بِٱلْبَيِّنَـٰتِ فَمَا كَانُوا۟ لِيُؤْمِنُوا۟ بِمَا كَذَّبُوا۟ بِهِۦ مِن قَبْلُ ۚ كَذَٰلِكَ نَطْبَعُ عَلَىٰ قُلُوبِ ٱلْمُعْتَدِينَ",
+    "arabic2": "ثم بعثنا من بعده رسلا الى قومهم فجاءوهم بالبينات فما كانوا ليؤمنوا بما كذبوا به من قبل كذلك نطبع على قلوب المعتدين",
+    "bengali": "অতঃপর আমি তাঁর পরে অনেক রাসূলকে তাদের কওমের নিকট পাঠিয়েছি এবং তারা তাদের নিকট সুস্পষ্ট প্রমাণাদি নিয়ে এসেছিল; কিন্তু তারা ইতঃপূর্বে অস্বীকার করার কারণে ঈমান আনার ছিল না। এমনিভাবে আমি সীমালঙ্ঘনকারীদের অন্তরে মোহর এঁটে দেই।",
+    "urdu": "پھر نوح کے بعد ہم نے اور پیغمبر اپنی اپنی قوم کی طرف بھیجے۔ تو وہ ان کے پاس کھلی نشانیاں لے کر آئے۔ مگر وہ لوگ ایسے نہ تھے کہ جس چیز کی پہلے تکذیب کرچکے تھے اس پر ایمان لے آتے۔ اسی طرح ہم زیادتی کرنے والوں کے دلوں پر مہر لگا دیتے ہیں"
+}

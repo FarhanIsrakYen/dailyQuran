@@ -1,0 +1,42 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 35,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/3_35.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/003035.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/3_35.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/003035.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/3_35.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/003035.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/3_35.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/003035.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/3_35.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/003035.mp3"
+        }
+    },
+    "english": "˹Remember˺ when the wife of ’Imrân said, “My Lord! I dedicate what is in my womb entirely to Your service, so accept it from me. You ˹alone˺ are truly the All-Hearing, All-Knowing.”",
+    "arabic1": "إِذْ قَالَتِ ٱمْرَأَتُ عِمْرَٰنَ رَبِّ إِنِّى نَذَرْتُ لَكَ مَا فِى بَطْنِى مُحَرَّرًا فَتَقَبَّلْ مِنِّىٓ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+    "arabic2": "اذ قالت امرات عمران رب اني نذرت لك ما في بطني محررا فتقبل مني انك انت السميع العليم",
+    "bengali": "যখন ইমরানের স্ত্রী বলেছিল, ‘হে আমার রব, আমার গর্ভে যা আছে, নিশ্চয় আমি তা খালেসভাবে আপনার জন্য মানত করলাম। অতএব, আপনি আমার পক্ষ থেকে তা কবুল করুন। নিশ্চয় আপনি শ্রবণকারী, সর্বজ্ঞ’।",
+    "urdu": "(وہ وقت یاد کرنے کے لائق ہے) جب عمران کی بیوی نے کہا کہ اے پروردگار جو (بچہ) میرے پیٹ میں ہے میں اس کو تیری نذر کرتی ہوں اسے دنیا کے کاموں سے آزاد رکھوں گی تو (اسے) میری طرف سے قبول فرما توتو سننے والا (اور) جاننے والا ہے"
+}

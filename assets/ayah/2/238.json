@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 238,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_238.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002238.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_238.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002238.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_238.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002238.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_238.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002238.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_238.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002238.mp3"
+        }
+    },
+    "english": "Observe the ˹five obligatory˺ prayers—especially the middle prayer—and stand in true devotion to Allah.",
+    "arabic1": "حَـٰفِظُوا۟ عَلَى ٱلصَّلَوَٰتِ وَٱلصَّلَوٰةِ ٱلْوُسْطَىٰ وَقُومُوا۟ لِلَّهِ قَـٰنِتِينَ",
+    "arabic2": "حافظوا على الصلوات والصلاة الوسطى وقوموا لله قانتين",
+    "bengali": "তোমরা সালাতসমূহ ও মধ্যবর্তী সালাতের হিফাযত কর এবং আল্লাহর জন্য দাঁড়াও বিনীত হয়ে।",
+    "urdu": "(مسلمانو) سب نمازیں خصوصاً بیچ کی نماز (یعنی نماز عصر) پورے التزام کے ساتھ ادا کرتے رہو۔ اور خدا کے آگے ادب سے کھڑے رہا کرو"
+}

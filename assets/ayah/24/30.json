@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Noor",
+    "surahNameArabic": "النور",
+    "surahNameArabicLong": "سورة النور",
+    "surahNameTranslation": "The Light",
+    "revelationPlace": "Madina",
+    "totalAyah": 64,
+    "surahNo": 24,
+    "ayahNo": 30,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/24_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/024030.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/24_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/024030.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/24_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/024030.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/24_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/024030.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/24_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/024030.mp3"
+        }
+    },
+    "english": "˹O Prophet!˺ Tell the believing men to lower their gaze and guard their chastity. That is purer for them. Surely Allah is All-Aware of what they do.",
+    "arabic1": "قُل لِّلْمُؤْمِنِينَ يَغُضُّوا۟ مِنْ أَبْصَـٰرِهِمْ وَيَحْفَظُوا۟ فُرُوجَهُمْ ۚ ذَٰلِكَ أَزْكَىٰ لَهُمْ ۗ إِنَّ ٱللَّهَ خَبِيرٌۢ بِمَا يَصْنَعُونَ",
+    "arabic2": "قل للمؤمنين يغضوا من ابصارهم ويحفظوا فروجهم ذلك ازكى لهم ان الله خبير بما يصنعون",
+    "bengali": "মুমিন পুরুষদেরকে বল, তারা তাদের দৃষ্টিকে সংযত রাখবে এবং তাদের লজ্জাস্থানের হিফাযত করবে। এটাই তাদের জন্য অধিক পবিত্র। নিশ্চয় তারা যা করে সে সম্পর্কে আল্লাহ সম্যক অবহিত।",
+    "urdu": "مومن مردوں سے کہہ دو کہ اپنی نظریں نیچی رکھا کریں اور اپنی شرم گاہوں کی حفاظت کیا کریں۔ یہ ان کے لئے بڑی پاکیزگی کی بات ہے اور جو کام یہ کرتے ہیں خدا ان سے خبردار ہے"
+}

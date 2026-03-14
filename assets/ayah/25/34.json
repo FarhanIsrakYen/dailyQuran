@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Furqaan",
+    "surahNameArabic": "الفرقان",
+    "surahNameArabicLong": "سورة الفرقان",
+    "surahNameTranslation": "The Criterion",
+    "revelationPlace": "Mecca",
+    "totalAyah": 77,
+    "surahNo": 25,
+    "ayahNo": 34,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/25_34.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/025034.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/25_34.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/025034.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/25_34.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/025034.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/25_34.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/025034.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/25_34.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/025034.mp3"
+        }
+    },
+    "english": "Those who will be dragged into Hell on their faces will be in the worst place, and are ˹now˺ farthest from the ˹Right˺ Way.",
+    "arabic1": "ٱلَّذِينَ يُحْشَرُونَ عَلَىٰ وُجُوهِهِمْ إِلَىٰ جَهَنَّمَ أُو۟لَـٰٓئِكَ شَرٌّ مَّكَانًا وَأَضَلُّ سَبِيلًا",
+    "arabic2": "الذين يحشرون على وجوههم الى جهنم اولئك شر مكانا واضل سبيلا",
+    "bengali": "যাদেরকে মুখের উপর ভর দেয়া অবস্থায় জাহান্নামের দিকে একত্র করা হবে। এরা মর্যাদায় অধিক নিকৃষ্ট এবং পথের দিক থেকে সবচেয়ে বেশী পথভ্রষ্ট।",
+    "urdu": "جو لوگ اپنے مونہوں کے بل دوزخ کی طرف جمع کئے جائیں گے ان کا ٹھکانا بھی برا ہے اور وہ رستے سے بھی بہکے ہوئے ہیں"
+}

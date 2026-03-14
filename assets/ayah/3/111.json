@@ -1,0 +1,42 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 111,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/3_111.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/003111.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/3_111.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/003111.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/3_111.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/003111.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/3_111.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/003111.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/3_111.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/003111.mp3"
+        }
+    },
+    "english": "They can never inflict harm on you, except a little annoyance. But if they meet you in battle, they will flee and they will have no helpers.",
+    "arabic1": "لَن يَضُرُّوكُمْ إِلَّآ أَذًى ۖ وَإِن يُقَـٰتِلُوكُمْ يُوَلُّوكُمُ ٱلْأَدْبَارَ ثُمَّ لَا يُنصَرُونَ",
+    "arabic2": "لن يضروكم الا اذى وان يقاتلوكم يولوكم الادبار ثم لا ينصرون",
+    "bengali": "তারা তোমাদের কোন ক্ষতি করতে পারবে না কষ্ট দেয়া ছাড়া। আর যদি তারা তোমাদের সাথে লড়াই করে, তবে তারা তোমাদেরকে পৃষ্ঠপ্রদর্শন করে পালাবে, তারপর তাদেরকে সাহায্য করা হবে না।",
+    "urdu": "اور یہ تمہیں خفیف سی تکلیف کے سوا کچھ نقصان نہیں پہنچا سکیں گے اور اگر تم سے لڑیں گے تو پیٹھ پھیر کر بھاگ جائیں گے پھر ان کو مدد بھی (کہیں سے) نہیں ملے گی"
+}

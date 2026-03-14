@@ -1,0 +1,42 @@
+{
+    "surahName": "Ar-Room",
+    "surahNameArabic": "الروم",
+    "surahNameArabicLong": "سورة الروم",
+    "surahNameTranslation": "The Romans",
+    "revelationPlace": "Mecca",
+    "totalAyah": 60,
+    "surahNo": 30,
+    "ayahNo": 58,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/30_58.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/030058.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/30_58.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/030058.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/30_58.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/030058.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/30_58.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/030058.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/30_58.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/030058.mp3"
+        }
+    },
+    "english": "We have certainly set forth every ˹kind of˺ lesson for people in this Quran. And no matter what sign you bring to them ˹O Prophet˺, the disbelievers will definitely say ˹to the believers˺, “You are only a people of falsehood.”",
+    "arabic1": "وَلَقَدْ ضَرَبْنَا لِلنَّاسِ فِى هَـٰذَا ٱلْقُرْءَانِ مِن كُلِّ مَثَلٍ ۚ وَلَئِن جِئْتَهُم بِـَٔايَةٍ لَّيَقُولَنَّ ٱلَّذِينَ كَفَرُوٓا۟ إِنْ أَنتُمْ إِلَّا مُبْطِلُونَ",
+    "arabic2": "ولقد ضربنا للناس في هذا القران من كل مثل ولئن جئتهم باية ليقولن الذين كفروا ان انتم الا مبطلون",
+    "bengali": "আর আমি তো মানুষের জন্য এই কুরআনে সব ধরনের দৃষ্টান্ত পেশ করেছি। আর যদি তুমি তাদের কাছে কোন আয়াত নিয়ে আস, তবে অবশ্যই কাফিররা বলবে, ‘তোমরা তো বাতিলপন্থী’।",
+    "urdu": "اور ہم نے لوگوں کے (سمجھانے کے) لئے اس قرآن میں ہر طرح کی مثال بیان کر دی ہے اور اگر تم اُن کے سامنے کوئی نشانی پیش کرو تو یہ کافر کہہ دیں گے کہ تم تو جھوٹے ہو"
+}

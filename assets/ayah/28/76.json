@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Qasas",
+    "surahNameArabic": "القصص",
+    "surahNameArabicLong": "سورة القصص",
+    "surahNameTranslation": "The Stories",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 28,
+    "ayahNo": 76,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/28_76.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/028076.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/28_76.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/028076.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/28_76.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/028076.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/28_76.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/028076.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/28_76.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/028076.mp3"
+        }
+    },
+    "english": "Indeed, Korah was from the people of Moses, but he behaved arrogantly towards them. We had granted him such treasures that even their keys would burden a group of strong men. ˹Some of˺ his people advised him, “Do not be prideful! Surely Allah does not like the prideful.",
+    "arabic1": "۞ إِنَّ قَـٰرُونَ كَانَ مِن قَوْمِ مُوسَىٰ فَبَغَىٰ عَلَيْهِمْ ۖ وَءَاتَيْنَـٰهُ مِنَ ٱلْكُنُوزِ مَآ إِنَّ مَفَاتِحَهُۥ لَتَنُوٓأُ بِٱلْعُصْبَةِ أُو۟لِى ٱلْقُوَّةِ إِذْ قَالَ لَهُۥ قَوْمُهُۥ لَا تَفْرَحْ ۖ إِنَّ ٱللَّهَ لَا يُحِبُّ ٱلْفَرِحِينَ",
+    "arabic2": "ان قارون كان من قوم موسى فبغى عليهم واتيناه من الكنوز ما ان مفاتحه لتنوء بالعصبة اولي القوة اذ قال له قومه لا تفرح ان الله لا يحب الفرحين",
+    "bengali": "নিশ্চয় কারূন ছিল মূসার কওমভুক্ত। অতঃপর সে তাদের উপর ঔদ্ধত্য প্রকাশ করে। অথচ আমি তাকে এমন ধনভান্ডার দান করেছিলাম যে, নিশ্চয় তার চাবিগুলো একদল শক্তিশালী লোকের উপর ভারী হয়ে যেত। স্মরণ কর, যখন তার কওম তাকে বলল, ‘দম্ভ করো না। নিশ্চয় আল্লাহ দাম্ভিকদের ভালবাসেন না’।",
+    "urdu": "قارون موسٰی کی قوم میں سے تھا اور ان پر تعدّی کرتا تھا۔ اور ہم نے اس کو اتنے خزانے دیئے تھے کہ اُن کی کنجیاں ایک طاقتور جماعت کو اُٹھانی مشکل ہوتیں جب اس سے اس کی قوم نے کہا کہ اترائیے مت۔ کہ خدا اترانے والوں کو پسند نہیں کرتا"
+}

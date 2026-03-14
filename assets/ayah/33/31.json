@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Ahzaab",
+    "surahNameArabic": "الأحزاب",
+    "surahNameArabicLong": "سورة الأحزاب",
+    "surahNameTranslation": "The Clans",
+    "revelationPlace": "Madina",
+    "totalAyah": 73,
+    "surahNo": 33,
+    "ayahNo": 31,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/33_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/033031.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/33_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/033031.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/33_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/033031.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/33_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/033031.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/33_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/033031.mp3"
+        }
+    },
+    "english": "And whoever of you devoutly obeys Allah and His Messenger and does good, We will grant her double the reward, and We have prepared for her an honourable provision.",
+    "arabic1": "۞ وَمَن يَقْنُتْ مِنكُنَّ لِلَّهِ وَرَسُولِهِۦ وَتَعْمَلْ صَـٰلِحًا نُّؤْتِهَآ أَجْرَهَا مَرَّتَيْنِ وَأَعْتَدْنَا لَهَا رِزْقًا كَرِيمًا",
+    "arabic2": "ومن يقنت منكن لله ورسوله وتعمل صالحا نؤتها اجرها مرتين واعتدنا لها رزقا كريما",
+    "bengali": "আর তোমাদের মধ্যে যে কেউ আল্লাহ ও তাঁর রাসূলের আনুগত্য করবে এবং নেক আমল করবে আমি তাকে দু’বার তার প্রতিদান দেব এবং আমি তার জন্য প্রস্তুত রেখেছি সম্মানজনক রিয্ক।",
+    "urdu": "اور جو تم میں سے خدا اور اس کے رسول کی فرمانبردار رہے گی اور عمل نیک کرے گی۔ اس کو ہم دونا ثواب دیں گے اور اس کے لئے ہم نے عزت کی روزی تیار کر رکھی ہے"
+}

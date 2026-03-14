@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Jinn",
+    "surahNameArabic": "الجن",
+    "surahNameArabicLong": "سورة الجن",
+    "surahNameTranslation": "The Jinn",
+    "revelationPlace": "Mecca",
+    "totalAyah": 28,
+    "surahNo": 72,
+    "ayahNo": 24,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/72_24.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/072024.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/72_24.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/072024.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/72_24.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/072024.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/72_24.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/072024.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/72_24.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/072024.mp3"
+        }
+    },
+    "english": "Only when they see what they have been threatened with will they know who is weaker in helpers and inferior in manpower.",
+    "arabic1": "حَتَّىٰٓ إِذَا رَأَوْا۟ مَا يُوعَدُونَ فَسَيَعْلَمُونَ مَنْ أَضْعَفُ نَاصِرًا وَأَقَلُّ عَدَدًا",
+    "arabic2": "حتى اذا راوا ما يوعدون فسيعلمون من اضعف ناصرا واقل عددا",
+    "bengali": "অবশেষে যখন তারা তা প্রত্যক্ষ করবে, যে সম্পর্কে তাদেরকে সাবধান করা হয়েছিল। তখন তারা জানতে পারবে যে, সাহায্যকারী হিসেবে কে অধিকতর দুর্বল এবং সংখ্যায় কারা সবচেয়ে কম।",
+    "urdu": "یہاں تک کہ جب یہ لوگ وہ (دن) دیکھ لیں گے جس کا ان سے وعدہ کیا جاتا ہے تب ان کو معلوم ہو جائے گا کہ مددگار کس کے کمزور اور شمار کن کا تھوڑا ہے"
+}

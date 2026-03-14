@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 71,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/6_71.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/006071.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/6_71.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/006071.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/6_71.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/006071.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/6_71.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/006071.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/6_71.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/006071.mp3"
+        }
+    },
+    "english": "Ask ˹them, O  Prophet˺, “Should we invoke, other than Allah, those ˹idols˺ which cannot benefit or harm us, and turn back to disbelief after Allah has guided us? ˹If we do so, we will be˺ like those disoriented by devils in the wilderness, while their companions call them to guidance, ˹saying˺, ‘Come to us!’ Say, ˹O Prophet,˺ “Allah’s guidance is the ˹only˺ true guidance. And we are commanded to submit to the Lord of all worlds",
+    "arabic1": "قُلْ أَنَدْعُوا۟ مِن دُونِ ٱللَّهِ مَا لَا يَنفَعُنَا وَلَا يَضُرُّنَا وَنُرَدُّ عَلَىٰٓ أَعْقَابِنَا بَعْدَ إِذْ هَدَىٰنَا ٱللَّهُ كَٱلَّذِى ٱسْتَهْوَتْهُ ٱلشَّيَـٰطِينُ فِى ٱلْأَرْضِ حَيْرَانَ لَهُۥٓ أَصْحَـٰبٌ يَدْعُونَهُۥٓ إِلَى ٱلْهُدَى ٱئْتِنَا ۗ قُلْ إِنَّ هُدَى ٱللَّهِ هُوَ ٱلْهُدَىٰ ۖ وَأُمِرْنَا لِنُسْلِمَ لِرَبِّ ٱلْعَـٰلَمِينَ",
+    "arabic2": "قل اندعو من دون الله ما لا ينفعنا ولا يضرنا ونرد على اعقابنا بعد اذ هدانا الله كالذي استهوته الشياطين في الارض حيران له اصحاب يدعونه الى الهدى ائتنا قل ان هدى الله هو الهدى وامرنا لنسلم لرب العالمين",
+    "bengali": "বল, ‘আমরা কি ডাকব আল্লাহ ছাড়া এমন কিছুকে, যা আমাদেরকে কোন উপকার করে না এবং ক্ষতি করে না? আর আল্লাহ আমাদেরকে পথ দেখানোর পর আমাদেরকে কি ফিরানো হবে আমাদের পশ্চাতে সেই ব্যক্তির ন্যায় যাকে শয়তান যমীনে এমন শক্তভাবে পেয়ে বসেছে যে, সে দিশেহারা? তার রয়েছে সহচরবৃন্দ, তারা তাকে সঠিক পথের দিকে ডাকে, ‘আমাদের কাছে আস।’ বল, ‘আল্লাহর পথই সঠিক পথ। আর আমরা রাব্বুল আলামীনের আনুগত্য করতে আদিষ্ট হয়েছি’ ।",
+    "urdu": "کہو۔ کیا ہم خدا کے سوا ایسی چیز کو پکاریں جو نہ ہمارا بھلا کرسکے نہ برا۔ اور جب ہم کو خدا نے سیدھا رستہ دکھا دیا تو (کیا) ہم الٹے پاؤں پھر جائیں؟ (پھر ہماری ایسی مثال ہو) جیسے کسی کو جنات نے جنگل میں بھلا دیا ہو (اور وہ) حیران (ہو رہا ہو) اور اس کے کچھ رفیق ہوں جو اس کو رستے کی طرف بلائیں کہ ہمارے پاس چلا آ۔ کہہ دو کہ رستہ تو وہی ہے جو خدا نے بتایا ہے۔ اور ہمیں تو یہ حکم ملا ہے کہ ہم خدائے رب العالمین کے فرمانبردار ہوں"
+}

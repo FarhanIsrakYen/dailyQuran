@@ -1,0 +1,42 @@
+{
+    "surahName": "Maryam",
+    "surahNameArabic": "مريم",
+    "surahNameArabicLong": "سورة مريم",
+    "surahNameTranslation": "Mary",
+    "revelationPlace": "Mecca",
+    "totalAyah": 98,
+    "surahNo": 19,
+    "ayahNo": 8,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/19_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/019008.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/19_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/019008.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/19_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/019008.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/19_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/019008.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/19_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/019008.mp3"
+        }
+    },
+    "english": "He wondered, “My Lord! How can I have a son when my wife is barren, and I have become extremely old?”",
+    "arabic1": "قَالَ رَبِّ أَنَّىٰ يَكُونُ لِى غُلَـٰمٌ وَكَانَتِ ٱمْرَأَتِى عَاقِرًا وَقَدْ بَلَغْتُ مِنَ ٱلْكِبَرِ عِتِيًّا",
+    "arabic2": "قال رب انى يكون لي غلام وكانت امراتي عاقرا وقد بلغت من الكبر عتيا",
+    "bengali": "সে বলল, ‘হে আমার রব, কিভাবে আমার পুত্র সন্তান হবে, আমার স্ত্রী তো বন্ধ্যা, আর আমিও তো বার্ধক্যের শেষ পর্যায়ে পৌঁছে গিয়েছি’।",
+    "urdu": "انہوں نے کہا پروردگار میرے ہاں کس طرح لڑکا ہوگا۔ جس حال میں میری بیوی بانجھ ہے اور میں بڑھاپے کی انتہا کو پہنچ گیا ہوں"
+}

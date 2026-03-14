@@ -1,0 +1,42 @@
+{
+    "surahName": "Fussilat",
+    "surahNameArabic": "فصلت",
+    "surahNameArabicLong": "سورة فصلت",
+    "surahNameTranslation": "Explained in detail",
+    "revelationPlace": "Mecca",
+    "totalAyah": 54,
+    "surahNo": 41,
+    "ayahNo": 14,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/41_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/041014.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/41_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/041014.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/41_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/041014.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/41_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/041014.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/41_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/041014.mp3"
+        }
+    },
+    "english": "The messengers had come to them from all angles, ˹proclaiming,˺ “Worship none but Allah.” They responded, “Had our Lord willed, He could have easily sent down angels ˹instead˺. So we totally reject what you have been sent with.”",
+    "arabic1": "إِذْ جَآءَتْهُمُ ٱلرُّسُلُ مِنۢ بَيْنِ أَيْدِيهِمْ وَمِنْ خَلْفِهِمْ أَلَّا تَعْبُدُوٓا۟ إِلَّا ٱللَّهَ ۖ قَالُوا۟ لَوْ شَآءَ رَبُّنَا لَأَنزَلَ مَلَـٰٓئِكَةً فَإِنَّا بِمَآ أُرْسِلْتُم بِهِۦ كَـٰفِرُونَ",
+    "arabic2": "اذ جاءتهم الرسل من بين ايديهم ومن خلفهم الا تعبدوا الا الله قالوا لو شاء ربنا لانزل ملائكة فانا بما ارسلتم به كافرون",
+    "bengali": "যখন তাদের অগ্র ও পশ্চাৎ থেকে রাসূলগণ তাদের কাছে এসে বলেছিল যে, ‘তোমরা আল্লাহ ছাড়া কারো ইবাদাত করো না’। তারা বলেছিল, ‘যদি আমাদের রব ইচ্ছা করতেন তাহলে অবশ্যই ফেরেশতা নাযিল করতেন। অতএব, তোমাদেরকে যা দিয়ে পাঠানো হয়েছে নিশ্চয় আমরা তা প্রত্যাখ্যান করলাম।",
+    "urdu": "جب ان کے پاس پیغمبر ان کے آگے اور پیچھے سے آئے کہ خدا کے سوا (کسی کی) عبادت نہ کرو۔ کہنے لگے کہ اگر ہمارا پروردگار چاہتا تو فرشتے اُتار دیتا سو جو تم دے کر بھیجے گئے ہو ہم اس کو نہیں مانتے"
+}

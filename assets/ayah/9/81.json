@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 81,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/9_81.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/009081.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/9_81.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/009081.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/9_81.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/009081.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/9_81.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/009081.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/9_81.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/009081.mp3"
+        }
+    },
+    "english": "Those ˹hypocrites˺ who remained behind rejoiced for doing so in defiance of the Messenger of Allah and hated ˹the prospect of˺ striving with their wealth and their lives in the cause of Allah. They said ˹to one another˺, “Do not march forth in the heat.” Say, ˹O Prophet,˺ “The Fire of Hell is far hotter!” If only they could comprehend!",
+    "arabic1": "فَرِحَ ٱلْمُخَلَّفُونَ بِمَقْعَدِهِمْ خِلَـٰفَ رَسُولِ ٱللَّهِ وَكَرِهُوٓا۟ أَن يُجَـٰهِدُوا۟ بِأَمْوَٰلِهِمْ وَأَنفُسِهِمْ فِى سَبِيلِ ٱللَّهِ وَقَالُوا۟ لَا تَنفِرُوا۟ فِى ٱلْحَرِّ ۗ قُلْ نَارُ جَهَنَّمَ أَشَدُّ حَرًّا ۚ لَّوْ كَانُوا۟ يَفْقَهُونَ",
+    "arabic2": "فرح المخلفون بمقعدهم خلاف رسول الله وكرهوا ان يجاهدوا باموالهم وانفسهم في سبيل الله وقالوا لا تنفروا في الحر قل نار جهنم اشد حرا لو كانوا يفقهون",
+    "bengali": "পেছনে থাকা লোকগুলো আল্লাহর রাসূলের বিপক্ষে বসে থাকতে পেরে খুশি হল, আর তারা অপছন্দ করল তাদের মাল ও জান নিয়ে আল্লাহর রাস্তায় জিহাদ করতে এবং তারা বলল, ‘তোমরা গরমের মধ্যে বের হয়ো না’। বল, ‘জাহান্নামের আগুন অধিকতর গরম, যদি তারা বুঝত’।",
+    "urdu": "جو لوگ (غزوہٴ تبوک میں) پیچھے رہ گئے وہ پیغمبر خدا (کی مرضی) کے خلاف بیٹھے رہنے سے خوش ہوئے اور اس بات کو ناپسند کیا کہ خدا کی راہ میں اپنے مال اور جان سے جہاد کریں۔ اور (اوروں سے بھی) کہنے لگے کہ گرمی میں مت نکلنا۔ (ان سے) کہہ دو کہ دوزخ کی آگ اس سے کہیں زیادہ گرم ہے۔ کاش یہ (اس بات) کو سمجھتے"
+}

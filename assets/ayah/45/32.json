@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Jaathiya",
+    "surahNameArabic": "الجاثية",
+    "surahNameArabicLong": "سورة الجاثية",
+    "surahNameTranslation": "Crouching",
+    "revelationPlace": "Mecca",
+    "totalAyah": 37,
+    "surahNo": 45,
+    "ayahNo": 32,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/45_32.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/045032.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/45_32.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/045032.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/45_32.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/045032.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/45_32.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/045032.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/45_32.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/045032.mp3"
+        }
+    },
+    "english": "And whenever it was said ˹to you˺, ‘Surely Allah’s promise ˹of judgment˺ is true and there is no doubt about the Hour,’ you said ˹mockingly˺, ‘We do not know what the Hour is! We think it is no more than speculation, and we are not convinced ˹that it will ever come˺.’”",
+    "arabic1": "وَإِذَا قِيلَ إِنَّ وَعْدَ ٱللَّهِ حَقٌّ وَٱلسَّاعَةُ لَا رَيْبَ فِيهَا قُلْتُم مَّا نَدْرِى مَا ٱلسَّاعَةُ إِن نَّظُنُّ إِلَّا ظَنًّا وَمَا نَحْنُ بِمُسْتَيْقِنِينَ",
+    "arabic2": "واذا قيل ان وعد الله حق والساعة لا ريب فيها قلتم ما ندري ما الساعة ان نظن الا ظنا وما نحن بمستيقنين",
+    "bengali": "আর যখন বলা হয়, ‘আল্লাহর ওয়াদা সত্য, আর কিয়ামতে কোন সন্দেহ নেই’। তখন তোমরা বলে থাক, ‘আমরা জানি না কিয়ামত কী? আমরা কেবল অনুমান করি এবং আমরা তো দৃঢ় বিশ্বাসী নই।’",
+    "urdu": "اور جب کہا جاتا تھا کہ خدا کا وعدہ سچا ہے اور قیامت میں کچھ شک نہیں تو تم کہتے تھے ہم نہیں جانتے کہ قیامت کیا ہے۔ ہم اس کو محض ظنی خیال کرتے ہیں اور ہمیں یقین نہیں آتا"
+}

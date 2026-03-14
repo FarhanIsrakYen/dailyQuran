@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nahl",
+    "surahNameArabic": "النحل",
+    "surahNameArabicLong": "سورة النحل",
+    "surahNameTranslation": "The Bee",
+    "revelationPlace": "Mecca",
+    "totalAyah": 128,
+    "surahNo": 16,
+    "ayahNo": 93,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/16_93.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/016093.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/16_93.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/016093.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/16_93.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/016093.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/16_93.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/016093.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/16_93.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/016093.mp3"
+        }
+    },
+    "english": "Had Allah willed, He could have easily made you one community ˹of believers˺, but He leaves to stray whoever He wills and guides whoever He wills. And you will certainly be questioned about what you used to do.",
+    "arabic1": "وَلَوْ شَآءَ ٱللَّهُ لَجَعَلَكُمْ أُمَّةً وَٰحِدَةً وَلَـٰكِن يُضِلُّ مَن يَشَآءُ وَيَهْدِى مَن يَشَآءُ ۚ وَلَتُسْـَٔلُنَّ عَمَّا كُنتُمْ تَعْمَلُونَ",
+    "arabic2": "ولو شاء الله لجعلكم امة واحدة ولكن يضل من يشاء ويهدي من يشاء ولتسالن عما كنتم تعملون",
+    "bengali": "আর যদি আল্লাহ চাইতেন, তোমাদের সকলকে এক জাতিতে পরিণত করতেন, কিন্তু আল্লাহ যাকে ইচ্ছা পথভ্রষ্ট করেন, আর যাকে ইচ্ছা হিদায়াত দেন। তোমরা যা করতে সে সম্পর্কে অবশ্যই তোমাদের জিজ্ঞাসা করা হবে।",
+    "urdu": "اور اگر خدا چاہتا تو تم (سب) کو ایک ہی جماعت بنا دیتا۔ لیکن وہ جسے چاہتا ہے گمراہ کرتا ہے اور جسے چاہتا ہے ہدایت دیتا ہے۔ اور جو عمل تم کرتے ہو (اُس دن) اُن کے بارے میں تم سے ضرور پوچھا جائے گا"
+}

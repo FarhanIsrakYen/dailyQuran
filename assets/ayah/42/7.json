@@ -1,0 +1,42 @@
+{
+    "surahName": "Ash-Shura",
+    "surahNameArabic": "الشورى",
+    "surahNameArabicLong": "سورة الشورى",
+    "surahNameTranslation": "Consultation",
+    "revelationPlace": "Mecca",
+    "totalAyah": 53,
+    "surahNo": 42,
+    "ayahNo": 7,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/42_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/042007.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/42_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/042007.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/42_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/042007.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/42_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/042007.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/42_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/042007.mp3"
+        }
+    },
+    "english": "And so We have revealed to you a Quran in Arabic, so you may warn the Mother of Cities and everyone around it, and warn of the Day of Gathering—about which there is no doubt—˹when˺ a group will be in Paradise and another in the Blaze.",
+    "arabic1": "وَكَذَٰلِكَ أَوْحَيْنَآ إِلَيْكَ قُرْءَانًا عَرَبِيًّا لِّتُنذِرَ أُمَّ ٱلْقُرَىٰ وَمَنْ حَوْلَهَا وَتُنذِرَ يَوْمَ ٱلْجَمْعِ لَا رَيْبَ فِيهِ ۚ فَرِيقٌ فِى ٱلْجَنَّةِ وَفَرِيقٌ فِى ٱلسَّعِيرِ",
+    "arabic2": "وكذلك اوحينا اليك قرانا عربيا لتنذر ام القرى ومن حولها وتنذر يوم الجمع لا ريب فيه فريق في الجنة وفريق في السعير",
+    "bengali": "আর এভাবেই আমি তোমার ওপর আরবী ভাষায় কুরআন নাযিল করেছি যাতে তুমি মূল জনপদ ও তার আশপাশের বাসিন্দাদেরকে সতর্ক করতে পার, আর যাতে ‘একত্রিত হওয়ার দিন’ এর ব্যাপারে সতর্ক করতে পার, যাতে কোন সন্দেহ নেই, একদল থাকবে জান্নাতে আরেক দল জ্বলন্ত আগুনে।",
+    "urdu": "اور اسی طرح تمہارے پاس قرآن عربی بھیجا ہے تاکہ تم بڑے گاؤں (یعنی مکّے) کے رہنے والوں کو اور جو لوگ اس کے اردگرد رہتے ہیں ان کو رستہ دکھاؤ اور انہیں قیامت کے دن کا بھی جس میں کچھ شک نہیں ہے خوف دلاؤ۔ اس روز ایک فریق بہشت میں ہوگا اور ایک فریق دوزخ میں"
+}

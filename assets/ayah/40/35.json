@@ -1,0 +1,42 @@
+{
+    "surahName": "Ghafir",
+    "surahNameArabic": "غافر",
+    "surahNameArabicLong": "سورة غافر",
+    "surahNameTranslation": "The Forgiver",
+    "revelationPlace": "Mecca",
+    "totalAyah": 85,
+    "surahNo": 40,
+    "ayahNo": 35,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/40_35.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/040035.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/40_35.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/040035.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/40_35.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/040035.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/40_35.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/040035.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/40_35.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/040035.mp3"
+        }
+    },
+    "english": "those who dispute Allah’s signs with no proof given to them. How despicable is that for Allah and the believers! This is how Allah seals the heart of every arrogant tyrant.”",
+    "arabic1": "ٱلَّذِينَ يُجَـٰدِلُونَ فِىٓ ءَايَـٰتِ ٱللَّهِ بِغَيْرِ سُلْطَـٰنٍ أَتَىٰهُمْ ۖ كَبُرَ مَقْتًا عِندَ ٱللَّهِ وَعِندَ ٱلَّذِينَ ءَامَنُوا۟ ۚ كَذَٰلِكَ يَطْبَعُ ٱللَّهُ عَلَىٰ كُلِّ قَلْبِ مُتَكَبِّرٍ جَبَّارٍ",
+    "arabic2": "الذين يجادلون في ايات الله بغير سلطان اتاهم كبر مقتا عند الله وعند الذين امنوا كذلك يطبع الله على كل قلب متكبر جبار",
+    "bengali": "যারা নিজদের কাছে আগত কোন দলীল-প্রমাণ ছাড়া আল্লাহর নিদর্শনাবলী সম্পর্কে বিতর্কে লিপ্ত হয়। তাদের এ কাজ আল্লাহ ও মুমিনদের দৃষ্টিতে অতিশয় ঘৃণার্হ। এভাবেই আল্লাহ প্রত্যেক অহঙ্কারী স্বৈরাচারীর অন্তরে সীল মেরে দেন।",
+    "urdu": "جو لوگ بغیر اس کے کہ ان کے پاس کوئی دلیل آئی ہو خدا کی آیتوں میں جھگڑتے ہیں۔ خدا کے نزدیک اور مومنوں کے نزدیک یہ جھگڑا سخت ناپسند ہے۔ اسی طرح خدا ہر متکبر سرکش کے دل پر مہر لگا دیتا ہے"
+}

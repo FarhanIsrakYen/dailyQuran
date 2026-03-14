@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Talaaq",
+    "surahNameArabic": "الطلاق",
+    "surahNameArabicLong": "سورة الطلاق",
+    "surahNameTranslation": "Divorce",
+    "revelationPlace": "Madina",
+    "totalAyah": 12,
+    "surahNo": 65,
+    "ayahNo": 2,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/65_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/065002.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/65_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/065002.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/65_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/065002.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/65_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/065002.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/65_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/065002.mp3"
+        }
+    },
+    "english": "Then when they have ˹almost˺ reached the end of their waiting period, either retain them honourably or separate from them honourably. And call two of your reliable men to witness ˹either way˺—and ˹let the witnesses˺ bear true testimony for ˹the sake of˺ Allah. This is enjoined on whoever has faith in Allah and the Last Day. And whoever is mindful of Allah, He will make a way out for them",
+    "arabic1": "فَإِذَا بَلَغْنَ أَجَلَهُنَّ فَأَمْسِكُوهُنَّ بِمَعْرُوفٍ أَوْ فَارِقُوهُنَّ بِمَعْرُوفٍ وَأَشْهِدُوا۟ ذَوَىْ عَدْلٍ مِّنكُمْ وَأَقِيمُوا۟ ٱلشَّهَـٰدَةَ لِلَّهِ ۚ ذَٰلِكُمْ يُوعَظُ بِهِۦ مَن كَانَ يُؤْمِنُ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ ۚ وَمَن يَتَّقِ ٱللَّهَ يَجْعَل لَّهُۥ مَخْرَجًا",
+    "arabic2": "فاذا بلغن اجلهن فامسكوهن بمعروف او فارقوهن بمعروف واشهدوا ذوي عدل منكم واقيموا الشهادة لله ذلكم يوعظ به من كان يؤمن بالله واليوم الاخر ومن يتق الله يجعل له مخرجا",
+    "bengali": "অতঃপর যখন তারা তাদের ইদ্দতের শেষ সীমায় পৌঁছবে, তখন তোমরা তাদের ন্যায়ানুগ প‎ন্থায় রেখে দেবে অথবা ন্যায়ানুগ প‎ন্থায় তাদের পরিত্যাগ করবে এবং তোমাদের মধ্য থেকে ন্যায়পরায়ণ দুইজনকে সাক্ষী বানাবে। আর আল্লাহর জন্য সঠিক সাক্ষ্য দেবে। তোমাদের মধ্যে যে আল্লাহ ও আখিরাত দিবসের প্রতি ঈমান আনে এটি দ্বারা তাকে উপদেশ দেয়া হচ্ছে। যে আল্লাহকে ভয় করে, তিনি তার জন্য উত্তরণের পথ তৈরী করে দেন।",
+    "urdu": "پھر جب وہ اپنی میعاد (یعنی انقضائے عدت) کے قریب پہنچ جائیں تو یا تو ان کو اچھی طرح (زوجیت میں) رہنے دو یا اچھی طرح سے علیحدہ کردو اور اپنے میں سے دو منصف مردوں کو گواہ کرلو اور (گواہ ہو!) خدا کے لئے درست گواہی دینا۔ ان باتوں سے اس شخص کو نصیحت کی جاتی ہے جو خدا پر اور روز آخرت پر ایمان رکھتا ہے۔ اور جو کوئی خدا سے ڈرے گا وہ اس کے لئے (رنج ومحن سے) مخلصی (کی صورت) پیدا کرے گا"
+}

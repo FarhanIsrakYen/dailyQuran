@@ -1,0 +1,42 @@
+{
+    "surahName": "Ibrahim",
+    "surahNameArabic": "ابراهيم",
+    "surahNameArabicLong": "سورة ابراهيم",
+    "surahNameTranslation": "Abraham",
+    "revelationPlace": "Mecca",
+    "totalAyah": 52,
+    "surahNo": 14,
+    "ayahNo": 26,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/14_26.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/014026.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/14_26.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/014026.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/14_26.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/014026.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/14_26.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/014026.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/14_26.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/014026.mp3"
+        }
+    },
+    "english": "And the parable of an evil word is that of an evil tree, uprooted from the earth, having no stability.",
+    "arabic1": "وَمَثَلُ كَلِمَةٍ خَبِيثَةٍ كَشَجَرَةٍ خَبِيثَةٍ ٱجْتُثَّتْ مِن فَوْقِ ٱلْأَرْضِ مَا لَهَا مِن قَرَارٍ",
+    "arabic2": "ومثل كلمة خبيثة كشجرة خبيثة اجتثت من فوق الارض ما لها من قرار",
+    "bengali": "আর অপবিত্র বাক্যের উপমা নিকৃষ্ট বৃক্ষের ন্যায়, যাকে মাটির উপর থেকে সমূলে উপড়ে ফেলা হয়েছে, যার কোন স্থিতি নেই।",
+    "urdu": "اور ناپاک بات کی مثال ناپاک درخت کی سی ہے (نہ جڑ مستحکم نہ شاخیں بلند) زمین کے اوپر ہی سے اکھیڑ کر پھینک دیا جائے گا اس کو ذرا بھی قرار (وثبات) نہیں"
+}

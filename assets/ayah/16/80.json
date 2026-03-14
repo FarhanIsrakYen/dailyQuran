@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nahl",
+    "surahNameArabic": "النحل",
+    "surahNameArabicLong": "سورة النحل",
+    "surahNameTranslation": "The Bee",
+    "revelationPlace": "Mecca",
+    "totalAyah": 128,
+    "surahNo": 16,
+    "ayahNo": 80,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/16_80.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/016080.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/16_80.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/016080.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/16_80.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/016080.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/16_80.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/016080.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/16_80.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/016080.mp3"
+        }
+    },
+    "english": "And Allah has made your homes a place to rest, and has given you tents from the hide of animals, light to handle when you travel and when you camp. And out of their wool, fur, and hair He has given you furnishings and goods for a while.",
+    "arabic1": "وَٱللَّهُ جَعَلَ لَكُم مِّنۢ بُيُوتِكُمْ سَكَنًا وَجَعَلَ لَكُم مِّن جُلُودِ ٱلْأَنْعَـٰمِ بُيُوتًا تَسْتَخِفُّونَهَا يَوْمَ ظَعْنِكُمْ وَيَوْمَ إِقَامَتِكُمْ ۙ وَمِنْ أَصْوَافِهَا وَأَوْبَارِهَا وَأَشْعَارِهَآ أَثَـٰثًا وَمَتَـٰعًا إِلَىٰ حِينٍ",
+    "arabic2": "والله جعل لكم من بيوتكم سكنا وجعل لكم من جلود الانعام بيوتا تستخفونها يوم ظعنكم ويوم اقامتكم ومن اصوافها واوبارها واشعارها اثاثا ومتاعا الى حين",
+    "bengali": "আর আল্লাহ তোমাদের ঘরগুলোকে তোমাদের জন্য আবাস করেছেন এবং তোমাদের পশুর চামড়া দিয়ে তাবুর ব্যবস্থা করেছেন, যা খুব সহজেই তোমরা সফরকালে ও অবস্থানকালে বহন করতে পার। আর তাদের পশম, তাদের লোম ও তাদের চুল দ্বারা নির্দিষ্ট সময়ের জন্য গৃহসামগ্রী ও ভোগ-উপকরণ (তৈরি করেছেন)।",
+    "urdu": "اور خدا ہی نے تمہارے لیے گھروں کو رہنے کی جگہ بنایا اور اُسی نے چوپایوں کی کھالوں سے تمہارے لیے ڈیرے بنائے۔ جن کو تم سبک دیکھ کر سفر اور حضر میں کام میں لاتے ہو اور اُن کی اون، پشم اور بالوں سے تم اسباب اور برتنے کی چیزیں (بناتے ہو جو) مدت تک (کام دیتی ہیں)"
+}

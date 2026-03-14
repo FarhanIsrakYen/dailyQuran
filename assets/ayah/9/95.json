@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 95,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/9_95.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/009095.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/9_95.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/009095.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/9_95.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/009095.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/9_95.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/009095.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/9_95.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/009095.mp3"
+        }
+    },
+    "english": "When you return, they will swear to you by Allah so that you may leave them alone. So leave them alone—they are truly evil. Hell will be their home as a reward for what they have committed.",
+    "arabic1": "سَيَحْلِفُونَ بِٱللَّهِ لَكُمْ إِذَا ٱنقَلَبْتُمْ إِلَيْهِمْ لِتُعْرِضُوا۟ عَنْهُمْ ۖ فَأَعْرِضُوا۟ عَنْهُمْ ۖ إِنَّهُمْ رِجْسٌ ۖ وَمَأْوَىٰهُمْ جَهَنَّمُ جَزَآءًۢ بِمَا كَانُوا۟ يَكْسِبُونَ",
+    "arabic2": "سيحلفون بالله لكم اذا انقلبتم اليهم لتعرضوا عنهم فاعرضوا عنهم انهم رجس وماواهم جهنم جزاء بما كانوا يكسبون",
+    "bengali": "যখন তোমরা তাদের কাছে ফিরে যাবে, তখন অচিরেই তোমাদের কাছে আল্লাহর নামে শপথ করবে, যাতে তোমরা তাদেরকে উপেক্ষা কর। সুতরাং তোমরা তাদেরকে উপক্ষো কর। নিশ্চয় তারা অপবিত্র এবং জাহান্নাম হল তাদের আশ্রয়স্থল। তারা যা অর্জন করত, তার প্রতিফলস্বরূপ ।",
+    "urdu": "جب تم ان کے پاس لوٹ کر جاؤ گے تو تمہارے روبرو خدا کی قسمیں کھائیں گے تاکہ تم ان سے درگزر کرو سو اُن کی طرف التفات نہ کرنا۔ یہ ناپاک ہیں اور جو یہ کام کرتے رہے ہیں اس کے بدلہ ان کا ٹھکانہ دوزخ ہے"
+}

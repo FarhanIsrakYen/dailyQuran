@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Hijr",
+    "surahNameArabic": "الحجر",
+    "surahNameArabicLong": "سورة الحجر",
+    "surahNameTranslation": "The Rock",
+    "revelationPlace": "Mecca",
+    "totalAyah": 99,
+    "surahNo": 15,
+    "ayahNo": 33,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/15_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/015033.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/15_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/015033.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/15_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/015033.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/15_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/015033.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/15_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/015033.mp3"
+        }
+    },
+    "english": "He replied, “It is not for me to prostrate to a human You created from sounding clay moulded from black mud.”",
+    "arabic1": "قَالَ لَمْ أَكُن لِّأَسْجُدَ لِبَشَرٍ خَلَقْتَهُۥ مِن صَلْصَـٰلٍ مِّنْ حَمَإٍ مَّسْنُونٍ",
+    "arabic2": "قال لم اكن لاسجد لبشر خلقته من صلصال من حما مسنون",
+    "bengali": "সে বলল, ‘আমি তো এমন নই যে, একজন মানুষকে আমি সিজদা করব, যাকে আপনি সৃষ্টি করেছেন শুকনো ঠনঠনে কালচে মাটি থেকে’।",
+    "urdu": "(اس نے) کہا کہ میں ایسا نہیں ہوں کہ انسان کو جس کو تو نے کھنکھناتے سڑے ہوئے گارے سے بنایا ہے سجدہ کروں"
+}

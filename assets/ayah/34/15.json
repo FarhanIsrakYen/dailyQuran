@@ -1,0 +1,42 @@
+{
+    "surahName": "Saba",
+    "surahNameArabic": "سبإ",
+    "surahNameArabicLong": "سورة سَبَأ",
+    "surahNameTranslation": "Sheba",
+    "revelationPlace": "Mecca",
+    "totalAyah": 54,
+    "surahNo": 34,
+    "ayahNo": 15,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/34_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/034015.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/34_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/034015.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/34_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/034015.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/34_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/034015.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/34_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/034015.mp3"
+        }
+    },
+    "english": "Indeed, there was a sign for ˹the tribe of˺ Sheba in their homeland: two orchards—one to the right and the other to the left. ˹They were told:˺ “Eat from the provision of your Lord, and be grateful to Him. ˹Yours is˺ a good land and a forgiving Lord.”",
+    "arabic1": "لَقَدْ كَانَ لِسَبَإٍ فِى مَسْكَنِهِمْ ءَايَةٌ ۖ جَنَّتَانِ عَن يَمِينٍ وَشِمَالٍ ۖ كُلُوا۟ مِن رِّزْقِ رَبِّكُمْ وَٱشْكُرُوا۟ لَهُۥ ۚ بَلْدَةٌ طَيِّبَةٌ وَرَبٌّ غَفُورٌ",
+    "arabic2": "لقد كان لسبا في مسكنهم اية جنتان عن يمين وشمال كلوا من رزق ربكم واشكروا له بلدة طيبة ورب غفور",
+    "bengali": "নিশ্চয় সাবা সম্প্রদায়ের জন্য তাদের বাসভূমিতে ছিল একটি নিদর্শন : দু’টি উদ্যান, একটি ডানে ও অপরটি বামে, (তাদেরকে বলা হয়েছিল) ‘তোমরা তোমাদের রবের রিয্ক থেকে খাও আর তাঁর শোকর কর। এটি উত্তম শহর এবং (তোমাদের রব) ক্ষমাশীল রব’।",
+    "urdu": "(اہل) سبا کے لئے ان کے مقام بودوباش میں ایک نشانی تھی (یعنی) دو باغ (ایک) داہنی طرف اور (ایک) بائیں طرف۔ اپنے پروردگار کا رزق کھاؤ اور اس کا شکر کرو۔ (یہاں تمہارے رہنے کو یہ) پاکیزہ شہر ہے اور (وہاں بخشنے کو) خدائے غفار"
+}

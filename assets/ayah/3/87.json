@@ -1,0 +1,42 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 87,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/3_87.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/003087.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/3_87.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/003087.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/3_87.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/003087.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/3_87.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/003087.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/3_87.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/003087.mp3"
+        }
+    },
+    "english": "Their reward is that they will be condemned by Allah, the angels, and all of humanity.",
+    "arabic1": "أُو۟لَـٰٓئِكَ جَزَآؤُهُمْ أَنَّ عَلَيْهِمْ لَعْنَةَ ٱللَّهِ وَٱلْمَلَـٰٓئِكَةِ وَٱلنَّاسِ أَجْمَعِينَ",
+    "arabic2": "اولئك جزاؤهم ان عليهم لعنة الله والملائكة والناس اجمعين",
+    "bengali": "এরাই তারা, যাদের প্রতিদান হল, নিশ্চয় তাদের উপর আল্লাহর, ফেরেশতাদের ও সকল মানুষের লা’নত।",
+    "urdu": "ان لوگوں کی سزا یہ ہے کہ ان پر خدا کی اور فرشتوں کی اور انسانوں کی سب کی لعنت ہو"
+}

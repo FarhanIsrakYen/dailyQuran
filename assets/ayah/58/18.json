@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Mujaadila",
+    "surahNameArabic": "المجادلة",
+    "surahNameArabicLong": "سورة المجادلة",
+    "surahNameTranslation": "The Pleading Woman",
+    "revelationPlace": "Madina",
+    "totalAyah": 22,
+    "surahNo": 58,
+    "ayahNo": 18,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/58_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/058018.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/58_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/058018.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/58_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/058018.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/58_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/058018.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/58_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/058018.mp3"
+        }
+    },
+    "english": "On the Day Allah resurrects them all, they will ˹falsely˺ swear to Him as they swear to you, thinking they have something to stand on. Indeed, it is they who are the ˹total˺ liars.",
+    "arabic1": "يَوْمَ يَبْعَثُهُمُ ٱللَّهُ جَمِيعًا فَيَحْلِفُونَ لَهُۥ كَمَا يَحْلِفُونَ لَكُمْ ۖ وَيَحْسَبُونَ أَنَّهُمْ عَلَىٰ شَىْءٍ ۚ أَلَآ إِنَّهُمْ هُمُ ٱلْكَـٰذِبُونَ",
+    "arabic2": "يوم يبعثهم الله جميعا فيحلفون له كما يحلفون لكم ويحسبون انهم على شيء الا انهم هم الكاذبون",
+    "bengali": "সেদিন আল্লাহ তাদের সকলকে পুনরুত্থিত করবেন, তখন তারা আল্লাহর নিকট এমন কসম করবে যেমন কসম তোমাদের নিকট করে থাকে এবং তারা মনে করে যে, তারা কোন কিছুর উপর আছে। জেনে রাখ, নিশ্চয় এরা মিথ্যাবাদী।",
+    "urdu": "جس دن خدا ان سب کو جلا اٹھائے گا تو جس طرح تمہارے سامنے قسمیں کھاتے (اسی طرح) خدا کے سامنے قسمیں کھائیں گے اور خیال کریں گے کہ (ایسا کرنے سے) کام لے نکلے ہیں۔ دیکھو یہ جھوٹے (اور برسر غلط) ہیں"
+}

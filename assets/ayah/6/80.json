@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 80,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/6_80.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/006080.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/6_80.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/006080.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/6_80.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/006080.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/6_80.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/006080.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/6_80.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/006080.mp3"
+        }
+    },
+    "english": "And his people argued with him. He responded, “Are you arguing with me about Allah, while He has guided me? I am not afraid of whatever ˹idols˺ you associate with Him—˹none can harm me,˺ unless my Lord so wills. My Lord encompasses everything in ˹His˺ knowledge. Will you not be mindful?",
+    "arabic1": "وَحَآجَّهُۥ قَوْمُهُۥ ۚ قَالَ أَتُحَـٰٓجُّوٓنِّى فِى ٱللَّهِ وَقَدْ هَدَىٰنِ ۚ وَلَآ أَخَافُ مَا تُشْرِكُونَ بِهِۦٓ إِلَّآ أَن يَشَآءَ رَبِّى شَيْـًٔا ۗ وَسِعَ رَبِّى كُلَّ شَىْءٍ عِلْمًا ۗ أَفَلَا تَتَذَكَّرُونَ",
+    "arabic2": "وحاجه قومه قال اتحاجوني في الله وقد هدان ولا اخاف ما تشركون به الا ان يشاء ربي شيئا وسع ربي كل شيء علما افلا تتذكرون",
+    "bengali": "আর তার কওম তার সাথে বাদানুবাদ করল। সে বলল, তোমরা কি বাদানুবাদ করছ আমার সাথে আল্লাহর ব্যাপারে, অথচ তিনি আমাকে হিদায়াত দিয়েছেন? তোমরা তাঁর সাথে যা শরীক কর, আমি তাকে ভয় করি না, তবে আমার রব যদি কিছু করতে চান। আমার রব ইলম দ্বারা সব কিছু পরিব্যাপ্ত করে আছেন। অতঃপর তোমরা কি উপদেশ গ্রহণ করবে না’?",
+    "urdu": "اور ان کی قوم ان سے بحث کرنے لگی تو انہوں نے کہا کہ تم مجھ سے خدا کے بارےمیں (کیا) بحث کرتے ہو اس نے تو مجھے سیدھا رستہ دکھا دیا ہے۔ اور جن چیزوں کو تم اس کا شریک بناتے ہو میں ان سے نہیں ڈرتا۔ ہاں جو میرا پروردگار چاہے۔ میرا پروردگار اپنے علم سے ہر چیز پر احاطہ کئے ہوئے ہے۔ کیا تم خیال نہیں کرتے۔"
+}

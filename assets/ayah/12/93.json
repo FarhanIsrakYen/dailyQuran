@@ -1,0 +1,42 @@
+{
+    "surahName": "Yusuf",
+    "surahNameArabic": "يوسف",
+    "surahNameArabicLong": "سورة يوسف",
+    "surahNameTranslation": "Joseph",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 12,
+    "ayahNo": 93,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/12_93.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/012093.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/12_93.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/012093.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/12_93.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/012093.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/12_93.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/012093.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/12_93.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/012093.mp3"
+        }
+    },
+    "english": "Go with this shirt of mine and cast it over my father’s face, and he will regain his sight. Then come back to me with your whole family.”",
+    "arabic1": "ٱذْهَبُوا۟ بِقَمِيصِى هَـٰذَا فَأَلْقُوهُ عَلَىٰ وَجْهِ أَبِى يَأْتِ بَصِيرًا وَأْتُونِى بِأَهْلِكُمْ أَجْمَعِينَ",
+    "arabic2": "اذهبوا بقميصي هذا فالقوه على وجه ابي يات بصيرا واتوني باهلكم اجمعين",
+    "bengali": "‘তোমরা আমার এ জামাটি নিয়ে যাও, অতঃপর সেটি আমার পিতার চেহারায় ফেল। এতে তিনি দৃষ্টিশক্তি ফিরে পাবেন। আর তোমরা তোমাদের পরিবারের সকলকে নিয়ে আমার কাছে চলে আস’।",
+    "urdu": "یہ میرا کرتہ لے جاؤ اور اسے والد صاحب کے منہ پر ڈال دو۔ وہ بینا ہو جائیں گے۔ اور اپنے تمام اہل وعیال کو میرے پاس لے آؤ"
+}

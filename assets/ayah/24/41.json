@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Noor",
+    "surahNameArabic": "النور",
+    "surahNameArabicLong": "سورة النور",
+    "surahNameTranslation": "The Light",
+    "revelationPlace": "Madina",
+    "totalAyah": 64,
+    "surahNo": 24,
+    "ayahNo": 41,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/24_41.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/024041.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/24_41.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/024041.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/24_41.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/024041.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/24_41.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/024041.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/24_41.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/024041.mp3"
+        }
+    },
+    "english": "Do you not see that Allah is glorified by all those in the heavens and the earth, even the birds as they soar? Each ˹instinctively˺ knows their manner of prayer and glorification. And Allah has ˹perfect˺ knowledge of all they do.",
+    "arabic1": "أَلَمْ تَرَ أَنَّ ٱللَّهَ يُسَبِّحُ لَهُۥ مَن فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَٱلطَّيْرُ صَـٰٓفَّـٰتٍ ۖ كُلٌّ قَدْ عَلِمَ صَلَاتَهُۥ وَتَسْبِيحَهُۥ ۗ وَٱللَّهُ عَلِيمٌۢ بِمَا يَفْعَلُونَ",
+    "arabic2": "الم تر ان الله يسبح له من في السماوات والارض والطير صافات كل قد علم صلاته وتسبيحه والله عليم بما يفعلون",
+    "bengali": "তুমি কি দেখনি যে, আসমান ও যমীনে যারা আছে তারা এবং সারিবদ্ধ হয়ে উড়ন্ত পাখিরা আল্লাহর তাসবীহ পাঠ করে? প্রত্যেকেই তাঁর সালাত ও তাসবীহ জানে। তারা যা করে সে সম্পর্কে আল্লাহ সম্যক অবগত।",
+    "urdu": "کیا تم نے نہیں دیکھا کہ جو لوگ آسمانوں اور زمین میں ہیں خدا کی تسبیح کرتے ہیں اور پر پھیلائے ہوئے جانور بھی۔ اور سب اپنی نماز اور تسبیح کے طریقے سے واقف ہیں۔ اور جو کچھ وہ کرتے ہیں (سب) خدا کو معلوم ہے"
+}

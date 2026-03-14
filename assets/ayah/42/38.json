@@ -1,0 +1,42 @@
+{
+    "surahName": "Ash-Shura",
+    "surahNameArabic": "الشورى",
+    "surahNameArabicLong": "سورة الشورى",
+    "surahNameTranslation": "Consultation",
+    "revelationPlace": "Mecca",
+    "totalAyah": 53,
+    "surahNo": 42,
+    "ayahNo": 38,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/42_38.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/042038.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/42_38.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/042038.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/42_38.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/042038.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/42_38.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/042038.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/42_38.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/042038.mp3"
+        }
+    },
+    "english": "who respond to their Lord, establish prayer, conduct their affairs by mutual consultation, and donate from what We have provided for them;",
+    "arabic1": "وَٱلَّذِينَ ٱسْتَجَابُوا۟ لِرَبِّهِمْ وَأَقَامُوا۟ ٱلصَّلَوٰةَ وَأَمْرُهُمْ شُورَىٰ بَيْنَهُمْ وَمِمَّا رَزَقْنَـٰهُمْ يُنفِقُونَ",
+    "arabic2": "والذين استجابوا لربهم واقاموا الصلاة وامرهم شورى بينهم ومما رزقناهم ينفقون",
+    "bengali": "আর যারা তাদের রবের আহবানে সাড়া দেয়, সালাত কায়েম করে, তাদের কার্যাবলী তাদের পারস্পরিক পরামর্শের ভিত্তিতে সম্পন্ন করে এবং আমি তাদেরকে যে রিয্ক দিয়েছি তা থেকে তারা ব্যয় করে।",
+    "urdu": "اور جو اپنے پروردگار کا فرمان قبول کرتے ہیں اور نماز پڑھتے ہیں۔ اور اپنے کام آپس کے مشورے سے کرتے ہیں۔ اور جو مال ہم نے ان کو عطا فرمایا ہے اس میں سے خرچ کرتے ہیں"
+}

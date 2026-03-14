@@ -1,0 +1,42 @@
+{
+    "surahName": "Ash-Shu'araa",
+    "surahNameArabic": "الشعراء",
+    "surahNameArabicLong": "سورة الشعراء",
+    "surahNameTranslation": "The Poets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 227,
+    "surahNo": 26,
+    "ayahNo": 89,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/26_89.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/026089.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/26_89.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/026089.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/26_89.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/026089.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/26_89.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/026089.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/26_89.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/026089.mp3"
+        }
+    },
+    "english": "Only those who come before Allah with a pure heart ˹will be saved˺.”",
+    "arabic1": "إِلَّا مَنْ أَتَى ٱللَّهَ بِقَلْبٍ سَلِيمٍ",
+    "arabic2": "الا من اتى الله بقلب سليم",
+    "bengali": "‘তবে যে আল্লাহর কাছে আসবে সুস্থ অন্তরে’।",
+    "urdu": "ہاں جو شخص خدا کے پاس پاک دل لے کر آیا (وہ بچ جائے گا)"
+}

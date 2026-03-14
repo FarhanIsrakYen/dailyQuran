@@ -1,0 +1,42 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 177,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/3_177.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/003177.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/3_177.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/003177.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/3_177.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/003177.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/3_177.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/003177.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/3_177.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/003177.mp3"
+        }
+    },
+    "english": "Those who trade belief for disbelief will never harm Allah in the least, and they will suffer a painful punishment.",
+    "arabic1": "إِنَّ ٱلَّذِينَ ٱشْتَرَوُا۟ ٱلْكُفْرَ بِٱلْإِيمَـٰنِ لَن يَضُرُّوا۟ ٱللَّهَ شَيْـًٔا وَلَهُمْ عَذَابٌ أَلِيمٌ",
+    "arabic2": "ان الذين اشتروا الكفر بالايمان لن يضروا الله شيئا ولهم عذاب اليم",
+    "bengali": "নিশ্চয় যারা ঈমানের বিনিময়ে কুফরী ক্রয় করেছে, তারা কখনোই আল্লাহর কোন ক্ষতি করতে পারবে না। আর তাদের জন্য রয়েছে যন্ত্রণাদায়ক আযাব।",
+    "urdu": "جن لوگوں نے ایمان کے بدلے کفر خریدا وہ خدا کا کچھ نہیں بگاڑ سکتے اور ان کو دکھ دینے والا عذاب ہوگا"
+}

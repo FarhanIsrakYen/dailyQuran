@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 173,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/4_173.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/004173.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/4_173.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/004173.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/4_173.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/004173.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/4_173.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/004173.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/4_173.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/004173.mp3"
+        }
+    },
+    "english": "As for those who believe and do good, He will reward them in full and increase them out of His grace. But those who are too proud and arrogant, He will subject them to a painful punishment. And besides Allah they will find no protector or helper.",
+    "arabic1": "فَأَمَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ فَيُوَفِّيهِمْ أُجُورَهُمْ وَيَزِيدُهُم مِّن فَضْلِهِۦ ۖ وَأَمَّا ٱلَّذِينَ ٱسْتَنكَفُوا۟ وَٱسْتَكْبَرُوا۟ فَيُعَذِّبُهُمْ عَذَابًا أَلِيمًا وَلَا يَجِدُونَ لَهُم مِّن دُونِ ٱللَّهِ وَلِيًّا وَلَا نَصِيرًا",
+    "arabic2": "فاما الذين امنوا وعملوا الصالحات فيوفيهم اجورهم ويزيدهم من فضله واما الذين استنكفوا واستكبروا فيعذبهم عذابا اليما ولا يجدون لهم من دون الله وليا ولا نصيرا",
+    "bengali": "পক্ষান্তরে যারা ঈমান এনেছে এবং সৎকাজ করেছে, তিনি তাদেরকে তাদের পুরষ্কার পরিপূর্ণ দেবেন এবং তাঁর অনুগ্রহে তাদেরকে বাড়িয়ে দেবেন। আর যারা হেয় জ্ঞান করেছে এবং অহঙ্কার করেছে, তিনি তাদেরকে যন্ত্রণাদায়ক শাস্তি দেবেন এবং তারা তাদের জন্য আল্লাহ ছাড়া কোন অভিভাবক ও সাহায্যকারী পাবে না।",
+    "urdu": "تو جو لوگ ایمان لائے اور نیک کام کرتے رہے وہ ان کو ان کا پورا بدلا دے گا اور اپنے فضل سے کچھ زیادہ بھی عنایت کرے گا۔ اور جنہوں نے (بندوں ہونے سے) عاروانکار اور تکبر کیا ان کو تکلیف دینے والا عذاب دے گا۔ اور یہ لوگ خدا کے سوا اپنا حامی اور مددگار نہ پائیں گے"
+}

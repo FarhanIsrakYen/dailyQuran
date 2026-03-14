@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 137,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/6_137.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/006137.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/6_137.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/006137.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/6_137.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/006137.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/6_137.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/006137.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/6_137.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/006137.mp3"
+        }
+    },
+    "english": "Likewise, the pagans’ evil associates have made it appealing to them to kill their own children—only leading to their destruction as well as confusion in their faith. Had it been Allah’s Will, they would not have done such a thing. So leave them and their falsehood.",
+    "arabic1": "وَكَذَٰلِكَ زَيَّنَ لِكَثِيرٍ مِّنَ ٱلْمُشْرِكِينَ قَتْلَ أَوْلَـٰدِهِمْ شُرَكَآؤُهُمْ لِيُرْدُوهُمْ وَلِيَلْبِسُوا۟ عَلَيْهِمْ دِينَهُمْ ۖ وَلَوْ شَآءَ ٱللَّهُ مَا فَعَلُوهُ ۖ فَذَرْهُمْ وَمَا يَفْتَرُونَ",
+    "arabic2": "وكذلك زين لكثير من المشركين قتل اولادهم شركاؤهم ليردوهم وليلبسوا عليهم دينهم ولو شاء الله ما فعلوه فذرهم وما يفترون",
+    "bengali": "আর এভাবে অনেক মুশরিকের জন্য তাদের শরীকরা তাদের সন্তানদেরকে হত্যা করা শোভিত করেছে, যাতে তাদেরকে ধ্বংস করতে পারে এবং তাদের নিকট তাদের দীনকে সংশয়পূর্ণ করতে পারে। আর আল্লাহ যদি চাইতেন, তারা তা করত না। সুতরাং তারা যে মিথ্যা বানায়, তা নিয়ে তুমি তাদেরকে থাকতে দাও।",
+    "urdu": "اسی طرح بہت سے مشرکوں کو ان کے شریکوں نے ان کے بچوں کو جان سے مار ڈالنا اچھا کر دکھایا ہے تاکہ انہیں ہلاکت میں ڈال دیں اور ان کے دین کو ان پر خلط ملط کر دیں اور اگر خدا چاہتا تو وہ ایسا نہ کرتے تو ان کو چھوڑ دو کہ وہ جانیں اور ان کا جھوٹ"
+}

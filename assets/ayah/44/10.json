@@ -1,0 +1,42 @@
+{
+    "surahName": "Ad-Dukhaan",
+    "surahNameArabic": "الدخان",
+    "surahNameArabicLong": "سورة الدخان",
+    "surahNameTranslation": "The Smoke",
+    "revelationPlace": "Mecca",
+    "totalAyah": 59,
+    "surahNo": 44,
+    "ayahNo": 10,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/44_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/044010.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/44_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/044010.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/44_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/044010.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/44_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/044010.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/44_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/044010.mp3"
+        }
+    },
+    "english": "Wait then ˹O Prophet˺ for the day ˹when˺ the sky will be veiled in haze, clearly visible",
+    "arabic1": "فَٱرْتَقِبْ يَوْمَ تَأْتِى ٱلسَّمَآءُ بِدُخَانٍ مُّبِينٍ",
+    "arabic2": "فارتقب يوم تاتي السماء بدخان مبين",
+    "bengali": "অতএব অপেক্ষা কর সেদিনের যেদিন স্পষ্ট ধোঁয়ায় আচ্ছন্ন হবে আকাশ।",
+    "urdu": "تو اس دن کا انتظار کرو کہ آسمان سے صریح دھواں نکلے گا"
+}

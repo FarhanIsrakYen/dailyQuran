@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 166,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/4_166.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/004166.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/4_166.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/004166.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/4_166.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/004166.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/4_166.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/004166.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/4_166.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/004166.mp3"
+        }
+    },
+    "english": "Yet ˹if you are denied, O  Prophet,˺ Allah bears witness to what He has sent down to you—He has sent it with His knowledge. The angels too bear witness. And Allah ˹alone˺ is sufficient as a Witness.",
+    "arabic1": "لَّـٰكِنِ ٱللَّهُ يَشْهَدُ بِمَآ أَنزَلَ إِلَيْكَ ۖ أَنزَلَهُۥ بِعِلْمِهِۦ ۖ وَٱلْمَلَـٰٓئِكَةُ يَشْهَدُونَ ۚ وَكَفَىٰ بِٱللَّهِ شَهِيدًا",
+    "arabic2": "لكن الله يشهد بما انزل اليك انزله بعلمه والملائكة يشهدون وكفى بالله شهيدا",
+    "bengali": "কিন্তু আল্লাহ সাক্ষ্য দিচ্ছেন, যা তোমার নিকট তিনি নাযিল করেছেন তার মাধ্যমে। তিনি তা নাযিল করেছেন নিজ জ্ঞানে এবং ফেরেশতারাও সাক্ষ্য দিচ্ছে। আর আল্লাহই সাক্ষীরূপে যথেষ্ট।",
+    "urdu": "لیکن خدا نے جو (کتاب) تم پر نازل کی ہے اس کی نسبت خدا گواہی دیتا ہے کہ اس نے اپنے علم سے نازل کی ہے اور فرشتے بھی گواہی دیتے ہیں۔ اور گواہ تو خدا ہی کافی ہے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Taa-Haa",
+    "surahNameArabic": "طه",
+    "surahNameArabicLong": "سورة طه",
+    "surahNameTranslation": "Taa-Haa",
+    "revelationPlace": "Mecca",
+    "totalAyah": 135,
+    "surahNo": 20,
+    "ayahNo": 134,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/20_134.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/020134.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/20_134.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/020134.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/20_134.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/020134.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/20_134.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/020134.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/20_134.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/020134.mp3"
+        }
+    },
+    "english": "Had We destroyed them with a torment before this ˹Prophet came˺, they would have surely argued, “Our Lord! If only You had sent us a messenger, we would have followed Your revelations before being humiliated and put to shame.”",
+    "arabic1": "وَلَوْ أَنَّآ أَهْلَكْنَـٰهُم بِعَذَابٍ مِّن قَبْلِهِۦ لَقَالُوا۟ رَبَّنَا لَوْلَآ أَرْسَلْتَ إِلَيْنَا رَسُولًا فَنَتَّبِعَ ءَايَـٰتِكَ مِن قَبْلِ أَن نَّذِلَّ وَنَخْزَىٰ",
+    "arabic2": "ولو انا اهلكناهم بعذاب من قبله لقالوا ربنا لولا ارسلت الينا رسولا فنتبع اياتك من قبل ان نذل ونخزى",
+    "bengali": "আর যদি আমি তাদেরকে ইতঃপূর্বে কোন আযাব দ্বারা ধ্বংস করতাম তবে অবশ্যই, তারা বলত, ‘হে আমাদের রব, আপনি আমাদের কাছে কোন রাসূল পাঠালেন না কেন? তাহলে তো আমরা লাঞ্ছিত ও অপমানিত হওয়ার পূর্বে আপনার নিদর্শনাবলী অনুসরণ করতাম’।",
+    "urdu": "اور اگر ہم ان کو پیغمبر (کے بھیجنے) سے پیشتر کسی عذاب سے ہلاک کردیتے تو وہ کہتے کہ اے ہمارے پروردگار تو نے ہماری طرف کوئی پیغمبر کیوں نہ بھیجا کہ ہم ذلیل اور رسوا ہونے سے پہلے تیرے کلام (واحکام) کی پیروی کرتے"
+}

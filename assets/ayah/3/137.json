@@ -1,0 +1,42 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 137,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/3_137.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/003137.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/3_137.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/003137.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/3_137.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/003137.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/3_137.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/003137.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/3_137.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/003137.mp3"
+        }
+    },
+    "english": "Similar situations came to pass before you, so travel throughout the land and see the fate of the deniers.",
+    "arabic1": "قَدْ خَلَتْ مِن قَبْلِكُمْ سُنَنٌ فَسِيرُوا۟ فِى ٱلْأَرْضِ فَٱنظُرُوا۟ كَيْفَ كَانَ عَـٰقِبَةُ ٱلْمُكَذِّبِينَ",
+    "arabic2": "قد خلت من قبلكم سنن فسيروا في الارض فانظروا كيف كان عاقبة المكذبين",
+    "bengali": "অবশ্যই তোমাদের পূর্বে অনেক রীতি-নীতি অতিবাহিত হয়েছে, অতএব তোমরা যমীনে ভ্রমণ কর, দেখ অস্বীকারকারীদের পরিণতি কিরূপ হয়েছিল।",
+    "urdu": "تم لوگوں سے پہلے بھی بہت سے واقعات گزر چکے ہیں تو تم زمین کی سیر کرکے دیکھ لو کہ جھٹلانے والوں کا کیسا انجام ہوا"
+}

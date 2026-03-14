@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 88,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/9_88.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/009088.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/9_88.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/009088.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/9_88.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/009088.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/9_88.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/009088.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/9_88.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/009088.mp3"
+        }
+    },
+    "english": "But the Messenger and the believers with him strived with their wealth and their lives. They will have all the best, and it is they who will be successful.",
+    "arabic1": "لَـٰكِنِ ٱلرَّسُولُ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ جَـٰهَدُوا۟ بِأَمْوَٰلِهِمْ وَأَنفُسِهِمْ ۚ وَأُو۟لَـٰٓئِكَ لَهُمُ ٱلْخَيْرَٰتُ ۖ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ",
+    "arabic2": "لكن الرسول والذين امنوا معه جاهدوا باموالهم وانفسهم واولئك لهم الخيرات واولئك هم المفلحون",
+    "bengali": "কিন্তু রাসূল ও তার সাথে মুমিনরা তাদের মাল ও জান দিয়ে জিহাদ করে, আর সে সব লোকের জন্যই রয়েছে যাবতীয় কল্যাণ এবং তারাই সফলকাম।",
+    "urdu": "لیکن پیغمبر اور جو لوگ ان کے ساتھ ایمان لائے سب اپنے مال اور جان سے لڑے۔ انہیں لوگوں کے لیے بھلائیاں ہیں۔ اور یہی مراد پانے والے ہیں"
+}

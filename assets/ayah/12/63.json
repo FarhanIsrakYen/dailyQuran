@@ -1,0 +1,42 @@
+{
+    "surahName": "Yusuf",
+    "surahNameArabic": "يوسف",
+    "surahNameArabicLong": "سورة يوسف",
+    "surahNameTranslation": "Joseph",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 12,
+    "ayahNo": 63,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/12_63.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/012063.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/12_63.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/012063.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/12_63.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/012063.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/12_63.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/012063.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/12_63.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/012063.mp3"
+        }
+    },
+    "english": "When Joseph’s brothers returned to their father, they pleaded, “O our father! We have been denied ˹further˺ supplies. So send our brother with us so that we may receive our measure, and we will definitely watch over him.”",
+    "arabic1": "فَلَمَّا رَجَعُوٓا۟ إِلَىٰٓ أَبِيهِمْ قَالُوا۟ يَـٰٓأَبَانَا مُنِعَ مِنَّا ٱلْكَيْلُ فَأَرْسِلْ مَعَنَآ أَخَانَا نَكْتَلْ وَإِنَّا لَهُۥ لَحَـٰفِظُونَ",
+    "arabic2": "فلما رجعوا الى ابيهم قالوا يا ابانا منع منا الكيل فارسل معنا اخانا نكتل وانا له لحافظون",
+    "bengali": "অতঃপর যখন তারা তাদের বাবার কাছে ফিরে আসল, তখন বলল, ‘হে আমাদের পিতা, আমাদের জন্য পরিমাপকৃত রসদ নিষিদ্ধ করা হয়েছে। অতএব আমাদের সাথে আমাদের ভাইকে পাঠান, যেন আমরা পরিমাপ করে রসদ আনতে পারি। আর অবশ্যই আমরা তার হেফাযত করব’।",
+    "urdu": "جب وہ اپنے باپ کے پاس واپس گئے تو کہنے لگے کہ ابّا (جب تک ہم بنیامین کو ساتھ نہ لے جائیں) ہمارے لیے غلّے کی بندش کر دی گئی ہے تو ہمارے ساتھ ہمارے بھائی کو بھیج دے تاکہ ہم پھر غلّہ لائیں اور ہم اس کے نگہبان ہیں"
+}

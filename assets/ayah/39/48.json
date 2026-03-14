@@ -1,0 +1,42 @@
+{
+    "surahName": "Az-Zumar",
+    "surahNameArabic": "الزمر",
+    "surahNameArabicLong": "سورة الزمر",
+    "surahNameTranslation": "The Groups",
+    "revelationPlace": "Mecca",
+    "totalAyah": 75,
+    "surahNo": 39,
+    "ayahNo": 48,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/39_48.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/039048.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/39_48.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/039048.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/39_48.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/039048.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/39_48.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/039048.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/39_48.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/039048.mp3"
+        }
+    },
+    "english": "And the evil ˹consequences˺ of their deeds will unfold before them, and they will be overwhelmed by what they used to ridicule.",
+    "arabic1": "وَبَدَا لَهُمْ سَيِّـَٔاتُ مَا كَسَبُوا۟ وَحَاقَ بِهِم مَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+    "arabic2": "وبدا لهم سيئات ما كسبوا وحاق بهم ما كانوا به يستهزئون",
+    "bengali": "আর তারা যা অর্জন করেছিল তার মন্দ ফল তাদের কাছে প্রকাশ হয়ে পড়বে এবং যা নিয়ে তারা ঠাট্টা-বিদ্রূপ করত তা-ই তাদেরকে পরিবেষ্টন করবে।",
+    "urdu": "اور ان کے اعمال کی برائیاں ان پر ظاہر ہوجائیں گی اور جس (عذاب) کی وہ ہنسی اُڑاتے تھے وہ ان کو آگھیرے گا"
+}

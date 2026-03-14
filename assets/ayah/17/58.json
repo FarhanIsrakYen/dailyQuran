@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 58,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/17_58.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/017058.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/17_58.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/017058.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/17_58.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/017058.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/17_58.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/017058.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/17_58.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/017058.mp3"
+        }
+    },
+    "english": "There is not a ˹wicked˺ society that We will not destroy or punish with a severe torment before the Day of Judgment. That is written in the Record.",
+    "arabic1": "وَإِن مِّن قَرْيَةٍ إِلَّا نَحْنُ مُهْلِكُوهَا قَبْلَ يَوْمِ ٱلْقِيَـٰمَةِ أَوْ مُعَذِّبُوهَا عَذَابًا شَدِيدًا ۚ كَانَ ذَٰلِكَ فِى ٱلْكِتَـٰبِ مَسْطُورًا",
+    "arabic2": "وان من قرية الا نحن مهلكوها قبل يوم القيامة او معذبوها عذابا شديدا كان ذلك في الكتاب مسطورا",
+    "bengali": "আর এমন কোন জনপদ নেই, যা আমি কিয়ামতের দিনের পূর্বে ধ্বংস করব না অথবা যাকে কঠোর আযাব দেব না; এটা তো কিতাবে লিখিত আছে।",
+    "urdu": "اور (کفر کرنے والوں کی) کوئی بستی نہیں مگر قیامت کے دن سے پہلے ہم اسے ہلاک کردیں گے یا سخت عذاب سے معذب کریں گے۔ یہ کتاب (یعنی تقدیر) میں لکھا جاچکا ہے"
+}

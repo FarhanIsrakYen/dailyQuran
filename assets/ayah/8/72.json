@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Anfaal",
+    "surahNameArabic": "الأنفال",
+    "surahNameArabicLong": "سورة الأنفال",
+    "surahNameTranslation": "The Spoils of War",
+    "revelationPlace": "Madina",
+    "totalAyah": 75,
+    "surahNo": 8,
+    "ayahNo": 72,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/8_72.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/008072.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/8_72.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/008072.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/8_72.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/008072.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/8_72.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/008072.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/8_72.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/008072.mp3"
+        }
+    },
+    "english": "Those who believed, emigrated, and strived with their wealth and lives in the cause of Allah, as well as those who gave them shelter and help—they are truly guardians of one another. As for those who believed but did not emigrate, you have no obligations to them until they emigrate. But if they seek your help ˹against persecution˺ in faith, it is your obligation to help them, except against people bound with you in a treaty. Allah is All-Seeing of what you do.",
+    "arabic1": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَهَاجَرُوا۟ وَجَـٰهَدُوا۟ بِأَمْوَٰلِهِمْ وَأَنفُسِهِمْ فِى سَبِيلِ ٱللَّهِ وَٱلَّذِينَ ءَاوَوا۟ وَّنَصَرُوٓا۟ أُو۟لَـٰٓئِكَ بَعْضُهُمْ أَوْلِيَآءُ بَعْضٍ ۚ وَٱلَّذِينَ ءَامَنُوا۟ وَلَمْ يُهَاجِرُوا۟ مَا لَكُم مِّن وَلَـٰيَتِهِم مِّن شَىْءٍ حَتَّىٰ يُهَاجِرُوا۟ ۚ وَإِنِ ٱسْتَنصَرُوكُمْ فِى ٱلدِّينِ فَعَلَيْكُمُ ٱلنَّصْرُ إِلَّا عَلَىٰ قَوْمٍۭ بَيْنَكُمْ وَبَيْنَهُم مِّيثَـٰقٌ ۗ وَٱللَّهُ بِمَا تَعْمَلُونَ بَصِيرٌ",
+    "arabic2": "ان الذين امنوا وهاجروا وجاهدوا باموالهم وانفسهم في سبيل الله والذين اووا ونصروا اولئك بعضهم اولياء بعض والذين امنوا ولم يهاجروا ما لكم من ولايتهم من شيء حتى يهاجروا وان استنصروكم في الدين فعليكم النصر الا على قوم بينكم وبينهم ميثاق والله بما تعملون بصير",
+    "bengali": "নিশ্চয় যারা ঈমান এনেছে, হিজরত করেছে এবং নিজদের মাল ও জান দিয়ে আল্লাহর রাস্তায় জিহাদ করেছে আর যারা আশ্রয় দিয়েছে ও সহায়তা করেছে, তারা একে অপরের বন্ধু। আর যারা ঈমান এনেছে, কিন্তু হিজরত করেনি, তাদেরকে সাহায্যের কোন দায়িত্ব তোমাদের নেই, যতক্ষণ না তারা হিজরত করে। আর যদি তারা দীনের ব্যাপারে তোমাদের নিকট কোন সহযোগিতা চায়, তাহলে সাহায্য করা তোমাদের কর্তব্য। তবে এমন কওমের বিরুদ্ধে নয়, যাদের সাথে তোমাদের একে অপরের চুক্তি রয়েছে এবং তোমরা যে আমল কর, তার ব্যাপারে আল্লাহ পূর্ণ দৃষ্টিমান।",
+    "urdu": "جو لوگ ایمان لائے اور وطن سے ہجرت کر گئے اور خدا کی راہ میں اپنے مال اور جان سے لڑے وہ اور جنہوں نے (ہجرت کرنے والوں کو) جگہ دی اور ان کی مدد کی وہ آپس میں ایک دوسرے کے رفیق ہیں۔ اور جو لوگ ایمان تو لے آئے لیکن ہجرت نہیں کی تو جب تک وہ ہجرت نہ کریں تم کو ان کی رفاقت سے کچھ سروکار نہیں۔ اور اگر وہ تم سے دین (کے معاملات) میں مدد طلب کریں تو تم کو مدد کرنی لازم ہوگی۔ مگر ان لوگوں کے مقابلے میں کہ تم میں اور ان میں (صلح کا) عہد ہو (مدد نہیں کرنی چاہیئے) اور خدا تمہارے سب کاموں کو دیکھ رہا ہے"
+}

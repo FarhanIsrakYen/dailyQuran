@@ -1,0 +1,42 @@
+{
+    "surahName": "Saba",
+    "surahNameArabic": "سبإ",
+    "surahNameArabicLong": "سورة سَبَأ",
+    "surahNameTranslation": "Sheba",
+    "revelationPlace": "Mecca",
+    "totalAyah": 54,
+    "surahNo": 34,
+    "ayahNo": 43,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/34_43.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/034043.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/34_43.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/034043.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/34_43.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/034043.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/34_43.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/034043.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/34_43.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/034043.mp3"
+        }
+    },
+    "english": "When Our clear revelations are recited to them, they say, “This is only a man who wishes to hinder you from what your forefathers used to worship.” They also say, “This ˹Quran˺ is no more than a fabricated lie.” And the disbelievers say of the truth when it has come to them, “This is nothing but pure magic.”",
+    "arabic1": "وَإِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَـٰتُنَا بَيِّنَـٰتٍ قَالُوا۟ مَا هَـٰذَآ إِلَّا رَجُلٌ يُرِيدُ أَن يَصُدَّكُمْ عَمَّا كَانَ يَعْبُدُ ءَابَآؤُكُمْ وَقَالُوا۟ مَا هَـٰذَآ إِلَّآ إِفْكٌ مُّفْتَرًى ۚ وَقَالَ ٱلَّذِينَ كَفَرُوا۟ لِلْحَقِّ لَمَّا جَآءَهُمْ إِنْ هَـٰذَآ إِلَّا سِحْرٌ مُّبِينٌ",
+    "arabic2": "واذا تتلى عليهم اياتنا بينات قالوا ما هذا الا رجل يريد ان يصدكم عما كان يعبد اباؤكم وقالوا ما هذا الا افك مفترى وقال الذين كفروا للحق لما جاءهم ان هذا الا سحر مبين",
+    "bengali": "আর যখন তাদের কাছে আমার সুস্পষ্ট আয়াতসমূহ তিলাওয়াত করা হত তখন তারা বলত, ‘এতো এমন এক ব্যক্তি যে তোমাদের বাধা দিতে চায় তা থেকে যার ইবাদাত তোমাদের পিতৃপুরুষগণ করত’। তারা আরও বলে, ‘এটি বানোয়াট মিথ্যা বৈ কিছু নয়।’ আর কাফিরদের নিকট যখনই সত্য আসে তখন তারা বলে, ‘এতো কেবল এক সুস্পষ্ট যাদু।’",
+    "urdu": "اور جب ان کو ہماری روشن آیتیں پڑھ کر سنائی جاتی ہیں تو کہتے ہیں یہ ایک (ایسا) شخص ہے جو چاہتا ہے کہ جن چیزوں کی تمہارے باپ دادا پرستش کیا کرتے تھے ان سے تم کو روک دے اور (یہ بھی) کہتے ہیں کہ یہ (قرآن) محض جھوٹ ہے (جو اپنی طرف سے) بنا لیا گیا ہے۔ اور کافروں کے پاس جب حق آیا تو اس کے بارے میں کہنے لگے کہ یہ تو صریح جادو ہے"
+}

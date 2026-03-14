@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Insaan",
+    "surahNameArabic": "الانسان",
+    "surahNameArabicLong": "سورة الانسان",
+    "surahNameTranslation": "Man",
+    "revelationPlace": "Madina",
+    "totalAyah": 31,
+    "surahNo": 76,
+    "ayahNo": 31,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/76_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/076031.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/76_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/076031.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/76_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/076031.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/76_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/076031.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/76_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/076031.mp3"
+        }
+    },
+    "english": "He admits whoever He wills into His mercy. As for the wrongdoers, He has prepared for them a painful punishment",
+    "arabic1": "يُدْخِلُ مَن يَشَآءُ فِى رَحْمَتِهِۦ ۚ وَٱلظَّـٰلِمِينَ أَعَدَّ لَهُمْ عَذَابًا أَلِيمًۢا",
+    "arabic2": "يدخل من يشاء في رحمته والظالمين اعد لهم عذابا اليما",
+    "bengali": "যাকে ইচ্ছা তিনি স্বীয় রহমতে প্রবেশ করাবেন এবং যালিমদের জন্য তিনি প্রস্তুত রেখেছেন যন্ত্রণাদায়ক আযাব।",
+    "urdu": "جس کو چاہتا ہے اپنی رحمت میں داخل کرلیتا ہے اور ظالموں کے لئے اس نے دکھ دینے والا عذاب تیار کر رکھا ہے"
+}

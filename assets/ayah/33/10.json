@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Ahzaab",
+    "surahNameArabic": "الأحزاب",
+    "surahNameArabicLong": "سورة الأحزاب",
+    "surahNameTranslation": "The Clans",
+    "revelationPlace": "Madina",
+    "totalAyah": 73,
+    "surahNo": 33,
+    "ayahNo": 10,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/33_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/033010.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/33_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/033010.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/33_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/033010.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/33_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/033010.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/33_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/033010.mp3"
+        }
+    },
+    "english": "˹Remember˺ when they came at you from east and west, when your eyes grew wild ˹in horror˺ and your hearts jumped into your throats, and you entertained ˹conflicting˺ thoughts about Allah.",
+    "arabic1": "إِذْ جَآءُوكُم مِّن فَوْقِكُمْ وَمِنْ أَسْفَلَ مِنكُمْ وَإِذْ زَاغَتِ ٱلْأَبْصَـٰرُ وَبَلَغَتِ ٱلْقُلُوبُ ٱلْحَنَاجِرَ وَتَظُنُّونَ بِٱللَّهِ ٱلظُّنُونَا۠",
+    "arabic2": "اذ جاءوكم من فوقكم ومن اسفل منكم واذ زاغت الابصار وبلغت القلوب الحناجر وتظنون بالله الظنونا",
+    "bengali": "যখন তারা তোমাদের কাছে এসেছিল তোমাদের উপরের দিক থেকে এবং তোমাদের নিচের দিক থেকে আর যখন চোখগুলো বাঁকা হয়ে পড়েছিল এবং প্রাণ কন্ঠ পর্যন্ত পৌঁছেছিল। আর তোমরা আল্লাহ সম্পর্কে নানা রকম ধারণা পোষণ করছিলে।",
+    "urdu": "جب وہ تمہارے اُوپر اور نیچے کی طرف سے تم پر چڑھ آئے اور جب آنکھیں پھر گئیں اور دل (مارے دہشت کے) گلوں تک پہنچ گئے اور تم خدا کی نسبت طرح طرح کے گمان کرنے لگے"
+}

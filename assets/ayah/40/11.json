@@ -1,0 +1,42 @@
+{
+    "surahName": "Ghafir",
+    "surahNameArabic": "غافر",
+    "surahNameArabicLong": "سورة غافر",
+    "surahNameTranslation": "The Forgiver",
+    "revelationPlace": "Mecca",
+    "totalAyah": 85,
+    "surahNo": 40,
+    "ayahNo": 11,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/40_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/040011.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/40_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/040011.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/40_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/040011.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/40_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/040011.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/40_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/040011.mp3"
+        }
+    },
+    "english": "They will plead, “Our Lord! You made us lifeless twice, and gave us life twice. Now we confess our sins. So is there any way out?”",
+    "arabic1": "قَالُوا۟ رَبَّنَآ أَمَتَّنَا ٱثْنَتَيْنِ وَأَحْيَيْتَنَا ٱثْنَتَيْنِ فَٱعْتَرَفْنَا بِذُنُوبِنَا فَهَلْ إِلَىٰ خُرُوجٍ مِّن سَبِيلٍ",
+    "arabic2": "قالوا ربنا امتنا اثنتين واحييتنا اثنتين فاعترفنا بذنوبنا فهل الى خروج من سبيل",
+    "bengali": "তারা বলবে, ‘হে আমাদের রব, আপনি আমাদেরকে দু’বার মৃত্যু দিয়েছেন এবং দু’বার জীবন দিয়েছেন। অতঃপর আমরা আমাদের অপরাধ স্বীকার করছি। অতএব (জাহান্নাম থেকে) বের হবার কোন পথ আছে কি’?",
+    "urdu": "وہ کہیں گے کہ اے ہمارے پروردگار تو نے ہم کو دو دفعہ بےجان کیا اور دو دفعہ جان بخشی۔ ہم کو اپنے گناہوں کا اقرار ہے تو کیا نکلنے کی کوئی سبیل ہے؟"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Yaseen",
+    "surahNameArabic": "يس",
+    "surahNameArabicLong": "سورة يس",
+    "surahNameTranslation": "Yaseen",
+    "revelationPlace": "Mecca",
+    "totalAyah": 83,
+    "surahNo": 36,
+    "ayahNo": 7,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/36_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/036007.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/36_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/036007.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/36_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/036007.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/36_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/036007.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/36_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/036007.mp3"
+        }
+    },
+    "english": "The decree ˹of torment˺ has already been justified against most of them, for they will never believe.",
+    "arabic1": "لَقَدْ حَقَّ ٱلْقَوْلُ عَلَىٰٓ أَكْثَرِهِمْ فَهُمْ لَا يُؤْمِنُونَ",
+    "arabic2": "لقد حق القول على اكثرهم فهم لا يؤمنون",
+    "bengali": "অবশ্যই তাদের অধিকাংশের উপর (আল্লাহর) বাণী অবধারিত হয়েছে, ফলে তারা ঈমান আনবে না।",
+    "urdu": "ان میں سے اکثر پر (خدا کی) بات پوری ہوچکی ہے سو وہ ایمان نہیں لائیں گے"
+}

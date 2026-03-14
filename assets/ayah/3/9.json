@@ -1,0 +1,42 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 9,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/3_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/003009.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/3_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/003009.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/3_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/003009.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/3_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/003009.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/3_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/003009.mp3"
+        }
+    },
+    "english": "Our Lord! You will certainly gather all humanity for the ˹promised˺ Day—about which there is no doubt. Surely Allah does not break His promise.”",
+    "arabic1": "رَبَّنَآ إِنَّكَ جَامِعُ ٱلنَّاسِ لِيَوْمٍ لَّا رَيْبَ فِيهِ ۚ إِنَّ ٱللَّهَ لَا يُخْلِفُ ٱلْمِيعَادَ",
+    "arabic2": "ربنا انك جامع الناس ليوم لا ريب فيه ان الله لا يخلف الميعاد",
+    "bengali": "হে আমাদের রব, নিশ্চয় আপনি মানুষকে সমবেত করবেন এমন একদিন, যাতে কোন সন্দেহ নেই। নিশ্চয় আল্লাহ প্রতিশ্রুতি ভঙ্গ করেন না।",
+    "urdu": "اے پروردگار! تو اس روز جس (کے آنے) میں کچھ بھی شک نہیں سب لوگوں کو (اپنے حضور میں) جمع کرلے گا بے شک خدا خلاف وعدہ نہیں کرتا"
+}

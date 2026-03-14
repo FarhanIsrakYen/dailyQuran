@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Anfaal",
+    "surahNameArabic": "الأنفال",
+    "surahNameArabicLong": "سورة الأنفال",
+    "surahNameTranslation": "The Spoils of War",
+    "revelationPlace": "Madina",
+    "totalAyah": 75,
+    "surahNo": 8,
+    "ayahNo": 12,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/8_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/008012.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/8_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/008012.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/8_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/008012.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/8_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/008012.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/8_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/008012.mp3"
+        }
+    },
+    "english": "˹Remember, O  Prophet,˺ when your Lord revealed to the angels, “I am with you. So make the believers stand firm. I will cast horror into the hearts of the disbelievers. So strike their necks and strike their fingertips.”",
+    "arabic1": "إِذْ يُوحِى رَبُّكَ إِلَى ٱلْمَلَـٰٓئِكَةِ أَنِّى مَعَكُمْ فَثَبِّتُوا۟ ٱلَّذِينَ ءَامَنُوا۟ ۚ سَأُلْقِى فِى قُلُوبِ ٱلَّذِينَ كَفَرُوا۟ ٱلرُّعْبَ فَٱضْرِبُوا۟ فَوْقَ ٱلْأَعْنَاقِ وَٱضْرِبُوا۟ مِنْهُمْ كُلَّ بَنَانٍ",
+    "arabic2": "اذ يوحي ربك الى الملائكة اني معكم فثبتوا الذين امنوا سالقي في قلوب الذين كفروا الرعب فاضربوا فوق الاعناق واضربوا منهم كل بنان",
+    "bengali": "স্মরণ কর, যখন তোমার রব ফেরেশতাদের প্রতি ওহী প্রেরণ করেন যে, ‘নিশ্চয় আমি তোমাদের সাথে আছি। সুতরাং যারা ঈমান এনেছে তোমরা তাদেরকে অনড় রাখ’। অচিরেই আমি ভীতি ঢেলে দেব তাদের হৃদয়ে যারা কুফরী করেছে। অতএব তোমরা আঘাত কর ঘাড়ের উপরে এবং আঘাত কর তাদের প্রত্যেক আঙুলের অগ্রভাগে।",
+    "urdu": "جب تمہارا پروردگار فرشتوں کو ارشاد فرماتا تھا کہ میں تمہارے ساتھ ہوں تم مومنوں کو تسلی دو کہ ثابت قدم رہیں۔ میں ابھی ابھی کافروں کے دلوں میں رعب وہیبت ڈالے دیتا ہوں تو ان کے سر مار (کر) اڑا دو اور ان کا پور پور مار (کر توڑ) دو"
+}

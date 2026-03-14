@@ -1,0 +1,42 @@
+{
+    "surahName": "Maryam",
+    "surahNameArabic": "مريم",
+    "surahNameArabicLong": "سورة مريم",
+    "surahNameTranslation": "Mary",
+    "revelationPlace": "Mecca",
+    "totalAyah": 98,
+    "surahNo": 19,
+    "ayahNo": 73,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/19_73.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/019073.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/19_73.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/019073.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/19_73.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/019073.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/19_73.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/019073.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/19_73.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/019073.mp3"
+        }
+    },
+    "english": "When Our clear revelations are recited to them, the disbelievers ask the believers ˹mockingly˺, “Which of the two of us is better in status and superior in assembly?”",
+    "arabic1": "وَإِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَـٰتُنَا بَيِّنَـٰتٍ قَالَ ٱلَّذِينَ كَفَرُوا۟ لِلَّذِينَ ءَامَنُوٓا۟ أَىُّ ٱلْفَرِيقَيْنِ خَيْرٌ مَّقَامًا وَأَحْسَنُ نَدِيًّا",
+    "arabic2": "واذا تتلى عليهم اياتنا بينات قال الذين كفروا للذين امنوا اي الفريقين خير مقاما واحسن نديا",
+    "bengali": "আর যখন তাদের কাছে আমার আয়াতসমূহ সুস্পষ্টরূপে পাঠ করা হয়, তখন কাফিররা ঈমানদারদেরকে বলে, ‘দুই দলের মধ্যে কোন্টি মর্যাদায় শ্রেষ্ঠতর এবং মজলিস হিসেবে উত্তম?’",
+    "urdu": "اور جب ان لوگوں کے سامنے ہماری آیتیں پڑھی جاتی ہیں تو جو کافر ہیں وہ مومنوں سے کہتے ہیں کہ دونوں فریق میں سے مکان کس کے اچھے اور مجلسیں کس کی بہتر ہیں"
+}

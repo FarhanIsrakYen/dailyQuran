@@ -1,0 +1,42 @@
+{
+    "surahName": "Saba",
+    "surahNameArabic": "سبإ",
+    "surahNameArabicLong": "سورة سَبَأ",
+    "surahNameTranslation": "Sheba",
+    "revelationPlace": "Mecca",
+    "totalAyah": 54,
+    "surahNo": 34,
+    "ayahNo": 44,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/34_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/034044.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/34_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/034044.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/34_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/034044.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/34_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/034044.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/34_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/034044.mp3"
+        }
+    },
+    "english": "˹They say so even though˺ We had never given them any scriptures to study, nor did We ever send them a warner before you ˹O Prophet˺.",
+    "arabic1": "وَمَآ ءَاتَيْنَـٰهُم مِّن كُتُبٍ يَدْرُسُونَهَا ۖ وَمَآ أَرْسَلْنَآ إِلَيْهِمْ قَبْلَكَ مِن نَّذِيرٍ",
+    "arabic2": "وما اتيناهم من كتب يدرسونها وما ارسلنا اليهم قبلك من نذير",
+    "bengali": "আর আমি তাদেরকে কোন কিতাব দেইনি যা তারা অধ্যয়ন করত, এবং তোমার পূর্বে তাদের প্রতি আর কোন সতর্ককারীও প্রেরণ করিনি।",
+    "urdu": "اور ہم نے نہ تو ان (مشرکوں) کو کتابیں دیں جن کو یہ پڑھتے ہیں اور نہ تم سے پہلے ان کی طرف کوئی ڈرانے والا بھیجا مگر انہوں نے تکذیب کی"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 22,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/4_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/004022.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/4_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/004022.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/4_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/004022.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/4_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/004022.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/4_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/004022.mp3"
+        }
+    },
+    "english": "Do not marry former wives of your fathers—except what was done previously. It was indeed a shameful, despicable, and evil practice.",
+    "arabic1": "وَلَا تَنكِحُوا۟ مَا نَكَحَ ءَابَآؤُكُم مِّنَ ٱلنِّسَآءِ إِلَّا مَا قَدْ سَلَفَ ۚ إِنَّهُۥ كَانَ فَـٰحِشَةً وَمَقْتًا وَسَآءَ سَبِيلًا",
+    "arabic2": "ولا تنكحوا ما نكح اباؤكم من النساء الا ما قد سلف انه كان فاحشة ومقتا وساء سبيلا",
+    "bengali": "আর তোমরা বিবাহ করো না নারীদের মধ্য থেকে যাদেরকে বিবাহ করেছে তোমাদের পিতৃপুরুষগণ। তবে পূর্বে যা সংঘটিত হয়েছে (তা ক্ষমা করা হল)। নিশ্চয় তা হল অশ্লীলতা ও ঘৃণিত বিষয় এবং নিকৃষ্ট পথ।",
+    "urdu": "اور جن عورتوں سے تمہارے باپ نے نکاح کیا ہو ان نکاح مت کرنا (مگر جاہلیت میں) جو ہوچکا (سوہوچکا) یہ نہایت بےحیائی اور (خدا کی) ناخوشی کی بات تھی۔ اور بہت برا دستور تھا"
+}

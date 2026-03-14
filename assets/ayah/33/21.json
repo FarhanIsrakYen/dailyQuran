@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Ahzaab",
+    "surahNameArabic": "الأحزاب",
+    "surahNameArabicLong": "سورة الأحزاب",
+    "surahNameTranslation": "The Clans",
+    "revelationPlace": "Madina",
+    "totalAyah": 73,
+    "surahNo": 33,
+    "ayahNo": 21,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/33_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/033021.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/33_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/033021.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/33_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/033021.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/33_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/033021.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/33_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/033021.mp3"
+        }
+    },
+    "english": "Indeed, in the Messenger of Allah you have an excellent example for whoever has hope in Allah and the Last Day, and remembers Allah often.",
+    "arabic1": "لَّقَدْ كَانَ لَكُمْ فِى رَسُولِ ٱللَّهِ أُسْوَةٌ حَسَنَةٌ لِّمَن كَانَ يَرْجُوا۟ ٱللَّهَ وَٱلْيَوْمَ ٱلْـَٔاخِرَ وَذَكَرَ ٱللَّهَ كَثِيرًا",
+    "arabic2": "لقد كان لكم في رسول الله اسوة حسنة لمن كان يرجو الله واليوم الاخر وذكر الله كثيرا",
+    "bengali": "অবশ্যই তোমাদের জন্য রাসূলুল্লাহর মধ্যে রয়েছে উত্তম আদর্শ তাদের জন্য যারা আল্লাহ ও পরকাল প্রত্যাশা করে এবং আল্লাহকে অধিক স্মরণ করে।",
+    "urdu": "تم کو پیغمبر خدا کی پیروی (کرنی) بہتر ہے (یعنی) اس شخص کو جسے خدا (سے ملنے) اور روز قیامت (کے آنے) کی اُمید ہو اور وہ خدا کا ذکر کثرت سے کرتا ہو"
+}

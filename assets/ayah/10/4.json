@@ -1,0 +1,42 @@
+{
+    "surahName": "Yunus",
+    "surahNameArabic": "يونس",
+    "surahNameArabicLong": "سورة يونس",
+    "surahNameTranslation": "Jonas",
+    "revelationPlace": "Mecca",
+    "totalAyah": 109,
+    "surahNo": 10,
+    "ayahNo": 4,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/10_4.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/010004.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/10_4.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/010004.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/10_4.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/010004.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/10_4.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/010004.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/10_4.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/010004.mp3"
+        }
+    },
+    "english": "To Him is your return all together. Allah’s promise is ˹always˺ true. Indeed, He originates the creation then resurrects it so that He may justly reward those who believe and do good. But those who disbelieve will have a boiling drink and a painful punishment for their disbelief.",
+    "arabic1": "إِلَيْهِ مَرْجِعُكُمْ جَمِيعًا ۖ وَعْدَ ٱللَّهِ حَقًّا ۚ إِنَّهُۥ يَبْدَؤُا۟ ٱلْخَلْقَ ثُمَّ يُعِيدُهُۥ لِيَجْزِىَ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ بِٱلْقِسْطِ ۚ وَٱلَّذِينَ كَفَرُوا۟ لَهُمْ شَرَابٌ مِّنْ حَمِيمٍ وَعَذَابٌ أَلِيمٌۢ بِمَا كَانُوا۟ يَكْفُرُونَ",
+    "arabic2": "اليه مرجعكم جميعا وعد الله حقا انه يبدا الخلق ثم يعيده ليجزي الذين امنوا وعملوا الصالحات بالقسط والذين كفروا لهم شراب من حميم وعذاب اليم بما كانوا يكفرون",
+    "bengali": "তাঁরই কাছে তোমাদের সকলের প্রত্যাবর্তন। আল্লাহর ওয়াদা সত্য। নিশ্চয় তিনি সৃষ্টির সূচনা করেন। তারপর তার পুনরাবর্তন ঘটান। যারা ঈমান এনেছে এবং সৎকাজ করেছে তাদেরকে ইনসাফপূর্ণ প্রতিদান দেয়ার জন্য। আর যারা কুফরী করেছে, তাদের জন্য রয়েছে উত্তপ্ত পানীয় এবং বেদনাদায়ক আযাব। এ কারণে যে তারা কুফরী করত।",
+    "urdu": "اسی کے پاس تم سب کو لوٹ کر جانا ہے۔ خدا کا وعدہ سچا ہے۔ وہی خلقت کو پہلی بار پیدا کرتا ہے۔ پھر وہی اس کو دوبارہ پیدا کرے گا تاکہ ایمان والوں اور نیک کام کرنے والوں کو انصاف کے ساتھ بدلہ دے۔ اور جو کافر ہیں ان کے لیے پینے کو نہایت گرم پانی اور درد دینے والا عذاب ہوگا کیوں کہ (خدا سے) انکار کرتے تھے"
+}

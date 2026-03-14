@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 198,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_198.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002198.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_198.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002198.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_198.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002198.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_198.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002198.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_198.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002198.mp3"
+        }
+    },
+    "english": "There is no blame on you for seeking the bounty of your Lord ˹during this journey˺. When you return from ’Arafât, praise Allah near the sacred place and praise Him for having guided you, for surely before this ˹guidance˺ you were astray.",
+    "arabic1": "لَيْسَ عَلَيْكُمْ جُنَاحٌ أَن تَبْتَغُوا۟ فَضْلًا مِّن رَّبِّكُمْ ۚ فَإِذَآ أَفَضْتُم مِّنْ عَرَفَـٰتٍ فَٱذْكُرُوا۟ ٱللَّهَ عِندَ ٱلْمَشْعَرِ ٱلْحَرَامِ ۖ وَٱذْكُرُوهُ كَمَا هَدَىٰكُمْ وَإِن كُنتُم مِّن قَبْلِهِۦ لَمِنَ ٱلضَّآلِّينَ",
+    "arabic2": "ليس عليكم جناح ان تبتغوا فضلا من ربكم فاذا افضتم من عرفات فاذكروا الله عند المشعر الحرام واذكروه كما هداكم وان كنتم من قبله لمن الضالين",
+    "bengali": "তোমাদের উপর কোন পাপ নেই যে, তোমরা তোমাদের রবের পক্ষ থেকে অনুগ্রহ অনুসন্ধান করবে। সুতরাং যখন তোমরা আরাফা থেকে বের হয়ে আসবে, তখন মাশআরে হারামের নিকট আল্লাহকে স্মরণ কর এবং তাকে স্মরণ কর যেভাবে তিনি তোমাদেরকে দিকনির্দেশনা দিয়েছেন। যদিও তোমরা এর পূর্বে অবশ্যই পথভ্রষ্টদের অন্তর্ভুক্ত ছিলে।",
+    "urdu": "اس کا تمہیں کچھ گناہ نہیں کہ (حج کے دنوں میں بذریعہ تجارت) اپنے پروردگار سے روزی طلب کرو اور جب عرفات سے واپس ہونے لگو تو مشعر حرام (یعنی مزدلفے) میں خدا کا ذکر کرو اور اس طرح ذکر کرو جس طرح اس نے تم کو سکھایا۔ اور اس سے پیشتر تم لوگ (ان طریقوں سے) محض ناواقف تھے"
+}

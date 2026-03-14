@@ -1,0 +1,42 @@
+{
+    "surahName": "Maryam",
+    "surahNameArabic": "مريم",
+    "surahNameArabicLong": "سورة مريم",
+    "surahNameTranslation": "Mary",
+    "revelationPlace": "Mecca",
+    "totalAyah": 98,
+    "surahNo": 19,
+    "ayahNo": 78,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/19_78.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/019078.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/19_78.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/019078.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/19_78.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/019078.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/19_78.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/019078.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/19_78.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/019078.mp3"
+        }
+    },
+    "english": "Has he looked into the unseen or taken a pledge from the Most Compassionate?",
+    "arabic1": "أَطَّلَعَ ٱلْغَيْبَ أَمِ ٱتَّخَذَ عِندَ ٱلرَّحْمَـٰنِ عَهْدًا",
+    "arabic2": "اطلع الغيب ام اتخذ عند الرحمن عهدا",
+    "bengali": "সে কি গায়েব সম্পর্কে অবহিত হয়েছে, না পরম করুণাময়ের কাছ থেকে কোন প্রতিশ্রুতি গ্রহণ করেছে?",
+    "urdu": "کیا اس نے غیب کی خبر پالی ہے یا خدا کے یہاں (سے) عہد لے لیا ہے؟"
+}

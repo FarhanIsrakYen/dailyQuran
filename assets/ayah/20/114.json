@@ -1,0 +1,42 @@
+{
+    "surahName": "Taa-Haa",
+    "surahNameArabic": "طه",
+    "surahNameArabicLong": "سورة طه",
+    "surahNameTranslation": "Taa-Haa",
+    "revelationPlace": "Mecca",
+    "totalAyah": 135,
+    "surahNo": 20,
+    "ayahNo": 114,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/20_114.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/020114.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/20_114.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/020114.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/20_114.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/020114.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/20_114.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/020114.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/20_114.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/020114.mp3"
+        }
+    },
+    "english": "Exalted is Allah, the True King! Do not rush to recite ˹a revelation of˺ the Quran ˹O Prophet˺ before it is ˹properly˺ conveyed to you, and pray, “My Lord! Increase me in knowledge.”",
+    "arabic1": "فَتَعَـٰلَى ٱللَّهُ ٱلْمَلِكُ ٱلْحَقُّ ۗ وَلَا تَعْجَلْ بِٱلْقُرْءَانِ مِن قَبْلِ أَن يُقْضَىٰٓ إِلَيْكَ وَحْيُهُۥ ۖ وَقُل رَّبِّ زِدْنِى عِلْمًا",
+    "arabic2": "فتعالى الله الملك الحق ولا تعجل بالقران من قبل ان يقضى اليك وحيه وقل رب زدني علما",
+    "bengali": "সুতরাং আল্লাহ মহান যিনি সত্যিকার অধিপতি; তোমার প্রতি ওহী সম্পূর্ণ হওয়ার পূর্বে তুমি কুরআন পাঠে তাড়াহুড়া করো না এবং তুমি বল, ‘হে আমার রব, আমার জ্ঞান বৃদ্ধি করে দিন।’",
+    "urdu": "تو خدا جو سچا بادشاہ ہے عالی قدر ہے۔ اور قرآن کی وحی جو تمہاری طرف بھیجی جاتی ہے اس کے پورا ہونے سے پہلے قرآن کے (پڑھنے کے) لئے جلدی نہ کیا کرو اور دعا کرو کہ میرے پروردگار مجھے اور زیادہ علم دے"
+}

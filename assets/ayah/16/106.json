@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nahl",
+    "surahNameArabic": "النحل",
+    "surahNameArabicLong": "سورة النحل",
+    "surahNameTranslation": "The Bee",
+    "revelationPlace": "Mecca",
+    "totalAyah": 128,
+    "surahNo": 16,
+    "ayahNo": 106,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/16_106.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/016106.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/16_106.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/016106.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/16_106.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/016106.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/16_106.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/016106.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/16_106.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/016106.mp3"
+        }
+    },
+    "english": "Whoever disbelieves in Allah after their belief—not those who are forced while their hearts are firm in faith, but those who embrace disbelief wholeheartedly—they will be condemned by Allah and suffer a tremendous punishment.",
+    "arabic1": "مَن كَفَرَ بِٱللَّهِ مِنۢ بَعْدِ إِيمَـٰنِهِۦٓ إِلَّا مَنْ أُكْرِهَ وَقَلْبُهُۥ مُطْمَئِنٌّۢ بِٱلْإِيمَـٰنِ وَلَـٰكِن مَّن شَرَحَ بِٱلْكُفْرِ صَدْرًا فَعَلَيْهِمْ غَضَبٌ مِّنَ ٱللَّهِ وَلَهُمْ عَذَابٌ عَظِيمٌ",
+    "arabic2": "من كفر بالله من بعد ايمانه الا من اكره وقلبه مطمئن بالايمان ولكن من شرح بالكفر صدرا فعليهم غضب من الله ولهم عذاب عظيم",
+    "bengali": "যে ঈমান আনার পর আল্লাহর সাথে কুফরী করেছে এবং যারা তাদের অন্তর কুফরী দ্বারা উন্মুক্ত করেছে, তাদের উপরই আল্লাহর ক্রোধ এবং তাদের জন্য রয়েছে মহাআযাব। ঐ ব্যক্তি ছাড়া যাকে বাধ্য করা হয় (কুফরী করতে) অথচ তার অন্তর থাকে ঈমানে পরিতৃপ্ত।",
+    "urdu": "جو شخص ایمان لانے کے بعد خدا کے ساتھ کفر کرے وہ نہیں جو (کفر پر زبردستی) مجبور کیا جائے اور اس کا دل ایمان کے ساتھ مطمئن ہو۔ بلکہ وہ جو (دل سے اور) دل کھول کر کفر کرے۔ تو ایسوں پر الله کا غضب ہے۔ اور ان کو بڑا سخت عذاب ہوگا"
+}

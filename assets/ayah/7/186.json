@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 186,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/7_186.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/007186.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/7_186.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/007186.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/7_186.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/007186.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/7_186.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/007186.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/7_186.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/007186.mp3"
+        }
+    },
+    "english": "Whoever Allah allows to stray, none can guide, leaving them to wander blindly in their defiance.",
+    "arabic1": "مَن يُضْلِلِ ٱللَّهُ فَلَا هَادِىَ لَهُۥ ۚ وَيَذَرُهُمْ فِى طُغْيَـٰنِهِمْ يَعْمَهُونَ",
+    "arabic2": "من يضلل الله فلا هادي له ويذرهم في طغيانهم يعمهون",
+    "bengali": "আল্লাহ যাকে পথভ্রষ্ট করেন তার কোন হিদায়াতকারী নেই এবং তিনি তাদেরকে তাদের অবাধ্যতায় ছেড়ে দেন, তারা দিশেহারা হয়ে ঘুরে বেড়ায়।",
+    "urdu": "جس شخص کو خدا گمراہ کرے اس کو کوئی ہدایت دینے والا نہیں اور وہ ان (گمراہوں) کو چھوڑے رکھتا ہے کہ اپنی سرکشی میں پڑے بہکتے رہیں"
+}

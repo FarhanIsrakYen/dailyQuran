@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Maaida",
+    "surahNameArabic": "المائدة",
+    "surahNameArabicLong": "سورة المائدة",
+    "surahNameTranslation": "The Table",
+    "revelationPlace": "Madina",
+    "totalAyah": 120,
+    "surahNo": 5,
+    "ayahNo": 81,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/5_81.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/005081.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/5_81.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/005081.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/5_81.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/005081.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/5_81.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/005081.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/5_81.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/005081.mp3"
+        }
+    },
+    "english": "Had they believed in Allah, the Prophet, and what has been revealed to him, they would have never taken those ˹pagans˺ as allies. But most of them are rebellious.",
+    "arabic1": "وَلَوْ كَانُوا۟ يُؤْمِنُونَ بِٱللَّهِ وَٱلنَّبِىِّ وَمَآ أُنزِلَ إِلَيْهِ مَا ٱتَّخَذُوهُمْ أَوْلِيَآءَ وَلَـٰكِنَّ كَثِيرًا مِّنْهُمْ فَـٰسِقُونَ",
+    "arabic2": "ولو كانوا يؤمنون بالله والنبي وما انزل اليه ما اتخذوهم اولياء ولكن كثيرا منهم فاسقون",
+    "bengali": "আর যদি তারা আল্লাহ ও নবীর প্রতি এবং যা তার নিকট নাযিল করা হয়েছে তার প্রতি ঈমান রাখত, তবে তাদেরকে বন্ধু হিসেবে গ্রহণ করত না। কিন্তু তাদের মধ্যে অনেকে ফাসিক।",
+    "urdu": "اور اگر وہ خدا پر اور پیغمبر پر اور جو کتاب ان پر نازل ہوئی تھی اس پر یقین رکھتے تو ان لوگوں کو دوست نہ بناتے لیکن ان میں اکثر بدکردار ہیں"
+}

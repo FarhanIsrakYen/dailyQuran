@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Qasas",
+    "surahNameArabic": "القصص",
+    "surahNameArabicLong": "سورة القصص",
+    "surahNameTranslation": "The Stories",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 28,
+    "ayahNo": 83,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/28_83.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/028083.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/28_83.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/028083.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/28_83.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/028083.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/28_83.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/028083.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/28_83.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/028083.mp3"
+        }
+    },
+    "english": "That ˹eternal˺ Home in the Hereafter We reserve ˹only˺ for those who seek neither tyranny nor corruption on the earth. The ultimate outcome belongs ˹only˺ to the righteous.",
+    "arabic1": "تِلْكَ ٱلدَّارُ ٱلْـَٔاخِرَةُ نَجْعَلُهَا لِلَّذِينَ لَا يُرِيدُونَ عُلُوًّا فِى ٱلْأَرْضِ وَلَا فَسَادًا ۚ وَٱلْعَـٰقِبَةُ لِلْمُتَّقِينَ",
+    "arabic2": "تلك الدار الاخرة نجعلها للذين لا يريدون علوا في الارض ولا فسادا والعاقبة للمتقين",
+    "bengali": "এই হচ্ছে আখিরাতের নিবাস, যা আমি তাদের জন্য নির্ধারিত করি, যারা যমীনে ঔদ্ধত্য দেখাতে চায় না এবং ফাসাদও চায় না। আর শুভ পরিণাম মুত্তাকীদের জন্য।",
+    "urdu": "وہ (جو) آخرت کا گھر (ہے) ہم نے اُسے اُن لوگوں کے لئے (تیار) کر رکھا ہے جو ملک میں ظلم اور فساد کا ارادہ نہیں رکھتے اور انجام (نیک) تو پرہیزگاروں ہی کا ہے"
+}

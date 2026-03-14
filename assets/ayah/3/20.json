@@ -1,0 +1,42 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 20,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/3_20.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/003020.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/3_20.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/003020.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/3_20.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/003020.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/3_20.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/003020.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/3_20.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/003020.mp3"
+        }
+    },
+    "english": "So if they argue with you ˹O Prophet˺, say, “I have submitted myself to Allah, and so have my followers.” And ask those who were given the Scripture and the illiterate ˹people˺, “Have you submitted yourselves ˹to Allah˺?” If they submit, they will be ˹rightly˺ guided. But if they turn away, then your duty is only to deliver ˹the message˺. And Allah is All-Seeing of ˹His˺ servants.",
+    "arabic1": "فَإِنْ حَآجُّوكَ فَقُلْ أَسْلَمْتُ وَجْهِىَ لِلَّهِ وَمَنِ ٱتَّبَعَنِ ۗ وَقُل لِّلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ وَٱلْأُمِّيِّـۧنَ ءَأَسْلَمْتُمْ ۚ فَإِنْ أَسْلَمُوا۟ فَقَدِ ٱهْتَدَوا۟ ۖ وَّإِن تَوَلَّوْا۟ فَإِنَّمَا عَلَيْكَ ٱلْبَلَـٰغُ ۗ وَٱللَّهُ بَصِيرٌۢ بِٱلْعِبَادِ",
+    "arabic2": "فان حاجوك فقل اسلمت وجهي لله ومن اتبعن وقل للذين اوتوا الكتاب والاميين ااسلمتم فان اسلموا فقد اهتدوا وان تولوا فانما عليك البلاغ والله بصير بالعباد",
+    "bengali": "যদি তারা তোমার সাথে বিতর্ক করে, তবে তুমি বল, ‘আমি আল্লাহর নিকট আত্মসমর্পণ করলাম এবং আমার অনুসারীরাও’। আর যাদেরকে কিতাব দেয়া হয়েছে তাদেরকে এবং নিরক্ষরদেরকে বল, ‘তোমরা কি ইসলাম গ্রহণ করেছ’? তখন যদি তারা ইসলাম গ্রহণ করে, তাহলে তারা অবশ্যই হিদায়াতপ্রাপ্ত হবে। আর যদি ফিরে যায়, তাহলে তোমার দায়িত্ব শুধু পৌঁছিয়ে দেয়া। আর আল্লাহ বান্দাদের সম্পর্কে সম্যক দ্রষ্টা।",
+    "urdu": "اے پیغمبر اگر یہ لوگ تم سے جھگڑنے لگیں تو کہنا کہ میں اور میرے پیرو تو خدا کے فرمانبردار ہو چکے اور اہل کتاب اور ان پڑھ لوگوں سے کہو کہ کیا تم بھی (خدا کے فرمانبردار بنتے ہو) اور اسلام لاتے ہو؟ اگر یہ لوگ اسلام لے آئیں تو بے شک ہدایت پالیں اور اگر (تمہارا کہا) نہ مانیں تو تمہارا کام صرف خدا کا پیغام پہنچا دینا ہے اور خدا (اپنے) بندوں کو دیکھ رہا ہے"
+}

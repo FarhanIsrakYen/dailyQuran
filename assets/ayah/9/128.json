@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 128,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/9_128.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/009128.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/9_128.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/009128.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/9_128.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/009128.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/9_128.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/009128.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/9_128.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/009128.mp3"
+        }
+    },
+    "english": "There certainly has come to you a messenger from among yourselves. He is concerned by your suffering, anxious for your well-being, and gracious and merciful to the believers.",
+    "arabic1": "لَقَدْ جَآءَكُمْ رَسُولٌ مِّنْ أَنفُسِكُمْ عَزِيزٌ عَلَيْهِ مَا عَنِتُّمْ حَرِيصٌ عَلَيْكُم بِٱلْمُؤْمِنِينَ رَءُوفٌ رَّحِيمٌ",
+    "arabic2": "لقد جاءكم رسول من انفسكم عزيز عليه ما عنتم حريص عليكم بالمؤمنين رءوف رحيم",
+    "bengali": "নিশ্চয়ই তোমাদের নিজদের মধ্য থেকে তোমাদের নিকট একজন রাসূল এসেছেন, তা তার জন্য কষ্টদায়ক যা তোমাদেরকে পীড়া দেয়। তিনি তোমাদের কল্যাণকামী, মুমিনদের প্রতি স্নেহশীল, পরম দয়ালু।",
+    "urdu": "(لوگو) تمہارے پاس تم ہی میں سے ایک پیغمبر آئے ہیں۔ تمہاری تکلیف ان کو گراں معلوم ہوتی ہے اور تمہاری بھلائی کے خواہش مند ہیں اور مومنوں پر نہایت شفقت کرنے والے (اور) مہربان ہیں"
+}

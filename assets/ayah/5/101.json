@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Maaida",
+    "surahNameArabic": "المائدة",
+    "surahNameArabicLong": "سورة المائدة",
+    "surahNameTranslation": "The Table",
+    "revelationPlace": "Madina",
+    "totalAyah": 120,
+    "surahNo": 5,
+    "ayahNo": 101,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/5_101.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/005101.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/5_101.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/005101.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/5_101.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/005101.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/5_101.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/005101.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/5_101.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/005101.mp3"
+        }
+    },
+    "english": "O believers! Do not ask about any matter which, if made clear to you, may disturb you. But if you inquire about what is being revealed in the Quran, it will be made clear to you. Allah has forgiven what was done ˹in the past˺. And Allah is All-Forgiving, Most Forbearing.",
+    "arabic1": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَسْـَٔلُوا۟ عَنْ أَشْيَآءَ إِن تُبْدَ لَكُمْ تَسُؤْكُمْ وَإِن تَسْـَٔلُوا۟ عَنْهَا حِينَ يُنَزَّلُ ٱلْقُرْءَانُ تُبْدَ لَكُمْ عَفَا ٱللَّهُ عَنْهَا ۗ وَٱللَّهُ غَفُورٌ حَلِيمٌ",
+    "arabic2": "يا ايها الذين امنوا لا تسالوا عن اشياء ان تبد لكم تسؤكم وان تسالوا عنها حين ينزل القران تبد لكم عفا الله عنها والله غفور حليم",
+    "bengali": "হে মুমিনগণ, তোমরা এমন বিষয়াবলী সম্পর্কে প্রশ্ন করো না যা তোমাদের কাছে প্রকাশ করা হলে তা তোমাদেরকে পীড়া দেবে। আর কুরআন অবতরণ কালে যদি তোমরা সে সম্পর্কে প্রশ্ন কর তাহলে তা তোমাদের জন্য প্রকাশ করা হবে। আল্লাহ তা ক্ষমা করেছেন। আর আল্লাহ ক্ষমাশীল, পরম সহনশীল।",
+    "urdu": "مومنو! ایسی چیزوں کے بارے میں مت سوال کرو کہ اگر (ان کی حقیقتیں) تم پر ظاہر کر دی جائیں تو تمہیں بری لگیں اور اگر قرآن کے نازل ہونے کے ایام میں ایسی باتیں پوچھو گے تو تم پر ظاہر بھی کر دی جائیں گی (اب تو) خدا نے ایسی باتوں (کے پوچھنے) سے درگزر فرمایا ہے اور خدا بخشنے والا بردبار ہے"
+}

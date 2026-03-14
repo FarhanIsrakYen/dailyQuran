@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 110,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/4_110.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/004110.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/4_110.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/004110.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/4_110.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/004110.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/4_110.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/004110.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/4_110.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/004110.mp3"
+        }
+    },
+    "english": "Whoever commits evil or wrongs themselves then seeks Allah’s forgiveness will certainly find Allah All-Forgiving, Most Merciful.",
+    "arabic1": "وَمَن يَعْمَلْ سُوٓءًا أَوْ يَظْلِمْ نَفْسَهُۥ ثُمَّ يَسْتَغْفِرِ ٱللَّهَ يَجِدِ ٱللَّهَ غَفُورًا رَّحِيمًا",
+    "arabic2": "ومن يعمل سوءا او يظلم نفسه ثم يستغفر الله يجد الله غفورا رحيما",
+    "bengali": "আর যে ব্যক্তি মন্দ কাজ করবে কিংবা নিজের প্রতি যুলম করবে তারপর আল্লাহর কাছে ক্ষমা চাইবে, সে আল্লাহকে পাবে ক্ষমাশীল, পরম দয়ালু।",
+    "urdu": "اور جو شخص کوئی برا کام کر بیٹھے یا اپنے حق میں ظلم کرلے پھر خدا سے بخشش مانگے تو خدا کو بخشنے والا اور مہربان پائے گا"
+}

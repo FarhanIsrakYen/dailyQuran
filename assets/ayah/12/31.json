@@ -1,0 +1,42 @@
+{
+    "surahName": "Yusuf",
+    "surahNameArabic": "يوسف",
+    "surahNameArabicLong": "سورة يوسف",
+    "surahNameTranslation": "Joseph",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 12,
+    "ayahNo": 31,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/12_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/012031.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/12_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/012031.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/12_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/012031.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/12_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/012031.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/12_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/012031.mp3"
+        }
+    },
+    "english": "When she heard about their gossip, she invited them and set a banquet for them. She gave each one a knife, then said ˹to Joseph˺, “Come out before them.” When they saw him, they were so stunned ˹by his beauty˺ that they cut their hands, and exclaimed, “Good God! This cannot be human; this must be a noble angel!”",
+    "arabic1": "فَلَمَّا سَمِعَتْ بِمَكْرِهِنَّ أَرْسَلَتْ إِلَيْهِنَّ وَأَعْتَدَتْ لَهُنَّ مُتَّكَـًٔا وَءَاتَتْ كُلَّ وَٰحِدَةٍ مِّنْهُنَّ سِكِّينًا وَقَالَتِ ٱخْرُجْ عَلَيْهِنَّ ۖ فَلَمَّا رَأَيْنَهُۥٓ أَكْبَرْنَهُۥ وَقَطَّعْنَ أَيْدِيَهُنَّ وَقُلْنَ حَـٰشَ لِلَّهِ مَا هَـٰذَا بَشَرًا إِنْ هَـٰذَآ إِلَّا مَلَكٌ كَرِيمٌ",
+    "arabic2": "فلما سمعت بمكرهن ارسلت اليهن واعتدت لهن متكا واتت كل واحدة منهن سكينا وقالت اخرج عليهن فلما راينه اكبرنه وقطعن ايديهن وقلن حاش لله ما هذا بشرا ان هذا الا ملك كريم",
+    "bengali": "অতঃপর যখন সে তাদের কূটকৌশলের কথা শুনতে পেল, তখন তাদেরকে ডেকে পাঠাল এবং তাদের জন্য আসন প্রস্তুত করল, আর তাদের প্রত্যেককে একটি করে ছুরি প্রদান করল এবং ইউসুফকে বলল, ‘তাদের সামনে বেরিয়ে আস’। অতঃপর তারা যখন তাকে দেখল, তখন তাকে বিশাল সৌন্দর্যের অধিকারী মনে করল এবং তারা নিজদের হাত কেটে ফেলল আর বলল, ‘মহিমা আল্লাহর, এতো মানুষ নয়। এ তো এক সম্মানিত ফেরেশতা’।",
+    "urdu": "جب زلیخا نے ان عورتوں کی (گفتگو جو حقیقت میں دیدار یوسف کے لیے ایک) چال (تھی) سنی تو ان کے پاس (دعوت کا) پیغام بھیجا اور ان کے لیے ایک محفل مرتب کی۔ اور (پھل تراشنے کے لیے) ہر ایک کو ایک چھری دی اور (یوسف سے) کہا کہ ان کے سامنے باہر آؤ۔ جب عورتوں نے ان کو دیکھا تو ان کا رعب (حسن) ان پر (ایسا) چھا گیا کہ (پھل تراشتے تراشتے) اپنے ہاتھ کاٹ لیے اور بےساختہ بول اٹھیں کہ سبحان الله (یہ حسن) یہ آدمی نہیں کوئی بزرگ فرشتہ ہے"
+}

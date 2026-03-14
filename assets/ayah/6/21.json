@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 21,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/6_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/006021.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/6_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/006021.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/6_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/006021.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/6_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/006021.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/6_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/006021.mp3"
+        }
+    },
+    "english": "Who does more wrong than those who fabricate lies against Allah or deny His signs? Indeed, the wrongdoers will never succeed.",
+    "arabic1": "وَمَنْ أَظْلَمُ مِمَّنِ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًا أَوْ كَذَّبَ بِـَٔايَـٰتِهِۦٓ ۗ إِنَّهُۥ لَا يُفْلِحُ ٱلظَّـٰلِمُونَ",
+    "arabic2": "ومن اظلم ممن افترى على الله كذبا او كذب باياته انه لا يفلح الظالمون",
+    "bengali": "আর তার চেয়ে বড় যালিম আর কে যে আল্লাহর উপর মিথ্যা রটনা করে অথবা তার আয়াতসমূহকে অস্বীকার করে? নিশ্চয়ই যালিমরা সফলকাম হয় না।",
+    "urdu": "اور اس شخص سے زیادہ کون ظالم ہے جس نے خدا پر جھوٹ افتراء کیا یا اس کی آیتوں کو جھٹلایا۔ کچھ شک نہیں کہ ظالم لوگ نجات نہیں پائیں گے"
+}

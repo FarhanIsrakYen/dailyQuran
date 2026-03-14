@@ -1,0 +1,42 @@
+{
+    "surahName": "Ash-Shu'araa",
+    "surahNameArabic": "الشعراء",
+    "surahNameArabicLong": "سورة الشعراء",
+    "surahNameTranslation": "The Poets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 227,
+    "surahNo": 26,
+    "ayahNo": 18,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/26_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/026018.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/26_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/026018.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/26_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/026018.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/26_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/026018.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/26_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/026018.mp3"
+        }
+    },
+    "english": "Pharaoh protested, “Did we not raise you among us as a child, and you stayed several years of your life in our care?",
+    "arabic1": "قَالَ أَلَمْ نُرَبِّكَ فِينَا وَلِيدًا وَلَبِثْتَ فِينَا مِنْ عُمُرِكَ سِنِينَ",
+    "arabic2": "قال الم نربك فينا وليدا ولبثت فينا من عمرك سنين",
+    "bengali": "ফির‘আউন বলল, ‘আমরা কি তোমাকে শৈশবে আমাদের মাঝে লালন পালন করিনি? আর তুমি তোমার জীবনের অনেক বছর আমাদের মধ্যে অবস্থান করেছ’।",
+    "urdu": "(فرعون نے موسیٰ سے کہا) کیا ہم نے تم کو کہ ابھی بچّے تھے پرورش نہیں کیا اور تم نے برسوں ہمارے ہاں عمر بسر (نہیں) کی"
+}

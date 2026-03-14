@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 118,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/4_118.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/004118.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/4_118.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/004118.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/4_118.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/004118.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/4_118.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/004118.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/4_118.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/004118.mp3"
+        }
+    },
+    "english": "cursed by Allah—who said, “I will surely take hold of a certain number of Your servants.",
+    "arabic1": "لَّعَنَهُ ٱللَّهُ ۘ وَقَالَ لَأَتَّخِذَنَّ مِنْ عِبَادِكَ نَصِيبًا مَّفْرُوضًا",
+    "arabic2": "لعنه الله وقال لاتخذن من عبادك نصيبا مفروضا",
+    "bengali": "আল্লাহ তাকে লা‘নত করেছেন এবং সে বলেছে, ‘অবশ্যই আমি তোমার বান্দাদের এক নির্দিষ্ট অংশকে (অনুসারী হিসেবে) গ্রহণ করব’।",
+    "urdu": "جس پر خدا نے لعنت کی ہے (جو خدا سے) کہنے لگا میں تیرے بندوں سے (غیر خدا کی نذر دلوا کر مال کا) ایک مقرر حصہ لے لیا کروں گا۔"
+}

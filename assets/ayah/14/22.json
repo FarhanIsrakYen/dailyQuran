@@ -1,0 +1,42 @@
+{
+    "surahName": "Ibrahim",
+    "surahNameArabic": "ابراهيم",
+    "surahNameArabicLong": "سورة ابراهيم",
+    "surahNameTranslation": "Abraham",
+    "revelationPlace": "Mecca",
+    "totalAyah": 52,
+    "surahNo": 14,
+    "ayahNo": 22,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/14_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/014022.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/14_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/014022.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/14_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/014022.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/14_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/014022.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/14_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/014022.mp3"
+        }
+    },
+    "english": "And Satan will say ˹to his followers˺ after the judgment has been passed, “Indeed, Allah has made you a true promise. I too made you a promise, but I failed you. I did not have any authority over you. I only called you, and you responded to me. So do not blame me; blame yourselves. I cannot save you, nor can you save me. Indeed, I denounce your previous association of me with Allah ˹in loyalty˺. Surely the wrongdoers will suffer a painful punishment.”",
+    "arabic1": "وَقَالَ ٱلشَّيْطَـٰنُ لَمَّا قُضِىَ ٱلْأَمْرُ إِنَّ ٱللَّهَ وَعَدَكُمْ وَعْدَ ٱلْحَقِّ وَوَعَدتُّكُمْ فَأَخْلَفْتُكُمْ ۖ وَمَا كَانَ لِىَ عَلَيْكُم مِّن سُلْطَـٰنٍ إِلَّآ أَن دَعَوْتُكُمْ فَٱسْتَجَبْتُمْ لِى ۖ فَلَا تَلُومُونِى وَلُومُوٓا۟ أَنفُسَكُم ۖ مَّآ أَنَا۠ بِمُصْرِخِكُمْ وَمَآ أَنتُم بِمُصْرِخِىَّ ۖ إِنِّى كَفَرْتُ بِمَآ أَشْرَكْتُمُونِ مِن قَبْلُ ۗ إِنَّ ٱلظَّـٰلِمِينَ لَهُمْ عَذَابٌ أَلِيمٌ",
+    "arabic2": "وقال الشيطان لما قضي الامر ان الله وعدكم وعد الحق ووعدتكم فاخلفتكم وما كان لي عليكم من سلطان الا ان دعوتكم فاستجبتم لي فلا تلوموني ولوموا انفسكم ما انا بمصرخكم وما انتم بمصرخي اني كفرت بما اشركتمون من قبل ان الظالمين لهم عذاب اليم",
+    "bengali": "আর যখন যাবতীয় বিষয়ের ফয়সালা হয়ে যাবে, তখন শয়তান বলবে, ‘নিশ্চয় আল্লাহ তোমাদেরকে ওয়াদা দিয়েছিলেন সত্য ওয়াদা, তোমাদের উপর আমার কোন আধিপত্য ছিল না, তবে আমিও তোমাদেরকে ওয়াদা দিয়েছিলাম, এখন আমি তা ভঙ্গ করলাম। তোমাদেরকে দাওয়াত দিয়েছি, আর তোমরা আমার দাওয়াতে সাড়া দিয়েছ। সুতরাং তোমরা আমাকে ভৎর্সনা করো না, বরং নিজদেরকেই ভৎর্সনা কর। আমি তোমাদের উদ্ধারকারী নই, আর তোমরাও আমার উদ্ধারকারী নও। ইতঃপূর্বে তোমরা আমাকে যার সাথে শরীক করেছ, নিশ্চয় আমি তা অস্বীকার করছি। নিশ্চয় যালিমদের জন্য রয়েছে বেদনাদায়ক আযাব’ ।",
+    "urdu": "جب (حساب کتاب کا) کام فیصلہ ہوچکے گا تو شیطان کہے گا (جو) وعدہ خدا نے تم سے کیا تھا (وہ تو) سچا (تھا) اور (جو) وعدہ میں نے تم سے کیا تھا وہ جھوٹا تھا۔ اور میرا تم پر کسی طرح کا زور نہیں تھا۔ ہاں میں نے تم کو (گمراہی اور باطل کی طرف) بلایا تو تم نے (جلدی سے اور بےدلیل) میرا کہا مان لیا۔ تو (آج) مجھے ملامت نہ کرو۔ اپنے آپ ہی کو ملامت کرو۔ نہ میں تمہاری فریاد رسی کرسکتا ہوں اور نہ تم میری فریاد رسی کرسکتے ہو۔ میں اس بات سے انکار کرتا ہوں کہ تم پہلے مجھے شریک بناتے تھے۔ بےشک جو ظالم ہیں ان کے لیے درد دینے والا عذاب ہے"
+}

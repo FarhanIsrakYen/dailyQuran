@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 136,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_136.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002136.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_136.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002136.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_136.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002136.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_136.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002136.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_136.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002136.mp3"
+        }
+    },
+    "english": "Say, ˹O believers,˺ “We believe in Allah and what has been revealed to us; and what was revealed to Abraham, Ishmael, Isaac, Jacob, and his descendants; and what was given to Moses, Jesus, and other prophets from their Lord. We make no distinction between any of them. And to Allah we all submit.”",
+    "arabic1": "قُولُوٓا۟ ءَامَنَّا بِٱللَّهِ وَمَآ أُنزِلَ إِلَيْنَا وَمَآ أُنزِلَ إِلَىٰٓ إِبْرَٰهِـۧمَ وَإِسْمَـٰعِيلَ وَإِسْحَـٰقَ وَيَعْقُوبَ وَٱلْأَسْبَاطِ وَمَآ أُوتِىَ مُوسَىٰ وَعِيسَىٰ وَمَآ أُوتِىَ ٱلنَّبِيُّونَ مِن رَّبِّهِمْ لَا نُفَرِّقُ بَيْنَ أَحَدٍ مِّنْهُمْ وَنَحْنُ لَهُۥ مُسْلِمُونَ",
+    "arabic2": "قولوا امنا بالله وما انزل الينا وما انزل الى ابراهيم واسماعيل واسحاق ويعقوب والاسباط وما اوتي موسى وعيسى وما اوتي النبيون من ربهم لا نفرق بين احد منهم ونحن له مسلمون",
+    "bengali": "তোমরা বল, ‘আমরা ঈমান এনেছি আল্লাহর উপর এবং যা নাযিল করা হয়েছে আমাদের উপর ও যা নাযিল করা হয়েছে ইবরাহীম, ইসমাঈল, ইসহাক, ইয়াকূব ও তাদের সন্তানদের উপর আর যা প্রদান করা হয়েছে মূসা ও ঈসাকে এবং যা প্রদান করা হয়েছে তাদের রবের পক্ষ হতে নবীগণকে। আমরা তাদের কারো মধ্যে তারতম্য করি না। আর আমরা তাঁরই অনুগত’।",
+    "urdu": "(مسلمانو) کہو کہ ہم خدا پر ایمان لائے اور جو (کتاب) ہم پر اتری، اس پر اور جو (صحیفے) ابراہیم اور اسمٰعیل اور اسحاق اور یعقوب اور ان کی اولاد پر نازل ہوئے ان پر اور جو (کتابیں) موسیٰ اور عیسی کو عطا ہوئیں، ان پر، اور جو اور پیغمبروں کو ان کے پروردگار کی طرف سے ملیں، ان پر (سب پر ایمان لائے) ہم ان پیغمروں میں سے کسی میں کچھ فرق نہیں کرتے اور ہم اسی (خدائے واحد) کے فرمانبردار ہیں"
+}

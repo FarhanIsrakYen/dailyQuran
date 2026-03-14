@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Hadid",
+    "surahNameArabic": "الحديد",
+    "surahNameArabicLong": "سورة الحديد",
+    "surahNameTranslation": "The Iron",
+    "revelationPlace": "Madina",
+    "totalAyah": 29,
+    "surahNo": 57,
+    "ayahNo": 14,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/57_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/057014.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/57_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/057014.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/57_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/057014.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/57_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/057014.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/57_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/057014.mp3"
+        }
+    },
+    "english": "The tormented will cry out to those graced, “Were we not with you?” They will reply, “Yes ˹you were˺. But you chose to be tempted ˹by hypocrisy˺, ˹eagerly˺ awaited ˹our demise˺, doubted ˹the truth˺, and were deluded by false hopes until Allah’s decree ˹of your death˺ came to pass. And ˹so˺ the Chief Deceiver deceived you about Allah.",
+    "arabic1": "يُنَادُونَهُمْ أَلَمْ نَكُن مَّعَكُمْ ۖ قَالُوا۟ بَلَىٰ وَلَـٰكِنَّكُمْ فَتَنتُمْ أَنفُسَكُمْ وَتَرَبَّصْتُمْ وَٱرْتَبْتُمْ وَغَرَّتْكُمُ ٱلْأَمَانِىُّ حَتَّىٰ جَآءَ أَمْرُ ٱللَّهِ وَغَرَّكُم بِٱللَّهِ ٱلْغَرُورُ",
+    "arabic2": "ينادونهم الم نكن معكم قالوا بلى ولكنكم فتنتم انفسكم وتربصتم وارتبتم وغرتكم الاماني حتى جاء امر الله وغركم بالله الغرور",
+    "bengali": "মুনাফিকরা মুমিনদেরকে ডেকে বলবে, ‘আমরা কি তোমাদের সাথে ছিলাম না? তারা বলবে ‘হ্যাঁ, কিন্তু তোমরা নিজেরাই নিজদেরকে বিপদগ্রস্ত করেছ। আর তোমরা অপেক্ষা করেছিলে* এবং সন্দেহ পোষণ করেছিলে এবং আকাঙ্ক্ষা তোমাদেরকে প্রতারিত করেছিল, অবশেষে আল্লাহর নির্দেশ এসে গেল। আর মহা প্রতারক** তোমাদেরকে আল্লাহ সম্পর্কে প্রতারিত করেছিল। \n*আমাদের অমঙ্গলের। **শয়তান।",
+    "urdu": "تو منافق لوگ مومنوں سے کہیں گے کہ کیا ہم (دنیا میں) تمہارے ساتھ نہ تھے وہ کہیں گے کیوں نہیں تھے۔ لیکن تم نے خود اپنے تئیں بلا میں ڈالا اور (ہمارے حق میں حوادث کے) منتظر رہے اور (اسلام میں) شک کیا اور (لاطائل) آرزوؤں نے تم کو دھوکہ دیا یہاں تک کہ خدا کا حکم آ پہنچا اور خدا کے بارے میں تم کو (شیطان) دغاباز دغا دیتا رہا"
+}

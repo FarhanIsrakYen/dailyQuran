@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Ahqaf",
+    "surahNameArabic": "الأحقاف",
+    "surahNameArabicLong": "سورة الأحقاف",
+    "surahNameTranslation": "The Dunes",
+    "revelationPlace": "Mecca",
+    "totalAyah": 35,
+    "surahNo": 46,
+    "ayahNo": 27,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/46_27.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/046027.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/46_27.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/046027.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/46_27.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/046027.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/46_27.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/046027.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/46_27.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/046027.mp3"
+        }
+    },
+    "english": "We certainly destroyed the societies around you after having varied the signs so perhaps they would return ˹to the Right Path˺.",
+    "arabic1": "وَلَقَدْ أَهْلَكْنَا مَا حَوْلَكُم مِّنَ ٱلْقُرَىٰ وَصَرَّفْنَا ٱلْـَٔايَـٰتِ لَعَلَّهُمْ يَرْجِعُونَ",
+    "arabic2": "ولقد اهلكنا ما حولكم من القرى وصرفنا الايات لعلهم يرجعون",
+    "bengali": "আর অবশ্যই আমি তোমাদের পার্শ্ববর্তী জনপদসমূহ ধ্বংস করেছিলাম। আর আমি বিভিন্নভাবে আয়াতসমূহকে বর্ণনা করেছিলাম যাতে তারা ফিরে আসে।",
+    "urdu": "اور تمہارے اردگرد کی بستیوں کو ہم نے ہلاک کر دیا۔ اور بار بار (اپنی) نشانیاں ظاہر کردیں تاکہ وہ رجوع کریں"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Hajj",
+    "surahNameArabic": "الحج",
+    "surahNameArabicLong": "سورة الحج",
+    "surahNameTranslation": "The Pilgrimage",
+    "revelationPlace": "Madina",
+    "totalAyah": 78,
+    "surahNo": 22,
+    "ayahNo": 34,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/22_34.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/022034.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/22_34.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/022034.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/22_34.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/022034.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/22_34.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/022034.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/22_34.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/022034.mp3"
+        }
+    },
+    "english": "For every community We appointed a rite of sacrifice so that they may pronounce the Name of Allah over the sacrificial animals He has provided for them. For your God is only One God, so submit yourselves to Him ˹alone˺. And give good news ˹O Prophet˺ to the humble:",
+    "arabic1": "وَلِكُلِّ أُمَّةٍ جَعَلْنَا مَنسَكًا لِّيَذْكُرُوا۟ ٱسْمَ ٱللَّهِ عَلَىٰ مَا رَزَقَهُم مِّنۢ بَهِيمَةِ ٱلْأَنْعَـٰمِ ۗ فَإِلَـٰهُكُمْ إِلَـٰهٌ وَٰحِدٌ فَلَهُۥٓ أَسْلِمُوا۟ ۗ وَبَشِّرِ ٱلْمُخْبِتِينَ",
+    "arabic2": "ولكل امة جعلنا منسكا ليذكروا اسم الله على ما رزقهم من بهيمة الانعام فالهكم اله واحد فله اسلموا وبشر المخبتين",
+    "bengali": "প্রত্যেক জাতির জন্য আমি কুরবানীর নিয়ম করে দিয়েছি; যাতে তারা আল্লাহর নাম স্মরণ করতে পারে, যে সমস্ত জন্তু তিনি রিয্ক হিসেবে দিয়েছেন তার উপর। তোমাদের ইলাহ তো এক ইলাহ; অতএব তাঁরই কাছে আত্মসমর্পণ কর; আর অনুগতদেরকে সুসংবাদ দাও,",
+    "urdu": "اور ہم نے ہر اُمت کے لئے قربانی کا طریق مقرر کردیا ہے تاکہ جو مویشی چارپائے خدا نے ان کو دیئے ہیں (ان کے ذبح کرنے کے وقت) ان پر خدا کا نام لیں۔ سو تمہارا معبود ایک ہی ہے تو اسی کے فرمانبردار ہوجاؤ۔ اور عاجزی کرنے والوں کو خوشخبری سنادو"
+}

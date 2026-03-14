@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Hashr",
+    "surahNameArabic": "الحشر",
+    "surahNameArabicLong": "سورة الحشر",
+    "surahNameTranslation": "The Exile",
+    "revelationPlace": "Madina",
+    "totalAyah": 24,
+    "surahNo": 59,
+    "ayahNo": 17,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/59_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/059017.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/59_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/059017.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/59_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/059017.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/59_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/059017.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/59_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/059017.mp3"
+        }
+    },
+    "english": "So they will both end up in the Fire, staying there forever. That is the reward of the wrongdoers.",
+    "arabic1": "فَكَانَ عَـٰقِبَتَهُمَآ أَنَّهُمَا فِى ٱلنَّارِ خَـٰلِدَيْنِ فِيهَا ۚ وَذَٰلِكَ جَزَٰٓؤُا۟ ٱلظَّـٰلِمِينَ",
+    "arabic2": "فكان عاقبتهما انهما في النار خالدين فيها وذلك جزاء الظالمين",
+    "bengali": "তাদের দু’জনের পরিণতি ছিল এই যে, তারা দু’জনেই জাহান্নামী হবে, সেখানে তারা স্থায়ী হবে; আর এটাই যালিমদের প্রতিদান।",
+    "urdu": "تو دونوں کا انجام یہ ہوا کہ دونوں دوزخ میں (داخل ہوئے) ہمیشہ اس میں رہیں گے۔ اور بےانصافوں کی یہی سزا ہے"
+}

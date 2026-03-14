@@ -1,0 +1,42 @@
+{
+    "surahName": "Luqman",
+    "surahNameArabic": "لقمان",
+    "surahNameArabicLong": "سورة لقمان",
+    "surahNameTranslation": "Luqman",
+    "revelationPlace": "Mecca",
+    "totalAyah": 34,
+    "surahNo": 31,
+    "ayahNo": 6,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/31_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/031006.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/31_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/031006.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/31_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/031006.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/31_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/031006.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/31_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/031006.mp3"
+        }
+    },
+    "english": "But there are some who employ theatrics, only to lead others away from Allah’s Way—without any knowledge—and to make a mockery of it. They will suffer a humiliating punishment.",
+    "arabic1": "وَمِنَ ٱلنَّاسِ مَن يَشْتَرِى لَهْوَ ٱلْحَدِيثِ لِيُضِلَّ عَن سَبِيلِ ٱللَّهِ بِغَيْرِ عِلْمٍ وَيَتَّخِذَهَا هُزُوًا ۚ أُو۟لَـٰٓئِكَ لَهُمْ عَذَابٌ مُّهِينٌ",
+    "arabic2": "ومن الناس من يشتري لهو الحديث ليضل عن سبيل الله بغير علم ويتخذها هزوا اولئك لهم عذاب مهين",
+    "bengali": "আর মানুষের মধ্য থেকে কেউ কেউ না জেনে আল্লাহর পথ থেকে মানুষকে বিভ্রান্ত করার জন্য বেহুদা কথা খরিদ করে, আর তারা ঐগুলোকে হাসি-ঠাট্টা হিসেবে গ্রহণ করে; তাদের জন্য রয়েছে লাঞ্ছনাকর আযাব।",
+    "urdu": "اور لوگوں میں بعض ایسا ہے جو بیہودہ حکایتیں خریدتا ہے تاکہ( لوگوں کو) بےسمجھے خدا کے رستے سے گمراہ کرے اور اس سے استہزاء کرے یہی لوگ ہیں جن کو ذلیل کرنے والا عذاب ہوگا"
+}

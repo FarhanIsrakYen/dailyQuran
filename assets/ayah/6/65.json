@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 65,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/6_65.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/006065.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/6_65.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/006065.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/6_65.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/006065.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/6_65.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/006065.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/6_65.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/006065.mp3"
+        }
+    },
+    "english": "Say, “He ˹alone˺ has the power to unleash upon you a torment from above or below you or split you into ˹conflicting˺ factions and make you taste the violence of one another.” See how We vary the signs, so perhaps they will comprehend.",
+    "arabic1": "قُلْ هُوَ ٱلْقَادِرُ عَلَىٰٓ أَن يَبْعَثَ عَلَيْكُمْ عَذَابًا مِّن فَوْقِكُمْ أَوْ مِن تَحْتِ أَرْجُلِكُمْ أَوْ يَلْبِسَكُمْ شِيَعًا وَيُذِيقَ بَعْضَكُم بَأْسَ بَعْضٍ ۗ ٱنظُرْ كَيْفَ نُصَرِّفُ ٱلْـَٔايَـٰتِ لَعَلَّهُمْ يَفْقَهُونَ",
+    "arabic2": "قل هو القادر على ان يبعث عليكم عذابا من فوقكم او من تحت ارجلكم او يلبسكم شيعا ويذيق بعضكم باس بعض انظر كيف نصرف الايات لعلهم يفقهون",
+    "bengali": "বল, ‘তিনি তো সক্ষম তোমাদের উপর থেকে অথবা তোমাদের পায়ের নীচ থেকে তোমাদের উপর আযাব প্রেরণ করতে, অথবা তোমাদেরকে বিভিন্ন সন্দেহপূর্ণ দলে বিভক্ত করতে এবং তোমাদের একদলকে অন্য দলের ভীতি আস্বাদন করাতে’। দেখ, কীভাবে আমি আয়াতসমূহ নানাভাবে বর্ণনা করি, যাতে তারা ভালভাবে বুঝতে পারে।",
+    "urdu": "کہہ دو کہ وہ (اس پر بھی) قدرت رکھتا ہے کہ تم پر اوپر کی طرف سے یا تمہارے پاؤں کے نیچے سے عذاب بھیجے یا تمہیں فرقہ فرقہ کردے اور ایک کو دوسرے (سے لڑا کر آپس) کی لڑائی کا مزہ چکھادے۔ دیکھو ہم اپنی آیتوں کو کس کس طرح بیان کرتے ہیں تاکہ یہ لوگ سمجھیں"
+}

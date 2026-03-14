@@ -1,0 +1,42 @@
+{
+    "surahName": "Yunus",
+    "surahNameArabic": "يونس",
+    "surahNameArabicLong": "سورة يونس",
+    "surahNameTranslation": "Jonas",
+    "revelationPlace": "Mecca",
+    "totalAyah": 109,
+    "surahNo": 10,
+    "ayahNo": 87,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/10_87.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/010087.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/10_87.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/010087.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/10_87.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/010087.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/10_87.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/010087.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/10_87.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/010087.mp3"
+        }
+    },
+    "english": "We revealed to Moses and his brother, “Appoint houses for your people in Egypt. Turn these houses into places of worship, establish prayer, and give good news to the believers!”",
+    "arabic1": "وَأَوْحَيْنَآ إِلَىٰ مُوسَىٰ وَأَخِيهِ أَن تَبَوَّءَا لِقَوْمِكُمَا بِمِصْرَ بُيُوتًا وَٱجْعَلُوا۟ بُيُوتَكُمْ قِبْلَةً وَأَقِيمُوا۟ ٱلصَّلَوٰةَ ۗ وَبَشِّرِ ٱلْمُؤْمِنِينَ",
+    "arabic2": "واوحينا الى موسى واخيه ان تبوا لقومكما بمصر بيوتا واجعلوا بيوتكم قبلة واقيموا الصلاة وبشر المؤمنين",
+    "bengali": "আর আমি মূসা ও তার ভাইয়ের কাছে ওহী পাঠালাম যে, ‘তোমরা তোমাদের কওমের জন্য মিসরে গৃহ তৈরী কর এবং তোমাদের গৃহগুলোকে কিবলা বানাও আর সালাত কায়েম কর এবং মুমিনদের সুসংবাদ দাও’।",
+    "urdu": "اور ہم نے موسیٰ اور اس کے بھائی کی طرف وحی بھیجی کہ اپنے لوگوں کے لیے مصر میں گھر بناؤ اور اپنے گھروں کو قبلہ (یعنی مسجدیں) ٹھہراؤ اور نماز پڑھو۔ اور مومنوں کو خوشخبری سنادو"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Furqaan",
+    "surahNameArabic": "الفرقان",
+    "surahNameArabicLong": "سورة الفرقان",
+    "surahNameTranslation": "The Criterion",
+    "revelationPlace": "Mecca",
+    "totalAyah": 77,
+    "surahNo": 25,
+    "ayahNo": 3,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/25_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/025003.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/25_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/025003.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/25_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/025003.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/25_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/025003.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/25_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/025003.mp3"
+        }
+    },
+    "english": "Yet they have taken besides Him gods who cannot create anything but are themselves created. Nor can they protect or benefit themselves. Nor can they control life, death, or resurrection.",
+    "arabic1": "وَٱتَّخَذُوا۟ مِن دُونِهِۦٓ ءَالِهَةً لَّا يَخْلُقُونَ شَيْـًٔا وَهُمْ يُخْلَقُونَ وَلَا يَمْلِكُونَ لِأَنفُسِهِمْ ضَرًّا وَلَا نَفْعًا وَلَا يَمْلِكُونَ مَوْتًا وَلَا حَيَوٰةً وَلَا نُشُورًا",
+    "arabic2": "واتخذوا من دونه الهة لا يخلقون شيئا وهم يخلقون ولا يملكون لانفسهم ضرا ولا نفعا ولا يملكون موتا ولا حياة ولا نشورا",
+    "bengali": "আর তারা আল্লাহ ছাড়া অনেক ইলাহ গ্রহণ করেছে, যারা কিছুই সৃষ্টি করতে পারে না, বরং তাদেরকেই সৃষ্টি করা হয়েছে; তারা নিজদের কোন কল্যাণ ও অকল্যাণ করার ক্ষমতা রাখে না এবং মৃত্যু, জীবন ও পুনরুত্থান করতেও সক্ষম হয় না।",
+    "urdu": "اور (لوگوں نے) اس کے سوا اور معبود بنا لئے ہیں جو کوئی چیز بھی پیدا نہیں کرسکتے اور خود پیدا کئے گئے ہیں۔ اور نہ اپنے نقصان اور نفع کا کچھ اختیار رکھتے ہیں اور نہ مرنا ان کے اختیار میں ہے اور نہ جینا اور نہ مر کر اُٹھ کھڑے ہونا"
+}

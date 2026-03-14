@@ -1,0 +1,42 @@
+{
+    "surahName": "Adh-Dhaariyat",
+    "surahNameArabic": "الذاريات",
+    "surahNameArabicLong": "سورة الذاريات",
+    "surahNameTranslation": "The Winnowing Winds",
+    "revelationPlace": "Mecca",
+    "totalAyah": 60,
+    "surahNo": 51,
+    "ayahNo": 60,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/51_60.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/051060.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/51_60.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/051060.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/51_60.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/051060.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/51_60.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/051060.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/51_60.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/051060.mp3"
+        }
+    },
+    "english": "Woe then to the disbelievers when they face their Day which they are warned of!",
+    "arabic1": "فَوَيْلٌ لِّلَّذِينَ كَفَرُوا۟ مِن يَوْمِهِمُ ٱلَّذِى يُوعَدُونَ",
+    "arabic2": "فويل للذين كفروا من يومهم الذي يوعدون",
+    "bengali": "অতএব, যারা কুফরী করে তাদের জন্য ধ্বংস সেদিনের যেদিনের ওয়াদা তাদেরকে দেয়া হয়েছে।",
+    "urdu": "جس دن کا ان کافروں سے وعدہ کیا جاتا ہے اس سے ان کے لئے خرابی ہے"
+}

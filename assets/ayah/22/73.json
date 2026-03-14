@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Hajj",
+    "surahNameArabic": "الحج",
+    "surahNameArabicLong": "سورة الحج",
+    "surahNameTranslation": "The Pilgrimage",
+    "revelationPlace": "Madina",
+    "totalAyah": 78,
+    "surahNo": 22,
+    "ayahNo": 73,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/22_73.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/022073.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/22_73.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/022073.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/22_73.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/022073.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/22_73.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/022073.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/22_73.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/022073.mp3"
+        }
+    },
+    "english": "O humanity! A lesson is set forth, so listen to it ˹carefully˺: those ˹idols˺ you invoke besides Allah can never create ˹so much as˺ a fly, even if they ˹all˺ were to come together for that. And if a fly were to snatch anything away from them, they cannot ˹even˺ retrieve it from the fly. How powerless are those who invoke and those invoked!",
+    "arabic1": "يَـٰٓأَيُّهَا ٱلنَّاسُ ضُرِبَ مَثَلٌ فَٱسْتَمِعُوا۟ لَهُۥٓ ۚ إِنَّ ٱلَّذِينَ تَدْعُونَ مِن دُونِ ٱللَّهِ لَن يَخْلُقُوا۟ ذُبَابًا وَلَوِ ٱجْتَمَعُوا۟ لَهُۥ ۖ وَإِن يَسْلُبْهُمُ ٱلذُّبَابُ شَيْـًٔا لَّا يَسْتَنقِذُوهُ مِنْهُ ۚ ضَعُفَ ٱلطَّالِبُ وَٱلْمَطْلُوبُ",
+    "arabic2": "يا ايها الناس ضرب مثل فاستمعوا له ان الذين تدعون من دون الله لن يخلقوا ذبابا ولو اجتمعوا له وان يسلبهم الذباب شيئا لا يستنقذوه منه ضعف الطالب والمطلوب",
+    "bengali": "হে মানুষ, একটি উপমা পেশ করা হল, মনোযোগ দিয়ে তা শোন, তোমরা আল্লাহর পরিবর্তে যাদেরকে ডাক তারা কখনো একটি মাছিও সৃষ্টি করতে পারবে না। যদিও তারা এ উদ্দেশ্যে একত্রিত হয়। আর যদি মাছি তাদের কাছ থেকে কিছু ছিনিয়ে নেয়, তারা তার কাছ থেকে তাও উদ্ধার করতে পারবে না। অন্বেষণকারী ও যার কাছে অন্বেষণ করা হয় উভয়েই দুর্বল।",
+    "urdu": "لوگو! ایک مثال بیان کی جاتی ہے اسے غور سے سنو۔ کہ جن لوگوں کو تم خدا کے سوا پکارتے ہو وہ ایک مکھی بھی نہیں بنا سکتے اگرچہ اس کے لئے سب مجتمع ہوجائیں۔ اور اگر ان سے مکھی کوئی چیز لے جائے تو اسے اس سے چھڑا نہیں سکتے۔ طالب اور مطلوب (یعنی عابد اور معبود دونوں) گئے گزرے ہیں"
+}

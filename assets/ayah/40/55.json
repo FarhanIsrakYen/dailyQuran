@@ -1,0 +1,42 @@
+{
+    "surahName": "Ghafir",
+    "surahNameArabic": "غافر",
+    "surahNameArabicLong": "سورة غافر",
+    "surahNameTranslation": "The Forgiver",
+    "revelationPlace": "Mecca",
+    "totalAyah": 85,
+    "surahNo": 40,
+    "ayahNo": 55,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/40_55.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/040055.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/40_55.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/040055.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/40_55.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/040055.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/40_55.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/040055.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/40_55.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/040055.mp3"
+        }
+    },
+    "english": "So be patient ˹O Prophet˺, ˹for˺ Allah’s promise is certainly true. Seek forgiveness for your shortcomings. And glorify the praises of your Lord morning and evening.",
+    "arabic1": "فَٱصْبِرْ إِنَّ وَعْدَ ٱللَّهِ حَقٌّ وَٱسْتَغْفِرْ لِذَنۢبِكَ وَسَبِّحْ بِحَمْدِ رَبِّكَ بِٱلْعَشِىِّ وَٱلْإِبْكَـٰرِ",
+    "arabic2": "فاصبر ان وعد الله حق واستغفر لذنبك وسبح بحمد ربك بالعشي والابكار",
+    "bengali": "কাজেই তুমি ধৈর্য ধারণ কর, নিশ্চয় আল্লাহর ওয়াদা সত্য। আর তুমি তোমার ত্রুটির জন্য ক্ষমা প্রার্থনা কর এবং সকাল- সন্ধ্যায় তোমার রবের প্রশংসাসহ তাসবীহ পাঠ কর।",
+    "urdu": "تو صبر کرو بےشک خدا کا وعدہ سچا ہے اور اپنے گناہوں کی معافی مانگو اور صبح وشام اپنے پروردگار کی تعریف کے ساتھ تسبیح کرتے رہو"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Mujaadila",
+    "surahNameArabic": "المجادلة",
+    "surahNameArabicLong": "سورة المجادلة",
+    "surahNameTranslation": "The Pleading Woman",
+    "revelationPlace": "Madina",
+    "totalAyah": 22,
+    "surahNo": 58,
+    "ayahNo": 9,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/58_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/058009.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/58_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/058009.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/58_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/058009.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/58_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/058009.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/58_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/058009.mp3"
+        }
+    },
+    "english": "O believers! When you converse privately, let it not be for sin, aggression, or disobedience to the Messenger, but let it be for goodness and righteousness. And fear Allah, to Whom you will ˹all˺ be gathered.",
+    "arabic1": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا تَنَـٰجَيْتُمْ فَلَا تَتَنَـٰجَوْا۟ بِٱلْإِثْمِ وَٱلْعُدْوَٰنِ وَمَعْصِيَتِ ٱلرَّسُولِ وَتَنَـٰجَوْا۟ بِٱلْبِرِّ وَٱلتَّقْوَىٰ ۖ وَٱتَّقُوا۟ ٱللَّهَ ٱلَّذِىٓ إِلَيْهِ تُحْشَرُونَ",
+    "arabic2": "يا ايها الذين امنوا اذا تناجيتم فلا تتناجوا بالاثم والعدوان ومعصيت الرسول وتناجوا بالبر والتقوى واتقوا الله الذي اليه تحشرون",
+    "bengali": "হে মুমিনগণ, তোমরা যখন গোপনে পরামর্শ করবে তখন তোমরা যেন গুনাহ, সীমালঙ্ঘন ও রাসূলের বিরুদ্ধাচরণের ব্যাপারে গোপন পরামর্শ না কর। আর তোমরা সৎকর্ম ও তাকওয়ার বিষয়ে গোপন পরামর্শ কর। তোমরা আল্লাহকে ভয় কর, যাঁর কাছে তোমাদেরকে সমবেত করা হবে।",
+    "urdu": "مومنو! جب تم آپس میں سرگوشیاں کرنے لگو تو گناہ اور زیادتی اور پیغمبر کی نافرمانی کی باتیں نہ کرنا بلکہ نیکوکاری اور پرہیزگاری کی باتیں کرنا۔ اور خدا سے جس کے سامنے جمع کئے جاؤ گے ڈرتے رہنا"
+}

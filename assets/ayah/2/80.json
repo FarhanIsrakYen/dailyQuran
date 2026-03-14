@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 80,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_80.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002080.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_80.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002080.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_80.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002080.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_80.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002080.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_80.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002080.mp3"
+        }
+    },
+    "english": "˹Some of˺ the Jews claim, “The Fire will not touch us except for a number of days.” Say, ˹O Prophet,˺ “Have you taken a pledge from Allah—for Allah never breaks His word—or are you ˹just˺ saying about Allah what you do not know?”",
+    "arabic1": "وَقَالُوا۟ لَن تَمَسَّنَا ٱلنَّارُ إِلَّآ أَيَّامًا مَّعْدُودَةً ۚ قُلْ أَتَّخَذْتُمْ عِندَ ٱللَّهِ عَهْدًا فَلَن يُخْلِفَ ٱللَّهُ عَهْدَهُۥٓ ۖ أَمْ تَقُولُونَ عَلَى ٱللَّهِ مَا لَا تَعْلَمُونَ",
+    "arabic2": "وقالوا لن تمسنا النار الا اياما معدودة قل اتخذتم عند الله عهدا فلن يخلف الله عهده ام تقولون على الله ما لا تعلمون",
+    "bengali": "আর তারা বলে, ‘গোনা-কয়েকদিন ছাড়া আগুন আমাদেরকে কখনো স্পর্শ করবে না’। বল, ‘তোমরা কি আল্লাহর নিকট ওয়াদা নিয়েছ, ফলে আল্লাহ তাঁর ওয়াদা ভঙ্গ করবেন না? নাকি আল্লাহর উপর এমন কিছু বলছ, যা তোমরা জান না’?",
+    "urdu": "اور کہتے ہیں کہ (دوزخ کی) آگ ہمیں چند روز کے سوا چھو ہی نہیں سکے گی۔ ان سے پوچھو، کیا تم نے خدا سے اقرار لے رکھا ہے کہ خدا اپنے اقرار کے خلاف نہیں کرے گا۔ (نہیں)، بلکہ تم خدا کے بارے میں ایسی باتیں کہتے ہو جن کا تمہیں مطلق علم نہیں"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Maaida",
+    "surahNameArabic": "المائدة",
+    "surahNameArabicLong": "سورة المائدة",
+    "surahNameTranslation": "The Table",
+    "revelationPlace": "Madina",
+    "totalAyah": 120,
+    "surahNo": 5,
+    "ayahNo": 14,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/5_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/005014.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/5_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/005014.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/5_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/005014.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/5_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/005014.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/5_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/005014.mp3"
+        }
+    },
+    "english": "And from those who say, “We are Christians,” We took their covenant, but they neglected a portion of what they had been commanded to uphold. So We let hostility and enmity arise between them until the Day of Judgment, and soon Allah will inform them of all they have done.",
+    "arabic1": "وَمِنَ ٱلَّذِينَ قَالُوٓا۟ إِنَّا نَصَـٰرَىٰٓ أَخَذْنَا مِيثَـٰقَهُمْ فَنَسُوا۟ حَظًّا مِّمَّا ذُكِّرُوا۟ بِهِۦ فَأَغْرَيْنَا بَيْنَهُمُ ٱلْعَدَاوَةَ وَٱلْبَغْضَآءَ إِلَىٰ يَوْمِ ٱلْقِيَـٰمَةِ ۚ وَسَوْفَ يُنَبِّئُهُمُ ٱللَّهُ بِمَا كَانُوا۟ يَصْنَعُونَ",
+    "arabic2": "ومن الذين قالوا انا نصارى اخذنا ميثاقهم فنسوا حظا مما ذكروا به فاغرينا بينهم العداوة والبغضاء الى يوم القيامة وسوف ينبئهم الله بما كانوا يصنعون",
+    "bengali": "আর যারা বলে, ‘আমরা নাসারা’, আমি তাদের থেকে অঙ্গীকার গ্রহণ করেছিলাম। অতঃপর তাদেরকে যে উপদেশ দেয়া হয়েছিল, তারা তার একটি অংশ ভুলে গিয়েছে। ফলে আমি তাদের মধ্যে কিয়ামতের দিন পর্যন্ত শত্রুতা ও ঘৃণা উসকে দিয়েছি এবং তারা যা করত সে সম্পর্কে অচিরেই আল্লাহ তাদেরকে অবহিত করবেন।",
+    "urdu": "اور جو لوگ (اپنے تئیں) کہتے ہیں کہ ہم نصاریٰ ہیں ہم نے ان سے بھی عہد لیا تھا مگر انہوں نے بھی اس نصیحت کا جو ان کو کی گئی تھی ایک حصہ فراموش کر دیا تو ہم نے ان کے باہم قیامت تک کے لیے دشمنی اور کینہ ڈال دیا اور جو کچھ وہ کرتے رہے خدا عنقریب ان کو اس سے آگاہ کرے گا"
+}

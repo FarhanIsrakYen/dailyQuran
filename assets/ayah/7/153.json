@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 153,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/7_153.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/007153.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/7_153.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/007153.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/7_153.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/007153.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/7_153.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/007153.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/7_153.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/007153.mp3"
+        }
+    },
+    "english": "But those who commit evil, then repent and become ˹true˺ believers, your Lord will certainly be All-Forgiving, Most-Merciful.",
+    "arabic1": "وَٱلَّذِينَ عَمِلُوا۟ ٱلسَّيِّـَٔاتِ ثُمَّ تَابُوا۟ مِنۢ بَعْدِهَا وَءَامَنُوٓا۟ إِنَّ رَبَّكَ مِنۢ بَعْدِهَا لَغَفُورٌ رَّحِيمٌ",
+    "arabic2": "والذين عملوا السيئات ثم تابوا من بعدها وامنوا ان ربك من بعدها لغفور رحيم",
+    "bengali": "আর যারা খারাপ কাজ করল, তারপর তাওবা করল এবং ঈমান আনল, নিশ্চয় তোমার রব এরপরও ক্ষমাশীল, পরম দয়ালু।",
+    "urdu": "اور جنہوں نے برے کام کیے پھر اس کے بعد توبہ کرلی اور ایمان لے آئے تو کچھ شک نہیں کہ تمہارا پروردگار اس کے بعد (بخش دے گا کہ وہ) بخشنے والا مہربان ہے"
+}

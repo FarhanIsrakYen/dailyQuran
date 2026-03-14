@@ -1,0 +1,42 @@
+{
+    "surahName": "Yaseen",
+    "surahNameArabic": "يس",
+    "surahNameArabicLong": "سورة يس",
+    "surahNameTranslation": "Yaseen",
+    "revelationPlace": "Mecca",
+    "totalAyah": 83,
+    "surahNo": 36,
+    "ayahNo": 74,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/36_74.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/036074.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/36_74.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/036074.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/36_74.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/036074.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/36_74.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/036074.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/36_74.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/036074.mp3"
+        }
+    },
+    "english": "Still they have taken other gods besides Allah, hoping to be helped ˹by them˺.",
+    "arabic1": "وَٱتَّخَذُوا۟ مِن دُونِ ٱللَّهِ ءَالِهَةً لَّعَلَّهُمْ يُنصَرُونَ",
+    "arabic2": "واتخذوا من دون الله الهة لعلهم ينصرون",
+    "bengali": "অথচ তারা আল্লাহর পরিবর্তে অন্য সব ইলাহ গ্রহণ করেছে, এই প্রত্যাশায় যে, তারা সাহায্যপ্রাপ্ত হবে।",
+    "urdu": "اور انہوں نے خدا کے سوا (اور) معبود بنا لیے ہیں کہ شاید (ان سے) ان کو مدد پہنچے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Ghafir",
+    "surahNameArabic": "غافر",
+    "surahNameArabicLong": "سورة غافر",
+    "surahNameTranslation": "The Forgiver",
+    "revelationPlace": "Mecca",
+    "totalAyah": 85,
+    "surahNo": 40,
+    "ayahNo": 21,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/40_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/040021.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/40_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/040021.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/40_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/040021.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/40_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/040021.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/40_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/040021.mp3"
+        }
+    },
+    "english": "Have they not travelled throughout the land to see what was the end of those ˹destroyed˺ before them? They were far superior in might and ˹richer in˺ monuments throughout the land. But Allah seized them for their sins, and they had no protector from Allah.",
+    "arabic1": "۞ أَوَلَمْ يَسِيرُوا۟ فِى ٱلْأَرْضِ فَيَنظُرُوا۟ كَيْفَ كَانَ عَـٰقِبَةُ ٱلَّذِينَ كَانُوا۟ مِن قَبْلِهِمْ ۚ كَانُوا۟ هُمْ أَشَدَّ مِنْهُمْ قُوَّةً وَءَاثَارًا فِى ٱلْأَرْضِ فَأَخَذَهُمُ ٱللَّهُ بِذُنُوبِهِمْ وَمَا كَانَ لَهُم مِّنَ ٱللَّهِ مِن وَاقٍ",
+    "arabic2": "اولم يسيروا في الارض فينظروا كيف كان عاقبة الذين كانوا من قبلهم كانوا هم اشد منهم قوة واثارا في الارض فاخذهم الله بذنوبهم وما كان لهم من الله من واق",
+    "bengali": "এরা কি যমীনে বিচরণ করে না? তাহলে দেখত, তাদের পূর্বে যারা ছিল তাদের পরিণতি কেমন হয়েছিল? তারা এদের তুলনায় যমীনে শক্তিমত্তা ও প্রভাব বিস্তারে প্রবলতর ছিল। অতঃপর আল্লাহ তাদের পাকড়াও করলেন তাদের পাপাচারের কারণে। আর তাদের জন্য ছিল না আল্লাহর পক্ষ থেকে কোন রক্ষাকারী।",
+    "urdu": "کیا انہوں نے زمین میں سیر نہیں کی تاکہ دیکھ لیتے کہ جو لوگ ان سے پہلے تھے ان کا انجام کیسا ہوا۔ وہ ان سے زور اور زمین میں نشانات (بنانے) کے لحاظ سے کہیں بڑھ کر تھے تو خدا نے ان کو ان کے گناہوں کے سبب پکڑ لیا۔ اور ان کو خدا (کے عذاب) سے کوئی بھی بچانے والا نہ تھا"
+}

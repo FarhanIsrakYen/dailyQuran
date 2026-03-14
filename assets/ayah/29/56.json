@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Ankaboot",
+    "surahNameArabic": "العنكبوت",
+    "surahNameArabicLong": "سورة العنكبوت",
+    "surahNameTranslation": "The Spider",
+    "revelationPlace": "Mecca",
+    "totalAyah": 69,
+    "surahNo": 29,
+    "ayahNo": 56,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/29_56.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/029056.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/29_56.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/029056.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/29_56.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/029056.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/29_56.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/029056.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/29_56.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/029056.mp3"
+        }
+    },
+    "english": "O My believing servants! My earth is truly spacious, so worship Me ˹alone˺.",
+    "arabic1": "يَـٰعِبَادِىَ ٱلَّذِينَ ءَامَنُوٓا۟ إِنَّ أَرْضِى وَٰسِعَةٌ فَإِيَّـٰىَ فَٱعْبُدُونِ",
+    "arabic2": "يا عبادي الذين امنوا ان ارضي واسعة فاياي فاعبدون",
+    "bengali": "হে আমার বান্দারা যারা ঈমান এনেছে, নিশ্চয় আমার যমীন প্রশস্ত, সুতরাং তোমরা আমারই ইবাদাত কর।",
+    "urdu": "اے میرے بندو جو ایمان لائے ہو میری زمین فراخ ہے تو میری ہی عبادت کرو"
+}

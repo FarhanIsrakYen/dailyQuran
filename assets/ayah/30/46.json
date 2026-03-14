@@ -1,0 +1,42 @@
+{
+    "surahName": "Ar-Room",
+    "surahNameArabic": "الروم",
+    "surahNameArabicLong": "سورة الروم",
+    "surahNameTranslation": "The Romans",
+    "revelationPlace": "Mecca",
+    "totalAyah": 60,
+    "surahNo": 30,
+    "ayahNo": 46,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/30_46.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/030046.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/30_46.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/030046.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/30_46.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/030046.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/30_46.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/030046.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/30_46.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/030046.mp3"
+        }
+    },
+    "english": "And one of His signs is that He sends the winds, ushering in good news ˹of rain˺ so that He may give you a taste of His mercy, and that ships may sail by His command, and that you may seek His bounty, and perhaps you will be grateful.",
+    "arabic1": "وَمِنْ ءَايَـٰتِهِۦٓ أَن يُرْسِلَ ٱلرِّيَاحَ مُبَشِّرَٰتٍ وَلِيُذِيقَكُم مِّن رَّحْمَتِهِۦ وَلِتَجْرِىَ ٱلْفُلْكُ بِأَمْرِهِۦ وَلِتَبْتَغُوا۟ مِن فَضْلِهِۦ وَلَعَلَّكُمْ تَشْكُرُونَ",
+    "arabic2": "ومن اياته ان يرسل الرياح مبشرات وليذيقكم من رحمته ولتجري الفلك بامره ولتبتغوا من فضله ولعلكم تشكرون",
+    "bengali": "আর তাঁর নিদর্শনসমূহের মধ্যে রয়েছে, তিনি বাতাস প্রেরণ করেন [বৃষ্টির] সুসংবাদ বহনকারী হিসেবে এবং যাতে তিনি তোমাদেরকে তাঁর রহমত আস্বাদন করাতে পারেন এবং যাতে তাঁর নির্দেশে নৌযানগুলো চলাচল করে, আর যাতে তোমরা তাঁর অনুগ্রহ থেকে কিছু সন্ধান করতে পার। আর যাতে তোমরা কৃতজ্ঞ হও।",
+    "urdu": "اور اُسی کی نشانیوں میں سے ہے کہ ہواؤں کو بھیجتا ہے کہ خوشخبری دیتی ہیں تاکہ تم کو اپنی رحمت کے مزے چکھائے اور تاکہ اس کے حکم سے کشتیاں چلیں اور تاکہ اس کے فضل سے (روزی) طلب کرو عجب نہیں کہ تم شکر کرو"
+}

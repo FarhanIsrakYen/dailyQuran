@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Hujuraat",
+    "surahNameArabic": "الحجرات",
+    "surahNameArabicLong": "سورة الحجرات",
+    "surahNameTranslation": "The Inner Apartments",
+    "revelationPlace": "Madina",
+    "totalAyah": 18,
+    "surahNo": 49,
+    "ayahNo": 13,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/49_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/049013.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/49_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/049013.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/49_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/049013.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/49_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/049013.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/49_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/049013.mp3"
+        }
+    },
+    "english": "O humanity! Indeed, We created you from a male and a female, and made you into peoples and tribes so that you may ˹get to˺ know one another. Surely the most noble of you in the sight of Allah is the most righteous among you. Allah is truly All-Knowing, All-Aware.",
+    "arabic1": "يَـٰٓأَيُّهَا ٱلنَّاسُ إِنَّا خَلَقْنَـٰكُم مِّن ذَكَرٍ وَأُنثَىٰ وَجَعَلْنَـٰكُمْ شُعُوبًا وَقَبَآئِلَ لِتَعَارَفُوٓا۟ ۚ إِنَّ أَكْرَمَكُمْ عِندَ ٱللَّهِ أَتْقَىٰكُمْ ۚ إِنَّ ٱللَّهَ عَلِيمٌ خَبِيرٌ",
+    "arabic2": "يا ايها الناس انا خلقناكم من ذكر وانثى وجعلناكم شعوبا وقبائل لتعارفوا ان اكرمكم عند الله اتقاكم ان الله عليم خبير",
+    "bengali": "হে মানুষ, আমি তোমাদেরকে এক নারী ও এক পুরুষ থেকে সৃষ্টি করেছি আর তোমাদেরকে বিভিন্ন জাতি ও গোত্রে বিভক্ত করেছি। যাতে তোমরা পরস্পর পরিচিত হতে পার। তোমাদের মধ্যে আল্লাহর কাছে সেই অধিক মর্যাদাসম্পন্ন যে তোমাদের মধ্যে অধিক তাকওয়া সম্পন্ন। নিশ্চয় আল্লাহ তো সর্বজ্ঞ, সম্যক অবহিত।",
+    "urdu": "لوگو! ہم نے تم کو ایک مرد اور ایک عورت سے پیدا کیا اور تمہاری قومیں اور قبیلے بنائے۔ تاکہ ایک دوسرے کو شناخت کرو۔ اور خدا کے نزدیک تم میں زیادہ عزت والا وہ ہے جو زیادہ پرہیزگار ہے۔ بےشک خدا سب کچھ جاننے والا (اور) سب سے خبردار ہے"
+}

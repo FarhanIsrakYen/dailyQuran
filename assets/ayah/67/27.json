@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Mulk",
+    "surahNameArabic": "الملك",
+    "surahNameArabicLong": "سورة الملك",
+    "surahNameTranslation": "The Sovereignty",
+    "revelationPlace": "Mecca",
+    "totalAyah": 30,
+    "surahNo": 67,
+    "ayahNo": 27,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/67_27.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/067027.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/67_27.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/067027.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/67_27.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/067027.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/67_27.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/067027.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/67_27.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/067027.mp3"
+        }
+    },
+    "english": "Then when they see the torment drawing near, the faces of the disbelievers will become gloomy, and it will be said ˹to them˺, “This is what you claimed would never come.”",
+    "arabic1": "فَلَمَّا رَأَوْهُ زُلْفَةً سِيٓـَٔتْ وُجُوهُ ٱلَّذِينَ كَفَرُوا۟ وَقِيلَ هَـٰذَا ٱلَّذِى كُنتُم بِهِۦ تَدَّعُونَ",
+    "arabic2": "فلما راوه زلفة سيئت وجوه الذين كفروا وقيل هذا الذي كنتم به تدعون",
+    "bengali": "অতঃপর তারা যখন তা* আসন্ন দেখতে পাবে, তখন কাফিরদের চেহারা মলিন হয়ে যাবে এবং বলা হবে, ‘এটাই হল তা, যা তোমরা দাবী করছিলে’। \n*কিয়ামতের শাস্তি।",
+    "urdu": "سو جب وہ دیکھ لیں گے کہ وہ (وعدہ) قریب آگیا تو کافروں کے منہ برے ہوجائیں گے اور (ان سے) کہا جائے گا کہ یہ وہی ہے جس کے تم خواستگار تھے"
+}

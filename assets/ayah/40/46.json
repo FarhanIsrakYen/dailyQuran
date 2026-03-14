@@ -1,0 +1,42 @@
+{
+    "surahName": "Ghafir",
+    "surahNameArabic": "غافر",
+    "surahNameArabicLong": "سورة غافر",
+    "surahNameTranslation": "The Forgiver",
+    "revelationPlace": "Mecca",
+    "totalAyah": 85,
+    "surahNo": 40,
+    "ayahNo": 46,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/40_46.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/040046.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/40_46.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/040046.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/40_46.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/040046.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/40_46.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/040046.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/40_46.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/040046.mp3"
+        }
+    },
+    "english": "they are exposed to the Fire ˹in their graves˺ morning and evening. And on the Day the Hour will be established ˹it will be said˺, “Admit Pharaoh’s people into the harshest punishment ˹of Hell˺.”",
+    "arabic1": "ٱلنَّارُ يُعْرَضُونَ عَلَيْهَا غُدُوًّا وَعَشِيًّا ۖ وَيَوْمَ تَقُومُ ٱلسَّاعَةُ أَدْخِلُوٓا۟ ءَالَ فِرْعَوْنَ أَشَدَّ ٱلْعَذَابِ",
+    "arabic2": "النار يعرضون عليها غدوا وعشيا ويوم تقوم الساعة ادخلوا ال فرعون اشد العذاب",
+    "bengali": "আগুন, তাদেরকে সকাল-সন্ধ্যায় তার সামনে উপস্থিত করা হয়, আর যেদিন কিয়ামত সংঘটিত হবে (সেদিন ঘোষণা করা হবে), ‘ফির‘আউনের অনুসারীদেরকে কঠোরতম আযাবে প্রবেশ করাও।’",
+    "urdu": "یعنی) آتش (جہنم) کہ صبح وشام اس کے سامنے پیش کئے جاتے ہیں۔ اور جس روز قیامت برپا ہوگی (حکم ہوگا کہ) فرعون والوں کو نہایت سخت عذاب میں داخل کرو"
+}

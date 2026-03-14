@@ -1,0 +1,42 @@
+{
+    "surahName": "Ar-Room",
+    "surahNameArabic": "الروم",
+    "surahNameArabicLong": "سورة الروم",
+    "surahNameTranslation": "The Romans",
+    "revelationPlace": "Mecca",
+    "totalAyah": 60,
+    "surahNo": 30,
+    "ayahNo": 19,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/30_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/030019.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/30_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/030019.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/30_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/030019.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/30_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/030019.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/30_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/030019.mp3"
+        }
+    },
+    "english": "He brings forth the living from the dead and the dead from the living. And He gives life to the earth after its death. And so will you be brought forth ˹from the grave˺.",
+    "arabic1": "يُخْرِجُ ٱلْحَىَّ مِنَ ٱلْمَيِّتِ وَيُخْرِجُ ٱلْمَيِّتَ مِنَ ٱلْحَىِّ وَيُحْىِ ٱلْأَرْضَ بَعْدَ مَوْتِهَا ۚ وَكَذَٰلِكَ تُخْرَجُونَ",
+    "arabic2": "يخرج الحي من الميت ويخرج الميت من الحي ويحيي الارض بعد موتها وكذلك تخرجون",
+    "bengali": "তিনি মৃত থেকে জীবিতকে বের করেন এবং জীবিত থেকে মৃতকে বের করেন। আর তিনি যমীনকে জীবিত করেন তার মৃত্যুর পর। আর এভাবেই তোমরা উত্থিত হবে।",
+    "urdu": "وہی زندے کو مردے سے نکالتا اور (وہی) مردے کو زندے سے نکالتا ہے اور( وہی) زمین کو اس کے مرنے کے بعد زندہ کرتا ہے۔ اور اسی طرح تم (دوبارہ زمین میں سے) نکالے جاؤ گے"
+}

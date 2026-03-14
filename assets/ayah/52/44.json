@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Tur",
+    "surahNameArabic": "الطور",
+    "surahNameArabicLong": "سورة الطور",
+    "surahNameTranslation": "The Mount",
+    "revelationPlace": "Mecca",
+    "totalAyah": 49,
+    "surahNo": 52,
+    "ayahNo": 44,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/52_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/052044.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/52_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/052044.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/52_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/052044.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/52_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/052044.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/52_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/052044.mp3"
+        }
+    },
+    "english": "If they were to see a ˹deadly˺ piece of the sky fall down ˹upon them˺, still they would say, “˹This is just˺ a pile of clouds.”",
+    "arabic1": "وَإِن يَرَوْا۟ كِسْفًا مِّنَ ٱلسَّمَآءِ سَاقِطًا يَقُولُوا۟ سَحَابٌ مَّرْكُومٌ",
+    "arabic2": "وان يروا كسفا من السماء ساقطا يقولوا سحاب مركوم",
+    "bengali": "আর কোন আকাশখন্ড ভেঙ্গে পড়তে দেখলে তারা বলবে, ‘এটি তো এক পুঞ্জীভূত মেঘ’!",
+    "urdu": "اور اگر یہ آسمان سے (عذاب) کا کوئی ٹکڑا گرتا ہوا دیکھیں تو کہیں کہ یہ گاڑھا بادل ہے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Munaafiqoon",
+    "surahNameArabic": "المنافقون",
+    "surahNameArabicLong": "سورة المنافقون",
+    "surahNameTranslation": "The Hypocrites",
+    "revelationPlace": "Madina",
+    "totalAyah": 11,
+    "surahNo": 63,
+    "ayahNo": 10,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/63_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/063010.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/63_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/063010.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/63_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/063010.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/63_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/063010.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/63_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/063010.mp3"
+        }
+    },
+    "english": "And donate from what We have provided for you before death comes to one of you, and you cry, “My Lord! If only You delayed me for a short while, I would give in charity and be one of the righteous.”",
+    "arabic1": "وَأَنفِقُوا۟ مِن مَّا رَزَقْنَـٰكُم مِّن قَبْلِ أَن يَأْتِىَ أَحَدَكُمُ ٱلْمَوْتُ فَيَقُولَ رَبِّ لَوْلَآ أَخَّرْتَنِىٓ إِلَىٰٓ أَجَلٍ قَرِيبٍ فَأَصَّدَّقَ وَأَكُن مِّنَ ٱلصَّـٰلِحِينَ",
+    "arabic2": "وانفقوا من ما رزقناكم من قبل ان ياتي احدكم الموت فيقول رب لولا اخرتني الى اجل قريب فاصدق واكن من الصالحين",
+    "bengali": "আর আমি তোমাদেরকে যে রিযক দিয়েছি তা থেকে ব্যয় কর, তোমাদের কারো মৃত্যু আসার পূর্বে। কেননা তখন সে বলবে, হে আমার রব, যদি আপনি আমাকে আরো কিছু কাল পর্যন্ত অবকাশ দিতেন, তাহলে আমি দান-সদাকা করতাম। আর সৎ লোকদের অন্তর্ভুক্ত হতাম।",
+    "urdu": "اور جو (مال) ہم نے تم کو دیا ہے اس میں سے اس (وقت) سے پیشتر خرچ کرلو کہ تم میں سے کسی کی موت آجائے تو (اس وقت) کہنے لگے کہ اے میرے پروردگار تو نے مجھے تھوڑی سی اور مہلت کیوں نہ دی تاکہ میں خیرات کرلیتا اور نیک لوگوں میں داخل ہوجاتا"
+}

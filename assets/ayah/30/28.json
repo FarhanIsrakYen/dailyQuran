@@ -1,0 +1,42 @@
+{
+    "surahName": "Ar-Room",
+    "surahNameArabic": "الروم",
+    "surahNameArabicLong": "سورة الروم",
+    "surahNameTranslation": "The Romans",
+    "revelationPlace": "Mecca",
+    "totalAyah": 60,
+    "surahNo": 30,
+    "ayahNo": 28,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/30_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/030028.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/30_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/030028.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/30_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/030028.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/30_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/030028.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/30_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/030028.mp3"
+        }
+    },
+    "english": "He sets forth for you an example ˹drawn˺ from your own lives: would you allow some of those ˹bondspeople˺ in your possession to be your equal partners in whatever ˹wealth˺ We have provided you, keeping them in mind as you are mindful of your peers? This is how We make the signs clear for people who understand.",
+    "arabic1": "ضَرَبَ لَكُم مَّثَلًا مِّنْ أَنفُسِكُمْ ۖ هَل لَّكُم مِّن مَّا مَلَكَتْ أَيْمَـٰنُكُم مِّن شُرَكَآءَ فِى مَا رَزَقْنَـٰكُمْ فَأَنتُمْ فِيهِ سَوَآءٌ تَخَافُونَهُمْ كَخِيفَتِكُمْ أَنفُسَكُمْ ۚ كَذَٰلِكَ نُفَصِّلُ ٱلْـَٔايَـٰتِ لِقَوْمٍ يَعْقِلُونَ",
+    "arabic2": "ضرب لكم مثلا من انفسكم هل لكم من ما ملكت ايمانكم من شركاء في ما رزقناكم فانتم فيه سواء تخافونهم كخيفتكم انفسكم كذلك نفصل الايات لقوم يعقلون",
+    "bengali": "তিনি তোমাদের জন্য তোমাদের মধ্য থেকে একটি উপমা বর্ণনা করেছেন; আমি তোমাদেরকে যে রিয্ক দিয়েছি তাতে তোমাদের অধিকারভুক্ত দাস-দাসীরা কি অংশীদার? ফলে তোমরা কি এ বিষয়ে সমান? তোমরা কি তাদেরকে তেমনভাবে ভয় কর যেমনভাবে ভয় কর তোমাদের পরস্পরকে*? এভাবেই আমি নিদর্শনাবলী বিস্তারিত বর্ণনা করেছি সে কওমের জন্য যারা উপলব্ধি করে। \n* দাস-দাসীরা মনিবের সম্পদের অংশীদার হয় না এবং মনিবরা তাদেরকে ভয়ও করে না। তেমনিভাবে সারা জাহানের মালিক আল্লাহর সাথে কারো অংশিদারিত্ব হতে পারে না।",
+    "urdu": "وہ تمہارے لئے تمہارے ہی حال کی ایک مثال بیان فرماتا ہے کہ بھلا جن (لونڈی غلاموں) کے تم مالک ہو وہ اس (مال) میں جو ہم نے تم کو عطا فرمایا ہے تمہارے شریک ہیں، اور (کیا )تم اس میں (اُن کو اپنے) برابر (مالک سمجھتے) ہو( اور کیا) تم اُن سے اس طرح ڈرتے ہو جس طرح اپنوں سے ڈرتے ہو، اسی طرح عقل والوں کے لئے اپنی آیتیں کھول کھول کر بیان کرتے ہیں"
+}

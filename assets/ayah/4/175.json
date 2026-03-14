@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 175,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/4_175.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/004175.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/4_175.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/004175.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/4_175.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/004175.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/4_175.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/004175.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/4_175.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/004175.mp3"
+        }
+    },
+    "english": "As for those who believe in Allah and hold fast to Him, He will admit them into His mercy and grace and guide them to Himself through the Straight Path.",
+    "arabic1": "فَأَمَّا ٱلَّذِينَ ءَامَنُوا۟ بِٱللَّهِ وَٱعْتَصَمُوا۟ بِهِۦ فَسَيُدْخِلُهُمْ فِى رَحْمَةٍ مِّنْهُ وَفَضْلٍ وَيَهْدِيهِمْ إِلَيْهِ صِرَٰطًا مُّسْتَقِيمًا",
+    "arabic2": "فاما الذين امنوا بالله واعتصموا به فسيدخلهم في رحمة منه وفضل ويهديهم اليه صراطا مستقيما",
+    "bengali": "অতঃপর যারা আল্লাহর প্রতি ঈমান এনেছে এবং তাকে আঁকড়ে ধরেছে তিনি অবশ্যই তাদেরকে তাঁর পক্ষ থেকে দয়া ও অনুগ্রহে প্রবেশ করাবেন এবং তাঁর দিকে সরল পথ দেখাবেন।",
+    "urdu": "پس جو لوگ خدا پر ایمان لائے اور اس (کے دین کی رسی) کو مضبوط پکڑے رہے ان کو وہ اپنی رحمت اور فضل (کے بہشتوں) میں داخل کرے گا۔ اور اپنی طرف (پہچنے کا) سیدھا رستہ دکھائے گا"
+}

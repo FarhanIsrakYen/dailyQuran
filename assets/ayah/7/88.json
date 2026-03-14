@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 88,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/7_88.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/007088.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/7_88.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/007088.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/7_88.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/007088.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/7_88.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/007088.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/7_88.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/007088.mp3"
+        }
+    },
+    "english": "The arrogant chiefs of his people threatened, “O Shu’aib! We will certainly expel you and your fellow believers from our land, unless you return to our faith.” He replied, “Even if we hate it?",
+    "arabic1": "۞ قَالَ ٱلْمَلَأُ ٱلَّذِينَ ٱسْتَكْبَرُوا۟ مِن قَوْمِهِۦ لَنُخْرِجَنَّكَ يَـٰشُعَيْبُ وَٱلَّذِينَ ءَامَنُوا۟ مَعَكَ مِن قَرْيَتِنَآ أَوْ لَتَعُودُنَّ فِى مِلَّتِنَا ۚ قَالَ أَوَلَوْ كُنَّا كَـٰرِهِينَ",
+    "arabic2": "قال الملا الذين استكبروا من قومه لنخرجنك يا شعيب والذين امنوا معك من قريتنا او لتعودن في ملتنا قال اولو كنا كارهين",
+    "bengali": "তার কওম থেকে যে নেতৃবৃন্দ অহঙ্কার করেছিল তারা বলল, ‘হে শু‘আইব, আমরা তোমাকে ও তোমার সাথে যারা ঈমান এনেছে তাদেরকে অবশ্যই আমাদের জনপদ থেকে বের করে দেব অথবা তোমরা আমাদের ধর্মে ফিরে আসবে।’ সে বলল, ‘যদিও আমরা তা অপছন্দ করি তবুও?’",
+    "urdu": "(تو) ان کی قوم میں جو لوگ سردار اور بڑے آدمی تھے، وہ کہنے لگے کہ شعیب! (یا تو) ہم تم کو اور جو لوگ تمہارے ساتھ ایمان لائے ہیں، ان کو اپنے شہر سے نکال دیں گے۔ یا تم ہمارے مذہب میں آجاؤ۔ انہوں نے کہا خواہ ہم (تمہارے دین سے) بیزار ہی ہوں (تو بھی؟)"
+}

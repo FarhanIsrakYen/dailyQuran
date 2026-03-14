@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 22,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/9_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/009022.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/9_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/009022.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/9_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/009022.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/9_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/009022.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/9_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/009022.mp3"
+        }
+    },
+    "english": "to stay there for ever and ever. Surely with Allah is a great reward.",
+    "arabic1": "خَـٰلِدِينَ فِيهَآ أَبَدًا ۚ إِنَّ ٱللَّهَ عِندَهُۥٓ أَجْرٌ عَظِيمٌ",
+    "arabic2": "خالدين فيها ابدا ان الله عنده اجر عظيم",
+    "bengali": "তথায় তারা থাকবে চিরকাল। নিশ্চয় আল্লাহর কাছে রয়েছে মহাপুরস্কার।",
+    "urdu": "(اور وہ) ان میں ابدالاآباد رہیں گے۔ کچھ شک نہیں کہ خدا کے ہاں بڑا صلہ (تیار) ہے"
+}

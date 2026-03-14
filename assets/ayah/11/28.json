@@ -1,0 +1,42 @@
+{
+    "surahName": "Hud",
+    "surahNameArabic": "هود",
+    "surahNameArabicLong": "سورة هود",
+    "surahNameTranslation": "Hud",
+    "revelationPlace": "Mecca",
+    "totalAyah": 123,
+    "surahNo": 11,
+    "ayahNo": 28,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/11_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/011028.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/11_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/011028.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/11_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/011028.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/11_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/011028.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/11_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/011028.mp3"
+        }
+    },
+    "english": "He said, “O my people! Consider if I stand on a clear proof from my Lord and He has blessed me with a mercy from Himself, which you fail to see. Should we ˹then˺ force it on you against your will?",
+    "arabic1": "قَالَ يَـٰقَوْمِ أَرَءَيْتُمْ إِن كُنتُ عَلَىٰ بَيِّنَةٍ مِّن رَّبِّى وَءَاتَىٰنِى رَحْمَةً مِّنْ عِندِهِۦ فَعُمِّيَتْ عَلَيْكُمْ أَنُلْزِمُكُمُوهَا وَأَنتُمْ لَهَا كَـٰرِهُونَ",
+    "arabic2": "قال يا قوم ارايتم ان كنت على بينة من ربي واتاني رحمة من عنده فعميت عليكم انلزمكموها وانتم لها كارهون",
+    "bengali": "সে বলল, ‘হে আমার কওম, তোমরা কি মনে কর, যদি আমি আমার রবের পক্ষ থেকে প্রেরিত প্রমাণের উপর প্রতিষ্ঠিত হই এবং তিনি আমাকে তাঁর পক্ষ থেকে রহমত দিয়ে থাকেন, আর তা তোমাদের কাছে গোপন রাখা হয়, তবে কি আমি তোমাদের উপর তোমাদের অপছন্দ হওয়া সত্ত্বেও তা চাপিয়ে দেব’?",
+    "urdu": "انہوں نے کہا کہ اے قوم! دیکھو تو اگر میں اپنے پروردگار کی طرف سے دلیل (روشن) رکھتا ہوں اور اس نے مجھے اپنے ہاں سے رحمت بخشی ہو جس کی حقیقت تم سے پوشیدہ رکھی گئی ہے۔ تو کیا ہم اس کے لیے تمہیں مجبور کرسکتے ہیں اور تم ہو کہ اس سے ناخوش ہو رہے ہو"
+}

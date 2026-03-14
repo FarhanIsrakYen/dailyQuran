@@ -1,0 +1,42 @@
+{
+    "surahName": "Ash-Shu'araa",
+    "surahNameArabic": "الشعراء",
+    "surahNameArabicLong": "سورة الشعراء",
+    "surahNameTranslation": "The Poets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 227,
+    "surahNo": 26,
+    "ayahNo": 62,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/26_62.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/026062.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/26_62.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/026062.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/26_62.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/026062.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/26_62.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/026062.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/26_62.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/026062.mp3"
+        }
+    },
+    "english": "Moses reassured ˹them˺, “Absolutely not! My Lord is certainly with me—He will guide me.”",
+    "arabic1": "قَالَ كَلَّآ ۖ إِنَّ مَعِىَ رَبِّى سَيَهْدِينِ",
+    "arabic2": "قال كلا ان معي ربي سيهدين",
+    "bengali": "মূসা বলল, ‘কক্ষনো নয়; আমার সাথে আমার রব রয়েছেন। নিশ্চয় অচিরেই তিনি আমাকে পথনির্দেশ দেবেন’।",
+    "urdu": "موسیٰ نے کہا ہرگز نہیں میرا پروردگار میرے ساتھ ہے وہ مجھے رستہ بتائے گا"
+}

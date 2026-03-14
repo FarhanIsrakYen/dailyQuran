@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Ankaboot",
+    "surahNameArabic": "العنكبوت",
+    "surahNameArabicLong": "سورة العنكبوت",
+    "surahNameTranslation": "The Spider",
+    "revelationPlace": "Mecca",
+    "totalAyah": 69,
+    "surahNo": 29,
+    "ayahNo": 12,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/29_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/029012.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/29_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/029012.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/29_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/029012.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/29_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/029012.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/29_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/029012.mp3"
+        }
+    },
+    "english": "The disbelievers say to the believers, “˹Just˺ follow our way, and we will bear ˹the burden of˺ your sins.” But they would never ˹want to˺ bear any of the believers’ sins. They are simply lying.",
+    "arabic1": "وَقَالَ ٱلَّذِينَ كَفَرُوا۟ لِلَّذِينَ ءَامَنُوا۟ ٱتَّبِعُوا۟ سَبِيلَنَا وَلْنَحْمِلْ خَطَـٰيَـٰكُمْ وَمَا هُم بِحَـٰمِلِينَ مِنْ خَطَـٰيَـٰهُم مِّن شَىْءٍ ۖ إِنَّهُمْ لَكَـٰذِبُونَ",
+    "arabic2": "وقال الذين كفروا للذين امنوا اتبعوا سبيلنا ولنحمل خطاياكم وما هم بحاملين من خطاياهم من شيء انهم لكاذبون",
+    "bengali": "আর কাফিররা মুমিনদেরকে বলে, ‘তোমরা আমাদের পথ অনুসরণ কর এবং যেন আমরা তোমাদের পাপ বহন করি।’ অথচ তারা তাদের পাপের কিছুই বহন করবে না। নিশ্চয় তারা মিথ্যাবাদী।",
+    "urdu": "اور جو کافر ہیں وہ مومنوں سے کہتے ہیں کہ ہمارے طریق کی پیروی کرو ہم تمہارے گناہ اُٹھالیں گے۔ حالانکہ وہ اُن کے گناہوں کا کچھ بھی بوجھ اُٹھانے والے نہیں۔ کچھ شک نہیں کہ یہ جھوٹے ہیں"
+}

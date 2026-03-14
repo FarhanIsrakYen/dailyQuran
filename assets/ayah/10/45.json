@@ -1,0 +1,42 @@
+{
+    "surahName": "Yunus",
+    "surahNameArabic": "يونس",
+    "surahNameArabicLong": "سورة يونس",
+    "surahNameTranslation": "Jonas",
+    "revelationPlace": "Mecca",
+    "totalAyah": 109,
+    "surahNo": 10,
+    "ayahNo": 45,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/10_45.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/010045.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/10_45.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/010045.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/10_45.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/010045.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/10_45.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/010045.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/10_45.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/010045.mp3"
+        }
+    },
+    "english": "On the Day He will gather them, it will be as if they had not stayed ˹in the world˺ except for an hour of a day, ˹as though they were only˺ getting to know one another. Lost indeed will be those who denied the meeting with Allah, and were not ˹rightly˺ guided!",
+    "arabic1": "وَيَوْمَ يَحْشُرُهُمْ كَأَن لَّمْ يَلْبَثُوٓا۟ إِلَّا سَاعَةً مِّنَ ٱلنَّهَارِ يَتَعَارَفُونَ بَيْنَهُمْ ۚ قَدْ خَسِرَ ٱلَّذِينَ كَذَّبُوا۟ بِلِقَآءِ ٱللَّهِ وَمَا كَانُوا۟ مُهْتَدِينَ",
+    "arabic2": "ويوم يحشرهم كان لم يلبثوا الا ساعة من النهار يتعارفون بينهم قد خسر الذين كذبوا بلقاء الله وما كانوا مهتدين",
+    "bengali": "আর যেদিন তিনি তাদেরকে একত্র করবেন, যেন তারা দিবসের মুহূর্তকালমাত্র অবস্থান করেছে। তারা একে অপরকে চিনতে পারবে। তারা অবশ্যই ক্ষতিগ্রস্ত হয়েছে, যারা আল্লাহর সাক্ষাৎ অস্বীকার করেছে, আর তারা হিদায়াতপ্রাপ্ত ছিল না।",
+    "urdu": "اور جس دن خدا ان کو جمع کرے گا (تو وہ دنیا کی نسبت ایسا خیال کریں گے کہ) گویا (وہاں) گھڑی بھر دن سے زیادہ رہے ہی نہیں تھے (اور) آپس میں ایک دوسرے کو شناخت بھی کریں گے۔ جن لوگوں نے خدا کے روبرو حاضر ہونے کو جھٹلایا وہ خسارے میں پڑ گئے اور راہ یاب نہ ہوئے"
+}

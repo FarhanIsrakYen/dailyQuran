@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 150,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_150.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002150.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_150.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002150.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_150.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002150.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_150.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002150.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_150.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002150.mp3"
+        }
+    },
+    "english": "Wherever you are ˹O Prophet˺, turn your face towards the Sacred Mosque. And wherever you ˹believers˺ are, face towards it, so that people will have no argument against you, except the wrongdoers among them. Do not fear them; fear Me, so that I may ˹continue to˺ perfect My favour upon you and so you may be ˹rightly˺ guided.",
+    "arabic1": "وَمِنْ حَيْثُ خَرَجْتَ فَوَلِّ وَجْهَكَ شَطْرَ ٱلْمَسْجِدِ ٱلْحَرَامِ ۚ وَحَيْثُ مَا كُنتُمْ فَوَلُّوا۟ وُجُوهَكُمْ شَطْرَهُۥ لِئَلَّا يَكُونَ لِلنَّاسِ عَلَيْكُمْ حُجَّةٌ إِلَّا ٱلَّذِينَ ظَلَمُوا۟ مِنْهُمْ فَلَا تَخْشَوْهُمْ وَٱخْشَوْنِى وَلِأُتِمَّ نِعْمَتِى عَلَيْكُمْ وَلَعَلَّكُمْ تَهْتَدُونَ",
+    "arabic2": "ومن حيث خرجت فول وجهك شطر المسجد الحرام وحيث ما كنتم فولوا وجوهكم شطره لئلا يكون للناس عليكم حجة الا الذين ظلموا منهم فلا تخشوهم واخشوني ولاتم نعمتي عليكم ولعلكم تهتدون",
+    "bengali": "আর তুমি যেখান থেকেই বের হও, তোমার চেহারা মাসজিদুল হারামের দিকে ফিরাও এবং তোমরা যেখানেই থাক, তার দিকে তোমাদের চেহারা ফিরাও, যাতে তোমাদের বিপক্ষে মানুষের বিতর্ক করার কিছু না থাকে। তবে তাদের মধ্য থেকে যারা যুলম করেছে, তারা ছাড়া। সুতরাং তোমরা তাদেরকে ভয় করো না, আমাকে ভয় কর। আর যাতে আমি আমার নিআমত তোমাদের উপর পূর্ণ করতে পারি এবং যাতে তোমরা হিদায়াতপ্রাপ্ত হও।",
+    "urdu": "اور تم جہاں سے نکلو، مسجدِ محترم کی طرف منہ (کرکے نماز پڑھا) کرو۔ اور مسلمانو، تم جہاں ہوا کرو، اسی (مسجد) کی طرف رخ کیا کرو۔ (یہ تاکید) اس لیے (کی گئی ہے) کہ لوگ تم کو کسی طرح کا الزام نہ دے سکیں۔ مگر ان میں سے جو ظالم ہیں، (وہ الزام دیں تو دیں) سو ان سے مت ڈرنا اور مجھی سے ڈرتے رہنا۔ اور یہ بھی مقصود ہے کہ تم کو اپنی تمام نعمتیں بخشوں اور یہ بھی کہ تم راہِ راست پر چلو"
+}

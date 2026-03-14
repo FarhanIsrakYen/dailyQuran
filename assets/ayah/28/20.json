@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Qasas",
+    "surahNameArabic": "القصص",
+    "surahNameArabicLong": "سورة القصص",
+    "surahNameTranslation": "The Stories",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 28,
+    "ayahNo": 20,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/28_20.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/028020.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/28_20.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/028020.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/28_20.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/028020.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/28_20.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/028020.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/28_20.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/028020.mp3"
+        }
+    },
+    "english": "And there came a man, rushing from the farthest end of the city. He said, “O Moses! The chiefs are actually conspiring against you to put you to death, so leave ˹the city˺. I really advise you ˹to do so˺.”",
+    "arabic1": "وَجَآءَ رَجُلٌ مِّنْ أَقْصَا ٱلْمَدِينَةِ يَسْعَىٰ قَالَ يَـٰمُوسَىٰٓ إِنَّ ٱلْمَلَأَ يَأْتَمِرُونَ بِكَ لِيَقْتُلُوكَ فَٱخْرُجْ إِنِّى لَكَ مِنَ ٱلنَّـٰصِحِينَ",
+    "arabic2": "وجاء رجل من اقصى المدينة يسعى قال يا موسى ان الملا ياتمرون بك ليقتلوك فاخرج اني لك من الناصحين",
+    "bengali": "আর শহরের দূরপ্রান্ত থেকে একজন লোক ছুটে আসল। সে বলল, ‘হে মূসা, নিশ্চয় পারিষদবর্গ তোমাকে হত্যার পরামর্শ করছে, তাই তুমি বেরিয়ে যাও, নিশ্চয় আমি তোমার জন্য কল্যাণকামীদের একজন’।",
+    "urdu": "اور ایک شخص شہر کی پرلی طرف سے دوڑتا ہوا آیا (اور) بولا کہ موسٰی (شہر کے) رئیس تمہارے بارے میں صلاحیں کرتے ہیں کہ تم کو مار ڈالیں سو تم یہاں سے نکل جاؤ۔ میں تمہارا خیر خواہ ہوں"
+}

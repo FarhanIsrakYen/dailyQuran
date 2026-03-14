@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Talaaq",
+    "surahNameArabic": "الطلاق",
+    "surahNameArabicLong": "سورة الطلاق",
+    "surahNameTranslation": "Divorce",
+    "revelationPlace": "Madina",
+    "totalAyah": 12,
+    "surahNo": 65,
+    "ayahNo": 6,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/65_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/065006.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/65_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/065006.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/65_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/065006.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/65_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/065006.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/65_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/065006.mp3"
+        }
+    },
+    "english": "Let them live where you live ˹during their waiting period˺, according to your means. And do not harass them to make their stay unbearable. If they are pregnant, then maintain them until they deliver. And if they nurse your child, compensate them, and consult together courteously. But if you fail to reach an agreement, then another woman will nurse ˹the child˺ for the father.",
+    "arabic1": "أَسْكِنُوهُنَّ مِنْ حَيْثُ سَكَنتُم مِّن وُجْدِكُمْ وَلَا تُضَآرُّوهُنَّ لِتُضَيِّقُوا۟ عَلَيْهِنَّ ۚ وَإِن كُنَّ أُو۟لَـٰتِ حَمْلٍ فَأَنفِقُوا۟ عَلَيْهِنَّ حَتَّىٰ يَضَعْنَ حَمْلَهُنَّ ۚ فَإِنْ أَرْضَعْنَ لَكُمْ فَـَٔاتُوهُنَّ أُجُورَهُنَّ ۖ وَأْتَمِرُوا۟ بَيْنَكُم بِمَعْرُوفٍ ۖ وَإِن تَعَاسَرْتُمْ فَسَتُرْضِعُ لَهُۥٓ أُخْرَىٰ",
+    "arabic2": "اسكنوهن من حيث سكنتم من وجدكم ولا تضاروهن لتضيقوا عليهن وان كن اولات حمل فانفقوا عليهن حتى يضعن حملهن فان ارضعن لكم فاتوهن اجورهن واتمروا بينكم بمعروف وان تعاسرتم فسترضع له اخرى",
+    "bengali": "তোমাদের সামর্থ্য অনুযায়ী যেখানে তোমরা বসবাস কর সেখানে তাদেরকেও বাস করতে দাও, তাদেরকে সঙ্কটে ফেলার জন্য কষ্ট দিয়ো না। আর তারা গর্ভবতী হলে তাদের সন্তান প্রসব করা পর্যন্ত তাদের জন্য তোমরা ব্যয় কর; আর তারা তোমাদের জন্য সন্তানকে দুধ পান করালে তাদের পাওনা তাদেরকে দিয়ে দাও এবং (সন্তানের কল্যাণের জন্য) সংগতভাবে তোমাদের মাঝে পরস্পর পরামর্শ কর। আর যদি তোমরা পরস্পর কঠোর হও তবে পিতার পক্ষে অন্য কোন নারী দুধপান করাবে।",
+    "urdu": "عورتوں کو (ایام عدت میں) اپنے مقدور کے مطابق وہیں رکھو جہاں خود رہتے ہو اور ان کو تنگ کرنے کے لئے تکلیف نہ دو اور اگر حمل سے ہوں تو بچّہ جننے تک ان کا خرچ دیتے رہو۔ پھر اگر وہ بچّے کو تمہارے کہنے سے دودھ پلائیں تو ان کو ان کی اجرت دو۔ اور (بچّے کے بارے میں) پسندیدہ طریق سے مواقفت رکھو۔ اور اگر باہم ضد (اور نااتفاقی) کرو گے تو (بچّے کو) اس کے (باپ کے) کہنے سے کوئی اور عورت دودھ پلائے گی"
+}

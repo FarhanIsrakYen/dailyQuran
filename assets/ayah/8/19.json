@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Anfaal",
+    "surahNameArabic": "الأنفال",
+    "surahNameArabicLong": "سورة الأنفال",
+    "surahNameTranslation": "The Spoils of War",
+    "revelationPlace": "Madina",
+    "totalAyah": 75,
+    "surahNo": 8,
+    "ayahNo": 19,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/8_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/008019.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/8_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/008019.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/8_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/008019.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/8_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/008019.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/8_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/008019.mp3"
+        }
+    },
+    "english": "If you ˹Meccans˺ sought judgment, now it has come to you. And if you cease, it will be for your own good. But if you persist, We will persist. And your forces—no matter how numerous they might be—will not benefit you whatsoever. For Allah is certainly with the believers.",
+    "arabic1": "إِن تَسْتَفْتِحُوا۟ فَقَدْ جَآءَكُمُ ٱلْفَتْحُ ۖ وَإِن تَنتَهُوا۟ فَهُوَ خَيْرٌ لَّكُمْ ۖ وَإِن تَعُودُوا۟ نَعُدْ وَلَن تُغْنِىَ عَنكُمْ فِئَتُكُمْ شَيْـًٔا وَلَوْ كَثُرَتْ وَأَنَّ ٱللَّهَ مَعَ ٱلْمُؤْمِنِينَ",
+    "arabic2": "ان تستفتحوا فقد جاءكم الفتح وان تنتهوا فهو خير لكم وان تعودوا نعد ولن تغني عنكم فئتكم شيئا ولو كثرت وان الله مع المؤمنين",
+    "bengali": "যদি তোমরা বিজয় কামনা করে থাক, তাহলে তো তোমাদের নিকট বিজয় এসে গিয়েছে। আর যদি তোমরা বিরত হও, তাহলে সেটি তোমাদের জন্য কল্যাণকর। আর যদি তোমরা পুনরায় কর, তাহলে আমিও পুনরায় করব এবং তোমাদের দল কখনো তোমাদের কোন উপকারে আসবে না যদিও তা অধিক হয়। আর নিশ্চয় আল্লাহ মুমিনদের সাথে আছেন।",
+    "urdu": "(کافرو) اگر تم (محمد صلی الله علیہ وآلہ وسلم پر) فتح چاہتے ہو تو تمہارے پاس فتح آچکی۔ (دیکھو) اگر تم (اپنے افعال سے) باز آجاؤ تو تمہارے حق میں بہتر ہے۔ اور اگر پھر (نافرمانی) کرو گے تو ہم بھی پھر تمہیں عذاب کریں گے اور تمہاری جماعت خواہ کتنی ہی کثیر ہو تمہارے کچھ بھی کام نہ آئے گی۔ اور خدا تو مومنوں کے ساتھ ہے"
+}

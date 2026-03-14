@@ -1,0 +1,42 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 183,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/3_183.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/003183.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/3_183.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/003183.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/3_183.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/003183.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/3_183.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/003183.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/3_183.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/003183.mp3"
+        }
+    },
+    "english": "Those ˹are the same people˺ who say, “Allah has commanded us not to believe in any messenger unless he brings us an offering to be consumed by fire ˹from the sky˺.” Say, ˹O Prophet,˺ “Other prophets did in fact come to you before me with clear proofs and ˹even˺ what you demanded—why then did you kill them, if what you say is true?”",
+    "arabic1": "ٱلَّذِينَ قَالُوٓا۟ إِنَّ ٱللَّهَ عَهِدَ إِلَيْنَآ أَلَّا نُؤْمِنَ لِرَسُولٍ حَتَّىٰ يَأْتِيَنَا بِقُرْبَانٍ تَأْكُلُهُ ٱلنَّارُ ۗ قُلْ قَدْ جَآءَكُمْ رُسُلٌ مِّن قَبْلِى بِٱلْبَيِّنَـٰتِ وَبِٱلَّذِى قُلْتُمْ فَلِمَ قَتَلْتُمُوهُمْ إِن كُنتُمْ صَـٰدِقِينَ",
+    "arabic2": "الذين قالوا ان الله عهد الينا الا نؤمن لرسول حتى ياتينا بقربان تاكله النار قل قد جاءكم رسل من قبلي بالبينات وبالذي قلتم فلم قتلتموهم ان كنتم صادقين",
+    "bengali": "যারা বলে, ‘নিশ্চয় আল্লাহ আমাদেরকে অঙ্গীকার দিয়েছিলেন যে, আমরা যেন কোন রাসূলের প্রতি বিশ্বাস না করি, যতক্ষণ না সে আমাদের নিকট নিয়ে আসে এমন কুরবানী যাকে আগুন খেয়ে ফেলবে’। বল, ‘আমার পূর্বে রাসূলগণ তোমাদের নিকট এসেছে স্পষ্ট প্রমাণসমূহ নিয়ে এবং তোমরা যা বলছ তা নিয়ে। সুতরাং তোমরা তাদেরকে কেন হত্যা করেছিলে যদি তোমরা সত্যবাদী হয়ে থাক’?",
+    "urdu": "جو لوگ کہتے ہی کہ خدا نے ہمیں حکم بھیجا ہے کہ جب تک کوئی پیغمبر ہمارے پاس ایسی نیاز لے کر نہ آئے جس کو آگ آکر کھا جائے تب تک ہم اس پر ایمان نہ لائیں گے (اے پیغمبر ان سے) کہہ دو کہ مجھ سے پہلے کئی پیغمبر تمہارے پاس کھلی ہوئی نشانیاں لے کر آئے اور وہ (معجزہ) بھی لائے جو تم کہتے ہو تو اگر سچے ہو تو تم نے ان کو قتل کیوں کیا؟"
+}

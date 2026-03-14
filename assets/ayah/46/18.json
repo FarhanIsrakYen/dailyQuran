@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Ahqaf",
+    "surahNameArabic": "الأحقاف",
+    "surahNameArabicLong": "سورة الأحقاف",
+    "surahNameTranslation": "The Dunes",
+    "revelationPlace": "Mecca",
+    "totalAyah": 35,
+    "surahNo": 46,
+    "ayahNo": 18,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/46_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/046018.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/46_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/046018.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/46_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/046018.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/46_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/046018.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/46_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/046018.mp3"
+        }
+    },
+    "english": "These are the ones against whom the fate of earlier communities of jinn and humans has been justified, ˹for˺ they were truly losers.",
+    "arabic1": "أُو۟لَـٰٓئِكَ ٱلَّذِينَ حَقَّ عَلَيْهِمُ ٱلْقَوْلُ فِىٓ أُمَمٍ قَدْ خَلَتْ مِن قَبْلِهِم مِّنَ ٱلْجِنِّ وَٱلْإِنسِ ۖ إِنَّهُمْ كَانُوا۟ خَـٰسِرِينَ",
+    "arabic2": "اولئك الذين حق عليهم القول في امم قد خلت من قبلهم من الجن والانس انهم كانوا خاسرين",
+    "bengali": "তাদের পূর্বে যে জিন ও মানবজাতি গত হয়ে গেছে, তাদের মত এদের প্রতিও আল্লাহর বাণী সত্য হয়েছে। নিশ্চয় এরা ছিল ক্ষতিগ্রস্ত।",
+    "urdu": "یہی وہ لوگ ہیں جن کے بارے میں جنوں اور انسانوں کی (دوسری) اُمتوں میں سے جو ان سے پہلے گزر چکیں عذاب کا وعدہ متحقق ہوگیا۔ بےشک وہ نقصان اٹھانے والے تھے"
+}

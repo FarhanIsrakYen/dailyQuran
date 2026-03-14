@@ -1,0 +1,42 @@
+{
+    "surahName": "Saad",
+    "surahNameArabic": "ص",
+    "surahNameArabicLong": "سورة ص",
+    "surahNameTranslation": "The letter Saad",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 38,
+    "ayahNo": 44,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/38_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/038044.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/38_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/038044.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/38_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/038044.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/38_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/038044.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/38_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/038044.mp3"
+        }
+    },
+    "english": "˹And We said to him,˺ “Take in your hand a bundle of grass, and strike ˹your wife˺ with it, and do not break your oath.” We truly found him patient. What an excellent servant ˹he was˺! Indeed, he ˹constantly˺ turned ˹to Allah˺.",
+    "arabic1": "وَخُذْ بِيَدِكَ ضِغْثًا فَٱضْرِب بِّهِۦ وَلَا تَحْنَثْ ۗ إِنَّا وَجَدْنَـٰهُ صَابِرًا ۚ نِّعْمَ ٱلْعَبْدُ ۖ إِنَّهُۥٓ أَوَّابٌ",
+    "arabic2": "وخذ بيدك ضغثا فاضرب به ولا تحنث انا وجدناه صابرا نعم العبد انه اواب",
+    "bengali": "আর তুমি তোমার হাতে এক মুঠো তৃণলতা নাও এবং তা দিয়ে আঘাত কর। আর কসম ভংগ করো না। নিশ্চয় আমি তাকে ধৈর্যশীল পেয়েছি। সে কতই না উত্তম বান্দা! নিশ্চয়ই সে ছিল আমার অভিমুখী।",
+    "urdu": "اور اپنے ہاتھ میں جھاڑو لو اور اس سے مارو اور قسم نہ توڑو۔ بےشک ہم نے ان کو ثابت قدم پایا۔ بہت خوب بندے تھے بےشک وہ رجوع کرنے والے تھے"
+}

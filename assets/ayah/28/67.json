@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Qasas",
+    "surahNameArabic": "القصص",
+    "surahNameArabicLong": "سورة القصص",
+    "surahNameTranslation": "The Stories",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 28,
+    "ayahNo": 67,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/28_67.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/028067.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/28_67.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/028067.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/28_67.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/028067.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/28_67.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/028067.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/28_67.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/028067.mp3"
+        }
+    },
+    "english": "As for those who repent, believe, and do good ˹in this world˺, it is right to hope that they will be among the successful.",
+    "arabic1": "فَأَمَّا مَن تَابَ وَءَامَنَ وَعَمِلَ صَـٰلِحًا فَعَسَىٰٓ أَن يَكُونَ مِنَ ٱلْمُفْلِحِينَ",
+    "arabic2": "فاما من تاب وامن وعمل صالحا فعسى ان يكون من المفلحين",
+    "bengali": "তবে যে তাওবা করেছিল, ঈমান এনেছিল এবং সৎকর্ম করেছিল, আশা করা যায় সে সাফল্য অর্জনকারীদের অন্তর্ভুক্ত হবে।",
+    "urdu": "لیکن جس نے توبہ کی اور ایمان لایا اور عمل نیک کئے تو اُمید ہے کہ وہ نجات پانے والوں میں ہو"
+}

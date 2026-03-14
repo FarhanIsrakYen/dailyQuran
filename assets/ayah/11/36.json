@@ -1,0 +1,42 @@
+{
+    "surahName": "Hud",
+    "surahNameArabic": "هود",
+    "surahNameArabicLong": "سورة هود",
+    "surahNameTranslation": "Hud",
+    "revelationPlace": "Mecca",
+    "totalAyah": 123,
+    "surahNo": 11,
+    "ayahNo": 36,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/11_36.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/011036.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/11_36.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/011036.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/11_36.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/011036.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/11_36.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/011036.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/11_36.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/011036.mp3"
+        }
+    },
+    "english": "And it was revealed to Noah, “None of your people will believe except those who already have. So do not be distressed by what they have been doing.",
+    "arabic1": "وَأُوحِىَ إِلَىٰ نُوحٍ أَنَّهُۥ لَن يُؤْمِنَ مِن قَوْمِكَ إِلَّا مَن قَدْ ءَامَنَ فَلَا تَبْتَئِسْ بِمَا كَانُوا۟ يَفْعَلُونَ",
+    "arabic2": "واوحي الى نوح انه لن يؤمن من قومك الا من قد امن فلا تبتئس بما كانوا يفعلون",
+    "bengali": "আর নূহের কাছে ওহী পাঠানো হল যে, ‘যারা ঈমান এনেছে, তারা ছাড়া তোমার কওমের আর কেউ ঈমান আনবে না। সুতরাং তারা যা করে সে জন্য তুমি দুঃখিত হয়ো না’।",
+    "urdu": "اور نوح کی طرف وحی کی گئی کہ تمہاری قوم میں جو لوگ ایمان (لاچکے)، ان کے سوا کوئی اور ایمان نہیں لائے گا تو جو کام یہ کر رہے ہیں ان کی وجہ سے غم نہ کھاؤ"
+}

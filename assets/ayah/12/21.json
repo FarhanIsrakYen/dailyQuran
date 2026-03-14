@@ -1,0 +1,42 @@
+{
+    "surahName": "Yusuf",
+    "surahNameArabic": "يوسف",
+    "surahNameArabicLong": "سورة يوسف",
+    "surahNameTranslation": "Joseph",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 12,
+    "ayahNo": 21,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/12_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/012021.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/12_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/012021.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/12_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/012021.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/12_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/012021.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/12_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/012021.mp3"
+        }
+    },
+    "english": "The man from Egypt who bought him said to his wife, “Take good care of him, perhaps he may be useful to us or we may adopt him as a son.” This is how We established Joseph in the land, so that We might teach him the interpretation of dreams. Allah’s Will always prevails, but most people do not know.",
+    "arabic1": "وَقَالَ ٱلَّذِى ٱشْتَرَىٰهُ مِن مِّصْرَ لِٱمْرَأَتِهِۦٓ أَكْرِمِى مَثْوَىٰهُ عَسَىٰٓ أَن يَنفَعَنَآ أَوْ نَتَّخِذَهُۥ وَلَدًا ۚ وَكَذَٰلِكَ مَكَّنَّا لِيُوسُفَ فِى ٱلْأَرْضِ وَلِنُعَلِّمَهُۥ مِن تَأْوِيلِ ٱلْأَحَادِيثِ ۚ وَٱللَّهُ غَالِبٌ عَلَىٰٓ أَمْرِهِۦ وَلَـٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ",
+    "arabic2": "وقال الذي اشتراه من مصر لامراته اكرمي مثواه عسى ان ينفعنا او نتخذه ولدا وكذلك مكنا ليوسف في الارض ولنعلمه من تاويل الاحاديث والله غالب على امره ولكن اكثر الناس لا يعلمون",
+    "bengali": "আর মিসরের যে ব্যক্তি তাকে ক্রয় করেছিল, সে তার স্ত্রীকে বলল, ‘এর থাকার সুন্দর সম্মানজনক ব্যবস্থা কর। আশা করা যায়, সে আমাদের উপকার করবে অথবা আমরা তাকে পুত্ররূপে গ্রহণ করব’ এবং এভাবেই আমি যমীনে ইউসুফকে প্রতিষ্ঠিত করলাম এবং যেন আমি তাকে স্বপ্নের ব্যাখ্যা শিক্ষা দেই। আল্লাহ নিজ কর্ম সম্পাদনে প্রবল; কিন্তু অধিকাংশ মানুষ তা জানে না।",
+    "urdu": "اور مصر میں جس شخص نے اس کو خریدا اس نے اپنی بیوی سے (جس کا نام زلیخا تھا) کہا کہ اس کو عزت واکرام سے رکھو عجب نہیں کہ یہ ہمیں فائدہ دے یا ہم اسے بیٹا بنالیں۔ اس طرح ہم نے یوسف کو سرزمین (مصر) میں جگہ دی اور غرض یہ تھی کہ ہم ان کو (خواب کی) باتوں کی تعبیر سکھائیں اور خدا اپنے کام پر غالب ہے لیکن اکثر لوگ نہیں جانتے"
+}

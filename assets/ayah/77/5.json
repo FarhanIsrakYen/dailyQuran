@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Mursalaat",
+    "surahNameArabic": "المرسلات",
+    "surahNameArabicLong": "سورة المرسلات",
+    "surahNameTranslation": "The Emissaries",
+    "revelationPlace": "Mecca",
+    "totalAyah": 50,
+    "surahNo": 77,
+    "ayahNo": 5,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/77_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/077005.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/77_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/077005.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/77_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/077005.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/77_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/077005.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/77_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/077005.mp3"
+        }
+    },
+    "english": "and those delivering revelation",
+    "arabic1": "فَٱلْمُلْقِيَـٰتِ ذِكْرًا",
+    "arabic2": "فالملقيات ذكرا",
+    "bengali": "অতঃপর কসম, উপদেশগ্রন্থ আনয়নকারী (ফেরেশতাদের),",
+    "urdu": "پھر فرشتوں کی قسم جو وحی لاتے ہیں"
+}

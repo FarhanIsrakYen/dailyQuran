@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Anfaal",
+    "surahNameArabic": "الأنفال",
+    "surahNameArabicLong": "سورة الأنفال",
+    "surahNameTranslation": "The Spoils of War",
+    "revelationPlace": "Madina",
+    "totalAyah": 75,
+    "surahNo": 8,
+    "ayahNo": 69,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/8_69.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/008069.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/8_69.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/008069.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/8_69.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/008069.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/8_69.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/008069.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/8_69.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/008069.mp3"
+        }
+    },
+    "english": "Now enjoy what you have taken, for it is lawful and good. And be mindful of Allah. Surely Allah is All-Forgiving, Most Merciful.",
+    "arabic1": "فَكُلُوا۟ مِمَّا غَنِمْتُمْ حَلَـٰلًا طَيِّبًا ۚ وَٱتَّقُوا۟ ٱللَّهَ ۚ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ",
+    "arabic2": "فكلوا مما غنمتم حلالا طيبا واتقوا الله ان الله غفور رحيم",
+    "bengali": "অতএব তোমরা যে গনীমত পেয়েছ, তা থেকে হালাল পবিত্র হিসেবে খাও, আর তোমরা আল্লাহকে ভয় কর। নিশ্চয় আল্লাহ ক্ষমাশীল, পরম দয়ালু।",
+    "urdu": "تو جو مالِ غنیمت تمہیں ملا ہے اسے کھاؤ (کہ وہ تمہارے لیے) حلال طیب رہے اور خدا سے ڈرتے رہو۔ بےشک خدا بخشنے والا مہربان ہے"
+}

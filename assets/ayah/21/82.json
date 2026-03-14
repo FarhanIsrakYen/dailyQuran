@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Anbiyaa",
+    "surahNameArabic": "الأنبياء",
+    "surahNameArabicLong": "سورة الأنبياء",
+    "surahNameTranslation": "The Prophets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 112,
+    "surahNo": 21,
+    "ayahNo": 82,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/21_82.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/021082.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/21_82.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/021082.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/21_82.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/021082.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/21_82.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/021082.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/21_82.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/021082.mp3"
+        }
+    },
+    "english": "And ˹We subjected˺ some jinn that dived for him, and performed other duties. It is We Who kept them in check.",
+    "arabic1": "وَمِنَ ٱلشَّيَـٰطِينِ مَن يَغُوصُونَ لَهُۥ وَيَعْمَلُونَ عَمَلًا دُونَ ذَٰلِكَ ۖ وَكُنَّا لَهُمْ حَـٰفِظِينَ",
+    "arabic2": "ومن الشياطين من يغوصون له ويعملون عملا دون ذلك وكنا لهم حافظين",
+    "bengali": "আর শয়তানদের মধ্যে কতক তার জন্য ডুবুরীর কাজ করত, এছাড়া অন্যান্য কাজও করত। আর আমিই তাদের জন্য হিফাযতকারী ছিলাম।",
+    "urdu": "اور دیوؤں (کی جماعت کو بھی ان کے تابع کردیا تھا کہ ان) میں سے بعض ان کے لئے غوطے مارتے تھے اور اس کے سوا اور کام بھی کرتے تھے اور ہم ان کے نگہبان تھے"
+}

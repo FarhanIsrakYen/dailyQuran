@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 19,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/9_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/009019.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/9_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/009019.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/9_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/009019.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/9_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/009019.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/9_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/009019.mp3"
+        }
+    },
+    "english": "Do you ˹pagans˺ consider providing the pilgrims with water and maintaining the Sacred Mosque as equal to believing in Allah and the Last Day and struggling in the cause of Allah? They are not equal in Allah’s sight. And Allah does not guide the wrongdoing people.",
+    "arabic1": "۞ أَجَعَلْتُمْ سِقَايَةَ ٱلْحَآجِّ وَعِمَارَةَ ٱلْمَسْجِدِ ٱلْحَرَامِ كَمَنْ ءَامَنَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ وَجَـٰهَدَ فِى سَبِيلِ ٱللَّهِ ۚ لَا يَسْتَوُۥنَ عِندَ ٱللَّهِ ۗ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلظَّـٰلِمِينَ",
+    "arabic2": "اجعلتم سقاية الحاج وعمارة المسجد الحرام كمن امن بالله واليوم الاخر وجاهد في سبيل الله لا يستوون عند الله والله لا يهدي القوم الظالمين",
+    "bengali": "তোমরা কি হাজীদের পানি পান করান ও মসজিদুল হারাম আবাদ করাকে ঐ ব্যক্তির মত বিবেচনা কর, যে আল্লাহ ও শেষ দিনের প্রতি ঈমান এনেছে এবং আল্লাহর পথে জিহাদ করেছে। তারা আল্লাহর কাছে বরাবর নয়। আর আল্লাহ যালিম কওমকে হিদায়াত দেন না।",
+    "urdu": "کیا تم نے حاجیوں کو پانی پلانا اور مسجد محترم یعنی (خانہٴ کعبہ) کو آباد کرنا اس شخص کے اعمال جیسا خیال کیا ہے جو خدا اور روز آخرت پر ایمان رکھتا ہے اور خدا کی راہ میں جہاد کرتا ہے۔ یہ لوگ خدا کے نزدیک برابر نہیں ہیں۔ اور خدا ظالم لوگوں کو ہدایت نہیں دیا کرتا"
+}

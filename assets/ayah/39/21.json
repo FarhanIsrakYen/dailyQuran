@@ -1,0 +1,42 @@
+{
+    "surahName": "Az-Zumar",
+    "surahNameArabic": "الزمر",
+    "surahNameArabicLong": "سورة الزمر",
+    "surahNameTranslation": "The Groups",
+    "revelationPlace": "Mecca",
+    "totalAyah": 75,
+    "surahNo": 39,
+    "ayahNo": 21,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/39_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/039021.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/39_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/039021.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/39_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/039021.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/39_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/039021.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/39_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/039021.mp3"
+        }
+    },
+    "english": "Do you not see that Allah sends down rain from the sky—channelling it through streams in the earth—then produces with it crops of various colours, then they dry up and you see them wither, and then He reduces them to chaff? Surely in this is a reminder for people of reason.",
+    "arabic1": "أَلَمْ تَرَ أَنَّ ٱللَّهَ أَنزَلَ مِنَ ٱلسَّمَآءِ مَآءً فَسَلَكَهُۥ يَنَـٰبِيعَ فِى ٱلْأَرْضِ ثُمَّ يُخْرِجُ بِهِۦ زَرْعًا مُّخْتَلِفًا أَلْوَٰنُهُۥ ثُمَّ يَهِيجُ فَتَرَىٰهُ مُصْفَرًّا ثُمَّ يَجْعَلُهُۥ حُطَـٰمًا ۚ إِنَّ فِى ذَٰلِكَ لَذِكْرَىٰ لِأُو۟لِى ٱلْأَلْبَـٰبِ",
+    "arabic2": "الم تر ان الله انزل من السماء ماء فسلكه ينابيع في الارض ثم يخرج به زرعا مختلفا الوانه ثم يهيج فتراه مصفرا ثم يجعله حطاما ان في ذلك لذكرى لاولي الالباب",
+    "bengali": "তুমি কি দেখ না, আল্লাহ আকাশ থেকে পানি বর্ষণ করেন, অতঃপর যমীনে তা প্রস্রবন হিসেবে প্রবাহিত করেন তারপর তা দিয়ে নানা বর্ণের ফসল উৎপন্ন করেন, তারপর তা শুকিয়ে যায়। ফলে তোমরা তা দেখতে পাও হলুদ বর্ণের তারপর তিনি তা খড়-খুটায় পরিণত করেন। এতে অবশ্যই উপদেশ রয়েছে বুদ্ধিমানদের জন্য।",
+    "urdu": "کیا تم نے نہیں دیکھا کہ خدا آسمان سے پانی نازل کرتا پھر اس کو زمین میں چشمے بنا کر جاری کرتا پھر اس سے کھیتی اُگاتا ہے جس کے طرح طرح کے رنگ ہوتے ہیں۔ پھر وہ خشک ہوجاتی ہے تو تم اس کو دیکھتے ہو (کہ) زرد (ہوگئی ہے) پھر اسے چورا چورا کر دیتا ہے۔ بےشک اس میں عقل والوں کے لئے نصیحت ہے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 152,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/3_152.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/003152.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/3_152.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/003152.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/3_152.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/003152.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/3_152.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/003152.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/3_152.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/003152.mp3"
+        }
+    },
+    "english": "Indeed, Allah fulfilled His promise to you when you ˹initially˺ swept them away by His Will, then your courage weakened and you disputed about the command and disobeyed, after Allah had brought victory within your reach. Some of you were after worldly gain while others desired a heavenly reward. He denied you victory over them as a test, yet He has pardoned you. And Allah is Gracious to the believers.",
+    "arabic1": "وَلَقَدْ صَدَقَكُمُ ٱللَّهُ وَعْدَهُۥٓ إِذْ تَحُسُّونَهُم بِإِذْنِهِۦ ۖ حَتَّىٰٓ إِذَا فَشِلْتُمْ وَتَنَـٰزَعْتُمْ فِى ٱلْأَمْرِ وَعَصَيْتُم مِّنۢ بَعْدِ مَآ أَرَىٰكُم مَّا تُحِبُّونَ ۚ مِنكُم مَّن يُرِيدُ ٱلدُّنْيَا وَمِنكُم مَّن يُرِيدُ ٱلْـَٔاخِرَةَ ۚ ثُمَّ صَرَفَكُمْ عَنْهُمْ لِيَبْتَلِيَكُمْ ۖ وَلَقَدْ عَفَا عَنكُمْ ۗ وَٱللَّهُ ذُو فَضْلٍ عَلَى ٱلْمُؤْمِنِينَ",
+    "arabic2": "ولقد صدقكم الله وعده اذ تحسونهم باذنه حتى اذا فشلتم وتنازعتم في الامر وعصيتم من بعد ما اراكم ما تحبون منكم من يريد الدنيا ومنكم من يريد الاخرة ثم صرفكم عنهم ليبتليكم ولقد عفا عنكم والله ذو فضل على المؤمنين",
+    "bengali": "আর আল্লাহ তোমাদের কাছে তাঁর ওয়াদা সত্যে পরিণত করেন, যখন তোমরা তাদেরকে হত্যা করছিলে তাঁর নির্দেশে। অবশেষে যখন তোমরা দুর্বল হয়ে গেলে এবং নির্দেশ সম্পর্কে বিবাদ করলে আর তোমরা অবাধ্য হলে তোমরা যা ভালবাসতে তা তোমাদেরকে দেখানোর পর। তোমাদের মধ্যে কেউ দুনিয়া চায় আর কেউ চায় আখিরাত। তারপর আল্লাহ তোমাদেরকে তাদের থেকে ফিরিয়ে দিলেন যাতে তিনি তোমাদেরকে পরীক্ষা করেন। আর অবশ্যই আল্লাহ তোমাদেরকে ক্ষমা করে দিয়েছেন এবং আল্লাহ মুমিনদের উপর অনুগ্রহশীল।",
+    "urdu": "اور خدا نے اپنا وعدہ سچا کر دیا (یعنی) اس وقت جبکہ تم کافروں کو اس کے حکم سے قتل کر رہے تھے یہاں تک کہ جو تم چاہتے تھے خدا نے تم کو دکھا دیا اس کے بعد تم نے ہمت ہار دی اور حکم (پیغمبر) میں جھگڑا کرنے لگے اور اس کی نافرمانی کی بعض تو تم میں سے دنیا کے خواستگار تھے اور بعض آخرت کے طالب اس وقت خدا نے تم کو ان (کے مقابلے) سے پھیر (کر بھگا) دیا تاکہ تمہاری آزمائش کرے اور اس نے تمہارا قصور معاف کر دیا اور خدا مومنو پر بڑا فضل کرنے والا ہے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Hajj",
+    "surahNameArabic": "الحج",
+    "surahNameArabicLong": "سورة الحج",
+    "surahNameTranslation": "The Pilgrimage",
+    "revelationPlace": "Madina",
+    "totalAyah": 78,
+    "surahNo": 22,
+    "ayahNo": 38,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/22_38.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/022038.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/22_38.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/022038.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/22_38.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/022038.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/22_38.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/022038.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/22_38.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/022038.mp3"
+        }
+    },
+    "english": "Indeed, Allah defends those who believe. Surely Allah does not like whoever is deceitful, ungrateful.",
+    "arabic1": "۞ إِنَّ ٱللَّهَ يُدَٰفِعُ عَنِ ٱلَّذِينَ ءَامَنُوٓا۟ ۗ إِنَّ ٱللَّهَ لَا يُحِبُّ كُلَّ خَوَّانٍ كَفُورٍ",
+    "arabic2": "ان الله يدافع عن الذين امنوا ان الله لا يحب كل خوان كفور",
+    "bengali": "নিশ্চয় আল্লাহ মুমিনদেরকে রক্ষা করেন এবং কোন বিশ্বাসঘাতক, অকৃতজ্ঞকে পছন্দ করেন না।",
+    "urdu": "خدا تو مومنوں سے ان کے دشمنوں کو ہٹاتا رہتا ہے۔ بےشک خدا کسی خیانت کرنے والے اور کفران نعمت کرنے والے کو دوست نہیں رکھتا۔"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 16,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/9_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/009016.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/9_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/009016.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/9_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/009016.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/9_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/009016.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/9_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/009016.mp3"
+        }
+    },
+    "english": "Do you ˹believers˺ think that you will be left without Allah proving who among you ˹truly˺ struggles ˹in His cause˺ and never takes trusted allies other than Allah, His Messenger, or the believers? And Allah is All-Aware of what you do.",
+    "arabic1": "أَمْ حَسِبْتُمْ أَن تُتْرَكُوا۟ وَلَمَّا يَعْلَمِ ٱللَّهُ ٱلَّذِينَ جَـٰهَدُوا۟ مِنكُمْ وَلَمْ يَتَّخِذُوا۟ مِن دُونِ ٱللَّهِ وَلَا رَسُولِهِۦ وَلَا ٱلْمُؤْمِنِينَ وَلِيجَةً ۚ وَٱللَّهُ خَبِيرٌۢ بِمَا تَعْمَلُونَ",
+    "arabic2": "ام حسبتم ان تتركوا ولما يعلم الله الذين جاهدوا منكم ولم يتخذوا من دون الله ولا رسوله ولا المؤمنين وليجة والله خبير بما تعملون",
+    "bengali": "তোমরা কি মনে করেছ যে, তোমাদেরকে ছেড়ে দেয়া হবে? অথচ এখনও আল্লাহ যাচাই করেননি যে, তোমাদের মধ্যে কারা জিহাদ করেছে এবং কারা আল্লাহ, তাঁর রাসূল ও মুমিনগণ ছাড়া কাউকে বন্ধুরূপে গ্রহণ করেনি। আর তোমরা যা কর আল্লাহ সে সম্পর্কে সম্যক জ্ঞাত।",
+    "urdu": "کیا تم لوگ یہ خیال کرتے ہو کہ (بےآزمائش) چھوڑ دیئے جاؤ گے اور ابھی خدا نے ایسے لوگوں کو متمیز کیا ہی نہیں جنہوں نے تم میں سے جہاد کئے اور خدا اور اس کے رسول اور مومنوں کے سوا کسی کو دلی دوست نہیں بنایا۔ اور خدا تمہارے سب کاموں سے واقف ہے"
+}

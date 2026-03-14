@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 61,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/4_61.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/004061.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/4_61.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/004061.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/4_61.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/004061.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/4_61.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/004061.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/4_61.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/004061.mp3"
+        }
+    },
+    "english": "When it is said to them, “Come to Allah’s revelations and to the Messenger,” you see the hypocrites turn away from you stubbornly.",
+    "arabic1": "وَإِذَا قِيلَ لَهُمْ تَعَالَوْا۟ إِلَىٰ مَآ أَنزَلَ ٱللَّهُ وَإِلَى ٱلرَّسُولِ رَأَيْتَ ٱلْمُنَـٰفِقِينَ يَصُدُّونَ عَنكَ صُدُودًا",
+    "arabic2": "واذا قيل لهم تعالوا الى ما انزل الله والى الرسول رايت المنافقين يصدون عنك صدودا",
+    "bengali": "আর যখন তাদেরকে বলা হয়, ‘তোমরা আস যা আল্লাহ নাযিল করেছেন তার দিকে এবং রাসূলের দিকে’, তখন মুনাফিকদেরকে দেখবে তোমার কাছ থেকে সম্পূর্ণরূপে ফিরে যাচ্ছে।",
+    "urdu": "اور جب ان سے کہا جاتا ہے کہ جو حکم خدا نے نازل فرمایا ہے اس کی طرف (رجوع کرو) اور پیغمبر کی طرف آؤ تو تم منافقوں کو دیکھتے ہو کہ تم سے اعراض کرتے اور رکے جاتے ہیں"
+}

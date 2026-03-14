@@ -1,0 +1,42 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 18,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/3_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/003018.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/3_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/003018.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/3_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/003018.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/3_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/003018.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/3_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/003018.mp3"
+        }
+    },
+    "english": "Allah ˹Himself˺ is a Witness that there is no god ˹worthy of worship˺ except Him—and so are the angels and people of knowledge. He is the Maintainer of justice. There is no god ˹worthy of worship˺ except Him—the Almighty, All-Wise.",
+    "arabic1": "شَهِدَ ٱللَّهُ أَنَّهُۥ لَآ إِلَـٰهَ إِلَّا هُوَ وَٱلْمَلَـٰٓئِكَةُ وَأُو۟لُوا۟ ٱلْعِلْمِ قَآئِمًۢا بِٱلْقِسْطِ ۚ لَآ إِلَـٰهَ إِلَّا هُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+    "arabic2": "شهد الله انه لا اله الا هو والملائكة واولو العلم قائما بالقسط لا اله الا هو العزيز الحكيم",
+    "bengali": "আল্লাহ সাক্ষ্য দেন যে, তিনি ছাড়া কোন (সত্য) ইলাহ নেই, আর ফেরেশতা ও জ্ঞানীগণও। তিনি ন্যায় দ্বারা প্রতিষ্ঠিত। তিনি ছাড়া কোন (সত্য) ইলাহ নেই। তিনি পরাক্রমশালী, প্রজ্ঞাময়।",
+    "urdu": "خدا تو اس بات کی گواہی دیتا ہے کہ اس کے سوا کوئی معبود نہیں اور فرشتے اور علم والے لوگ جو انصاف پر قائم ہیں وہ بھی (گواہی دیتے ہیں کہ) اس غالب حکمت والے کے سوا کوئی عبادت کے لائق نہیں"
+}

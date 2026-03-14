@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Anfaal",
+    "surahNameArabic": "الأنفال",
+    "surahNameArabicLong": "سورة الأنفال",
+    "surahNameTranslation": "The Spoils of War",
+    "revelationPlace": "Madina",
+    "totalAyah": 75,
+    "surahNo": 8,
+    "ayahNo": 50,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/8_50.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/008050.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/8_50.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/008050.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/8_50.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/008050.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/8_50.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/008050.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/8_50.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/008050.mp3"
+        }
+    },
+    "english": "If only you could see when the angels take the souls of the disbelievers, beating their faces and backs, ˹saying,˺ “Taste the torment of burning!",
+    "arabic1": "وَلَوْ تَرَىٰٓ إِذْ يَتَوَفَّى ٱلَّذِينَ كَفَرُوا۟ ۙ ٱلْمَلَـٰٓئِكَةُ يَضْرِبُونَ وُجُوهَهُمْ وَأَدْبَـٰرَهُمْ وَذُوقُوا۟ عَذَابَ ٱلْحَرِيقِ",
+    "arabic2": "ولو ترى اذ يتوفى الذين كفروا الملائكة يضربون وجوههم وادبارهم وذوقوا عذاب الحريق",
+    "bengali": "আর যদি তুমি দেখতে, যখন ফেরেশতারা কাফিরদের প্রাণ হরণ করছিল, তাদের চেহারায় ও পশ্চাতে আঘাত করে, আর (বলছিল) ‘তোমরা জ্বলন্ত আগুনের আযাব আস্বাদন কর’।",
+    "urdu": "اور کاش تم اس وقت (کی کیفیت) دیکھو۔ جب فرشتے کافروں کی جانیں نکالتے ہیں ان کے مونہوں اور پیٹھوں پر (کوڑے اور ہتھوڑے وغیرہ) مارتے (ہیں اور کہتے ہیں) کہ (اب) عذاب آتش (کا مزہ) چکھو"
+}

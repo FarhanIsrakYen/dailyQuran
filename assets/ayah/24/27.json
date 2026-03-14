@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Noor",
+    "surahNameArabic": "النور",
+    "surahNameArabicLong": "سورة النور",
+    "surahNameTranslation": "The Light",
+    "revelationPlace": "Madina",
+    "totalAyah": 64,
+    "surahNo": 24,
+    "ayahNo": 27,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/24_27.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/024027.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/24_27.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/024027.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/24_27.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/024027.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/24_27.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/024027.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/24_27.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/024027.mp3"
+        }
+    },
+    "english": "O believers! Do not enter any house other than your own until you have asked for permission and greeted its occupants. This is best for you, so perhaps you will be mindful.",
+    "arabic1": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَدْخُلُوا۟ بُيُوتًا غَيْرَ بُيُوتِكُمْ حَتَّىٰ تَسْتَأْنِسُوا۟ وَتُسَلِّمُوا۟ عَلَىٰٓ أَهْلِهَا ۚ ذَٰلِكُمْ خَيْرٌ لَّكُمْ لَعَلَّكُمْ تَذَكَّرُونَ",
+    "arabic2": "يا ايها الذين امنوا لا تدخلوا بيوتا غير بيوتكم حتى تستانسوا وتسلموا على اهلها ذلكم خير لكم لعلكم تذكرون",
+    "bengali": "হে মুমিনগণ, তোমরা নিজদের গৃহ ছাড়া অন্য কারও গৃহে প্রবেশ করো না, যতক্ষণ না তোমরা অনুমতি নেবে এবং গৃহবাসীদেরকে সালাম দেবে। এটাই তোমাদের জন্য কল্যাণকর, যাতে তোমরা উপদেশ গ্রহণ কর।",
+    "urdu": "مومنو! اپنے گھروں کے سوا دوسرے (لوگوں کے) گھروں میں گھر والوں سے اجازت لئے اور ان کو سلام کئے بغیر داخل نہ ہوا کرو۔ یہ تمہارے حق میں بہتر ہے (اور ہم) یہ نصیحت اس لئے کرتے ہیں کہ شاید تم یاد رکھو"
+}

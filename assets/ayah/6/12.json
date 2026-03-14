@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 12,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/6_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/006012.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/6_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/006012.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/6_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/006012.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/6_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/006012.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/6_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/006012.mp3"
+        }
+    },
+    "english": "Ask ˹them, O  Prophet˺, “To whom belongs everything in the heavens and the earth?” Say, “To Allah!” He has taken upon Himself to be Merciful. He will certainly gather ˹all of˺ you together for the Day of Judgment—about which there is no doubt. But those who have ruined themselves will never believe.",
+    "arabic1": "قُل لِّمَن مَّا فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۖ قُل لِّلَّهِ ۚ كَتَبَ عَلَىٰ نَفْسِهِ ٱلرَّحْمَةَ ۚ لَيَجْمَعَنَّكُمْ إِلَىٰ يَوْمِ ٱلْقِيَـٰمَةِ لَا رَيْبَ فِيهِ ۚ ٱلَّذِينَ خَسِرُوٓا۟ أَنفُسَهُمْ فَهُمْ لَا يُؤْمِنُونَ",
+    "arabic2": "قل لمن ما في السماوات والارض قل لله كتب على نفسه الرحمة ليجمعنكم الى يوم القيامة لا ريب فيه الذين خسروا انفسهم فهم لا يؤمنون",
+    "bengali": "বল, ‘আসমানসমূহ ও যমীনে যা আছে তা কার’? বল, ‘আল্লাহর জন্য’; তিনি তাঁর নিজের উপর রহমত লিখে নিয়েছেন। তিনি অবশ্যই তোমাদেরকে একত্র করবেন কিয়ামতের দিনে, এতে কোন সন্দেহ নেই। যারা নিজদের ক্ষতি করেছে তারা ঈমান আনবে না।",
+    "urdu": "(ان سے) پوچھو کہ آسمان اور زمین میں جو کچھ ہے کس کا ہے کہہ دو خدا کا اس نے اپنی ذات (پاک) پر رحمت کو لازم کر لیا ہے وہ تم سب کو قیامت کے دن جس میں کچھ بھی شک نہیں ضرور جمع کرے گا جن لوگوں نے اپنے تیئیں نقصان میں ڈال رکھا ہے وہ ایمان نہیں لاتے"
+}

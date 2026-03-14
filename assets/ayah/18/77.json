@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Kahf",
+    "surahNameArabic": "الكهف",
+    "surahNameArabicLong": "سورة الكهف",
+    "surahNameTranslation": "The Cave",
+    "revelationPlace": "Mecca",
+    "totalAyah": 110,
+    "surahNo": 18,
+    "ayahNo": 77,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/18_77.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/018077.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/18_77.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/018077.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/18_77.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/018077.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/18_77.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/018077.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/18_77.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/018077.mp3"
+        }
+    },
+    "english": "So they moved on until they came to the people of a town. They asked them for food, but the people refused to give them hospitality. There they found a wall ready to collapse, so the man set it right. Moses protested, “If you wanted, you could have demanded a fee for this.”",
+    "arabic1": "فَٱنطَلَقَا حَتَّىٰٓ إِذَآ أَتَيَآ أَهْلَ قَرْيَةٍ ٱسْتَطْعَمَآ أَهْلَهَا فَأَبَوْا۟ أَن يُضَيِّفُوهُمَا فَوَجَدَا فِيهَا جِدَارًا يُرِيدُ أَن يَنقَضَّ فَأَقَامَهُۥ ۖ قَالَ لَوْ شِئْتَ لَتَّخَذْتَ عَلَيْهِ أَجْرًا",
+    "arabic2": "فانطلقا حتى اذا اتيا اهل قرية استطعما اهلها فابوا ان يضيفوهما فوجدا فيها جدارا يريد ان ينقض فاقامه قال لو شئت لاتخذت عليه اجرا",
+    "bengali": "অতঃপর তারা দু’জন চলতে শুরু করল। অবশেষে যখন তারা একটি জনপদের অধিবাসীদের নিকট পৌঁছল তখন তাদের কাছে কিছু খাবার চাইল; কিন্তু তারা তাদেরকে মেহমানদারী করতে অস্বীকার করল। অতঃপর তারা সেখানে একটি প্রাচীর দেখতে পেল, যা পড়ে যাওয়ার উপক্রম হয়েছিল। সে তখন প্রাচীরটি সোজাভাবে দাঁড় করিয়ে দিল। মূসা বলল, ‘আপনি ইচ্ছা করলে এর জন্য পারিশ্রমিক নিতে পারতেন’।",
+    "urdu": "پھر دونوں چلے۔ یہاں تک کہ ایک گاؤں والوں کے پاس پہنچے اور ان سے کھانا طلب کیا۔ انہوں نے ان کی ضیافت کرنے سے انکار کر دیا۔ پھر انہوں نے وہاں ایک دیوار دیکھی جو (جھک کر) گرا چاہتی تھی۔ خضر نے اس کو سیدھا کر دیا۔ موسیٰ نے کہا اگر آپ چاہتے تو ان سے (اس کا) معاوضہ لیتے (تاکہ کھانے کا کام چلتا)"
+}

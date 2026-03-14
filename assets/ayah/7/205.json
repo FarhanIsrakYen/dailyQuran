@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 205,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/7_205.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/007205.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/7_205.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/007205.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/7_205.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/007205.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/7_205.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/007205.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/7_205.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/007205.mp3"
+        }
+    },
+    "english": "Remember your Lord inwardly with humility and reverence and in a moderate tone of voice, both morning and evening. And do not be one of the heedless.",
+    "arabic1": "وَٱذْكُر رَّبَّكَ فِى نَفْسِكَ تَضَرُّعًا وَخِيفَةً وَدُونَ ٱلْجَهْرِ مِنَ ٱلْقَوْلِ بِٱلْغُدُوِّ وَٱلْـَٔاصَالِ وَلَا تَكُن مِّنَ ٱلْغَـٰفِلِينَ",
+    "arabic2": "واذكر ربك في نفسك تضرعا وخيفة ودون الجهر من القول بالغدو والاصال ولا تكن من الغافلين",
+    "bengali": "আর তুমি নিজ মনে আপন রবকে স্মরণ কর সকাল-সন্ধ্যায় অনুনয়-বিনয় ও ভীতি সহকারে এবং অনুচ্চ স্বরে। আর গাফেলদের অন্তর্ভুক্ত হয়ো না।",
+    "urdu": "اور اپنے پروردگار کو دل ہی دل میں عاجزی اور خوف سے اور پست آواز سے صبح وشام یاد کرتے رہو اور (دیکھنا) غافل نہ ہونا"
+}

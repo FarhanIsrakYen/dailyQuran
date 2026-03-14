@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nahl",
+    "surahNameArabic": "النحل",
+    "surahNameArabicLong": "سورة النحل",
+    "surahNameTranslation": "The Bee",
+    "revelationPlace": "Mecca",
+    "totalAyah": 128,
+    "surahNo": 16,
+    "ayahNo": 111,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/16_111.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/016111.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/16_111.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/016111.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/16_111.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/016111.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/16_111.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/016111.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/16_111.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/016111.mp3"
+        }
+    },
+    "english": "˹Consider˺ the Day ˹when˺ every soul will come pleading for itself, and each will be paid in full for what it did, and none will be wronged.",
+    "arabic1": "۞ يَوْمَ تَأْتِى كُلُّ نَفْسٍ تُجَـٰدِلُ عَن نَّفْسِهَا وَتُوَفَّىٰ كُلُّ نَفْسٍ مَّا عَمِلَتْ وَهُمْ لَا يُظْلَمُونَ",
+    "arabic2": "يوم تاتي كل نفس تجادل عن نفسها وتوفى كل نفس ما عملت وهم لا يظلمون",
+    "bengali": "(স্মরণ কর সে দিনের কথা) যেদিন প্রত্যেক ব্যক্তি নিজের পক্ষে যুক্তি-তর্ক নিয়ে উপস্থিত হবে এবং প্রত্যেককে ব্যক্তি সে যা আমল করেছে তা পরিপূর্ণরূপে দেয়া হবে এবং তাদের প্রতি যুলম করা হবে না।",
+    "urdu": "جس دن ہر متنفس اپنی طرف سے جھگڑا کرنے آئے گا۔ اور ہر شخص کو اس کے اعمال کا پورا پورا بدلہ دیا جائے گا۔ اور کسی کا نقصان نہیں کیا جائے گا"
+}

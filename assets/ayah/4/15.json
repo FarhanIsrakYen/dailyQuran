@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 15,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/4_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/004015.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/4_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/004015.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/4_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/004015.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/4_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/004015.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/4_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/004015.mp3"
+        }
+    },
+    "english": "˹As for˺ those of your women who commit illegal intercourse—call four witnesses from among yourselves. If they testify, confine the offenders to their homes until they die or Allah ordains a ˹different˺ way for them.",
+    "arabic1": "وَٱلَّـٰتِى يَأْتِينَ ٱلْفَـٰحِشَةَ مِن نِّسَآئِكُمْ فَٱسْتَشْهِدُوا۟ عَلَيْهِنَّ أَرْبَعَةً مِّنكُمْ ۖ فَإِن شَهِدُوا۟ فَأَمْسِكُوهُنَّ فِى ٱلْبُيُوتِ حَتَّىٰ يَتَوَفَّىٰهُنَّ ٱلْمَوْتُ أَوْ يَجْعَلَ ٱللَّهُ لَهُنَّ سَبِيلًا",
+    "arabic2": "واللاتي ياتين الفاحشة من نسائكم فاستشهدوا عليهن اربعة منكم فان شهدوا فامسكوهن في البيوت حتى يتوفاهن الموت او يجعل الله لهن سبيلا",
+    "bengali": "আর তোমাদের নারীদের মধ্য থেকে যারা ব্যভিচার করে, তোমরা তাদের উপর তোমাদের মধ্য থেকে চার জন সাক্ষী উপস্থিত কর। অতঃপর যদি তারা সাক্ষ্য দেয় তবে তোমরা তাদেরকে ঘরের মধ্যে আবদ্ধ রাখ যতক্ষণ না মৃত্যু তাদের জীবন শেষ করে দেয়। অথবা আল্লাহ তাদের জন্য কোন পথ তৈরি করে দেন।",
+    "urdu": "مسلمانو تمہاری عورتوں میں جو بدکاری کا ارتکاب کر بیٹھیں ان پر اپنے لوگوں میں سے چار شخصوں کی شہادت لو۔ اگر وہ (ان کی بدکاری کی)گواہی دیں تو ان عورتوں کو گھروں میں بند رکھو یہاں تک کہ موت ان کا کام تمام کردے یا خدا ان کے لئے کوئی اور سبیل (پیدا) کرے"
+}

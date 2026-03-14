@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Jumu'a",
+    "surahNameArabic": "الجمعة",
+    "surahNameArabicLong": "سورة الجمعة",
+    "surahNameTranslation": "Friday",
+    "revelationPlace": "Madina",
+    "totalAyah": 11,
+    "surahNo": 62,
+    "ayahNo": 10,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/62_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/062010.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/62_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/062010.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/62_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/062010.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/62_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/062010.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/62_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/062010.mp3"
+        }
+    },
+    "english": "Once the prayer is over, disperse throughout the land and seek the bounty of Allah. And remember Allah often so you may be successful.",
+    "arabic1": "فَإِذَا قُضِيَتِ ٱلصَّلَوٰةُ فَٱنتَشِرُوا۟ فِى ٱلْأَرْضِ وَٱبْتَغُوا۟ مِن فَضْلِ ٱللَّهِ وَٱذْكُرُوا۟ ٱللَّهَ كَثِيرًا لَّعَلَّكُمْ تُفْلِحُونَ",
+    "arabic2": "فاذا قضيت الصلاة فانتشروا في الارض وابتغوا من فضل الله واذكروا الله كثيرا لعلكم تفلحون",
+    "bengali": "অতঃপর যখন সালাত সমাপ্ত হবে তখন তোমরা পৃথিবীতে ছড়িয়ে পড় আর আল্লাহর অনুগ্রহ হতে অনুসন্ধান কর এবং আল্লাহকে বেশি বেশি স্মরণ কর, যাতে তোমরা সফল হতে পার।",
+    "urdu": "پھر جب نماز ہوچکے تو اپنی اپنی راہ لو اور خدا کا فضل تلاش کرو اور خدا کو بہت بہت یاد کرتے رہو تاکہ نجات پاؤ"
+}

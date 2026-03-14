@@ -1,0 +1,42 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 194,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/3_194.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/003194.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/3_194.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/003194.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/3_194.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/003194.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/3_194.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/003194.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/3_194.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/003194.mp3"
+        }
+    },
+    "english": "Our Lord! Grant us what You have promised us through Your messengers and do not put us to shame on Judgment Day—for certainly You never fail in Your promise.”",
+    "arabic1": "رَبَّنَا وَءَاتِنَا مَا وَعَدتَّنَا عَلَىٰ رُسُلِكَ وَلَا تُخْزِنَا يَوْمَ ٱلْقِيَـٰمَةِ ۗ إِنَّكَ لَا تُخْلِفُ ٱلْمِيعَادَ",
+    "arabic2": "ربنا واتنا ما وعدتنا على رسلك ولا تخزنا يوم القيامة انك لا تخلف الميعاد",
+    "bengali": "‘হে আমাদের রব, আর আপনি আমাদেরকে তা প্রদান করুন যার ওয়াদা আপনি আমাদেরকে দিয়েছেন আপনার রাসূলগণের মাধ্যমে। আর কিয়ামতের দিনে আপনি আমাদেরকে অপমান করবেন না। নিশ্চয় আপনি অঙ্গীকার ভঙ্গ করেন না’।",
+    "urdu": "اے پروردگار تو نے جن جن چیزوں کے ہم سے اپنے پیغمبروں کے ذریعے سے وعدے کیے ہیں وہ ہمیں عطا فرما اور قیامت کے دن ہمیں رسوا نہ کیجو کچھ شک نہیں کہ تو خلاف وعدہ نہیں کرتا"
+}

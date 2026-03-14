@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Naml",
+    "surahNameArabic": "النمل",
+    "surahNameArabicLong": "سورة النمل",
+    "surahNameTranslation": "The Ant",
+    "revelationPlace": "Mecca",
+    "totalAyah": 93,
+    "surahNo": 27,
+    "ayahNo": 7,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/27_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/027007.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/27_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/027007.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/27_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/027007.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/27_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/027007.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/27_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/027007.mp3"
+        }
+    },
+    "english": "˹Remember˺ when Moses said to his family, “I have spotted a fire. I will either bring you some directions from there, or a burning torch so you may warm yourselves.”",
+    "arabic1": "إِذْ قَالَ مُوسَىٰ لِأَهْلِهِۦٓ إِنِّىٓ ءَانَسْتُ نَارًا سَـَٔاتِيكُم مِّنْهَا بِخَبَرٍ أَوْ ءَاتِيكُم بِشِهَابٍ قَبَسٍ لَّعَلَّكُمْ تَصْطَلُونَ",
+    "arabic2": "اذ قال موسى لاهله اني انست نارا ساتيكم منها بخبر او اتيكم بشهاب قبس لعلكم تصطلون",
+    "bengali": "স্মরণ কর, যখন মূসা তার পরিবারবর্গকে বলল, নিশ্চয় আমি আগুন দেখেছি। শীঘ্রই আমি সেখান থেকে তোমাদের জন্য কোন খবর নিয়ে আসব অথবা তোমাদের জন্য জ্বলন্ত আঙ্গার নিয়ে আসব। যাতে তোমরা আগুন পোহাতে পার।",
+    "urdu": "جب موسیٰ نے اپنے گھر والوں سے کہا کہ میں نے آگ دیکھی ہے، میں وہاں سے (رستے) کا پتہ لاتا ہوں یا سلگتا ہوا انگارہ تمہارے پاس لاتا ہوں تاکہ تم تاپو"
+}

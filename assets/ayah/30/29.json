@@ -1,0 +1,42 @@
+{
+    "surahName": "Ar-Room",
+    "surahNameArabic": "الروم",
+    "surahNameArabicLong": "سورة الروم",
+    "surahNameTranslation": "The Romans",
+    "revelationPlace": "Mecca",
+    "totalAyah": 60,
+    "surahNo": 30,
+    "ayahNo": 29,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/30_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/030029.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/30_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/030029.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/30_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/030029.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/30_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/030029.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/30_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/030029.mp3"
+        }
+    },
+    "english": "In fact, the wrongdoers merely follow their desires with no knowledge. Who then can guide those Allah has left to stray? They will have no helpers.",
+    "arabic1": "بَلِ ٱتَّبَعَ ٱلَّذِينَ ظَلَمُوٓا۟ أَهْوَآءَهُم بِغَيْرِ عِلْمٍ ۖ فَمَن يَهْدِى مَنْ أَضَلَّ ٱللَّهُ ۖ وَمَا لَهُم مِّن نَّـٰصِرِينَ",
+    "arabic2": "بل اتبع الذين ظلموا اهواءهم بغير علم فمن يهدي من اضل الله وما لهم من ناصرين",
+    "bengali": "বরং যালিমরা জ্ঞান ছাড়াই তাদের খেয়াল খুশীর অনুসরণ করে। সুতরাং যাকে আল্লাহ পথভ্রষ্ট করেন কে তাকে হিদায়াত করবে? আর তাদের জন্য কোন সাহায্যকারী নেই।",
+    "urdu": "مگر جو ظالم ہیں بےسمجھے اپنی خواہشوں کے پیچھے چلتے ہیں تو جس کو خدا گمراہ کرے اُسے کون ہدایت دے سکتا ہے؟ اور ان کا کوئی مددگار نہیں"
+}

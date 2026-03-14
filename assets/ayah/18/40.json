@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Kahf",
+    "surahNameArabic": "الكهف",
+    "surahNameArabicLong": "سورة الكهف",
+    "surahNameTranslation": "The Cave",
+    "revelationPlace": "Mecca",
+    "totalAyah": 110,
+    "surahNo": 18,
+    "ayahNo": 40,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/18_40.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/018040.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/18_40.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/018040.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/18_40.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/018040.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/18_40.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/018040.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/18_40.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/018040.mp3"
+        }
+    },
+    "english": "perhaps my Lord will grant me ˹something˺ better than your garden, and send down upon your garden a thunderbolt from the sky, turning it into a barren waste.",
+    "arabic1": "فَعَسَىٰ رَبِّىٓ أَن يُؤْتِيَنِ خَيْرًا مِّن جَنَّتِكَ وَيُرْسِلَ عَلَيْهَا حُسْبَانًا مِّنَ ٱلسَّمَآءِ فَتُصْبِحَ صَعِيدًا زَلَقًا",
+    "arabic2": "فعسى ربي ان يؤتين خيرا من جنتك ويرسل عليها حسبانا من السماء فتصبح صعيدا زلقا",
+    "bengali": "তবে আশা করা যায় যে, ‘আমার রব আমাকে তোমার বাগানের চেয়ে উত্তম (কিছু) দান করবেন এবং তার উপর আসমান থেকে বজ্র পাঠাবেন। ফলে তা অনুর্বর উদ্ভিদশূন্য যমীনে পরিণত হবে’।",
+    "urdu": "تو عجب نہیں کہ میرا پروردگار مجھے تمہارے باغ سے بہتر عطا فرمائے اور اس (تمہارے باغ) پر آسمان سے آفت بھیج دے تو وہ صاف میدان ہوجائے"
+}

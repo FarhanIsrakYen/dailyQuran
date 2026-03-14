@@ -1,0 +1,42 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 81,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/3_81.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/003081.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/3_81.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/003081.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/3_81.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/003081.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/3_81.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/003081.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/3_81.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/003081.mp3"
+        }
+    },
+    "english": "˹Remember˺ when Allah made a covenant with the prophets, ˹saying,˺ “Now that I have given you the Book and wisdom, if there comes to you a messenger confirming what you have, you must believe in him and support him.” He added, “Do you affirm this covenant and accept this commitment?” They said, “Yes, we do.” Allah said, “Then bear witness, and I too am a Witness.”",
+    "arabic1": "وَإِذْ أَخَذَ ٱللَّهُ مِيثَـٰقَ ٱلنَّبِيِّـۧنَ لَمَآ ءَاتَيْتُكُم مِّن كِتَـٰبٍ وَحِكْمَةٍ ثُمَّ جَآءَكُمْ رَسُولٌ مُّصَدِّقٌ لِّمَا مَعَكُمْ لَتُؤْمِنُنَّ بِهِۦ وَلَتَنصُرُنَّهُۥ ۚ قَالَ ءَأَقْرَرْتُمْ وَأَخَذْتُمْ عَلَىٰ ذَٰلِكُمْ إِصْرِى ۖ قَالُوٓا۟ أَقْرَرْنَا ۚ قَالَ فَٱشْهَدُوا۟ وَأَنَا۠ مَعَكُم مِّنَ ٱلشَّـٰهِدِينَ",
+    "arabic2": "واذ اخذ الله ميثاق النبيين لما اتيتكم من كتاب وحكمة ثم جاءكم رسول مصدق لما معكم لتؤمنن به ولتنصرنه قال ااقررتم واخذتم على ذلكم اصري قالوا اقررنا قال فاشهدوا وانا معكم من الشاهدين",
+    "bengali": "আর স্মরণ কর, যখন আল্লাহ নবীদের অঙ্গীকার নিয়েছেন- আমি তোমাদেরকে যে কিতাব ও হিকমাত দিয়েছি, অতঃপর তোমাদের সাথে যা আছে তা সত্যায়নকারীরূপে একজন রাসূল তোমাদের কাছে আসবে- তখন অবশ্যই তোমরা তার প্রতি ঈমান আনবে এবং তাকে সাহায্য করবে। তিনি বললেন, ‘তোমরা কি স্বীকার করেছ এবং এর উপর আমার প্রতিশ্রুতি গ্রহণ করেছ’? তারা বলল, ‘আমরা স্বীকার করলাম’। আল্লাহ বললেন, ‘তবে তোমরা সাক্ষী থাক এবং আমিও তোমাদের সাথে সাক্ষী রইলাম’।",
+    "urdu": "اور جب خدا نے پیغمبروں سے عہد لیا کہ جب میں تم کو کتاب اور دانائی عطا کروں پھر تمہارے پاس کوئی پیغمبر آئے جو تمہاری کتاب کی تصدیق کرے تو تمھیں ضرور اس پر ایمان لانا ہوگا اور ضرور اس کی مدد کرنی ہوگی اور (عہد لینے کے بعد) پوچھا کہ بھلا تم نے اقرار کیا اور اس اقرار پر میرا ذمہ لیا (یعنی مجھے ضامن ٹہرایا) انہوں نے کہا (ہاں) ہم نے اقرار کیا (خدا نے) فرمایا کہ تم (اس عہد وپیمان کے) گواہ رہو اور میں بھی تمہارے ساتھ گواہ ہوں"
+}

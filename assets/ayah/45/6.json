@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Jaathiya",
+    "surahNameArabic": "الجاثية",
+    "surahNameArabicLong": "سورة الجاثية",
+    "surahNameTranslation": "Crouching",
+    "revelationPlace": "Mecca",
+    "totalAyah": 37,
+    "surahNo": 45,
+    "ayahNo": 6,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/45_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/045006.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/45_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/045006.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/45_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/045006.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/45_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/045006.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/45_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/045006.mp3"
+        }
+    },
+    "english": "These are Allah’s revelations which We recite to you ˹O Prophet˺ in truth. So what message will they believe in after ˹denying˺ Allah and His revelations?",
+    "arabic1": "تِلْكَ ءَايَـٰتُ ٱللَّهِ نَتْلُوهَا عَلَيْكَ بِٱلْحَقِّ ۖ فَبِأَىِّ حَدِيثٍۭ بَعْدَ ٱللَّهِ وَءَايَـٰتِهِۦ يُؤْمِنُونَ",
+    "arabic2": "تلك ايات الله نتلوها عليك بالحق فباي حديث بعد الله واياته يؤمنون",
+    "bengali": "এগুলো আল্লাহর আয়াত, আমি তা যথাযথভাবেই তোমার কাছে তিলাওয়াত করছি। অতএব তারা আল্লাহ ও তাঁর আয়াতের পর আর কোন্ কথায় বিশ্বাস করবে?",
+    "urdu": "یہ خدا کی آیتیں ہیں جو ہم تم کو سچائی کے ساتھ پڑھ کر سناتے ہیں۔ تو یہ خدا اور اس کی آیتوں کے بعد کس بات پر ایمان لائیں گے؟"
+}

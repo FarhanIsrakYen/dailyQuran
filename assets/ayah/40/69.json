@@ -1,0 +1,42 @@
+{
+    "surahName": "Ghafir",
+    "surahNameArabic": "غافر",
+    "surahNameArabicLong": "سورة غافر",
+    "surahNameTranslation": "The Forgiver",
+    "revelationPlace": "Mecca",
+    "totalAyah": 85,
+    "surahNo": 40,
+    "ayahNo": 69,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/40_69.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/040069.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/40_69.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/040069.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/40_69.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/040069.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/40_69.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/040069.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/40_69.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/040069.mp3"
+        }
+    },
+    "english": "Have you not seen how those who dispute Allah’s signs are turned away?",
+    "arabic1": "أَلَمْ تَرَ إِلَى ٱلَّذِينَ يُجَـٰدِلُونَ فِىٓ ءَايَـٰتِ ٱللَّهِ أَنَّىٰ يُصْرَفُونَ",
+    "arabic2": "الم تر الى الذين يجادلون في ايات الله انى يصرفون",
+    "bengali": "তুমি কি তাদের প্রতি লক্ষ্য করনি যারা আল্লাহর নিদর্শনাবলী সম্পর্কে বাকবিতন্ডা করে? তাদেরকে কোথায় ফিরানো হচ্ছে?",
+    "urdu": "کیا تم نے ان لوگوں کو نہیں دیکھا جو خدا کی آیتوں میں جھگڑتے ہیں۔ یہ کہاں بھٹک رہے ہیں؟"
+}

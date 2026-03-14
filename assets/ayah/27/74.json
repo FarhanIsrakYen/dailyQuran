@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Naml",
+    "surahNameArabic": "النمل",
+    "surahNameArabicLong": "سورة النمل",
+    "surahNameTranslation": "The Ant",
+    "revelationPlace": "Mecca",
+    "totalAyah": 93,
+    "surahNo": 27,
+    "ayahNo": 74,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/27_74.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/027074.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/27_74.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/027074.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/27_74.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/027074.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/27_74.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/027074.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/27_74.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/027074.mp3"
+        }
+    },
+    "english": "And surely your Lord knows what their hearts conceal and what they reveal.",
+    "arabic1": "وَإِنَّ رَبَّكَ لَيَعْلَمُ مَا تُكِنُّ صُدُورُهُمْ وَمَا يُعْلِنُونَ",
+    "arabic2": "وان ربك ليعلم ما تكن صدورهم وما يعلنون",
+    "bengali": "আর নিশ্চয় তোমার রব, অবশ্যই জানেন তাদের অন্তর যা গোপন করে এবং যা তারা প্রকাশ করে।",
+    "urdu": "اور جو باتیں ان کے سینوں میں پوشیدہ ہوتی ہیں اور جو کام وہ ظاہر کرتے ہیں تمہارا پروردگار ان (سب) کو جانتا ہے"
+}

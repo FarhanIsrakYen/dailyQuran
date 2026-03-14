@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Maaida",
+    "surahNameArabic": "المائدة",
+    "surahNameArabicLong": "سورة المائدة",
+    "surahNameTranslation": "The Table",
+    "revelationPlace": "Madina",
+    "totalAyah": 120,
+    "surahNo": 5,
+    "ayahNo": 20,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/5_20.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/005020.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/5_20.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/005020.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/5_20.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/005020.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/5_20.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/005020.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/5_20.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/005020.mp3"
+        }
+    },
+    "english": "And ˹remember˺ when Moses said to his people, “O my people! Remember Allah’s favours upon you when He raised prophets from among you, made you sovereign, and gave you what He had never given anyone in the world.",
+    "arabic1": "وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِۦ يَـٰقَوْمِ ٱذْكُرُوا۟ نِعْمَةَ ٱللَّهِ عَلَيْكُمْ إِذْ جَعَلَ فِيكُمْ أَنۢبِيَآءَ وَجَعَلَكُم مُّلُوكًا وَءَاتَىٰكُم مَّا لَمْ يُؤْتِ أَحَدًا مِّنَ ٱلْعَـٰلَمِينَ",
+    "arabic2": "واذ قال موسى لقومه يا قوم اذكروا نعمة الله عليكم اذ جعل فيكم انبياء وجعلكم ملوكا واتاكم ما لم يؤت احدا من العالمين",
+    "bengali": "আর যখন মূসা তার কওমকে বলল, ‘হে আমার কওম, স্মরণ কর তোমাদের উপর আল্লাহর নিআমত, যখন তিনি তোমাদের মধ্যে নবী বানিয়েছেন এবং তোমাদেরকে রাজা-বাদশাহ বানিয়েছেন, আর তোমাদেরকে দান করেছেন এমন কিছু যা সকল সৃষ্টির মধ্যে কাউকে দান করেননি’।",
+    "urdu": "اور جب موسیٰ نے اپنی قوم سے کہا کہ بھائیو تم پر خدا نے جو احسان کئے ہیں ان کو یاد کرو کہ اس نے تم میں پیغمبر پیدا کیے اور تمہیں بادشاہ بنایا اور تم کو اتنا کچھ عنایت کیا کہ اہل عالم میں سے کسی کو نہیں دیا"
+}

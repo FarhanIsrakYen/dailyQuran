@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 31,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/17_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/017031.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/17_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/017031.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/17_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/017031.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/17_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/017031.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/17_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/017031.mp3"
+        }
+    },
+    "english": "Do not kill your children for fear of poverty. We provide for them and for you. Surely killing them is a heinous sin.",
+    "arabic1": "وَلَا تَقْتُلُوٓا۟ أَوْلَـٰدَكُمْ خَشْيَةَ إِمْلَـٰقٍ ۖ نَّحْنُ نَرْزُقُهُمْ وَإِيَّاكُمْ ۚ إِنَّ قَتْلَهُمْ كَانَ خِطْـًٔا كَبِيرًا",
+    "arabic2": "ولا تقتلوا اولادكم خشية املاق نحن نرزقهم واياكم ان قتلهم كان خطئا كبيرا",
+    "bengali": "অভাব-অনটনের ভয়ে তোমরা তোমাদের সন্তানদেরকে হত্যা করো না। আমিই তাদেরকে রিয্ক দেই এবং তোমাদেরকেও। নিশ্চয় তাদেরকে হত্যা করা মহাপাপ।",
+    "urdu": "اور اپنی اولاد کو مفلسی کے خوف سے قتل نہ کرنا۔ (کیونکہ) ان کو اور تم کو ہم ہی رزق دیتے ہیں۔ کچھ شک نہیں کہ ان کا مار ڈالنا بڑا سخت گناہ ہے"
+}

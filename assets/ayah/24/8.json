@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Noor",
+    "surahNameArabic": "النور",
+    "surahNameArabicLong": "سورة النور",
+    "surahNameTranslation": "The Light",
+    "revelationPlace": "Madina",
+    "totalAyah": 64,
+    "surahNo": 24,
+    "ayahNo": 8,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/24_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/024008.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/24_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/024008.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/24_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/024008.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/24_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/024008.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/24_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/024008.mp3"
+        }
+    },
+    "english": "For her to be spared the punishment, she must swear four times by Allah that he is telling a lie",
+    "arabic1": "وَيَدْرَؤُا۟ عَنْهَا ٱلْعَذَابَ أَن تَشْهَدَ أَرْبَعَ شَهَـٰدَٰتٍۭ بِٱللَّهِ ۙ إِنَّهُۥ لَمِنَ ٱلْكَـٰذِبِينَ",
+    "arabic2": "ويدرا عنها العذاب ان تشهد اربع شهادات بالله انه لمن الكاذبين",
+    "bengali": "আর তারা স্ত্রীলোকটি থেকে শাস্তি রহিত করবে, যদি সে আল্লাহর নামে চারবার সাক্ষ্য দেয় যে, নিশ্চয় তার স্বামী মিথ্যাবাদীদের অন্তর্ভুক্ত।",
+    "urdu": "اور عورت سے سزا کو یہ بات ٹال سکتی ہے کہ وہ پہلے چار بار خدا کی قسم کھائے کہ بےشک یہ جھوٹا ہے"
+}

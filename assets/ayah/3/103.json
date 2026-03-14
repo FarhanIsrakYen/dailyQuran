@@ -1,0 +1,42 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 103,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/3_103.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/003103.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/3_103.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/003103.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/3_103.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/003103.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/3_103.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/003103.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/3_103.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/003103.mp3"
+        }
+    },
+    "english": "And hold firmly to the rope of Allah and do not be divided. Remember Allah’s favour upon you when you were enemies, then He united your hearts, so you—by His grace—became brothers. And you were at the brink of a fiery pit and He saved you from it. This is how Allah makes His revelations clear to you, so that you may be ˹rightly˺ guided.",
+    "arabic1": "وَٱعْتَصِمُوا۟ بِحَبْلِ ٱللَّهِ جَمِيعًا وَلَا تَفَرَّقُوا۟ ۚ وَٱذْكُرُوا۟ نِعْمَتَ ٱللَّهِ عَلَيْكُمْ إِذْ كُنتُمْ أَعْدَآءً فَأَلَّفَ بَيْنَ قُلُوبِكُمْ فَأَصْبَحْتُم بِنِعْمَتِهِۦٓ إِخْوَٰنًا وَكُنتُمْ عَلَىٰ شَفَا حُفْرَةٍ مِّنَ ٱلنَّارِ فَأَنقَذَكُم مِّنْهَا ۗ كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ لَكُمْ ءَايَـٰتِهِۦ لَعَلَّكُمْ تَهْتَدُونَ",
+    "arabic2": "واعتصموا بحبل الله جميعا ولا تفرقوا واذكروا نعمت الله عليكم اذ كنتم اعداء فالف بين قلوبكم فاصبحتم بنعمته اخوانا وكنتم على شفا حفرة من النار فانقذكم منها كذلك يبين الله لكم اياته لعلكم تهتدون",
+    "bengali": "আর তোমরা সকলে আল্লাহর রজ্জুকে দৃঢ়ভাবে ধারণ কর এবং বিভক্ত হয়ো না। আর তোমরা তোমাদের উপর আল্লাহর নিয়ামতকে স্মরণ কর, যখন তোমরা পরস্পরে শত্রু ছিলে। তারপর আল্লাহ তোমাদের অন্তরে ভালবাসার সঞ্চার করেছেন। অতঃপর তাঁর অনুগ্রহে তোমরা ভাই-ভাই হয়ে গেল। আর তোমরা ছিলে আগুনের গর্তের কিনারায়, অতঃপর তিনি তোমাদেরকে তা থেকে রক্ষা করেছেন। এভাবেই আল্লাহ তোমাদের জন্য তাঁর আয়াতসমূহ বয়ান করেন, যাতে তোমরা হিদায়াতপ্রাপ্ত হও।",
+    "urdu": "اور سب مل کر خدا کی (ہدایت کی رسی) کو مضبوط پکڑے رہنا اور متفرق نہ ہونا اور خدا کی اس مہربانی کو یاد کرو جب تم ایک دوسرے کے دشمن تھے تو اس نے تمہارے دلوں میں الفت ڈال دی اور تم اس کی مہربانی سے بھائی بھائی ہوگئے اور تم آگ کے گڑھے کے کنارے تک پہنچ چکے تھے تو خدا نے تم کو اس سے بچا لیا اس طرح خدا تم کو اپنی آیتیں کھول کھول کر سناتا ہے تاکہ تم ہدایت پاؤ"
+}

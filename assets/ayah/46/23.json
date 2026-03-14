@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Ahqaf",
+    "surahNameArabic": "الأحقاف",
+    "surahNameArabicLong": "سورة الأحقاف",
+    "surahNameTranslation": "The Dunes",
+    "revelationPlace": "Mecca",
+    "totalAyah": 35,
+    "surahNo": 46,
+    "ayahNo": 23,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/46_23.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/046023.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/46_23.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/046023.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/46_23.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/046023.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/46_23.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/046023.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/46_23.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/046023.mp3"
+        }
+    },
+    "english": "He responded, “The knowledge ˹of its time˺ is only with Allah. I only convey to you what I have been sent with. But I can see that you are a people acting ignorantly.”",
+    "arabic1": "قَالَ إِنَّمَا ٱلْعِلْمُ عِندَ ٱللَّهِ وَأُبَلِّغُكُم مَّآ أُرْسِلْتُ بِهِۦ وَلَـٰكِنِّىٓ أَرَىٰكُمْ قَوْمًا تَجْهَلُونَ",
+    "arabic2": "قال انما العلم عند الله وابلغكم ما ارسلت به ولكني اراكم قوما تجهلون",
+    "bengali": "সে বলল, ‘এ জ্ঞান একমাত্র আল্লাহর কাছে। আর যা দিয়ে আমাকে পাঠানো হয়েছে, আমি তোমাদের কাছে তা-ই প্রচার করি, কিন্তু আমি দেখছি, তোমরা এক মূর্খ সম্প্রদায়’।",
+    "urdu": "(انہوں نے) کہا کہ (اس کا) علم تو خدا ہی کو ہے۔ اور میں تو جو (احکام)دے کر بھیجا گیا ہوں وہ تمہیں پہنچا رہا ہوں لیکن میں دیکھتا ہوں کہ تم لوگ نادانی میں پھنس رہے ہو"
+}

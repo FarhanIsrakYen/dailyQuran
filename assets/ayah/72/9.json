@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Jinn",
+    "surahNameArabic": "الجن",
+    "surahNameArabicLong": "سورة الجن",
+    "surahNameTranslation": "The Jinn",
+    "revelationPlace": "Mecca",
+    "totalAyah": 28,
+    "surahNo": 72,
+    "ayahNo": 9,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/72_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/072009.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/72_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/072009.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/72_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/072009.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/72_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/072009.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/72_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/072009.mp3"
+        }
+    },
+    "english": "We used to take up positions there for eavesdropping, but whoever dares eavesdrop now will find a flare lying in wait for them.",
+    "arabic1": "وَأَنَّا كُنَّا نَقْعُدُ مِنْهَا مَقَـٰعِدَ لِلسَّمْعِ ۖ فَمَن يَسْتَمِعِ ٱلْـَٔانَ يَجِدْ لَهُۥ شِهَابًا رَّصَدًا",
+    "arabic2": "وانا كنا نقعد منها مقاعد للسمع فمن يستمع الان يجد له شهابا رصدا",
+    "bengali": "আর আমরা তো সংবাদ শোনার জন্য আকাশের বিভিন্ন ঘাটিতে বসতাম, কিন্তু এখন যে শুনতে চাইবে, সে তার জন্য প্রস্তুত জ্বলন্ত উল্কাপিন্ড পাবে’।",
+    "urdu": "اور یہ کہ پہلے ہم وہاں بہت سے مقامات میں (خبریں) سننے کے لئے بیٹھا کرتے تھے۔ اب کوئی سننا چاہے تو اپنے لئے انگارا تیار پائے"
+}

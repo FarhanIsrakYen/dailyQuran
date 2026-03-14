@@ -1,0 +1,42 @@
+{
+    "surahName": "Ghafir",
+    "surahNameArabic": "غافر",
+    "surahNameArabicLong": "سورة غافر",
+    "surahNameTranslation": "The Forgiver",
+    "revelationPlace": "Mecca",
+    "totalAyah": 85,
+    "surahNo": 40,
+    "ayahNo": 25,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/40_25.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/040025.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/40_25.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/040025.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/40_25.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/040025.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/40_25.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/040025.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/40_25.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/040025.mp3"
+        }
+    },
+    "english": "Then, when he came to them with the truth from Us, they said, “Kill the sons of those who believe with him and keep their women.” But the plotting of the disbelievers was only in vain.",
+    "arabic1": "فَلَمَّا جَآءَهُم بِٱلْحَقِّ مِنْ عِندِنَا قَالُوا۟ ٱقْتُلُوٓا۟ أَبْنَآءَ ٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ وَٱسْتَحْيُوا۟ نِسَآءَهُمْ ۚ وَمَا كَيْدُ ٱلْكَـٰفِرِينَ إِلَّا فِى ضَلَـٰلٍ",
+    "arabic2": "فلما جاءهم بالحق من عندنا قالوا اقتلوا ابناء الذين امنوا معه واستحيوا نساءهم وما كيد الكافرين الا في ضلال",
+    "bengali": "অতঃপর যখন মূসা আমার কাছ থেকে সত্য নিয়ে তাদের কাছে উপস্থিত হয়েছিল, তখন তারা বলল, ‘যারা তার সাথে ঈমান এনেছে তোমরা তাদের ছেলে-সন্তানদেরকে হত্যা কর এবং তাদের মেয়ে-সন্তানদেরকে জীবিত রাখ’। আর কাফিরদের ষড়যন্ত্র কেবল ব্যর্থই হবে।",
+    "urdu": "غرض جب وہ ان کے پاس ہماری طرف سے حق لے کر پہنچے تو کہنے لگے کہ جو اس کے ساتھ (خدا پر) ایمان لائے ہیں ان کے بیٹوں کو قتل کردو اور بیٹیوں کو زندہ رہنے دو۔ اور کافروں کی تدبیریں بےٹھکانے ہوتی ہیں"
+}

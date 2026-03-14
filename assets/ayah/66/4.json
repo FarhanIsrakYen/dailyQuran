@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Tahrim",
+    "surahNameArabic": "التحريم",
+    "surahNameArabicLong": "سورة التحريم",
+    "surahNameTranslation": "The Prohibition",
+    "revelationPlace": "Madina",
+    "totalAyah": 12,
+    "surahNo": 66,
+    "ayahNo": 4,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/66_4.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/066004.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/66_4.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/066004.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/66_4.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/066004.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/66_4.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/066004.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/66_4.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/066004.mp3"
+        }
+    },
+    "english": "˹It will be better˺ if you ˹wives˺ both turn to Allah in repentance, for your hearts have certainly faltered. But if you ˹continue to˺ collaborate against him, then ˹know that˺ Allah Himself is his Guardian. And Gabriel, the righteous believers, and the angels are ˹all˺ his supporters as well.",
+    "arabic1": "إِن تَتُوبَآ إِلَى ٱللَّهِ فَقَدْ صَغَتْ قُلُوبُكُمَا ۖ وَإِن تَظَـٰهَرَا عَلَيْهِ فَإِنَّ ٱللَّهَ هُوَ مَوْلَىٰهُ وَجِبْرِيلُ وَصَـٰلِحُ ٱلْمُؤْمِنِينَ ۖ وَٱلْمَلَـٰٓئِكَةُ بَعْدَ ذَٰلِكَ ظَهِيرٌ",
+    "arabic2": "ان تتوبا الى الله فقد صغت قلوبكما وان تظاهرا عليه فان الله هو مولاه وجبريل وصالح المؤمنين والملائكة بعد ذلك ظهير",
+    "bengali": "যদি তোমরা উভয়ে আল্লাহর কাছে তওবা কর (তবে তা তোমাদের জন্য উত্তম)। কারণ তোমাদের উভয়ের অন্তর বাঁকা হয়েছে, আর তোমরা যদি তার বিরুদ্ধে পরস্পরকে সাহায্য কর তবে আল্লাহই তার অভিভাবক এবং জিব্রীল ও সৎকর্মশীল মু’মিনরাও। তাছাড়া অন্যান্য ফেরেশতারাও তার সাহায্যকারী।",
+    "urdu": "اگر تم دونوں خدا کے آگے توبہ کرو (تو بہتر ہے کیونکہ) تمہارے دل کج ہوگئے ہیں۔ اور اگر پیغمبر (کی ایذا) پر باہم اعانت کرو گی تو خدا اور جبریل اور نیک کردار مسلمان ان کے حامی (اور دوستدار) ہیں۔ اور ان کے علاوہ (اور) فرشتے بھی مددگار ہیں"
+}

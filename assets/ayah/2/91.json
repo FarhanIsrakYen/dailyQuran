@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 91,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_91.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002091.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_91.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002091.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_91.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002091.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_91.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002091.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_91.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002091.mp3"
+        }
+    },
+    "english": "When it is said to them: “Believe in what Allah has revealed,” they reply, “We only believe in what was sent down to us,” and they deny what came afterwards, though it is the truth confirming their own Scriptures! Ask ˹them, O  Prophet˺, “Why then did you kill Allah’s prophets before, if you are ˹truly˺ believers?”",
+    "arabic1": "وَإِذَا قِيلَ لَهُمْ ءَامِنُوا۟ بِمَآ أَنزَلَ ٱللَّهُ قَالُوا۟ نُؤْمِنُ بِمَآ أُنزِلَ عَلَيْنَا وَيَكْفُرُونَ بِمَا وَرَآءَهُۥ وَهُوَ ٱلْحَقُّ مُصَدِّقًا لِّمَا مَعَهُمْ ۗ قُلْ فَلِمَ تَقْتُلُونَ أَنۢبِيَآءَ ٱللَّهِ مِن قَبْلُ إِن كُنتُم مُّؤْمِنِينَ",
+    "arabic2": "واذا قيل لهم امنوا بما انزل الله قالوا نؤمن بما انزل علينا ويكفرون بما وراءه وهو الحق مصدقا لما معهم قل فلم تقتلون انبياء الله من قبل ان كنتم مؤمنين",
+    "bengali": "আর যখন তাদেরকে বলা হয়, ‘আল্লাহ যা নাযিল করেছেন তোমরা তার প্রতি ঈমান আন’। তারা বলে, ‘আমাদের প্রতি যা নাযিল হয়েছে আমরা তা বিশ্বাস করি’। আর এর বাইরে যা আছে তারা তা অস্বীকার করে। অথচ তা সত্য, তাদের সাথে যা আছে তার সত্যায়নকারী। বল, ‘তবে কেন তোমরা আল্লাহর নবীদেরকে পূর্বে হত্যা করতে, যদি তোমরা মুমিন হয়ে থাক’?",
+    "urdu": "اور جب ان سے کہا جاتا ہے کہ جو (کتاب) خدا نے (اب) نازل فرمائی ہے، اس کو مانو۔ تو کہتے ہیں کہ جو کتاب ہم پر (پہلے) نازل ہو چکی ہے، ہم تو اسی کو مانتے ہیں۔ (یعنی) یہ اس کے سوا کسی اور (کتاب) کو نہیں مانتے، حالانکہ وہ (سراسر) سچی ہے اور جو ان کی (آسمانی) کتاب ہے، اس کی بھی تصدیق کرتی ہے۔ (ان سے) کہہ دو کہ اگر تم صاحبِ ایمان ہوتے تو الله کے پیغمبروں کو پہلے ہی کیوں قتل کیا کرتے"
+}

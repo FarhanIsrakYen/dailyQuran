@@ -1,0 +1,42 @@
+{
+    "surahName": "Ghafir",
+    "surahNameArabic": "غافر",
+    "surahNameArabicLong": "سورة غافر",
+    "surahNameTranslation": "The Forgiver",
+    "revelationPlace": "Mecca",
+    "totalAyah": 85,
+    "surahNo": 40,
+    "ayahNo": 77,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/40_77.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/040077.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/40_77.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/040077.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/40_77.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/040077.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/40_77.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/040077.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/40_77.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/040077.mp3"
+        }
+    },
+    "english": "So be patient ˹O Prophet˺. Surely Allah’s promise is true. Whether We show you some of what We threaten them with, or cause you to die ˹before that˺, to Us they will ˹all˺ be returned.",
+    "arabic1": "فَٱصْبِرْ إِنَّ وَعْدَ ٱللَّهِ حَقٌّ ۚ فَإِمَّا نُرِيَنَّكَ بَعْضَ ٱلَّذِى نَعِدُهُمْ أَوْ نَتَوَفَّيَنَّكَ فَإِلَيْنَا يُرْجَعُونَ",
+    "arabic2": "فاصبر ان وعد الله حق فاما نرينك بعض الذي نعدهم او نتوفينك فالينا يرجعون",
+    "bengali": "অতএব তুমি ধৈর্যধারণ কর। নিশ্চয় আল্লাহর ওয়াদা সত্য। আর আমি তাদেরকে যে ওয়াদা দেই, তার কিছু অংশ যদি তোমাকে দেখাই অথবা তোমাকে মৃত্যু দেই, তাহলেও তারা আমার কাছে প্রত্যাবর্তিত হবে।",
+    "urdu": "تو (اے پیغمبر) صبر کرو خدا کا وعدہ سچا ہے۔ اگر ہم تم کو کچھ اس میں سے دکھادیں جس کا ہم تم سے وعدہ کرتے ہیں۔ (یعنی کافروں پر عذاب نازل کریں) یا تمہاری مدت حیات پوری کردیں تو ان کو ہماری ہی طرف لوٹ کر آنا ہے"
+}

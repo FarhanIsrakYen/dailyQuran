@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 12,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/17_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/017012.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/17_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/017012.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/17_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/017012.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/17_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/017012.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/17_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/017012.mp3"
+        }
+    },
+    "english": "We made the day and night as two signs. So We made the sign of the night devoid of light, and We made the sign of the day ˹perfectly˺ bright, so that you may seek the bounty of your Lord and know the number of years and calculation ˹of time˺. And We have explained everything in detail.",
+    "arabic1": "وَجَعَلْنَا ٱلَّيْلَ وَٱلنَّهَارَ ءَايَتَيْنِ ۖ فَمَحَوْنَآ ءَايَةَ ٱلَّيْلِ وَجَعَلْنَآ ءَايَةَ ٱلنَّهَارِ مُبْصِرَةً لِّتَبْتَغُوا۟ فَضْلًا مِّن رَّبِّكُمْ وَلِتَعْلَمُوا۟ عَدَدَ ٱلسِّنِينَ وَٱلْحِسَابَ ۚ وَكُلَّ شَىْءٍ فَصَّلْنَـٰهُ تَفْصِيلًا",
+    "arabic2": "وجعلنا الليل والنهار ايتين فمحونا اية الليل وجعلنا اية النهار مبصرة لتبتغوا فضلا من ربكم ولتعلموا عدد السنين والحساب وكل شيء فصلناه تفصيلا",
+    "bengali": "আর আমি রাত ও দিনকে করেছি দু’টো নিদর্শন। অতঃপর মুছে দিয়েছি রাতের নিদর্শন এবং দিনের নিদর্শনকে করেছি আলোকময়, যাতে তোমরা তোমাদের রবের অনুগ্রহ সন্ধান করতে পার এবং যাতে তোমরা বর্ষসংখ্যা ও হিসাব জানতে পার। আর আমি প্রত্যেক বিষয় বিস্তারিতভাবে বর্ণনা করেছি।",
+    "urdu": "اور ہم نے دن اور رات کو دو نشانیاں بنایا ہے رات کی نشانی کو تاریک بنایا اور دن کی نشانی کو روشن۔ تاکہ تم اپنے پروردگار کا فضل (یعنی) روزی تلاش کرو اور برسوں کا شمار اور حساب جانو۔ اور ہم نے ہر چیز کو (بخوبی) تفصیل کردی ہے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 124,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_124.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002124.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_124.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002124.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_124.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002124.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_124.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002124.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_124.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002124.mp3"
+        }
+    },
+    "english": "˹Remember˺ when Abraham was tested by his Lord with ˹certain˺ commandments, which he fulfilled. Allah said, “I will certainly make you into a role model for the people.” Abraham asked, “What about my offspring?” Allah replied, “My covenant is not extended to the wrongdoers.”",
+    "arabic1": "۞ وَإِذِ ٱبْتَلَىٰٓ إِبْرَٰهِـۧمَ رَبُّهُۥ بِكَلِمَـٰتٍ فَأَتَمَّهُنَّ ۖ قَالَ إِنِّى جَاعِلُكَ لِلنَّاسِ إِمَامًا ۖ قَالَ وَمِن ذُرِّيَّتِى ۖ قَالَ لَا يَنَالُ عَهْدِى ٱلظَّـٰلِمِينَ",
+    "arabic2": "واذ ابتلى ابراهيم ربه بكلمات فاتمهن قال اني جاعلك للناس اماما قال ومن ذريتي قال لا ينال عهدي الظالمين",
+    "bengali": "আর স্মরণ কর, যখন ইবরাহীমকে তার রব কয়েকটি বাণী দিয়ে পরীক্ষা করলেন, অতঃপর সে তা পূর্ণ করল। তিনি বললেন, ‘আমি তোমাকে মানুষের জন্য নেতা বানাব’। সে বলল, ‘আমার বংশধরদের থেকেও’? তিনি বললেন, ‘যালিমরা আমার ওয়াদাপ্রাপ্ত হয় না’।",
+    "urdu": "اور جب پروردگار نے چند باتوں میں ابراہیم کی آزمائش کی تو ان میں پورے اترے۔ خدا نے کہا کہ میں تم کو لوگوں کا پیشوا بناؤں گا۔ انہوں نے کہا کہ (پروردگار) میری اولاد میں سے بھی (پیشوا بنائیو)۔ خدا نے فرمایا کہ ہمارا اقرار ظالموں کے لیے نہیں ہوا کرتا"
+}

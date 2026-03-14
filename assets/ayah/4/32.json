@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 32,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/4_32.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/004032.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/4_32.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/004032.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/4_32.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/004032.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/4_32.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/004032.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/4_32.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/004032.mp3"
+        }
+    },
+    "english": "And do not crave what Allah has given some of you over others. Men will be rewarded according to their deeds and women ˹equally˺ according to theirs. Rather, ask Allah for His bounties. Surely Allah has ˹perfect˺ knowledge of all things.",
+    "arabic1": "وَلَا تَتَمَنَّوْا۟ مَا فَضَّلَ ٱللَّهُ بِهِۦ بَعْضَكُمْ عَلَىٰ بَعْضٍ ۚ لِّلرِّجَالِ نَصِيبٌ مِّمَّا ٱكْتَسَبُوا۟ ۖ وَلِلنِّسَآءِ نَصِيبٌ مِّمَّا ٱكْتَسَبْنَ ۚ وَسْـَٔلُوا۟ ٱللَّهَ مِن فَضْلِهِۦٓ ۗ إِنَّ ٱللَّهَ كَانَ بِكُلِّ شَىْءٍ عَلِيمًا",
+    "arabic2": "ولا تتمنوا ما فضل الله به بعضكم على بعض للرجال نصيب مما اكتسبوا وللنساء نصيب مما اكتسبن واسالوا الله من فضله ان الله كان بكل شيء عليما",
+    "bengali": "আর তোমরা আকাঙ্ক্ষা করো না সে সবের, যার মাধ্যমে আল্লাহ তোমাদের এক জনকে অন্য জনের উপর প্রাধান্য দিয়েছেন। পুরুষদের জন্য রয়েছে অংশ, তারা যা উপার্জন করে তা থেকে এবং নারীদের জন্য রয়েছে অংশ, যা তারা উপার্জন করে তা থেকে। আর তোমরা আল্লাহর কাছে তাঁর অনুগ্রহ চাও। নিশ্চয় আল্লাহ সর্ব বিষয়ে সম্যক জ্ঞাত।",
+    "urdu": "اور جس چیز میں خدا نے تم میں سے بعض کو بعض پر فضیلت دی ہے اس کی ہوس مت کرو مردوں کو ان کاموں کا ثواب ہے جو انہوں نے کئے اور عورتوں کو ان کاموں کا ثواب ہے جو انہوں نے کئے اور خدا سے اس کا فضل (وکرم) مانگتے رہو کچھ شک نہیں کہ خدا ہر چیز سے واقف ہے"
+}

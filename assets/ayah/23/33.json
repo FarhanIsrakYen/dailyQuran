@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Muminoon",
+    "surahNameArabic": "المؤمنون",
+    "surahNameArabicLong": "سورة المؤمنون",
+    "surahNameTranslation": "The Believers",
+    "revelationPlace": "Mecca",
+    "totalAyah": 118,
+    "surahNo": 23,
+    "ayahNo": 33,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/23_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/023033.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/23_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/023033.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/23_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/023033.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/23_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/023033.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/23_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/023033.mp3"
+        }
+    },
+    "english": "But the chiefs of his people—who disbelieved, denied the meeting ˹with Allah˺ in the Hereafter, and were spoiled by the worldly luxuries We had provided for them—said ˹to the masses˺, “This is only a human like you. He eats what you eat, and drinks what you drink.",
+    "arabic1": "وَقَالَ ٱلْمَلَأُ مِن قَوْمِهِ ٱلَّذِينَ كَفَرُوا۟ وَكَذَّبُوا۟ بِلِقَآءِ ٱلْـَٔاخِرَةِ وَأَتْرَفْنَـٰهُمْ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا مَا هَـٰذَآ إِلَّا بَشَرٌ مِّثْلُكُمْ يَأْكُلُ مِمَّا تَأْكُلُونَ مِنْهُ وَيَشْرَبُ مِمَّا تَشْرَبُونَ",
+    "arabic2": "وقال الملا من قومه الذين كفروا وكذبوا بلقاء الاخرة واترفناهم في الحياة الدنيا ما هذا الا بشر مثلكم ياكل مما تاكلون منه ويشرب مما تشربون",
+    "bengali": "আর তার সম্প্রদায়ের নেতৃস্থানীয় ব্যক্তিগণ যারা কুফরী করেছে, আখেরাতের সাক্ষাতকে অস্বীকার করেছে এবং আমি দুনিয়ার জীবনে যাদের ভোগ বিলাসিতা দিয়েছিলাম, তারা বলল, ‘সে কেবল তোমাদের মত একজন মানুষ, সে তাই খায় যা থেকে তোমরা খাও এবং সে তাই পান করে যা থেকে তোমরা পান কর’।",
+    "urdu": "تو ان کی قوم کے سردار جو کافر تھے اور آخرت کے آنے کو جھوٹ سمجھتے تھے اور دنیا کی زندگی میں ہم نے ان کو آسودگی دے رکھی تھی۔ کہنے لگے کہ یہ تو تم ہی جیسا آدمی ہے، جس قسم کا کھانا تم کھاتے ہو، اسی طرح کا یہ بھی کھاتا ہے اور جو پانی تم پیتے ہو اسی قسم کا یہ بھی پیتا ہے"
+}

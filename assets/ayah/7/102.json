@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 102,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/7_102.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/007102.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/7_102.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/007102.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/7_102.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/007102.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/7_102.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/007102.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/7_102.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/007102.mp3"
+        }
+    },
+    "english": "We did not find most of them true to their covenant. Rather, We found most of them truly rebellious.",
+    "arabic1": "وَمَا وَجَدْنَا لِأَكْثَرِهِم مِّنْ عَهْدٍ ۖ وَإِن وَجَدْنَآ أَكْثَرَهُمْ لَفَـٰسِقِينَ",
+    "arabic2": "وما وجدنا لاكثرهم من عهد وان وجدنا اكثرهم لفاسقين",
+    "bengali": "আর তাদের অধিকাংশ লোককে আমি অঙ্গীকার রক্ষাকারী পাইনি। বরং তাদের অধিকাংশকে আমি ফাসিক-ই পেয়েছি।",
+    "urdu": "اور ہم نے ان میں سے اکثروں میں (عہد کا نباہ) نہیں دیکھا۔ اور ان میں اکثروں کو (دیکھا تو) بدکار ہی دیکھا"
+}

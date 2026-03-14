@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Maaida",
+    "surahNameArabic": "المائدة",
+    "surahNameArabicLong": "سورة المائدة",
+    "surahNameTranslation": "The Table",
+    "revelationPlace": "Madina",
+    "totalAyah": 120,
+    "surahNo": 5,
+    "ayahNo": 57,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/5_57.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/005057.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/5_57.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/005057.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/5_57.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/005057.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/5_57.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/005057.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/5_57.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/005057.mp3"
+        }
+    },
+    "english": "O believers! Do not seek the guardianship of those given the Scripture before you and the disbelievers who have made your faith a mockery and amusement. And be mindful of Allah if you are ˹truly˺ believers.",
+    "arabic1": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَتَّخِذُوا۟ ٱلَّذِينَ ٱتَّخَذُوا۟ دِينَكُمْ هُزُوًا وَلَعِبًا مِّنَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ مِن قَبْلِكُمْ وَٱلْكُفَّارَ أَوْلِيَآءَ ۚ وَٱتَّقُوا۟ ٱللَّهَ إِن كُنتُم مُّؤْمِنِينَ",
+    "arabic2": "يا ايها الذين امنوا لا تتخذوا الذين اتخذوا دينكم هزوا ولعبا من الذين اوتوا الكتاب من قبلكم والكفار اولياء واتقوا الله ان كنتم مؤمنين",
+    "bengali": "হে মুমিনগণ, তোমরা তাদেরকে বন্ধুরূপে গ্রহণ করো না, যারা তোমাদের দ্বীনকে উপহাস ও খেল-তামাশারূপে গ্রহণ করেছে, তাদের মধ্য থেকে তোমাদের পূর্বে যাদেরকে কিতাব দেয়া হয়েছে ও কাফিরদেরকে। আর আল্লাহর তাকওয়া অবলম্বন কর, যদি তোমরা মুমিন হয়ে থাক।",
+    "urdu": "اے ایمان والوں! جن لوگوں کو تم سے پہلے کتابیں دی گئی تھیں ان کو اور کافروں کو جنہوں نے تمہارے دین کو ہنسی اور کھیل بنا رکھا ہے دوست نہ بناؤ اور مومن ہو تو خدا سے ڈرتے رہو"
+}

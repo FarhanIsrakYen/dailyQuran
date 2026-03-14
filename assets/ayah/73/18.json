@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Muzzammil",
+    "surahNameArabic": "المزمل",
+    "surahNameArabicLong": "سورة المزمل",
+    "surahNameTranslation": "The Enshrouded One",
+    "revelationPlace": "Mecca",
+    "totalAyah": 20,
+    "surahNo": 73,
+    "ayahNo": 18,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/73_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/073018.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/73_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/073018.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/73_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/073018.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/73_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/073018.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/73_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/073018.mp3"
+        }
+    },
+    "english": "It will ˹even˺ cause the sky to split apart. His promise ˹of judgment˺ must be fulfilled.",
+    "arabic1": "ٱلسَّمَآءُ مُنفَطِرٌۢ بِهِۦ ۚ كَانَ وَعْدُهُۥ مَفْعُولًا",
+    "arabic2": "السماء منفطر به كان وعده مفعولا",
+    "bengali": "যার কারণে আসমান হবে বিদীর্ণ, আল্লাহর ওয়াদা হবে বাস্তবায়িত।",
+    "urdu": "(اور) جس سے آسمان پھٹ جائے گا۔ یہ اس کا وعدہ (پورا) ہو کر رہے گا"
+}

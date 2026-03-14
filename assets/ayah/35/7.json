@@ -1,0 +1,42 @@
+{
+    "surahName": "Faatir",
+    "surahNameArabic": "فاطر",
+    "surahNameArabicLong": "سورة فاطر",
+    "surahNameTranslation": "The Originator",
+    "revelationPlace": "Mecca",
+    "totalAyah": 45,
+    "surahNo": 35,
+    "ayahNo": 7,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/35_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/035007.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/35_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/035007.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/35_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/035007.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/35_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/035007.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/35_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/035007.mp3"
+        }
+    },
+    "english": "Those who disbelieve will have a severe punishment. But those who believe and do good will have forgiveness and a great reward.",
+    "arabic1": "ٱلَّذِينَ كَفَرُوا۟ لَهُمْ عَذَابٌ شَدِيدٌ ۖ وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ لَهُم مَّغْفِرَةٌ وَأَجْرٌ كَبِيرٌ",
+    "arabic2": "الذين كفروا لهم عذاب شديد والذين امنوا وعملوا الصالحات لهم مغفرة واجر كبير",
+    "bengali": "যারা কুফরী করে তাদের জন্য রয়েছে কঠিন আযাব; আর যারা ঈমান আনে ও নেক আমল করে তাদের জন্য রয়েছে ক্ষমা ও বড় প্রতিদান।",
+    "urdu": "جہنوں نے کفر کیا ان کے لئے سخت عذاب ہے۔ اور جو ایمان لائے اور عمل نیک کرتے رہے ان کے لئے بخشش اور بڑا ثواب ہے"
+}

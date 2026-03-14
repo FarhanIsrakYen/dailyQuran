@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Naml",
+    "surahNameArabic": "النمل",
+    "surahNameArabicLong": "سورة النمل",
+    "surahNameTranslation": "The Ant",
+    "revelationPlace": "Mecca",
+    "totalAyah": 93,
+    "surahNo": 27,
+    "ayahNo": 41,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/27_41.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/027041.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/27_41.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/027041.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/27_41.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/027041.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/27_41.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/027041.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/27_41.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/027041.mp3"
+        }
+    },
+    "english": "˹Then˺ Solomon said, “Disguise her throne for her so we may see whether she will recognize ˹it˺ or she will not be able to.”",
+    "arabic1": "قَالَ نَكِّرُوا۟ لَهَا عَرْشَهَا نَنظُرْ أَتَهْتَدِىٓ أَمْ تَكُونُ مِنَ ٱلَّذِينَ لَا يَهْتَدُونَ",
+    "arabic2": "قال نكروا لها عرشها ننظر اتهتدي ام تكون من الذين لا يهتدون",
+    "bengali": "সুলাইমান বলল, ‘তোমরা তার জন্য তার সিংহাসনের আকার-আকৃতি পরিবর্তন করে দাও। দেখব সে সঠিক দিশা পায় নাকি তাদের অন্তর্ভুক্ত হয়ে পড়ে, যারা সঠিক দিশা পায় না’।",
+    "urdu": "سلیمان نے کہا کہ ملکہ کے (امتحان عقل کے) لئے اس کے تخت کی صورت بدل دو۔ دیکھیں کہ وہ سوجھ رکھتی ہے یا ان لوگوں میں ہے جو سوجھ نہیں رکھتے"
+}

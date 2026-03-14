@@ -1,0 +1,42 @@
+{
+    "surahName": "Saba",
+    "surahNameArabic": "سبإ",
+    "surahNameArabicLong": "سورة سَبَأ",
+    "surahNameTranslation": "Sheba",
+    "revelationPlace": "Mecca",
+    "totalAyah": 54,
+    "surahNo": 34,
+    "ayahNo": 28,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/34_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/034028.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/34_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/034028.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/34_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/034028.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/34_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/034028.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/34_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/034028.mp3"
+        }
+    },
+    "english": "We have sent you ˹O Prophet˺ only as a deliverer of good news and a warner to all of humanity, but most people do not know.",
+    "arabic1": "وَمَآ أَرْسَلْنَـٰكَ إِلَّا كَآفَّةً لِّلنَّاسِ بَشِيرًا وَنَذِيرًا وَلَـٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ",
+    "arabic2": "وما ارسلناك الا كافة للناس بشيرا ونذيرا ولكن اكثر الناس لا يعلمون",
+    "bengali": "আর আমি তো কেবল তোমাকে সমগ্র মানবজাতির জন্য সুসংবাদদাতা ও সতর্ককারী হিসেবে প্রেরণ করেছি; কিন্তু অধিকাংশ মানুষ জানে না,",
+    "urdu": "اور (اے محمدﷺ) ہم نے تم کو تمام لوگوں کے لئے خوشخبری سنانے والا اور ڈرانے والا بنا کر بھیجا ہے لیکن اکثر لوگ نہیں جانتے"
+}

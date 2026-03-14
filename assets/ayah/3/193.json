@@ -1,0 +1,42 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 193,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/3_193.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/003193.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/3_193.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/003193.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/3_193.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/003193.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/3_193.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/003193.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/3_193.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/003193.mp3"
+        }
+    },
+    "english": "Our Lord! We have heard the caller to ˹true˺ belief, ˹proclaiming,˺ ‘Believe in your Lord ˹alone˺,’ so we believed. Our Lord! Forgive our sins, absolve us of our misdeeds, and allow us ˹each˺ to die as one of the virtuous.",
+    "arabic1": "رَّبَّنَآ إِنَّنَا سَمِعْنَا مُنَادِيًا يُنَادِى لِلْإِيمَـٰنِ أَنْ ءَامِنُوا۟ بِرَبِّكُمْ فَـَٔامَنَّا ۚ رَبَّنَا فَٱغْفِرْ لَنَا ذُنُوبَنَا وَكَفِّرْ عَنَّا سَيِّـَٔاتِنَا وَتَوَفَّنَا مَعَ ٱلْأَبْرَارِ",
+    "arabic2": "ربنا اننا سمعنا مناديا ينادي للايمان ان امنوا بربكم فامنا ربنا فاغفر لنا ذنوبنا وكفر عنا سيئاتنا وتوفنا مع الابرار",
+    "bengali": "‘হে আমাদের রব, নিশ্চয় আমরা শুনেছিলাম একজন আহবানকারীকে, যে ঈমানের দিকে আহবান করে যে, ‘তোমরা তোমাদের রবের প্রতি ঈমান আন’। তাই আমরা ঈমান এনেছি। হে আমাদের রব আমাদের গুনাহসমূহ ক্ষমা করুন এবং বিদূরিত করুন আমাদের ত্রুটি-বিচ্যুতি, আর আমাদেরকে মৃত্যু দিন নেককারদের সাথে’।",
+    "urdu": "اے پروردگارہم نے ایک ندا کرنے والے کو سنا کہ ایمان کے لیے پکار رہا تھا (یعنی) اپنے پروردگار پر ایمان لاؤ تو ہم ایمان لے آئے اے پروردگار ہمارے گناہ معاف فرما اور ہماری برائیوں کو ہم سے محو کر اور ہم کو دنیا سے نیک بندوں کے ساتھ اٹھا"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Mujaadila",
+    "surahNameArabic": "المجادلة",
+    "surahNameArabicLong": "سورة المجادلة",
+    "surahNameTranslation": "The Pleading Woman",
+    "revelationPlace": "Madina",
+    "totalAyah": 22,
+    "surahNo": 58,
+    "ayahNo": 14,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/58_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/058014.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/58_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/058014.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/58_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/058014.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/58_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/058014.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/58_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/058014.mp3"
+        }
+    },
+    "english": "Have you not seen those ˹hypocrites˺ who ally themselves with a people with whom Allah is displeased? They are neither with you nor with them. And they swear to lies knowingly.",
+    "arabic1": "۞ أَلَمْ تَرَ إِلَى ٱلَّذِينَ تَوَلَّوْا۟ قَوْمًا غَضِبَ ٱللَّهُ عَلَيْهِم مَّا هُم مِّنكُمْ وَلَا مِنْهُمْ وَيَحْلِفُونَ عَلَى ٱلْكَذِبِ وَهُمْ يَعْلَمُونَ",
+    "arabic2": "الم تر الى الذين تولوا قوما غضب الله عليهم ما هم منكم ولا منهم ويحلفون على الكذب وهم يعلمون",
+    "bengali": "তুমি কি তাদের লক্ষ্য করনি, যারা এমন এক কওমের সাথে বন্ধুত্ব করে যাদের উপর আল্লাহর গযব নিপতিত হয়েছে? তারা তোমাদের দলভুক্ত নয় এবং তোমরাও তাদের দলভুক্ত নও। আর তারা জেনে শুনেই মিথ্যার উপর কসম করে।",
+    "urdu": "بھلا تم نے ان لوگوں کو نہیں دیکھا جو ایسوں سے دوستی کرتے ہیں جن پر خدا کا غضب ہوا۔ وہ نہ تم میں ہیں نہ ان میں۔ اور جان بوجھ کر جھوٹی باتوں پر قسمیں کھاتے ہیں"
+}

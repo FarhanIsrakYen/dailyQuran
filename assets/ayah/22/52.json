@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Hajj",
+    "surahNameArabic": "الحج",
+    "surahNameArabicLong": "سورة الحج",
+    "surahNameTranslation": "The Pilgrimage",
+    "revelationPlace": "Madina",
+    "totalAyah": 78,
+    "surahNo": 22,
+    "ayahNo": 52,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/22_52.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/022052.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/22_52.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/022052.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/22_52.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/022052.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/22_52.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/022052.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/22_52.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/022052.mp3"
+        }
+    },
+    "english": "Whenever We sent a messenger or a prophet before you ˹O Prophet˺ and he recited ˹Our revelations˺, Satan would influence ˹people’s understanding of˺ his recitation. But ˹eventually˺ Allah would eliminate Satan’s influence. Then Allah would ˹firmly˺ establish His revelations. And Allah is All-Knowing, All-Wise.",
+    "arabic1": "وَمَآ أَرْسَلْنَا مِن قَبْلِكَ مِن رَّسُولٍ وَلَا نَبِىٍّ إِلَّآ إِذَا تَمَنَّىٰٓ أَلْقَى ٱلشَّيْطَـٰنُ فِىٓ أُمْنِيَّتِهِۦ فَيَنسَخُ ٱللَّهُ مَا يُلْقِى ٱلشَّيْطَـٰنُ ثُمَّ يُحْكِمُ ٱللَّهُ ءَايَـٰتِهِۦ ۗ وَٱللَّهُ عَلِيمٌ حَكِيمٌ",
+    "arabic2": "وما ارسلنا من قبلك من رسول ولا نبي الا اذا تمنى القى الشيطان في امنيته فينسخ الله ما يلقي الشيطان ثم يحكم الله اياته والله عليم حكيم",
+    "bengali": "আর আমি তোমার পূর্বে যে রাসূল কিংবা নবী পাঠিয়েছি, সে যখনই (ওহীকৃত বাণী) পাঠ করেছে, শয়তান তার পাঠে (কিছু) নিক্ষেপ করেছে। কিন্তু শয়তান যা নিক্ষেপ করে আল্লাহ তা মুছে দেন। অতঃপর আল্লাহ তাঁর আয়াতসমূহকে সুদৃঢ় করে দেন। আর আল্লাহ মহাজ্ঞানী, অতি প্রজ্ঞাময়।",
+    "urdu": "اور ہم نے تم سے پہلے کوئی رسول اور نبی نہیں بھیجا مگر (اس کا یہ حال تھا کہ) جب وہ کوئی آرزو کرتا تھا تو شیطان اس کی آرزو میں (وسوسہ) ڈال دیتا تھا۔ تو جو (وسوسہ) شیطان ڈالتا ہے خدا اس کو دور کردیتا ہے۔ پھر خدا اپنی آیتوں کو مضبوط کردیتا ہے۔ اور خدا علم والا اور حکمت والا ہے"
+}

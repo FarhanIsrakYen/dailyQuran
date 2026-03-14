@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Noor",
+    "surahNameArabic": "النور",
+    "surahNameArabicLong": "سورة النور",
+    "surahNameTranslation": "The Light",
+    "revelationPlace": "Madina",
+    "totalAyah": 64,
+    "surahNo": 24,
+    "ayahNo": 51,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/24_51.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/024051.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/24_51.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/024051.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/24_51.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/024051.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/24_51.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/024051.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/24_51.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/024051.mp3"
+        }
+    },
+    "english": "The only response of the ˹true˺ believers, when they are called to Allah and His Messenger so he may judge between them, is to say, “We hear and obey.” It is they who will ˹truly˺ succeed.",
+    "arabic1": "إِنَّمَا كَانَ قَوْلَ ٱلْمُؤْمِنِينَ إِذَا دُعُوٓا۟ إِلَى ٱللَّهِ وَرَسُولِهِۦ لِيَحْكُمَ بَيْنَهُمْ أَن يَقُولُوا۟ سَمِعْنَا وَأَطَعْنَا ۚ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ",
+    "arabic2": "انما كان قول المؤمنين اذا دعوا الى الله ورسوله ليحكم بينهم ان يقولوا سمعنا واطعنا واولئك هم المفلحون",
+    "bengali": "মুমিনদেরকে যখন আল্লাহ ও তাঁর রাসূলের প্রতি এ মর্মে আহবান করা হয় যে, তিনি তাদের মধ্যে বিচার, মীমাংসা করবেন, তাদের কথা তো এই হয় যে, তখন তারা বলে: ‘আমরা শুনলাম ও আনুগত্য করলাম।’ আর তারাই সফলকাম।",
+    "urdu": "مومنوں کی تو یہ بات ہے کہ جب خدا اور اس کے رسول کی طرف بلائے جائیں تاکہ وہ ان میں فیصلہ کریں تو کہیں کہ ہم نے (حکم) سن لیا اور مان لیا۔ اور یہی لوگ فلاح پانے والے ہیں"
+}

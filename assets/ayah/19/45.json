@@ -1,0 +1,42 @@
+{
+    "surahName": "Maryam",
+    "surahNameArabic": "مريم",
+    "surahNameArabicLong": "سورة مريم",
+    "surahNameTranslation": "Mary",
+    "revelationPlace": "Mecca",
+    "totalAyah": 98,
+    "surahNo": 19,
+    "ayahNo": 45,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/19_45.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/019045.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/19_45.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/019045.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/19_45.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/019045.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/19_45.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/019045.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/19_45.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/019045.mp3"
+        }
+    },
+    "english": "O  dear father! I truly fear that you will be touched by a torment from the Most Compassionate, and become Satan’s companion ˹in Hell˺.”",
+    "arabic1": "يَـٰٓأَبَتِ إِنِّىٓ أَخَافُ أَن يَمَسَّكَ عَذَابٌ مِّنَ ٱلرَّحْمَـٰنِ فَتَكُونَ لِلشَّيْطَـٰنِ وَلِيًّا",
+    "arabic2": "يا ابت اني اخاف ان يمسك عذاب من الرحمن فتكون للشيطان وليا",
+    "bengali": "‘হে আমার পিতা, আমি আশংকা করছি যে, পরম করুণাময়ের (পক্ষ থেকে) তোমাকে আযাব স্পর্শ করবে, ফলে তুমি শয়তানের সঙ্গী হয়ে যাবে।’",
+    "urdu": "ابّا مجھے ڈر لگتا ہے کہ آپ کو خدا کا عذاب آپکڑے تو آپ شیطان کے ساتھی ہوجائیں"
+}

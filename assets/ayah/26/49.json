@@ -1,0 +1,42 @@
+{
+    "surahName": "Ash-Shu'araa",
+    "surahNameArabic": "الشعراء",
+    "surahNameArabicLong": "سورة الشعراء",
+    "surahNameTranslation": "The Poets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 227,
+    "surahNo": 26,
+    "ayahNo": 49,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/26_49.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/026049.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/26_49.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/026049.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/26_49.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/026049.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/26_49.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/026049.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/26_49.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/026049.mp3"
+        }
+    },
+    "english": "Pharaoh threatened, “How dare you believe in him before I give you permission? He must be your master who taught you magic, but soon you will see. I will certainly cut off your hands and feet on opposite sides, then crucify you all.”",
+    "arabic1": "قَالَ ءَامَنتُمْ لَهُۥ قَبْلَ أَنْ ءَاذَنَ لَكُمْ ۖ إِنَّهُۥ لَكَبِيرُكُمُ ٱلَّذِى عَلَّمَكُمُ ٱلسِّحْرَ فَلَسَوْفَ تَعْلَمُونَ ۚ لَأُقَطِّعَنَّ أَيْدِيَكُمْ وَأَرْجُلَكُم مِّنْ خِلَـٰفٍ وَلَأُصَلِّبَنَّكُمْ أَجْمَعِينَ",
+    "arabic2": "قال امنتم له قبل ان اذن لكم انه لكبيركم الذي علمكم السحر فلسوف تعلمون لاقطعن ايديكم وارجلكم من خلاف ولاصلبنكم اجمعين",
+    "bengali": "ফির‘আউন বলল, ‘আমি তোমাদেরকে অনুমতি দেয়ার পূর্বেই তোমরা তার প্রতি ঈমান আনলে? নিশ্চয় সে তোমাদের গুরু যে তোমাদের যাদু শিক্ষা দিয়েছে। অতএব অচিরেই তোমরা জানতে পারবে। আমি অবশ্যই তোমাদের হাতসমূহ ও তোমাদের পাসমূহ বিপরীত দিক থেকে কেটে ফেলব এবং অবশ্যই তোমাদের সকলকে শূলিবিদ্ধ করব’।",
+    "urdu": "فرعون نے کہا کیا اس سے پہلے کہ میں تم کو اجازت دوں تم اس پر ایمان لے آئے، بےشک یہ تمہارا بڑا ہے جس نے تم کو جادو سکھایا ہے۔ سو عنقریب تم (اس کا انجام) معلوم کرلو گے کہ میں تمہارے ہاتھ اور پاؤں اطراف مخالف سے کٹوا دوں گا اور تم سب کو سولی پر چڑھوا دوں گا"
+}

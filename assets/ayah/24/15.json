@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Noor",
+    "surahNameArabic": "النور",
+    "surahNameArabicLong": "سورة النور",
+    "surahNameTranslation": "The Light",
+    "revelationPlace": "Madina",
+    "totalAyah": 64,
+    "surahNo": 24,
+    "ayahNo": 15,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/24_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/024015.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/24_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/024015.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/24_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/024015.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/24_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/024015.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/24_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/024015.mp3"
+        }
+    },
+    "english": "when you passed it from one tongue to the other, and said with your mouths what you had no knowledge of, taking it lightly while it is ˹extremely˺ serious in the sight of Allah.",
+    "arabic1": "إِذْ تَلَقَّوْنَهُۥ بِأَلْسِنَتِكُمْ وَتَقُولُونَ بِأَفْوَاهِكُم مَّا لَيْسَ لَكُم بِهِۦ عِلْمٌ وَتَحْسَبُونَهُۥ هَيِّنًا وَهُوَ عِندَ ٱللَّهِ عَظِيمٌ",
+    "arabic2": "اذ تلقونه بالسنتكم وتقولون بافواهكم ما ليس لكم به علم وتحسبونه هينا وهو عند الله عظيم",
+    "bengali": "যখন এটা তোমরা তোমাদের মুখে মুখে ছড়াচ্ছিলে এবং তোমরা তোমাদের মুখ দিয়ে এমন কথা বলছিলে, যাতে তোমাদের কোন জ্ঞান ছিল না; আর তোমরা এটাকে খুবই তুচ্ছ মনে করছিলে, অথচ এটা আল্লাহর নিকট খুবই গুরুতর।",
+    "urdu": "جب تم اپنی زبانوں سے اس کا ایک دوسرے سے ذکر کرتے تھے اور اپنے منہ سے ایسی بات کہتے تھے جس کا تم کو کچھ علم نہ تھا اور تم اسے ایک ہلکی بات سمجھتے تھے اور خدا کے نزدیک وہ بڑی بھاری بات تھی"
+}

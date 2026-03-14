@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Tur",
+    "surahNameArabic": "الطور",
+    "surahNameArabicLong": "سورة الطور",
+    "surahNameTranslation": "The Mount",
+    "revelationPlace": "Mecca",
+    "totalAyah": 49,
+    "surahNo": 52,
+    "ayahNo": 47,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/52_47.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/052047.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/52_47.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/052047.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/52_47.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/052047.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/52_47.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/052047.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/52_47.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/052047.mp3"
+        }
+    },
+    "english": "Also, the wrongdoers will certainly have another torment before that ˹Day˺, but most of them do not know.",
+    "arabic1": "وَإِنَّ لِلَّذِينَ ظَلَمُوا۟ عَذَابًا دُونَ ذَٰلِكَ وَلَـٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ",
+    "arabic2": "وان للذين ظلموا عذابا دون ذلك ولكن اكثرهم لا يعلمون",
+    "bengali": "আর নিশ্চয় যারা যুলম করবে তাদের জন্য থাকবে এছাড়া আরো আযাব; কিন্তু তাদের বেশীরভাগই জানে না।",
+    "urdu": "اور ظالموں کے لئے اس کے سوا اور عذاب بھی ہے لیکن ان میں کے اکثر نہیں جانتے"
+}

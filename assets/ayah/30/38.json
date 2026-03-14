@@ -1,0 +1,42 @@
+{
+    "surahName": "Ar-Room",
+    "surahNameArabic": "الروم",
+    "surahNameArabicLong": "سورة الروم",
+    "surahNameTranslation": "The Romans",
+    "revelationPlace": "Mecca",
+    "totalAyah": 60,
+    "surahNo": 30,
+    "ayahNo": 38,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/30_38.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/030038.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/30_38.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/030038.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/30_38.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/030038.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/30_38.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/030038.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/30_38.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/030038.mp3"
+        }
+    },
+    "english": "So give your close relatives their due, as well as the poor and the ˹needy˺ traveller. That is best for those who seek the pleasure of Allah, and it is they who will be successful.",
+    "arabic1": "فَـَٔاتِ ذَا ٱلْقُرْبَىٰ حَقَّهُۥ وَٱلْمِسْكِينَ وَٱبْنَ ٱلسَّبِيلِ ۚ ذَٰلِكَ خَيْرٌ لِّلَّذِينَ يُرِيدُونَ وَجْهَ ٱللَّهِ ۖ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ",
+    "arabic2": "فات ذا القربى حقه والمسكين وابن السبيل ذلك خير للذين يريدون وجه الله واولئك هم المفلحون",
+    "bengali": "অতএব আত্মীয়-স্বজনকে তাদের হক দিয়ে দাও এবং মিসকীন ও মুসাফিরকেও। এটি উত্তম তাদের জন্য, যারা আল্লাহর সন্তুষ্টি চায় এবং তারাই সফলকাম।",
+    "urdu": "تو اہلِ قرابت اور محتاجوں اور مسافروں کو ان کا حق دیتے رہو۔ جو لوگ رضائے خدا کے طالب ہیں یہ اُن کے حق میں بہتر ہے۔ اور یہی لوگ نجات حاصل کرنے والے ہیں"
+}

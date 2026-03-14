@@ -1,0 +1,42 @@
+{
+    "surahName": "Maryam",
+    "surahNameArabic": "مريم",
+    "surahNameArabicLong": "سورة مريم",
+    "surahNameTranslation": "Mary",
+    "revelationPlace": "Mecca",
+    "totalAyah": 98,
+    "surahNo": 19,
+    "ayahNo": 33,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/19_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/019033.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/19_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/019033.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/19_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/019033.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/19_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/019033.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/19_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/019033.mp3"
+        }
+    },
+    "english": "Peace be upon me the day I was born, the day I die, and the day I will be raised back to life!”",
+    "arabic1": "وَٱلسَّلَـٰمُ عَلَىَّ يَوْمَ وُلِدتُّ وَيَوْمَ أَمُوتُ وَيَوْمَ أُبْعَثُ حَيًّا",
+    "arabic2": "والسلام علي يوم ولدت ويوم اموت ويوم ابعث حيا",
+    "bengali": "‘আর আমার উপর শান্তি, যেদিন আমি জন্মেছি এবং যেদিন আমি মারা যাব আর যেদিন আমাকে জীবিত অবস্থায় উঠানো হবে’।",
+    "urdu": "اور جس دن میں پیدا ہوا اور جس دن مروں گا اور جس دن زندہ کرکے اٹھایا جاؤں گا مجھ پر سلام (ورحمت) ہے"
+}

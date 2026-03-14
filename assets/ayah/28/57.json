@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Qasas",
+    "surahNameArabic": "القصص",
+    "surahNameArabicLong": "سورة القصص",
+    "surahNameTranslation": "The Stories",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 28,
+    "ayahNo": 57,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/28_57.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/028057.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/28_57.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/028057.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/28_57.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/028057.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/28_57.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/028057.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/28_57.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/028057.mp3"
+        }
+    },
+    "english": "They say ˹to the Prophet˺, “If we were to follow ˹true˺ guidance with you, we would certainly be snatched away from our land.” Have We not established for them a safe haven ˹in Mecca˺ to which fruits of all kinds are brought as a provision from Us? But most of them do not know ˹this favour˺.",
+    "arabic1": "وَقَالُوٓا۟ إِن نَّتَّبِعِ ٱلْهُدَىٰ مَعَكَ نُتَخَطَّفْ مِنْ أَرْضِنَآ ۚ أَوَلَمْ نُمَكِّن لَّهُمْ حَرَمًا ءَامِنًا يُجْبَىٰٓ إِلَيْهِ ثَمَرَٰتُ كُلِّ شَىْءٍ رِّزْقًا مِّن لَّدُنَّا وَلَـٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ",
+    "arabic2": "وقالوا ان نتبع الهدى معك نتخطف من ارضنا اولم نمكن لهم حرما امنا يجبى اليه ثمرات كل شيء رزقا من لدنا ولكن اكثرهم لا يعلمون",
+    "bengali": "আর তারা বলে, ‘আমরা যদি তোমার সাথে হিদায়াতের অনুসরণ করি তবে আমাদেরকে আমাদের দেশ থেকে উৎখাত করা হবে’। আমি কি তাদের জন্য এক নিরাপদ ‘হারাম’ এর সুব্যবস্থা করিনি? সেখানে সব ধরনের ফলমূল আমদানী করা হয়, আমার পক্ষ থেকে রিয্কস্বরূপ? কিন্তু তাদের অধিকাংশই তা জানে না।",
+    "urdu": "اور کہتے ہیں کہ اگر ہم تمہارے ساتھ ہدایت کی پیروی کریں تو اپنے ملک سے اُچک لئے جائیں۔ کیا ہم نے اُن کو حرم میں جو امن کا مقام ہے جگہ نہیں دی۔ جہاں ہر قسم کے میوے پہنچائے جاتے ہیں (اور یہ) رزق ہماری طرف سے ہے لیکن ان میں سے اکثر نہیں جانتے"
+}

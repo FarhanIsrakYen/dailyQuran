@@ -1,0 +1,42 @@
+{
+    "surahName": "Ghafir",
+    "surahNameArabic": "غافر",
+    "surahNameArabicLong": "سورة غافر",
+    "surahNameTranslation": "The Forgiver",
+    "revelationPlace": "Mecca",
+    "totalAyah": 85,
+    "surahNo": 40,
+    "ayahNo": 40,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/40_40.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/040040.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/40_40.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/040040.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/40_40.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/040040.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/40_40.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/040040.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/40_40.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/040040.mp3"
+        }
+    },
+    "english": "Whoever does an evil deed will only be paid back with its equivalent. And whoever does good, whether male or female, and is a believer, they will enter Paradise, where they will be provided for without limit.",
+    "arabic1": "مَنْ عَمِلَ سَيِّئَةً فَلَا يُجْزَىٰٓ إِلَّا مِثْلَهَا ۖ وَمَنْ عَمِلَ صَـٰلِحًا مِّن ذَكَرٍ أَوْ أُنثَىٰ وَهُوَ مُؤْمِنٌ فَأُو۟لَـٰٓئِكَ يَدْخُلُونَ ٱلْجَنَّةَ يُرْزَقُونَ فِيهَا بِغَيْرِ حِسَابٍ",
+    "arabic2": "من عمل سيئة فلا يجزى الا مثلها ومن عمل صالحا من ذكر او انثى وهو مؤمن فاولئك يدخلون الجنة يرزقون فيها بغير حساب",
+    "bengali": "‘কেউ পাপ কাজ করলে তাকে শুধু পাপের সমান প্রতিদান দেয়া হবে আর যে পুরুষ অথবা নারী মুমিন হয়ে সৎকাজ করবে, তবে তারা জান্নাতে প্রবেশ করবে, সেখানে তাদেরকে অগণিত রিয্ক দেয়া হবে।’",
+    "urdu": "جو برے کام کرے گا اس کو بدلہ بھی ویسا ہی ملے گا۔ اور جو نیک کام کرے گا مرد ہو یا عورت اور وہ صاحب ایمان بھی ہوگا تو ایسے لوگ بہشت میں داخل ہوں گے وہاں ان کو بےشمار رزق ملے گا"
+}

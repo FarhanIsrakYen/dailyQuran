@@ -4,6 +4,7 @@ const KEYS = {
   PLAN: 'quran_plan',
   PROGRESS: 'quran_progress',
   STARTED: 'quran_started',
+  THEME: 'quran_theme',
 };
 
 export interface DayPlan {
@@ -58,6 +59,15 @@ export const storage = {
   async getStarted(): Promise<boolean> {
     const data = await AsyncStorage.getItem(KEYS.STARTED);
     return data ? JSON.parse(data) : false;
+  },
+
+  async saveTheme(theme: string): Promise<void> {
+    await AsyncStorage.setItem(KEYS.THEME, theme);
+  },
+
+  async getTheme(): Promise<string> {
+    const data = await AsyncStorage.getItem(KEYS.THEME);
+    return data || 'dark';
   },
 
   async clearAll(): Promise<void> {

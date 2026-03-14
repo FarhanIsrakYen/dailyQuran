@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 179,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/7_179.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/007179.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/7_179.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/007179.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/7_179.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/007179.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/7_179.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/007179.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/7_179.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/007179.mp3"
+        }
+    },
+    "english": "Indeed, We have destined many jinn and humans for Hell. They have hearts they do not understand with, eyes they do not see with, and ears they do not hear with. They are like cattle. In fact, they are even less guided! Such ˹people˺ are ˹entirely˺ heedless.",
+    "arabic1": "وَلَقَدْ ذَرَأْنَا لِجَهَنَّمَ كَثِيرًا مِّنَ ٱلْجِنِّ وَٱلْإِنسِ ۖ لَهُمْ قُلُوبٌ لَّا يَفْقَهُونَ بِهَا وَلَهُمْ أَعْيُنٌ لَّا يُبْصِرُونَ بِهَا وَلَهُمْ ءَاذَانٌ لَّا يَسْمَعُونَ بِهَآ ۚ أُو۟لَـٰٓئِكَ كَٱلْأَنْعَـٰمِ بَلْ هُمْ أَضَلُّ ۚ أُو۟لَـٰٓئِكَ هُمُ ٱلْغَـٰفِلُونَ",
+    "arabic2": "ولقد ذرانا لجهنم كثيرا من الجن والانس لهم قلوب لا يفقهون بها ولهم اعين لا يبصرون بها ولهم اذان لا يسمعون بها اولئك كالانعام بل هم اضل اولئك هم الغافلون",
+    "bengali": "আর অবশ্যই আমি সৃষ্টি করেছি জাহান্নামের জন্য বহু জিন ও মানুষকে। তাদের রয়েছে অন্তর, তা দ্বারা তারা বুঝে না; তাদের রয়েছে চোখ, তা দ্বারা তারা দেখে না এবং তাদের রয়েছে কান, তা দ্বারা তারা শুনে না। তারা চতুষ্পদ জন্তুর মত; বরং তারা অধিক পথভ্রষ্ট। তারাই হচ্ছে গাফেল।",
+    "urdu": "اور ہم نے بہت سے جن اور انسان دوزخ کے لیے پیدا کیے ہیں۔ ان کے دل ہیں لیکن ان سے سمجھتے نہیں اور ان کی آنکھیں ہیں مگر ان سے دیکھتے نہیں اور ان کے کان ہیں پر ان سے سنتے نہیں۔ یہ لوگ بالکل چارپایوں کی طرح ہیں بلکہ ان سے بھی بھٹکے ہوئے۔ یہی وہ ہیں جو غفلت میں پڑے ہوئے ہیں"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Abasa",
+    "surahNameArabic": "عبس",
+    "surahNameArabicLong": "سورة عبس",
+    "surahNameTranslation": "He frowned",
+    "revelationPlace": "Mecca",
+    "totalAyah": 42,
+    "surahNo": 80,
+    "ayahNo": 21,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/80_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/080021.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/80_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/080021.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/80_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/080021.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/80_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/080021.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/80_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/080021.mp3"
+        }
+    },
+    "english": "then causes them to die and be buried.",
+    "arabic1": "ثُمَّ أَمَاتَهُۥ فَأَقْبَرَهُۥ",
+    "arabic2": "ثم اماته فاقبره",
+    "bengali": "তারপর তিনি তাকে মৃত্যু দেন এবং তাকে কবরস্থ করেন।",
+    "urdu": "پھر اس کو موت دی پھر قبر میں دفن کرایا"
+}

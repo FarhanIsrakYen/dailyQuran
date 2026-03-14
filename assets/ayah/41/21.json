@@ -1,0 +1,42 @@
+{
+    "surahName": "Fussilat",
+    "surahNameArabic": "فصلت",
+    "surahNameArabicLong": "سورة فصلت",
+    "surahNameTranslation": "Explained in detail",
+    "revelationPlace": "Mecca",
+    "totalAyah": 54,
+    "surahNo": 41,
+    "ayahNo": 21,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/41_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/041021.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/41_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/041021.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/41_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/041021.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/41_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/041021.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/41_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/041021.mp3"
+        }
+    },
+    "english": "They will ask their skin ˹furiously˺, “Why have you testified against us?” It will say, “We have been made to speak by Allah, Who causes all things to speak. He ˹is the One Who˺ created you the first time, and to Him you were bound to return.",
+    "arabic1": "وَقَالُوا۟ لِجُلُودِهِمْ لِمَ شَهِدتُّمْ عَلَيْنَا ۖ قَالُوٓا۟ أَنطَقَنَا ٱللَّهُ ٱلَّذِىٓ أَنطَقَ كُلَّ شَىْءٍ وَهُوَ خَلَقَكُمْ أَوَّلَ مَرَّةٍ وَإِلَيْهِ تُرْجَعُونَ",
+    "arabic2": "وقالوا لجلودهم لم شهدتم علينا قالوا انطقنا الله الذي انطق كل شيء وهو خلقكم اول مرة واليه ترجعون",
+    "bengali": "আর তারা তাদের চামড়াগুলোকে বলবে, ‘কেন তোমরা আমাদের বিরুদ্ধে সাক্ষ্য দিলে’? তারা বলবে, ‘আল্লাহ আমাদের বাকশক্তি দিয়েছেন যিনি সবকিছুকে বাকশক্তি দিয়েছেন। তিনি তোমাদেরকে প্রথমবার সৃষ্টি করেছেন এবং তাঁরই প্রতি তোমরা প্রত্যাবর্তিত হবে।’",
+    "urdu": "اور وہ اپنے چمڑوں (یعنی اعضا) سے کہیں گے کہ تم نے ہمارے خلاف کیوں شہادت دی؟ وہ کہیں گے کہ جس خدا نے سب چیزوں کو نطق بخشا اسی نے ہم کو بھی گویائی دی اور اسی نے تم کو پہلی بار پیدا کیا تھا اور اسی کی طرف تم کو لوٹ کر جانا ہے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Saad",
+    "surahNameArabic": "ص",
+    "surahNameArabicLong": "سورة ص",
+    "surahNameTranslation": "The letter Saad",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 38,
+    "ayahNo": 33,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/38_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/038033.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/38_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/038033.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/38_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/038033.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/38_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/038033.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/38_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/038033.mp3"
+        }
+    },
+    "english": "˹He ordered,˺ “Bring them back to me!” Then he began to rub down their legs and necks.",
+    "arabic1": "رُدُّوهَا عَلَىَّ ۖ فَطَفِقَ مَسْحًۢا بِٱلسُّوقِ وَٱلْأَعْنَاقِ",
+    "arabic2": "ردوها علي فطفق مسحا بالسوق والاعناق",
+    "bengali": "এগুলো আমার কাছে ফিরিয়ে আন। অতঃপর সে এগুলোকে পা ও গলদেশ দিয়ে যবেহ করা শুরু করল।* \n* সুলাইমান আ. জিহাদের জন্য পালিত এসব ঘোড়া কোন এক বিকালে পরিদর্শন করতে গিয়ে অনেক কাল ক্ষেপণ করেন এবং এদিকে সূর্য ডুবে যায়। ফলে ঘোড়ার কারণে আল্লাহর যিকর থেকে এত দীর্ঘ সময় বিরত থাকলে তিনি অনুতপ্ত হন এবং ঘোড়াগুলোকে পুনরায় তার সামনে উপস্থিত করে সেগুলোকে তার শরীয়ত অনুযায়ী যবেহ করে দিলেন। আর সেগুলোর গোশ্ত সদাকা করে দিলেন।",
+    "urdu": "(بولے کہ) ان کو میرے پاس واپس لے آؤ۔ پھر ان کی ٹانگوں اور گردنوں پر ہاتھ پھیرنے لگے"
+}

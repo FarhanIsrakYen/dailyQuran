@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Furqaan",
+    "surahNameArabic": "الفرقان",
+    "surahNameArabicLong": "سورة الفرقان",
+    "surahNameTranslation": "The Criterion",
+    "revelationPlace": "Mecca",
+    "totalAyah": 77,
+    "surahNo": 25,
+    "ayahNo": 44,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/25_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/025044.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/25_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/025044.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/25_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/025044.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/25_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/025044.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/25_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/025044.mp3"
+        }
+    },
+    "english": "Or do you think that most of them listen or understand? They are only like cattle—no, more than that, they are astray from the ˹Right˺ Way!",
+    "arabic1": "أَمْ تَحْسَبُ أَنَّ أَكْثَرَهُمْ يَسْمَعُونَ أَوْ يَعْقِلُونَ ۚ إِنْ هُمْ إِلَّا كَٱلْأَنْعَـٰمِ ۖ بَلْ هُمْ أَضَلُّ سَبِيلًا",
+    "arabic2": "ام تحسب ان اكثرهم يسمعون او يعقلون ان هم الا كالانعام بل هم اضل سبيلا",
+    "bengali": "তুমি কি মনে কর যে, তাদের অধিকাংশ লোক শোনে অথবা বুঝে? তারা কেবল পশুদের মতো; বরং তারা আরো অধিক পথভ্রষ্ট।",
+    "urdu": "یا تم یہ خیال کرتے ہو کہ ان میں اکثر سنتے یا سمجھتے ہیں (نہیں) یہ تو چوپایوں کی طرح ہیں بلکہ ان سے بھی زیادہ گمراہ ہیں"
+}

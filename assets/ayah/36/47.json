@@ -1,0 +1,42 @@
+{
+    "surahName": "Yaseen",
+    "surahNameArabic": "يس",
+    "surahNameArabicLong": "سورة يس",
+    "surahNameTranslation": "Yaseen",
+    "revelationPlace": "Mecca",
+    "totalAyah": 83,
+    "surahNo": 36,
+    "ayahNo": 47,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/36_47.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/036047.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/36_47.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/036047.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/36_47.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/036047.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/36_47.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/036047.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/36_47.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/036047.mp3"
+        }
+    },
+    "english": "And when it is said to them, “Donate from what Allah has provided for you,” the disbelievers say to the believers, “Why should we feed those whom Allah could have fed if He wanted to? You are clearly astray!”",
+    "arabic1": "وَإِذَا قِيلَ لَهُمْ أَنفِقُوا۟ مِمَّا رَزَقَكُمُ ٱللَّهُ قَالَ ٱلَّذِينَ كَفَرُوا۟ لِلَّذِينَ ءَامَنُوٓا۟ أَنُطْعِمُ مَن لَّوْ يَشَآءُ ٱللَّهُ أَطْعَمَهُۥٓ إِنْ أَنتُمْ إِلَّا فِى ضَلَـٰلٍ مُّبِينٍ",
+    "arabic2": "واذا قيل لهم انفقوا مما رزقكم الله قال الذين كفروا للذين امنوا انطعم من لو يشاء الله اطعمه ان انتم الا في ضلال مبين",
+    "bengali": "আর যখন তাদেরকে বলা হয়, ‘আল্লাহ তোমাদেরকে যে রিয্ক দিয়েছেন তা থেকে তোমরা ব্যয় কর’, তখন কাফিররা মুমিনদেরকে বলে, ‘আমরা কি তাকে খাদ্য দান করব, আল্লাহ চাইলে যাকে খাদ্য দান করতেন? তোমরা তো স্পষ্ট পথভ্রষ্টতায় রয়েছ’।",
+    "urdu": "اور جب ان سے کہا جاتا ہے کہ جو رزق خدا نے تم کو دیا ہے اس میں سے خرچ کرو۔ تو کافر مومنوں سے کہتے ہیں کہ بھلا ہم ان لوگوں کو کھانا کھلائیں جن کو اگر خدا چاہتا تو خود کھلا دیتا۔ تم تو صریح غلطی میں ہو"
+}

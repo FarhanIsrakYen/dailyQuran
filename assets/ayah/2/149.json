@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 149,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_149.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002149.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_149.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002149.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_149.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002149.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_149.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002149.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_149.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002149.mp3"
+        }
+    },
+    "english": "Wherever you are ˹O Prophet˺, turn your face towards the Sacred Mosque. This is certainly the truth from your Lord. And Allah is never unaware of what you ˹all˺ do.",
+    "arabic1": "وَمِنْ حَيْثُ خَرَجْتَ فَوَلِّ وَجْهَكَ شَطْرَ ٱلْمَسْجِدِ ٱلْحَرَامِ ۖ وَإِنَّهُۥ لَلْحَقُّ مِن رَّبِّكَ ۗ وَمَا ٱللَّهُ بِغَـٰفِلٍ عَمَّا تَعْمَلُونَ",
+    "arabic2": "ومن حيث خرجت فول وجهك شطر المسجد الحرام وانه للحق من ربك وما الله بغافل عما تعملون",
+    "bengali": "আর তুমি যেখান থেকেই বের হও, তোমার চেহারা মাসজিদুল হারামের দিকে ফিরাও। আর নিশ্চয় তা সত্য তোমার রবের পক্ষ থেকে এবং তোমরা যা কর, আল্লাহ তা থেকে গাফিল নন।",
+    "urdu": "اور تم جہاں سے نکلو، (نماز میں) اپنا منہ مسجد محترم کی طرف کر لیا کرو بےشک وہ تمہارے پروردگار کی طرف سے حق ہے۔ اور تم لوگ جو کچھ کرتے ہو۔ خدا اس سے بے خبر نہیں"
+}

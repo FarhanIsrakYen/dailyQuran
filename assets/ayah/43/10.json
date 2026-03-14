@@ -1,0 +1,42 @@
+{
+    "surahName": "Az-Zukhruf",
+    "surahNameArabic": "الزخرف",
+    "surahNameArabicLong": "سورة الزخرف",
+    "surahNameTranslation": "Ornaments of gold",
+    "revelationPlace": "Mecca",
+    "totalAyah": 89,
+    "surahNo": 43,
+    "ayahNo": 10,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/43_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/043010.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/43_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/043010.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/43_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/043010.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/43_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/043010.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/43_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/043010.mp3"
+        }
+    },
+    "english": "˹He is the One˺ Who has laid out the earth for you, and set in it pathways for you so that you may find your way.",
+    "arabic1": "ٱلَّذِى جَعَلَ لَكُمُ ٱلْأَرْضَ مَهْدًا وَجَعَلَ لَكُمْ فِيهَا سُبُلًا لَّعَلَّكُمْ تَهْتَدُونَ",
+    "arabic2": "الذي جعل لكم الارض مهدا وجعل لكم فيها سبلا لعلكم تهتدون",
+    "bengali": "যিনি যমীনকে তোমাদের জন্য শয্যা বানিয়েছেন এবং তাতে তোমাদের জন্য বানিয়েছেন চলার পথ, যাতে তোমরা সঠিক পথ পেতে পার।",
+    "urdu": "جس نے تمہارے لئے زمین کو بچھونا بنایا۔ اور اس میں تمہارے لئے رستے بنائے تاکہ تم راہ معلوم کرو"
+}

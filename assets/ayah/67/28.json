@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Mulk",
+    "surahNameArabic": "الملك",
+    "surahNameArabicLong": "سورة الملك",
+    "surahNameTranslation": "The Sovereignty",
+    "revelationPlace": "Mecca",
+    "totalAyah": 30,
+    "surahNo": 67,
+    "ayahNo": 28,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/67_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/067028.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/67_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/067028.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/67_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/067028.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/67_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/067028.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/67_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/067028.mp3"
+        }
+    },
+    "english": "Say, ˹O Prophet,˺ “Consider this: whether Allah causes me and those with me to die or shows us mercy, who will save the disbelievers from a painful punishment?”",
+    "arabic1": "قُلْ أَرَءَيْتُمْ إِنْ أَهْلَكَنِىَ ٱللَّهُ وَمَن مَّعِىَ أَوْ رَحِمَنَا فَمَن يُجِيرُ ٱلْكَـٰفِرِينَ مِنْ عَذَابٍ أَلِيمٍ",
+    "arabic2": "قل ارايتم ان اهلكني الله ومن معي او رحمنا فمن يجير الكافرين من عذاب اليم",
+    "bengali": "বল, ‘তোমরা ভেবে দেখেছ কি’? যদি আল্লাহ আমাকে এবং আমার সাথে যারা আছে, তাদেরকে ধ্বংস করে দেন অথবা আমাদের প্রতি দয়া করেন, তাহলে কাফিরদেরকে যন্ত্রণাদায়ক আযাব থেকে কে রক্ষা করবে’?",
+    "urdu": "کہو کہ بھلا دیکھو تو اگر خدا مجھ کو اور میرے ساتھیوں کو ہلاک کردے یا ہم پر مہربانی کرے۔ تو کون ہے کافروں کو دکھ دینے والے عذاب سے پناہ دے؟"
+}

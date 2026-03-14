@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 43,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/7_43.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/007043.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/7_43.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/007043.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/7_43.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/007043.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/7_43.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/007043.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/7_43.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/007043.mp3"
+        }
+    },
+    "english": "We will remove whatever bitterness they had in their hearts. Rivers will flow under their feet. And they will say, “Praise be to Allah for guiding us to this. We would have never been guided if Allah had not guided us. The messengers of our Lord had certainly come with the truth.” It will be announced to them, “This is Paradise awarded to you for what you used to do.”",
+    "arabic1": "وَنَزَعْنَا مَا فِى صُدُورِهِم مِّنْ غِلٍّ تَجْرِى مِن تَحْتِهِمُ ٱلْأَنْهَـٰرُ ۖ وَقَالُوا۟ ٱلْحَمْدُ لِلَّهِ ٱلَّذِى هَدَىٰنَا لِهَـٰذَا وَمَا كُنَّا لِنَهْتَدِىَ لَوْلَآ أَنْ هَدَىٰنَا ٱللَّهُ ۖ لَقَدْ جَآءَتْ رُسُلُ رَبِّنَا بِٱلْحَقِّ ۖ وَنُودُوٓا۟ أَن تِلْكُمُ ٱلْجَنَّةُ أُورِثْتُمُوهَا بِمَا كُنتُمْ تَعْمَلُونَ",
+    "arabic2": "ونزعنا ما في صدورهم من غل تجري من تحتهم الانهار وقالوا الحمد لله الذي هدانا لهذا وما كنا لنهتدي لولا ان هدانا الله لقد جاءت رسل ربنا بالحق ونودوا ان تلكم الجنة اورثتموها بما كنتم تعملون",
+    "bengali": "আর তাদের অন্তরে যে ঈর্ষা ছিল, আমি তা বের করে নিয়েছি। তাদের নীচ দিয়ে নহরসমূহ প্রবাহিত হবে। আর তারা বলবে, ‘সমস্ত প্রশংসা আল্লাহর, যিনি এর জন্য আমাদেরকে হিদায়াত দিয়েছেন। আর আমরা হিদায়াত পাওয়ার ছিলাম না, যদি না আল্লাহ আমাদেরকে হিদায়াত দিতেন। অবশ্যই আমার রবের রাসূলগণ সত্য নিয়ে এসেছেন’ এবং তাদেরকে ডাকা হবে যে, ‘ঐ হল জান্নাত, তোমরা যা আমল করেছ, তার বিনিময়ে তোমাদেরকে এর ওয়ারিস করা হয়েছে’।",
+    "urdu": "اور جو کینے ان کے دلوں میں ہوں گے ہم سب نکال ڈالیں گے۔ ان کے محلوں کے نیچے نہریں بہہ رہی ہوں گی اور کہیں گے کہ خدا کا شکر ہے جس نے ہم کو یہاں کا راستہ دکھایا اور اگر خدا ہم کو رستہ نہ دکھاتا تو ہم رستہ نہ پا سکتے۔ بےشک ہمارا پروردگار کے رسول حق بات لے کر آئے تھے اور (اس روز) منادی کر دی جائے گی کہ تم ان اعمال کے صلے میں جو دنیا میں کرتے تھے اس بہشت کے وارث بنا دیئے گئے ہو"
+}

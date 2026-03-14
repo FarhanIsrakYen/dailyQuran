@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Mujaadila",
+    "surahNameArabic": "المجادلة",
+    "surahNameArabicLong": "سورة المجادلة",
+    "surahNameTranslation": "The Pleading Woman",
+    "revelationPlace": "Madina",
+    "totalAyah": 22,
+    "surahNo": 58,
+    "ayahNo": 15,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/58_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/058015.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/58_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/058015.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/58_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/058015.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/58_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/058015.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/58_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/058015.mp3"
+        }
+    },
+    "english": "Allah has prepared for them a severe punishment. Evil indeed is what they do.",
+    "arabic1": "أَعَدَّ ٱللَّهُ لَهُمْ عَذَابًا شَدِيدًا ۖ إِنَّهُمْ سَآءَ مَا كَانُوا۟ يَعْمَلُونَ",
+    "arabic2": "اعد الله لهم عذابا شديدا انهم ساء ما كانوا يعملون",
+    "bengali": "আল্লাহ তাদের জন্য কঠোর আযাব প্রস্তুত করে রেখেছেন। নিশ্চয় তারা যা করত তা কতইনা মন্দ!",
+    "urdu": "خدا نے ان کے لئے سخت عذاب تیار کر رکھا ہے۔ یہ جو کچھ کرتے ہیں یقیناً برا ہے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 27,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/6_27.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/006027.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/6_27.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/006027.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/6_27.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/006027.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/6_27.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/006027.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/6_27.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/006027.mp3"
+        }
+    },
+    "english": "If only you could see when they will be detained before the Fire! They will cry, “Oh! If only we could be sent back, we would never deny the signs of our Lord and we would ˹surely˺ be of the believers.”",
+    "arabic1": "وَلَوْ تَرَىٰٓ إِذْ وُقِفُوا۟ عَلَى ٱلنَّارِ فَقَالُوا۟ يَـٰلَيْتَنَا نُرَدُّ وَلَا نُكَذِّبَ بِـَٔايَـٰتِ رَبِّنَا وَنَكُونَ مِنَ ٱلْمُؤْمِنِينَ",
+    "arabic2": "ولو ترى اذ وقفوا على النار فقالوا يا ليتنا نرد ولا نكذب بايات ربنا ونكون من المؤمنين",
+    "bengali": "আর যদি তুমি দেখতে, যখন তাদেরকে আগুনের উপর আটকানো হবে, তখন তারা বলবে, ‘হায়! যদি আমাদেরকে ফেরত পাঠানো হত। আর আমরা আমাদের রবের আয়াতসমূহ অস্বীকার না করতাম এবং আমরা মুমিনদের অন্তর্ভুক্ত হতাম!’",
+    "urdu": "کاش تم (ان کو اس وقت) دیکھو جب یہ دوزخ کے کنارے کھڑے کئے جائیں گے اور کہیں گے کہ اے کاش ہم پھر (دنیا میں) لوٹا دیئے جائیں تاکہ اپنے پروردگار کی آیتوں کی تکذیب نہ کریں اور مومن ہوجائیں"
+}

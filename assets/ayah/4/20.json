@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 20,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/4_20.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/004020.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/4_20.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/004020.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/4_20.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/004020.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/4_20.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/004020.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/4_20.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/004020.mp3"
+        }
+    },
+    "english": "If you desire to replace a wife with another and you have given the former ˹even˺ a stack of gold ˹as a dowry˺, do not take any of it back. Would you ˹still˺ take it unjustly and very sinfully?",
+    "arabic1": "وَإِنْ أَرَدتُّمُ ٱسْتِبْدَالَ زَوْجٍ مَّكَانَ زَوْجٍ وَءَاتَيْتُمْ إِحْدَىٰهُنَّ قِنطَارًا فَلَا تَأْخُذُوا۟ مِنْهُ شَيْـًٔا ۚ أَتَأْخُذُونَهُۥ بُهْتَـٰنًا وَإِثْمًا مُّبِينًا",
+    "arabic2": "وان اردتم استبدال زوج مكان زوج واتيتم احداهن قنطارا فلا تاخذوا منه شيئا اتاخذونه بهتانا واثما مبينا",
+    "bengali": "আর যদি তোমরা এক স্ত্রীর স্থলে অন্য স্ত্রীকে বদলাতে চাও আর তাদের কাউকে তোমরা প্রদান করেছ প্রচুর সম্পদ, তবে তোমরা তা থেকে কোন কিছু নিও না। তোমরা কি তা নেবে অপবাদ এবং প্রকাশ্য গুনাহের মাধ্যমে?",
+    "urdu": "اور اگر تم ایک عورت کو چھوڑ کر دوسری عورت کرنی چاہو۔ اور پہلی عورت کو بہت سال مال دے چکے ہو تو اس میں سے کچھ مت لینا۔ بھلا تم ناجائز طور پر اور صریح ظلم سے اپنا مال اس سے واپس لے لوگے؟"
+}

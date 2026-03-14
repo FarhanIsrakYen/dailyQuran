@@ -1,0 +1,42 @@
+{
+    "surahName": "Yusuf",
+    "surahNameArabic": "يوسف",
+    "surahNameArabicLong": "سورة يوسف",
+    "surahNameTranslation": "Joseph",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 12,
+    "ayahNo": 37,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/12_37.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/012037.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/12_37.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/012037.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/12_37.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/012037.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/12_37.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/012037.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/12_37.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/012037.mp3"
+        }
+    },
+    "english": "Joseph replied, “I can even tell you what kind of meal you will be served before you receive it. This ˹knowledge˺ is from what my Lord has taught me. I have shunned the faith of a people who disbelieve in Allah and deny the Hereafter.",
+    "arabic1": "قَالَ لَا يَأْتِيكُمَا طَعَامٌ تُرْزَقَانِهِۦٓ إِلَّا نَبَّأْتُكُمَا بِتَأْوِيلِهِۦ قَبْلَ أَن يَأْتِيَكُمَا ۚ ذَٰلِكُمَا مِمَّا عَلَّمَنِى رَبِّىٓ ۚ إِنِّى تَرَكْتُ مِلَّةَ قَوْمٍ لَّا يُؤْمِنُونَ بِٱللَّهِ وَهُم بِٱلْـَٔاخِرَةِ هُمْ كَـٰفِرُونَ",
+    "arabic2": "قال لا ياتيكما طعام ترزقانه الا نباتكما بتاويله قبل ان ياتيكما ذلكما مما علمني ربي اني تركت ملة قوم لا يؤمنون بالله وهم بالاخرة هم كافرون",
+    "bengali": "সে বলল, ‘তোমাদেরকে যে খাদ্য দেয়া হয় তা তোমাদের কাছে আসার পূর্বেই আমি তোমাদেরকে স্বপ্নের ব্যাখ্যা জানিয়ে দেব। সেটি এমন জ্ঞান থেকেই বলব যা আমার রব আমাকে শিক্ষা দিয়েছেন। নিশ্চয়ই আমি পরিত্যাগ করেছি সে কওমের ধর্ম যারা আল্লাহর প্রতি ঈমান আনে না এবং যারা আখিরাতকে অস্বীকারকারী’।",
+    "urdu": "یوسف نے کہا کہ جو کھانا تم کو ملنے والا ہے وہ آنے نہیں پائے گا کہ میں اس سے پہلے تم کو اس کی تعبیر بتادوں گا۔ یہ ان (باتوں) میں سے ہے جو میرے پروردگار نے مجھے سکھائی ہیں جو لوگ خدا پر ایمان نہیں لاتے اور روز آخرت سے انکار کرتے ہیں میں ان کا مذہب چھوڑے ہوئے ہوں"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 220,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_220.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002220.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_220.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002220.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_220.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002220.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_220.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002220.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_220.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002220.mp3"
+        }
+    },
+    "english": "upon this world and the Hereafter. And they ask you ˹O Prophet˺ concerning orphans. Say, “Improving their condition is best. And if you partner with them, they are bonded with you ˹in faith˺. And Allah knows who intends harm and who intends good. Had Allah willed, He could have made it difficult for you. Surely Allah is Almighty, All-Wise.”",
+    "arabic1": "فِى ٱلدُّنْيَا وَٱلْـَٔاخِرَةِ ۗ وَيَسْـَٔلُونَكَ عَنِ ٱلْيَتَـٰمَىٰ ۖ قُلْ إِصْلَاحٌ لَّهُمْ خَيْرٌ ۖ وَإِن تُخَالِطُوهُمْ فَإِخْوَٰنُكُمْ ۚ وَٱللَّهُ يَعْلَمُ ٱلْمُفْسِدَ مِنَ ٱلْمُصْلِحِ ۚ وَلَوْ شَآءَ ٱللَّهُ لَأَعْنَتَكُمْ ۚ إِنَّ ٱللَّهَ عَزِيزٌ حَكِيمٌ",
+    "arabic2": "في الدنيا والاخرة ويسالونك عن اليتامى قل اصلاح لهم خير وان تخالطوهم فاخوانكم والله يعلم المفسد من المصلح ولو شاء الله لاعنتكم ان الله عزيز حكيم",
+    "bengali": "দুনিয়া ও আখিরাতের ব্যাপারে। আর তারা তোমাকে জিজ্ঞাসা করে ইয়াতীমদের সম্পর্কে। বল, সংশোধন করা তাদের জন্য উত্তম। আর যদি তাদেরকে নিজদের সাথে মিশিয়ে নাও, তবে তারা তোমাদেরই ভাই। আর আল্লাহ জানেন কে ফাসাদকারী, কে সংশোধনকারী এবং আল্লাহ যদি চাইতেন, অবশ্যই তোমাদের জন্য (বিষয়টি) কঠিন করে দিতেন। নিশ্চয় আল্লাহ পরাক্রমশালী, প্রজ্ঞাময়।",
+    "urdu": "(یعنی) دنیا اور آخرت (کی باتوں) میں (غور کرو)۔ اور تم سے یتیموں کے بارے میں دریافت کرتے ہیں کہہ دو کہ ان کی (حالت کی) اصلاح بہت اچھا کام ہے۔ اور اگر تم ان سے مل جل کر رہنا (یعنی خرچ اکھٹا رکھنا) چاہو تو وہ تمہارے بھائی ہیں اور خدا خوب جانتا ہے کہ خرابی کرنے والا کون ہے اور اصلاح کرنے والا کون۔ اور اگر خدا چاہتا تو تم کو تکلیف میں ڈال دیتا۔بےشک خدا غالب (اور) حکمت والا ہے"
+}

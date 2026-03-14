@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Maaida",
+    "surahNameArabic": "المائدة",
+    "surahNameArabicLong": "سورة المائدة",
+    "surahNameTranslation": "The Table",
+    "revelationPlace": "Madina",
+    "totalAyah": 120,
+    "surahNo": 5,
+    "ayahNo": 73,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/5_73.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/005073.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/5_73.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/005073.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/5_73.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/005073.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/5_73.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/005073.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/5_73.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/005073.mp3"
+        }
+    },
+    "english": "Those who say, “Allah is one in a Trinity,” have certainly fallen into disbelief. There is only One God. If they do not stop saying this, those who disbelieve among them will be afflicted with a painful punishment.",
+    "arabic1": "لَّقَدْ كَفَرَ ٱلَّذِينَ قَالُوٓا۟ إِنَّ ٱللَّهَ ثَالِثُ ثَلَـٰثَةٍ ۘ وَمَا مِنْ إِلَـٰهٍ إِلَّآ إِلَـٰهٌ وَٰحِدٌ ۚ وَإِن لَّمْ يَنتَهُوا۟ عَمَّا يَقُولُونَ لَيَمَسَّنَّ ٱلَّذِينَ كَفَرُوا۟ مِنْهُمْ عَذَابٌ أَلِيمٌ",
+    "arabic2": "لقد كفر الذين قالوا ان الله ثالث ثلاثة وما من اله الا اله واحد وان لم ينتهوا عما يقولون ليمسن الذين كفروا منهم عذاب اليم",
+    "bengali": "অবশ্যই তারা কুফরী করেছে, যারা বলে, ‘নিশ্চয় আল্লাহ তিন জনের তৃতীয়জন’। যদিও এক ইলাহ ছাড়া কোন (সত্য) ইলাহ নেই। আর যদি তারা যা বলছে, তা থেকে বিরত না হয়, তবে অবশ্যই তাদের মধ্য থেকে কাফিরদেরকে যন্ত্রণাদায়ক আযাব স্পর্শ করবে।",
+    "urdu": "وہ لوگ (بھی) کافر ہیں جو اس بات کے قائل ہیں کہ خدا تین میں کا تیسرا ہے حالانکہ اس معبود یکتا کے سوا کوئی عبادت کے لائق نہیں اگر یہ لوگ ایسے اقوال (وعقائد) سے باز نہیں آئیں گے تو ان میں جو کافر ہوئے ہیں وہ تکلیف دینے والا عذاب پائیں گے"
+}

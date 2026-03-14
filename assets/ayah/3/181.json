@@ -1,0 +1,42 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 181,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/3_181.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/003181.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/3_181.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/003181.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/3_181.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/003181.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/3_181.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/003181.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/3_181.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/003181.mp3"
+        }
+    },
+    "english": "Indeed, Allah has heard those ˹among the Jews˺ who said, “Allah is poor; we are rich!” We have certainly recorded their slurs and their killing of prophets unjustly. Then We will say, “Taste the torment of burning!",
+    "arabic1": "لَّقَدْ سَمِعَ ٱللَّهُ قَوْلَ ٱلَّذِينَ قَالُوٓا۟ إِنَّ ٱللَّهَ فَقِيرٌ وَنَحْنُ أَغْنِيَآءُ ۘ سَنَكْتُبُ مَا قَالُوا۟ وَقَتْلَهُمُ ٱلْأَنۢبِيَآءَ بِغَيْرِ حَقٍّ وَنَقُولُ ذُوقُوا۟ عَذَابَ ٱلْحَرِيقِ",
+    "arabic2": "لقد سمع الله قول الذين قالوا ان الله فقير ونحن اغنياء سنكتب ما قالوا وقتلهم الانبياء بغير حق ونقول ذوقوا عذاب الحريق",
+    "bengali": "নিশ্চয় আল্লাহ তাদের কথা শুনেছেন, যারা বলেছে, ‘নিশ্চয় আল্লাহ দরিদ্র এবং আমরা ধনী’। অচিরেই আমি লিখে রাখব তারা যা বলেছে এবং নবীদেরকে তাদের অন্যায়ভাবে হত্যার বিষয়টিও এবং আমি বলব, ‘তোমরা উত্তপ্ত আযাব আস্বাদন কর’।",
+    "urdu": "خدا نے ان لوگوں کا قول سن لیا ہے جو کہتے ہیں کہ خدا فقیر ہے۔ اور ہم امیر ہیں۔ یہ جو کہتے ہیں ہم اس کو لکھ لیں گے۔ اور پیغمبروں کو جو یہ ناحق قتل کرتے رہے ہیں اس کو بھی (قلمبند کر رکھیں گے) اور (قیامت کے روز) کہیں گے کہ عذاب (آتش) سوزاں کے مزے چکھتے رہو"
+}

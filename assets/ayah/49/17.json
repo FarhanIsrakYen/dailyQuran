@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Hujuraat",
+    "surahNameArabic": "الحجرات",
+    "surahNameArabicLong": "سورة الحجرات",
+    "surahNameTranslation": "The Inner Apartments",
+    "revelationPlace": "Madina",
+    "totalAyah": 18,
+    "surahNo": 49,
+    "ayahNo": 17,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/49_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/049017.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/49_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/049017.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/49_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/049017.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/49_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/049017.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/49_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/049017.mp3"
+        }
+    },
+    "english": "They regard their acceptance of Islam as a favour to you. Tell ˹them, O  Prophet˺, “Do not regard your Islam as a favour to me. Rather, it is Allah Who has done you a favour by guiding you to the faith, if ˹indeed˺ you are faithful.",
+    "arabic1": "يَمُنُّونَ عَلَيْكَ أَنْ أَسْلَمُوا۟ ۖ قُل لَّا تَمُنُّوا۟ عَلَىَّ إِسْلَـٰمَكُم ۖ بَلِ ٱللَّهُ يَمُنُّ عَلَيْكُمْ أَنْ هَدَىٰكُمْ لِلْإِيمَـٰنِ إِن كُنتُمْ صَـٰدِقِينَ",
+    "arabic2": "يمنون عليك ان اسلموا قل لا تمنوا علي اسلامكم بل الله يمن عليكم ان هداكم للايمان ان كنتم صادقين",
+    "bengali": "(তারা মনে করে) ‘তারা ইসলাম গ্রহণ করে তোমাকে ধন্য করেছে’। বল, ‘তোমরা ইসলাম গ্রহণ করে আমাকে ধন্য করেছ মনে করো না’। বরং আল্লাহই তোমাদেরকে ঈমানের দিকে পরিচালিত করে তোমাদেরকে ধন্য করেছেন, তোমরা যদি সত্যবাদী হয়ে থাক’।",
+    "urdu": "یہ لوگ تم پر احسان رکھتے ہیں کہ مسلمان ہوگئے ہیں۔ کہہ دو کہ اپنے مسلمان ہونے کا مجھ پر احسان نہ رکھو۔ بلکہ خدا تم پر احسان رکھتا ہے کہ اس نے تمہیں ایمان کا رستہ دکھایا بشرطیکہ تم سچے (مسلمان) ہو"
+}

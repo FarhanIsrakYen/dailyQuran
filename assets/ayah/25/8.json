@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Furqaan",
+    "surahNameArabic": "الفرقان",
+    "surahNameArabicLong": "سورة الفرقان",
+    "surahNameTranslation": "The Criterion",
+    "revelationPlace": "Mecca",
+    "totalAyah": 77,
+    "surahNo": 25,
+    "ayahNo": 8,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/25_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/025008.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/25_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/025008.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/25_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/025008.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/25_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/025008.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/25_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/025008.mp3"
+        }
+    },
+    "english": "or a treasure had been cast down to him, or he had had a garden from which he may eat!” And the wrongdoers say ˹to the believers˺, “You are only following a bewitched man.”",
+    "arabic1": "أَوْ يُلْقَىٰٓ إِلَيْهِ كَنزٌ أَوْ تَكُونُ لَهُۥ جَنَّةٌ يَأْكُلُ مِنْهَا ۚ وَقَالَ ٱلظَّـٰلِمُونَ إِن تَتَّبِعُونَ إِلَّا رَجُلًا مَّسْحُورًا",
+    "arabic2": "او يلقى اليه كنز او تكون له جنة ياكل منها وقال الظالمون ان تتبعون الا رجلا مسحورا",
+    "bengali": "অথবা তাকে ধনভান্ডার ঢেলে দেয়া হয় না কেন অথবা তার জন্য একটি বাগান হয় না কেন যা থেকে সে খেতে পারে?’ যালিমরা বলে, ‘তোমরা শুধু এক যাদুগ্রস্ত লোকের অনুসরণ করছ’।",
+    "urdu": "یا اس کی طرف (آسمان سے) خزانہ اتارا جاتا یا اس کا کوئی باغ ہوتا کہ اس میں کھایا کرتا۔ اور ظالم کہتے ہیں کہ تم تو ایک جادو زدہ شخص کی پیروی کرتے ہو"
+}

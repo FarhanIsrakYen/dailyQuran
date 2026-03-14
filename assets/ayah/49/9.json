@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Hujuraat",
+    "surahNameArabic": "الحجرات",
+    "surahNameArabicLong": "سورة الحجرات",
+    "surahNameTranslation": "The Inner Apartments",
+    "revelationPlace": "Madina",
+    "totalAyah": 18,
+    "surahNo": 49,
+    "ayahNo": 9,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/49_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/049009.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/49_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/049009.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/49_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/049009.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/49_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/049009.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/49_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/049009.mp3"
+        }
+    },
+    "english": "And if two groups of believers fight each other, then make peace between them. But if one of them transgresses against the other, then fight against the transgressing group until they ˹are willing to˺ submit to the rule of Allah. If they do so, then make peace between both ˹groups˺ in all fairness and act justly. Surely Allah loves those who uphold justice.",
+    "arabic1": "وَإِن طَآئِفَتَانِ مِنَ ٱلْمُؤْمِنِينَ ٱقْتَتَلُوا۟ فَأَصْلِحُوا۟ بَيْنَهُمَا ۖ فَإِنۢ بَغَتْ إِحْدَىٰهُمَا عَلَى ٱلْأُخْرَىٰ فَقَـٰتِلُوا۟ ٱلَّتِى تَبْغِى حَتَّىٰ تَفِىٓءَ إِلَىٰٓ أَمْرِ ٱللَّهِ ۚ فَإِن فَآءَتْ فَأَصْلِحُوا۟ بَيْنَهُمَا بِٱلْعَدْلِ وَأَقْسِطُوٓا۟ ۖ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُقْسِطِينَ",
+    "arabic2": "وان طائفتان من المؤمنين اقتتلوا فاصلحوا بينهما فان بغت احداهما على الاخرى فقاتلوا التي تبغي حتى تفيء الى امر الله فان فاءت فاصلحوا بينهما بالعدل واقسطوا ان الله يحب المقسطين",
+    "bengali": "আর যদি মুমিনদের দু’দল যুদ্ধে লিপ্ত হয়, তাহলে তোমরা তাদের মধ্যে মীমাংসা করে দাও। অতঃপর যদি তাদের একদল অপর দলের উপর বাড়াবাড়ি করে, তাহলে যে দলটি বাড়াবাড়ি করবে, তার বিরুদ্ধে তোমরা যুদ্ধ কর, যতক্ষণ না সে দলটি আল্লাহর নির্দেশের দিকে ফিরে আসে। তারপর যদি দলটি ফিরে আসে তাহলে তাদের মধ্যে ইনসাফের সাথে মীমাংসা কর এবং ন্যায়বিচার কর। নিশ্চয় আল্লাহ ন্যায়বিচারকারীদের ভালবাসেন।",
+    "urdu": "اور اگر مومنوں میں سے کوئی دو فریق آپس میں لڑ پڑیں تو ان میں صلح کرا دو۔ اور اگر ایک فریق دوسرے پر زیادتی کرے تو زیادتی کرنے والے سے لڑو یہاں تک کہ وہ خدا کے حکم کی طرف رجوع لائے۔ پس جب وہ رجوع لائے تو وہ دونوں فریق میں مساوات کے ساتھ صلح کرا دو اور انصاف سے کام لو۔ کہ خدا انصاف کرنے والوں کو پسند کرتا ہے"
+}

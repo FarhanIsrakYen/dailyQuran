@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Hadid",
+    "surahNameArabic": "الحديد",
+    "surahNameArabicLong": "سورة الحديد",
+    "surahNameTranslation": "The Iron",
+    "revelationPlace": "Madina",
+    "totalAyah": 29,
+    "surahNo": 57,
+    "ayahNo": 15,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/57_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/057015.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/57_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/057015.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/57_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/057015.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/57_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/057015.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/57_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/057015.mp3"
+        }
+    },
+    "english": "So Today no ransom will be accepted from you ˹hypocrites˺, nor from the disbelievers. Your home is the Fire—it is the ˹only˺ fitting place for you. What an evil destination!”",
+    "arabic1": "فَٱلْيَوْمَ لَا يُؤْخَذُ مِنكُمْ فِدْيَةٌ وَلَا مِنَ ٱلَّذِينَ كَفَرُوا۟ ۚ مَأْوَىٰكُمُ ٱلنَّارُ ۖ هِىَ مَوْلَىٰكُمْ ۖ وَبِئْسَ ٱلْمَصِيرُ",
+    "arabic2": "فاليوم لا يؤخذ منكم فدية ولا من الذين كفروا ماواكم النار هي مولاكم وبئس المصير",
+    "bengali": "সুতরাং আজ তোমাদের কাছ থেকে কোন মুক্তিপণ গ্রহণ করা হবে না এবং যারা কুফরী করেছিল তাদের কাছ থেকেও না। জাহান্নামই তোমাদের আবাসস্থল। সেটাই তোমাদের উপযুক্ত স্থান। আর কতই না নিকৃষ্ট সেই গন্তব্যস্থল!",
+    "urdu": "تو آج تم سے معاوضہ نہیں لیا جائے گا اور نہ (وہ) کافروں ہی سے (قبول کیا جائے گا) تم سب کا ٹھکانا دوزخ ہے۔ (کہ) وہی تمہارے لائق ہے اور وہ بری جگہ ہے"
+}

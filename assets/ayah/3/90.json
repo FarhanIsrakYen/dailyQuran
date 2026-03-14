@@ -1,0 +1,42 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 90,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/3_90.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/003090.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/3_90.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/003090.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/3_90.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/003090.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/3_90.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/003090.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/3_90.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/003090.mp3"
+        }
+    },
+    "english": "Indeed, those who disbelieve after having believed then increase in disbelief, their repentance will never be accepted. It is they who are astray.",
+    "arabic1": "إِنَّ ٱلَّذِينَ كَفَرُوا۟ بَعْدَ إِيمَـٰنِهِمْ ثُمَّ ٱزْدَادُوا۟ كُفْرًا لَّن تُقْبَلَ تَوْبَتُهُمْ وَأُو۟لَـٰٓئِكَ هُمُ ٱلضَّآلُّونَ",
+    "arabic2": "ان الذين كفروا بعد ايمانهم ثم ازدادوا كفرا لن تقبل توبتهم واولئك هم الضالون",
+    "bengali": "নিশ্চয় যারা কুফরী করেছে ঈমান আনার পর, তারপর তারা কুফরীতে বেড়ে গিয়েছে, তাদের তাওবা কখনো কবুল করা হবে না। আর তারাই পথভ্রষ্ট।",
+    "urdu": "جو لوگ ایمان لانے کے بعد کافر ہو گئے پھر کفر میں بڑھتے گئے ایسوں کی توبہ ہرگز قبول نہ ہوگی اور یہ لوگ گمراہ ہیں"
+}

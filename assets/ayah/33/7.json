@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Ahzaab",
+    "surahNameArabic": "الأحزاب",
+    "surahNameArabicLong": "سورة الأحزاب",
+    "surahNameTranslation": "The Clans",
+    "revelationPlace": "Madina",
+    "totalAyah": 73,
+    "surahNo": 33,
+    "ayahNo": 7,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/33_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/033007.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/33_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/033007.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/33_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/033007.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/33_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/033007.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/33_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/033007.mp3"
+        }
+    },
+    "english": "And ˹remember˺ when We took a covenant from the prophets, as well as from you ˹O Prophet˺, and from Noah, Abraham, Moses, and Jesus, son of Mary. We did take a solemn covenant from ˹all of˺ them",
+    "arabic1": "وَإِذْ أَخَذْنَا مِنَ ٱلنَّبِيِّـۧنَ مِيثَـٰقَهُمْ وَمِنكَ وَمِن نُّوحٍ وَإِبْرَٰهِيمَ وَمُوسَىٰ وَعِيسَى ٱبْنِ مَرْيَمَ ۖ وَأَخَذْنَا مِنْهُم مِّيثَـٰقًا غَلِيظًا",
+    "arabic2": "واذ اخذنا من النبيين ميثاقهم ومنك ومن نوح وابراهيم وموسى وعيسى ابن مريم واخذنا منهم ميثاقا غليظا",
+    "bengali": "আর স্মরণ কর, যখন আমি অঙ্গীকার গ্রহণ করেছিলাম নবীদের থেকে এবং তোমার থেকে, নূহ, ইবরাহীম, মূসা ও মারইয়াম পুত্র ঈসা থেকে। আর আমি তাদের কাছ থেকে দৃঢ় অঙ্গীকার গ্রহণ করেছিলাম।",
+    "urdu": "اور جب ہم نے پیغمبروں سے عہد لیا اور تم سے نوح سے اور ابراہیم سے اور موسیٰ سے اور مریم کے بیٹے عیسیٰ سے۔ اور عہد بھی اُن سے پکّا لیا"
+}

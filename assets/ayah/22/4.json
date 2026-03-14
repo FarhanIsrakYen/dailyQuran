@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Hajj",
+    "surahNameArabic": "الحج",
+    "surahNameArabicLong": "سورة الحج",
+    "surahNameTranslation": "The Pilgrimage",
+    "revelationPlace": "Madina",
+    "totalAyah": 78,
+    "surahNo": 22,
+    "ayahNo": 4,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/22_4.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/022004.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/22_4.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/022004.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/22_4.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/022004.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/22_4.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/022004.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/22_4.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/022004.mp3"
+        }
+    },
+    "english": "It has been decreed for such devils that whoever takes them as a guide will be misguided and led by them into the torment of the Blaze.",
+    "arabic1": "كُتِبَ عَلَيْهِ أَنَّهُۥ مَن تَوَلَّاهُ فَأَنَّهُۥ يُضِلُّهُۥ وَيَهْدِيهِ إِلَىٰ عَذَابِ ٱلسَّعِيرِ",
+    "arabic2": "كتب عليه انه من تولاه فانه يضله ويهديه الى عذاب السعير",
+    "bengali": "তার সম্পর্কে নির্ধারণ করা হয়েছে যে, যে তার সাথে বন্ধুত্ব করবে সে অবশ্যই তাকে পথভ্রষ্ট করবে এবং তাকে প্রজ্জ্বলিত আগুনের শাস্তির দিকে পরিচালিত করবে।",
+    "urdu": "جس کے بارے میں لکھ دیا گیا ہے کہ جو اسے دوست رکھے گا تو اس کو گمراہ کردے گا اور دوزخ کے عذاب کا رستہ دکھائے گا"
+}

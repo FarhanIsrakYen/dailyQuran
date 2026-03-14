@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 182,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/7_182.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/007182.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/7_182.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/007182.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/7_182.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/007182.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/7_182.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/007182.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/7_182.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/007182.mp3"
+        }
+    },
+    "english": "As for those who deny Our signs, We will gradually draw them to destruction in ways they cannot comprehend.",
+    "arabic1": "وَٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَـٰتِنَا سَنَسْتَدْرِجُهُم مِّنْ حَيْثُ لَا يَعْلَمُونَ",
+    "arabic2": "والذين كذبوا باياتنا سنستدرجهم من حيث لا يعلمون",
+    "bengali": "আর যারা আমার আয়াতসমূহকে অস্বীকার করেছে, অচিরেই আমি তাদেরকে ধীরে ধীরে এমনভাবে পাকড়াও করব যে, তারা জানতেও পারবে না।",
+    "urdu": "اور جن لوگوں نے ہماری آیتوں کو جھٹلایا ان کو بتدریج اس طریق سے پکڑیں گے کہ ان کو معلوم ہی نہ ہوگا"
+}

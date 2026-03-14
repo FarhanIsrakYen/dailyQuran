@@ -1,0 +1,42 @@
+{
+    "surahName": "Muhammad",
+    "surahNameArabic": "محمد",
+    "surahNameArabicLong": "سورة محمد",
+    "surahNameTranslation": "Muhammad",
+    "revelationPlace": "Madina",
+    "totalAyah": 38,
+    "surahNo": 47,
+    "ayahNo": 26,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/47_26.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/047026.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/47_26.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/047026.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/47_26.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/047026.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/47_26.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/047026.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/47_26.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/047026.mp3"
+        }
+    },
+    "english": "That is because they said ˹privately˺ to those who ˹also˺ detest what Allah has revealed, “We will obey you in some matters.” But Allah ˹fully˺ knows what they are hiding.",
+    "arabic1": "ذَٰلِكَ بِأَنَّهُمْ قَالُوا۟ لِلَّذِينَ كَرِهُوا۟ مَا نَزَّلَ ٱللَّهُ سَنُطِيعُكُمْ فِى بَعْضِ ٱلْأَمْرِ ۖ وَٱللَّهُ يَعْلَمُ إِسْرَارَهُمْ",
+    "arabic2": "ذلك بانهم قالوا للذين كرهوا ما نزل الله سنطيعكم في بعض الامر والله يعلم اسرارهم",
+    "bengali": "এটি এ জন্য যে, আল্লাহ যা নাযিল করেছেন তা যারা অপছন্দ করে। তাদের উদ্দেশ্যে, তারা বলে, ‘অচিরেই আমরা কতিপয় বিষয়ে তোমাদের আনুগত্য করব’। আল্লাহ তাদের গোপনীয়তা সম্পর্কে অবহিত রয়েছেন।",
+    "urdu": "یہ اس لئے کہ جو لوگ خدا کی اُتاری ہوئی (کتاب) سے بیزار ہیں یہ ان سے کہتے ہیں کہ بعض کاموں میں ہم تمہاری بات بھی مانیں گے۔ اور خدا ان کے پوشیدہ مشوروں سے واقف ہے"
+}

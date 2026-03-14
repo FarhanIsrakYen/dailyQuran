@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 108,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/4_108.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/004108.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/4_108.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/004108.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/4_108.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/004108.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/4_108.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/004108.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/4_108.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/004108.mp3"
+        }
+    },
+    "english": "They try to hide ˹their deception˺ from people, but they can never hide it from Allah—in Whose presence they plot by night what is displeasing to Him. And Allah is Fully Aware of what they do.",
+    "arabic1": "يَسْتَخْفُونَ مِنَ ٱلنَّاسِ وَلَا يَسْتَخْفُونَ مِنَ ٱللَّهِ وَهُوَ مَعَهُمْ إِذْ يُبَيِّتُونَ مَا لَا يَرْضَىٰ مِنَ ٱلْقَوْلِ ۚ وَكَانَ ٱللَّهُ بِمَا يَعْمَلُونَ مُحِيطًا",
+    "arabic2": "يستخفون من الناس ولا يستخفون من الله وهو معهم اذ يبيتون ما لا يرضى من القول وكان الله بما يعملون محيطا",
+    "bengali": "তারা মানুষের কাছ থেকে লুকাতে চায়, আর আল্লাহর কাছ থেকে লুকাতে চায় না। অথচ তিনি তাদের সাথেই থাকেন যখন তারা রাতে এমন কথার পরিকল্পনা করে যা তিনি পছন্দ করেন না। আর আল্লাহ তারা যা করে তা পরিবেষ্টন করে আছেন।",
+    "urdu": "یہ لوگوں سے تو چھپتے ہیں اور خدا سے نہیں چھپتے حالانکہ جب وہ راتوں کو ایسی باتوں کے مشورے کیا کرتے ہیں جن کو وہ پسند نہیں کرتا ان کے ساتھ ہوا کرتا ہے اور خدا ان کے (تمام) کاموں پر احاطہ کئے ہوئے ہے"
+}

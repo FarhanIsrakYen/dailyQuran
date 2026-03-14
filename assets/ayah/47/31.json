@@ -1,0 +1,42 @@
+{
+    "surahName": "Muhammad",
+    "surahNameArabic": "محمد",
+    "surahNameArabicLong": "سورة محمد",
+    "surahNameTranslation": "Muhammad",
+    "revelationPlace": "Madina",
+    "totalAyah": 38,
+    "surahNo": 47,
+    "ayahNo": 31,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/47_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/047031.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/47_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/047031.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/47_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/047031.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/47_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/047031.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/47_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/047031.mp3"
+        }
+    },
+    "english": "We will certainly test you ˹believers˺ until We prove those of you who ˹truly˺ struggle ˹in Allah’s cause˺ and remain steadfast, and reveal how you conduct yourselves.",
+    "arabic1": "وَلَنَبْلُوَنَّكُمْ حَتَّىٰ نَعْلَمَ ٱلْمُجَـٰهِدِينَ مِنكُمْ وَٱلصَّـٰبِرِينَ وَنَبْلُوَا۟ أَخْبَارَكُمْ",
+    "arabic2": "ولنبلونكم حتى نعلم المجاهدين منكم والصابرين ونبلو اخباركم",
+    "bengali": "আর আমি অবশ্যই তোমাদেরকে পরীক্ষা করব যতক্ষণ না আমি প্রকাশ করে দেই তোমাদের মধ্যে কারা জিহাদকারী ও ধৈর্যশীল এবং আমি তোমাদের কথা- কাজ পরীক্ষা করে নেব।",
+    "urdu": "اور ہم تو لوگوں کو آزمائیں گے تاکہ جو تم میں لڑائی کرنے والے اور ثابت قدم رہنے والے ہیں ان کو معلوم کریں۔ اور تمہارے حالات جانچ لیں"
+}

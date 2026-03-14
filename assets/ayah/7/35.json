@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 35,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/7_35.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/007035.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/7_35.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/007035.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/7_35.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/007035.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/7_35.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/007035.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/7_35.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/007035.mp3"
+        }
+    },
+    "english": "O children of Adam! When messengers from among yourselves come to you reciting My revelations—whoever shuns evil and mends their ways, there will be no fear for them, nor will they grieve.",
+    "arabic1": "يَـٰبَنِىٓ ءَادَمَ إِمَّا يَأْتِيَنَّكُمْ رُسُلٌ مِّنكُمْ يَقُصُّونَ عَلَيْكُمْ ءَايَـٰتِى ۙ فَمَنِ ٱتَّقَىٰ وَأَصْلَحَ فَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+    "arabic2": "يا بني ادم اما ياتينكم رسل منكم يقصون عليكم اياتي فمن اتقى واصلح فلا خوف عليهم ولا هم يحزنون",
+    "bengali": "হে বনী আদম, যদি তোমাদের নিকট তোমাদের মধ্য থেকে রাসূলগণ আসে যারা তোমাদের নিকট আমার আয়াতসমূহ বর্ণনা করবে, তবে যারা তাকওয়া অবলম্বন করবে এবং (আমল) সংশোধন করবে, তাদের উপর কোন ভয় নেই এবং তারা দুঃখিতও হবে না।",
+    "urdu": "اے نبی آدم! (ہم تم کو یہ نصیحت ہمیشہ کرتے رہے ہیں کہ) جب ہمارے پیغمبر تمہارے پاس آیا کریں اور ہماری آیتیں تم کو سنایا کریں (تو ان پر ایمان لایا کرو) کہ جو شخص (ان پر ایمان لا کر خدا سے) ڈرتا رہے گا اور اپنی حالت درست رکھے گا تو ایسے لوگوں کو نہ کچھ خوف ہوگا اور نہ وہ غمناک ہوں گے"
+}

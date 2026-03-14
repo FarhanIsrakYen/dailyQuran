@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 93,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/4_93.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/004093.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/4_93.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/004093.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/4_93.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/004093.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/4_93.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/004093.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/4_93.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/004093.mp3"
+        }
+    },
+    "english": "And whoever kills a believer intentionally, their reward will be Hell—where they will stay indefinitely. Allah will be displeased with them, condemn them, and will prepare for them a tremendous punishment.",
+    "arabic1": "وَمَن يَقْتُلْ مُؤْمِنًا مُّتَعَمِّدًا فَجَزَآؤُهُۥ جَهَنَّمُ خَـٰلِدًا فِيهَا وَغَضِبَ ٱللَّهُ عَلَيْهِ وَلَعَنَهُۥ وَأَعَدَّ لَهُۥ عَذَابًا عَظِيمًا",
+    "arabic2": "ومن يقتل مؤمنا متعمدا فجزاؤه جهنم خالدا فيها وغضب الله عليه ولعنه واعد له عذابا عظيما",
+    "bengali": "আর যে ইচ্ছাকৃত কোন মুমিনকে হত্যা করবে, তার প্রতিদান হচ্ছে জাহান্নাম, সেখানে সে স্থায়ী হবে। আর আল্লাহ তার উপর ক্রুদ্ধ হবেন, তাকে লা‘নত করবেন এবং তার জন্য বিশাল আযাব প্রস্তুত করে রাখবেন।",
+    "urdu": "اور جو شخص مسلمان کو قصداً مار ڈالے گا تو اس کی سزا دوزخ ہے جس میں وہ ہمیشہ (جلتا) رہے گا اور خدا اس پر غضبناک ہوگا اور اس پر لعنت کرے گا اور ایسے شخص کے لئے اس نے بڑا (سخت) عذاب تیار کر رکھا ہے"
+}

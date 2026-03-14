@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Insaan",
+    "surahNameArabic": "الانسان",
+    "surahNameArabicLong": "سورة الانسان",
+    "surahNameTranslation": "Man",
+    "revelationPlace": "Madina",
+    "totalAyah": 31,
+    "surahNo": 76,
+    "ayahNo": 8,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/76_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/076008.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/76_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/076008.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/76_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/076008.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/76_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/076008.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/76_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/076008.mp3"
+        }
+    },
+    "english": "and give food—despite their desire for it—to the poor, the orphan, and the captive",
+    "arabic1": "وَيُطْعِمُونَ ٱلطَّعَامَ عَلَىٰ حُبِّهِۦ مِسْكِينًا وَيَتِيمًا وَأَسِيرًا",
+    "arabic2": "ويطعمون الطعام على حبه مسكينا ويتيما واسيرا",
+    "bengali": "তারা খাদ্যের প্রতি আসক্তি থাকা সত্ত্বেও মিসকীন, ইয়াতীম ও বন্দীকে খাদ্য দান করে।",
+    "urdu": "اور باوجود یہ کہ ان کو خود طعام کی خواہش (اور حاجت) ہے فقیروں اور یتیموں اور قیدیوں کو کھلاتے ہیں"
+}

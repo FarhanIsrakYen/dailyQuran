@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 101,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/17_101.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/017101.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/17_101.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/017101.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/17_101.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/017101.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/17_101.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/017101.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/17_101.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/017101.mp3"
+        }
+    },
+    "english": "We surely gave Moses nine clear signs. ˹You, O  Prophet, can˺ ask the Children of Israel. When Moses came to them, Pharaoh said to him, “I really think that you, O  Moses, are bewitched.”",
+    "arabic1": "وَلَقَدْ ءَاتَيْنَا مُوسَىٰ تِسْعَ ءَايَـٰتٍۭ بَيِّنَـٰتٍ ۖ فَسْـَٔلْ بَنِىٓ إِسْرَٰٓءِيلَ إِذْ جَآءَهُمْ فَقَالَ لَهُۥ فِرْعَوْنُ إِنِّى لَأَظُنُّكَ يَـٰمُوسَىٰ مَسْحُورًا",
+    "arabic2": "ولقد اتينا موسى تسع ايات بينات فاسال بني اسرائيل اذ جاءهم فقال له فرعون اني لاظنك يا موسى مسحورا",
+    "bengali": "আর আমি মূসাকে নয়টি স্পষ্ট নিদর্শন দিয়েছিলাম, সুতরাং তুমি বনী ইসরাঈলকে জিজ্ঞাসা কর, যখন সে তাদের কাছে আসল তখন ফির‘আউন তাকে বলল, ‘হে মূসা, আমিতো ধারণা করি তুমি যাদুগ্রস্ত’।",
+    "urdu": "اور ہم نے موسیٰ کو نو کھلی نشانیاں دیں تو بنی اسرائیل سے دریافت کرلو کہ جب وہ ان کے پاس آئے تو فرعون نے ان سے کہا کہ موسیٰ میں خیال کرتا ہوں کہ تم پر جادو کیا گیا ہے"
+}

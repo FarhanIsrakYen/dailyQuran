@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 119,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/6_119.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/006119.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/6_119.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/006119.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/6_119.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/006119.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/6_119.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/006119.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/6_119.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/006119.mp3"
+        }
+    },
+    "english": "Why should you not eat of what is slaughtered in Allah’s Name when He has already explained to you what He has forbidden to you—except when compelled by necessity? Many ˹deviants˺ certainly mislead others by their whims out of ignorance. Surely your Lord knows the transgressors best.",
+    "arabic1": "وَمَا لَكُمْ أَلَّا تَأْكُلُوا۟ مِمَّا ذُكِرَ ٱسْمُ ٱللَّهِ عَلَيْهِ وَقَدْ فَصَّلَ لَكُم مَّا حَرَّمَ عَلَيْكُمْ إِلَّا مَا ٱضْطُرِرْتُمْ إِلَيْهِ ۗ وَإِنَّ كَثِيرًا لَّيُضِلُّونَ بِأَهْوَآئِهِم بِغَيْرِ عِلْمٍ ۗ إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِٱلْمُعْتَدِينَ",
+    "arabic2": "وما لكم الا تاكلوا مما ذكر اسم الله عليه وقد فصل لكم ما حرم عليكم الا ما اضطررتم اليه وان كثيرا ليضلون باهوائهم بغير علم ان ربك هو اعلم بالمعتدين",
+    "bengali": "আর তোমাদের কী হল যে তোমরা তা থেকে আহার করো না, যার উপর আল্লাহর নাম উচ্চারণ করা হয়েছে! অথচ তিনি তোমাদের জন্য বিস্তারিত বর্ণনা করেছেন, যা তোমাদের উপর হারাম করেছেন। তবে যার প্রতি তোমরা বাধ্য হয়েছ এবং নিশ্চয় অনেকে না জেনে তাদের খেয়াল-খুশি দ্বারা পথভ্রষ্ট করে। নিশ্চয় তোমার রব সীমালঙ্ঘনকারীদের সম্পর্কে অধিক জ্ঞাত।",
+    "urdu": "اور سبب کیا ہے کہ جس چیز پر خدا کا نام لیا جائے تم اسے نہ کھاؤ حالانکہ جو چیزیں اس نے تمہارے لیے حرام ٹھیرا دی ہیں وہ ایک ایک کر کے بیان کر دی ہیں (بے شک ان کو نہیں کھانا چاہیے) مگر اس صورت میں کہ ان کے (کھانے کے) لیے ناچار ہو جاؤ اور بہت سے لوگ بےسمجھے بوجھے اپنے نفس کی خواہشوں سے لوگوں کو بہکا رہے ہیں کچھ شک نہیں کہ ایسے لوگوں کو جو (خدا کی مقرر کی ہوئی) حد سے باہر نکل جاتے ہیں تمہارا پروردگار خوب جانتا ہے"
+}

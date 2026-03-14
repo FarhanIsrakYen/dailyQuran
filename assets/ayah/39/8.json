@@ -1,0 +1,42 @@
+{
+    "surahName": "Az-Zumar",
+    "surahNameArabic": "الزمر",
+    "surahNameArabicLong": "سورة الزمر",
+    "surahNameTranslation": "The Groups",
+    "revelationPlace": "Mecca",
+    "totalAyah": 75,
+    "surahNo": 39,
+    "ayahNo": 8,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/39_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/039008.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/39_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/039008.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/39_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/039008.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/39_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/039008.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/39_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/039008.mp3"
+        }
+    },
+    "english": "When one is touched with hardship, they cry out to their Lord, turning to Him ˹alone˺. But as soon as He showers them with blessings from Him, they ˹totally˺ forget the One they had cried to earlier, and set up equals to Allah to mislead ˹others˺ from His Way. Say, ˹O Prophet,˺ “Enjoy your disbelief for a little while! You will certainly be one of the inmates of the Fire.”",
+    "arabic1": "۞ وَإِذَا مَسَّ ٱلْإِنسَـٰنَ ضُرٌّ دَعَا رَبَّهُۥ مُنِيبًا إِلَيْهِ ثُمَّ إِذَا خَوَّلَهُۥ نِعْمَةً مِّنْهُ نَسِىَ مَا كَانَ يَدْعُوٓا۟ إِلَيْهِ مِن قَبْلُ وَجَعَلَ لِلَّهِ أَندَادًا لِّيُضِلَّ عَن سَبِيلِهِۦ ۚ قُلْ تَمَتَّعْ بِكُفْرِكَ قَلِيلًا ۖ إِنَّكَ مِنْ أَصْحَـٰبِ ٱلنَّارِ",
+    "arabic2": "واذا مس الانسان ضر دعا ربه منيبا اليه ثم اذا خوله نعمة منه نسي ما كان يدعو اليه من قبل وجعل لله اندادا ليضل عن سبيله قل تمتع بكفرك قليلا انك من اصحاب النار",
+    "bengali": "আর যখন মানুষকে স্পর্শ করে দুঃখ-দুর্দশা, তখন সে একাগ্রচিত্তে তার রবকে ডাকে, তারপর তিনি যখন তাকে নিজের পক্ষ থেকে নিআমত দান করেন তখন সে ভুলে যায় ইতঃপূর্বে কি কারণে তাঁর কাছে দোয়া করেছিল, আর আল্লাহর সমকক্ষ নির্ধারণ করে, তাঁর পথ থেকে বিচ্যুত করার জন্য। বল, ‘তোমার কুফরী উপভোগ কর ক্ষণকাল; নিশ্চয় তুমি জাহান্নামীদের অন্তর্ভুক্ত।’",
+    "urdu": "اور جب انسان کو تکلیف پہنچتی ہے تو اپنے پروردگار کو پکارتا (اور) اس کی طرف دل سے رجوع کرتا ہے۔ پھر جب وہ اس کو اپنی طرف سے کوئی نعمت دیتا ہے تو جس کام کے لئے پہلے اس کو پکارتا ہے اسے بھول جاتا ہے اور خدا کا شریک بنانے لگتا ہے تاکہ (لوگوں کو) اس کے رستے سے گمراہ کرے۔ کہہ دو کہ (اے کافر نعمت) اپنی ناشکری سے تھوڑا سا فائدہ اٹھالے۔ پھر تُو تو دوزخیوں میں ہوگا"
+}

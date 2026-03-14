@@ -1,0 +1,42 @@
+{
+    "surahName": "Qaaf",
+    "surahNameArabic": "ق",
+    "surahNameArabicLong": "سورة ق",
+    "surahNameTranslation": "The letter Qaaf",
+    "revelationPlace": "Mecca",
+    "totalAyah": 45,
+    "surahNo": 50,
+    "ayahNo": 5,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/50_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/050005.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/50_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/050005.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/50_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/050005.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/50_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/050005.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/50_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/050005.mp3"
+        }
+    },
+    "english": "In fact, they reject the truth when it has come to them, so they are in a confused state.",
+    "arabic1": "بَلْ كَذَّبُوا۟ بِٱلْحَقِّ لَمَّا جَآءَهُمْ فَهُمْ فِىٓ أَمْرٍ مَّرِيجٍ",
+    "arabic2": "بل كذبوا بالحق لما جاءهم فهم في امر مريج",
+    "bengali": "বরং তারা সত্যকে অস্বীকার করেছে, যখনই তাদের কাছে সত্য এসেছে। অতএব তারা সংশয়যুক্ত বিষয়ের মধ্যে রয়েছে।",
+    "urdu": "بلکہ (عجیب بات یہ ہے کہ) جب ان کے پاس (دین) حق آ پہنچا تو انہوں نے اس کو جھوٹ سمجھا سو یہ ایک الجھی ہوئی بات میں (پڑ رہے) ہیں"
+}

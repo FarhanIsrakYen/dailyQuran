@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Ankaboot",
+    "surahNameArabic": "العنكبوت",
+    "surahNameArabicLong": "سورة العنكبوت",
+    "surahNameTranslation": "The Spider",
+    "revelationPlace": "Mecca",
+    "totalAyah": 69,
+    "surahNo": 29,
+    "ayahNo": 18,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/29_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/029018.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/29_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/029018.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/29_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/029018.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/29_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/029018.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/29_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/029018.mp3"
+        }
+    },
+    "english": "If you ˹Meccans˺ persist in denial, so did ˹many˺ communities before you. The Messenger’s duty is only to deliver ˹the message˺ clearly.”",
+    "arabic1": "وَإِن تُكَذِّبُوا۟ فَقَدْ كَذَّبَ أُمَمٌ مِّن قَبْلِكُمْ ۖ وَمَا عَلَى ٱلرَّسُولِ إِلَّا ٱلْبَلَـٰغُ ٱلْمُبِينُ",
+    "arabic2": "وان تكذبوا فقد كذب امم من قبلكم وما على الرسول الا البلاغ المبين",
+    "bengali": "আর তোমরা যদি মিথ্যারোপ কর, তবে তোমাদের পূর্বে অনেক জাতি মিথ্যারোপ করেছিল। আর রাসূলের উপর দায়িত্ব তো কেবল সুস্পষ্টভাবে পৌঁছানো।",
+    "urdu": "اور اگر تم (میری) تکذیب کرو تو تم سے پہلے بھی اُمتیں (اپنے پیغمبروں کی) تکذیب کرچکی ہیں۔ اور پیغمبر کے ذمے کھول کر سنا دینے کے سوا اور کچھ نہیں"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 61,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/6_61.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/006061.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/6_61.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/006061.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/6_61.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/006061.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/6_61.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/006061.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/6_61.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/006061.mp3"
+        }
+    },
+    "english": "He reigns supreme over all of His creation, and sends recording-angels, watching over you. When death comes to any of you, Our angels take their soul, never neglecting this duty.",
+    "arabic1": "وَهُوَ ٱلْقَاهِرُ فَوْقَ عِبَادِهِۦ ۖ وَيُرْسِلُ عَلَيْكُمْ حَفَظَةً حَتَّىٰٓ إِذَا جَآءَ أَحَدَكُمُ ٱلْمَوْتُ تَوَفَّتْهُ رُسُلُنَا وَهُمْ لَا يُفَرِّطُونَ",
+    "arabic2": "وهو القاهر فوق عباده ويرسل عليكم حفظة حتى اذا جاء احدكم الموت توفته رسلنا وهم لا يفرطون",
+    "bengali": "আর তিনিই নিজ বান্দাদের উপর ক্ষমতাবান এবং তোমাদের উপর প্রেরণ করেন হিফাযতকারীদেরকে। অবশেষে যখন তোমাদের কারো কাছে মৃত্যু আসে, আমার প্রেরিত দূতগণ তার মৃত্যু ঘটায়। আর তারা কোন ত্রুটি করে না।",
+    "urdu": "اور وہ اپنے بندوں پر غالب ہے۔ اور تم پر نگہبان مقرر کئے رکھتا ہے۔ یہاں تک کہ جب تم میں سے کسی کی موت آتی ہے تو ہمارے فرشتے اس کی روح قبض کرلیتے ہیں اور وہ کسی طرح کی کوتاہی نہیں کرتے"
+}

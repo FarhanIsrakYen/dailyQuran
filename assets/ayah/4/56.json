@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 56,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/4_56.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/004056.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/4_56.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/004056.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/4_56.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/004056.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/4_56.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/004056.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/4_56.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/004056.mp3"
+        }
+    },
+    "english": "Surely those who reject Our signs, We will cast them into the Fire. Whenever their skin is burnt completely, We will replace it so they will ˹constantly˺ taste the punishment. Indeed, Allah is Almighty, All-Wise.",
+    "arabic1": "إِنَّ ٱلَّذِينَ كَفَرُوا۟ بِـَٔايَـٰتِنَا سَوْفَ نُصْلِيهِمْ نَارًا كُلَّمَا نَضِجَتْ جُلُودُهُم بَدَّلْنَـٰهُمْ جُلُودًا غَيْرَهَا لِيَذُوقُوا۟ ٱلْعَذَابَ ۗ إِنَّ ٱللَّهَ كَانَ عَزِيزًا حَكِيمًا",
+    "arabic2": "ان الذين كفروا باياتنا سوف نصليهم نارا كلما نضجت جلودهم بدلناهم جلودا غيرها ليذوقوا العذاب ان الله كان عزيزا حكيما",
+    "bengali": "নিশ্চয় যারা আমার আয়াতসমূহকে অস্বীকার করেছে, অচিরেই আমি তাদেরকে প্রবেশ করাব আগুনে। যখনই তাদের চামড়াগুলো পুড়ে যাবে তখনই আমি তাদেরকে পালটে দেব অন্য চামড়া দিয়ে যাতে তারা আস্বাদন করে আযাব। নিশ্চয় আল্লাহ পরাক্রমশালী, প্রজ্ঞাময়।",
+    "urdu": "جن لوگوں نے ہماری آیتوں سے کفر کیا ان کو ہم عنقریب آگ میں داخل کریں گے جب ان کی کھالیں گل (اور جل) جائیں گی تو ہم اور کھالیں بدل دیں گے تاکہ (ہمیشہ) عذاب (کا مزہ چکھتے) رہیں بےشک خدا غالب حکمت والا ہے"
+}

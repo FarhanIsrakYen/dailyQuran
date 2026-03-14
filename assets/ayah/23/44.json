@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Muminoon",
+    "surahNameArabic": "المؤمنون",
+    "surahNameArabicLong": "سورة المؤمنون",
+    "surahNameTranslation": "The Believers",
+    "revelationPlace": "Mecca",
+    "totalAyah": 118,
+    "surahNo": 23,
+    "ayahNo": 44,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/23_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/023044.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/23_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/023044.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/23_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/023044.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/23_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/023044.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/23_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/023044.mp3"
+        }
+    },
+    "english": "Then We sent Our messengers in succession: whenever a messenger came to his people, they denied him. So We destroyed them, one after the other, reducing them to ˹cautionary˺ tales. So away with the people who refuse to believe!",
+    "arabic1": "ثُمَّ أَرْسَلْنَا رُسُلَنَا تَتْرَا ۖ كُلَّ مَا جَآءَ أُمَّةً رَّسُولُهَا كَذَّبُوهُ ۚ فَأَتْبَعْنَا بَعْضَهُم بَعْضًا وَجَعَلْنَـٰهُمْ أَحَادِيثَ ۚ فَبُعْدًا لِّقَوْمٍ لَّا يُؤْمِنُونَ",
+    "arabic2": "ثم ارسلنا رسلنا تترى كل ما جاء امة رسولها كذبوه فاتبعنا بعضهم بعضا وجعلناهم احاديث فبعدا لقوم لا يؤمنون",
+    "bengali": "এরপর আমি আমাদের রাসূলদেরকে ধারাবাহিকভাবে প্রেরণ করেছি, যখনই কোন জাতির কাছে তাদের রাসূল আসত, তখনই তারা তাকে অস্বীকার করত। অতঃপর আমি এদের এককে অপরের অনুসরণে ধ্বংস করে দিয়েছি এবং তাদেরকে কাহিনীতে পরিণত করেছি। সুতরাং ধ্বংস হোক সে কওম যারা ঈমান আনে না।",
+    "urdu": "پھر ہم نے پے درپے اپنے پیغمبر بھیجتے رہے۔ جب کسی اُمت کے پاس اس کا پیغمبر آتا تھا تو وہ اسے جھٹلاتے تھے تو ہم بھی بعض کو بعض کے پیچھے (ہلاک کرتے اور ان پر عذاب) لاتے رہے اور ان کے افسانے بناتے رہے۔ پس جو لوگ ایمان نہیں لاتے ان پر لعنت"
+}

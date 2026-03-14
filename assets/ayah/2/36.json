@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 36,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_36.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002036.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_36.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002036.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_36.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002036.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_36.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002036.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_36.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002036.mp3"
+        }
+    },
+    "english": "But Satan deceived them—leading to their fall from the ˹blissful˺ state they were in, and We said, “Descend from the heavens ˹to the earth˺ as enemies to each other. You will find in the earth a residence and provision for your appointed stay.”",
+    "arabic1": "فَأَزَلَّهُمَا ٱلشَّيْطَـٰنُ عَنْهَا فَأَخْرَجَهُمَا مِمَّا كَانَا فِيهِ ۖ وَقُلْنَا ٱهْبِطُوا۟ بَعْضُكُمْ لِبَعْضٍ عَدُوٌّ ۖ وَلَكُمْ فِى ٱلْأَرْضِ مُسْتَقَرٌّ وَمَتَـٰعٌ إِلَىٰ حِينٍ",
+    "arabic2": "فازلهما الشيطان عنها فاخرجهما مما كانا فيه وقلنا اهبطوا بعضكم لبعض عدو ولكم في الارض مستقر ومتاع الى حين",
+    "bengali": "অতঃপর শয়তান তাদেরকে জান্নাত থেকে স্খলিত করল। এবং তারা যাতে ছিল তা থেকে তাদেরকে বের করে দিল, আর আমি বললাম, ‘তোমরা নেমে যাও। তোমরা একে অপরের শত্রু। আর তোমাদের জন্য যমীনে রয়েছে নির্দিষ্ট সময় পর্যন্ত আবাস ও ভোগ-উপকরণ’।",
+    "urdu": "پھر شیطان نے دونوں کو وہاں سے پھسلا دیا اور جس (عیش ونشاط) میں تھے، اس سے ان کو نکلوا دیا۔ تب ہم نے حکم دیا کہ (بہشت بریں سے) چلے جاؤ۔ تم ایک دوسرے کے دشمن ہو، اور تمہارے لیے زمین میں ایک وقت تک ٹھکانا اور معاش (مقرر کر دیا گیا) ہے"
+}

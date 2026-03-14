@@ -1,0 +1,42 @@
+{
+    "surahName": "As-Saff",
+    "surahNameArabic": "الصف",
+    "surahNameArabicLong": "سورة الصف",
+    "surahNameTranslation": "The Ranks",
+    "revelationPlace": "Madina",
+    "totalAyah": 14,
+    "surahNo": 61,
+    "ayahNo": 6,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/61_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/061006.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/61_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/061006.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/61_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/061006.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/61_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/061006.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/61_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/061006.mp3"
+        }
+    },
+    "english": "And ˹remember˺ when Jesus, son of Mary, said, “O children of Israel! I am truly Allah’s messenger to you, confirming the Torah which came before me, and giving good news of a messenger after me whose name will be Aḥmad.” Yet when the Prophet came to them with clear proofs, they said, “This is pure magic.”",
+    "arabic1": "وَإِذْ قَالَ عِيسَى ٱبْنُ مَرْيَمَ يَـٰبَنِىٓ إِسْرَٰٓءِيلَ إِنِّى رَسُولُ ٱللَّهِ إِلَيْكُم مُّصَدِّقًا لِّمَا بَيْنَ يَدَىَّ مِنَ ٱلتَّوْرَىٰةِ وَمُبَشِّرًۢا بِرَسُولٍ يَأْتِى مِنۢ بَعْدِى ٱسْمُهُۥٓ أَحْمَدُ ۖ فَلَمَّا جَآءَهُم بِٱلْبَيِّنَـٰتِ قَالُوا۟ هَـٰذَا سِحْرٌ مُّبِينٌ",
+    "arabic2": "واذ قال عيسى ابن مريم يا بني اسرائيل اني رسول الله اليكم مصدقا لما بين يدي من التوراة ومبشرا برسول ياتي من بعدي اسمه احمد فلما جاءهم بالبينات قالوا هذا سحر مبين",
+    "bengali": "আর যখন মারইয়াম পুত্র ঈসা বলেছিল, ‘হে বনী ইসরাঈল, নিশ্চয় আমি তোমাদের নিকট আল্লাহর রাসূল। আমার পূর্ববর্তী তাওরাতের সত্যায়নকারী এবং একজন রাসূলের সুসংবাদদাতা যিনি আমার পরে আসবেন, যার নাম আহমদ’। অতঃপর সে যখন সুস্পষ্ট নিদর্শনসমূহ নিয়ে আগমন করল, তখন তারা বলল, ‘এটাতো স্পষ্ট যাদু’।",
+    "urdu": "اور (وہ وقت بھی یاد کرو) جب مریمؑ کے بیٹے عیسیٰ نے کہا کے اے بنی اسرائیل میں تمہارے پاس خدا کا بھیجا ہوا آیا ہوں (اور) جو (کتاب) مجھ سے پہلے آچکی ہے (یعنی) تورات اس کی تصدیق کرتا ہوں اور ایک پیغمبر جو میرے بعد آئیں گے جن کا نام احمدﷺ ہوگا ان کی بشارت سناتا ہوں۔ (پھر) جب وہ ان لوگوں کے پاس کھلی نشانیاں لے کر آئے تو کہنے لگے کہ یہ تو صریح جادو ہے"
+}

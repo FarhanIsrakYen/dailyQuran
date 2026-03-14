@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Hajj",
+    "surahNameArabic": "الحج",
+    "surahNameArabicLong": "سورة الحج",
+    "surahNameTranslation": "The Pilgrimage",
+    "revelationPlace": "Madina",
+    "totalAyah": 78,
+    "surahNo": 22,
+    "ayahNo": 2,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/22_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/022002.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/22_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/022002.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/22_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/022002.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/22_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/022002.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/22_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/022002.mp3"
+        }
+    },
+    "english": "The Day you see it, every nursing mother will abandon what she is nursing, and every pregnant woman will deliver her burden ˹prematurely˺. And you will see people ˹as if they were˺ drunk, though they will not be drunk; but the torment of Allah is ˹terribly˺ severe.",
+    "arabic1": "يَوْمَ تَرَوْنَهَا تَذْهَلُ كُلُّ مُرْضِعَةٍ عَمَّآ أَرْضَعَتْ وَتَضَعُ كُلُّ ذَاتِ حَمْلٍ حَمْلَهَا وَتَرَى ٱلنَّاسَ سُكَـٰرَىٰ وَمَا هُم بِسُكَـٰرَىٰ وَلَـٰكِنَّ عَذَابَ ٱللَّهِ شَدِيدٌ",
+    "arabic2": "يوم ترونها تذهل كل مرضعة عما ارضعت وتضع كل ذات حمل حملها وترى الناس سكارى وما هم بسكارى ولكن عذاب الله شديد",
+    "bengali": "যেদিন তোমরা তা দেখবে সেদিন প্রত্যেক স্তন্য দানকারিনী আপন দুগ্ধপোষ্য শিশুকে ভুলে যাবে এবং প্রত্যেক গর্ভধারিণী তার গর্ভপাত করে ফেলবে, তুমি দেখবে মানুষকে মাতাল সদৃশ, অথচ তারা মাতাল নয়। তবে আল্লাহর আযাবই কঠিন।",
+    "urdu": "(اے مخاطب) جس دن تو اس کو دیکھے گا (اُس دن یہ حال ہوگا کہ) تمام دودھ پلانے والی عورتیں اپنے بچوں کو بھول جائیں گی۔ اور تمام حمل والیوں کے حمل گر پڑیں گے۔ اور لوگ تجھ کو متوالے نظر آئیں گے مگر وہ متوالے نہیں ہوں گے بلکہ (عذاب دیکھ کر) مدہوش ہو رہے ہوں گے۔ بےشک خدا کا عذاب بڑا سخت ہے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Saba",
+    "surahNameArabic": "سبإ",
+    "surahNameArabicLong": "سورة سَبَأ",
+    "surahNameTranslation": "Sheba",
+    "revelationPlace": "Mecca",
+    "totalAyah": 54,
+    "surahNo": 34,
+    "ayahNo": 3,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/34_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/034003.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/34_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/034003.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/34_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/034003.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/34_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/034003.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/34_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/034003.mp3"
+        }
+    },
+    "english": "The disbelievers say, “The Hour will never come to us.” Say, ˹O Prophet,˺ “Yes—by my Lord, the Knower of the unseen—it will certainly come to you!” Not ˹even˺ an atom’s weight is hidden from Him in the heavens or the earth; nor anything smaller or larger than that, but is ˹written˺ in a perfect Record.",
+    "arabic1": "وَقَالَ ٱلَّذِينَ كَفَرُوا۟ لَا تَأْتِينَا ٱلسَّاعَةُ ۖ قُلْ بَلَىٰ وَرَبِّى لَتَأْتِيَنَّكُمْ عَـٰلِمِ ٱلْغَيْبِ ۖ لَا يَعْزُبُ عَنْهُ مِثْقَالُ ذَرَّةٍ فِى ٱلسَّمَـٰوَٰتِ وَلَا فِى ٱلْأَرْضِ وَلَآ أَصْغَرُ مِن ذَٰلِكَ وَلَآ أَكْبَرُ إِلَّا فِى كِتَـٰبٍ مُّبِينٍ",
+    "arabic2": "وقال الذين كفروا لا تاتينا الساعة قل بلى وربي لتاتينكم عالم الغيب لا يعزب عنه مثقال ذرة في السماوات ولا في الارض ولا اصغر من ذلك ولا اكبر الا في كتاب مبين",
+    "bengali": "আর কাফিররা বলে, ‘কিয়ামত আমাদের কাছে আসবে না।’ বল, ‘অবশ্যই, আমার রবের কসম! যিনি গায়েব সম্পর্কে অবগত, তা তোমাদের কাছে আসবেই। আসমানসমূহ ও যমীনে অনু পরিমাণ কিংবা তদপেক্ষা ছোট অথবা বড় কিছুই তাঁর অগোচরে নেই, বরং সবই সুস্পষ্ট কিতাবে রয়েছে,",
+    "urdu": "اور کافر کہتے ہیں کہ (قیامت کی) گھڑی ہم پر نہیں آئے گی۔ کہہ دو کیوں نہیں (آئے گی) میرے پروردگار کی قسم وہ تم پر ضرور آکر رہے گی (وہ پروردگار) غیب کا جاننے والا (ہے) ذرہ بھر چیز بھی اس سے پوشیدہ نہیں (نہ) آسمانوں میں اور نہ زمین میں اور کوئی چیز ذرے سے چھوٹی یا بڑی ایسی نہیں مگر کتاب روشن میں (لکھی ہوئی) ہے"
+}

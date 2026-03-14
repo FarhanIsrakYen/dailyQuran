@@ -1,0 +1,42 @@
+{
+    "surahName": "Yunus",
+    "surahNameArabic": "يونس",
+    "surahNameArabicLong": "سورة يونس",
+    "surahNameTranslation": "Jonas",
+    "revelationPlace": "Mecca",
+    "totalAyah": 109,
+    "surahNo": 10,
+    "ayahNo": 31,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/10_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/010031.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/10_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/010031.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/10_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/010031.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/10_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/010031.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/10_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/010031.mp3"
+        }
+    },
+    "english": "Ask ˹them, O  Prophet˺, “Who provides for you from heaven and earth? Who owns ˹your˺ hearing and sight? Who brings forth the living from the dead and the dead from the living? And who conducts every affair?” They will ˹surely˺ say, “Allah.” Say, “Will you not then fear ˹Him˺?",
+    "arabic1": "قُلْ مَن يَرْزُقُكُم مِّنَ ٱلسَّمَآءِ وَٱلْأَرْضِ أَمَّن يَمْلِكُ ٱلسَّمْعَ وَٱلْأَبْصَـٰرَ وَمَن يُخْرِجُ ٱلْحَىَّ مِنَ ٱلْمَيِّتِ وَيُخْرِجُ ٱلْمَيِّتَ مِنَ ٱلْحَىِّ وَمَن يُدَبِّرُ ٱلْأَمْرَ ۚ فَسَيَقُولُونَ ٱللَّهُ ۚ فَقُلْ أَفَلَا تَتَّقُونَ",
+    "arabic2": "قل من يرزقكم من السماء والارض امن يملك السمع والابصار ومن يخرج الحي من الميت ويخرج الميت من الحي ومن يدبر الامر فسيقولون الله فقل افلا تتقون",
+    "bengali": "বল, ‘আসমান ও যমীন থেকে কে তোমাদের রিয্ক দেন? অথবা কে (তোমাদের) শ্রবণ ও দৃষ্টিসমূহের মালিক? আর কে মৃত থেকে জীবিতকে বের করেন আর জীবিত থেকে মৃতকে বের করেন? কে সব বিষয় পরিচালনা করেন’? তখন তারা অবশ্যই বলবে, ‘আল্লাহ’। সুতরাং, তুমি বল, ‘তারপরও কি তোমরা তাকওয়া অবলম্বন করবে না’?",
+    "urdu": "(ان سے) پوچھو کہ تم کو آسمان اور زمین میں رزق کون دیتا ہے یا (تمہارے) کانوں اور آنکھوں کا مالک کون ہے اور بےجان سے جاندار کون پیدا کرتا ہے اور دنیا کے کاموں کا انتظام کون کرتا ہے۔ جھٹ کہہ دیں گے کہ خدا۔ تو کہو کہ پھر تم (خدا سے) ڈرتے کیوں نہیں؟"
+}

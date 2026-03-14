@@ -1,0 +1,42 @@
+{
+    "surahName": "Ash-Shu'araa",
+    "surahNameArabic": "الشعراء",
+    "surahNameArabicLong": "سورة الشعراء",
+    "surahNameTranslation": "The Poets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 227,
+    "surahNo": 26,
+    "ayahNo": 142,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/26_142.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/026142.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/26_142.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/026142.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/26_142.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/026142.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/26_142.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/026142.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/26_142.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/026142.mp3"
+        }
+    },
+    "english": "when their brother Ṣâliḥ said to them, “Will you not fear ˹Allah˺?",
+    "arabic1": "إِذْ قَالَ لَهُمْ أَخُوهُمْ صَـٰلِحٌ أَلَا تَتَّقُونَ",
+    "arabic2": "اذ قال لهم اخوهم صالح الا تتقون",
+    "bengali": "যখন তাদের ভাই সালিহ তাদেরকে বলেছিল, ‘তোমরা কি তাকওয়া অবলম্বন করবে না’?",
+    "urdu": "جب ان سے ان کے بھائی صالح نے کہا کہ تم ڈرتے کیوں نہیں؟"
+}

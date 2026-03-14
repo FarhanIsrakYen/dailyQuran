@@ -1,0 +1,42 @@
+{
+    "surahName": "Ibrahim",
+    "surahNameArabic": "ابراهيم",
+    "surahNameArabicLong": "سورة ابراهيم",
+    "surahNameTranslation": "Abraham",
+    "revelationPlace": "Mecca",
+    "totalAyah": 52,
+    "surahNo": 14,
+    "ayahNo": 12,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/14_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/014012.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/14_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/014012.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/14_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/014012.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/14_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/014012.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/14_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/014012.mp3"
+        }
+    },
+    "english": "Why should we not put our trust in Allah, when He has truly guided us to ˹the very best of˺ ways? Indeed, we will patiently endure whatever harm you may cause us. And in Allah let the faithful put their trust.”",
+    "arabic1": "وَمَا لَنَآ أَلَّا نَتَوَكَّلَ عَلَى ٱللَّهِ وَقَدْ هَدَىٰنَا سُبُلَنَا ۚ وَلَنَصْبِرَنَّ عَلَىٰ مَآ ءَاذَيْتُمُونَا ۚ وَعَلَى ٱللَّهِ فَلْيَتَوَكَّلِ ٱلْمُتَوَكِّلُونَ",
+    "arabic2": "وما لنا الا نتوكل على الله وقد هدانا سبلنا ولنصبرن على ما اذيتمونا وعلى الله فليتوكل المتوكلون",
+    "bengali": "‘আর আমরা কেন আল্লাহর উপর তাওয়াক্কুল করব না, অথচ তিনিই আমাদেরকে আমাদের পথের দিশা দিয়েছেন। আর তোমরা আমাদের যে কষ্ট দিচ্ছ, আমরা তার উপর অবশ্যই সবর করব। আর আল্লাহর উপরই যেন তাওয়াক্কুলকারীরা তাওয়াক্কুল করে’।",
+    "urdu": "اور ہم کیونکر خدا پر بھروسہ نہ رکھیں حالانکہ اس نے ہم کو ہمارے (دین کے سیدھے) رستے بتائے ہیں۔ جو تکلیفیں تم ہم کو دیتے ہو اس پر صبر کریں گے۔ اور اہل توکل کو خدا ہی پر بھروسہ رکھنا چاہیئے"
+}

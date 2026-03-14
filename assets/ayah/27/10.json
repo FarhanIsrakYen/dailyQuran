@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Naml",
+    "surahNameArabic": "النمل",
+    "surahNameArabicLong": "سورة النمل",
+    "surahNameTranslation": "The Ant",
+    "revelationPlace": "Mecca",
+    "totalAyah": 93,
+    "surahNo": 27,
+    "ayahNo": 10,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/27_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/027010.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/27_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/027010.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/27_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/027010.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/27_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/027010.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/27_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/027010.mp3"
+        }
+    },
+    "english": "Now, throw down your staff!” But when he saw it slithering like a snake, he ran away without looking back. ˹Allah reassured him,˺ “O Moses! Do not be afraid! Messengers should have no fear in My presence.",
+    "arabic1": "وَأَلْقِ عَصَاكَ ۚ فَلَمَّا رَءَاهَا تَهْتَزُّ كَأَنَّهَا جَآنٌّ وَلَّىٰ مُدْبِرًا وَلَمْ يُعَقِّبْ ۚ يَـٰمُوسَىٰ لَا تَخَفْ إِنِّى لَا يَخَافُ لَدَىَّ ٱلْمُرْسَلُونَ",
+    "arabic2": "والق عصاك فلما راها تهتز كانها جان ولى مدبرا ولم يعقب يا موسى لا تخف اني لا يخاف لدي المرسلون",
+    "bengali": "আর তুমি তোমার লাঠি নিক্ষেপ কর। তারপর যখন সে ওটাকে সাপের মত ছোটাছুটি করতে দেখল, তখন সে পেছনের দিকে ছুটতে লাগল এবং ফিরে তাকাল না। ‘হে মূসা! তুমি ভয় করো না, নিশ্চয় আমার কাছে রাসূলগণ ভয় পায় না’।",
+    "urdu": "اور اپنی لاٹھی ڈال دو۔ جب اُسے دیکھا تو (اس طرح) ہل رہی تھی گویا سانپ ہے تو پیٹھ پھیر کر بھاگے اور پیچھے مڑ کر نہ دیکھا (حکم ہوا کہ) موسیٰ ڈرو مت۔ ہمارے پاس پیغمبر ڈرا نہیں کرتے"
+}

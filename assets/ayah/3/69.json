@@ -1,0 +1,42 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 69,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/3_69.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/003069.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/3_69.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/003069.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/3_69.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/003069.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/3_69.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/003069.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/3_69.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/003069.mp3"
+        }
+    },
+    "english": "Some of the People of the Book wish to mislead you ˹believers˺. They mislead none but themselves, yet they fail to perceive it.",
+    "arabic1": "وَدَّت طَّآئِفَةٌ مِّنْ أَهْلِ ٱلْكِتَـٰبِ لَوْ يُضِلُّونَكُمْ وَمَا يُضِلُّونَ إِلَّآ أَنفُسَهُمْ وَمَا يَشْعُرُونَ",
+    "arabic2": "ودت طائفة من اهل الكتاب لو يضلونكم وما يضلون الا انفسهم وما يشعرون",
+    "bengali": "কিতাবীরা একদল কামনা করে, যদি তারা তোমাদেরকে বিপথগামী করতে পারত! কিন্তু তারা নিজদেরকে ছাড়া অন্য কাউকে বিপথগামী করছে না। অথচ তারা অনুভব করতে পারে না।",
+    "urdu": "(اے اہل اسلام) بعضے اہلِ کتاب اس بات کی خواہش رکھتے ہیں کہ تم کو گمراہ کر دیں مگر یہ (تم کو کیا گمراہ کریں گے) اپنے آپ کو ہی گمراہ کر رہے ہیں اور نہیں جانتے"
+}

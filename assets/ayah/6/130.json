@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 130,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/6_130.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/006130.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/6_130.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/006130.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/6_130.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/006130.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/6_130.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/006130.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/6_130.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/006130.mp3"
+        }
+    },
+    "english": "˹Allah will ask,˺ “O assembly of jinn and humans! Did messengers not come from among you, proclaiming My revelations and warning you of the coming of this Day of yours?” They will say, “We confess against ourselves!” For they have been deluded by ˹their˺ worldly life. And they will testify against themselves that they were disbelievers.",
+    "arabic1": "يَـٰمَعْشَرَ ٱلْجِنِّ وَٱلْإِنسِ أَلَمْ يَأْتِكُمْ رُسُلٌ مِّنكُمْ يَقُصُّونَ عَلَيْكُمْ ءَايَـٰتِى وَيُنذِرُونَكُمْ لِقَآءَ يَوْمِكُمْ هَـٰذَا ۚ قَالُوا۟ شَهِدْنَا عَلَىٰٓ أَنفُسِنَا ۖ وَغَرَّتْهُمُ ٱلْحَيَوٰةُ ٱلدُّنْيَا وَشَهِدُوا۟ عَلَىٰٓ أَنفُسِهِمْ أَنَّهُمْ كَانُوا۟ كَـٰفِرِينَ",
+    "arabic2": "يا معشر الجن والانس الم ياتكم رسل منكم يقصون عليكم اياتي وينذرونكم لقاء يومكم هذا قالوا شهدنا على انفسنا وغرتهم الحياة الدنيا وشهدوا على انفسهم انهم كانوا كافرين",
+    "bengali": "‘হে জিন ও মানুষের দল, তোমাদের মধ্য থেকে কি তোমাদের নিকট রাসূলগণ আসেনি, যারা তোমাদের নিকট আমার আয়াতসমূহ বর্ণনা করত এবং তোমাদের এই দিনের সাক্ষাতের ব্যাপারে তোমাদেরকে সতর্ক করত?’ তারা বলবে, ‘আমরা আমাদের নিজদের বিরুদ্ধে সাক্ষ্য দিলাম।’ আর দুনিয়ার জীবন তাদেরকে প্রতারিত করেছে এবং তারা নিজেদের বিরুদ্ধে সাক্ষ্য দেবে যে, তারা ছিল কাফির।",
+    "urdu": "اے جنّوں اور انسانوں کی جماعت کیا تمہارے پاس تم ہی میں سے پیغمبر نہیں آتے رہے جو میری آیتیں تم کو پڑھ پڑھ کر سناتے اور اس دن کے سامنے آموجود ہونے سے ڈراتے تھے وہ کہیں گے کہ (پروردگار) ہمیں اپنے گناہوں کا اقرار ہے ان لوگوں کو دنیاکی زندگی نے دھوکے میں ڈال رکھا تھا اور (اب) خود اپنے اوپر گواہی دی کہ کفر کرتے تھے"
+}

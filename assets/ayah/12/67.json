@@ -1,0 +1,42 @@
+{
+    "surahName": "Yusuf",
+    "surahNameArabic": "يوسف",
+    "surahNameArabicLong": "سورة يوسف",
+    "surahNameTranslation": "Joseph",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 12,
+    "ayahNo": 67,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/12_67.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/012067.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/12_67.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/012067.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/12_67.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/012067.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/12_67.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/012067.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/12_67.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/012067.mp3"
+        }
+    },
+    "english": "He then instructed ˹them˺, “O my sons! Do not enter ˹the city˺ all through one gate, but through separate gates. I cannot help you against ˹what is destined by˺ Allah in the least. It is only Allah Who decides. In Him I put my trust. And in Him let the faithful put their trust.”",
+    "arabic1": "وَقَالَ يَـٰبَنِىَّ لَا تَدْخُلُوا۟ مِنۢ بَابٍ وَٰحِدٍ وَٱدْخُلُوا۟ مِنْ أَبْوَٰبٍ مُّتَفَرِّقَةٍ ۖ وَمَآ أُغْنِى عَنكُم مِّنَ ٱللَّهِ مِن شَىْءٍ ۖ إِنِ ٱلْحُكْمُ إِلَّا لِلَّهِ ۖ عَلَيْهِ تَوَكَّلْتُ ۖ وَعَلَيْهِ فَلْيَتَوَكَّلِ ٱلْمُتَوَكِّلُونَ",
+    "arabic2": "وقال يا بني لا تدخلوا من باب واحد وادخلوا من ابواب متفرقة وما اغني عنكم من الله من شيء ان الحكم الا لله عليه توكلت وعليه فليتوكل المتوكلون",
+    "bengali": "সে বলল, ‘হে আমার ছেলেরা, তোমরা এক দরজা দিয়ে প্রবেশ করো না, বরং ভিন্ন ভিন্ন দরজা দিয়ে প্রবেশ কর এবং আল্লাহর সিদ্ধান্তের বিপরীতে আমি তোমাদের কোন উপকার করতে পারব না। হুকুম একমাত্র আল্লাহরই। তাঁরই উপর আমি তাওয়াক্কুল করছি এবং তাঁরই উপর যেন সকল তাওয়াক্কুলকারী তাওয়াক্কুল করে’।",
+    "urdu": "اور ہدایت کی کہ بیٹا ایک ہی دروازے سے داخل نہ ہونا بلکہ جدا جدا دروازوں سے داخل ہونا۔ اور میں خدا کی تقدیر کو تم سے نہیں روک سکتا۔ بےشک حکم اسی کا ہے میں اسی پر بھروسہ رکھتا ہوں۔ اور اہلِ توکل کو اسی پر بھروسہ رکھنا چاہیئے"
+}

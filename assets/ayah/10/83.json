@@ -1,0 +1,42 @@
+{
+    "surahName": "Yunus",
+    "surahNameArabic": "يونس",
+    "surahNameArabicLong": "سورة يونس",
+    "surahNameTranslation": "Jonas",
+    "revelationPlace": "Mecca",
+    "totalAyah": 109,
+    "surahNo": 10,
+    "ayahNo": 83,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/10_83.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/010083.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/10_83.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/010083.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/10_83.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/010083.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/10_83.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/010083.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/10_83.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/010083.mp3"
+        }
+    },
+    "english": "But no one believed in Moses except a few youths of his people, while fearing that Pharaoh and their own chiefs might persecute them. And certainly Pharaoh was a tyrant in the land, and he was truly a transgressor.",
+    "arabic1": "فَمَآ ءَامَنَ لِمُوسَىٰٓ إِلَّا ذُرِّيَّةٌ مِّن قَوْمِهِۦ عَلَىٰ خَوْفٍ مِّن فِرْعَوْنَ وَمَلَإِي۟هِمْ أَن يَفْتِنَهُمْ ۚ وَإِنَّ فِرْعَوْنَ لَعَالٍ فِى ٱلْأَرْضِ وَإِنَّهُۥ لَمِنَ ٱلْمُسْرِفِينَ",
+    "arabic2": "فما امن لموسى الا ذرية من قومه على خوف من فرعون وملئهم ان يفتنهم وان فرعون لعال في الارض وانه لمن المسرفين",
+    "bengali": "বস্তুতঃ মূসার প্রতি তার স্বগোত্রীয় লোকদের মধ্যে (প্রথমে) শুধু অল্প সংখ্যক লোকই ঈমান আনল, তাও ফির‘আউন ও তার প্রধানবর্গের এই ভয়ে যে, তারা তাদেরকে নির্যাতন করে; আর বাস্তবিক পক্ষে ফির‘আউন সেই দেশে (রাজ্য) ক্ষমতা রাখত, আর এটাও ছিল যে, সে (ন্যায়ের) সীমাতিক্রম করে ফেলতো।",
+    "urdu": "تو موسیٰ پر کوئی ایمان نہ لایا۔ مگر اس کی قوم میں سے چند لڑکے (اور وہ بھی) فرعون اور اس کے اہل دربار سے ڈرتے ڈرتے کہ کہیں وہ ان کو آفت میں نہ پھنسا دے۔ اور فرعون ملک میں متکبر ومتغلب اور (کبر وکفر) میں حد سے بڑھا ہوا تھا"
+}

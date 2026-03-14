@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Maaida",
+    "surahNameArabic": "المائدة",
+    "surahNameArabicLong": "سورة المائدة",
+    "surahNameTranslation": "The Table",
+    "revelationPlace": "Madina",
+    "totalAyah": 120,
+    "surahNo": 5,
+    "ayahNo": 70,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/5_70.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/005070.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/5_70.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/005070.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/5_70.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/005070.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/5_70.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/005070.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/5_70.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/005070.mp3"
+        }
+    },
+    "english": "Indeed, We took a covenant from the Children of Israel and sent them messengers. Whenever a messenger came to them with what they did not desire, they denied some and killed others.",
+    "arabic1": "لَقَدْ أَخَذْنَا مِيثَـٰقَ بَنِىٓ إِسْرَٰٓءِيلَ وَأَرْسَلْنَآ إِلَيْهِمْ رُسُلًا ۖ كُلَّمَا جَآءَهُمْ رَسُولٌۢ بِمَا لَا تَهْوَىٰٓ أَنفُسُهُمْ فَرِيقًا كَذَّبُوا۟ وَفَرِيقًا يَقْتُلُونَ",
+    "arabic2": "لقد اخذنا ميثاق بني اسرائيل وارسلنا اليهم رسلا كلما جاءهم رسول بما لا تهوى انفسهم فريقا كذبوا وفريقا يقتلون",
+    "bengali": "অবশ্যই আমি বনী ইসরাঈলের অঙ্গীকার নিয়েছি এবং তাদের নিকট পাঠিয়েছি অনেক রাসূল। যখনই তাদের নিকট কোন রাসূল এমন কিছু নিয়ে এসেছে, যা তাদের মন চায় না, তখন তারা একদলকে অস্বীকার করেছে এবং একদলকে হত্যা করেছে।",
+    "urdu": "ہم نے بنی اسرائیل سے عہد بھی لیا اور ان کی طرف پیغمبر بھی بھیجے (لیکن) جب کوئی پیغمبر ان کے پاس ایسی باتیں لےکر آتا جن کو ان کے دل نہیں چاہتے تھے تو وہ (انبیاء کی) ایک جماعت کو تو جھٹلا دیتے اور ایک جماعت کو قتل کر دیتے تھے"
+}

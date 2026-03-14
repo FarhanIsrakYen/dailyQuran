@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Noor",
+    "surahNameArabic": "النور",
+    "surahNameArabicLong": "سورة النور",
+    "surahNameTranslation": "The Light",
+    "revelationPlace": "Madina",
+    "totalAyah": 64,
+    "surahNo": 24,
+    "ayahNo": 45,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/24_45.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/024045.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/24_45.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/024045.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/24_45.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/024045.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/24_45.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/024045.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/24_45.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/024045.mp3"
+        }
+    },
+    "english": "And Allah has created from water every living creature. Some of them crawl on their bellies, some walk on two legs, and some walk on four. Allah creates whatever He wills. Surely Allah is Most Capable of everything.",
+    "arabic1": "وَٱللَّهُ خَلَقَ كُلَّ دَآبَّةٍ مِّن مَّآءٍ ۖ فَمِنْهُم مَّن يَمْشِى عَلَىٰ بَطْنِهِۦ وَمِنْهُم مَّن يَمْشِى عَلَىٰ رِجْلَيْنِ وَمِنْهُم مَّن يَمْشِى عَلَىٰٓ أَرْبَعٍ ۚ يَخْلُقُ ٱللَّهُ مَا يَشَآءُ ۚ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+    "arabic2": "والله خلق كل دابة من ماء فمنهم من يمشي على بطنه ومنهم من يمشي على رجلين ومنهم من يمشي على اربع يخلق الله ما يشاء ان الله على كل شيء قدير",
+    "bengali": "আর আল্লাহ প্রত্যেক জীবকে পানি থেকে সৃষ্টি করেছেন। অতঃপর তাদের কোনটি পেটে ভর দিয়ে চলে, কোনটি চলে দু’পায়ের উপর, আবার কোনটি চার পায়ের উপর চলে। আল্লাহ যা ইচ্ছা সৃষ্টি করেন। নিশ্চয় আল্লাহ সব কিছুর উপর সর্বশক্তিমান।",
+    "urdu": "اور خدا ہی نے ہر چلنے پھرنے والے جاندار کو پانی سے پیدا کیا۔ تو اس میں بعضے ایسے ہیں کہ پیٹ کے بل چلتے ہیں اور بعض ایسے ہیں جو دو پاؤں پر چلتے ہیں اور بعض ایسے ہیں جو چار پاؤں پر چلتے ہیں۔ خدا جو چاہتا ہے پیدا کرتا ہے، بےشک خدا ہر چیز پر قادر ہے"
+}

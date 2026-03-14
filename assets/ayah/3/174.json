@@ -1,0 +1,42 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 174,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/3_174.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/003174.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/3_174.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/003174.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/3_174.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/003174.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/3_174.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/003174.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/3_174.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/003174.mp3"
+        }
+    },
+    "english": "So they returned with Allah’s favours and grace, suffering no harm. For they sought to please Allah. And surely Allah is ˹the˺ Lord of infinite bounty.",
+    "arabic1": "فَٱنقَلَبُوا۟ بِنِعْمَةٍ مِّنَ ٱللَّهِ وَفَضْلٍ لَّمْ يَمْسَسْهُمْ سُوٓءٌ وَٱتَّبَعُوا۟ رِضْوَٰنَ ٱللَّهِ ۗ وَٱللَّهُ ذُو فَضْلٍ عَظِيمٍ",
+    "arabic2": "فانقلبوا بنعمة من الله وفضل لم يمسسهم سوء واتبعوا رضوان الله والله ذو فضل عظيم",
+    "bengali": "অতঃপর তারা ফিরে এসেছে আল্লাহর পক্ষ থেকে নিআমত ও অনুগ্রহসহ। কোন মন্দ তাদেরকে স্পর্শ করেনি এবং তারা আল্লাহর সন্তুষ্টির অনুসরণ করেছিল। আর আল্লাহ মহা অনুগ্রহশীল।",
+    "urdu": "پھر وہ خدا کی نعمتوں اور اس کے فضل کے ساتھ (خوش وخرم) واپس آئے ان کو کسی طرح کا ضرر نہ پہنچا۔ اور وہ خدا کی خوشنودی کے تابع رہے۔ اور خدا بڑے فضل کا مالک ہے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Ahzaab",
+    "surahNameArabic": "الأحزاب",
+    "surahNameArabicLong": "سورة الأحزاب",
+    "surahNameTranslation": "The Clans",
+    "revelationPlace": "Madina",
+    "totalAyah": 73,
+    "surahNo": 33,
+    "ayahNo": 58,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/33_58.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/033058.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/33_58.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/033058.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/33_58.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/033058.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/33_58.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/033058.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/33_58.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/033058.mp3"
+        }
+    },
+    "english": "As for those who abuse believing men and women unjustifiably, they will definitely bear the guilt of slander and blatant sin.",
+    "arabic1": "وَٱلَّذِينَ يُؤْذُونَ ٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَـٰتِ بِغَيْرِ مَا ٱكْتَسَبُوا۟ فَقَدِ ٱحْتَمَلُوا۟ بُهْتَـٰنًا وَإِثْمًا مُّبِينًا",
+    "arabic2": "والذين يؤذون المؤمنين والمؤمنات بغير ما اكتسبوا فقد احتملوا بهتانا واثما مبينا",
+    "bengali": "আর যারা মুমিন পুরুষ ও মুমিন নারীদেরকে তাদের কৃত কোন অন্যায় ছাড়াই কষ্ট দেয়, নিশ্চয় তারা বহন করবে অপবাদ ও সুস্পষ্ট পাপ।",
+    "urdu": "اور جو لوگ مومن مردوں اور مومن عورتوں کو ایسے کام (کی تہمت سے) جو انہوں نے نہ کیا ہو ایذا دیں تو انہوں نے بہتان اور صریح گناہ کا بوجھ اپنے سر پر رکھا"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Yusuf",
+    "surahNameArabic": "يوسف",
+    "surahNameArabicLong": "سورة يوسف",
+    "surahNameTranslation": "Joseph",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 12,
+    "ayahNo": 13,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/12_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/012013.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/12_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/012013.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/12_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/012013.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/12_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/012013.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/12_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/012013.mp3"
+        }
+    },
+    "english": "He responded, “It would truly sadden me if you took him away with you, and I fear that a wolf may devour him while you are negligent of him.”",
+    "arabic1": "قَالَ إِنِّى لَيَحْزُنُنِىٓ أَن تَذْهَبُوا۟ بِهِۦ وَأَخَافُ أَن يَأْكُلَهُ ٱلذِّئْبُ وَأَنتُمْ عَنْهُ غَـٰفِلُونَ",
+    "arabic2": "قال اني ليحزنني ان تذهبوا به واخاف ان ياكله الذئب وانتم عنه غافلون",
+    "bengali": "সে বলল, ‘নিশ্চয় এটা আমাকে কষ্ট দেবে যে, তোমরা তাকে নিয়ে যাবে এবং আমি আশঙ্কা করি, নেকড়ে তাকে খেয়ে ফেলবে, যখন তোমরা তার ব্যাপারে গাফিল থাকবে’।",
+    "urdu": "انہوں نے کہا کہ یہ امر مجھے غمناک کئے دیتا ہے کہ تم اسے لے جاؤ (یعنی وہ مجھ سے جدا ہوجائے) اور مجھے یہ خوف بھی ہے کہ تم (کھیل میں) اس سے غافل ہوجاؤ اور اسے بھیڑیا کھا جائے"
+}

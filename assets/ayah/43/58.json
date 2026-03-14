@@ -1,0 +1,42 @@
+{
+    "surahName": "Az-Zukhruf",
+    "surahNameArabic": "الزخرف",
+    "surahNameArabicLong": "سورة الزخرف",
+    "surahNameTranslation": "Ornaments of gold",
+    "revelationPlace": "Mecca",
+    "totalAyah": 89,
+    "surahNo": 43,
+    "ayahNo": 58,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/43_58.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/043058.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/43_58.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/043058.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/43_58.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/043058.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/43_58.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/043058.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/43_58.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/043058.mp3"
+        }
+    },
+    "english": "They exclaimed, “Which is better: our gods or Jesus?” They cite him only to argue. In fact, they are a people prone to dispute.",
+    "arabic1": "وَقَالُوٓا۟ ءَأَـٰلِهَتُنَا خَيْرٌ أَمْ هُوَ ۚ مَا ضَرَبُوهُ لَكَ إِلَّا جَدَلًۢا ۚ بَلْ هُمْ قَوْمٌ خَصِمُونَ",
+    "arabic2": "وقالوا االهتنا خير ام هو ما ضربوه لك الا جدلا بل هم قوم خصمون",
+    "bengali": "আর তারা বলে, ‘আমাদের উপাস্যরা শ্রেষ্ঠ নাকি ঈসা’? তারা কেবল কূটতর্কের খাতিরেই তাকে তোমার সামনে পেশ করে। বরং এরাই এক ঝগড়াটে সম্প্রদায়।",
+    "urdu": "اور کہنے لگے کہ بھلا ہمارے معبود اچھے ہیں یا عیسیٰ؟ انہوں نے عیسیٰ کی جو مثال بیان کی ہے تو صرف جھگڑنے کو۔ حقیقت یہ ہے یہ لوگ ہیں ہی جھگڑالو"
+}

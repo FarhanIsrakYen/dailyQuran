@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 62,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/6_62.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/006062.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/6_62.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/006062.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/6_62.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/006062.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/6_62.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/006062.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/6_62.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/006062.mp3"
+        }
+    },
+    "english": "Then they are ˹all˺ returned to Allah—their True Master. Judgment is His ˹alone˺. And He is the Swiftest Reckoner.",
+    "arabic1": "ثُمَّ رُدُّوٓا۟ إِلَى ٱللَّهِ مَوْلَىٰهُمُ ٱلْحَقِّ ۚ أَلَا لَهُ ٱلْحُكْمُ وَهُوَ أَسْرَعُ ٱلْحَـٰسِبِينَ",
+    "arabic2": "ثم ردوا الى الله مولاهم الحق الا له الحكم وهو اسرع الحاسبين",
+    "bengali": "তারপর তাদেরকে প্রত্যাবর্তিত করা হয় তাদের সত্য মাওলা আল্লাহর কাছে। সাবধান! হুকুম প্রাদানের ক্ষমতা তাঁরই। আর তিনি হচ্ছেন খুব দ্রুত হিসাবকারী।",
+    "urdu": "پھر (قیامت کے دن تمام) لوگ اپنے مالک برحق خدا تعالیٰ کے پاس واپس بلائے جائیں گے۔ سن لو کہ حکم اسی کا ہے اور وہ نہایت جلد حساب لینے والا ہے"
+}

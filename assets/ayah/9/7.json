@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 7,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/9_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/009007.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/9_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/009007.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/9_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/009007.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/9_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/009007.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/9_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/009007.mp3"
+        }
+    },
+    "english": "How can such polytheists have a treaty with Allah and His Messenger, except those you have made a treaty with at the Sacred Mosque? So, as long as they are true to you, be true to them. Indeed Allah loves those who are mindful ˹of Him˺.",
+    "arabic1": "كَيْفَ يَكُونُ لِلْمُشْرِكِينَ عَهْدٌ عِندَ ٱللَّهِ وَعِندَ رَسُولِهِۦٓ إِلَّا ٱلَّذِينَ عَـٰهَدتُّمْ عِندَ ٱلْمَسْجِدِ ٱلْحَرَامِ ۖ فَمَا ٱسْتَقَـٰمُوا۟ لَكُمْ فَٱسْتَقِيمُوا۟ لَهُمْ ۚ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُتَّقِينَ",
+    "arabic2": "كيف يكون للمشركين عهد عند الله وعند رسوله الا الذين عاهدتم عند المسجد الحرام فما استقاموا لكم فاستقيموا لهم ان الله يحب المتقين",
+    "bengali": "কীভাবে মুশরিকদের জন্য অঙ্গীকার থাকবে আল্লাহর কাছে ও তাঁর রাসূলের কাছে? অবশ্য যাদের সাথে মসজিদে হারামে তোমরা অঙ্গীকারাবদ্ধ হয়েছ তাদের কথা আলাদা। অতএব যতক্ষণ তারা তোমাদের জন্য ঠিক থাকে, ততক্ষণ তোমরাও তাদের জন্য ঠিক থাক। নিশ্চয় আল্লাহ মুত্তাকীদের ভালবাসেন।",
+    "urdu": "بھلا مشرکوں کے لیے (جنہوں نے عہد توڑ ڈالا) خدا اور اس کے رسول کے نزدیک عہد کیونکر (قائم) رہ سکتا ہے ہاں جن لوگوں کے ساتھ تم نے مسجد محترم (یعنی خانہ کعبہ) کے نزدیک عہد کیا ہے اگر وہ (اپنے عہد پر) قائم رہیں تو تم بھی اپنے قول وقرار (پر) قائم رہو۔ بےشک خدا پرہیز گاروں کو دوست رکھتا ہے"
+}

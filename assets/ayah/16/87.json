@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nahl",
+    "surahNameArabic": "النحل",
+    "surahNameArabicLong": "سورة النحل",
+    "surahNameTranslation": "The Bee",
+    "revelationPlace": "Mecca",
+    "totalAyah": 128,
+    "surahNo": 16,
+    "ayahNo": 87,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/16_87.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/016087.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/16_87.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/016087.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/16_87.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/016087.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/16_87.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/016087.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/16_87.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/016087.mp3"
+        }
+    },
+    "english": "They will offer ˹full˺ submission to Allah on that Day, and whatever ˹gods˺ they fabricated will fail them.",
+    "arabic1": "وَأَلْقَوْا۟ إِلَى ٱللَّهِ يَوْمَئِذٍ ٱلسَّلَمَ ۖ وَضَلَّ عَنْهُم مَّا كَانُوا۟ يَفْتَرُونَ",
+    "arabic2": "والقوا الى الله يومئذ السلم وضل عنهم ما كانوا يفترون",
+    "bengali": "সেদিন তারা আল্লাহর প্রতি আনুগত্য পেশ করবে এবং তারা যে মিথ্যা রটাত, তা উধাও হয়ে যাবে।",
+    "urdu": "اور اس دن خدا کے سامنے سرنگوں ہو جائیں گے اور جو طوفان وہ باندھا کرتے تھے سب اُن سے جاتا رہے گا"
+}

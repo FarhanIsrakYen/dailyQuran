@@ -1,0 +1,42 @@
+{
+    "surahName": "Az-Zumar",
+    "surahNameArabic": "الزمر",
+    "surahNameArabicLong": "سورة الزمر",
+    "surahNameTranslation": "The Groups",
+    "revelationPlace": "Mecca",
+    "totalAyah": 75,
+    "surahNo": 39,
+    "ayahNo": 51,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/39_51.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/039051.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/39_51.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/039051.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/39_51.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/039051.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/39_51.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/039051.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/39_51.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/039051.mp3"
+        }
+    },
+    "english": "So the evil ˹consequences˺ of their deeds overtook them. And the wrongdoers among these ˹pagans˺ will be overtaken by the evil ˹consequences˺ of their deeds. And they will have no escape.",
+    "arabic1": "فَأَصَابَهُمْ سَيِّـَٔاتُ مَا كَسَبُوا۟ ۚ وَٱلَّذِينَ ظَلَمُوا۟ مِنْ هَـٰٓؤُلَآءِ سَيُصِيبُهُمْ سَيِّـَٔاتُ مَا كَسَبُوا۟ وَمَا هُم بِمُعْجِزِينَ",
+    "arabic2": "فاصابهم سيئات ما كسبوا والذين ظلموا من هؤلاء سيصيبهم سيئات ما كسبوا وما هم بمعجزين",
+    "bengali": "সুতরাং তাদের কৃতকর্মের মন্দ ফল তাদের উপর আপতিত হয়েছিল। এদের মধ্যেও যারা যুলম করে তাদের উপরেও তাদের অর্জনের সব মন্দফল শীঘ্রই আপতিত হবে। আর তারা অক্ষম করতে পারবে না।",
+    "urdu": "ان پر ان کے اعمال کے وبال پڑ گئے۔ اور جو لوگ ان میں سے ظلم کرتے رہے ہیں ان پر ان کے عملوں کے وبال عنقریب پڑیں گے۔ اور وہ (خدا کو) عاجز نہیں کرسکتے"
+}

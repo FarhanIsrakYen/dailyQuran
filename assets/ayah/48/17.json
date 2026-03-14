@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Fath",
+    "surahNameArabic": "الفتح",
+    "surahNameArabicLong": "سورة الفتح",
+    "surahNameTranslation": "The Victory",
+    "revelationPlace": "Madina",
+    "totalAyah": 29,
+    "surahNo": 48,
+    "ayahNo": 17,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/48_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/048017.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/48_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/048017.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/48_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/048017.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/48_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/048017.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/48_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/048017.mp3"
+        }
+    },
+    "english": "There is no blame on the blind, or the disabled, or the sick ˹for staying behind˺. And whoever obeys Allah and His Messenger will be admitted by Him into Gardens under which rivers flow. But whoever turns away will be subjected by Him to a painful punishment.",
+    "arabic1": "لَّيْسَ عَلَى ٱلْأَعْمَىٰ حَرَجٌ وَلَا عَلَى ٱلْأَعْرَجِ حَرَجٌ وَلَا عَلَى ٱلْمَرِيضِ حَرَجٌ ۗ وَمَن يُطِعِ ٱللَّهَ وَرَسُولَهُۥ يُدْخِلْهُ جَنَّـٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ ۖ وَمَن يَتَوَلَّ يُعَذِّبْهُ عَذَابًا أَلِيمًا",
+    "arabic2": "ليس على الاعمى حرج ولا على الاعرج حرج ولا على المريض حرج ومن يطع الله ورسوله يدخله جنات تجري من تحتها الانهار ومن يتول يعذبه عذابا اليما",
+    "bengali": "অন্ধের কোন অপরাধ নেই, লেংড়ার কোন অপরাধ নেই, অসুস্থের কোন অপরাধ নেই। যে ব্যক্তি আল্লাহ ও তাঁর রাসূলের আনুগত্য করবে তিনি তাকে এমন জান্নাতে দাখিল করাবেন যার পাদদেশে নহরসমূহ প্রবাহিত। আর যে ব্যক্তি পিছনে ফিরে যাবে তিনি তাকে যন্ত্রণাদায়ক আযাব দেবেন।",
+    "urdu": "نہ تو اندھے پر گناہ ہے (کہ سفر جنگ سے پیچھے رہ جائے) اور نہ لنگڑے پر گناہ ہے اور نہ بیمار پر گناہ ہے۔ اور جو شخص خدا اور اس کے پیغمبر کے فرمان پر چلے گا خدا اس کو بہشتوں میں داخل کرے گا جن کے تلے نہریں بہہ رہی ہیں۔ اور جو روگردانی کرے گا اسے برے دکھ کی سزا دے گا"
+}

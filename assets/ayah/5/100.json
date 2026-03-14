@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Maaida",
+    "surahNameArabic": "المائدة",
+    "surahNameArabicLong": "سورة المائدة",
+    "surahNameTranslation": "The Table",
+    "revelationPlace": "Madina",
+    "totalAyah": 120,
+    "surahNo": 5,
+    "ayahNo": 100,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/5_100.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/005100.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/5_100.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/005100.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/5_100.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/005100.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/5_100.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/005100.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/5_100.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/005100.mp3"
+        }
+    },
+    "english": "Say, ˹O Prophet,˺ “Good and evil are not equal, though you may be dazzled by the abundance of evil. So be mindful of Allah, O  people of reason, so you may be successful.”",
+    "arabic1": "قُل لَّا يَسْتَوِى ٱلْخَبِيثُ وَٱلطَّيِّبُ وَلَوْ أَعْجَبَكَ كَثْرَةُ ٱلْخَبِيثِ ۚ فَٱتَّقُوا۟ ٱللَّهَ يَـٰٓأُو۟لِى ٱلْأَلْبَـٰبِ لَعَلَّكُمْ تُفْلِحُونَ",
+    "arabic2": "قل لا يستوي الخبيث والطيب ولو اعجبك كثرة الخبيث فاتقوا الله يا اولي الالباب لعلكم تفلحون",
+    "bengali": "বল, ‘অপবিত্র ও পবিত্র সমান নয়, যদিও অপবিত্রের আধিক্য তোমাকে মুগ্ধ করে। অতএব হে বুদ্ধিমান ব্যক্তিরা, আল্লাহর তাকওয়া অবলম্বন কর। যাতে তোমরা সফলকাম হও’।",
+    "urdu": "کہہ دو کہ ناپاک چیزیں اور پاک چیزیں برابر نہیں ہوتیں گو ناپاک چیزوں کی کثرت تمہیں خوش ہی لگے تو عقل والو خدا سے ڈرتے رہو تاکہ رستگاری حاصل کرو"
+}

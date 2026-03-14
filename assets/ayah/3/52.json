@@ -1,0 +1,42 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 52,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/3_52.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/003052.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/3_52.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/003052.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/3_52.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/003052.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/3_52.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/003052.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/3_52.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/003052.mp3"
+        }
+    },
+    "english": "When Jesus sensed disbelief from his people, he asked, “Who will stand up with me for Allah?” The disciples replied, “We will stand up for Allah. We believe in Allah, so bear witness that we have submitted.”",
+    "arabic1": "۞ فَلَمَّآ أَحَسَّ عِيسَىٰ مِنْهُمُ ٱلْكُفْرَ قَالَ مَنْ أَنصَارِىٓ إِلَى ٱللَّهِ ۖ قَالَ ٱلْحَوَارِيُّونَ نَحْنُ أَنصَارُ ٱللَّهِ ءَامَنَّا بِٱللَّهِ وَٱشْهَدْ بِأَنَّا مُسْلِمُونَ",
+    "arabic2": "فلما احس عيسى منهم الكفر قال من انصاري الى الله قال الحواريون نحن انصار الله امنا بالله واشهد بانا مسلمون",
+    "bengali": "অতঃপর যখন ঈসা তাদের পক্ষ হতে কুফরী উপলব্ধি করল, তখন বলল, ‘কে আল্লাহর জন্য আমার সাহায্যকারী হবে’? হাওয়ারীগণ বলল, ‘আমরা আল্লাহর সাহায্যকারী। আমরা আল্লাহর প্রতি ঈমান এনেছি। আর তুমি সাক্ষী থাক যে, নিশ্চয় আমরা মুসলিম’।",
+    "urdu": "جب عیسیٰؑ نے ان کی طرف سے نافرمانی اور (نیت قتل) دیکھی تو کہنے لگے کہ کوئی ہے جو خدا کا طرف دار اور میرا مددگار ہو حواری بولے کہ ہم خدا کے (طرفدار اور آپ کے) مددگار ہیں ہم خدا پر ایمان لائے اور آپ گواہ رہیں کہ ہم فرمانبردار ہیں"
+}

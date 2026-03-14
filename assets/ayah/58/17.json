@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Mujaadila",
+    "surahNameArabic": "المجادلة",
+    "surahNameArabicLong": "سورة المجادلة",
+    "surahNameTranslation": "The Pleading Woman",
+    "revelationPlace": "Madina",
+    "totalAyah": 22,
+    "surahNo": 58,
+    "ayahNo": 17,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/58_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/058017.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/58_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/058017.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/58_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/058017.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/58_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/058017.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/58_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/058017.mp3"
+        }
+    },
+    "english": "Neither their wealth nor children will be of any help to them against Allah whatsoever. It is they who will be the residents of the Fire. They will be there forever.",
+    "arabic1": "لَّن تُغْنِىَ عَنْهُمْ أَمْوَٰلُهُمْ وَلَآ أَوْلَـٰدُهُم مِّنَ ٱللَّهِ شَيْـًٔا ۚ أُو۟لَـٰٓئِكَ أَصْحَـٰبُ ٱلنَّارِ ۖ هُمْ فِيهَا خَـٰلِدُونَ",
+    "arabic2": "لن تغني عنهم اموالهم ولا اولادهم من الله شيئا اولئك اصحاب النار هم فيها خالدون",
+    "bengali": "আল্লাহর বিপরীতে তাদের ধন-সম্পদ ও সন্তান-সন্ততি তাদের আদৌ কোন কাজে আসবে না। এরাই জাহান্নামের অধিবাসী। তারা সেখানে স্থায়ী হবে।",
+    "urdu": "خدا کے (عذاب کے) سامنے نہ تو ان کا مال ہی کچھ کام آئے گا اور نہ اولاد ہی (کچھ فائدہ دے گی)۔ یہ لوگ اہل دوزخ ہیں اس میں ہمیشہ (جلتے) رہیں گے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Anfaal",
+    "surahNameArabic": "الأنفال",
+    "surahNameArabicLong": "سورة الأنفال",
+    "surahNameTranslation": "The Spoils of War",
+    "revelationPlace": "Madina",
+    "totalAyah": 75,
+    "surahNo": 8,
+    "ayahNo": 61,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/8_61.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/008061.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/8_61.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/008061.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/8_61.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/008061.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/8_61.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/008061.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/8_61.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/008061.mp3"
+        }
+    },
+    "english": "If the enemy is inclined towards peace, make peace with them. And put your trust in Allah. Indeed, He ˹alone˺ is the All-Hearing, All-Knowing.",
+    "arabic1": "۞ وَإِن جَنَحُوا۟ لِلسَّلْمِ فَٱجْنَحْ لَهَا وَتَوَكَّلْ عَلَى ٱللَّهِ ۚ إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+    "arabic2": "وان جنحوا للسلم فاجنح لها وتوكل على الله انه هو السميع العليم",
+    "bengali": "আর যদি তারা সন্ধির প্রতি ঝুঁকে পড়ে, তাহলে তুমিও তার প্রতি ঝুঁকে পড়, আর আল্লাহর উপর তাওয়াক্কুল কর, নিশ্চয় তিনি সর্বশ্রোতা, সর্বজ্ঞ।",
+    "urdu": "اور اگر یہ لوگ صلح کی طرف مائل ہوں تو تم بھی اس کی طرف مائل ہو جاؤ اور خدا پر بھروسہ رکھو۔ کچھ شک نہیں کہ وہ سب کچھ سنتا (اور) جانتا ہے"
+}

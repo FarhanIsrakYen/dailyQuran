@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Lail",
+    "surahNameArabic": "الليل",
+    "surahNameArabicLong": "سورة الليل",
+    "surahNameTranslation": "The Night",
+    "revelationPlace": "Mecca",
+    "totalAyah": 21,
+    "surahNo": 92,
+    "ayahNo": 12,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/92_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/092012.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/92_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/092012.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/92_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/092012.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/92_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/092012.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/92_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/092012.mp3"
+        }
+    },
+    "english": "It is certainly upon Us ˹alone˺ to show ˹the way to˺ guidance.",
+    "arabic1": "إِنَّ عَلَيْنَا لَلْهُدَىٰ",
+    "arabic2": "ان علينا للهدى",
+    "bengali": "নিশ্চয় পথ প্রদর্শন করাই আমার দায়িত্ব।",
+    "urdu": "ہمیں تو راہ دکھا دینا ہے"
+}

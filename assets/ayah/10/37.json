@@ -1,0 +1,42 @@
+{
+    "surahName": "Yunus",
+    "surahNameArabic": "يونس",
+    "surahNameArabicLong": "سورة يونس",
+    "surahNameTranslation": "Jonas",
+    "revelationPlace": "Mecca",
+    "totalAyah": 109,
+    "surahNo": 10,
+    "ayahNo": 37,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/10_37.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/010037.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/10_37.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/010037.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/10_37.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/010037.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/10_37.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/010037.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/10_37.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/010037.mp3"
+        }
+    },
+    "english": "It is not ˹possible˺ for this Quran to have been produced by anyone other than Allah. In fact, it is a confirmation of what came before, and an explanation of the Scripture. It is, without a doubt, from the Lord of all worlds.",
+    "arabic1": "وَمَا كَانَ هَـٰذَا ٱلْقُرْءَانُ أَن يُفْتَرَىٰ مِن دُونِ ٱللَّهِ وَلَـٰكِن تَصْدِيقَ ٱلَّذِى بَيْنَ يَدَيْهِ وَتَفْصِيلَ ٱلْكِتَـٰبِ لَا رَيْبَ فِيهِ مِن رَّبِّ ٱلْعَـٰلَمِينَ",
+    "arabic2": "وما كان هذا القران ان يفترى من دون الله ولكن تصديق الذي بين يديه وتفصيل الكتاب لا ريب فيه من رب العالمين",
+    "bengali": "এ কুরআন তো এমন নয় যে, আল্লাহ ছাড়া কেউ তা রচনা করতে পারবে; বরং এটি যা তার সামনে রয়েছে, তার সত্যায়ন এবং কিতাবের বিস্তারিত ব্যাখ্যা, যাতে কোন সন্দেহ নেই, যা সৃষ্টিকুলের রবের পক্ষ থেকে।",
+    "urdu": "اور یہ قرآن ایسا نہیں کہ خدا کے سوا کوئی اس کو اپنی طرف سے بنا لائے۔ ہاں (ہاں یہ خدا کا کلام ہے) جو (کتابیں) اس سے پہلے (کی) ہیں۔ ان کی تصدیق کرتا ہے اور ان ہی کتابوں کی (اس میں) تفصیل ہے اس میں کچھ شک نہیں (کہ) یہ رب العالمین کی طرف سے (نازل ہوا) ہے"
+}

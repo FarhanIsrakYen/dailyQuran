@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Hujuraat",
+    "surahNameArabic": "الحجرات",
+    "surahNameArabicLong": "سورة الحجرات",
+    "surahNameTranslation": "The Inner Apartments",
+    "revelationPlace": "Madina",
+    "totalAyah": 18,
+    "surahNo": 49,
+    "ayahNo": 15,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/49_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/049015.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/49_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/049015.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/49_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/049015.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/49_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/049015.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/49_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/049015.mp3"
+        }
+    },
+    "english": "The ˹true˺ believers are only those who believe in Allah and His Messenger—never doubting—and strive with their wealth and their lives in the cause of Allah. They are the ones true in faith.",
+    "arabic1": "إِنَّمَا ٱلْمُؤْمِنُونَ ٱلَّذِينَ ءَامَنُوا۟ بِٱللَّهِ وَرَسُولِهِۦ ثُمَّ لَمْ يَرْتَابُوا۟ وَجَـٰهَدُوا۟ بِأَمْوَٰلِهِمْ وَأَنفُسِهِمْ فِى سَبِيلِ ٱللَّهِ ۚ أُو۟لَـٰٓئِكَ هُمُ ٱلصَّـٰدِقُونَ",
+    "arabic2": "انما المؤمنون الذين امنوا بالله ورسوله ثم لم يرتابوا وجاهدوا باموالهم وانفسهم في سبيل الله اولئك هم الصادقون",
+    "bengali": "মুমিন কেবল তারাই যারা আল্লাহ ও তাঁর রাসূলের প্রতি ঈমান এনেছে, তারপর সন্দেহ পোষণ করেনি। আর নিজেদের সম্পদ ও নিজেদের জীবন দিয়ে আল্লাহর রাস্তায় জিহাদ করেছে। এরাই সত্যনিষ্ঠ।",
+    "urdu": "مومن تو وہ ہیں جو خدا اور اس کے رسول پر ایمان لائے پھر شک میں نہ پڑے اور خدا کی راہ میں مال اور جان سے لڑے۔ یہی لوگ (ایمان کے) سچے ہیں"
+}

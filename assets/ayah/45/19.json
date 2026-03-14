@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Jaathiya",
+    "surahNameArabic": "الجاثية",
+    "surahNameArabicLong": "سورة الجاثية",
+    "surahNameTranslation": "Crouching",
+    "revelationPlace": "Mecca",
+    "totalAyah": 37,
+    "surahNo": 45,
+    "ayahNo": 19,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/45_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/045019.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/45_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/045019.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/45_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/045019.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/45_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/045019.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/45_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/045019.mp3"
+        }
+    },
+    "english": "They certainly can be of no benefit to you against Allah whatsoever. Surely the wrongdoers are patrons of each other, whereas Allah is the Patron of the righteous.",
+    "arabic1": "إِنَّهُمْ لَن يُغْنُوا۟ عَنكَ مِنَ ٱللَّهِ شَيْـًٔا ۚ وَإِنَّ ٱلظَّـٰلِمِينَ بَعْضُهُمْ أَوْلِيَآءُ بَعْضٍ ۖ وَٱللَّهُ وَلِىُّ ٱلْمُتَّقِينَ",
+    "arabic2": "انهم لن يغنوا عنك من الله شيئا وان الظالمين بعضهم اولياء بعض والله ولي المتقين",
+    "bengali": "তারা আল্লাহর মুকাবিলায় তোমার কোন কাজে আসবে না। আর নিশ্চয় যালিমরা মূলত একে অপরের বন্ধু এবং আল্লাহ মুত্তাকীদের বন্ধু।",
+    "urdu": "یہ خدا کے سامنے تمہارے کسی کام نہیں آئیں گے۔ اور ظالم لوگ ایک دوسرے کے دوست ہوتے ہیں۔ اور خدا پرہیزگاروں کا دوست ہے"
+}

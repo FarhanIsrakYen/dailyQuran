@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nahl",
+    "surahNameArabic": "النحل",
+    "surahNameArabicLong": "سورة النحل",
+    "surahNameTranslation": "The Bee",
+    "revelationPlace": "Mecca",
+    "totalAyah": 128,
+    "surahNo": 16,
+    "ayahNo": 112,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/16_112.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/016112.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/16_112.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/016112.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/16_112.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/016112.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/16_112.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/016112.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/16_112.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/016112.mp3"
+        }
+    },
+    "english": "And Allah sets forth the example of a society which was safe and at ease, receiving its provision in abundance from all directions. But its people met Allah’s favours with ingratitude, so Allah made them taste the clutches of hunger and fear for their misdeeds.",
+    "arabic1": "وَضَرَبَ ٱللَّهُ مَثَلًا قَرْيَةً كَانَتْ ءَامِنَةً مُّطْمَئِنَّةً يَأْتِيهَا رِزْقُهَا رَغَدًا مِّن كُلِّ مَكَانٍ فَكَفَرَتْ بِأَنْعُمِ ٱللَّهِ فَأَذَٰقَهَا ٱللَّهُ لِبَاسَ ٱلْجُوعِ وَٱلْخَوْفِ بِمَا كَانُوا۟ يَصْنَعُونَ",
+    "arabic2": "وضرب الله مثلا قرية كانت امنة مطمئنة ياتيها رزقها رغدا من كل مكان فكفرت بانعم الله فاذاقها الله لباس الجوع والخوف بما كانوا يصنعون",
+    "bengali": "আর আল্লাহ উপমা পেশ করছেন, একটি জনপদ, যা ছিল নিরাপদ ও শান্ত। সবদিক থেকে তার রিয্ক তাতে বিপুলভাবে আসত। অতঃপর সে (জনপদ) আল্লাহর নিআমত অস্বীকার করল। তখন তারা যা করত তার কারণে আল্লাহ তাকে ক্ষুধা ও ভয়ের পোশাক পরালেন।",
+    "urdu": "اور خدا ایک بستی کی مثال بیان فرماتا ہے کہ (ہر طرح) امن چین سے بستی تھی ہر طرف سے رزق بافراغت چلا آتا تھا۔ مگر ان لوگوں نے خدا کی نعمتوں کی ناشکری کی تو خدا نے ان کے اعمال کے سبب ان کو بھوک اور خوف کا لباس پہنا کر (ناشکری کا) مزہ چکھا دیا"
+}

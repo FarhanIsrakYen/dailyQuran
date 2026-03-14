@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Maaida",
+    "surahNameArabic": "المائدة",
+    "surahNameArabicLong": "سورة المائدة",
+    "surahNameTranslation": "The Table",
+    "revelationPlace": "Madina",
+    "totalAyah": 120,
+    "surahNo": 5,
+    "ayahNo": 31,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/5_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/005031.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/5_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/005031.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/5_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/005031.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/5_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/005031.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/5_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/005031.mp3"
+        }
+    },
+    "english": "Then Allah sent a crow digging ˹a grave˺ in the ground ˹for a dead crow˺, in order to show him how to bury the corpse of his brother. He cried, “Alas! Have I ˹even˺ failed to be like this crow and bury the corpse of my brother?” So he became regretful.",
+    "arabic1": "فَبَعَثَ ٱللَّهُ غُرَابًا يَبْحَثُ فِى ٱلْأَرْضِ لِيُرِيَهُۥ كَيْفَ يُوَٰرِى سَوْءَةَ أَخِيهِ ۚ قَالَ يَـٰوَيْلَتَىٰٓ أَعَجَزْتُ أَنْ أَكُونَ مِثْلَ هَـٰذَا ٱلْغُرَابِ فَأُوَٰرِىَ سَوْءَةَ أَخِى ۖ فَأَصْبَحَ مِنَ ٱلنَّـٰدِمِينَ",
+    "arabic2": "فبعث الله غرابا يبحث في الارض ليريه كيف يواري سوءة اخيه قال يا ويلتا اعجزت ان اكون مثل هذا الغراب فاواري سوءة اخي فاصبح من النادمين",
+    "bengali": "অতঃপর আল্লাহ একটি কাক পাঠালেন, যা মাটি খুঁড়ছিল, যাতে তাকে দেখাতে পারে, কীভাবে সে ভাইয়ের লাশ গোপন করবে। সে বলল, ‘হায়! আমি এই কাকটির মত হতেও অক্ষম হয়েছি যে, আমার ভাইয়ের লাশ গোপন করব’। ফলে সে লজ্জিত হল।",
+    "urdu": "اب خدا نے ایک کوّا بھیجا جو زمین کریدنے لگا تاکہ اسے دکھائے کہ اپنے بھائی کی لاش کو کیونکر چھپائے کہنے لگا اے ہے مجھ سے اتنا بھی نہ ہو سکا کہ اس کوے کے برابر ہوتا کہ اپنے بھائی کی لاش چھپا دیتا پھر وہ پشیمان ہوا"
+}

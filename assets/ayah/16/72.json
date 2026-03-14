@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nahl",
+    "surahNameArabic": "النحل",
+    "surahNameArabicLong": "سورة النحل",
+    "surahNameTranslation": "The Bee",
+    "revelationPlace": "Mecca",
+    "totalAyah": 128,
+    "surahNo": 16,
+    "ayahNo": 72,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/16_72.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/016072.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/16_72.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/016072.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/16_72.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/016072.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/16_72.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/016072.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/16_72.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/016072.mp3"
+        }
+    },
+    "english": "And Allah has made for you spouses of your own kind, and given you through your spouses children and grandchildren. And He has granted you good, lawful provisions. Are they then faithful to falsehood and ungrateful for Allah’s favours?",
+    "arabic1": "وَٱللَّهُ جَعَلَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَٰجًا وَجَعَلَ لَكُم مِّنْ أَزْوَٰجِكُم بَنِينَ وَحَفَدَةً وَرَزَقَكُم مِّنَ ٱلطَّيِّبَـٰتِ ۚ أَفَبِٱلْبَـٰطِلِ يُؤْمِنُونَ وَبِنِعْمَتِ ٱللَّهِ هُمْ يَكْفُرُونَ",
+    "arabic2": "والله جعل لكم من انفسكم ازواجا وجعل لكم من ازواجكم بنين وحفدة ورزقكم من الطيبات افبالباطل يؤمنون وبنعمت الله هم يكفرون",
+    "bengali": "আর আল্লাহ তোমাদের জন্য তোমাদের থেকে জোড়া সৃষ্টি করেছেন এবং তোমাদের জোড়া থেকে তোমাদের জন্য পুত্র ও নাতিদের সৃষ্টি করেছেন আর তিনি তোমারেদকে পবিত্র রিয্ক দান করেছেন তারা কি বাতিলে বিশ্বাস করে এবং আল্লাহর নিআমতকে অস্বীকার করে?",
+    "urdu": "اور خدا ہی نے تم میں سے تمہارے لیے عورتیں پیدا کیں اور عورتوں سے تمہارے بیٹے اور پوتے پیدا کیے اور کھانے کو تمہیں پاکیزہ چیزیں دیں۔ تو کیا بےاصل چیزوں پر اعتقاد رکھتے اور خدا کی نعمتوں سے انکار کرتے ہیں"
+}

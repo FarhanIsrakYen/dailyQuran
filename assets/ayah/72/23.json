@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Jinn",
+    "surahNameArabic": "الجن",
+    "surahNameArabicLong": "سورة الجن",
+    "surahNameTranslation": "The Jinn",
+    "revelationPlace": "Mecca",
+    "totalAyah": 28,
+    "surahNo": 72,
+    "ayahNo": 23,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/72_23.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/072023.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/72_23.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/072023.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/72_23.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/072023.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/72_23.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/072023.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/72_23.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/072023.mp3"
+        }
+    },
+    "english": "˹My duty is˺ only to convey ˹the truth˺ from Allah and ˹deliver˺ His messages.” And whoever disobeys Allah and His Messenger will certainly be in the Fire of Hell, to stay there for ever and ever.",
+    "arabic1": "إِلَّا بَلَـٰغًا مِّنَ ٱللَّهِ وَرِسَـٰلَـٰتِهِۦ ۚ وَمَن يَعْصِ ٱللَّهَ وَرَسُولَهُۥ فَإِنَّ لَهُۥ نَارَ جَهَنَّمَ خَـٰلِدِينَ فِيهَآ أَبَدًا",
+    "arabic2": "الا بلاغا من الله ورسالاته ومن يعص الله ورسوله فان له نار جهنم خالدين فيها ابدا",
+    "bengali": "কেবল আল্লাহর বাণী ও তাঁর রিসালাত পৌঁছানোই দায়িত্ব। আর যে আল্লাহ ও তাঁর রাসূলকে অমান্য করে, তার জন্য রয়েছে জাহান্নামের আগুন। তাতে তারা চিরস্থায়ী হবে।",
+    "urdu": "ہاں خدا کی طرف سے احکام کا اور اس کے پیغاموں کا پہنچا دینا (ہی) میرے ذمے ہے۔ اور جو شخص خدا اور اس کے پیغمبر کی نافرمانی کرے گا تو ایسوں کے لئے جہنم کی آگ ہے ہمیشہ ہمیشہ اس میں رہیں گے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Mumtahana",
+    "surahNameArabic": "الممتحنة",
+    "surahNameArabicLong": "سورة الممتحنة",
+    "surahNameTranslation": "She that is to be examined",
+    "revelationPlace": "Madina",
+    "totalAyah": 13,
+    "surahNo": 60,
+    "ayahNo": 2,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/60_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/060002.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/60_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/060002.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/60_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/060002.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/60_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/060002.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/60_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/060002.mp3"
+        }
+    },
+    "english": "If they gain the upper hand over you, they would be your ˹open˺ enemies, unleashing their hands and tongues to harm you, and wishing that you would abandon faith.",
+    "arabic1": "إِن يَثْقَفُوكُمْ يَكُونُوا۟ لَكُمْ أَعْدَآءً وَيَبْسُطُوٓا۟ إِلَيْكُمْ أَيْدِيَهُمْ وَأَلْسِنَتَهُم بِٱلسُّوٓءِ وَوَدُّوا۟ لَوْ تَكْفُرُونَ",
+    "arabic2": "ان يثقفوكم يكونوا لكم اعداء ويبسطوا اليكم ايديهم والسنتهم بالسوء وودوا لو تكفرون",
+    "bengali": "তারা যদি তোমাদেরকে বাগে পায় তবে তোমাদের শত্রু হবে এবং মন্দ নিয়ে তোমাদের দিকে তাদের হাত ও যবান বাড়াবে; তারা কামনা করে যদি তোমরা কুফরি করতে!",
+    "urdu": "اگر یہ کافر تم پر قدرت پالیں تو تمہارے دشمن ہوجائیں اور ایذا کے لئے تم پر ہاتھ (بھی) چلائیں اور زبانیں (بھی) اور چاہتے ہیں کہ تم کسی طرح کافر ہوجاؤ"
+}

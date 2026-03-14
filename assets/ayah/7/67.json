@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 67,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/7_67.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/007067.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/7_67.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/007067.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/7_67.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/007067.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/7_67.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/007067.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/7_67.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/007067.mp3"
+        }
+    },
+    "english": "Hûd replied, “O my people! I am no fool! But I am a messenger from the Lord of all worlds",
+    "arabic1": "قَالَ يَـٰقَوْمِ لَيْسَ بِى سَفَاهَةٌ وَلَـٰكِنِّى رَسُولٌ مِّن رَّبِّ ٱلْعَـٰلَمِينَ",
+    "arabic2": "قال يا قوم ليس بي سفاهة ولكني رسول من رب العالمين",
+    "bengali": "সে বলল, ‘হে আমার কওম, আমার মধ্যে কোন নির্বুদ্ধিতা নেই; কিন্তু আমি সকল সৃষ্টির রবের পক্ষ থেকে রাসূল’।",
+    "urdu": "انہوں نے کہا کہ بھائیو مجھ میں حماقت کی کوئی بات نہیں ہے بلکہ میں رب العالمین کا پیغمبر ہوں"
+}

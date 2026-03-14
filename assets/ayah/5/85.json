@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Maaida",
+    "surahNameArabic": "المائدة",
+    "surahNameArabicLong": "سورة المائدة",
+    "surahNameTranslation": "The Table",
+    "revelationPlace": "Madina",
+    "totalAyah": 120,
+    "surahNo": 5,
+    "ayahNo": 85,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/5_85.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/005085.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/5_85.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/005085.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/5_85.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/005085.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/5_85.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/005085.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/5_85.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/005085.mp3"
+        }
+    },
+    "english": "So Allah will reward them for what they said with Gardens under which rivers flow, to stay there forever. And that is the reward of the good-doers.",
+    "arabic1": "فَأَثَـٰبَهُمُ ٱللَّهُ بِمَا قَالُوا۟ جَنَّـٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ خَـٰلِدِينَ فِيهَا ۚ وَذَٰلِكَ جَزَآءُ ٱلْمُحْسِنِينَ",
+    "arabic2": "فاثابهم الله بما قالوا جنات تجري من تحتها الانهار خالدين فيها وذلك جزاء المحسنين",
+    "bengali": "সুতরাং তারা যা বলেছে এর কারণে আল্লাহ তাদেরকে পুরস্কার দেবেন জান্নাতসমূহ, যার নীচে নদীসমূহ প্রবাহিত হয়, তারা সেখানে স্থায়ী হবে। আর এটা হল সৎকর্মপরায়ণদের প্রতিদান।",
+    "urdu": "تو خدا نے ان کو اس کہنے کے عوض (بہشت کے) باغ عطا فرمائے جن کے نیچے نہریں بہہ رہی ہیں وہ ہمیشہ ان میں رہیں گے اور نیکو کاروں کا یہی صلہ ہے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Yunus",
+    "surahNameArabic": "يونس",
+    "surahNameArabicLong": "سورة يونس",
+    "surahNameTranslation": "Jonas",
+    "revelationPlace": "Mecca",
+    "totalAyah": 109,
+    "surahNo": 10,
+    "ayahNo": 27,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/10_27.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/010027.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/10_27.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/010027.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/10_27.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/010027.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/10_27.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/010027.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/10_27.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/010027.mp3"
+        }
+    },
+    "english": "As for those who commit evil, the reward of an evil deed is its equivalent. Humiliation will cover them—with no one to protect them from Allah—as if their faces were covered with patches of the night’s deep darkness. It is they who will be the residents of the Fire. They will be there forever.",
+    "arabic1": "وَٱلَّذِينَ كَسَبُوا۟ ٱلسَّيِّـَٔاتِ جَزَآءُ سَيِّئَةٍۭ بِمِثْلِهَا وَتَرْهَقُهُمْ ذِلَّةٌ ۖ مَّا لَهُم مِّنَ ٱللَّهِ مِنْ عَاصِمٍ ۖ كَأَنَّمَآ أُغْشِيَتْ وُجُوهُهُمْ قِطَعًا مِّنَ ٱلَّيْلِ مُظْلِمًا ۚ أُو۟لَـٰٓئِكَ أَصْحَـٰبُ ٱلنَّارِ ۖ هُمْ فِيهَا خَـٰلِدُونَ",
+    "arabic2": "والذين كسبوا السيئات جزاء سيئة بمثلها وترهقهم ذلة ما لهم من الله من عاصم كانما اغشيت وجوههم قطعا من الليل مظلما اولئك اصحاب النار هم فيها خالدون",
+    "bengali": "আর যারা মন্দ উপার্জন করবে, প্রতিটি মন্দের প্রতিদান হবে তারই অনুরূপ; আর লাঞ্ছনা তাদেরকে আচ্ছন্ন করবে। আল্লাহর পাকড়াও থেকে তাদের কোন রক্ষাকারী নেই। যেন অন্ধকার রাতের এক অংশ দিয়ে তাদের চেহারাগুলো ঢেকে দেয়া হয়েছে। তারাই আগুনের অধিবাসী, তারা তাতে স্থায়ী হবে।",
+    "urdu": "اور جنہوں نے برے کام کئے تو برائی کا بدلہ ویسا ہی ہوگا۔ اور ان کے مونہوں پر ذلت چھا جائے گی۔ اور کوئی ان کو خدا سے بچانے والا نہ ہوگا۔ ان کے مونہوں (کی سیاہی کا یہ عالم ہوگا کہ ان) پر گویا اندھیری رات کے ٹکڑے اُڑھا دیئے گئے ہیں۔ یہی دوزخی ہیں کہ ہمیشہ اس میں رہیں گے"
+}

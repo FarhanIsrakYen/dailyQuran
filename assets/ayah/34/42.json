@@ -1,0 +1,42 @@
+{
+    "surahName": "Saba",
+    "surahNameArabic": "سبإ",
+    "surahNameArabicLong": "سورة سَبَأ",
+    "surahNameTranslation": "Sheba",
+    "revelationPlace": "Mecca",
+    "totalAyah": 54,
+    "surahNo": 34,
+    "ayahNo": 42,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/34_42.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/034042.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/34_42.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/034042.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/34_42.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/034042.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/34_42.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/034042.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/34_42.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/034042.mp3"
+        }
+    },
+    "english": "So Today neither of you can benefit or protect each other. And We will say to the wrongdoers, “Taste the torment of the Fire, which you used to deny.”",
+    "arabic1": "فَٱلْيَوْمَ لَا يَمْلِكُ بَعْضُكُمْ لِبَعْضٍ نَّفْعًا وَلَا ضَرًّا وَنَقُولُ لِلَّذِينَ ظَلَمُوا۟ ذُوقُوا۟ عَذَابَ ٱلنَّارِ ٱلَّتِى كُنتُم بِهَا تُكَذِّبُونَ",
+    "arabic2": "فاليوم لا يملك بعضكم لبعض نفعا ولا ضرا ونقول للذين ظلموا ذوقوا عذاب النار التي كنتم بها تكذبون",
+    "bengali": "ফলে আজ তোমাদের একে অপরের কোন উপকার কিংবা অপকার করার ক্ষমতা কেউ রাখবে না। আর আমি যালিমদের উদ্দেশ্যে বলব, ‘তোমরা আগুনের আযাব আস্বাদন কর যা তোমরা অস্বীকার করতে।’",
+    "urdu": "تو آج تم میں سے کوئی کسی کو نفع اور نقصان پہنچانے کا اختیار نہیں رکھتا۔ اور ہم ظالموں سے کہیں گے کہ دوزخ کے عذاب کا جس کو تم جھوٹ سمجھتے تھے مزہ چکھو"
+}

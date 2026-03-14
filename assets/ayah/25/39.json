@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Furqaan",
+    "surahNameArabic": "الفرقان",
+    "surahNameArabicLong": "سورة الفرقان",
+    "surahNameTranslation": "The Criterion",
+    "revelationPlace": "Mecca",
+    "totalAyah": 77,
+    "surahNo": 25,
+    "ayahNo": 39,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/25_39.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/025039.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/25_39.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/025039.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/25_39.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/025039.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/25_39.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/025039.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/25_39.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/025039.mp3"
+        }
+    },
+    "english": "For each We set forth ˹various˺ lessons, and We ultimately destroyed each.",
+    "arabic1": "وَكُلًّا ضَرَبْنَا لَهُ ٱلْأَمْثَـٰلَ ۖ وَكُلًّا تَبَّرْنَا تَتْبِيرًا",
+    "arabic2": "وكلا ضربنا له الامثال وكلا تبرنا تتبيرا",
+    "bengali": "আর আমি তাদের প্রত্যেকের জন্য দৃষ্টান্ত উপস্থাপন করেছি এবং তাদের প্রত্যেককেই আমি সম্পূর্ণরূপে ধ্বংস করে দিয়েছি।",
+    "urdu": "اور سب کے (سمجھانے کے لئے) ہم نے مثالیں بیان کیں اور (نہ ماننے پر) سب کا تہس نہس کردیا"
+}

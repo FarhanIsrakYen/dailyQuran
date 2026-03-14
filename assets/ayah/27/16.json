@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Naml",
+    "surahNameArabic": "النمل",
+    "surahNameArabicLong": "سورة النمل",
+    "surahNameTranslation": "The Ant",
+    "revelationPlace": "Mecca",
+    "totalAyah": 93,
+    "surahNo": 27,
+    "ayahNo": 16,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/27_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/027016.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/27_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/027016.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/27_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/027016.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/27_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/027016.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/27_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/027016.mp3"
+        }
+    },
+    "english": "And David was succeeded by Solomon, who said, “O people! We have been taught the language of birds, and been given everything ˹we need˺. This is indeed a great privilege.”",
+    "arabic1": "وَوَرِثَ سُلَيْمَـٰنُ دَاوُۥدَ ۖ وَقَالَ يَـٰٓأَيُّهَا ٱلنَّاسُ عُلِّمْنَا مَنطِقَ ٱلطَّيْرِ وَأُوتِينَا مِن كُلِّ شَىْءٍ ۖ إِنَّ هَـٰذَا لَهُوَ ٱلْفَضْلُ ٱلْمُبِينُ",
+    "arabic2": "وورث سليمان داوود وقال يا ايها الناس علمنا منطق الطير واوتينا من كل شيء ان هذا لهو الفضل المبين",
+    "bengali": "আর সুলাইমান দাঊদের ওয়ারিস হল এবং সে বলল, ‘হে মানুষ, আমাদেরকে পাখির ভাষা শেখানো হয়েছে এবং আমাদেরকে সকল কিছু দেয়া হয়েছে। নিশ্চয় এটা সুস্পষ্ট অনুগ্রহ’।",
+    "urdu": "اور سلیمان اور داؤد کے قائم مقام ہوئے۔ اور کہنے لگے کہ لوگو! ہمیں (خدا کی طرف سے) جانوروں کی بولی سکھائی گئی ہے اور ہر چیز عنایت فرمائی گئی ہے۔ بےشک یہ (اُس کا) صریح فضل ہے"
+}

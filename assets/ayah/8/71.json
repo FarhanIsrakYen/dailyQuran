@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Anfaal",
+    "surahNameArabic": "الأنفال",
+    "surahNameArabicLong": "سورة الأنفال",
+    "surahNameTranslation": "The Spoils of War",
+    "revelationPlace": "Madina",
+    "totalAyah": 75,
+    "surahNo": 8,
+    "ayahNo": 71,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/8_71.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/008071.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/8_71.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/008071.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/8_71.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/008071.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/8_71.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/008071.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/8_71.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/008071.mp3"
+        }
+    },
+    "english": "But if their intention is only to betray you ˹O Prophet˺, they sought to betray Allah before. But He gave you power over them. And Allah is All-Knowing, All-Wise.",
+    "arabic1": "وَإِن يُرِيدُوا۟ خِيَانَتَكَ فَقَدْ خَانُوا۟ ٱللَّهَ مِن قَبْلُ فَأَمْكَنَ مِنْهُمْ ۗ وَٱللَّهُ عَلِيمٌ حَكِيمٌ",
+    "arabic2": "وان يريدوا خيانتك فقد خانوا الله من قبل فامكن منهم والله عليم حكيم",
+    "bengali": "আর যদি তারা তোমার সাথে বিশ্বাসঘাতকতা করার ইচ্ছা করে, তাহলে তারা তো পূর্বে আল্লাহর সাথেও বিশ্বাসঘাতকতা করেছে। অতঃপর তিনি তাদের উপর (তোমাকে) শক্তিশালী করেছেন। আর আল্লাহ মহাজ্ঞানী, প্রজ্ঞাবান।",
+    "urdu": "اور اگر یہ لوگ تم سے دغا کرنا چاہیں گے تو یہ پہلے ہی خدا سے دغا کرچکے ہیں تو اس نے ان کو (تمہارے) قبضے میں کر دیا۔ اور خدا دانا حکمت والا ہے"
+}

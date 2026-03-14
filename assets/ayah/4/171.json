@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 171,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/4_171.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/004171.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/4_171.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/004171.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/4_171.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/004171.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/4_171.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/004171.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/4_171.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/004171.mp3"
+        }
+    },
+    "english": "O People of the Book! Do not go to extremes regarding your faith; say nothing about Allah except the truth. The Messiah, Jesus, son of Mary, was no more than a messenger of Allah and the fulfilment of His Word through Mary and a spirit ˹created by a command˺ from Him. So believe in Allah and His messengers and do not say, “Trinity.” Stop!—for your own good. Allah is only One God. Glory be to Him! He is far above having a son! To Him belongs whatever is in the heavens and whatever is on the earth. And Allah is sufficient as a Trustee of Affairs.",
+    "arabic1": "يَـٰٓأَهْلَ ٱلْكِتَـٰبِ لَا تَغْلُوا۟ فِى دِينِكُمْ وَلَا تَقُولُوا۟ عَلَى ٱللَّهِ إِلَّا ٱلْحَقَّ ۚ إِنَّمَا ٱلْمَسِيحُ عِيسَى ٱبْنُ مَرْيَمَ رَسُولُ ٱللَّهِ وَكَلِمَتُهُۥٓ أَلْقَىٰهَآ إِلَىٰ مَرْيَمَ وَرُوحٌ مِّنْهُ ۖ فَـَٔامِنُوا۟ بِٱللَّهِ وَرُسُلِهِۦ ۖ وَلَا تَقُولُوا۟ ثَلَـٰثَةٌ ۚ ٱنتَهُوا۟ خَيْرًا لَّكُمْ ۚ إِنَّمَا ٱللَّهُ إِلَـٰهٌ وَٰحِدٌ ۖ سُبْحَـٰنَهُۥٓ أَن يَكُونَ لَهُۥ وَلَدٌ ۘ لَّهُۥ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۗ وَكَفَىٰ بِٱللَّهِ وَكِيلًا",
+    "arabic2": "يا اهل الكتاب لا تغلوا في دينكم ولا تقولوا على الله الا الحق انما المسيح عيسى ابن مريم رسول الله وكلمته القاها الى مريم وروح منه فامنوا بالله ورسله ولا تقولوا ثلاثة انتهوا خيرا لكم انما الله اله واحد سبحانه ان يكون له ولد له ما في السماوات وما في الارض وكفى بالله وكيلا",
+    "bengali": "হে কিতাবীগণ, তোমরা তোমাদের দীনের মধ্যে বাড়াবাড়ি করো না এবং আল্লাহর উপর সত্য ছাড়া অন্য কিছু বলো না। মারইয়ামের পুত্র মাসীহ ঈসা কেবলমাত্র আল্লাহর রাসূল ও তাঁর কালিমা, যা তিনি প্রেরণ করেছিলেন মারইয়ামের প্রতি এবং তাঁর পক্ষ থেকে রূহ। সুতরাং তোমরা আল্লাহ ও তাঁর রাসূলগণের প্রতি ঈমান আন এবং বলো না, 'তিন'। তোমরা বিরত হও, তা তোমাদের জন্য উত্তম। আল্লাহই কেবল এক ইলাহ, তিনি পবিত্র মহান এ থেকে যে, তাঁর কোন সন্তান হবে। আসমানসূহে যা রয়েছে এবং যা রয়েছে যমীনে, তা আল্লাহরই। আর কর্মবিধায়ক হিসেবে আল্লাহই যথেষ্ট।",
+    "urdu": "اے اہل کتاب اپنے دین (کی بات) میں حد سے نہ بڑھو اور خدا کے بارے میں حق کے سوا کچھ نہ کہو۔ مسیح (یعنی) مریم کے بیٹے عیسیٰ (نہ خدا تھے نہ خدا کے بیٹے بلکہ) خدا کے رسول اور کا کلمہٴ (بشارت) تھے جو اس نے مریم کی طرف بھیجا تھا اور اس کی طرف سے ایک روح تھے تو خدا اوراس کے رسولوں پر ایمان لاؤ۔ اور (یہ) نہ کہو (کہ خدا) تین (ہیں۔ اس اعتقاد سے) باز آؤ کہ یہ تمہارے حق میں بہتر ہے۔ خدا ہی معبود واحد ہے اور اس سے پاک ہے کہ اس کے اولاد ہو۔ جو کچھ آسمانوں میں اور جو کچھ زمین میں ہے سب اسی کا ہے۔ اور خدا ہی کارساز کافی ہے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Jaathiya",
+    "surahNameArabic": "الجاثية",
+    "surahNameArabicLong": "سورة الجاثية",
+    "surahNameTranslation": "Crouching",
+    "revelationPlace": "Mecca",
+    "totalAyah": 37,
+    "surahNo": 45,
+    "ayahNo": 27,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/45_27.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/045027.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/45_27.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/045027.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/45_27.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/045027.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/45_27.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/045027.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/45_27.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/045027.mp3"
+        }
+    },
+    "english": "To Allah ˹alone˺ belongs the kingdom of the heavens and the earth. On the Day the Hour will be established, the people of falsehood will then be in ˹total˺ loss.",
+    "arabic1": "وَلِلَّهِ مُلْكُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ وَيَوْمَ تَقُومُ ٱلسَّاعَةُ يَوْمَئِذٍ يَخْسَرُ ٱلْمُبْطِلُونَ",
+    "arabic2": "ولله ملك السماوات والارض ويوم تقوم الساعة يومئذ يخسر المبطلون",
+    "bengali": "আর আসমানসমূহ ও যমীনের মালিকানা আল্লাহরই এবং যেদিন কিয়ামত সংঘটিত হবে সেদিন বাতিলপন্থীরা ক্ষতিগ্রস্ত হবে।",
+    "urdu": "اور آسمانوں اور زمین کی بادشاہت خدا ہی کی ہے۔ اور جس روز قیامت برپا ہوگی اس روز اہل باطل خسارے میں پڑ جائیں گے"
+}

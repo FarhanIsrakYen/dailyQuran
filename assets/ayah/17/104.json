@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 104,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/17_104.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/017104.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/17_104.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/017104.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/17_104.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/017104.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/17_104.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/017104.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/17_104.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/017104.mp3"
+        }
+    },
+    "english": "And We said to the Children of Israel after Pharaoh, “Reside in the land, but when the promise of the Hereafter comes to pass, We will bring you all together.”",
+    "arabic1": "وَقُلْنَا مِنۢ بَعْدِهِۦ لِبَنِىٓ إِسْرَٰٓءِيلَ ٱسْكُنُوا۟ ٱلْأَرْضَ فَإِذَا جَآءَ وَعْدُ ٱلْـَٔاخِرَةِ جِئْنَا بِكُمْ لَفِيفًا",
+    "arabic2": "وقلنا من بعده لبني اسرائيل اسكنوا الارض فاذا جاء وعد الاخرة جئنا بكم لفيفا",
+    "bengali": "আর আমি এরপর বনী ইসরাঈলকে বললাম, ‘তোমরা যমীনে বাস কর, অতঃপর যখন আখিরাতের ওয়াদা আসবে তখন আমি তোমাদেরকে জড়ো করে নিয়ে আসব’।",
+    "urdu": "اور اس کے بعد بنی اسرائیل سے کہا کہ تم اس ملک میں رہو سہو۔ پھر جب آخرت کا وعدہ آجائے گا تو ہم تم سب کو جمع کرکے لے آئیں گے"
+}

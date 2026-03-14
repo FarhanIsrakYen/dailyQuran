@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Haaqqa",
+    "surahNameArabic": "الحاقة",
+    "surahNameArabicLong": "سورة الحاقة",
+    "surahNameTranslation": "The Reality",
+    "revelationPlace": "Mecca",
+    "totalAyah": 52,
+    "surahNo": 69,
+    "ayahNo": 7,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/69_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/069007.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/69_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/069007.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/69_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/069007.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/69_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/069007.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/69_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/069007.mp3"
+        }
+    },
+    "english": "which Allah unleashed on them non-stop for seven nights and eight days, so that you would have seen its people lying dead like trunks of uprooted palm trees.",
+    "arabic1": "سَخَّرَهَا عَلَيْهِمْ سَبْعَ لَيَالٍ وَثَمَـٰنِيَةَ أَيَّامٍ حُسُومًا فَتَرَى ٱلْقَوْمَ فِيهَا صَرْعَىٰ كَأَنَّهُمْ أَعْجَازُ نَخْلٍ خَاوِيَةٍ",
+    "arabic2": "سخرها عليهم سبع ليال وثمانية ايام حسوما فترى القوم فيها صرعى كانهم اعجاز نخل خاوية",
+    "bengali": "তিনি তাদের উপর তা সাত রাত ও আট দিন বিরামহীনভাবে চাপিয়ে দিয়েছিলেন। ফলে তুমি উক্ত সম্প্রদায়কে সেখানে লুটিয়ে পড়া অবস্থায় দেখতে পেতে যেন তারা সারশূন্য খেজুর গাছের মত।",
+    "urdu": "خدا نے اس کو سات رات اور آٹھ دن لگاتار ان پر چلائے رکھا تو (اے مخاطب) تو لوگوں کو اس میں (اس طرح) ڈھئے (اور مرے) پڑے دیکھے جیسے کھجوروں کے کھوکھلے تنے"
+}

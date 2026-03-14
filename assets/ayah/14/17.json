@@ -1,0 +1,42 @@
+{
+    "surahName": "Ibrahim",
+    "surahNameArabic": "ابراهيم",
+    "surahNameArabicLong": "سورة ابراهيم",
+    "surahNameTranslation": "Abraham",
+    "revelationPlace": "Mecca",
+    "totalAyah": 52,
+    "surahNo": 14,
+    "ayahNo": 17,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/14_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/014017.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/14_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/014017.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/14_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/014017.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/14_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/014017.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/14_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/014017.mp3"
+        }
+    },
+    "english": "which they will sip with difficulty, and can hardly swallow. Death will overwhelm them from every side, yet they will not ˹be able to˺ die. Awaiting them still is harsher torment.",
+    "arabic1": "يَتَجَرَّعُهُۥ وَلَا يَكَادُ يُسِيغُهُۥ وَيَأْتِيهِ ٱلْمَوْتُ مِن كُلِّ مَكَانٍ وَمَا هُوَ بِمَيِّتٍ ۖ وَمِن وَرَآئِهِۦ عَذَابٌ غَلِيظٌ",
+    "arabic2": "يتجرعه ولا يكاد يسيغه وياتيه الموت من كل مكان وما هو بميت ومن ورائه عذاب غليظ",
+    "bengali": "সে তা গিলতে চাইবে এবং প্রায় সহজে সে তা গিলতে পারবে না। আর তার কাছে সকল স্থান থেকে মৃত্যু ধেঁয়ে আসবে, অথচ সে মরবে না। আর এর পরেও রয়েছে কঠিন আযাব ।",
+    "urdu": "وہ اس کو گھونٹ گھونٹ پیئے گا اور گلے سے نہیں اتار سکے گا اور ہر طرف سے اسے موت آرہی ہوگی مگر وہ مرنے میں نہیں آئے گا۔ اور اس کے پیچھے سخت عذاب ہوگا"
+}

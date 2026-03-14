@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 45,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/6_45.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/006045.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/6_45.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/006045.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/6_45.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/006045.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/6_45.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/006045.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/6_45.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/006045.mp3"
+        }
+    },
+    "english": "So the wrongdoers were utterly uprooted. And all praise is for Allah—Lord of all worlds.",
+    "arabic1": "فَقُطِعَ دَابِرُ ٱلْقَوْمِ ٱلَّذِينَ ظَلَمُوا۟ ۚ وَٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ",
+    "arabic2": "فقطع دابر القوم الذين ظلموا والحمد لله رب العالمين",
+    "bengali": "অতএব যালিম সম্প্রদায়ের মূল কেটে ফেলা হল। আর সকল প্রশংসা রাববুল আলামীন আল্লাহর জন্য।",
+    "urdu": "غرض ظالم لوگوں کی جڑ کاٹ دی گئی۔ اور سب تعریف خدائے رب العالمین ہی کو (سزاوار ہے)"
+}

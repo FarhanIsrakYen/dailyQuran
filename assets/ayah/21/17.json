@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Anbiyaa",
+    "surahNameArabic": "الأنبياء",
+    "surahNameArabicLong": "سورة الأنبياء",
+    "surahNameTranslation": "The Prophets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 112,
+    "surahNo": 21,
+    "ayahNo": 17,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/21_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/021017.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/21_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/021017.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/21_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/021017.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/21_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/021017.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/21_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/021017.mp3"
+        }
+    },
+    "english": "Had We intended to take ˹some˺ amusement, We could have found it in Our presence, if that had been Our Will.",
+    "arabic1": "لَوْ أَرَدْنَآ أَن نَّتَّخِذَ لَهْوًا لَّٱتَّخَذْنَـٰهُ مِن لَّدُنَّآ إِن كُنَّا فَـٰعِلِينَ",
+    "arabic2": "لو اردنا ان نتخذ لهوا لاتخذناه من لدنا ان كنا فاعلين",
+    "bengali": "আমি যদি খেলার উপকরণ গ্রহণ করতে চাইতাম, তবে আমার কাছে যা আছে তা দিয়েই করতাম। কিন্তু আমি তা করিনি।",
+    "urdu": "اگر ہم چاہتے کہ کھیل (کی چیزیں یعنی زن وفرزند) بنائیں تو اگر ہم کو کرنا ہوتا تو ہم اپنے پاس سے بنالیتے"
+}

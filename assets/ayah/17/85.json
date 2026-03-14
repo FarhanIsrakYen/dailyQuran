@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 85,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/17_85.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/017085.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/17_85.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/017085.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/17_85.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/017085.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/17_85.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/017085.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/17_85.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/017085.mp3"
+        }
+    },
+    "english": "They ask you ˹O Prophet˺ about the spirit. Say, “Its nature is known only to my Lord, and you ˹O humanity˺ have been given but little knowledge.”",
+    "arabic1": "وَيَسْـَٔلُونَكَ عَنِ ٱلرُّوحِ ۖ قُلِ ٱلرُّوحُ مِنْ أَمْرِ رَبِّى وَمَآ أُوتِيتُم مِّنَ ٱلْعِلْمِ إِلَّا قَلِيلًا",
+    "arabic2": "ويسالونك عن الروح قل الروح من امر ربي وما اوتيتم من العلم الا قليلا",
+    "bengali": "আর তারা তোমাকে রূহ সম্পর্কে প্রশ্ন করে। বল, ‘রূহ আমার রবের আদেশ থেকে, আর তোমাদেরকে জ্ঞান থেকে অতি সামান্যই দেয়া হয়েছে’।",
+    "urdu": "اور تم سے روح کے بارے میں سوال کرتے ہیں۔ کہہ دو کہ وہ میرے پروردگار کی ایک شان ہے اور تم لوگوں کو (بہت ہی) کم علم دیا گیا ہے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 118,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/7_118.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/007118.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/7_118.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/007118.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/7_118.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/007118.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/7_118.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/007118.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/7_118.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/007118.mp3"
+        }
+    },
+    "english": "So the truth prevailed and their illusions failed.",
+    "arabic1": "فَوَقَعَ ٱلْحَقُّ وَبَطَلَ مَا كَانُوا۟ يَعْمَلُونَ",
+    "arabic2": "فوقع الحق وبطل ما كانوا يعملون",
+    "bengali": "ফলে সত্য প্রকাশ হয়ে গেল এবং তারা যা কিছু করছিল তা বাতিল হয়ে গেল।",
+    "urdu": "(پھر) تو حق ثابت ہوگیا اور جو کچھ فرعونی کرتے تھے، باطل ہوگیا"
+}

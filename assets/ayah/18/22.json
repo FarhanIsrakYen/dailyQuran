@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Kahf",
+    "surahNameArabic": "الكهف",
+    "surahNameArabicLong": "سورة الكهف",
+    "surahNameTranslation": "The Cave",
+    "revelationPlace": "Mecca",
+    "totalAyah": 110,
+    "surahNo": 18,
+    "ayahNo": 22,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/18_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/018022.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/18_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/018022.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/18_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/018022.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/18_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/018022.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/18_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/018022.mp3"
+        }
+    },
+    "english": "Some will say, “They were three, their dog was the fourth,” while others will say, “They were five, their dog was the sixth,” ˹only˺ guessing blindly. And others will say, “They were seven and their dog was the eighth.” Say, ˹O Prophet,˺ “My Lord knows best their ˹exact˺ number. Only a few people know as well.” So do not argue about them except with sure knowledge, nor consult any of those ˹who debate˺ about them.",
+    "arabic1": "سَيَقُولُونَ ثَلَـٰثَةٌ رَّابِعُهُمْ كَلْبُهُمْ وَيَقُولُونَ خَمْسَةٌ سَادِسُهُمْ كَلْبُهُمْ رَجْمًۢا بِٱلْغَيْبِ ۖ وَيَقُولُونَ سَبْعَةٌ وَثَامِنُهُمْ كَلْبُهُمْ ۚ قُل رَّبِّىٓ أَعْلَمُ بِعِدَّتِهِم مَّا يَعْلَمُهُمْ إِلَّا قَلِيلٌ ۗ فَلَا تُمَارِ فِيهِمْ إِلَّا مِرَآءً ظَـٰهِرًا وَلَا تَسْتَفْتِ فِيهِم مِّنْهُمْ أَحَدًا",
+    "arabic2": "سيقولون ثلاثة رابعهم كلبهم ويقولون خمسة سادسهم كلبهم رجما بالغيب ويقولون سبعة وثامنهم كلبهم قل ربي اعلم بعدتهم ما يعلمهم الا قليل فلا تمار فيهم الا مراء ظاهرا ولا تستفت فيهم منهم احدا",
+    "bengali": "বিতর্ককারীরা বলবে, ‘তারা ছিল তিন জন, চতুর্থ হল তাদের কুকুর’। আর কতক বলবে, ‘তারা ছিল পাঁচজন, ষষ্ঠ হল তাদের কুকুর’। এসবই অজানা বিষয়ে অনুমান করে। আর কেউ কেউ বলবে, ‘তারা ছিল সাত জন; অষ্টম হল তাদের কুকুর’। বল, ‘আমার রবই তাদের সংখ্যা সম্পর্কে অধিক জ্ঞাত’। কম সংখ্যক লোকই তাদেরকে জানে। সুতরাং স্পষ্ট আলোচনা ছাড়া তুমি তাদের ব্যাপারে বিতর্ক করো না। আর তাদের ব্যাপারে লোকদের মধ্যে কারো কাছে জানতে চেয়ো না।",
+    "urdu": "(بعض لوگ) اٹکل پچو کہیں گے کہ وہ تین تھے (اور) چوتھا ان کا کتّا تھا۔ اور (بعض) کہیں گے کہ وہ پانچ تھے اور چھٹا ان کا کتّا تھا۔ اور (بعض) کہیں گے کہ وہ سات تھے اور آٹھواں ان کا کتّا تھا۔ کہہ دو کہ میرا پروردگار ہی ان کے شمار سے خوب واقف ہے ان کو جانتے بھی ہیں تو تھوڑے ہی لوگ (جانتے ہیں) تو تم ان (کے معاملے) میں گفتگو نہ کرنا مگر سرسری سی گفتگو۔ اور نہ ان کے بارے میں ان میں کسی سے کچھ دریافت ہی کرنا"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Taghaabun",
+    "surahNameArabic": "التغابن",
+    "surahNameArabicLong": "سورة التغابن",
+    "surahNameTranslation": "Mutual Disillusion",
+    "revelationPlace": "Madina",
+    "totalAyah": 18,
+    "surahNo": 64,
+    "ayahNo": 1,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/64_1.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/064001.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/64_1.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/064001.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/64_1.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/064001.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/64_1.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/064001.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/64_1.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/064001.mp3"
+        }
+    },
+    "english": "Whatever is in the heavens and whatever is on the earth ˹constantly˺ glorifies Allah. The kingdom is His, and all praise is for Him. For He is Most Capable of everything.",
+    "arabic1": "يُسَبِّحُ لِلَّهِ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۖ لَهُ ٱلْمُلْكُ وَلَهُ ٱلْحَمْدُ ۖ وَهُوَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+    "arabic2": "يسبح لله ما في السماوات وما في الارض له الملك وله الحمد وهو على كل شيء قدير",
+    "bengali": "যা কিছু রয়েছে আসমানসমূহে এবং যা কিছু রয়েছে যমীনে, সবই আল্লাহর জন্য পবিত্রতা ঘোষণা করে। বাদশাহী তাঁরই এবং প্রশংসা তাঁরই। তিনি সর্ব বিষয়ে সর্বশক্তিমান।",
+    "urdu": "جو چیز آسمانوں میں ہے اور جو چیز زمین میں ہے (سب) خدا کی تسبیح کرتی ہے۔ اسی کی سچی بادشاہی ہے اور اسی کی تعریف (لامتناہی) ہے اور وہ ہر چیز پر قادر ہے"
+}

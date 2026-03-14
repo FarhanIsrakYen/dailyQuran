@@ -1,0 +1,42 @@
+{
+    "surahName": "Yusuf",
+    "surahNameArabic": "يوسف",
+    "surahNameArabicLong": "سورة يوسف",
+    "surahNameTranslation": "Joseph",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 12,
+    "ayahNo": 61,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/12_61.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/012061.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/12_61.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/012061.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/12_61.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/012061.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/12_61.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/012061.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/12_61.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/012061.mp3"
+        }
+    },
+    "english": "They promised, “We will try to convince his father to let him come. We will certainly do ˹our best˺.”",
+    "arabic1": "قَالُوا۟ سَنُرَٰوِدُ عَنْهُ أَبَاهُ وَإِنَّا لَفَـٰعِلُونَ",
+    "arabic2": "قالوا سنراود عنه اباه وانا لفاعلون",
+    "bengali": "তারা বলল, ‘তার বিষয়ে আমরা তার পিতাকে রাজি করাব, আর এটি আমরা করবই’।",
+    "urdu": "انہوں نے کہا کہ ہم اس کے بارے میں اس کے والد سے تذکرہ کریں گے اور ہم (یہ کام) کرکے رہیں گے"
+}

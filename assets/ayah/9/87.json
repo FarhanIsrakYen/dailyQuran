@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 87,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/9_87.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/009087.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/9_87.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/009087.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/9_87.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/009087.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/9_87.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/009087.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/9_87.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/009087.mp3"
+        }
+    },
+    "english": "They preferred to stay behind with the helpless, and their hearts have been sealed so they do not comprehend.",
+    "arabic1": "رَضُوا۟ بِأَن يَكُونُوا۟ مَعَ ٱلْخَوَالِفِ وَطُبِعَ عَلَىٰ قُلُوبِهِمْ فَهُمْ لَا يَفْقَهُونَ",
+    "arabic2": "رضوا بان يكونوا مع الخوالف وطبع على قلوبهم فهم لا يفقهون",
+    "bengali": "তারা পেছনে থাকা লোকদের সাথে থাকা বেছে নিল এবং তাদের অন্তরসমূহের উপর মোহর এঁটে দেয়া হল, ফলে তারা বুঝতে পারে না ।",
+    "urdu": "یہ اس بات سے خوش ہیں کہ عورتوں کے ساتھ جو پیچھے رہ جاتی ہیں۔ (گھروں میں بیٹھ) رہیں ان کے دلوں پر مہر لگا دی گئی ہے تو یہ سمجھتے ہی نہیں"
+}

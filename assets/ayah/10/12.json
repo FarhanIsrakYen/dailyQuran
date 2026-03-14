@@ -1,0 +1,42 @@
+{
+    "surahName": "Yunus",
+    "surahNameArabic": "يونس",
+    "surahNameArabicLong": "سورة يونس",
+    "surahNameTranslation": "Jonas",
+    "revelationPlace": "Mecca",
+    "totalAyah": 109,
+    "surahNo": 10,
+    "ayahNo": 12,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/10_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/010012.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/10_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/010012.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/10_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/010012.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/10_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/010012.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/10_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/010012.mp3"
+        }
+    },
+    "english": "Whenever someone is touched by hardship, they cry out to Us, whether lying on their side, sitting, or standing. But when We relieve their hardship, they return to their old ways as if they had never cried to Us to remove any hardship! This is how the misdeeds of the transgressors have been made appealing to them.",
+    "arabic1": "وَإِذَا مَسَّ ٱلْإِنسَـٰنَ ٱلضُّرُّ دَعَانَا لِجَنۢبِهِۦٓ أَوْ قَاعِدًا أَوْ قَآئِمًا فَلَمَّا كَشَفْنَا عَنْهُ ضُرَّهُۥ مَرَّ كَأَن لَّمْ يَدْعُنَآ إِلَىٰ ضُرٍّ مَّسَّهُۥ ۚ كَذَٰلِكَ زُيِّنَ لِلْمُسْرِفِينَ مَا كَانُوا۟ يَعْمَلُونَ",
+    "arabic2": "واذا مس الانسان الضر دعانا لجنبه او قاعدا او قائما فلما كشفنا عنه ضره مر كان لم يدعنا الى ضر مسه كذلك زين للمسرفين ما كانوا يعملون",
+    "bengali": "আর যখন মানুষকে বিপদ স্পর্শ করে, তখন সে শুয়ে, বসে বা দাঁড়িয়ে আমাকে ডাকে। অতঃপর আমি যখন তার বিপদ দূর করে দেই, তখন সে এমনভাবে চলতে থাকে মনে হয় যেন তাকে কোন বিপদ স্পর্শ করার কারণে সে আমাকে ডাকেনি। এভাবেই সীমালঙ্ঘনকারীদের জন্য তারা যা আমল করত তা শোভিত করে দেয়া হয়েছে।",
+    "urdu": "اور جب انسان کو تکلیف پہنچتی ہے تو لیٹا اور بیٹھا اور کھڑا (ہر حال میں) ہمیں پکارتا ہے۔ پھر جب ہم اس تکلیف کو اس سے دور کر دیتے ہیں تو (بےلحاظ ہو جاتا ہے اور) اس طرح گزر جاتا ہے گویا کسی تکلیف پہنچنے پر ہمیں کبھی پکارا ہی نہ تھا۔ اسی طرح حد سے نکل جانے والوں کو ان کے اعمال آراستہ کرکے دکھائے گئے ہیں"
+}

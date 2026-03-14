@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Mumtahana",
+    "surahNameArabic": "الممتحنة",
+    "surahNameArabicLong": "سورة الممتحنة",
+    "surahNameTranslation": "She that is to be examined",
+    "revelationPlace": "Madina",
+    "totalAyah": 13,
+    "surahNo": 60,
+    "ayahNo": 3,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/60_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/060003.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/60_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/060003.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/60_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/060003.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/60_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/060003.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/60_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/060003.mp3"
+        }
+    },
+    "english": "Neither your relatives nor children will benefit you on Judgment Day—He will decide between you ˹all˺. For Allah is All-Seeing of what you do.",
+    "arabic1": "لَن تَنفَعَكُمْ أَرْحَامُكُمْ وَلَآ أَوْلَـٰدُكُمْ ۚ يَوْمَ ٱلْقِيَـٰمَةِ يَفْصِلُ بَيْنَكُمْ ۚ وَٱللَّهُ بِمَا تَعْمَلُونَ بَصِيرٌ",
+    "arabic2": "لن تنفعكم ارحامكم ولا اولادكم يوم القيامة يفصل بينكم والله بما تعملون بصير",
+    "bengali": "কিয়ামত দিবসে তোমাদের আত্নীয়তা ও সন্তান-সন্ততি তোমাদের কোন উপকার করতে পারবে না। তিনি তোমাদের মাঝে ফায়সালা করে দেবেন। তোমরা যা কর আল্লাহ তার সম্যক দ্রষ্টা।",
+    "urdu": "قیامت کے دن نہ تمہارے رشتے ناتے کام آئیں گے اور نہ اولاد۔ اس روز وہی تم میں فیصلہ کرے گا۔ اور جو کچھ تم کرتے ہو خدا اس کو دیکھتا ہے"
+}

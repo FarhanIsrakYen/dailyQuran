@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Qasas",
+    "surahNameArabic": "القصص",
+    "surahNameArabicLong": "سورة القصص",
+    "surahNameTranslation": "The Stories",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 28,
+    "ayahNo": 73,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/28_73.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/028073.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/28_73.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/028073.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/28_73.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/028073.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/28_73.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/028073.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/28_73.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/028073.mp3"
+        }
+    },
+    "english": "It is out of His mercy that He has made for you the day and night so that you may rest ˹in the latter˺ and seek His bounty ˹in the former˺, and perhaps you will be grateful.",
+    "arabic1": "وَمِن رَّحْمَتِهِۦ جَعَلَ لَكُمُ ٱلَّيْلَ وَٱلنَّهَارَ لِتَسْكُنُوا۟ فِيهِ وَلِتَبْتَغُوا۟ مِن فَضْلِهِۦ وَلَعَلَّكُمْ تَشْكُرُونَ",
+    "arabic2": "ومن رحمته جعل لكم الليل والنهار لتسكنوا فيه ولتبتغوا من فضله ولعلكم تشكرون",
+    "bengali": "আর তাঁর অনুগ্রহে তিনি তোমাদের জন্য রাত ও দিন করেছেন যাতে তোমরা বিশ্রাম নিতে পার এবং তাঁর অনুগ্রহ সন্ধান করতে পার এবং যেন তোমরা শোকর আদায় করতে পার।",
+    "urdu": "اور اس نے اپنی رحمت سے تمہارے لئے رات کو اور دن کو بنایا تاکہ تم اس میں آرام کرو اور اس میں اس کا فضل تلاش کرو اور تاکہ شکر کرو"
+}

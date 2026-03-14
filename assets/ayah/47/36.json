@@ -1,0 +1,42 @@
+{
+    "surahName": "Muhammad",
+    "surahNameArabic": "محمد",
+    "surahNameArabicLong": "سورة محمد",
+    "surahNameTranslation": "Muhammad",
+    "revelationPlace": "Madina",
+    "totalAyah": 38,
+    "surahNo": 47,
+    "ayahNo": 36,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/47_36.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/047036.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/47_36.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/047036.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/47_36.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/047036.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/47_36.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/047036.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/47_36.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/047036.mp3"
+        }
+    },
+    "english": "This worldly life is no more than play and amusement. But if you are faithful and mindful ˹of Allah˺, He will grant you your ˹full˺ reward, and will not ask you ˹to donate all˺ your wealth.",
+    "arabic1": "إِنَّمَا ٱلْحَيَوٰةُ ٱلدُّنْيَا لَعِبٌ وَلَهْوٌ ۚ وَإِن تُؤْمِنُوا۟ وَتَتَّقُوا۟ يُؤْتِكُمْ أُجُورَكُمْ وَلَا يَسْـَٔلْكُمْ أَمْوَٰلَكُمْ",
+    "arabic2": "انما الحياة الدنيا لعب ولهو وان تؤمنوا وتتقوا يؤتكم اجوركم ولا يسالكم اموالكم",
+    "bengali": "দুনিয়ার জীবন তো কেবল খেল-তামাশা ও অর্থহীন কথাবার্তা। আর যদি তোমরা ঈমান আন এবং তাকওয়া অবলম্বন কর, তবে তিনি তোমাদেরকে তোমাদের প্রতিদান দিবেন এবং তিনি তোমাদের কাছে ধন-সম্পদ চাইবেন না।",
+    "urdu": "دنیا کی زندگی تو محض کھیل اور تماشا ہے۔ اور اگر تم ایمان لاؤ گے اور پرہیزگاری کرو گے تو وہ تم کو تمہارا اجر دے گا۔ اور تم سے تمہارا مال طلب نہیں کرے گا"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Ankaboot",
+    "surahNameArabic": "العنكبوت",
+    "surahNameArabicLong": "سورة العنكبوت",
+    "surahNameTranslation": "The Spider",
+    "revelationPlace": "Mecca",
+    "totalAyah": 69,
+    "surahNo": 29,
+    "ayahNo": 49,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/29_49.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/029049.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/29_49.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/029049.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/29_49.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/029049.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/29_49.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/029049.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/29_49.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/029049.mp3"
+        }
+    },
+    "english": "But this ˹Quran˺ is ˹a set of˺ clear revelations ˹preserved˺ in the hearts of those gifted with knowledge. And none denies Our revelations except the ˹stubborn˺ wrongdoers.",
+    "arabic1": "بَلْ هُوَ ءَايَـٰتٌۢ بَيِّنَـٰتٌ فِى صُدُورِ ٱلَّذِينَ أُوتُوا۟ ٱلْعِلْمَ ۚ وَمَا يَجْحَدُ بِـَٔايَـٰتِنَآ إِلَّا ٱلظَّـٰلِمُونَ",
+    "arabic2": "بل هو ايات بينات في صدور الذين اوتوا العلم وما يجحد باياتنا الا الظالمون",
+    "bengali": "বরং যাদেরকে জ্ঞান দেয়া হয়েছে, তাদের অন্তরে তা সুস্পষ্ট নিদর্শন। আর যালিমরা ছাড়া আমার আয়াতসমূহকে কেউ অস্বীকার করে না।",
+    "urdu": "بلکہ یہ روشن آیتیں ہیں۔ جن لوگوں کو علم دیا گیا ہے اُن کے سینوں میں (محفوظ) اور ہماری آیتوں سے وہی لوگ انکار کرتے ہیں جو بےانصاف ہیں"
+}

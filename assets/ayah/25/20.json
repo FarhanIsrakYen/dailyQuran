@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Furqaan",
+    "surahNameArabic": "الفرقان",
+    "surahNameArabicLong": "سورة الفرقان",
+    "surahNameTranslation": "The Criterion",
+    "revelationPlace": "Mecca",
+    "totalAyah": 77,
+    "surahNo": 25,
+    "ayahNo": 20,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/25_20.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/025020.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/25_20.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/025020.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/25_20.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/025020.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/25_20.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/025020.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/25_20.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/025020.mp3"
+        }
+    },
+    "english": "We never sent any messenger before you ˹O Prophet˺, who did not eat food and go about in market-places. We have made some of you a trial for others. Will you ˹not then˺ be patient? And your Lord is All-Seeing.",
+    "arabic1": "وَمَآ أَرْسَلْنَا قَبْلَكَ مِنَ ٱلْمُرْسَلِينَ إِلَّآ إِنَّهُمْ لَيَأْكُلُونَ ٱلطَّعَامَ وَيَمْشُونَ فِى ٱلْأَسْوَاقِ ۗ وَجَعَلْنَا بَعْضَكُمْ لِبَعْضٍ فِتْنَةً أَتَصْبِرُونَ ۗ وَكَانَ رَبُّكَ بَصِيرًا",
+    "arabic2": "وما ارسلنا قبلك من المرسلين الا انهم لياكلون الطعام ويمشون في الاسواق وجعلنا بعضكم لبعض فتنة اتصبرون وكان ربك بصيرا",
+    "bengali": "আর তোমার পূর্বে যত নবী আমি পাঠিয়েছি, তারা সবাই আহার করত এবং হাট-বাজারে চলাফেরা করত। আমি তোমাদের একজনকে অপরজনের জন্য পরীক্ষাস্বরূপ করেছি। তোমরা কি ধৈর্যধারণ করবে? আর তোমার রব সর্বদ্রষ্টা।",
+    "urdu": "اور ہم نے تم سے پہلے جتنے پیغمبر بھیجے ہیں سب کھانا کھاتے تھے اور بازاروں میں چلتے پھرتے تھے۔ اور ہم نے تمہیں ایک دوسرے کے لئے آزمائش بنایا ہے۔ کیا تم صبر کرو گے۔ اور تمہارا پروردگار تو دیکھنے والا ہے"
+}

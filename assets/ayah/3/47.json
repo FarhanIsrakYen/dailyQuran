@@ -1,0 +1,42 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 47,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/3_47.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/003047.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/3_47.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/003047.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/3_47.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/003047.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/3_47.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/003047.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/3_47.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/003047.mp3"
+        }
+    },
+    "english": "Mary wondered, “My Lord! How can I have a child when no man has ever touched me?” An angel replied, “So will it be. Allah creates what He wills. When He decrees a matter, He simply tells it, ‘Be!’ And it is!",
+    "arabic1": "قَالَتْ رَبِّ أَنَّىٰ يَكُونُ لِى وَلَدٌ وَلَمْ يَمْسَسْنِى بَشَرٌ ۖ قَالَ كَذَٰلِكِ ٱللَّهُ يَخْلُقُ مَا يَشَآءُ ۚ إِذَا قَضَىٰٓ أَمْرًا فَإِنَّمَا يَقُولُ لَهُۥ كُن فَيَكُونُ",
+    "arabic2": "قالت رب انى يكون لي ولد ولم يمسسني بشر قال كذلك الله يخلق ما يشاء اذا قضى امرا فانما يقول له كن فيكون",
+    "bengali": "মারইয়াম বলল, ‘হে আমার রব, কিভাবে আমার সন্তান হবে? অথচ কোন মানুষ আমাকে স্পর্শ করেনি’! আল্লাহ বললেন, ‘এভাবেই’ আল্লাহ যা চান সৃষ্টি করেন। তিনি যখন কোন বিষয়ের সিদ্ধান্ত নেন, তখন তাকে শুধু বলেন, ‘হও’। ফলে তা হয়ে যায়।",
+    "urdu": "مریم نے کہا پروردگار میرے ہاں بچہ کیونکر ہوگا کہ کسی انسان نے مجھے ہاتھ تک تو لگایا نہیں فرمایا کہ خدا اسی طرح جو چاہتا ہے پیدا کرتا ہے جب وہ کوئی کام کرنا چاہتا ہے تو ارشاد فرما دیتا ہے کہ ہوجا تو وہ ہو جاتا ہے"
+}

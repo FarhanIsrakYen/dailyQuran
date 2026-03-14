@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Noor",
+    "surahNameArabic": "النور",
+    "surahNameArabicLong": "سورة النور",
+    "surahNameTranslation": "The Light",
+    "revelationPlace": "Madina",
+    "totalAyah": 64,
+    "surahNo": 24,
+    "ayahNo": 3,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/24_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/024003.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/24_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/024003.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/24_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/024003.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/24_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/024003.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/24_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/024003.mp3"
+        }
+    },
+    "english": "A male fornicator would only marry a female fornicator or idolatress. And a female fornicator would only be married to a fornicator or idolater. This is ˹all˺ forbidden to the believers.",
+    "arabic1": "ٱلزَّانِى لَا يَنكِحُ إِلَّا زَانِيَةً أَوْ مُشْرِكَةً وَٱلزَّانِيَةُ لَا يَنكِحُهَآ إِلَّا زَانٍ أَوْ مُشْرِكٌ ۚ وَحُرِّمَ ذَٰلِكَ عَلَى ٱلْمُؤْمِنِينَ",
+    "arabic2": "الزاني لا ينكح الا زانية او مشركة والزانية لا ينكحها الا زان او مشرك وحرم ذلك على المؤمنين",
+    "bengali": "ব্যভিচারী কেবল ব্যভিচারিণী অথবা মুশরিক নারীকে ছাড়া বিয়ে করবে না এবং ব্যভিচারিণীকে কেবল ব্যভিচারী অথবা মুশরিক ছাড়া বিয়ে করবে না। আর মুমিনদের উপর এটা হারাম করা হয়েছে।",
+    "urdu": "بدکار مرد تو بدکار یا مشرک عورت کے سوا نکاح نہیں کرتا اور بدکار عورت کو بھی بدکار یا مشرک مرد کے سوا اور کوئی نکاح میں نہیں لاتا اور یہ (یعنی بدکار عورت سے نکاح کرنا) مومنوں پر حرام ہے"
+}

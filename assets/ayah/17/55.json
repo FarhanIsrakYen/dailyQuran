@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 55,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/17_55.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/017055.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/17_55.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/017055.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/17_55.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/017055.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/17_55.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/017055.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/17_55.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/017055.mp3"
+        }
+    },
+    "english": "Your Lord knows best all those in the heavens and the earth. And We have surely favoured some prophets above others, and to David We gave the Psalms.",
+    "arabic1": "وَرَبُّكَ أَعْلَمُ بِمَن فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۗ وَلَقَدْ فَضَّلْنَا بَعْضَ ٱلنَّبِيِّـۧنَ عَلَىٰ بَعْضٍ ۖ وَءَاتَيْنَا دَاوُۥدَ زَبُورًا",
+    "arabic2": "وربك اعلم بمن في السماوات والارض ولقد فضلنا بعض النبيين على بعض واتينا داوود زبورا",
+    "bengali": "আর তোমার রব অধিক অবগত তাদের সম্পর্কে যারা আসমানসমূহ ও যমীনে রয়েছে। আর আমি তো কতক নবীকে কতকের উপর শ্রেষ্ঠত্ব দিয়েছি এবং দাঊদকে দিয়েছি যাবূর।",
+    "urdu": "اور جو لوگ آسمانوں اور زمین میں ہیں تمہارا پروردگار ان سے خوب واقف ہے۔ اور ہم نے بعض پیغمبروں کو بعض پر فضیلت بخشی اور داؤد کو زبور عنایت کی"
+}

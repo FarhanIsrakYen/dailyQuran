@@ -1,0 +1,42 @@
+{
+    "surahName": "Ar-Room",
+    "surahNameArabic": "الروم",
+    "surahNameArabicLong": "سورة الروم",
+    "surahNameTranslation": "The Romans",
+    "revelationPlace": "Mecca",
+    "totalAyah": 60,
+    "surahNo": 30,
+    "ayahNo": 57,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/30_57.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/030057.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/30_57.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/030057.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/30_57.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/030057.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/30_57.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/030057.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/30_57.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/030057.mp3"
+        }
+    },
+    "english": "So on that Day the wrongdoers’ excuses will not benefit them, nor will they be allowed to appease ˹their Lord˺.",
+    "arabic1": "فَيَوْمَئِذٍ لَّا يَنفَعُ ٱلَّذِينَ ظَلَمُوا۟ مَعْذِرَتُهُمْ وَلَا هُمْ يُسْتَعْتَبُونَ",
+    "arabic2": "فيومئذ لا ينفع الذين ظلموا معذرتهم ولا هم يستعتبون",
+    "bengali": "অতঃপর যারা যুলম করেছে, সেদিন তাদের কোন ওযর-আপত্তি উপকারে আসবে না এবং (আল্লাহকে) সন্তুষ্ট করতেও তাদেরকে বলা হবে না।",
+    "urdu": "تو اس روز ظالم لوگوں کو ان کا عذر کچھ فائدہ نہ دے گا اور نہ اُن سے توبہ قبول کی جائے گی"
+}

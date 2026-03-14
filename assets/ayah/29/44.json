@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Ankaboot",
+    "surahNameArabic": "العنكبوت",
+    "surahNameArabicLong": "سورة العنكبوت",
+    "surahNameTranslation": "The Spider",
+    "revelationPlace": "Mecca",
+    "totalAyah": 69,
+    "surahNo": 29,
+    "ayahNo": 44,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/29_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/029044.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/29_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/029044.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/29_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/029044.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/29_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/029044.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/29_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/029044.mp3"
+        }
+    },
+    "english": "Allah created the heavens and the earth for a purpose. Surely in this is a sign for the people of faith.",
+    "arabic1": "خَلَقَ ٱللَّهُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ بِٱلْحَقِّ ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَةً لِّلْمُؤْمِنِينَ",
+    "arabic2": "خلق الله السماوات والارض بالحق ان في ذلك لاية للمؤمنين",
+    "bengali": "আল্লাহ যথাযথভাবে আসমানসমূহ ও যমীন সৃষ্টি করেছেন; নিশ্চয় এতে নিদর্শন রয়েছে মুমিনদের জন্য।",
+    "urdu": "خدا نے آسمانوں اور زمین کو حکمت کے ساتھ پیدا کیا ہے۔ کچھ شک نہیں کہ ایمان والوں کے لئے اس میں نشانی ہے"
+}

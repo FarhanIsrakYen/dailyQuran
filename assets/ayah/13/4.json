@@ -1,0 +1,42 @@
+{
+    "surahName": "Ar-Ra'd",
+    "surahNameArabic": "الرعد",
+    "surahNameArabicLong": "سورة الرعد",
+    "surahNameTranslation": "The Thunder",
+    "revelationPlace": "Madina",
+    "totalAyah": 43,
+    "surahNo": 13,
+    "ayahNo": 4,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/13_4.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/013004.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/13_4.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/013004.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/13_4.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/013004.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/13_4.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/013004.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/13_4.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/013004.mp3"
+        }
+    },
+    "english": "And on the earth there are ˹different˺ neighbouring tracts, gardens of grapevines, ˹various˺ crops, palm trees—some stemming from the same root, others standing alone. They are all irrigated with the same water, yet We make some taste better than others. Surely in this are signs for those who understand.",
+    "arabic1": "وَفِى ٱلْأَرْضِ قِطَعٌ مُّتَجَـٰوِرَٰتٌ وَجَنَّـٰتٌ مِّنْ أَعْنَـٰبٍ وَزَرْعٌ وَنَخِيلٌ صِنْوَانٌ وَغَيْرُ صِنْوَانٍ يُسْقَىٰ بِمَآءٍ وَٰحِدٍ وَنُفَضِّلُ بَعْضَهَا عَلَىٰ بَعْضٍ فِى ٱلْأُكُلِ ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍ لِّقَوْمٍ يَعْقِلُونَ",
+    "arabic2": "وفي الارض قطع متجاورات وجنات من اعناب وزرع ونخيل صنوان وغير صنوان يسقى بماء واحد ونفضل بعضها على بعض في الاكل ان في ذلك لايات لقوم يعقلون",
+    "bengali": "আর যমীনে আছে পরস্পর পাশাপাশি ভূখন্ড, আঙ্গুর-বাগান, শস্যক্ষেত, খেজুর গাছ, যেগুলোর মধ্যে কিছু একই মূল থেকে উদগত আর কিছু ভিন্ন ভিন্ন মূল থেকে উদগত, যেগুলো একই পানি দ্বারা সেচ করা হয়, আর আমি খাওয়ার ক্ষেত্রে একটিকে অপরটির তুলনায় উৎকৃষ্ট করে দেই, এতে নিদর্শন রয়েছে ঐ কওমের জন্য যারা বুঝে।",
+    "urdu": "اور زمین میں کئی طرح کے قطعات ہیں۔ ایک دوسرے سے ملے ہوئے اور انگور کے باغ اور کھیتی اور کھجور کے درخت۔ بعض کی بہت سی شاخیں ہوتی ہیں اور بعض کی اتنی نہیں ہوتیں (باوجود یہ کہ) پانی سب کو ایک ہی ملتا ہے۔ اور ہم بعض میوؤں کو بعض پر لذت میں فضیلت دیتے ہیں۔ اس میں سمجھنے والوں کے لیے بہت سی نشانیاں ہیں"
+}

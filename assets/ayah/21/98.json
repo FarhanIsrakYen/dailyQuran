@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Anbiyaa",
+    "surahNameArabic": "الأنبياء",
+    "surahNameArabicLong": "سورة الأنبياء",
+    "surahNameTranslation": "The Prophets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 112,
+    "surahNo": 21,
+    "ayahNo": 98,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/21_98.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/021098.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/21_98.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/021098.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/21_98.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/021098.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/21_98.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/021098.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/21_98.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/021098.mp3"
+        }
+    },
+    "english": "Certainly you ˹disbelievers˺ and whatever you worship instead of Allah will be the fuel of Hell. You are ˹all˺ bound to enter it.",
+    "arabic1": "إِنَّكُمْ وَمَا تَعْبُدُونَ مِن دُونِ ٱللَّهِ حَصَبُ جَهَنَّمَ أَنتُمْ لَهَا وَٰرِدُونَ",
+    "arabic2": "انكم وما تعبدون من دون الله حصب جهنم انتم لها واردون",
+    "bengali": "নিশ্চয় তোমরা এবং আল্লাহ ছাড়া তোমরা যাদের পূজা কর, সেগুলো তো জাহান্নামের জ্বালানী। তোমরা সেখানে প্রবেশ করবে।",
+    "urdu": "(کافرو اس روز) تم اور جن کی تم خدا کے سوا عبادت کرتے ہو دوزخ کا ایندھن ہوں گے۔ اور تم سب اس میں داخل ہو کر رہو گے"
+}

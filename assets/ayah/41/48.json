@@ -1,0 +1,42 @@
+{
+    "surahName": "Fussilat",
+    "surahNameArabic": "فصلت",
+    "surahNameArabicLong": "سورة فصلت",
+    "surahNameTranslation": "Explained in detail",
+    "revelationPlace": "Mecca",
+    "totalAyah": 54,
+    "surahNo": 41,
+    "ayahNo": 48,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/41_48.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/041048.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/41_48.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/041048.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/41_48.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/041048.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/41_48.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/041048.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/41_48.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/041048.mp3"
+        }
+    },
+    "english": "Whatever ˹idols˺ they used to invoke besides Allah will fail them. And they will realize that they will have no escape.",
+    "arabic1": "وَضَلَّ عَنْهُم مَّا كَانُوا۟ يَدْعُونَ مِن قَبْلُ ۖ وَظَنُّوا۟ مَا لَهُم مِّن مَّحِيصٍ",
+    "arabic2": "وضل عنهم ما كانوا يدعون من قبل وظنوا ما لهم من محيص",
+    "bengali": "আর পূর্বে যাদেরকে তারা ডাকত তারা তাদের কাছ থেকে উধাও হয়ে যাবে এবং তারা বিশ্বাস করবে, তাদের পলায়নের কোন জায়গা নেই।",
+    "urdu": "اور جن کو پہلے وہ (خدا کے سوا) پکارا کرتے تھے (سب) ان سے غائب ہوجائیں گے اور وہ یقین کرلیں گے کہ ان کے لئے مخلصی نہیں"
+}

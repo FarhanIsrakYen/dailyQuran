@@ -1,0 +1,42 @@
+{
+    "surahName": "Ghafir",
+    "surahNameArabic": "غافر",
+    "surahNameArabicLong": "سورة غافر",
+    "surahNameTranslation": "The Forgiver",
+    "revelationPlace": "Mecca",
+    "totalAyah": 85,
+    "surahNo": 40,
+    "ayahNo": 20,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/40_20.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/040020.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/40_20.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/040020.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/40_20.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/040020.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/40_20.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/040020.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/40_20.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/040020.mp3"
+        }
+    },
+    "english": "And Allah judges with the truth, while those ˹idols˺ they invoke besides Him cannot judge at all. Indeed, Allah ˹alone˺ is the All-Hearing, All-Seeing.",
+    "arabic1": "وَٱللَّهُ يَقْضِى بِٱلْحَقِّ ۖ وَٱلَّذِينَ يَدْعُونَ مِن دُونِهِۦ لَا يَقْضُونَ بِشَىْءٍ ۗ إِنَّ ٱللَّهَ هُوَ ٱلسَّمِيعُ ٱلْبَصِيرُ",
+    "arabic2": "والله يقضي بالحق والذين يدعون من دونه لا يقضون بشيء ان الله هو السميع البصير",
+    "bengali": "আর আল্লাহ সঠিকভাবে ফয়সালা করেন এবং তাঁকে বাদ দিয়ে তারা যাদের ডাকে তারা কোন কিছুর ফয়সালা করতে পারবে না। নিশ্চয় আল্লাহ, তিনিই সর্বশ্রোতা, সর্বদ্রষ্টা।",
+    "urdu": "اور خدا سچائی کے ساتھ حکم فرماتا ہے اور جن کو یہ لوگ پکارتے ہیں وہ کچھ بھی حکم نہیں دے سکتے۔ بےشک خدا سننے والا (اور) دیکھنے والا ہے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 43,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/9_43.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/009043.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/9_43.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/009043.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/9_43.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/009043.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/9_43.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/009043.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/9_43.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/009043.mp3"
+        }
+    },
+    "english": "May Allah pardon you ˹O Prophet˺! Why did you give them permission ˹to stay behind˺ before those who told the truth were distinguished from those who were lying?",
+    "arabic1": "عَفَا ٱللَّهُ عَنكَ لِمَ أَذِنتَ لَهُمْ حَتَّىٰ يَتَبَيَّنَ لَكَ ٱلَّذِينَ صَدَقُوا۟ وَتَعْلَمَ ٱلْكَـٰذِبِينَ",
+    "arabic2": "عفا الله عنك لم اذنت لهم حتى يتبين لك الذين صدقوا وتعلم الكاذبين",
+    "bengali": "আল্লাহ তোমাকে ক্ষমা করেছেন। তুমি তাদেরকে কেন অনুমতি দিলে, যতক্ষণ না তোমার কাছে স্পষ্ট হয় তারা যারা সত্য বলেছে এবং তুমি জেনে নাও মিথ্যাবাদীদেরকে।",
+    "urdu": "خدا تمہیں معاف کرے۔ تم نے پیشتر اس کے کہ تم پر وہ لوگ بھی ظاہر ہو جاتے ہیں جو سچے ہیں اور وہ بھی تمہیں معلوم ہو جاتے جو جھوٹے ہیں اُن کو اجازت کیوں دی"
+}

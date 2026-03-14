@@ -1,0 +1,42 @@
+{
+    "surahName": "Ash-Shura",
+    "surahNameArabic": "الشورى",
+    "surahNameArabicLong": "سورة الشورى",
+    "surahNameTranslation": "Consultation",
+    "revelationPlace": "Mecca",
+    "totalAyah": 53,
+    "surahNo": 42,
+    "ayahNo": 23,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/42_23.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/042023.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/42_23.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/042023.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/42_23.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/042023.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/42_23.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/042023.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/42_23.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/042023.mp3"
+        }
+    },
+    "english": "That ˹reward˺ is the good news which Allah gives to His servants who believe and do good. Say, ˹O Prophet,˺ “I do not ask you for a reward for this ˹message˺—only honour for ˹our˺ kinship.” Whoever earns a good deed, We will increase it in goodness for them. Surely Allah is All-Forgiving, Most Appreciative.",
+    "arabic1": "ذَٰلِكَ ٱلَّذِى يُبَشِّرُ ٱللَّهُ عِبَادَهُ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ ۗ قُل لَّآ أَسْـَٔلُكُمْ عَلَيْهِ أَجْرًا إِلَّا ٱلْمَوَدَّةَ فِى ٱلْقُرْبَىٰ ۗ وَمَن يَقْتَرِفْ حَسَنَةً نَّزِدْ لَهُۥ فِيهَا حُسْنًا ۚ إِنَّ ٱللَّهَ غَفُورٌ شَكُورٌ",
+    "arabic2": "ذلك الذي يبشر الله عباده الذين امنوا وعملوا الصالحات قل لا اسالكم عليه اجرا الا المودة في القربى ومن يقترف حسنة نزد له فيها حسنا ان الله غفور شكور",
+    "bengali": "এটা তাই, যার সুসংবাদ আল্লাহ তার বান্দাদেরকে দেন- যারা ঈমান আনে ও সৎকর্ম করে। বল, ‘আমি এর জন্য তোমাদের কাছে আত্মীয়তার সৌহার্দ ছাড়া অন্য কোন প্রতিদান চাই না’। যে উত্তম কাজ করে, আমি তার জন্য তাতে কল্যাণ বাড়িয়ে দেই। নিশ্চয় আল্লাহ অতি ক্ষমাশীল, বড়ই গুণগ্রাহী।",
+    "urdu": "یہی وہ (انعام ہے) جس کی خدا اپنے ان بندوں کو جو ایمان لاتے اور عمل نیک کرتے ہیں بشارت دیتا ہے۔ کہہ دو کہ میں اس کا تم سے صلہ نہیں مانگتا مگر (تم کو) قرابت کی محبت (تو چاہیئے) اور جو کوئی نیکی کرے گا ہم اس کے لئے اس میں ثواب بڑھائیں گے۔ بےشک خدا بخشنے والا قدردان ہے"
+}

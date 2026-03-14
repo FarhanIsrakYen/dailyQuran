@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nahl",
+    "surahNameArabic": "النحل",
+    "surahNameArabicLong": "سورة النحل",
+    "surahNameTranslation": "The Bee",
+    "revelationPlace": "Mecca",
+    "totalAyah": 128,
+    "surahNo": 16,
+    "ayahNo": 29,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/16_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/016029.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/16_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/016029.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/16_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/016029.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/16_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/016029.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/16_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/016029.mp3"
+        }
+    },
+    "english": "So enter the gates of Hell, to stay there forever. Indeed, what an evil home for the arrogant!”",
+    "arabic1": "فَٱدْخُلُوٓا۟ أَبْوَٰبَ جَهَنَّمَ خَـٰلِدِينَ فِيهَا ۖ فَلَبِئْسَ مَثْوَى ٱلْمُتَكَبِّرِينَ",
+    "arabic2": "فادخلوا ابواب جهنم خالدين فيها فلبئس مثوى المتكبرين",
+    "bengali": "সুতরাং তোমরা জাহান্নামের দরজাগুলো দিয়ে প্রবেশ কর, তাতে স্থায়ী হয়ে। অতএব অবশ্যই অহঙ্কারীদের আবাস অতিনিকৃষ্ট।",
+    "urdu": "سو دوزخ کے دروازوں میں داخل ہوجاؤ۔ ہمیشہ اس میں رہو گے۔ اب تکبر کرنے والوں کا برا ٹھکانا ہے"
+}

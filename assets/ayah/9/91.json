@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 91,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/9_91.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/009091.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/9_91.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/009091.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/9_91.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/009091.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/9_91.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/009091.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/9_91.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/009091.mp3"
+        }
+    },
+    "english": "There is no blame on the weak, the sick, or those lacking the means ˹if they stay behind˺, as long as they are true to Allah and His Messenger. There is no blame on the good-doers. And Allah is All-Forgiving, Most Merciful.",
+    "arabic1": "لَّيْسَ عَلَى ٱلضُّعَفَآءِ وَلَا عَلَى ٱلْمَرْضَىٰ وَلَا عَلَى ٱلَّذِينَ لَا يَجِدُونَ مَا يُنفِقُونَ حَرَجٌ إِذَا نَصَحُوا۟ لِلَّهِ وَرَسُولِهِۦ ۚ مَا عَلَى ٱلْمُحْسِنِينَ مِن سَبِيلٍ ۚ وَٱللَّهُ غَفُورٌ رَّحِيمٌ",
+    "arabic2": "ليس على الضعفاء ولا على المرضى ولا على الذين لا يجدون ما ينفقون حرج اذا نصحوا لله ورسوله ما على المحسنين من سبيل والله غفور رحيم",
+    "bengali": "কোন দোষ নেই দুর্বলদের উপর, অসুস্থদের উপর ও যারা দান করার মত কিছু পায় না তাদের উপর, যদি তারা আল্লাহ ও তাঁর রাসূলের হিতাকাঙ্ক্ষী হয়। সৎকর্মশীলদের উপর (অভিযোগের) কোন পথ নেই, আর আল্লাহ ক্ষমাশীল, পরম দয়ালু।",
+    "urdu": "نہ تو ضعیفوں پر کچھ گناہ ہے اور نہ بیماروں پر نہ ان پر جن کے پاس خرچ موجود نہیں (کہ شریک جہاد نہ ہوں یعنی) جب کہ خدا اور اس کے رسول کے خیراندیش (اور دل سے ان کے ساتھ) ہوں۔ نیکو کاروں پر کسی طرح کا الزام نہیں ہے۔ اور خدا بخشنے والا مہربان ہے"
+}

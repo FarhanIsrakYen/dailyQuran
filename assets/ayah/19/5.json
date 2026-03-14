@@ -1,0 +1,42 @@
+{
+    "surahName": "Maryam",
+    "surahNameArabic": "مريم",
+    "surahNameArabicLong": "سورة مريم",
+    "surahNameTranslation": "Mary",
+    "revelationPlace": "Mecca",
+    "totalAyah": 98,
+    "surahNo": 19,
+    "ayahNo": 5,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/19_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/019005.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/19_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/019005.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/19_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/019005.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/19_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/019005.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/19_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/019005.mp3"
+        }
+    },
+    "english": "And I am concerned about ˹the faith of˺ my relatives after me, since my wife is barren. So grant me, by Your grace, an heir",
+    "arabic1": "وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّا",
+    "arabic2": "واني خفت الموالي من ورائي وكانت امراتي عاقرا فهب لي من لدنك وليا",
+    "bengali": "‘আর আমার পরে স্বগোত্রীয়দের সম্পর্কে আমি আশংকাবোধ করছি। আমার স্ত্রী তো বন্ধ্যা, অতএব আপনি আমাকে আপনার পক্ষ থেকে একজন উত্তরাধিকারী দান করুন’।",
+    "urdu": "اور میں اپنے بعد اپنے بھائی بندوں سے ڈرتا ہوں اور میری بیوی بانجھ ہے تو مجھے اپنے پاس سے ایک وارث عطا فرما"
+}

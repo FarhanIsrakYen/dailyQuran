@@ -1,0 +1,42 @@
+{
+    "surahName": "Taa-Haa",
+    "surahNameArabic": "طه",
+    "surahNameArabicLong": "سورة طه",
+    "surahNameTranslation": "Taa-Haa",
+    "revelationPlace": "Mecca",
+    "totalAyah": 135,
+    "surahNo": 20,
+    "ayahNo": 55,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/20_55.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/020055.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/20_55.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/020055.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/20_55.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/020055.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/20_55.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/020055.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/20_55.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/020055.mp3"
+        }
+    },
+    "english": "From the earth We created you, and into it We will return you, and from it We will bring you back again.",
+    "arabic1": "۞ مِنْهَا خَلَقْنَـٰكُمْ وَفِيهَا نُعِيدُكُمْ وَمِنْهَا نُخْرِجُكُمْ تَارَةً أُخْرَىٰ",
+    "arabic2": "منها خلقناكم وفيها نعيدكم ومنها نخرجكم تارة اخرى",
+    "bengali": "মাটি থেকেই আমি তোমাদেরকে সৃষ্টি করেছি, মাটিতেই আমি তোমাদেরকে ফিরিয়ে নেব এবং মাটি থেকেই তোমাদেরকে পুনরায় বের করে আনব।",
+    "urdu": "اسی (زمین) سے ہم تم کو پیدا کیا اور اسی میں تمہیں لوٹائیں گے اور اسی سے دوسری دفعہ نکالیں گے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 80,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/3_80.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/003080.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/3_80.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/003080.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/3_80.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/003080.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/3_80.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/003080.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/3_80.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/003080.mp3"
+        }
+    },
+    "english": "And he would never ask you to take angels and prophets as lords. Would he ask you to disbelieve after you have submitted?",
+    "arabic1": "وَلَا يَأْمُرَكُمْ أَن تَتَّخِذُوا۟ ٱلْمَلَـٰٓئِكَةَ وَٱلنَّبِيِّـۧنَ أَرْبَابًا ۗ أَيَأْمُرُكُم بِٱلْكُفْرِ بَعْدَ إِذْ أَنتُم مُّسْلِمُونَ",
+    "arabic2": "ولا يامركم ان تتخذوا الملائكة والنبيين اربابا ايامركم بالكفر بعد اذ انتم مسلمون",
+    "bengali": "আর তিনি তোমাদেরকে নির্দেশ করেন না যে, তোমরা ফেরেশতা ও নবীদেরকে রব রূপে গ্রহণ কর। তোমরা মুসলিম হওয়ার পর তিনি কি তোমাদেরকে কুফরীর নির্দেশ দিবেন?",
+    "urdu": "اور اس کو یہ بھی نہیں کہنا چاہیے کہ تم فرشتوں اور پیغمبروں کو خدا بنالو بھلا جب تم مسلمان ہو چکے تو کیا اسے زیبا ہے کہ تمہیں کافر ہونے کو کہے"
+}

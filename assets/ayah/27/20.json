@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Naml",
+    "surahNameArabic": "النمل",
+    "surahNameArabicLong": "سورة النمل",
+    "surahNameTranslation": "The Ant",
+    "revelationPlace": "Mecca",
+    "totalAyah": 93,
+    "surahNo": 27,
+    "ayahNo": 20,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/27_20.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/027020.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/27_20.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/027020.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/27_20.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/027020.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/27_20.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/027020.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/27_20.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/027020.mp3"
+        }
+    },
+    "english": "˹One day˺ he inspected the birds, and wondered, “Why is it that I cannot see the hoopoe? Or could he be absent?",
+    "arabic1": "وَتَفَقَّدَ ٱلطَّيْرَ فَقَالَ مَا لِىَ لَآ أَرَى ٱلْهُدْهُدَ أَمْ كَانَ مِنَ ٱلْغَآئِبِينَ",
+    "arabic2": "وتفقد الطير فقال ما لي لا ارى الهدهد ام كان من الغائبين",
+    "bengali": "আর সুলাইমান পাখিদের খোঁজ খবর নিল। তারপর সে বলল, ‘কী ব্যাপার, আমি হুদহুদকে দেখছি না; নাকি সে অনুপস্থিতদের অন্তর্ভুক্ত’?",
+    "urdu": "انہوں نے جانوروں کا جائزہ لیا تو کہنے لگے کیا سبب ہے کہ ہُدہُد نظر نہیں آتا۔ کیا کہیں غائب ہوگیا ہے؟"
+}

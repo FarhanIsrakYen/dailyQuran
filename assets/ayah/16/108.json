@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nahl",
+    "surahNameArabic": "النحل",
+    "surahNameArabicLong": "سورة النحل",
+    "surahNameTranslation": "The Bee",
+    "revelationPlace": "Mecca",
+    "totalAyah": 128,
+    "surahNo": 16,
+    "ayahNo": 108,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/16_108.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/016108.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/16_108.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/016108.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/16_108.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/016108.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/16_108.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/016108.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/16_108.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/016108.mp3"
+        }
+    },
+    "english": "They are the ones whose hearts, ears, and eyes are sealed by Allah, and it is they who are ˹truly˺ heedless.",
+    "arabic1": "أُو۟لَـٰٓئِكَ ٱلَّذِينَ طَبَعَ ٱللَّهُ عَلَىٰ قُلُوبِهِمْ وَسَمْعِهِمْ وَأَبْصَـٰرِهِمْ ۖ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْغَـٰفِلُونَ",
+    "arabic2": "اولئك الذين طبع الله على قلوبهم وسمعهم وابصارهم واولئك هم الغافلون",
+    "bengali": "এরাই তারা, যাদের অন্তরসমূহ, শ্রবণসমূহ ও দৃষ্টিসমূহের উপর আল্লাহ মোহর করে দিয়েছেন এবং তারাই হচ্ছে গাফেল।",
+    "urdu": "یہی لوگ ہیں جن کے دلوں پر اور کانوں پر اور آنکھوں پر خدا نے مہر لگا رکھی ہے۔ اور یہی غفلت میں پڑے ہوئے ہیں"
+}

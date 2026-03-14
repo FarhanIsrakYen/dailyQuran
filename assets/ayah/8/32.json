@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Anfaal",
+    "surahNameArabic": "الأنفال",
+    "surahNameArabicLong": "سورة الأنفال",
+    "surahNameTranslation": "The Spoils of War",
+    "revelationPlace": "Madina",
+    "totalAyah": 75,
+    "surahNo": 8,
+    "ayahNo": 32,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/8_32.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/008032.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/8_32.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/008032.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/8_32.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/008032.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/8_32.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/008032.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/8_32.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/008032.mp3"
+        }
+    },
+    "english": "And ˹remember˺ when they prayed, “O Allah! If this is indeed the truth from You, then rain down stones upon us from the sky or overcome us with a painful punishment.”",
+    "arabic1": "وَإِذْ قَالُوا۟ ٱللَّهُمَّ إِن كَانَ هَـٰذَا هُوَ ٱلْحَقَّ مِنْ عِندِكَ فَأَمْطِرْ عَلَيْنَا حِجَارَةً مِّنَ ٱلسَّمَآءِ أَوِ ٱئْتِنَا بِعَذَابٍ أَلِيمٍ",
+    "arabic2": "واذ قالوا اللهم ان كان هذا هو الحق من عندك فامطر علينا حجارة من السماء او ائتنا بعذاب اليم",
+    "bengali": "আর স্মরণ কর, যখন তারা বলেছিল, ‘হে আল্লাহ, যদি এটি সত্য হয় আপনার পক্ষ থেকে তাহলে আমাদের উপর আকাশ থেকে পাথর বর্ষণ করুন অথবা আমাদের উপর অন্য কোন যন্ত্রণাদায়ক আযাব নিয়ে আসুন’।",
+    "urdu": "اور جب انہوں نے کہا کہ اے خدا اگر یہ (قرآن) تیری طرف سے برحق ہے تو ہم پر آسمان سے پتھر برسا یا کوئی اور تکلیف دینے والا عذاب بھیج"
+}

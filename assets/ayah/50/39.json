@@ -1,0 +1,42 @@
+{
+    "surahName": "Qaaf",
+    "surahNameArabic": "ق",
+    "surahNameArabicLong": "سورة ق",
+    "surahNameTranslation": "The letter Qaaf",
+    "revelationPlace": "Mecca",
+    "totalAyah": 45,
+    "surahNo": 50,
+    "ayahNo": 39,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/50_39.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/050039.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/50_39.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/050039.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/50_39.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/050039.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/50_39.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/050039.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/50_39.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/050039.mp3"
+        }
+    },
+    "english": "So be patient ˹O Prophet˺ with what they say. And glorify the praises of your Lord before sunrise and before sunset.",
+    "arabic1": "فَٱصْبِرْ عَلَىٰ مَا يَقُولُونَ وَسَبِّحْ بِحَمْدِ رَبِّكَ قَبْلَ طُلُوعِ ٱلشَّمْسِ وَقَبْلَ ٱلْغُرُوبِ",
+    "arabic2": "فاصبر على ما يقولون وسبح بحمد ربك قبل طلوع الشمس وقبل الغروب",
+    "bengali": "অতএব এরা যা বলে, তাতে তুমি ধৈর্যধারণ কর এবং সূর্য উদয়ের পূর্বে ও অস্তমিত হওয়ার পূর্বে তুমি তোমার রবের প্রশংসাসহ তাসবীহ পাঠ কর।",
+    "urdu": "تو جو کچھ یہ (کفار) بکتے ہیں اس پر صبر کرو اور آفتاب کے طلوع ہونے سے پہلے اور اس کے غروب ہونے سے پہلے اپنے پروردگار کی تعریف کے ساتھ تسبیح کرتے رہو"
+}

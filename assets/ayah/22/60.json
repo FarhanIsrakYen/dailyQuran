@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Hajj",
+    "surahNameArabic": "الحج",
+    "surahNameArabicLong": "سورة الحج",
+    "surahNameTranslation": "The Pilgrimage",
+    "revelationPlace": "Madina",
+    "totalAyah": 78,
+    "surahNo": 22,
+    "ayahNo": 60,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/22_60.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/022060.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/22_60.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/022060.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/22_60.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/022060.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/22_60.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/022060.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/22_60.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/022060.mp3"
+        }
+    },
+    "english": "That is so. And whoever retaliates in equivalence to the injury they have received, and then are wronged ˹again˺, Allah will certainly help them. Surely Allah is Ever-Pardoning, All-Forgiving.",
+    "arabic1": "۞ ذَٰلِكَ وَمَنْ عَاقَبَ بِمِثْلِ مَا عُوقِبَ بِهِۦ ثُمَّ بُغِىَ عَلَيْهِ لَيَنصُرَنَّهُ ٱللَّهُ ۗ إِنَّ ٱللَّهَ لَعَفُوٌّ غَفُورٌ",
+    "arabic2": "ذلك ومن عاقب بمثل ما عوقب به ثم بغي عليه لينصرنه الله ان الله لعفو غفور",
+    "bengali": "এটাই প্রকৃত অবস্থা। আর যে ব্যক্তি নিপীড়িত হয়ে তার সমপরিমাণ প্রতিশোধ গ্রহণ করে; অতঃপর তার উপর আবার নিপীড়ন করা হয় তাহলে আল্লাহ অবশ্যই তাকে সাহায্য করবেন। নিশ্চয় আল্লাহ পাপ মোচনকারী, অতীব ক্ষমাশীল।",
+    "urdu": "یہ (بات خدا کے ہاں ٹھہر چکی ہے) اور جو شخص (کسی کو) اتنی ہی ایذا دے جتنی ایذا اس کو دی گئی پھر اس شخص پر زیادتی کی جائے تو خدا اس کی مدد کرے گا۔ بےشک خدا معاف کرنے والا اور بخشنے والا ہے"
+}

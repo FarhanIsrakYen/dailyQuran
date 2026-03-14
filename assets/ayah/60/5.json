@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Mumtahana",
+    "surahNameArabic": "الممتحنة",
+    "surahNameArabicLong": "سورة الممتحنة",
+    "surahNameTranslation": "She that is to be examined",
+    "revelationPlace": "Madina",
+    "totalAyah": 13,
+    "surahNo": 60,
+    "ayahNo": 5,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/60_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/060005.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/60_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/060005.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/60_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/060005.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/60_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/060005.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/60_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/060005.mp3"
+        }
+    },
+    "english": "Our Lord! Do not subject us to the persecution of the disbelievers. Forgive us, our Lord! You ˹alone˺ are truly the Almighty, All-Wise.”",
+    "arabic1": "رَبَّنَا لَا تَجْعَلْنَا فِتْنَةً لِّلَّذِينَ كَفَرُوا۟ وَٱغْفِرْ لَنَا رَبَّنَآ ۖ إِنَّكَ أَنتَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+    "arabic2": "ربنا لا تجعلنا فتنة للذين كفروا واغفر لنا ربنا انك انت العزيز الحكيم",
+    "bengali": "হে আমাদের রব, আপনি আমাদেরকে কাফিরদের উৎপীড়নের পাত্র বানাবেন না। হে আমাদের রব, আপনি আমাদের ক্ষমা করে দিন। নিশ্চয় আপনি মহাপরাক্রমশালী, প্রজ্ঞাময়।",
+    "urdu": "اے ہمارے پروردگار ہم کو کافروں کے ہاتھ سے عذاب نہ دلانا اور اے پروردگار ہمارے ہمیں معاف فرما۔ بےشک تو غالب حکمت والا ہے"
+}

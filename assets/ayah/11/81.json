@@ -1,0 +1,42 @@
+{
+    "surahName": "Hud",
+    "surahNameArabic": "هود",
+    "surahNameArabicLong": "سورة هود",
+    "surahNameTranslation": "Hud",
+    "revelationPlace": "Mecca",
+    "totalAyah": 123,
+    "surahNo": 11,
+    "ayahNo": 81,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/11_81.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/011081.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/11_81.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/011081.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/11_81.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/011081.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/11_81.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/011081.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/11_81.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/011081.mp3"
+        }
+    },
+    "english": "The angels said, “O Lot! We are the messengers of your Lord. They will never reach you. So travel with your family in the dark of night, and do not let any of you look back, except your wife. She will certainly suffer the fate of the others. Their appointed time is the morning. Is the morning not near?”",
+    "arabic1": "قَالُوا۟ يَـٰلُوطُ إِنَّا رُسُلُ رَبِّكَ لَن يَصِلُوٓا۟ إِلَيْكَ ۖ فَأَسْرِ بِأَهْلِكَ بِقِطْعٍ مِّنَ ٱلَّيْلِ وَلَا يَلْتَفِتْ مِنكُمْ أَحَدٌ إِلَّا ٱمْرَأَتَكَ ۖ إِنَّهُۥ مُصِيبُهَا مَآ أَصَابَهُمْ ۚ إِنَّ مَوْعِدَهُمُ ٱلصُّبْحُ ۚ أَلَيْسَ ٱلصُّبْحُ بِقَرِيبٍ",
+    "arabic2": "قالوا يا لوط انا رسل ربك لن يصلوا اليك فاسر باهلك بقطع من الليل ولا يلتفت منكم احد الا امراتك انه مصيبها ما اصابهم ان موعدهم الصبح اليس الصبح بقريب",
+    "bengali": "তারা বলল, ‘হে লূত, আমরা তোমার রবের প্রেরিত ফেরেশতা, তারা কখনো তোমার কাছে পৌঁছতে পারবে না। সুতরাং তুমি তোমার পরিবার নিয়ে রাতের কোন এক অংশে রওয়ানা হও, আর তোমাদের কেউ পিছে তাকাবে না। তবে তোমার স্ত্রী (রওয়ানা হবে না), কেননা তাকে তা-ই আক্রান্ত করবে যা তাদেরকে আক্রান্ত করবে। নিশ্চয় তাদের (আযাবের) নির্ধারিত সময় হচ্ছে সকাল। সকাল কি নিকটে নয়’?",
+    "urdu": "فرشتوں نے کہا کہ لوط ہم تمہارے پروردگار کے فرشتے ہیں۔ یہ لوگ ہرگز تم تک نہیں پہنچ سکیں گے تو کچھ رات رہے سے اپنے گھر والوں کو لے کر چل دو اور تم میں سے کوئی شخص پیچھے پھر کر نہ دیکھے۔ مگر تمہاری بیوی کہ جو آفت ان پر پڑنے والی ہے وہی اس پر پڑے گی۔ ان کے (عذاب کے) وعدے کا وقت صبح ہے۔ اور کیا صبح کچھ دور ہے؟"
+}

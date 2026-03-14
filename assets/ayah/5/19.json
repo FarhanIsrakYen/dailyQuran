@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Maaida",
+    "surahNameArabic": "المائدة",
+    "surahNameArabicLong": "سورة المائدة",
+    "surahNameTranslation": "The Table",
+    "revelationPlace": "Madina",
+    "totalAyah": 120,
+    "surahNo": 5,
+    "ayahNo": 19,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/5_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/005019.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/5_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/005019.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/5_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/005019.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/5_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/005019.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/5_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/005019.mp3"
+        }
+    },
+    "english": "O People of the Book! Our Messenger has indeed come to you, making things clear to you after an interval between the messengers so you do not say, “There has never come to us a deliverer of good news or a warner.” Now there has come to you a deliverer of good news and a warner. And Allah is Most Capable of everything.",
+    "arabic1": "يَـٰٓأَهْلَ ٱلْكِتَـٰبِ قَدْ جَآءَكُمْ رَسُولُنَا يُبَيِّنُ لَكُمْ عَلَىٰ فَتْرَةٍ مِّنَ ٱلرُّسُلِ أَن تَقُولُوا۟ مَا جَآءَنَا مِنۢ بَشِيرٍ وَلَا نَذِيرٍ ۖ فَقَدْ جَآءَكُم بَشِيرٌ وَنَذِيرٌ ۗ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+    "arabic2": "يا اهل الكتاب قد جاءكم رسولنا يبين لكم على فترة من الرسل ان تقولوا ما جاءنا من بشير ولا نذير فقد جاءكم بشير ونذير والله على كل شيء قدير",
+    "bengali": "হে কিতাবীরা, তোমাদের নিকট আমার রাসূল এসেছে, রাসূলদের একটি বিরতির পর তোমাদের জন্য তিনি স্পষ্ট বর্ণনা করছেন. যেন তোমরা না বল যে, ‘আমাদের নিকট কোন সুসংবাদদাতা কিংবা সতর্ককারী আসেনি’। অবশ্যই তোমাদের নিকট সুসংবাদদাতা ও সতর্ককারী এসেছে। আর আল্লাহ সব কিছুর উপর ক্ষমতাবান।",
+    "urdu": "اے اہلِ کتاب پیغمبروں کے آنے کا سلسلہ جو (ایک عرصے تک) منقطع رہا تو (اب) تمہارے پاس ہمارے پیغمبر آ گئے ہیں جو تم سے (ہمارے احکام) بیان کرتے ہیں تاکہ تم یہ نہ کہو کہ ہمارے پاس کوئی خوشخبری یا ڈر سنانے والا نہیں آیا سو (اب) تمہارے پاس خوشخبری اور ڈر سنانے والے آ گئے ہیں اور خدا ہر چیز پر قادر ہے"
+}

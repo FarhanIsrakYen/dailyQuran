@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nahl",
+    "surahNameArabic": "النحل",
+    "surahNameArabicLong": "سورة النحل",
+    "surahNameTranslation": "The Bee",
+    "revelationPlace": "Mecca",
+    "totalAyah": 128,
+    "surahNo": 16,
+    "ayahNo": 22,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/16_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/016022.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/16_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/016022.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/16_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/016022.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/16_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/016022.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/16_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/016022.mp3"
+        }
+    },
+    "english": "Your God is ˹only˺ One God. As for those who do not believe in the Hereafter, their hearts are in denial, and they are too proud.",
+    "arabic1": "إِلَـٰهُكُمْ إِلَـٰهٌ وَٰحِدٌ ۚ فَٱلَّذِينَ لَا يُؤْمِنُونَ بِٱلْـَٔاخِرَةِ قُلُوبُهُم مُّنكِرَةٌ وَهُم مُّسْتَكْبِرُونَ",
+    "arabic2": "الهكم اله واحد فالذين لا يؤمنون بالاخرة قلوبهم منكرة وهم مستكبرون",
+    "bengali": "তোমাদের ইলাহ এক ইলাহ। অতঃপর যারা আখিরাতে বিশ্বাস করে না, তাদের অন্তর অস্বীকারকারী এবং তারা অহঙ্কারী।",
+    "urdu": "تمہارا معبود تو اکیلا خدا ہے۔ تو جو آخرت پر ایمان نہیں رکھتے ان کے دل انکار کر رہے ہیں اور وہ سرکش ہو رہے ہیں"
+}

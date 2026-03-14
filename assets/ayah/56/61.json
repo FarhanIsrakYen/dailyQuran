@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Waaqia",
+    "surahNameArabic": "الواقعة",
+    "surahNameArabicLong": "سورة الواقعة",
+    "surahNameTranslation": "The Inevitable",
+    "revelationPlace": "Mecca",
+    "totalAyah": 96,
+    "surahNo": 56,
+    "ayahNo": 61,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/56_61.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/056061.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/56_61.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/056061.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/56_61.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/056061.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/56_61.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/056061.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/56_61.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/056061.mp3"
+        }
+    },
+    "english": "from transforming and recreating you in forms unknown to you.",
+    "arabic1": "عَلَىٰٓ أَن نُّبَدِّلَ أَمْثَـٰلَكُمْ وَنُنشِئَكُمْ فِى مَا لَا تَعْلَمُونَ",
+    "arabic2": "على ان نبدل امثالكم وننشئكم في ما لا تعلمون",
+    "bengali": "তোমাদের স্থানে তোমাদের বিকল্প আনয়ন করতে এবং তোমাদেরকে এমনভাবে সৃষ্টি করতে যা তোমরা জান না।",
+    "urdu": "کہ تمہاری طرح کے اور لوگ تمہاری جگہ لے آئیں اور تم کو ایسے جہان میں جس کو تم نہیں جانتے پیدا کر دیں"
+}

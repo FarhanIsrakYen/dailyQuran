@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Anfaal",
+    "surahNameArabic": "الأنفال",
+    "surahNameArabicLong": "سورة الأنفال",
+    "surahNameTranslation": "The Spoils of War",
+    "revelationPlace": "Madina",
+    "totalAyah": 75,
+    "surahNo": 8,
+    "ayahNo": 66,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/8_66.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/008066.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/8_66.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/008066.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/8_66.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/008066.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/8_66.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/008066.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/8_66.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/008066.mp3"
+        }
+    },
+    "english": "Now Allah has lightened your burden, for He knows that there is weakness in you. So if there are a hundred steadfast among you, they will overcome two hundred. And if there be one thousand, they will overcome two thousand, by Allah’s Will. And Allah is with the steadfast.",
+    "arabic1": "ٱلْـَٔـٰنَ خَفَّفَ ٱللَّهُ عَنكُمْ وَعَلِمَ أَنَّ فِيكُمْ ضَعْفًا ۚ فَإِن يَكُن مِّنكُم مِّا۟ئَةٌ صَابِرَةٌ يَغْلِبُوا۟ مِا۟ئَتَيْنِ ۚ وَإِن يَكُن مِّنكُمْ أَلْفٌ يَغْلِبُوٓا۟ أَلْفَيْنِ بِإِذْنِ ٱللَّهِ ۗ وَٱللَّهُ مَعَ ٱلصَّـٰبِرِينَ",
+    "arabic2": "الان خفف الله عنكم وعلم ان فيكم ضعفا فان يكن منكم مائة صابرة يغلبوا مائتين وان يكن منكم الف يغلبوا الفين باذن الله والله مع الصابرين",
+    "bengali": "এখন আল্লাহ তোমাদের থেকে (দায়িত্বভার) হালকা করে দিয়েছেন এবং তিনি জানেন তোমাদের মধ্যে দুর্বলতা রয়েছে। অতএব যদি তোমাদের মধ্যে একশ’ জন ধৈর্যশীল থাকে, তারা দু’শ জনকে পরাস্ত করবে এবং যদি তোমাদের মধ্যে এক হাজার জন থাকে, তারা আল্লাহর হুকুমে দু’হাজার জনকে পরাস্ত করবে এবং আল্লাহ ধৈর্যশীলদের সাথে আছেন।",
+    "urdu": "اب خدا نے تم پر سے بوجھ ہلکا کر دیا اور معلوم کرلیا کہ (ابھی) تم میں کسی قدر کمزوری ہے۔ پس اگر تم میں ایک سو ثابت قدم رہنے والے ہوں گے تو دو سو پر غالب رہیں گے۔ اور اگر ایک ہزار ہوں گے تو خدا کے حکم سے دو ہزار پر غالب رہیں گے۔ اور خدا ثابت قدم رہنے والوں کا مدد گار ہے"
+}

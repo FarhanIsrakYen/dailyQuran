@@ -1,0 +1,42 @@
+{
+    "surahName": "Luqman",
+    "surahNameArabic": "لقمان",
+    "surahNameArabicLong": "سورة لقمان",
+    "surahNameTranslation": "Luqman",
+    "revelationPlace": "Mecca",
+    "totalAyah": 34,
+    "surahNo": 31,
+    "ayahNo": 34,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/31_34.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/031034.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/31_34.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/031034.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/31_34.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/031034.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/31_34.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/031034.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/31_34.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/031034.mp3"
+        }
+    },
+    "english": "Indeed, Allah ˹alone˺ has the knowledge of the Hour. He sends down the rain, and knows what is in the wombs. No soul knows what it will earn for tomorrow, and no soul knows in what land it will die. Surely Allah is All-Knowing, All-Aware.",
+    "arabic1": "إِنَّ ٱللَّهَ عِندَهُۥ عِلْمُ ٱلسَّاعَةِ وَيُنَزِّلُ ٱلْغَيْثَ وَيَعْلَمُ مَا فِى ٱلْأَرْحَامِ ۖ وَمَا تَدْرِى نَفْسٌ مَّاذَا تَكْسِبُ غَدًا ۖ وَمَا تَدْرِى نَفْسٌۢ بِأَىِّ أَرْضٍ تَمُوتُ ۚ إِنَّ ٱللَّهَ عَلِيمٌ خَبِيرٌۢ",
+    "arabic2": "ان الله عنده علم الساعة وينزل الغيث ويعلم ما في الارحام وما تدري نفس ماذا تكسب غدا وما تدري نفس باي ارض تموت ان الله عليم خبير",
+    "bengali": "নিশ্চয় আল্লাহর নিকট কিয়ামতের জ্ঞান রয়েছে। আর তিনি বৃষ্টি বর্ষণ করেন এবং জরায়ূতে যা আছে, তা তিনি জানেন। আর কেউ জানে না আগামীকাল সে কী অর্জন করবে এবং কেউ জানে না কোন্ স্থানে সে মারা যাবে। নিশ্চয় আল্লাহ সর্বজ্ঞ, সম্যক অবহিত।",
+    "urdu": "خدا ہی کو قیامت کا علم ہے اور وہی مینھہ برساتا ہے۔ اور وہی (حاملہ کے) پیٹ کی چیزوں کو جانتا ہے (کہ نر ہے یا مادہ) اور کوئی شخص نہیں جانتا کہ وہ کل کیا کام کرے گا۔ اور کوئی متنفس نہیں جانتا کہ کس سرزمین میں اُسے موت آئے گی بیشک خدا ہی جاننے والا (اور) خبردار ہے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Qamar",
+    "surahNameArabic": "القمر",
+    "surahNameArabicLong": "سورة القمر",
+    "surahNameTranslation": "The Moon",
+    "revelationPlace": "Mecca",
+    "totalAyah": 55,
+    "surahNo": 54,
+    "ayahNo": 12,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/54_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/054012.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/54_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/054012.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/54_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/054012.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/54_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/054012.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/54_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/054012.mp3"
+        }
+    },
+    "english": "and caused the earth to burst with springs, so the waters met for a fate already set.",
+    "arabic1": "وَفَجَّرْنَا ٱلْأَرْضَ عُيُونًا فَٱلْتَقَى ٱلْمَآءُ عَلَىٰٓ أَمْرٍ قَدْ قُدِرَ",
+    "arabic2": "وفجرنا الارض عيونا فالتقى الماء على امر قد قدر",
+    "bengali": "আর ভূমিতে আমি ঝর্না উৎসারিত করলাম। ফলে সকল পানি মিলিত হল নির্ধারিত নির্দেশনা অনুসারে।",
+    "urdu": "اور زمین میں چشمے جاری کردیئے تو پانی ایک کام کے لئے جو مقدر ہوچکا تھا جمع ہوگیا"
+}

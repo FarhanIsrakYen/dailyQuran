@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Naml",
+    "surahNameArabic": "النمل",
+    "surahNameArabicLong": "سورة النمل",
+    "surahNameTranslation": "The Ant",
+    "revelationPlace": "Mecca",
+    "totalAyah": 93,
+    "surahNo": 27,
+    "ayahNo": 51,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/27_51.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/027051.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/27_51.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/027051.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/27_51.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/027051.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/27_51.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/027051.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/27_51.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/027051.mp3"
+        }
+    },
+    "english": "See then what the consequences of their plan were: We ˹utterly˺ destroyed them and their people all together.",
+    "arabic1": "فَٱنظُرْ كَيْفَ كَانَ عَـٰقِبَةُ مَكْرِهِمْ أَنَّا دَمَّرْنَـٰهُمْ وَقَوْمَهُمْ أَجْمَعِينَ",
+    "arabic2": "فانظر كيف كان عاقبة مكرهم انا دمرناهم وقومهم اجمعين",
+    "bengali": "অতএব দেখ, তাদের চক্রান্তের পরিণাম কিরূপ হয়েছে। আমি তাদের ও তাদের কওমকে একত্রে ধ্বংস করে দিয়েছি।",
+    "urdu": "تو دیکھ لو ان کی چال کا کیسا انجام ہوا۔ ہم نے ان کو اور ان کی قوم سب کو ہلاک کر ڈالا"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Az-Zumar",
+    "surahNameArabic": "الزمر",
+    "surahNameArabicLong": "سورة الزمر",
+    "surahNameTranslation": "The Groups",
+    "revelationPlace": "Mecca",
+    "totalAyah": 75,
+    "surahNo": 39,
+    "ayahNo": 72,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/39_72.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/039072.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/39_72.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/039072.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/39_72.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/039072.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/39_72.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/039072.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/39_72.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/039072.mp3"
+        }
+    },
+    "english": "It will be said to them, “Enter the gates of Hell, to stay there forever.” What an evil home for the arrogant!",
+    "arabic1": "قِيلَ ٱدْخُلُوٓا۟ أَبْوَٰبَ جَهَنَّمَ خَـٰلِدِينَ فِيهَا ۖ فَبِئْسَ مَثْوَى ٱلْمُتَكَبِّرِينَ",
+    "arabic2": "قيل ادخلوا ابواب جهنم خالدين فيها فبئس مثوى المتكبرين",
+    "bengali": "বলা হবে, ‘তোমরা জাহান্নামের দরজাসমূহে প্রবেশ কর, তাতেই স্থায়ীভাবে থাকার জন্য। অতএব অহঙ্কারীদের আবাসস্থল কতই না নিকৃষ্ট’!",
+    "urdu": "کہا جائے گا کہ دوزخ کے دروازوں میں داخل ہوجاؤ ہمیشہ اس میں رہو گے۔ تکبر کرنے والوں کا برا ٹھکانا ہے"
+}

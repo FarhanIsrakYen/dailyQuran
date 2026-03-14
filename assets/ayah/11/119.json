@@ -1,0 +1,42 @@
+{
+    "surahName": "Hud",
+    "surahNameArabic": "هود",
+    "surahNameArabicLong": "سورة هود",
+    "surahNameTranslation": "Hud",
+    "revelationPlace": "Mecca",
+    "totalAyah": 123,
+    "surahNo": 11,
+    "ayahNo": 119,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/11_119.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/011119.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/11_119.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/011119.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/11_119.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/011119.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/11_119.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/011119.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/11_119.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/011119.mp3"
+        }
+    },
+    "english": "except those shown mercy by your Lord—and so He created them ˹to choose freely˺. And so the Word of your Lord will be fulfilled: “I will surely fill up Hell with jinn and humans all together.”",
+    "arabic1": "إِلَّا مَن رَّحِمَ رَبُّكَ ۚ وَلِذَٰلِكَ خَلَقَهُمْ ۗ وَتَمَّتْ كَلِمَةُ رَبِّكَ لَأَمْلَأَنَّ جَهَنَّمَ مِنَ ٱلْجِنَّةِ وَٱلنَّاسِ أَجْمَعِينَ",
+    "arabic2": "الا من رحم ربك ولذلك خلقهم وتمت كلمة ربك لاملان جهنم من الجنة والناس اجمعين",
+    "bengali": "তবে যাদেরকে তোমার রব দয়া করেছেন, তারা ছাড়া। আর এজন্যই তিনি তাদেরকে সৃষ্টি করেছেন এবং তোমার রবের কথা চূড়ান্ত হয়েছে যে, ‘নিশ্চয়ই আমি জাহান্নাম ভরে দেব জিন ও মানুষ দ্বারা একত্রে’।",
+    "urdu": "مگر جن پر تمہارا پروردگار رحم کرے۔ اور اسی لیے اس نے ان کو پیدا کیا ہے اور تمہارے پروردگار کا قول پورا ہوگیا کہ میں دوزخ کو جنوں اور انسانوں سب سے بھر دوں گا"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Naml",
+    "surahNameArabic": "النمل",
+    "surahNameArabicLong": "سورة النمل",
+    "surahNameTranslation": "The Ant",
+    "revelationPlace": "Mecca",
+    "totalAyah": 93,
+    "surahNo": 27,
+    "ayahNo": 48,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/27_48.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/027048.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/27_48.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/027048.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/27_48.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/027048.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/27_48.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/027048.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/27_48.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/027048.mp3"
+        }
+    },
+    "english": "And there were in the city nine ˹elite˺ men who spread corruption in the land, never doing what is right.",
+    "arabic1": "وَكَانَ فِى ٱلْمَدِينَةِ تِسْعَةُ رَهْطٍ يُفْسِدُونَ فِى ٱلْأَرْضِ وَلَا يُصْلِحُونَ",
+    "arabic2": "وكان في المدينة تسعة رهط يفسدون في الارض ولا يصلحون",
+    "bengali": "আর সেই শহরে ছিল নয় নেতৃস্থানীয় ব্যক্তি। যারা যমীনে ফাসাদ সৃষ্টি করত এবং সংস্কার-সংশোধনমূলক কিছু করত না।",
+    "urdu": "اور شہر میں نو شخص تھے جو ملک میں فساد کیا کرتے تھے اور اصلاح سے کام نہیں لیتے تھے"
+}

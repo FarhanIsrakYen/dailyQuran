@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Fath",
+    "surahNameArabic": "الفتح",
+    "surahNameArabicLong": "سورة الفتح",
+    "surahNameTranslation": "The Victory",
+    "revelationPlace": "Madina",
+    "totalAyah": 29,
+    "surahNo": 48,
+    "ayahNo": 6,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/48_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/048006.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/48_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/048006.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/48_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/048006.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/48_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/048006.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/48_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/048006.mp3"
+        }
+    },
+    "english": "Also ˹so that˺ He may punish hypocrite men and women and polytheistic men and women, who harbour evil thoughts of Allah. May ill-fate befall them! Allah is displeased with them. He has condemned them and prepared for them Hell. What an evil destination!",
+    "arabic1": "وَيُعَذِّبَ ٱلْمُنَـٰفِقِينَ وَٱلْمُنَـٰفِقَـٰتِ وَٱلْمُشْرِكِينَ وَٱلْمُشْرِكَـٰتِ ٱلظَّآنِّينَ بِٱللَّهِ ظَنَّ ٱلسَّوْءِ ۚ عَلَيْهِمْ دَآئِرَةُ ٱلسَّوْءِ ۖ وَغَضِبَ ٱللَّهُ عَلَيْهِمْ وَلَعَنَهُمْ وَأَعَدَّ لَهُمْ جَهَنَّمَ ۖ وَسَآءَتْ مَصِيرًا",
+    "arabic2": "ويعذب المنافقين والمنافقات والمشركين والمشركات الظانين بالله ظن السوء عليهم دائرة السوء وغضب الله عليهم ولعنهم واعد لهم جهنم وساءت مصيرا",
+    "bengali": "আর যেন তিনি শাস্তি দিতে পারেন মুনাফিক নারী-পুরুষ ও মুশরিক নারী-পুরুষকে যারা আল্লাহ সম্পর্কে মন্দ ধারণা পোষণ করে; তাদের উপরই অনিষ্টতা আপতিত হয়। আর আল্লাহ তাদের উপর রাগ করেছেন এবং তাদেরকে লা‘নত করেছেন, আর তাদের জন্য প্রস্তুত করেছেন জাহান্নাম; এবং গন্তব্য হিসেবে তা কতইনা নিকৃষ্ট!",
+    "urdu": "اور (اس لئے کہ) منافق مردوں اور منافق عورتوں اور مشرک مردوں اور مشرک عورتوں کو جو خدا کے حق میں برے برے خیال رکھتے ہیں عذاب دے۔ ان ہی پر برے حادثے واقع ہوں۔ اور خدا ان پر غصے ہوا اور ان پر لعنت کی اور ان کے لئے دوزخ تیار کی۔ اور وہ بری جگہ ہے"
+}

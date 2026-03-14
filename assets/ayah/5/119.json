@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Maaida",
+    "surahNameArabic": "المائدة",
+    "surahNameArabicLong": "سورة المائدة",
+    "surahNameTranslation": "The Table",
+    "revelationPlace": "Madina",
+    "totalAyah": 120,
+    "surahNo": 5,
+    "ayahNo": 119,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/5_119.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/005119.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/5_119.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/005119.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/5_119.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/005119.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/5_119.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/005119.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/5_119.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/005119.mp3"
+        }
+    },
+    "english": "Allah will declare, “This is the Day when ˹only˺ the faithful will benefit from their faithfulness. Theirs are Gardens under which rivers flow, to stay there for ever and ever. Allah is pleased with them and they are pleased with Him. That is the ultimate triumph.”",
+    "arabic1": "قَالَ ٱللَّهُ هَـٰذَا يَوْمُ يَنفَعُ ٱلصَّـٰدِقِينَ صِدْقُهُمْ ۚ لَهُمْ جَنَّـٰتٌ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ خَـٰلِدِينَ فِيهَآ أَبَدًا ۚ رَّضِىَ ٱللَّهُ عَنْهُمْ وَرَضُوا۟ عَنْهُ ۚ ذَٰلِكَ ٱلْفَوْزُ ٱلْعَظِيمُ",
+    "arabic2": "قال الله هذا يوم ينفع الصادقين صدقهم لهم جنات تجري من تحتها الانهار خالدين فيها ابدا رضي الله عنهم ورضوا عنه ذلك الفوز العظيم",
+    "bengali": "আল্লাহ বলবেন, ‘এটা হল সেই দিন যেদিন সত্যবাদীগণকে তাদের সততা উপকার করবে। তাদের জন্য আছে জান্নাতসমূহ যার নীচে প্রবাহিত হবে নদীসমূহ। সেখানে তারা হবে চিরস্থায়ী। আল্লাহ তাদের প্রতি সন্তুষ্ট হয়েছেন, তারাও তাঁর প্রতি সন্তুষ্ট হয়েছে। এটা মহাসাফল্য।",
+    "urdu": "خدا فرمائے گا کہ آج وہ دن ہے کہ راست بازوں کو ان کی سچائی ہی فائدہ دے گی ان کے لئے باغ ہیں جن کے نیچے نہریں بہہ رہی ہیں ابدالآباد ان میں بستے رہیں گے خدا ان سے خوش ہے اور وہ خدا سے خوش ہیں یہ بڑی کامیابی ہے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 28,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/17_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/017028.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/17_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/017028.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/17_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/017028.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/17_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/017028.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/17_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/017028.mp3"
+        }
+    },
+    "english": "But if you must turn them down ˹because you lack the means to give˺—while hoping to receive your Lord’s bounty—then ˹at least˺ give them a kind word.",
+    "arabic1": "وَإِمَّا تُعْرِضَنَّ عَنْهُمُ ٱبْتِغَآءَ رَحْمَةٍ مِّن رَّبِّكَ تَرْجُوهَا فَقُل لَّهُمْ قَوْلًا مَّيْسُورًا",
+    "arabic2": "واما تعرضن عنهم ابتغاء رحمة من ربك ترجوها فقل لهم قولا ميسورا",
+    "bengali": "আর যদি তুমি তাদের থেকে বিমুখ থাকতেই চাও তোমার রবের পক্ষ থেকে রহমতের প্রত্যাশায় যা তুমি চাচ্ছ, তাহলে তাদের সাথে নম্র কথা বলবে।",
+    "urdu": "اور اگر تم نے اپنے پروردگار کی رحمت (یعنی فراخ دستی) کے انتظار میں جس کی تمہیں امید ہو ان (مستحقین) کی طرف توجہ نہ کرسکو اُن سے نرمی سے بات کہہ دیا کرو"
+}

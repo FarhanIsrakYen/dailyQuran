@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Furqaan",
+    "surahNameArabic": "الفرقان",
+    "surahNameArabicLong": "سورة الفرقان",
+    "surahNameTranslation": "The Criterion",
+    "revelationPlace": "Mecca",
+    "totalAyah": 77,
+    "surahNo": 25,
+    "ayahNo": 2,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/25_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/025002.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/25_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/025002.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/25_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/025002.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/25_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/025002.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/25_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/025002.mp3"
+        }
+    },
+    "english": "˹Allah is˺ the One to Whom belongs the kingdom of the heavens and the earth, Who has never had ˹any˺ offspring, nor does He have a partner in ˹governing˺ the kingdom. He has created everything, ordaining it precisely.",
+    "arabic1": "ٱلَّذِى لَهُۥ مُلْكُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَلَمْ يَتَّخِذْ وَلَدًا وَلَمْ يَكُن لَّهُۥ شَرِيكٌ فِى ٱلْمُلْكِ وَخَلَقَ كُلَّ شَىْءٍ فَقَدَّرَهُۥ تَقْدِيرًا",
+    "arabic2": "الذي له ملك السماوات والارض ولم يتخذ ولدا ولم يكن له شريك في الملك وخلق كل شيء فقدره تقديرا",
+    "bengali": "যার অধিকারে রয়েছে আসমান ও যমীনের মালিকানা; আর তিনি কোন সন্তান গ্রহণ করেননি এবং সার্বভৌমত্বে তাঁর কোন শরীক নেই। তিনি সব কিছু সৃষ্টি করেছেন। অতঃপর তা নিপুণভাবে নিরূপণ করেছেন।",
+    "urdu": "وہی کہ آسمان اور زمین کی بادشاہی اسی کی ہے اور جس نے (کسی کو) بیٹا نہیں بنایا اور جس کا بادشاہی میں کوئی شریک نہیں اور جس نے ہر چیز کو پیدا کیا اور پھر اس کا ایک اندازہ ٹھہرایا"
+}

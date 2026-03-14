@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Noor",
+    "surahNameArabic": "النور",
+    "surahNameArabicLong": "سورة النور",
+    "surahNameTranslation": "The Light",
+    "revelationPlace": "Madina",
+    "totalAyah": 64,
+    "surahNo": 24,
+    "ayahNo": 2,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/24_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/024002.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/24_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/024002.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/24_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/024002.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/24_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/024002.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/24_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/024002.mp3"
+        }
+    },
+    "english": "As for female and male fornicators, give each of them one hundred lashes, and do not let pity for them make you lenient in ˹enforcing˺ the law of Allah, if you ˹truly˺ believe in Allah and the Last Day. And let a number of believers witness their punishment.",
+    "arabic1": "ٱلزَّانِيَةُ وَٱلزَّانِى فَٱجْلِدُوا۟ كُلَّ وَٰحِدٍ مِّنْهُمَا مِا۟ئَةَ جَلْدَةٍ ۖ وَلَا تَأْخُذْكُم بِهِمَا رَأْفَةٌ فِى دِينِ ٱللَّهِ إِن كُنتُمْ تُؤْمِنُونَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ ۖ وَلْيَشْهَدْ عَذَابَهُمَا طَآئِفَةٌ مِّنَ ٱلْمُؤْمِنِينَ",
+    "arabic2": "الزانية والزاني فاجلدوا كل واحد منهما مائة جلدة ولا تاخذكم بهما رافة في دين الله ان كنتم تؤمنون بالله واليوم الاخر وليشهد عذابهما طائفة من المؤمنين",
+    "bengali": "ব্যভিচারিণী ও ব্যভিচারী তাদের প্রত্যেককে একশ’টি করে বেত্রাঘাত কর। আর যদি তোমরা আল্লাহ ও শেষ দিবসের প্রতি ঈমান এনে থাক তবে আল্লাহর দীনের ব্যাপারে তাদের প্রতি দয়া যেন তোমাদেরকে পেয়ে না বসে। আর মুমিনদের একটি দল যেন তাদের শাস্তি প্রত্যক্ষ করে।",
+    "urdu": "بدکاری کرنے والی عورت اور بدکاری کرنے والا مرد (جب ان کی بدکاری ثابت ہوجائے تو) دونوں میں سے ہر ایک کو سو درے مارو۔ اور اگر تم خدا اور روز آخرت پر ایمان رکھتے ہو تو شرع خدا (کے حکم) میں تمہیں ان پر ہرگز ترس نہ آئے۔ اور چاہیئے کہ ان کی سزا کے وقت مسلمانوں کی ایک جماعت بھی موجود ہو"
+}

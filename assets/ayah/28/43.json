@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Qasas",
+    "surahNameArabic": "القصص",
+    "surahNameArabicLong": "سورة القصص",
+    "surahNameTranslation": "The Stories",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 28,
+    "ayahNo": 43,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/28_43.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/028043.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/28_43.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/028043.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/28_43.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/028043.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/28_43.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/028043.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/28_43.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/028043.mp3"
+        }
+    },
+    "english": "Indeed, We gave Moses the Scripture—after destroying earlier nations—as an insight for the people, a guide, and mercy so perhaps they would be mindful.",
+    "arabic1": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ مِنۢ بَعْدِ مَآ أَهْلَكْنَا ٱلْقُرُونَ ٱلْأُولَىٰ بَصَآئِرَ لِلنَّاسِ وَهُدًى وَرَحْمَةً لَّعَلَّهُمْ يَتَذَكَّرُونَ",
+    "arabic2": "ولقد اتينا موسى الكتاب من بعد ما اهلكنا القرون الاولى بصائر للناس وهدى ورحمة لعلهم يتذكرون",
+    "bengali": "আর অবশ্যই আমি পূর্ববর্তী বহু প্রজন্মকে ধ্বংস করার পর মানুষের জন্য আলোকবর্তিকা, হিদায়াত ও রহমতস্বরূপ মূসাকে কিতাব দিয়েছিলাম। যাতে তারা উপদেশ গ্রহণ করে।",
+    "urdu": "اور ہم نے پہلی اُمتوں کے ہلاک کرنے کے بعد موسٰی کو کتاب دی جو لوگوں کے لئے بصیرت اور ہدایت اور رحمت ہے تاکہ وہ نصیحت پکڑیں"
+}

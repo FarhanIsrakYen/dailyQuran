@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 137,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/7_137.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/007137.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/7_137.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/007137.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/7_137.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/007137.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/7_137.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/007137.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/7_137.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/007137.mp3"
+        }
+    },
+    "english": "And ˹so˺ We made the oppressed people successors of the eastern and western lands, which We had showered with blessings. ˹In this way˺ the noble Word of your Lord was fulfilled for the Children of Israel for what they had endured. And We destroyed what Pharaoh and his people constructed and what they established.",
+    "arabic1": "وَأَوْرَثْنَا ٱلْقَوْمَ ٱلَّذِينَ كَانُوا۟ يُسْتَضْعَفُونَ مَشَـٰرِقَ ٱلْأَرْضِ وَمَغَـٰرِبَهَا ٱلَّتِى بَـٰرَكْنَا فِيهَا ۖ وَتَمَّتْ كَلِمَتُ رَبِّكَ ٱلْحُسْنَىٰ عَلَىٰ بَنِىٓ إِسْرَٰٓءِيلَ بِمَا صَبَرُوا۟ ۖ وَدَمَّرْنَا مَا كَانَ يَصْنَعُ فِرْعَوْنُ وَقَوْمُهُۥ وَمَا كَانُوا۟ يَعْرِشُونَ",
+    "arabic2": "واورثنا القوم الذين كانوا يستضعفون مشارق الارض ومغاربها التي باركنا فيها وتمت كلمت ربك الحسنى على بني اسرائيل بما صبروا ودمرنا ما كان يصنع فرعون وقومه وما كانوا يعرشون",
+    "bengali": "আর যে জাতিকে দুর্বল মনে করা হত আমি তাদেরকে যমীনের পূর্ব ও তার পশ্চিমের উত্তরাধিকারী বানালাম, যেখানে আমি বরকত দিয়েছি এবং বনী ইসরাঈলের উপর তোমার রবের উত্তম বাণী পরিপূর্ণ হল। কারণ তারা ধৈর্য ধারণ করেছে। আর ধ্বংস করে দিলাম যা কিছু তৈরি করেছিল ফির‘আউন ও তার কওম এবং তারা যা নির্মাণ করেছিল।",
+    "urdu": "اور جو لوگ کمزور سمجھے جاتے تھے ان کو زمین (شام) کے مشرق ومغرب کا جس میں ہم نے برکت دی تھی وارث کردیا اور بنی اسرائیل کے بارے میں ان کے صبر کی وجہ سے تمہارے پروردگار کا وعدہٴ نیک پورا ہوا اور فرعون اور قوم فرعون جو (محل) بناتے اور (انگور کے باغ) جو چھتریوں پر چڑھاتے تھے سب کو ہم نے تباہ کردیا"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 140,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/7_140.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/007140.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/7_140.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/007140.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/7_140.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/007140.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/7_140.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/007140.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/7_140.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/007140.mp3"
+        }
+    },
+    "english": "He added, “Shall I seek for you a god other than Allah, while He has honoured you above the others?”",
+    "arabic1": "قَالَ أَغَيْرَ ٱللَّهِ أَبْغِيكُمْ إِلَـٰهًا وَهُوَ فَضَّلَكُمْ عَلَى ٱلْعَـٰلَمِينَ",
+    "arabic2": "قال اغير الله ابغيكم الها وهو فضلكم على العالمين",
+    "bengali": "সে বলল, ‘আল্লাহ ছাড়া আমি কি তোমাদের জন্য অন্য ইলাহ সন্ধান করব অথচ তিনি তোমাদেরকে সকল সৃষ্টির উপর শ্রেষ্ঠত্ব দিয়েছেন?’",
+    "urdu": "(اور یہ بھی) کہا کہ بھلا میں خدا کے سوا تمہارے لیے کوئی اور معبود تلاش کروں حالانکہ اس نے تم کو تمام اہل عالم پر فضیلت بخشی ہے"
+}

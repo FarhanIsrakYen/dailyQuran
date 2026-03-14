@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Kahf",
+    "surahNameArabic": "الكهف",
+    "surahNameArabicLong": "سورة الكهف",
+    "surahNameTranslation": "The Cave",
+    "revelationPlace": "Mecca",
+    "totalAyah": 110,
+    "surahNo": 18,
+    "ayahNo": 97,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/18_97.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/018097.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/18_97.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/018097.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/18_97.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/018097.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/18_97.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/018097.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/18_97.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/018097.mp3"
+        }
+    },
+    "english": "And so the enemies could neither scale nor tunnel through it.",
+    "arabic1": "فَمَا ٱسْطَـٰعُوٓا۟ أَن يَظْهَرُوهُ وَمَا ٱسْتَطَـٰعُوا۟ لَهُۥ نَقْبًا",
+    "arabic2": "فما اسطاعوا ان يظهروه وما استطاعوا له نقبا",
+    "bengali": "এরপর তারা (ইয়া’জূজ ও মা’জূজ) প্রাচীরের উপর দিয়ে অতিক্রম করতে পারল না এবং নিচ দিয়েও তা ভেদ করতে পারল না।",
+    "urdu": "پھر ان میں یہ قدرت نہ رہی کہ اس پر چڑھ سکیں اور نہ یہ طاقت رہی کہ اس میں نقب لگا سکیں"
+}

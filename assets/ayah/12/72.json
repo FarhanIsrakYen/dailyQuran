@@ -1,0 +1,42 @@
+{
+    "surahName": "Yusuf",
+    "surahNameArabic": "يوسف",
+    "surahNameArabicLong": "سورة يوسف",
+    "surahNameTranslation": "Joseph",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 12,
+    "ayahNo": 72,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/12_72.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/012072.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/12_72.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/012072.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/12_72.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/012072.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/12_72.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/012072.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/12_72.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/012072.mp3"
+        }
+    },
+    "english": "The herald ˹along with the guards˺ replied, “We have lost the King’s measuring cup. And whoever brings it will be awarded a camel-load ˹of grain˺. I guarantee it.”",
+    "arabic1": "قَالُوا۟ نَفْقِدُ صُوَاعَ ٱلْمَلِكِ وَلِمَن جَآءَ بِهِۦ حِمْلُ بَعِيرٍ وَأَنَا۠ بِهِۦ زَعِيمٌ",
+    "arabic2": "قالوا نفقد صواع الملك ولمن جاء به حمل بعير وانا به زعيم",
+    "bengali": "তারা বলল, ‘আমরা বাদশাহ্র পানপাত্র হারিয়েছি, যে তা এনে দেবে, তার জন্য রয়েছে এক উট বোঝাই পুরস্কার। আর আমিই এর যামিন’।",
+    "urdu": "وہ بولے کہ بادشاہ (کے پانی پینے) کا گلاس کھویا گیا ہے اور جو شخص اس کو لے آئے اس کے لیے ایک بار شتر (انعام) اور میں اس کا ضامن ہوں"
+}

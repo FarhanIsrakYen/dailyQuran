@@ -1,0 +1,42 @@
+{
+    "surahName": "Muhammad",
+    "surahNameArabic": "محمد",
+    "surahNameArabicLong": "سورة محمد",
+    "surahNameTranslation": "Muhammad",
+    "revelationPlace": "Madina",
+    "totalAyah": 38,
+    "surahNo": 47,
+    "ayahNo": 38,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/47_38.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/047038.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/47_38.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/047038.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/47_38.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/047038.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/47_38.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/047038.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/47_38.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/047038.mp3"
+        }
+    },
+    "english": "Here you are, being invited to donate ˹a little˺ in the cause of Allah. Still some of you withhold. And whoever does so, it is only to their own loss. For Allah is the Self-Sufficient, whereas you stand in need ˹of Him˺. If you ˹still˺ turn away, He will replace you with another people. And they will not be like you.",
+    "arabic1": "هَـٰٓأَنتُمْ هَـٰٓؤُلَآءِ تُدْعَوْنَ لِتُنفِقُوا۟ فِى سَبِيلِ ٱللَّهِ فَمِنكُم مَّن يَبْخَلُ ۖ وَمَن يَبْخَلْ فَإِنَّمَا يَبْخَلُ عَن نَّفْسِهِۦ ۚ وَٱللَّهُ ٱلْغَنِىُّ وَأَنتُمُ ٱلْفُقَرَآءُ ۚ وَإِن تَتَوَلَّوْا۟ يَسْتَبْدِلْ قَوْمًا غَيْرَكُمْ ثُمَّ لَا يَكُونُوٓا۟ أَمْثَـٰلَكُم",
+    "arabic2": "ها انتم هؤلاء تدعون لتنفقوا في سبيل الله فمنكم من يبخل ومن يبخل فانما يبخل عن نفسه والله الغني وانتم الفقراء وان تتولوا يستبدل قوما غيركم ثم لا يكونوا امثالكم",
+    "bengali": "তোমরাই তো তারা, তোমাদের আহবান করা হচ্ছে যে, তোমরা আল্লাহর পথে ব্যয় করবে। অথচ তোমাদের কেউ কেউ কার্পণ্য করছে। তবে যে কার্পণ্য করছে সে তো নিজের প্রতিই কার্পণ্য করছে। আর আল্লাহ অভাবমুক্ত এবং তোমরা অভাবগ্রস্ত। যদি তোমরা মুখ ফিরিয়ে নাও, তবে তিনি তোমাদের ছাড়া অন্য কোন কওমকে স্থলাভিষিক্ত করবেন। তারপর তারা তোমাদের অনুরূপ হবে না।",
+    "urdu": "دیکھو تم وہ لوگ ہو کہ خدا کی راہ میں خرچ کرنے کے لئے بلائے جاتے ہو۔ تو تم میں ایسے شخص بھی ہیں جو بخل کرنے لگتے ہیں۔ اور جو بخل کرتا ہے اپنے آپ سے بخل کرتا ہے۔ اور خدا بےنیاز ہے اور تم محتاج۔ اور اگر تم منہ پھیرو گے تو وہ تمہاری جگہ اور لوگوں کو لے آئے گا اور وہ تمہاری طرح کے نہیں ہوں گے"
+}

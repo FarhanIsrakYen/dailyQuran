@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 116,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/7_116.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/007116.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/7_116.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/007116.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/7_116.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/007116.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/7_116.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/007116.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/7_116.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/007116.mp3"
+        }
+    },
+    "english": "Moses said, “You first.” So when they did, they deceived the eyes of the people, stunned them, and made a great display of magic.",
+    "arabic1": "قَالَ أَلْقُوا۟ ۖ فَلَمَّآ أَلْقَوْا۟ سَحَرُوٓا۟ أَعْيُنَ ٱلنَّاسِ وَٱسْتَرْهَبُوهُمْ وَجَآءُو بِسِحْرٍ عَظِيمٍ",
+    "arabic2": "قال القوا فلما القوا سحروا اعين الناس واسترهبوهم وجاءوا بسحر عظيم",
+    "bengali": "সে বলল, ‘তোমরা নিক্ষেপ কর।’ অতঃপর যখন তারা নিক্ষেপ করল তখন তারা লোকদের চোখে যাদু করল এবং তাদেরকে ভীত করে তুলল। তারা বড় যাদু প্রদর্শন করল।",
+    "urdu": "(موسیٰ نے) کہا تم ہی ڈالو۔ جب انہوں نے (جادو کی چیزیں) ڈالیں تو لوگوں کی آنکھوں پر جادو کردیا (یعنی نظربندی کردی) اور (لاٹھیوں اور رسیوں کے سانپ بنا بنا کر) انہیں ڈرا دیا اور بہت بڑا جادو دکھایا"
+}

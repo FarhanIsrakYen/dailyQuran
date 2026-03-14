@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 146,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/7_146.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/007146.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/7_146.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/007146.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/7_146.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/007146.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/7_146.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/007146.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/7_146.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/007146.mp3"
+        }
+    },
+    "english": "I will turn away from My signs those who act unjustly with arrogance in the land. And even if they were to see every sign, they still would not believe in them. If they see the Right Path, they will not take it. But if they see a crooked path, they will follow it. This is because they denied Our signs and were heedless of them.",
+    "arabic1": "سَأَصْرِفُ عَنْ ءَايَـٰتِىَ ٱلَّذِينَ يَتَكَبَّرُونَ فِى ٱلْأَرْضِ بِغَيْرِ ٱلْحَقِّ وَإِن يَرَوْا۟ كُلَّ ءَايَةٍ لَّا يُؤْمِنُوا۟ بِهَا وَإِن يَرَوْا۟ سَبِيلَ ٱلرُّشْدِ لَا يَتَّخِذُوهُ سَبِيلًا وَإِن يَرَوْا۟ سَبِيلَ ٱلْغَىِّ يَتَّخِذُوهُ سَبِيلًا ۚ ذَٰلِكَ بِأَنَّهُمْ كَذَّبُوا۟ بِـَٔايَـٰتِنَا وَكَانُوا۟ عَنْهَا غَـٰفِلِينَ",
+    "arabic2": "ساصرف عن اياتي الذين يتكبرون في الارض بغير الحق وان يروا كل اية لا يؤمنوا بها وان يروا سبيل الرشد لا يتخذوه سبيلا وان يروا سبيل الغي يتخذوه سبيلا ذلك بانهم كذبوا باياتنا وكانوا عنها غافلين",
+    "bengali": "যারা অন্যায়ভাবে যমীনে অহঙ্কার করে আমার আয়াতসমূহ থেকে তাদেরকে আমি অবশ্যই ফিরিয়ে রাখব। আর তারা সকল আয়াত দেখলেও তাতে ঈমান আনবে না এবং তারা সঠিক পথ দেখলেও তাকে পথ হিসাবে গ্রহণ করবে না। আর তারা ভ্রান্ত পথ দেখলে তা পথ হিসাবে গ্রহণ করবে। এটা এ জন্য যে, তারা আমার আয়াতসমূহকে অস্বীকার করেছে এবং সে সম্পর্কে তারা ছিল গাফেল।",
+    "urdu": "جو لوگ زمین میں ناحق غرور کرتے ہیں ان کو اپنی آیتوں سے پھیر دوں گا۔ اگر یہ سب نشانیاں بھی دیکھ لیں تب بھی ان پر ایمان نہ لائیں اور اگر راستی کا رستہ دیکھیں تو اسے (اپنا) رستہ نہ بنائیں۔ اور اگر گمراہی کی راہ دیکھیں تو اسے رستہ بنالیں۔ یہ اس لیے کہ انہوں نے ہماری آیات کو جھٹلایا اور ان سے غفلت کرتے رہے"
+}

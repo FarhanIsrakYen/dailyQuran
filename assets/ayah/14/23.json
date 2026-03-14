@@ -1,0 +1,42 @@
+{
+    "surahName": "Ibrahim",
+    "surahNameArabic": "ابراهيم",
+    "surahNameArabicLong": "سورة ابراهيم",
+    "surahNameTranslation": "Abraham",
+    "revelationPlace": "Mecca",
+    "totalAyah": 52,
+    "surahNo": 14,
+    "ayahNo": 23,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/14_23.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/014023.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/14_23.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/014023.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/14_23.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/014023.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/14_23.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/014023.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/14_23.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/014023.mp3"
+        }
+    },
+    "english": "Those who believe and do good will be admitted into Gardens, under which rivers flow—to stay there forever by the Will of their Lord—where they will be greeted with “Peace!”",
+    "arabic1": "وَأُدْخِلَ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ جَنَّـٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ خَـٰلِدِينَ فِيهَا بِإِذْنِ رَبِّهِمْ ۖ تَحِيَّتُهُمْ فِيهَا سَلَـٰمٌ",
+    "arabic2": "وادخل الذين امنوا وعملوا الصالحات جنات تجري من تحتها الانهار خالدين فيها باذن ربهم تحيتهم فيها سلام",
+    "bengali": "আর যারা ঈমান আনে এবং নেক আমল করে তাদের জান্নাতে প্রবেশ করানো হবে, যার তলদেশে নহরসমূহ প্রবাহিত হবে, তারা তাতে তাদের রবের অনুমতিক্রমে স্থায়ী হবে। তথায় তাদের অভিবাদন হবে ‘সালাম’।",
+    "urdu": "اور جو ایمان لائے اور عمل نیک کیے وہ بہشتوں میں داخل کیے جائیں گے جن کے نیچے نہریں بہہ رہی ہیں اپنے پروردگار کے حکم سے ہمیشہ ان میں رہیں گے۔ وہاں ان کی صاحب سلامت سلام ہوگا"
+}

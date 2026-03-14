@@ -1,0 +1,42 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 107,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/3_107.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/003107.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/3_107.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/003107.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/3_107.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/003107.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/3_107.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/003107.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/3_107.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/003107.mp3"
+        }
+    },
+    "english": "As for the bright-faced, they will be in Allah’s mercy, where they will remain forever.",
+    "arabic1": "وَأَمَّا ٱلَّذِينَ ٱبْيَضَّتْ وُجُوهُهُمْ فَفِى رَحْمَةِ ٱللَّهِ هُمْ فِيهَا خَـٰلِدُونَ",
+    "arabic2": "واما الذين ابيضت وجوههم ففي رحمة الله هم فيها خالدون",
+    "bengali": "আর যাদের চেহারা সাদা হবে, তারা তো আল্লাহর রহমতে থাকবে। তারা সেখানে স্থায়ী হবে।",
+    "urdu": "اور جن لوگوں کے منہ سفید ہوں گے وہ خدا کی رحمت (کے باغوں) میں ہوں گے اور ان میں ہمیشہ رہیں گے"
+}

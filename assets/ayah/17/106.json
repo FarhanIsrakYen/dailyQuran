@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 106,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/17_106.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/017106.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/17_106.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/017106.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/17_106.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/017106.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/17_106.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/017106.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/17_106.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/017106.mp3"
+        }
+    },
+    "english": "˹It is˺ a Quran We have revealed in stages so that you may recite it to people at a deliberate pace. And We have sent it down in successive revelations.",
+    "arabic1": "وَقُرْءَانًا فَرَقْنَـٰهُ لِتَقْرَأَهُۥ عَلَى ٱلنَّاسِ عَلَىٰ مُكْثٍ وَنَزَّلْنَـٰهُ تَنزِيلًا",
+    "arabic2": "وقرانا فرقناه لتقراه على الناس على مكث ونزلناه تنزيلا",
+    "bengali": "আর কুরআন আমি নাযিল করেছি কিছু কিছু করে, যেন তুমি তা মানুষের কাছে পাঠ করতে পার ধীরে ধীরে এবং আমি তা নাযিল করেছি পর্যায়ক্রমে।",
+    "urdu": "اور ہم نے قرآن کو جزو جزو کرکے نازل کیا ہے تاکہ تم لوگوں کو ٹھیر ٹھیر کر پڑھ کر سناؤ اور ہم نے اس کو آہستہ آہستہ اُتارا ہے"
+}

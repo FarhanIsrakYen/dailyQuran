@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 158,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/7_158.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/007158.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/7_158.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/007158.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/7_158.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/007158.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/7_158.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/007158.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/7_158.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/007158.mp3"
+        }
+    },
+    "english": "Say, ˹O Prophet,˺ “O humanity! I am Allah’s Messenger to you all. To Him ˹alone˺ belongs the kingdom of the heavens and the earth. There is no god ˹worthy of worship˺ except Him. He gives life and causes death.” So believe in Allah and His Messenger, the unlettered Prophet, who believes in Allah and His revelations. And follow him, so you may be ˹rightly˺ guided.",
+    "arabic1": "قُلْ يَـٰٓأَيُّهَا ٱلنَّاسُ إِنِّى رَسُولُ ٱللَّهِ إِلَيْكُمْ جَمِيعًا ٱلَّذِى لَهُۥ مُلْكُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۖ لَآ إِلَـٰهَ إِلَّا هُوَ يُحْىِۦ وَيُمِيتُ ۖ فَـَٔامِنُوا۟ بِٱللَّهِ وَرَسُولِهِ ٱلنَّبِىِّ ٱلْأُمِّىِّ ٱلَّذِى يُؤْمِنُ بِٱللَّهِ وَكَلِمَـٰتِهِۦ وَٱتَّبِعُوهُ لَعَلَّكُمْ تَهْتَدُونَ",
+    "arabic2": "قل يا ايها الناس اني رسول الله اليكم جميعا الذي له ملك السماوات والارض لا اله الا هو يحيي ويميت فامنوا بالله ورسوله النبي الامي الذي يؤمن بالله وكلماته واتبعوه لعلكم تهتدون",
+    "bengali": "বল, ‘হে মানুষ, আমি তোমাদের সবার প্রতি আল্লাহর রাসূল, যার রয়েছে আসমানসমূহ ও যমীনের রাজত্ব। তিনি ছাড়া কোন (সত্য) ইলাহ নেই। তিনি জীবন দান করেন ও মৃত্যু দেন। সুতরাং তোমরা আল্লাহর প্রতি ঈমান আন ও তাঁর প্রেরিত উম্মী নবীর প্রতি, যে আল্লাহ ও তাঁর বাণীসমূহের প্রতি ঈমান রাখে। আর তোমরা তার অনুসরণ কর, আশা করা যায়, তোমরা হিদায়াত লাভ করবে।",
+    "urdu": "(اے محمدﷺ) کہہ دو کہ لوگو میں تم سب کی طرف خدا کا بھیجا ہوا (یعنی اس کا رسول) ہوں۔ (وہ) جو آسمانوں اور زمین کا بادشاہ ہے۔ اس کے سوا کوئی معبود نہیں وہی زندگانی بخشتا ہے اور وہی موت دیتا ہے۔ تو خدا پر اور اس کے رسول پیغمبر اُمی پر جو خدا پر اور اس کے تمام کلام پر ایمان رکھتے ہیں ایمان لاؤ اور ان کی پیروی کرو تاکہ ہدایت پاؤ"
+}

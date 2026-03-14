@@ -1,0 +1,42 @@
+{
+    "surahName": "Ar-Room",
+    "surahNameArabic": "الروم",
+    "surahNameArabicLong": "سورة الروم",
+    "surahNameTranslation": "The Romans",
+    "revelationPlace": "Mecca",
+    "totalAyah": 60,
+    "surahNo": 30,
+    "ayahNo": 39,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/30_39.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/030039.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/30_39.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/030039.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/30_39.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/030039.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/30_39.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/030039.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/30_39.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/030039.mp3"
+        }
+    },
+    "english": "Whatever loans you give, ˹only˺ seeking interest at the expense of people’s wealth will not increase with Allah. But whatever charity you give, ˹only˺ seeking the pleasure of Allah—it is they whose reward will be multiplied.",
+    "arabic1": "وَمَآ ءَاتَيْتُم مِّن رِّبًا لِّيَرْبُوَا۟ فِىٓ أَمْوَٰلِ ٱلنَّاسِ فَلَا يَرْبُوا۟ عِندَ ٱللَّهِ ۖ وَمَآ ءَاتَيْتُم مِّن زَكَوٰةٍ تُرِيدُونَ وَجْهَ ٱللَّهِ فَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُضْعِفُونَ",
+    "arabic2": "وما اتيتم من ربا ليربو في اموال الناس فلا يربو عند الله وما اتيتم من زكاة تريدون وجه الله فاولئك هم المضعفون",
+    "bengali": "আর তোমরা যে সূদ দিয়ে থাক, মানুষের সম্পদে বৃদ্ধি পাওয়ার জন্য তা মূলতঃ আল্লাহর কাছে বৃদ্ধি পায় না। আর তোমরা যে যাকাত দিয়ে থাক আল্লাহর সন্তুষ্টি কামনা করে (তাই বৃদ্ধি পায়) এবং তারাই বহুগুণ সম্পদ প্রাপ্ত।",
+    "urdu": "اور جو تم سود دیتے ہو کہ لوگوں کے مال میں افزائش ہو تو خدا کے نزدیک اس میں افزائش نہیں ہوتی اور جو تم زکوٰة دیتے ہو اور اُس سے خدا کی رضا مندی طلب کرتے ہو تو (وہ موجبِ برکت ہے اور) ایسے ہی لوگ (اپنے مال کو) دو چند سہ چند کرنے والے ہیں"
+}

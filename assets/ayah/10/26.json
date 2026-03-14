@@ -1,0 +1,42 @@
+{
+    "surahName": "Yunus",
+    "surahNameArabic": "يونس",
+    "surahNameArabicLong": "سورة يونس",
+    "surahNameTranslation": "Jonas",
+    "revelationPlace": "Mecca",
+    "totalAyah": 109,
+    "surahNo": 10,
+    "ayahNo": 26,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/10_26.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/010026.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/10_26.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/010026.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/10_26.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/010026.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/10_26.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/010026.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/10_26.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/010026.mp3"
+        }
+    },
+    "english": "Those who do good will have the finest reward and ˹even˺ more. Neither gloom nor disgrace will cover their faces. It is they who will be the residents of Paradise. They will be there forever.",
+    "arabic1": "۞ لِّلَّذِينَ أَحْسَنُوا۟ ٱلْحُسْنَىٰ وَزِيَادَةٌ ۖ وَلَا يَرْهَقُ وُجُوهَهُمْ قَتَرٌ وَلَا ذِلَّةٌ ۚ أُو۟لَـٰٓئِكَ أَصْحَـٰبُ ٱلْجَنَّةِ ۖ هُمْ فِيهَا خَـٰلِدُونَ",
+    "arabic2": "للذين احسنوا الحسنى وزيادة ولا يرهق وجوههم قتر ولا ذلة اولئك اصحاب الجنة هم فيها خالدون",
+    "bengali": "যারা ভালো কাজ করে তাদের জন্য রয়েছে শুভ পরিণাম (জান্নাত) এবং আরও বেশি। আর ধূলোমলিনতা ও লাঞ্ছনা তাদের চেহারাগুলোকে আচ্ছন্ন করবে না। তারাই জান্নাতবাসী। তারা তাতে স্থায়ী হবে।",
+    "urdu": "جن لوگوں نے نیکو کاری کی ان کے لیے بھلائی ہے اور (مزید برآں) اور بھی اور ان کے مونہوں پر نہ تو سیاہی چھائے گی اور نہ رسوائی۔ یہی جنتی ہیں کہ اس میں ہمیشہ رہیں گے"
+}

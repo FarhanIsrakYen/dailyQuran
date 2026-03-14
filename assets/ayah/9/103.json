@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 103,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/9_103.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/009103.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/9_103.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/009103.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/9_103.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/009103.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/9_103.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/009103.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/9_103.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/009103.mp3"
+        }
+    },
+    "english": "Take from their wealth ˹O Prophet˺ charity to purify and bless them, and pray for them—surely your prayer is a source of comfort for them. And Allah is All-Hearing, All-Knowing.",
+    "arabic1": "خُذْ مِنْ أَمْوَٰلِهِمْ صَدَقَةً تُطَهِّرُهُمْ وَتُزَكِّيهِم بِهَا وَصَلِّ عَلَيْهِمْ ۖ إِنَّ صَلَوٰتَكَ سَكَنٌ لَّهُمْ ۗ وَٱللَّهُ سَمِيعٌ عَلِيمٌ",
+    "arabic2": "خذ من اموالهم صدقة تطهرهم وتزكيهم بها وصل عليهم ان صلاتك سكن لهم والله سميع عليم",
+    "bengali": "তাদের সম্পদ থেকে সদাকা নাও। এর মাধ্যমে তাদেরকে তুমি পবিত্র ও পরিশুদ্ধ করবে। আর তাদের জন্য দো‘আ কর, নিশ্চয় তোমার দো‘আ তাদের জন্য প্রশান্তিকর। আর আল্লাহ সর্বশ্রোতা, সর্বজ্ঞ।",
+    "urdu": "ان کے مال میں سے زکوٰة قبول کر لو کہ اس سے تم ان کو (ظاہر میں بھی) پاک اور (باطن میں بھی) پاکیزہ کرتے ہو اور ان کے حق میں دعائے خیر کرو کہ تمہاری دعا ان کے لیے موجب تسکین ہے اور خدا سننے والا اور جاننے والا ہے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 263,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_263.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002263.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_263.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002263.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_263.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002263.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_263.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002263.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_263.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002263.mp3"
+        }
+    },
+    "english": "Kind words and forgiveness are better than charity followed by injury. And Allah is Self-Sufficient, Most Forbearing.",
+    "arabic1": "۞ قَوْلٌ مَّعْرُوفٌ وَمَغْفِرَةٌ خَيْرٌ مِّن صَدَقَةٍ يَتْبَعُهَآ أَذًى ۗ وَٱللَّهُ غَنِىٌّ حَلِيمٌ",
+    "arabic2": "قول معروف ومغفرة خير من صدقة يتبعها اذى والله غني حليم",
+    "bengali": "উত্তম কথা ও ক্ষমা প্রদর্শন শ্রেয়, যে দানের পর কষ্ট দেয়া হয় তার চেয়ে। আর আল্লাহ অভাবমুক্ত, সহনশীল।",
+    "urdu": "جس خیرات دینے کے بعد (لینے والے کو) ایذا دی جائے اس سے تو نرم بات کہہ دینی اور (اس کی بے ادبی سے) درگزر کرنا بہتر ہے اور خدا بےپروا اور بردبار ہے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Ar-Ra'd",
+    "surahNameArabic": "الرعد",
+    "surahNameArabicLong": "سورة الرعد",
+    "surahNameTranslation": "The Thunder",
+    "revelationPlace": "Madina",
+    "totalAyah": 43,
+    "surahNo": 13,
+    "ayahNo": 42,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/13_42.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/013042.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/13_42.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/013042.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/13_42.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/013042.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/13_42.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/013042.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/13_42.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/013042.mp3"
+        }
+    },
+    "english": "Those ˹disbelievers˺ before them ˹secretly˺ planned, but Allah has the ultimate plan. He knows what every soul commits. And the disbelievers will soon know who will have the ultimate outcome.",
+    "arabic1": "وَقَدْ مَكَرَ ٱلَّذِينَ مِن قَبْلِهِمْ فَلِلَّهِ ٱلْمَكْرُ جَمِيعًا ۖ يَعْلَمُ مَا تَكْسِبُ كُلُّ نَفْسٍ ۗ وَسَيَعْلَمُ ٱلْكُفَّـٰرُ لِمَنْ عُقْبَى ٱلدَّارِ",
+    "arabic2": "وقد مكر الذين من قبلهم فلله المكر جميعا يعلم ما تكسب كل نفس وسيعلم الكفار لمن عقبى الدار",
+    "bengali": "আর তাদের পূর্ববর্তীরাও ষড়যন্ত্র করেছিল, অথচ সকল ষড়যন্ত্র আল্লাহর নিয়ন্ত্রণে। প্রতিটি ব্যক্তি যা অর্জন করে, তিনি তা জানেন। আর কাফিররা অচিরেই জানবে আখিরাতের শুভপরিণতি কাদের জন্য।",
+    "urdu": "جو لوگ ان سے پہلے تھے وہ بھی (بہتری) چالیں چلتے رہے ہیں سو چال تو سب الله ہی کی ہے ہر متنفس جو کچھ کر رہا ہے وہ اسے جانتا ہے۔ اور کافر جلد معلوم کریں گے کہ عاقبت کا گھر (یعنی انجام محمود) کس کے لیے ہے"
+}

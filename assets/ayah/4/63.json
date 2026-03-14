@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 63,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/4_63.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/004063.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/4_63.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/004063.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/4_63.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/004063.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/4_63.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/004063.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/4_63.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/004063.mp3"
+        }
+    },
+    "english": "˹Only˺ Allah knows what is in their hearts. So turn away from them, caution them, and give them advice that will shake their very souls.",
+    "arabic1": "أُو۟لَـٰٓئِكَ ٱلَّذِينَ يَعْلَمُ ٱللَّهُ مَا فِى قُلُوبِهِمْ فَأَعْرِضْ عَنْهُمْ وَعِظْهُمْ وَقُل لَّهُمْ فِىٓ أَنفُسِهِمْ قَوْلًۢا بَلِيغًا",
+    "arabic2": "اولئك الذين يعلم الله ما في قلوبهم فاعرض عنهم وعظهم وقل لهم في انفسهم قولا بليغا",
+    "bengali": "ওরা হল সেসব লোক, যাদের অন্তরে কি আছে আল্লাহ তা জানেন। সুতরাং তুমি তাদের থেকে মুখ ফিরিয়ে নাও এবং তাদেরকে সদুপদেশ দাও। আর তাদেরকে তাদের নিজদের ব্যাপারে মর্মস্পর্শী কথা বল।",
+    "urdu": "ان لوگوں کے دلوں میں جو کچھ ہے خدا اس کو خوب جانتا ہے تم ان (کی باتوں) کو کچھ خیال نہ کرو اور انہیں نصیحت کرو اور ان سے ایسی باتیں کہو جو ان کے دلوں میں اثر کر جائیں"
+}

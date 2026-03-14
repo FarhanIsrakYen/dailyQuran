@@ -1,0 +1,42 @@
+{
+    "surahName": "Yusuf",
+    "surahNameArabic": "يوسف",
+    "surahNameArabicLong": "سورة يوسف",
+    "surahNameTranslation": "Joseph",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 12,
+    "ayahNo": 32,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/12_32.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/012032.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/12_32.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/012032.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/12_32.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/012032.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/12_32.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/012032.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/12_32.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/012032.mp3"
+        }
+    },
+    "english": "She said, “This is the one for whose love you criticized me! I did try to seduce him but he ˹firmly˺ refused. And if he does not do what I order him to, he will certainly be imprisoned and ˹fully˺ disgraced.”",
+    "arabic1": "قَالَتْ فَذَٰلِكُنَّ ٱلَّذِى لُمْتُنَّنِى فِيهِ ۖ وَلَقَدْ رَٰوَدتُّهُۥ عَن نَّفْسِهِۦ فَٱسْتَعْصَمَ ۖ وَلَئِن لَّمْ يَفْعَلْ مَآ ءَامُرُهُۥ لَيُسْجَنَنَّ وَلَيَكُونًا مِّنَ ٱلصَّـٰغِرِينَ",
+    "arabic2": "قالت فذلكن الذي لمتنني فيه ولقد راودته عن نفسه فاستعصم ولئن لم يفعل ما امره ليسجنن وليكونا من الصاغرين",
+    "bengali": "সে বলল, ‘এ-ই সে, যার ব্যাপারে তোমরা আমাকে ভৎর্সনা করেছিলে। আর আমিই তাকে কুপ্ররোচনা দিয়েছি; কিন্তু সে বিরত থেকেছে এবং আমি তাকে যা আদেশ করছি সে যদি তা না করে তবে অবশ্যই সে কারারুদ্ধ হবে এবং নিশ্চয় সে অপদস্থদের অন্তর্ভুক্ত হবে’।",
+    "urdu": "تب زلیخا نے کہا یہ وہی ہے جس کے بارے میں تم مجھے طعنے دیتی تھیں۔ اور بےشک میں نے اس کو اپنی طرف مائل کرنا چاہا مگر یہ بچا رہا۔ اور اگر یہ وہ کام نہ کرے گا جو میں اسے کہتی ہوں تو قید کردیا جائے گا اور ذلیل ہوگا"
+}

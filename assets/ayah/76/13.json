@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Insaan",
+    "surahNameArabic": "الانسان",
+    "surahNameArabicLong": "سورة الانسان",
+    "surahNameTranslation": "Man",
+    "revelationPlace": "Madina",
+    "totalAyah": 31,
+    "surahNo": 76,
+    "ayahNo": 13,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/76_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/076013.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/76_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/076013.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/76_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/076013.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/76_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/076013.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/76_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/076013.mp3"
+        }
+    },
+    "english": "There they will be reclining on ˹canopied˺ couches, never seeing scorching heat or bitter cold.",
+    "arabic1": "مُّتَّكِـِٔينَ فِيهَا عَلَى ٱلْأَرَآئِكِ ۖ لَا يَرَوْنَ فِيهَا شَمْسًا وَلَا زَمْهَرِيرًا",
+    "arabic2": "متكئين فيها على الارائك لا يرون فيها شمسا ولا زمهريرا",
+    "bengali": "তারা সেখানে সুউচ্চ আসনে হেলান দিয়ে আসীন থাকবে। তারা সেখানে না দেখবে অতিশয় গরম, আর না অত্যধিক শীত।",
+    "urdu": "ان میں وہ تختوں پر تکیے لگائے بیٹھے ہوں گے۔ وہاں نہ دھوپ (کی حدت) دیکھیں گے نہ سردی کی شدت"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Mujaadila",
+    "surahNameArabic": "المجادلة",
+    "surahNameArabicLong": "سورة المجادلة",
+    "surahNameTranslation": "The Pleading Woman",
+    "revelationPlace": "Madina",
+    "totalAyah": 22,
+    "surahNo": 58,
+    "ayahNo": 16,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/58_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/058016.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/58_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/058016.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/58_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/058016.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/58_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/058016.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/58_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/058016.mp3"
+        }
+    },
+    "english": "They have made their ˹false˺ oaths as a shield, hindering ˹others˺ from the cause of Allah. So they will suffer a humiliating punishment.",
+    "arabic1": "ٱتَّخَذُوٓا۟ أَيْمَـٰنَهُمْ جُنَّةً فَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ فَلَهُمْ عَذَابٌ مُّهِينٌ",
+    "arabic2": "اتخذوا ايمانهم جنة فصدوا عن سبيل الله فلهم عذاب مهين",
+    "bengali": "তারা তাদের কসমগুলোকে ঢাল হিসেবে নিয়েছে। অতঃপর তারা আল্লাহর পথে বাধা প্রদান করেছে। ফলে তাদের জন্য রয়েছে লাঞ্ছনাদায়ক আযাব।",
+    "urdu": "انہوں نے اپنی قسموں کو ڈھال بنا لیا اور (لوگوں کو) خدا کے راستے سے روک دیا ہے سو ان کے لئے ذلت کا عذاب ہے"
+}

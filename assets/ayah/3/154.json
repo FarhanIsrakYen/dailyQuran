@@ -1,0 +1,42 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 154,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/3_154.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/003154.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/3_154.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/003154.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/3_154.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/003154.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/3_154.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/003154.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/3_154.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/003154.mp3"
+        }
+    },
+    "english": "Then after distress, He sent down serenity in the form of drowsiness overcoming some of you, while others were disturbed by evil thoughts about Allah—the thoughts of ˹pre-Islamic˺ ignorance. They ask, “Do we have a say in the matter?” Say, ˹O Prophet,˺ “All matters are destined by Allah.” They conceal in their hearts what they do not reveal to you. They say ˹to themselves˺, “If we had any say in the matter, none of us would have come to die here.” Say, ˹O Prophet,˺ “Even if you were to remain in your homes, those among you who were destined to be killed would have met the same fate.” Through this, Allah tests what is within you and purifies what is in your hearts. And Allah knows best what is ˹hidden˺ in the heart.",
+    "arabic1": "ثُمَّ أَنزَلَ عَلَيْكُم مِّنۢ بَعْدِ ٱلْغَمِّ أَمَنَةً نُّعَاسًا يَغْشَىٰ طَآئِفَةً مِّنكُمْ ۖ وَطَآئِفَةٌ قَدْ أَهَمَّتْهُمْ أَنفُسُهُمْ يَظُنُّونَ بِٱللَّهِ غَيْرَ ٱلْحَقِّ ظَنَّ ٱلْجَـٰهِلِيَّةِ ۖ يَقُولُونَ هَل لَّنَا مِنَ ٱلْأَمْرِ مِن شَىْءٍ ۗ قُلْ إِنَّ ٱلْأَمْرَ كُلَّهُۥ لِلَّهِ ۗ يُخْفُونَ فِىٓ أَنفُسِهِم مَّا لَا يُبْدُونَ لَكَ ۖ يَقُولُونَ لَوْ كَانَ لَنَا مِنَ ٱلْأَمْرِ شَىْءٌ مَّا قُتِلْنَا هَـٰهُنَا ۗ قُل لَّوْ كُنتُمْ فِى بُيُوتِكُمْ لَبَرَزَ ٱلَّذِينَ كُتِبَ عَلَيْهِمُ ٱلْقَتْلُ إِلَىٰ مَضَاجِعِهِمْ ۖ وَلِيَبْتَلِىَ ٱللَّهُ مَا فِى صُدُورِكُمْ وَلِيُمَحِّصَ مَا فِى قُلُوبِكُمْ ۗ وَٱللَّهُ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ",
+    "arabic2": "ثم انزل عليكم من بعد الغم امنة نعاسا يغشى طائفة منكم وطائفة قد اهمتهم انفسهم يظنون بالله غير الحق ظن الجاهلية يقولون هل لنا من الامر من شيء قل ان الامر كله لله يخفون في انفسهم ما لا يبدون لك يقولون لو كان لنا من الامر شيء ما قتلنا هاهنا قل لو كنتم في بيوتكم لبرز الذين كتب عليهم القتل الى مضاجعهم وليبتلي الله ما في صدوركم وليمحص ما في قلوبكم والله عليم بذات الصدور",
+    "bengali": "তারপর তিনি তোমাদের উপর দুশ্চিন্তার পর নাযিল করলেন প্রশান্ত তন্দ্রা, যা তোমাদের মধ্য থেকে একদলকে ঢেকে ফেলেছিল, আর অপরদল নিজরাই নিজদেরকে চিন্তাগ্রস্ত করেছিল। তারা আল্লাহ সম্পর্কে জাহিলী ধারণার ন্যায় অসত্য ধারণা পোষণ করছিল। তারা বলছিল, ‘আমাদের কি কোন বিষয়ে অধিকার আছে’? বল, ‘নিশ্চয় সব বিষয় আল্লাহর’। তারা তাদের অন্তরে লুকিয়ে রাখে এমন বিষয় যা তোমার কাছে প্রকাশ করে না। তারা বলে, ‘যদি কোন বিষয়ে আমাদের অধিকার থাকত, তাহলে আমাদেরকে এখানে হত্যা করা হত না’। বল, ‘তোমরা যদি তোমাদের ঘরে থাকতে তাহলেও যাদের ব্যাপারে নিহত হওয়া অবধারিত রয়েছে, অবশ্যই তারা তাদের নিহত হওয়ার স্থলের দিকে বের হয়ে যেত। আর যাতে তোমাদের মনে যা আছে আল্লাহ তা পরীক্ষা করেন এবং তোমাদের অন্তরসমূহে যা আছে তা পরিষ্কার করেন। আর আল্লাহ তোমাদের অন্তরের বিষয় সম্পর্কে পূর্ণ জ্ঞাত’।",
+    "urdu": "پھر خدا نے غم ورنج کے بعد تم پر تسلی نازل فرمائی (یعنی) نیند کہ تم میں سے ایک جماعت پر طاری ہو گئی اور کچھ لوگ جن کو جان کے لالے پڑ رہے تھے خدا کے بارے میں ناحق (ایام) کفر کے سے گمان کرتے تھے اور کہتے تھے بھلا ہمارے اختیار کی کچھ بات ہے؟ تم کہہ دو کہ بےشک سب باتیں خدا ہی کے اختیار میں ہیں یہ لوگ (بہت سی باتیں) دلوں میں مخفی رکھتے ہیں جو تم پر ظاہر نہیں کرتے تھے کہتے تھے کہ ہمارے بس کی بات ہوتی تو ہم یہاں قتل ہی نہ کیے جاتے کہہ دو کہ اگر تم اپنے گھروں میں بھی ہوتے تو جن کی تقدیر میں مارا جانا لکھا تھا وہ اپنی اپنی قتل گاہوں کی طرف ضرور نکل آتے اس سے غرض یہ تھی کہ خدا تمہارے سینوں کی باتوں کو آزمائے اور جو کچھ تمہارے دلوں میں ہے اس کو خالص اور صاف کر دے اور خدا دلوں کی باتوں سے خوب واقف ہے"
+}

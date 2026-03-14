@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Hujuraat",
+    "surahNameArabic": "الحجرات",
+    "surahNameArabicLong": "سورة الحجرات",
+    "surahNameTranslation": "The Inner Apartments",
+    "revelationPlace": "Madina",
+    "totalAyah": 18,
+    "surahNo": 49,
+    "ayahNo": 3,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/49_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/049003.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/49_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/049003.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/49_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/049003.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/49_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/049003.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/49_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/049003.mp3"
+        }
+    },
+    "english": "Indeed, those who lower their voices in the presence of Allah’s Messenger are the ones whose hearts Allah has refined for righteousness. They will have forgiveness and a great reward.",
+    "arabic1": "إِنَّ ٱلَّذِينَ يَغُضُّونَ أَصْوَٰتَهُمْ عِندَ رَسُولِ ٱللَّهِ أُو۟لَـٰٓئِكَ ٱلَّذِينَ ٱمْتَحَنَ ٱللَّهُ قُلُوبَهُمْ لِلتَّقْوَىٰ ۚ لَهُم مَّغْفِرَةٌ وَأَجْرٌ عَظِيمٌ",
+    "arabic2": "ان الذين يغضون اصواتهم عند رسول الله اولئك الذين امتحن الله قلوبهم للتقوى لهم مغفرة واجر عظيم",
+    "bengali": "নিশ্চয় যারা আল্লাহর রাসূলের নিকট নিজদের আওয়াজ অবনমিত করে, আল্লাহ তাদেরই অন্তরগুলোকে তাকওয়ার জন্য বাছাই করেছেন, তাদের জন্য রয়েছে ক্ষমা ও মহাপ্রতিদান।",
+    "urdu": "جو لوگ پیغمبر خدا کے سامنے دبی آواز سے بولتے ہیں خدا نے ان کے دل تقویٰ کے لئے آزما لئے ہیں۔ ان کے لئے بخشش اور اجر عظیم ہے"
+}

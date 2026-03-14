@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Naml",
+    "surahNameArabic": "النمل",
+    "surahNameArabicLong": "سورة النمل",
+    "surahNameTranslation": "The Ant",
+    "revelationPlace": "Mecca",
+    "totalAyah": 93,
+    "surahNo": 27,
+    "ayahNo": 17,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/27_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/027017.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/27_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/027017.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/27_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/027017.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/27_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/027017.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/27_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/027017.mp3"
+        }
+    },
+    "english": "Solomon’s forces of jinn, humans, and birds were rallied for him, perfectly organized.",
+    "arabic1": "وَحُشِرَ لِسُلَيْمَـٰنَ جُنُودُهُۥ مِنَ ٱلْجِنِّ وَٱلْإِنسِ وَٱلطَّيْرِ فَهُمْ يُوزَعُونَ",
+    "arabic2": "وحشر لسليمان جنوده من الجن والانس والطير فهم يوزعون",
+    "bengali": "আর সুলাইমানের জন্য তার সেনাবাহিনী থেকে জিন, মানুষ ও পাখিদের সমবেত করা হল। তারপর এদেরকে বিন্যস্ত করা হল।",
+    "urdu": "اور سلیمان کے لئے جنوں اور انسانوں اور پرندوں کے لشکر جمع کئے گئے اور قسم وار کئے جاتے تھے"
+}

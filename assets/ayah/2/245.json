@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 245,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_245.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002245.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_245.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002245.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_245.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002245.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_245.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002245.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_245.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002245.mp3"
+        }
+    },
+    "english": "Who will lend to Allah a good loan which Allah will multiply many times over? It is Allah ˹alone˺ who decreases and increases ˹wealth˺. And to Him you will ˹all˺ be returned.",
+    "arabic1": "مَّن ذَا ٱلَّذِى يُقْرِضُ ٱللَّهَ قَرْضًا حَسَنًا فَيُضَـٰعِفَهُۥ لَهُۥٓ أَضْعَافًا كَثِيرَةً ۚ وَٱللَّهُ يَقْبِضُ وَيَبْصُۜطُ وَإِلَيْهِ تُرْجَعُونَ",
+    "arabic2": "من ذا الذي يقرض الله قرضا حسنا فيضاعفه له اضعافا كثيرة والله يقبض ويبسط واليه ترجعون",
+    "bengali": "কে আছে, যে আল্লাহকে উত্তম ঋণ দেবে, ফলে তিনি তার জন্য বহু গুণে বাড়িয়ে দেবেন? আর আল্লাহ সংকীর্ণ করেন ও প্রসারিত করেন এবং তাঁরই নিকট তোমাদেরকে ফিরানো হবে।",
+    "urdu": "کوئی ہے کہ خدا کو قرض حسنہ دے کہ وہ اس کے بدلے اس کو کئی حصے زیادہ دے گا۔ اور خدا ہی روزی کو تنگ کرتا اور (وہی اسے) کشادہ کرتا ہے۔ اور تم اسی کی طرف لوٹ کر جاؤ گے"
+}

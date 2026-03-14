@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Hijr",
+    "surahNameArabic": "الحجر",
+    "surahNameArabicLong": "سورة الحجر",
+    "surahNameTranslation": "The Rock",
+    "revelationPlace": "Mecca",
+    "totalAyah": 99,
+    "surahNo": 15,
+    "ayahNo": 15,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/15_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/015015.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/15_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/015015.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/15_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/015015.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/15_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/015015.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/15_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/015015.mp3"
+        }
+    },
+    "english": "still they would say, “Our eyes have truly been dazzled! In fact, we must have been bewitched.”",
+    "arabic1": "لَقَالُوٓا۟ إِنَّمَا سُكِّرَتْ أَبْصَـٰرُنَا بَلْ نَحْنُ قَوْمٌ مَّسْحُورُونَ",
+    "arabic2": "لقالوا انما سكرت ابصارنا بل نحن قوم مسحورون",
+    "bengali": "তবুও তারা বলত, নিশ্চয় আমাদের দৃষ্টি কেড়ে নেয়া হয়েছে, বরং আমরা তো যাদুগ্রস্ত সম্প্রদায়।",
+    "urdu": "تو بھی یہی کہیں کہ ہماری آنکھیں مخمور ہوگئی ہیں بلکہ ہم پر جادو کر دیا گیا ہے"
+}

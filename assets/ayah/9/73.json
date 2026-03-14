@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 73,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/9_73.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/009073.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/9_73.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/009073.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/9_73.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/009073.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/9_73.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/009073.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/9_73.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/009073.mp3"
+        }
+    },
+    "english": "O Prophet! Struggle against the disbelievers and the hypocrites, and be firm with them. Hell will be their home. What an evil destination!",
+    "arabic1": "يَـٰٓأَيُّهَا ٱلنَّبِىُّ جَـٰهِدِ ٱلْكُفَّارَ وَٱلْمُنَـٰفِقِينَ وَٱغْلُظْ عَلَيْهِمْ ۚ وَمَأْوَىٰهُمْ جَهَنَّمُ ۖ وَبِئْسَ ٱلْمَصِيرُ",
+    "arabic2": "يا ايها النبي جاهد الكفار والمنافقين واغلظ عليهم وماواهم جهنم وبئس المصير",
+    "bengali": "হে নবী, কাফির ও মুনাফিকদের বিরুদ্ধে জিহাদ কর এবং তাদের উপর কঠোর হও, আর তাদের ঠিকানা হল জাহান্নাম; আর তা কতইনা নিকৃষ্ট স্থান।",
+    "urdu": "اے پیغمبر! کافروں اور منافقوں سے لڑو۔ اور ان پر سختی کرو۔ اور ان کا ٹھکانہ دورخ ہے اور وہ بری جگہ ہے"
+}

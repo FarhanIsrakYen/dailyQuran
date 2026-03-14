@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 6,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/6_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/006006.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/6_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/006006.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/6_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/006006.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/6_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/006006.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/6_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/006006.mp3"
+        }
+    },
+    "english": "Have they not seen how many ˹disbelieving˺ peoples We destroyed before them? We had made them more established in the land than you. We sent down abundant rain for them and made rivers flow at their feet. Then We destroyed them for their sins and replaced them with other peoples.",
+    "arabic1": "أَلَمْ يَرَوْا۟ كَمْ أَهْلَكْنَا مِن قَبْلِهِم مِّن قَرْنٍ مَّكَّنَّـٰهُمْ فِى ٱلْأَرْضِ مَا لَمْ نُمَكِّن لَّكُمْ وَأَرْسَلْنَا ٱلسَّمَآءَ عَلَيْهِم مِّدْرَارًا وَجَعَلْنَا ٱلْأَنْهَـٰرَ تَجْرِى مِن تَحْتِهِمْ فَأَهْلَكْنَـٰهُم بِذُنُوبِهِمْ وَأَنشَأْنَا مِنۢ بَعْدِهِمْ قَرْنًا ءَاخَرِينَ",
+    "arabic2": "الم يروا كم اهلكنا من قبلهم من قرن مكناهم في الارض ما لم نمكن لكم وارسلنا السماء عليهم مدرارا وجعلنا الانهار تجري من تحتهم فاهلكناهم بذنوبهم وانشانا من بعدهم قرنا اخرين",
+    "bengali": "তারা কি দেখে না, আমি তাদের পূর্বে বহু প্রজন্মকে ধ্বংস করেছি? যাদেরকে যমীনে এমনভাবে প্রতিষ্ঠিত করেছিলাম যেভাবে তোমাদেরকে প্রতিষ্ঠিত করিনি। আর তাদের উপর বৃষ্টি পাঠিয়েছিলাম মুষলধারে এবং সৃষ্টি করেছিলাম নদীসমূহ যা তাদের নীচে প্রবাহিত হত। অতঃপর তাদের পাপের কারণে তাদেরকে ধ্বংস করেছি এবং তাদের পরে অন্য প্রজন্মকে সৃষ্টি করেছি।",
+    "urdu": "کیا انہوں نے نہیں دیکھا کہ ہم نے ان سے پہلے کتنی امتوں کو ہلاک کر دیا جن کے پاؤں ملک میں ایسے جما دیئے تھے کہ تمہارے پاؤں بھی ایسے نہیں جمائے اور ان پر آسمان سے لگاتار مینہ برسایا اور نہریں بنا دیں جو ان کے (مکانوں کے) نیچے بہہ رہی تھیں پھر ان کو ان کے گناہوں کے سبب ہلاک کر دیا اور ان کے بعد اور امتیں پیدا کر دیں"
+}

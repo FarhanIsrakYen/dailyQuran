@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 124,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/7_124.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/007124.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/7_124.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/007124.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/7_124.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/007124.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/7_124.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/007124.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/7_124.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/007124.mp3"
+        }
+    },
+    "english": "I will certainly cut off your hands and feet on opposite sides, then crucify you all.”",
+    "arabic1": "لَأُقَطِّعَنَّ أَيْدِيَكُمْ وَأَرْجُلَكُم مِّنْ خِلَـٰفٍ ثُمَّ لَأُصَلِّبَنَّكُمْ أَجْمَعِينَ",
+    "arabic2": "لاقطعن ايديكم وارجلكم من خلاف ثم لاصلبنكم اجمعين",
+    "bengali": "আমি অবশ্যই তোমাদের হাত ও পা বিপরীত দিক থেকে কেটে দেব। তারপর অবশ্যই তোমাদের সবাইকে শূলে চড়াব।’",
+    "urdu": "میں (پہلے تو) تمہارے ایک طرف کے ہاتھ اور دوسری طرف کے پاؤں کٹوا دوں گا پھر تم سب کو سولی چڑھوا دوں گا"
+}

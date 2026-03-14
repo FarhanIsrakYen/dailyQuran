@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Ankaboot",
+    "surahNameArabic": "العنكبوت",
+    "surahNameArabicLong": "سورة العنكبوت",
+    "surahNameTranslation": "The Spider",
+    "revelationPlace": "Mecca",
+    "totalAyah": 69,
+    "surahNo": 29,
+    "ayahNo": 34,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/29_34.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/029034.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/29_34.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/029034.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/29_34.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/029034.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/29_34.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/029034.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/29_34.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/029034.mp3"
+        }
+    },
+    "english": "We are certainly bringing down a punishment from heaven upon the people of this city for their rebelliousness.”",
+    "arabic1": "إِنَّا مُنزِلُونَ عَلَىٰٓ أَهْلِ هَـٰذِهِ ٱلْقَرْيَةِ رِجْزًا مِّنَ ٱلسَّمَآءِ بِمَا كَانُوا۟ يَفْسُقُونَ",
+    "arabic2": "انا منزلون على اهل هذه القرية رجزا من السماء بما كانوا يفسقون",
+    "bengali": "নিশ্চয় আমরা এ জনপদবাসীর উপর আসমান থেকে শাস্তি নাযিল করব। কারণ তারা পাপাচার করত।",
+    "urdu": "ہم اس بستی کے رہنے والوں پر اس سبب سے کہ یہ بدکرداری کرتے رہے ہیں آسمان سے عذاب نازل کرنے والے ہیں"
+}

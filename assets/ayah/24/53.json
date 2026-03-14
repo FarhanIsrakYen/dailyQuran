@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Noor",
+    "surahNameArabic": "النور",
+    "surahNameArabicLong": "سورة النور",
+    "surahNameTranslation": "The Light",
+    "revelationPlace": "Madina",
+    "totalAyah": 64,
+    "surahNo": 24,
+    "ayahNo": 53,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/24_53.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/024053.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/24_53.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/024053.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/24_53.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/024053.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/24_53.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/024053.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/24_53.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/024053.mp3"
+        }
+    },
+    "english": "They swear by Allah their most solemn oaths that if you ˹O Prophet˺ were to command them, they would certainly march forth ˹in Allah’s cause˺. Say, “˹You˺ do not ˹have to˺ swear; your obedience is well known!” Surely Allah is All-Aware of what you do.”",
+    "arabic1": "۞ وَأَقْسَمُوا۟ بِٱللَّهِ جَهْدَ أَيْمَـٰنِهِمْ لَئِنْ أَمَرْتَهُمْ لَيَخْرُجُنَّ ۖ قُل لَّا تُقْسِمُوا۟ ۖ طَاعَةٌ مَّعْرُوفَةٌ ۚ إِنَّ ٱللَّهَ خَبِيرٌۢ بِمَا تَعْمَلُونَ",
+    "arabic2": "واقسموا بالله جهد ايمانهم لئن امرتهم ليخرجن قل لا تقسموا طاعة معروفة ان الله خبير بما تعملون",
+    "bengali": "আর তারা তাদের সুদৃঢ় শপথের মাধ্যমে আল্লাহর নামে কসম করে বলে যে, ‘তুমি যদি তাদের আদেশ কর তবে তারা বের হবেই। তুমি বল, ‘তোমরা কসম করো না। [তোমাদের] আনুগত্য তো জানাই আছে। তোমরা যা কিছু কর, নিশ্চয় আল্লাহ সে বিষয়ে সবিশেষ অবহিত’।",
+    "urdu": "اور (یہ) خدا کی سخت سخت قسمیں کھاتے ہیں کہ اگر تم ان کو حکم دو تو (سب گھروں سے) نکل کھڑے ہوں۔ کہہ دو کہ قسمیں مت کھاؤ، پسندیدہ فرمانبرداری (درکار ہے)۔ بےشک خدا تمہارے سب اعمال سے خبردار ہے"
+}

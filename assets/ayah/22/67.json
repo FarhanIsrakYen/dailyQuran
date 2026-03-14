@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Hajj",
+    "surahNameArabic": "الحج",
+    "surahNameArabicLong": "سورة الحج",
+    "surahNameTranslation": "The Pilgrimage",
+    "revelationPlace": "Madina",
+    "totalAyah": 78,
+    "surahNo": 22,
+    "ayahNo": 67,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/22_67.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/022067.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/22_67.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/022067.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/22_67.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/022067.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/22_67.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/022067.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/22_67.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/022067.mp3"
+        }
+    },
+    "english": "For every community We appointed a code of life to follow. So do not let them dispute with you ˹O Prophet˺ in this matter. And invite ˹all˺ to your Lord, for you are truly on the Right Guidance.",
+    "arabic1": "لِّكُلِّ أُمَّةٍ جَعَلْنَا مَنسَكًا هُمْ نَاسِكُوهُ ۖ فَلَا يُنَـٰزِعُنَّكَ فِى ٱلْأَمْرِ ۚ وَٱدْعُ إِلَىٰ رَبِّكَ ۖ إِنَّكَ لَعَلَىٰ هُدًى مُّسْتَقِيمٍ",
+    "arabic2": "لكل امة جعلنا منسكا هم ناسكوه فلا ينازعنك في الامر وادع الى ربك انك لعلى هدى مستقيم",
+    "bengali": "আমি প্রত্যেক জাতির জন্য ইবাদাতের নিয়ম-কানুন নির্ধারণ করে দিয়েছি, তারা যার অনুসরণকারী। সুতরাং তারা যেন তোমার সাথে এ ব্যাপারে কোন বিতর্ক করতে না পারে। আর তুমি তোমার রবের দিকে আহবান কর। নিশ্চয় তুমি সরল পথেই রয়েছ।",
+    "urdu": "ہم نے ہر ایک اُمت کے لئے ایک شریعت مقرر کردی ہے جس پر وہ چلتے ہیں تو یہ لوگ تم سے اس امر میں جھگڑا نہ کریں اور تم (لوگوں کو) اپنے پروردگار کی طرف بلاتے رہو۔ بےشک تم سیدھے رستے پر ہو"
+}

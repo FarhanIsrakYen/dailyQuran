@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Kahf",
+    "surahNameArabic": "الكهف",
+    "surahNameArabicLong": "سورة الكهف",
+    "surahNameTranslation": "The Cave",
+    "revelationPlace": "Mecca",
+    "totalAyah": 110,
+    "surahNo": 18,
+    "ayahNo": 35,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/18_35.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/018035.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/18_35.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/018035.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/18_35.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/018035.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/18_35.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/018035.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/18_35.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/018035.mp3"
+        }
+    },
+    "english": "And he entered his property, while wronging his soul, saying, “I do not think this will ever perish",
+    "arabic1": "وَدَخَلَ جَنَّتَهُۥ وَهُوَ ظَالِمٌ لِّنَفْسِهِۦ قَالَ مَآ أَظُنُّ أَن تَبِيدَ هَـٰذِهِۦٓ أَبَدًا",
+    "arabic2": "ودخل جنته وهو ظالم لنفسه قال ما اظن ان تبيد هذه ابدا",
+    "bengali": "আর সে তার বাগানে প্রবেশ করল, নিজের প্রতি যুলমরত অবস্থায়। সে বলল, ‘আমি মনে করি না যে, এটি কখনো ধ্বংস হবে’।",
+    "urdu": "اور (ایسی شیخیوں) سے اپنے حق میں ظلم کرتا ہوا اپنے باغ میں داخل ہوا۔ کہنے لگا کہ میں نہیں خیال کرتا کہ یہ باغ کبھی تباہ ہو"
+}

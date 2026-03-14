@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Qasas",
+    "surahNameArabic": "القصص",
+    "surahNameArabicLong": "سورة القصص",
+    "surahNameTranslation": "The Stories",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 28,
+    "ayahNo": 78,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/28_78.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/028078.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/28_78.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/028078.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/28_78.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/028078.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/28_78.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/028078.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/28_78.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/028078.mp3"
+        }
+    },
+    "english": "He replied, “I have been granted all this because of some knowledge I have.” Did he not know that Allah had already destroyed some from the generations before him who were far superior to him in power and greater in accumulating ˹wealth˺? There will be no need for the wicked to be asked about their sins.",
+    "arabic1": "قَالَ إِنَّمَآ أُوتِيتُهُۥ عَلَىٰ عِلْمٍ عِندِىٓ ۚ أَوَلَمْ يَعْلَمْ أَنَّ ٱللَّهَ قَدْ أَهْلَكَ مِن قَبْلِهِۦ مِنَ ٱلْقُرُونِ مَنْ هُوَ أَشَدُّ مِنْهُ قُوَّةً وَأَكْثَرُ جَمْعًا ۚ وَلَا يُسْـَٔلُ عَن ذُنُوبِهِمُ ٱلْمُجْرِمُونَ",
+    "arabic2": "قال انما اوتيته على علم عندي اولم يعلم ان الله قد اهلك من قبله من القرون من هو اشد منه قوة واكثر جمعا ولا يسال عن ذنوبهم المجرمون",
+    "bengali": "সে বলল, ‘আমি তো এই ধনভান্ডার প্রাপ্ত হয়েছি আমার কাছে থাকা জ্ঞান দ্বারা’। সে কি জানত না যে, আল্লাহ তার পূর্বে বহু প্রজন্মকে ধ্বংস করে দিয়েছেন, যারা ছিল তার থেকে শক্তিমত্তায় প্রবলতর এবং জনসংখ্যায় অধিক। আর অপরাধীদেরকে তাদের অপরাধ সম্পর্কে প্রশ্ন করা হবে না।",
+    "urdu": "بولا کہ یہ (مال) مجھے میری دانش (کے زور) سے ملا ہے کیا اس کو معلوم نہیں کہ خدا نے اس سے پہلے بہت سی اُمتیں جو اس سے قوت میں بڑھ کر اور جمعیت میں بیشتر تھیں ہلاک کر ڈالی ہیں۔ اور گنہگاروں سے اُن کے گناہوں کے بارے میں پوچھا نہیں جائے گا"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Muhammad",
+    "surahNameArabic": "محمد",
+    "surahNameArabicLong": "سورة محمد",
+    "surahNameTranslation": "Muhammad",
+    "revelationPlace": "Madina",
+    "totalAyah": 38,
+    "surahNo": 47,
+    "ayahNo": 24,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/47_24.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/047024.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/47_24.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/047024.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/47_24.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/047024.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/47_24.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/047024.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/47_24.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/047024.mp3"
+        }
+    },
+    "english": "Do they not then reflect on the Quran? Or are there locks upon their hearts?",
+    "arabic1": "أَفَلَا يَتَدَبَّرُونَ ٱلْقُرْءَانَ أَمْ عَلَىٰ قُلُوبٍ أَقْفَالُهَآ",
+    "arabic2": "افلا يتدبرون القران ام على قلوب اقفالها",
+    "bengali": "তবে কি তারা কুরআন নিয়ে গভীর চিন্তা- ভাবনা করে না? নাকি তাদের অন্তরসমূহে তালা রয়েছে?",
+    "urdu": "بھلا یہ لوگ قرآن میں غور نہیں کرتے یا (ان کے) دلوں پر قفل لگ رہے ہیں"
+}

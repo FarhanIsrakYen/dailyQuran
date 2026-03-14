@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Maaida",
+    "surahNameArabic": "المائدة",
+    "surahNameArabicLong": "سورة المائدة",
+    "surahNameTranslation": "The Table",
+    "revelationPlace": "Madina",
+    "totalAyah": 120,
+    "surahNo": 5,
+    "ayahNo": 99,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/5_99.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/005099.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/5_99.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/005099.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/5_99.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/005099.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/5_99.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/005099.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/5_99.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/005099.mp3"
+        }
+    },
+    "english": "The Messenger’s duty is only to deliver ˹the message˺. And Allah ˹fully˺ knows what you reveal and what you conceal.",
+    "arabic1": "مَّا عَلَى ٱلرَّسُولِ إِلَّا ٱلْبَلَـٰغُ ۗ وَٱللَّهُ يَعْلَمُ مَا تُبْدُونَ وَمَا تَكْتُمُونَ",
+    "arabic2": "ما على الرسول الا البلاغ والله يعلم ما تبدون وما تكتمون",
+    "bengali": "প্রচার ব্যতীত রাসূলের কোন দায়িত্ব নেই। আর তোমরা যা প্রকাশ কর এবং যা গোপন কর আল্লাহ তা জানেন।",
+    "urdu": "پیغمبر کے ذمے تو صرف پیغام خدا کا پہنچا دینا ہے اور جو کچھ تم ظاہر کرتے ہو اور جو کچھ مخفی کرتے ہو خدا کو سب معلوم ہے"
+}

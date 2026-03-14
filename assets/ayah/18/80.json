@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Kahf",
+    "surahNameArabic": "الكهف",
+    "surahNameArabicLong": "سورة الكهف",
+    "surahNameTranslation": "The Cave",
+    "revelationPlace": "Mecca",
+    "totalAyah": 110,
+    "surahNo": 18,
+    "ayahNo": 80,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/18_80.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/018080.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/18_80.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/018080.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/18_80.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/018080.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/18_80.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/018080.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/18_80.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/018080.mp3"
+        }
+    },
+    "english": "“And as for the boy, his parents were ˹true˺ believers, and we feared that he would pressure them into defiance and disbelief.",
+    "arabic1": "وَأَمَّا ٱلْغُلَـٰمُ فَكَانَ أَبَوَاهُ مُؤْمِنَيْنِ فَخَشِينَآ أَن يُرْهِقَهُمَا طُغْيَـٰنًا وَكُفْرًا",
+    "arabic2": "واما الغلام فكان ابواه مؤمنين فخشينا ان يرهقهما طغيانا وكفرا",
+    "bengali": "‘আর বালকটির বিষয় হল, তার পিতা-মাতা ছিল মুমিন। অতঃপর আমি আশংকা* করলাম যে, সে সীমালংঘন ও কুফরী দ্বারা তাদেরকে অতিষ্ঠ করে তুলবে’। \n* তাঁর আশংকা নিছক ধারণা ভিত্তিক ছিল না, বরং আল্লাহর পক্ষ থেকে তিনি নিশ্চিত জানতে পেরেছিলেন।",
+    "urdu": "اور وہ جو لڑکا تھا اس کے ماں باپ دنوں مومن تھے ہمیں اندیشہ ہوا کہ (وہ بڑا ہو کر بدکردار ہوتا کہیں) ان کو سرکشی اور کفر میں نہ پھنسا دے"
+}

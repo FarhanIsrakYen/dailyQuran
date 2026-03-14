@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Qasas",
+    "surahNameArabic": "القصص",
+    "surahNameArabicLong": "سورة القصص",
+    "surahNameTranslation": "The Stories",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 28,
+    "ayahNo": 56,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/28_56.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/028056.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/28_56.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/028056.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/28_56.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/028056.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/28_56.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/028056.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/28_56.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/028056.mp3"
+        }
+    },
+    "english": "You surely cannot guide whoever you like ˹O Prophet˺, but it is Allah Who guides whoever He wills, and He knows best who are ˹fit to be˺ guided.",
+    "arabic1": "إِنَّكَ لَا تَهْدِى مَنْ أَحْبَبْتَ وَلَـٰكِنَّ ٱللَّهَ يَهْدِى مَن يَشَآءُ ۚ وَهُوَ أَعْلَمُ بِٱلْمُهْتَدِينَ",
+    "arabic2": "انك لا تهدي من احببت ولكن الله يهدي من يشاء وهو اعلم بالمهتدين",
+    "bengali": "নিশ্চয় তুমি যাকে ভালবাস তাকে তুমি হিদায়াত দিতে পারবে না; বরং আল্লাহই যাকে ইচ্ছা হিদায়াত দেন। আর হিদায়াতপ্রাপ্তদের ব্যাপারে তিনি ভাল জানেন।",
+    "urdu": "(اے محمدﷺ) تم جس کو دوست رکھتے ہو اُسے ہدایت نہیں کر سکتے بلکہ خدا ہی جس کو چاہتا ہے ہدایت کرتا ہے اور وہ ہدایت پانیوالوں کو خوب جانتا ہے"
+}

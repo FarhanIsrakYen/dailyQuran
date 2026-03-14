@@ -1,0 +1,42 @@
+{
+    "surahName": "Taa-Haa",
+    "surahNameArabic": "طه",
+    "surahNameArabicLong": "سورة طه",
+    "surahNameTranslation": "Taa-Haa",
+    "revelationPlace": "Mecca",
+    "totalAyah": 135,
+    "surahNo": 20,
+    "ayahNo": 63,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/20_63.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/020063.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/20_63.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/020063.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/20_63.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/020063.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/20_63.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/020063.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/20_63.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/020063.mp3"
+        }
+    },
+    "english": "They concluded, “These two are only magicians who want to drive you out of your land with their magic, and do away with your most cherished traditions.",
+    "arabic1": "قَالُوٓا۟ إِنْ هَـٰذَٰنِ لَسَـٰحِرَٰنِ يُرِيدَانِ أَن يُخْرِجَاكُم مِّنْ أَرْضِكُم بِسِحْرِهِمَا وَيَذْهَبَا بِطَرِيقَتِكُمُ ٱلْمُثْلَىٰ",
+    "arabic2": "قالوا ان هذان لساحران يريدان ان يخرجاكم من ارضكم بسحرهما ويذهبا بطريقتكم المثلى",
+    "bengali": "তারা বলল, ‘এ দু’জন অবশ্যই যাদুকর। তারা চায় তাদের যাদুর মাধ্যমে তোমাদেরকে তোমাদের দেশ থেকে বের করে দিতে এবং তোমাদের উৎকৃষ্ট জীবন পদ্ধতি ধ্বংস করে দিতে’।",
+    "urdu": "کہنے لگے یہ دونوں جادوگر ہیں چاہتے ہیں کہ اپنے جادو (کے زور) سے تم کو تمہارے ملک سے نکل دیں اور تمہارے شائستہ مذہب کو نابود کردیں"
+}

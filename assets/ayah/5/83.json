@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Maaida",
+    "surahNameArabic": "المائدة",
+    "surahNameArabicLong": "سورة المائدة",
+    "surahNameTranslation": "The Table",
+    "revelationPlace": "Madina",
+    "totalAyah": 120,
+    "surahNo": 5,
+    "ayahNo": 83,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/5_83.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/005083.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/5_83.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/005083.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/5_83.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/005083.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/5_83.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/005083.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/5_83.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/005083.mp3"
+        }
+    },
+    "english": "When they listen to what has been revealed to the Messenger, you see their eyes overflowing with tears for recognizing the truth. They say, “Our Lord! We believe, so count us among the witnesses.",
+    "arabic1": "وَإِذَا سَمِعُوا۟ مَآ أُنزِلَ إِلَى ٱلرَّسُولِ تَرَىٰٓ أَعْيُنَهُمْ تَفِيضُ مِنَ ٱلدَّمْعِ مِمَّا عَرَفُوا۟ مِنَ ٱلْحَقِّ ۖ يَقُولُونَ رَبَّنَآ ءَامَنَّا فَٱكْتُبْنَا مَعَ ٱلشَّـٰهِدِينَ",
+    "arabic2": "واذا سمعوا ما انزل الى الرسول ترى اعينهم تفيض من الدمع مما عرفوا من الحق يقولون ربنا امنا فاكتبنا مع الشاهدين",
+    "bengali": "‘আর রাসূলের প্রতি যা নাযিল করা হয়েছে যখন তারা তা শুনে, তুমি দেখবে তাদের চক্ষু অশ্রুতে ভেসে যাচ্ছে, কারণ তারা সত্য হতে জেনেছে। তারা বলে, ‘হে আমাদের রব, আমরা ঈমান এনেছি। সুতরাং আপনি আমাদেরকে সাক্ষ্য দানকারীদের সঙ্গে লিপিবদ্ধ করুন’।",
+    "urdu": "اور جب اس (کتاب) کو سنتے ہیں جو (سب سے پہلے) پیغمبر (محمدﷺ) پر نازل ہوئی تو تم دیکھتے ہو کہ ان کی آنکھوں سے آنسو جاری ہو جاتے ہیں اس لیے کہ انہوں نے حق بات پہچان لی اور وہ (خدا کی جناب میں) عرض کرتے ہیں کہ اے پروردگار ہم ایمان لے آئے تو ہم کو ماننے والوں میں لکھ لے"
+}

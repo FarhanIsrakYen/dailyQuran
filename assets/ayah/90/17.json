@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Balad",
+    "surahNameArabic": "البلد",
+    "surahNameArabicLong": "سورة البلد",
+    "surahNameTranslation": "The City",
+    "revelationPlace": "Mecca",
+    "totalAyah": 20,
+    "surahNo": 90,
+    "ayahNo": 17,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/90_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/090017.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/90_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/090017.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/90_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/090017.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/90_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/090017.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/90_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/090017.mp3"
+        }
+    },
+    "english": "and—above all—to be one of those who have faith and urge each other to perseverance and urge each other to compassion.",
+    "arabic1": "ثُمَّ كَانَ مِنَ ٱلَّذِينَ ءَامَنُوا۟ وَتَوَاصَوْا۟ بِٱلصَّبْرِ وَتَوَاصَوْا۟ بِٱلْمَرْحَمَةِ",
+    "arabic2": "ثم كان من الذين امنوا وتواصوا بالصبر وتواصوا بالمرحمة",
+    "bengali": "অতঃপর সে তাদের অন্তর্ভুক্ত হয়ে যায়, যারা ঈমান এনেছে এবং পরস্পরকে উপদেশ দেয় ধৈর্যধারণের, আর পরস্পরকে উপদেশ দেয় দয়া-অনুগ্রহের।",
+    "urdu": "پھر ان لوگوں میں بھی (داخل) ہو جو ایمان لائے اور صبر کی نصیحت اور (لوگوں پر) شفقت کرنے کی وصیت کرتے رہے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Anbiyaa",
+    "surahNameArabic": "الأنبياء",
+    "surahNameArabicLong": "سورة الأنبياء",
+    "surahNameTranslation": "The Prophets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 112,
+    "surahNo": 21,
+    "ayahNo": 102,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/21_102.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/021102.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/21_102.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/021102.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/21_102.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/021102.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/21_102.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/021102.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/21_102.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/021102.mp3"
+        }
+    },
+    "english": "not even hearing the slightest hissing from it. And they will delight forever in what their souls desire.",
+    "arabic1": "لَا يَسْمَعُونَ حَسِيسَهَا ۖ وَهُمْ فِى مَا ٱشْتَهَتْ أَنفُسُهُمْ خَـٰلِدُونَ",
+    "arabic2": "لا يسمعون حسيسها وهم في ما اشتهت انفسهم خالدون",
+    "bengali": "তারা জাহান্নামের ক্ষীণতম শব্দও শুনতে পাবে না। সেখানে তারা তাদের মনঃপুত বস্তুর মধ্যে চিরকাল থাকবে।",
+    "urdu": "(یہاں تک کہ) اس کی آواز بھی تو نہیں سنیں گے۔ اور جو کچھ ان کا جی چاہے گا اس میں (یعنی) ہر طرح کے عیش اور لطف میں ہمیشہ رہیں گے"
+}

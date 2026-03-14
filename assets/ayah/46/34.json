@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Ahqaf",
+    "surahNameArabic": "الأحقاف",
+    "surahNameArabicLong": "سورة الأحقاف",
+    "surahNameTranslation": "The Dunes",
+    "revelationPlace": "Mecca",
+    "totalAyah": 35,
+    "surahNo": 46,
+    "ayahNo": 34,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/46_34.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/046034.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/46_34.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/046034.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/46_34.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/046034.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/46_34.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/046034.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/46_34.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/046034.mp3"
+        }
+    },
+    "english": "And on the Day the disbelievers will be exposed to the Fire, ˹they will be asked,˺ “Is this ˹Hereafter˺ not the truth?” They will cry, “Absolutely, by our Lord!” It will be said, “Then taste the punishment for your disbelief.”",
+    "arabic1": "وَيَوْمَ يُعْرَضُ ٱلَّذِينَ كَفَرُوا۟ عَلَى ٱلنَّارِ أَلَيْسَ هَـٰذَا بِٱلْحَقِّ ۖ قَالُوا۟ بَلَىٰ وَرَبِّنَا ۚ قَالَ فَذُوقُوا۟ ٱلْعَذَابَ بِمَا كُنتُمْ تَكْفُرُونَ",
+    "arabic2": "ويوم يعرض الذين كفروا على النار اليس هذا بالحق قالوا بلى وربنا قال فذوقوا العذاب بما كنتم تكفرون",
+    "bengali": "আর যেদিন কাফিরদেরকে জাহান্নামের কাছে পেশ করা হবে (বলা হবে), ‘এটা কি সত্য নয়’? তারা বলবে, ‘অবশ্যই হ্যাঁ, আমাদের রবের কসম তিনি বলবেন, ‘তাহলে আযাব আস্বাদন কর, যেহেতু তোমরা কুফরী করছিলে’।",
+    "urdu": "اور جس روز آگ کے سامنے کئے جائیں گے (اور کہا جائے گا) کیا یہ حق نہیں ہے؟ تو کہیں گے کیوں نہیں ہمارے پروردگار کی قسم (حق ہے) حکم ہوگا کہ تم جو (دنیا میں) انکار کیا کرتے تھے (اب) عذاب کے مزے چکھو"
+}

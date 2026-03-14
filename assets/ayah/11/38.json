@@ -1,0 +1,42 @@
+{
+    "surahName": "Hud",
+    "surahNameArabic": "هود",
+    "surahNameArabicLong": "سورة هود",
+    "surahNameTranslation": "Hud",
+    "revelationPlace": "Mecca",
+    "totalAyah": 123,
+    "surahNo": 11,
+    "ayahNo": 38,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/11_38.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/011038.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/11_38.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/011038.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/11_38.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/011038.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/11_38.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/011038.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/11_38.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/011038.mp3"
+        }
+    },
+    "english": "So he began to build the Ark, and whenever some of the chiefs of his people passed by, they mocked him. He said, “If you laugh at us, we will ˹soon˺ laugh at you similarly.",
+    "arabic1": "وَيَصْنَعُ ٱلْفُلْكَ وَكُلَّمَا مَرَّ عَلَيْهِ مَلَأٌ مِّن قَوْمِهِۦ سَخِرُوا۟ مِنْهُ ۚ قَالَ إِن تَسْخَرُوا۟ مِنَّا فَإِنَّا نَسْخَرُ مِنكُمْ كَمَا تَسْخَرُونَ",
+    "arabic2": "ويصنع الفلك وكلما مر عليه ملا من قومه سخروا منه قال ان تسخروا منا فانا نسخر منكم كما تسخرون",
+    "bengali": "আর সে নৌকা তৈরী করতে লাগল এবং যখনই তার কওমের নেতৃস্থানীয় কোন ব্যক্তি তার পাশ দিয়ে যেত, তাকে নিয়ে উপহাস করত। সে বলল, ‘যদি তোমরা আমাদের নিয়ে উপহাস কর, তবে আমরাও তোমাদের নিয়ে উপহাস করব, যেমন তোমরা উপহাস করছ’।",
+    "urdu": "تو نوح نے کشتی بنانی شروع کردی۔ اور جب ان کی قوم کے سردار ان کے پاس سے گزرتے تو ان سے تمسخر کرتے۔ وہ کہتے کہ اگر تم ہم سے تمسخر کرتے ہو تو جس طرح تم ہم سے تمسخر کرتے ہو اس طرح (ایک وقت) ہم بھی تم سے تمسخر کریں گے"
+}

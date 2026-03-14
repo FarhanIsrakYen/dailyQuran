@@ -1,0 +1,42 @@
+{
+    "surahName": "Taa-Haa",
+    "surahNameArabic": "طه",
+    "surahNameArabicLong": "سورة طه",
+    "surahNameTranslation": "Taa-Haa",
+    "revelationPlace": "Mecca",
+    "totalAyah": 135,
+    "surahNo": 20,
+    "ayahNo": 117,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/20_117.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/020117.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/20_117.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/020117.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/20_117.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/020117.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/20_117.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/020117.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/20_117.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/020117.mp3"
+        }
+    },
+    "english": "So We cautioned, “O Adam! This is surely an enemy to you and to your wife. So do not let him drive you both out of Paradise, for you ˹O Adam˺ would then suffer ˹hardship˺.",
+    "arabic1": "فَقُلْنَا يَـٰٓـَٔادَمُ إِنَّ هَـٰذَا عَدُوٌّ لَّكَ وَلِزَوْجِكَ فَلَا يُخْرِجَنَّكُمَا مِنَ ٱلْجَنَّةِ فَتَشْقَىٰٓ",
+    "arabic2": "فقلنا يا ادم ان هذا عدو لك ولزوجك فلا يخرجنكما من الجنة فتشقى",
+    "bengali": "অতঃপর আমি বললাম, ‘হে আদম, নিশ্চয় এ তোমার ও তোমার স্ত্রীর শত্রু। সুতরাং সে যেন তোমাদের উভয়কে জান্নাত থেকে কিছুতেই বের করে না দেয়, তাহলে তোমরা দুর্ভোগ পোহাবে’।",
+    "urdu": "ہم نے فرمایا کہ آدم یہ تمہارا اور تمہاری بیوی کا دشمن ہے تو یہ کہیں تم دونوں کو بہشت سے نکلوا نہ دے۔ پھر تم تکلیف میں پڑجاؤ"
+}

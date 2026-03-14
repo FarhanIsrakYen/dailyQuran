@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Naml",
+    "surahNameArabic": "النمل",
+    "surahNameArabicLong": "سورة النمل",
+    "surahNameTranslation": "The Ant",
+    "revelationPlace": "Mecca",
+    "totalAyah": 93,
+    "surahNo": 27,
+    "ayahNo": 61,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/27_61.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/027061.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/27_61.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/027061.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/27_61.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/027061.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/27_61.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/027061.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/27_61.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/027061.mp3"
+        }
+    },
+    "english": "Or ˹ask them,˺ “Who made the earth a place of settlement, caused rivers to flow through it, placed firm mountains upon it, and set a barrier between ˹fresh and salt˺ bodies of water? Was it another god besides Allah?” Absolutely not! But most of them do not know.",
+    "arabic1": "أَمَّن جَعَلَ ٱلْأَرْضَ قَرَارًا وَجَعَلَ خِلَـٰلَهَآ أَنْهَـٰرًا وَجَعَلَ لَهَا رَوَٰسِىَ وَجَعَلَ بَيْنَ ٱلْبَحْرَيْنِ حَاجِزًا ۗ أَءِلَـٰهٌ مَّعَ ٱللَّهِ ۚ بَلْ أَكْثَرُهُمْ لَا يَعْلَمُونَ",
+    "arabic2": "امن جعل الارض قرارا وجعل خلالها انهارا وجعل لها رواسي وجعل بين البحرين حاجزا االه مع الله بل اكثرهم لا يعلمون",
+    "bengali": "বরং তিনি, যিনি যমীনকে আবাসযোগ্য করেছেন এবং তার মধ্যে প্রবাহিত করেছেন নদী-নালা। আর তাতে স্থাপন করেছেন সুদৃঢ় পর্বতমালা এবং দুই সমুদ্রের মধ্যখানে অন্তরায় সৃষ্টি করেছেন। আল্লাহর সাথে কি অন্য কোন ইলাহ আছে? বরং তাদের অধিকাংশই জানে না।",
+    "urdu": "بھلا کس نے زمین کو قرار گاہ بنایا اور اس کے بیچ نہریں بنائیں اور اس کے لئے پہاڑ بنائے اور (کس نے) دو دریاؤں کے بیچ اوٹ بنائی (یہ سب کچھ خدا نے بنایا) تو کیا خدا کے ساتھ کوئی اور معبود بھی ہے؟ (ہرگز نہیں) بلکہ ان میں اکثر دانش نہیں رکھتے"
+}

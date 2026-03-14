@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Kahf",
+    "surahNameArabic": "الكهف",
+    "surahNameArabicLong": "سورة الكهف",
+    "surahNameTranslation": "The Cave",
+    "revelationPlace": "Mecca",
+    "totalAyah": 110,
+    "surahNo": 18,
+    "ayahNo": 20,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/18_20.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/018020.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/18_20.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/018020.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/18_20.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/018020.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/18_20.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/018020.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/18_20.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/018020.mp3"
+        }
+    },
+    "english": "For, indeed, if they find out about you, they will stone you ˹to death˺, or force you back into their faith, and then you will never succeed.”",
+    "arabic1": "إِنَّهُمْ إِن يَظْهَرُوا۟ عَلَيْكُمْ يَرْجُمُوكُمْ أَوْ يُعِيدُوكُمْ فِى مِلَّتِهِمْ وَلَن تُفْلِحُوٓا۟ إِذًا أَبَدًا",
+    "arabic2": "انهم ان يظهروا عليكم يرجموكم او يعيدوكم في ملتهم ولن تفلحوا اذا ابدا",
+    "bengali": "‘নিশ্চয় তারা যদি তোমাদের ব্যাপারে জেনে যায়, তাহলে তারা তোমাদেরকে পাথর মেরে হত্যা করবে অথবা তোমাদেরকে তাদের ধর্মে ফিরিয়ে নিয়ে যাবে। আর তখন তোমরা কোনভাবেই সফল হবে না’।",
+    "urdu": "اگر وہ تم پر دسترس پالیں گے تو تمہیں سنگسار کردیں گے یا پھر اپنے مذہب میں داخل کرلیں گے اور اس وقت تم کبھی فلاح نہیں پاؤ گے"
+}

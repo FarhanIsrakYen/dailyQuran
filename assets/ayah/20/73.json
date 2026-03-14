@@ -1,0 +1,42 @@
+{
+    "surahName": "Taa-Haa",
+    "surahNameArabic": "طه",
+    "surahNameArabicLong": "سورة طه",
+    "surahNameTranslation": "Taa-Haa",
+    "revelationPlace": "Mecca",
+    "totalAyah": 135,
+    "surahNo": 20,
+    "ayahNo": 73,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/20_73.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/020073.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/20_73.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/020073.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/20_73.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/020073.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/20_73.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/020073.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/20_73.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/020073.mp3"
+        }
+    },
+    "english": "Indeed, we have believed in our Lord so He may forgive our sins and that magic you have forced us to practice. And Allah is far superior ˹in reward˺ and more lasting ˹in punishment˺.”",
+    "arabic1": "إِنَّآ ءَامَنَّا بِرَبِّنَا لِيَغْفِرَ لَنَا خَطَـٰيَـٰنَا وَمَآ أَكْرَهْتَنَا عَلَيْهِ مِنَ ٱلسِّحْرِ ۗ وَٱللَّهُ خَيْرٌ وَأَبْقَىٰٓ",
+    "arabic2": "انا امنا بربنا ليغفر لنا خطايانا وما اكرهتنا عليه من السحر والله خير وابقى",
+    "bengali": "‘নিশ্চয় আমরা আমাদের রবের প্রতি ঈমান এনেছি, যাতে তিনি আমাদের অপরাধসমূহ এবং যে যাদু তুমি আমাদেরকে করতে বাধ্য করেছ, তা ক্ষমা করে দেন। আর আল্লাহ সর্বশ্রেষ্ঠ ও চিরস্থায়ী’।",
+    "urdu": "ہم اپنے پروردگار پر ایمان لے آئے تاکہ وہ ہمارے گناہوں کو معاف کرے اور (اسے بھی) جو آپ نے ہم سے زبردستی جادو کرایا۔ اور خدا بہتر اور باقی رہنے والا ہے"
+}

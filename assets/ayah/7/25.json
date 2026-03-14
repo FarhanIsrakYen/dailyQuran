@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 25,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/7_25.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/007025.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/7_25.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/007025.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/7_25.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/007025.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/7_25.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/007025.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/7_25.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/007025.mp3"
+        }
+    },
+    "english": "He added, “There you will live, there you will die, and from there you will be resurrected.”",
+    "arabic1": "قَالَ فِيهَا تَحْيَوْنَ وَفِيهَا تَمُوتُونَ وَمِنْهَا تُخْرَجُونَ",
+    "arabic2": "قال فيها تحيون وفيها تموتون ومنها تخرجون",
+    "bengali": "তিনি বললেন, ‘তোমরা তাতে জীবন যাপন করবে এবং তাতে মারা যাবে। আর তা থেকে তোমাদেরকে বের করা হবে’।",
+    "urdu": "(یعنی) فرمایا کہ اسی میں تمہارا جینا ہوگا اور اسی میں مرنا اور اسی میں سے (قیامت کو زندہ کر کے) نکالے جاؤ گے"
+}

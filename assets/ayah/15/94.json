@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Hijr",
+    "surahNameArabic": "الحجر",
+    "surahNameArabicLong": "سورة الحجر",
+    "surahNameTranslation": "The Rock",
+    "revelationPlace": "Mecca",
+    "totalAyah": 99,
+    "surahNo": 15,
+    "ayahNo": 94,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/15_94.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/015094.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/15_94.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/015094.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/15_94.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/015094.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/15_94.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/015094.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/15_94.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/015094.mp3"
+        }
+    },
+    "english": "So proclaim what you have been commanded, and turn away from the polytheists.",
+    "arabic1": "فَٱصْدَعْ بِمَا تُؤْمَرُ وَأَعْرِضْ عَنِ ٱلْمُشْرِكِينَ",
+    "arabic2": "فاصدع بما تؤمر واعرض عن المشركين",
+    "bengali": "সুতরাং তোমাকে যে আদেশ দেয়া হয়েছে, তা ব্যাপকভাবে প্রচার কর এবং মুশরিকদের থেকে মুখ ফিরিয়ে নাও।",
+    "urdu": "پس جو حکم تم کو (خدا کی طرف سے) ملا ہے وہ (لوگوں کو) سنا دو اور مشرکوں کا (ذرا) خیال نہ کرو"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 105,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/9_105.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/009105.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/9_105.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/009105.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/9_105.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/009105.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/9_105.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/009105.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/9_105.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/009105.mp3"
+        }
+    },
+    "english": "Tell ˹them, O  Prophet˺, “Do as you will. Your deeds will be observed by Allah, His Messenger, and the believers. And you will be returned to the Knower of the seen and unseen, then He will inform you of what you used to do.”",
+    "arabic1": "وَقُلِ ٱعْمَلُوا۟ فَسَيَرَى ٱللَّهُ عَمَلَكُمْ وَرَسُولُهُۥ وَٱلْمُؤْمِنُونَ ۖ وَسَتُرَدُّونَ إِلَىٰ عَـٰلِمِ ٱلْغَيْبِ وَٱلشَّهَـٰدَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ",
+    "arabic2": "وقل اعملوا فسيرى الله عملكم ورسوله والمؤمنون وستردون الى عالم الغيب والشهادة فينبئكم بما كنتم تعملون",
+    "bengali": "আর বল, ‘তোমরা আমল কর। অতএব, অচিরেই আল্লাহ তোমাদের আমল দেখবেন, তাঁর রাসূল ও মুমিনগণও। আর অচিরেই তোমাদেরকে ফিরিয়ে নেয়া হবে গায়েব ও প্রকাশ্যের জ্ঞানীর নিকট। অতঃপর তিনি তোমাদেরকে জানাবেন যা তোমরা আমল করতে সে সম্পর্কে’।",
+    "urdu": "اور ان سے کہہ دو کہ عمل کئے جاؤ۔ خدا اور اس کا رسول اور مومن (سب) تمہارے عملوں کو دیکھ لیں گے۔ اور تم غائب وحاضر کے جاننے والے (خدائے واحد) کی طرف لوٹائے جاؤ گے پھر جو کچھ تم کرتے رہے ہو وہ سب تم کو بتا دے گا"
+}

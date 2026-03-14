@@ -1,0 +1,42 @@
+{
+    "surahName": "Ghafir",
+    "surahNameArabic": "غافر",
+    "surahNameArabicLong": "سورة غافر",
+    "surahNameTranslation": "The Forgiver",
+    "revelationPlace": "Mecca",
+    "totalAyah": 85,
+    "surahNo": 40,
+    "ayahNo": 15,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/40_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/040015.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/40_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/040015.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/40_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/040015.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/40_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/040015.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/40_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/040015.mp3"
+        }
+    },
+    "english": "˹He is˺ Highly Exalted in rank, Lord of the Throne. He sends down the revelation by His command to whoever He wills of His servants to warn ˹all˺ of the Day of Meeting—",
+    "arabic1": "رَفِيعُ ٱلدَّرَجَـٰتِ ذُو ٱلْعَرْشِ يُلْقِى ٱلرُّوحَ مِنْ أَمْرِهِۦ عَلَىٰ مَن يَشَآءُ مِنْ عِبَادِهِۦ لِيُنذِرَ يَوْمَ ٱلتَّلَاقِ",
+    "arabic2": "رفيع الدرجات ذو العرش يلقي الروح من امره على من يشاء من عباده لينذر يوم التلاق",
+    "bengali": "আল্লাহ সুউচ্চ মর্যাদার অধিকারী, আরশের অধিপতি, তাঁর বান্দাদের মধ্য থেকে যার প্রতি ইচ্ছা আপন নির্দেশে তিনি ওহী পাঠান, যেন সে মহামিলন সম্পর্কে সতর্ক করেন।",
+    "urdu": "مالک درجات عالی اور صاحب عرش ہے۔ اپنے بندوں میں سے جس پر چاہتا ہے اپنے حکم سے وحی بھیجتا ہے تاکہ ملاقات کے دن سے ڈراوے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Naml",
+    "surahNameArabic": "النمل",
+    "surahNameArabicLong": "سورة النمل",
+    "surahNameTranslation": "The Ant",
+    "revelationPlace": "Mecca",
+    "totalAyah": 93,
+    "surahNo": 27,
+    "ayahNo": 86,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/27_86.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/027086.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/27_86.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/027086.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/27_86.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/027086.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/27_86.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/027086.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/27_86.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/027086.mp3"
+        }
+    },
+    "english": "Do they not see that We made the night for them to rest in and the day bright? Surely in this are signs for those who believe.",
+    "arabic1": "أَلَمْ يَرَوْا۟ أَنَّا جَعَلْنَا ٱلَّيْلَ لِيَسْكُنُوا۟ فِيهِ وَٱلنَّهَارَ مُبْصِرًا ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍ لِّقَوْمٍ يُؤْمِنُونَ",
+    "arabic2": "الم يروا انا جعلنا الليل ليسكنوا فيه والنهار مبصرا ان في ذلك لايات لقوم يؤمنون",
+    "bengali": "তারা কি দেখে না যে, আমি রাতকে সৃষ্টি করেছি, যেন তারা তাতে বিশ্রাম নিতে পারে এবং দিনকে করেছি আলোকিত? নিশ্চয় এতে নিদর্শনাবলী রয়েছে সেই কওমের জন্য যারা ঈমান এনেছে।",
+    "urdu": "کیا اُنہوں نے نہیں دیکھا کہ ہم نے رات کو (اس لئے) بنایا ہے کہ اس میں آرام کریں اور دن کو روشن (بنایا ہے کہ اس میں کام کریں) بےشک اس میں مومن لوگوں کے لئے نشانیاں ہیں"
+}

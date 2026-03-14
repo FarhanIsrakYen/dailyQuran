@@ -1,0 +1,42 @@
+{
+    "surahName": "Fussilat",
+    "surahNameArabic": "فصلت",
+    "surahNameArabicLong": "سورة فصلت",
+    "surahNameTranslation": "Explained in detail",
+    "revelationPlace": "Mecca",
+    "totalAyah": 54,
+    "surahNo": 41,
+    "ayahNo": 30,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/41_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/041030.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/41_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/041030.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/41_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/041030.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/41_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/041030.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/41_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/041030.mp3"
+        }
+    },
+    "english": "Surely those who say, “Our Lord is Allah,” and then remain steadfast, the angels descend upon them, ˹saying,˺ “Do not fear, nor grieve. Rather, rejoice in the good news of Paradise, which you have been promised.",
+    "arabic1": "إِنَّ ٱلَّذِينَ قَالُوا۟ رَبُّنَا ٱللَّهُ ثُمَّ ٱسْتَقَـٰمُوا۟ تَتَنَزَّلُ عَلَيْهِمُ ٱلْمَلَـٰٓئِكَةُ أَلَّا تَخَافُوا۟ وَلَا تَحْزَنُوا۟ وَأَبْشِرُوا۟ بِٱلْجَنَّةِ ٱلَّتِى كُنتُمْ تُوعَدُونَ",
+    "arabic2": "ان الذين قالوا ربنا الله ثم استقاموا تتنزل عليهم الملائكة الا تخافوا ولا تحزنوا وابشروا بالجنة التي كنتم توعدون",
+    "bengali": "নিশ্চয় যারা বলে, ‘আল্লাহই আমাদের রব’ অতঃপর অবিচল থাকে, ফেরেশতারা তাদের কাছে নাযিল হয় (এবং বলে,) ‘তোমরা ভয় পেয়ো না, দুশ্চিন্তা করো না এবং সেই জান্নাতের সুসংবাদ গ্রহণ কর তোমাদেরকে যার ওয়াদা দেয়া হয়েছিল’।",
+    "urdu": "جن لوگوں نے کہا کہ ہمارا پروردگار خدا ہے پھر وہ (اس پر) قائم رہے ان پر فرشتے اُتریں گے (اور کہیں گے) کہ نہ خوف کرو اور نہ غمناک ہو اور بہشت کی جس کا تم سے وعدہ کیا جاتا تھا خوشی مناؤ"
+}

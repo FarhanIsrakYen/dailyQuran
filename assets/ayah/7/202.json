@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 202,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/7_202.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/007202.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/7_202.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/007202.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/7_202.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/007202.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/7_202.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/007202.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/7_202.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/007202.mp3"
+        }
+    },
+    "english": "But the devils persistently plunge their ˹human˺ associates deeper into wickedness, sparing no effort.",
+    "arabic1": "وَإِخْوَٰنُهُمْ يَمُدُّونَهُمْ فِى ٱلْغَىِّ ثُمَّ لَا يُقْصِرُونَ",
+    "arabic2": "واخوانهم يمدونهم في الغي ثم لا يقصرون",
+    "bengali": "আর শয়তানের ভাইয়েরা ভ্রষ্টতায় তাদেরকে সহযোগিতা করে। অতঃপর তারা ত্রুটি করে না।",
+    "urdu": "اور ان (کفار) کے بھائی انہیں گمراہی میں کھینچے جاتے ہیں پھر (اس میں کسی طرح کی) کوتاہی نہیں کرتے"
+}

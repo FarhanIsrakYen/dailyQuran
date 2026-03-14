@@ -1,0 +1,42 @@
+{
+    "surahName": "Ibrahim",
+    "surahNameArabic": "ابراهيم",
+    "surahNameArabicLong": "سورة ابراهيم",
+    "surahNameTranslation": "Abraham",
+    "revelationPlace": "Mecca",
+    "totalAyah": 52,
+    "surahNo": 14,
+    "ayahNo": 45,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/14_45.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/014045.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/14_45.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/014045.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/14_45.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/014045.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/14_45.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/014045.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/14_45.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/014045.mp3"
+        }
+    },
+    "english": "You passed by the ruins of those ˹destroyed peoples˺ who had wronged themselves. It was made clear to you how We dealt with them, and We gave you ˹many˺ examples.",
+    "arabic1": "وَسَكَنتُمْ فِى مَسَـٰكِنِ ٱلَّذِينَ ظَلَمُوٓا۟ أَنفُسَهُمْ وَتَبَيَّنَ لَكُمْ كَيْفَ فَعَلْنَا بِهِمْ وَضَرَبْنَا لَكُمُ ٱلْأَمْثَالَ",
+    "arabic2": "وسكنتم في مساكن الذين ظلموا انفسهم وتبين لكم كيف فعلنا بهم وضربنا لكم الامثال",
+    "bengali": "আর তোমরা বাস করছিলে সেসব লোকদের বাসস্থানে, যারা নিজদের উপর যুলম করত এবং তোমাদের নিকট স্পষ্ট হয়েছিল আমি তাদের সাথে কিরূপ করেছি এবং আমি তোমাদের জন্য উপমা বর্ণনা করেছি।",
+    "urdu": "اور جو لوگ اپنے آپ پر ظلم کرتے تھے تم ان کے مکانوں میں رہتے تھے اور تم پر ظاہر ہوچکا تھا کہ ہم نے ان لوگوں کے ساتھ کس طرح (کا معاملہ) کیا تھا اور تمہارے (سمجھانے) کے لیے مثالیں بیان کر دی تھیں"
+}

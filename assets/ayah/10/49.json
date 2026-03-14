@@ -1,0 +1,42 @@
+{
+    "surahName": "Yunus",
+    "surahNameArabic": "يونس",
+    "surahNameArabicLong": "سورة يونس",
+    "surahNameTranslation": "Jonas",
+    "revelationPlace": "Mecca",
+    "totalAyah": 109,
+    "surahNo": 10,
+    "ayahNo": 49,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/10_49.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/010049.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/10_49.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/010049.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/10_49.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/010049.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/10_49.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/010049.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/10_49.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/010049.mp3"
+        }
+    },
+    "english": "Say, ˹O Prophet,˺ “I have no power to benefit or protect myself, except by the Will of Allah.” For each community there is an appointed term. When their time arrives, they cannot delay it for a moment, nor could they advance it.",
+    "arabic1": "قُل لَّآ أَمْلِكُ لِنَفْسِى ضَرًّا وَلَا نَفْعًا إِلَّا مَا شَآءَ ٱللَّهُ ۗ لِكُلِّ أُمَّةٍ أَجَلٌ ۚ إِذَا جَآءَ أَجَلُهُمْ فَلَا يَسْتَـْٔخِرُونَ سَاعَةً ۖ وَلَا يَسْتَقْدِمُونَ",
+    "arabic2": "قل لا املك لنفسي ضرا ولا نفعا الا ما شاء الله لكل امة اجل اذا جاء اجلهم فلا يستاخرون ساعة ولا يستقدمون",
+    "bengali": "বল, ‘আমি নিজের ক্ষতি বা উপকারের অধিকার রাখি না, তবে আল্লাহ যা ইচ্ছা করেন’। প্রত্যেক উম্মতের রয়েছে নির্দিষ্ট একটি সময়। যখন এসে যায় তাদের সময়, তখন এক মুহূর্ত পিছাতে পারে না এবং এগোতেও পারে না।",
+    "urdu": "کہہ دو کہ میں اپنے نقصان اور فائدے کا بھی کچھ اختیار نہیں رکھتا۔ مگر جو خدا چاہے۔ ہر ایک امت کے لیے (موت کا) ایک وقت مقرر ہے۔ جب وہ وقت آجاتا ہے تو ایک گھڑی بھی دیر نہیں کرسکتے اور نہ جلدی کرسکتے ہیں"
+}

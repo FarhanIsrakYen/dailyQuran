@@ -1,0 +1,42 @@
+{
+    "surahName": "Ash-Shu'araa",
+    "surahNameArabic": "الشعراء",
+    "surahNameArabicLong": "سورة الشعراء",
+    "surahNameTranslation": "The Poets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 227,
+    "surahNo": 26,
+    "ayahNo": 94,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/26_94.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/026094.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/26_94.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/026094.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/26_94.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/026094.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/26_94.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/026094.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/26_94.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/026094.mp3"
+        }
+    },
+    "english": "Then the idols will be hurled headlong into Hell, along with the deviant",
+    "arabic1": "فَكُبْكِبُوا۟ فِيهَا هُمْ وَٱلْغَاوُۥنَ",
+    "arabic2": "فكبكبوا فيها هم والغاوون",
+    "bengali": "অতঃপর তাদেরকে এবং পথভ্রষ্টকারীদেরকে উপুড় করে জাহান্নামে নিক্ষেপ করা হবে,",
+    "urdu": "تو وہ اور گمراہ (یعنی بت اور بت پرست) اوندھے منہ دوزخ میں ڈال دیئے جائیں گے"
+}

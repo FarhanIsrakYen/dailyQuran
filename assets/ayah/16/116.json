@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nahl",
+    "surahNameArabic": "النحل",
+    "surahNameArabicLong": "سورة النحل",
+    "surahNameTranslation": "The Bee",
+    "revelationPlace": "Mecca",
+    "totalAyah": 128,
+    "surahNo": 16,
+    "ayahNo": 116,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/16_116.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/016116.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/16_116.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/016116.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/16_116.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/016116.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/16_116.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/016116.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/16_116.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/016116.mp3"
+        }
+    },
+    "english": "Do not falsely declare with your tongues, “This is lawful, and that is unlawful,” ˹only˺ fabricating lies against Allah. Indeed, those who fabricate lies against Allah will never succeed.",
+    "arabic1": "وَلَا تَقُولُوا۟ لِمَا تَصِفُ أَلْسِنَتُكُمُ ٱلْكَذِبَ هَـٰذَا حَلَـٰلٌ وَهَـٰذَا حَرَامٌ لِّتَفْتَرُوا۟ عَلَى ٱللَّهِ ٱلْكَذِبَ ۚ إِنَّ ٱلَّذِينَ يَفْتَرُونَ عَلَى ٱللَّهِ ٱلْكَذِبَ لَا يُفْلِحُونَ",
+    "arabic2": "ولا تقولوا لما تصف السنتكم الكذب هذا حلال وهذا حرام لتفتروا على الله الكذب ان الذين يفترون على الله الكذب لا يفلحون",
+    "bengali": "আর তোমাদের জিহবা দ্বারা বানানো মিথ্যার উপর নির্ভর করে বলো না যে, এটা হালাল এবং এটা হারাম, আল্লাহর উপর মিথ্যা রটানোর জন্য। নিশ্চয় যারা আল্লাহর উপর মিথ্যা রটায়, তারা সফল হবে না।",
+    "urdu": "اور یوں ہی جھوٹ جو تمہاری زبان پر آجائے مت کہہ دیا کرو کہ یہ حلال ہے اور یہ حرام ہے کہ خدا پر جھوٹ بہتان باندھنے لگو۔ جو لوگ خدا پر جھوٹ بہتان باندھتے ہیں ان کا بھلا نہیں ہوگا"
+}

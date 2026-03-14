@@ -1,0 +1,42 @@
+{
+    "surahName": "Fussilat",
+    "surahNameArabic": "فصلت",
+    "surahNameArabicLong": "سورة فصلت",
+    "surahNameTranslation": "Explained in detail",
+    "revelationPlace": "Mecca",
+    "totalAyah": 54,
+    "surahNo": 41,
+    "ayahNo": 20,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/41_20.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/041020.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/41_20.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/041020.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/41_20.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/041020.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/41_20.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/041020.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/41_20.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/041020.mp3"
+        }
+    },
+    "english": "When they reach it, their ears, eyes, and skin will testify against what they used to do.",
+    "arabic1": "حَتَّىٰٓ إِذَا مَا جَآءُوهَا شَهِدَ عَلَيْهِمْ سَمْعُهُمْ وَأَبْصَـٰرُهُمْ وَجُلُودُهُم بِمَا كَانُوا۟ يَعْمَلُونَ",
+    "arabic2": "حتى اذا ما جاءوها شهد عليهم سمعهم وابصارهم وجلودهم بما كانوا يعملون",
+    "bengali": "অবশেষে তারা যখন জাহান্নামের কাছে পৌঁছবে, তখন তাদের কান, তাদের চোখ ও তাদের চামড়া তাদের বিরুদ্ধে তাদের কৃতকর্ম সম্পর্কে সাক্ষ্য দেবে।",
+    "urdu": "یہاں تک کہ جب اس کے پاس پہنچ جائیں گے تو ان کے کان اور آنکھیں اور چمڑے (یعنی دوسرے اعضا) ان کے خلاف ان کے اعمال کی شہادت دیں گے"
+}

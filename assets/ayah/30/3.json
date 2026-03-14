@@ -1,0 +1,42 @@
+{
+    "surahName": "Ar-Room",
+    "surahNameArabic": "الروم",
+    "surahNameArabicLong": "سورة الروم",
+    "surahNameTranslation": "The Romans",
+    "revelationPlace": "Mecca",
+    "totalAyah": 60,
+    "surahNo": 30,
+    "ayahNo": 3,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/30_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/030003.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/30_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/030003.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/30_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/030003.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/30_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/030003.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/30_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/030003.mp3"
+        }
+    },
+    "english": "in a nearby land. Yet following their defeat, they will triumph",
+    "arabic1": "فِىٓ أَدْنَى ٱلْأَرْضِ وَهُم مِّنۢ بَعْدِ غَلَبِهِمْ سَيَغْلِبُونَ",
+    "arabic2": "في ادنى الارض وهم من بعد غلبهم سيغلبون",
+    "bengali": "নিকটবর্তী অঞ্চলে*, আর তারা তাদের এ পরাজয়ের পর অচিরেই বিজয়ী হবে, \n* হিজাযের উত্তর পশ্চিম সীমানা সংলগ্ন আযরুয়াত ও বুসরার মধ্যবর্তী স্থান। সম্রাট হিরাক্লিয়াস ও খসরু পারভেজের মধ্যে এখানে যুদ্ধ হয়। যুদ্ধে খসরু পারভেজ বিজয় লাভ করে। ফলে মক্কার পৌত্তলিকরা খুশি হয়ে বলতে শুরু করে, আমরা মুসলিমদেরকে পরাজিত করব। তখন উক্ত আয়াতগুলো নাযিল হয়।",
+    "urdu": "نزدیک کے ملک میں اور وہ مغلوب ہونے کے بعد عنقریب غالب آجائیں گے"
+}

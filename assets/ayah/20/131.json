@@ -1,0 +1,42 @@
+{
+    "surahName": "Taa-Haa",
+    "surahNameArabic": "طه",
+    "surahNameArabicLong": "سورة طه",
+    "surahNameTranslation": "Taa-Haa",
+    "revelationPlace": "Mecca",
+    "totalAyah": 135,
+    "surahNo": 20,
+    "ayahNo": 131,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/20_131.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/020131.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/20_131.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/020131.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/20_131.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/020131.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/20_131.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/020131.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/20_131.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/020131.mp3"
+        }
+    },
+    "english": "Do not let your eyes crave what We have allowed some of the disbelievers to enjoy; the ˹fleeting˺ splendour of this worldly life, which We test them with. But your Lord’s provision ˹in the Hereafter˺ is far better and more lasting.",
+    "arabic1": "وَلَا تَمُدَّنَّ عَيْنَيْكَ إِلَىٰ مَا مَتَّعْنَا بِهِۦٓ أَزْوَٰجًا مِّنْهُمْ زَهْرَةَ ٱلْحَيَوٰةِ ٱلدُّنْيَا لِنَفْتِنَهُمْ فِيهِ ۚ وَرِزْقُ رَبِّكَ خَيْرٌ وَأَبْقَىٰ",
+    "arabic2": "ولا تمدن عينيك الى ما متعنا به ازواجا منهم زهرة الحياة الدنيا لنفتنهم فيه ورزق ربك خير وابقى",
+    "bengali": "আর তুমি কখনো প্রসারিত করো না তোমার দু’চোখ সে সবের প্রতি, যা আমি তাদের বিভিন্ন শ্রেণীকে দুনিয়ার জীবনের জাঁক-জমকস্বরূপ উপভোগের উপকরণ হিসেবে দিয়েছি। যাতে আমি সে বিষয়ে তাদেরকে পরীক্ষা করে নিতে পারি। আর তোমার রবের প্রদত্ত রিয্ক সর্বোৎকৃষ্ট ও অধিকতর স্থায়ী।",
+    "urdu": "اور کئی طرح کے لوگوں کو جو ہم نے دنیا کی زندگی میں آرائش کی چیزوں سے بہرہ مند کیا ہے تاکہ ان کی آزمائش کریں ان پر نگاہ نہ کرنا۔ اور تمہاری پروردگار کی (عطا فرمائی ہوئی) روزی بہت بہتر اور باقی رہنے والی ہے"
+}

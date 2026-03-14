@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 70,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_70.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002070.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_70.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002070.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_70.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002070.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_70.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002070.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_70.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002070.mp3"
+        }
+    },
+    "english": "Again they said, “Call upon your Lord so that He may make clear to us which cow, for all cows look the same to us. Then, Allah willing, we will be guided ˹to the right one˺.”",
+    "arabic1": "قَالُوا۟ ٱدْعُ لَنَا رَبَّكَ يُبَيِّن لَّنَا مَا هِىَ إِنَّ ٱلْبَقَرَ تَشَـٰبَهَ عَلَيْنَا وَإِنَّآ إِن شَآءَ ٱللَّهُ لَمُهْتَدُونَ",
+    "arabic2": "قالوا ادع لنا ربك يبين لنا ما هي ان البقر تشابه علينا وانا ان شاء الله لمهتدون",
+    "bengali": "তারা বলল, ‘তুমি আমাদের জন্য তোমার রবের নিকট দো‘আ কর, তিনি যেন আমাদের জন্য স্পষ্ট করে দেন, তা কেমন? নিশ্চয় গরুটি আমাদের জন্য সন্দেহপূর্ণ হয়ে গিয়েছে। আর নিশ্চয় আমরা আল্লাহ চাহে তো পথপ্রাপ্ত হব’।",
+    "urdu": "انہوں نے کہا کہ (اب کے) پروردگار سے پھر درخواست کیجئے کہ ہم کو بتا دے کہ وہ اور کس کس طرح کا ہو، کیونکہ بہت سے بیل ہمیں ایک دوسرے کے مشابہ معلوم ہوتے ہیں، (پھر) خدا نے چاہا تو ہمیں ٹھیک بات معلوم ہو جائے گی"
+}

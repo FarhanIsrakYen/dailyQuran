@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 106,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/9_106.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/009106.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/9_106.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/009106.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/9_106.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/009106.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/9_106.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/009106.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/9_106.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/009106.mp3"
+        }
+    },
+    "english": "And some others are left for Allah’s decision, either to punish them or turn to them in mercy. And Allah is All-Knowing, All-Wise.",
+    "arabic1": "وَءَاخَرُونَ مُرْجَوْنَ لِأَمْرِ ٱللَّهِ إِمَّا يُعَذِّبُهُمْ وَإِمَّا يَتُوبُ عَلَيْهِمْ ۗ وَٱللَّهُ عَلِيمٌ حَكِيمٌ",
+    "arabic2": "واخرون مرجون لامر الله اما يعذبهم واما يتوب عليهم والله عليم حكيم",
+    "bengali": "আর আল্লাহর আদেশের অপেক্ষায় অপর কিছু লোকের সিদ্ধান্ত পিছিয়ে দেয়া হলো। তিনি তাদেরকে আযাব দেবেন নয়তো তাদের তাওবা কবূল করবেন। আর আল্লাহ সর্বজ্ঞ, প্রজ্ঞাময়।",
+    "urdu": "اور کچھ اور لوگ ہیں جن کا کام خدا کے حکم پر موقوف ہے۔ چاہے ان کو عذاب دے اور چاہے ان کو معاف کر دے۔ اور خدا جاننے والا اور حکمت والا ہے"
+}

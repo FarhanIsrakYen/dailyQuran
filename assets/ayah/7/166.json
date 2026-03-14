@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 166,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/7_166.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/007166.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/7_166.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/007166.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/7_166.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/007166.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/7_166.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/007166.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/7_166.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/007166.mp3"
+        }
+    },
+    "english": "But when they stubbornly persisted in violation, We said to them, “Be disgraced apes!”",
+    "arabic1": "فَلَمَّا عَتَوْا۟ عَن مَّا نُهُوا۟ عَنْهُ قُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَـٰسِـِٔينَ",
+    "arabic2": "فلما عتوا عن ما نهوا عنه قلنا لهم كونوا قردة خاسئين",
+    "bengali": "অতঃপর যা থেকে তাদেরকে নিষেধ করা হয়েছিল তারা যখন সে বিষয়ে সীমালঙ্ঘন করল, তখন আমি তাদেরকে বললাম, ‘তোমরা নিকৃষ্ট বানর হয়ে যাও’।",
+    "urdu": "غرض جن اعمال (بد) سے ان کو منع کیا گیا تھا جب وہ ان (پراصرار اور ہمارے حکم سے) گردن کشی کرنے لگے تو ہم نے ان کو حکم دیا کہ ذلیل بندر ہوجاؤ"
+}

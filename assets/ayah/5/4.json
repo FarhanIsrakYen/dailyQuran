@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Maaida",
+    "surahNameArabic": "المائدة",
+    "surahNameArabicLong": "سورة المائدة",
+    "surahNameTranslation": "The Table",
+    "revelationPlace": "Madina",
+    "totalAyah": 120,
+    "surahNo": 5,
+    "ayahNo": 4,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/5_4.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/005004.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/5_4.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/005004.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/5_4.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/005004.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/5_4.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/005004.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/5_4.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/005004.mp3"
+        }
+    },
+    "english": "They ask you, ˹O Prophet,˺ what is permissible for them ˹to eat˺. Say, “What is good and lawful. Also what is caught by your hunting animals and birds of prey which you have trained as instructed by Allah. So eat what they catch for you, but mention the Name of Allah over it ˹first˺.” And be mindful of Allah. Surely Allah is swift in reckoning.",
+    "arabic1": "يَسْـَٔلُونَكَ مَاذَآ أُحِلَّ لَهُمْ ۖ قُلْ أُحِلَّ لَكُمُ ٱلطَّيِّبَـٰتُ ۙ وَمَا عَلَّمْتُم مِّنَ ٱلْجَوَارِحِ مُكَلِّبِينَ تُعَلِّمُونَهُنَّ مِمَّا عَلَّمَكُمُ ٱللَّهُ ۖ فَكُلُوا۟ مِمَّآ أَمْسَكْنَ عَلَيْكُمْ وَٱذْكُرُوا۟ ٱسْمَ ٱللَّهِ عَلَيْهِ ۖ وَٱتَّقُوا۟ ٱللَّهَ ۚ إِنَّ ٱللَّهَ سَرِيعُ ٱلْحِسَابِ",
+    "arabic2": "يسالونك ماذا احل لهم قل احل لكم الطيبات وما علمتم من الجوارح مكلبين تعلمونهن مما علمكم الله فكلوا مما امسكن عليكم واذكروا اسم الله عليه واتقوا الله ان الله سريع الحساب",
+    "bengali": "তারা তোমাকে প্রশ্ন করে, তাদের জন্য কী বৈধ করা হয়েছে? বল, ‘তোমাদের জন্য বৈধ করা হয়েছে সব ভাল বস্তু এবং শিকারী পশু-পাখী, যাদেরকে তোমরা শিকার প্রশিক্ষণ দিয়েছ; সেগুলোকে তোমরা শেখাও, যা আল্লাহ তোমাদেরকে শিখিয়েছেন। সুতরাং তোমরা তা থেকে খাও, যা তোমাদের জন্য ধরে এনেছে এবং তাতে তোমরা আল্লাহর নাম স্মরণ কর আর আল্লাহকে ভয় কর। নিশ্চয় আল্লাহ হিসাব গ্রহণে দ্রুত।",
+    "urdu": "تم سے پوچھتے ہیں کہ کون کون سی چیزیں ان کے لیے حلال ہیں (ان سے) کہہ دو کہ سب پاکیزہ چیزیں تم کو حلال ہیں اور وہ (شکار) بھی حلال ہے جو تمہارے لیے ان شکاری جانوروں نے پکڑا ہو جن کو تم نے سدھا رکھا ہو اور جس (طریق) سے خدا نے تمہیں (شکار کرنا) سکھایا ہے (اس طریق سے) تم نے ان کو سکھایا ہو تو جو شکار وہ تمہارے لئے پکڑ رکھیں اس کو کھا لیا کرو اور (شکاری جانوروں کو چھوڑتے وقت) خدا کا نام لے لیا کرو اور خدا سے ڈرتے رہو۔ بےشک خدا جلد حساب لینے والا ہے"
+}

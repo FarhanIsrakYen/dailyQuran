@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 117,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/9_117.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/009117.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/9_117.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/009117.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/9_117.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/009117.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/9_117.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/009117.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/9_117.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/009117.mp3"
+        }
+    },
+    "english": "Allah has certainly turned in mercy to the Prophet as well as the Emigrants and the Helpers who stood by him in the time of hardship, after the hearts of a group of them had almost faltered. He then accepted their repentance. Surely He is Ever Gracious and Most Merciful to them.",
+    "arabic1": "لَّقَد تَّابَ ٱللَّهُ عَلَى ٱلنَّبِىِّ وَٱلْمُهَـٰجِرِينَ وَٱلْأَنصَارِ ٱلَّذِينَ ٱتَّبَعُوهُ فِى سَاعَةِ ٱلْعُسْرَةِ مِنۢ بَعْدِ مَا كَادَ يَزِيغُ قُلُوبُ فَرِيقٍ مِّنْهُمْ ثُمَّ تَابَ عَلَيْهِمْ ۚ إِنَّهُۥ بِهِمْ رَءُوفٌ رَّحِيمٌ",
+    "arabic2": "لقد تاب الله على النبي والمهاجرين والانصار الذين اتبعوه في ساعة العسرة من بعد ما كاد يزيغ قلوب فريق منهم ثم تاب عليهم انه بهم رءوف رحيم",
+    "bengali": "অবশ্যই আল্লাহ নবী, মুহাজির ও আনসারদের তাওবা কবুল করলেন, যারা তার অনুসরণ করেছে সংকটপূর্ণ মুহূর্তে। তাদের মধ্যে এক দলের হৃদয় সত্যচ্যূত হওয়ার উপক্রম হবার পর। তারপর আল্লাহ তাদের তাওবা কবূল করলেন। নিশ্চয় তিনি তাদের প্রতি স্নেহশীল, পরম দয়ালু।",
+    "urdu": "بےشک خدا نے پیغمبر پر مہربانی کی اور مہاجرین اور انصار پر جو باوجود اس کے کہ ان میں سے بعضوں کے دل جلد پھر جانے کو تھے۔ مشکل کی گھڑی میں پیغمبر کے ساتھ رہے۔ پھر خدا نے ان پر مہربانی فرمائی۔ بےشک وہ ان پر نہایت شفقت کرنے والا (اور) مہربان ہے"
+}

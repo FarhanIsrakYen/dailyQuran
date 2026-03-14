@@ -1,0 +1,42 @@
+{
+    "surahName": "Taa-Haa",
+    "surahNameArabic": "طه",
+    "surahNameArabicLong": "سورة طه",
+    "surahNameTranslation": "Taa-Haa",
+    "revelationPlace": "Mecca",
+    "totalAyah": 135,
+    "surahNo": 20,
+    "ayahNo": 45,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/20_45.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/020045.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/20_45.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/020045.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/20_45.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/020045.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/20_45.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/020045.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/20_45.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/020045.mp3"
+        }
+    },
+    "english": "They both pleaded, “Our Lord! We fear that he may be quick to harm us or act tyrannically.”",
+    "arabic1": "قَالَا رَبَّنَآ إِنَّنَا نَخَافُ أَن يَفْرُطَ عَلَيْنَآ أَوْ أَن يَطْغَىٰ",
+    "arabic2": "قالا ربنا اننا نخاف ان يفرط علينا او ان يطغى",
+    "bengali": "তারা বলল, ‘হে আমাদের রব, আমরা তো আশংকা করছি যে, সে আমাদের উপর বাড়াবাড়ি করবে অথবা সীমালঙ্ঘন করবে’।",
+    "urdu": "دونوں کہنے لگے کہ ہمارے پروردگار ہمیں خوف ہے کہ ہم پر تعدی کرنے لگے یا زیادہ سرکش ہوجائے"
+}

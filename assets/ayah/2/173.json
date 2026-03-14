@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 173,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_173.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002173.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_173.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002173.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_173.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002173.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_173.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002173.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_173.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002173.mp3"
+        }
+    },
+    "english": "He has only forbidden you ˹to eat˺ carrion, blood, swine, and what is slaughtered in the name of any other than Allah. But if someone is compelled by necessity—neither driven by desire nor exceeding immediate need—they will not be sinful. Surely Allah is All-Forgiving, Most Merciful.",
+    "arabic1": "إِنَّمَا حَرَّمَ عَلَيْكُمُ ٱلْمَيْتَةَ وَٱلدَّمَ وَلَحْمَ ٱلْخِنزِيرِ وَمَآ أُهِلَّ بِهِۦ لِغَيْرِ ٱللَّهِ ۖ فَمَنِ ٱضْطُرَّ غَيْرَ بَاغٍ وَلَا عَادٍ فَلَآ إِثْمَ عَلَيْهِ ۚ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ",
+    "arabic2": "انما حرم عليكم الميتة والدم ولحم الخنزير وما اهل به لغير الله فمن اضطر غير باغ ولا عاد فلا اثم عليه ان الله غفور رحيم",
+    "bengali": "নিশ্চয় তিনি তোমাদের উপর হারাম করেছেন মৃত জন্তু, রক্ত, শূকরের গোশ্ত এবং যা গায়রুল্লাহর নামে যবেহ করা হয়েছে। সুতরাং যে বাধ্য হবে, অবাধ্য বা সীমালঙ্ঘনকারী না হয়ে, তাহলে তার কোন পাপ নেই। নিশ্চয় আল্লাহ ক্ষমাশীল, পরম দয়ালু।",
+    "urdu": "اس نے تم پر مرا ہوا جانور اور لہو اور سور کا گوشت اور جس چیز پر خدا کے سوا کسی اور کا نام پکارا جائے حرام کردیا ہے ہاں جو ناچار ہوجائے (بشرطیکہ ) خدا کی نافرمانی نہ کرے اور حد (ضرورت) سے باہر نہ نکل جائے اس پر کچھ گناہ نہیں۔ بےشک خدا بخشنے والا (اور) رحم کرنے والا ہے"
+}

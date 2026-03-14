@@ -1,0 +1,42 @@
+{
+    "surahName": "Ar-Room",
+    "surahNameArabic": "الروم",
+    "surahNameArabicLong": "سورة الروم",
+    "surahNameTranslation": "The Romans",
+    "revelationPlace": "Mecca",
+    "totalAyah": 60,
+    "surahNo": 30,
+    "ayahNo": 53,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/30_53.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/030053.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/30_53.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/030053.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/30_53.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/030053.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/30_53.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/030053.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/30_53.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/030053.mp3"
+        }
+    },
+    "english": "Nor can you lead the blind out of their misguidance. You can make none hear ˹the truth˺ except those who believe in Our revelations, ˹fully˺ submitting ˹to Allah˺.",
+    "arabic1": "وَمَآ أَنتَ بِهَـٰدِ ٱلْعُمْىِ عَن ضَلَـٰلَتِهِمْ ۖ إِن تُسْمِعُ إِلَّا مَن يُؤْمِنُ بِـَٔايَـٰتِنَا فَهُم مُّسْلِمُونَ",
+    "arabic2": "وما انت بهاد العمي عن ضلالتهم ان تسمع الا من يؤمن باياتنا فهم مسلمون",
+    "bengali": "আর তুমি অন্ধদেরকেও তাদের ভ্রষ্টতা থেকে হিদায়াতে আনতে পারবে না, তুমি শুধু তাদেরই শুনাতে পারবে যারা আমার আয়াতসমূহের প্রতি ঈমান আনে, কারণ তারা আত্মসমর্পনকারী।",
+    "urdu": "اور نہ اندھوں کو اُن کی گمراہی سے (نکال کر) راہ راست پر لاسکتے ہو۔ تم تو انہی لوگوں کو سنا سکتے ہو جو ہماری آیتوں پر ایمان لاتے ہیں سو وہی فرمانبردار ہیں"
+}

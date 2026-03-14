@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 8,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/9_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/009008.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/9_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/009008.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/9_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/009008.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/9_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/009008.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/9_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/009008.mp3"
+        }
+    },
+    "english": "How ˹can they have a treaty˺? If they were to have the upper hand over you, they would have no respect for kinship or treaty. They only flatter you with their tongues, but their hearts are in denial, and most of them are rebellious.",
+    "arabic1": "كَيْفَ وَإِن يَظْهَرُوا۟ عَلَيْكُمْ لَا يَرْقُبُوا۟ فِيكُمْ إِلًّا وَلَا ذِمَّةً ۚ يُرْضُونَكُم بِأَفْوَٰهِهِمْ وَتَأْبَىٰ قُلُوبُهُمْ وَأَكْثَرُهُمْ فَـٰسِقُونَ",
+    "arabic2": "كيف وان يظهروا عليكم لا يرقبوا فيكم الا ولا ذمة يرضونكم بافواههم وتابى قلوبهم واكثرهم فاسقون",
+    "bengali": "কীভাবে থাকবে (মুশরিকদের জন্য অঙ্গীকার)? অথচ তারা যদি তোমাদের উপর জয়ী হয়, তাহলে তারা তোমাদের আত্মীয়তা ও অঙ্গীকারের ব্যাপারে লক্ষ্য রাখে না। তারা তাদের মুখের (কথা) দ্বারা তোমাদেরকে সন্তুষ্ট করে, কিন্তু তাদের অন্তর তা অস্বীকার করে। আর তাদের অধিকাংশ ফাসিক।",
+    "urdu": "(بھلا ان سے عہد) کیونکر (پورا کیا جائے جب ان کا یہ حال ہے) کہ اگر تم پر غلبہ پالیں تو نہ قرابت کا لحاظ کریں نہ عہد کا۔ یہ منہ سے تو تمہیں خوش کر دیتے ہیں لیکن ان کے دل (ان باتوں کو) قبول نہیں کرتے۔ اور ان میں اکثر نافرمان ہیں"
+}

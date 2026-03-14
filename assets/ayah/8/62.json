@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Anfaal",
+    "surahNameArabic": "الأنفال",
+    "surahNameArabicLong": "سورة الأنفال",
+    "surahNameTranslation": "The Spoils of War",
+    "revelationPlace": "Madina",
+    "totalAyah": 75,
+    "surahNo": 8,
+    "ayahNo": 62,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/8_62.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/008062.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/8_62.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/008062.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/8_62.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/008062.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/8_62.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/008062.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/8_62.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/008062.mp3"
+        }
+    },
+    "english": "But if their intention is only to deceive you, then Allah is certainly sufficient for you. He is the One Who has supported you with His help and with the believers.",
+    "arabic1": "وَإِن يُرِيدُوٓا۟ أَن يَخْدَعُوكَ فَإِنَّ حَسْبَكَ ٱللَّهُ ۚ هُوَ ٱلَّذِىٓ أَيَّدَكَ بِنَصْرِهِۦ وَبِٱلْمُؤْمِنِينَ",
+    "arabic2": "وان يريدوا ان يخدعوك فان حسبك الله هو الذي ايدك بنصره وبالمؤمنين",
+    "bengali": "আর যদি তারা তোমাকে ধোঁকা দিতে চায়, তাহলে তোমার জন্য আল্লাহই যথেষ্ট। তিনিই তোমাকে শক্তিশালী করেছেন তাঁর সাহায্য ও মুমিনদের দ্বারা।",
+    "urdu": "اور اگر یہ چاہیں کہ تم کو فریب دیں تو خدا تمہیں کفایت کرے گا۔ وہی تو ہے جس نے تم کو اپنی مدد سے اور مسلمانوں (کی جمعیت) سے تقویت بخشی"
+}

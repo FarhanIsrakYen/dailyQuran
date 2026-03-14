@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Hajj",
+    "surahNameArabic": "الحج",
+    "surahNameArabicLong": "سورة الحج",
+    "surahNameTranslation": "The Pilgrimage",
+    "revelationPlace": "Madina",
+    "totalAyah": 78,
+    "surahNo": 22,
+    "ayahNo": 17,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/22_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/022017.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/22_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/022017.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/22_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/022017.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/22_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/022017.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/22_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/022017.mp3"
+        }
+    },
+    "english": "Indeed, the believers, Jews, Sabians, Christians, Magi, and the polytheists—Allah will judge between them ˹all˺ on Judgment Day. Surely Allah is a Witness over all things.",
+    "arabic1": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَٱلَّذِينَ هَادُوا۟ وَٱلصَّـٰبِـِٔينَ وَٱلنَّصَـٰرَىٰ وَٱلْمَجُوسَ وَٱلَّذِينَ أَشْرَكُوٓا۟ إِنَّ ٱللَّهَ يَفْصِلُ بَيْنَهُمْ يَوْمَ ٱلْقِيَـٰمَةِ ۚ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍ شَهِيدٌ",
+    "arabic2": "ان الذين امنوا والذين هادوا والصابئين والنصارى والمجوس والذين اشركوا ان الله يفصل بينهم يوم القيامة ان الله على كل شيء شهيد",
+    "bengali": "নিশ্চয় যারা ঈমান এনেছে এবং যারা ইয়াহূদী হয়েছে, যারা সাবিঈ, খৃস্টান ও অগ্নিপূজক এবং যারা মুশরিক হয়েছে- কিয়ামতের দিন আল্লাহ তাদের মধ্যে ফয়সালা করে দেবেন। নিঃসন্দেহে আল্লাহ সব কিছুই সম্যক প্রত্যক্ষকারী।",
+    "urdu": "جو لوگ مومن (یعنی مسلمان) ہیں اور جو یہودی ہیں اور ستارہ پرست اور عیسائی اور مجوسی اور مشرک۔ خدا ان (سب) میں قیامت کے دن فیصلہ کردے گا۔ بےشک خدا ہر چیز سے باخبر ہے"
+}

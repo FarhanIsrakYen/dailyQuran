@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 264,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_264.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002264.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_264.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002264.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_264.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002264.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_264.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002264.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_264.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002264.mp3"
+        }
+    },
+    "english": "O believers! Do not waste your charity with reminders ˹of your generosity˺ or hurtful words, like those who donate their wealth just to show off and do not believe in Allah or the Last Day. Their example is that of a hard barren rock covered with a thin layer of soil hit by a strong rain—leaving it just a bare stone. Such people are unable to preserve the reward of their charity. Allah does not guide ˹such˺ disbelieving people.",
+    "arabic1": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تُبْطِلُوا۟ صَدَقَـٰتِكُم بِٱلْمَنِّ وَٱلْأَذَىٰ كَٱلَّذِى يُنفِقُ مَالَهُۥ رِئَآءَ ٱلنَّاسِ وَلَا يُؤْمِنُ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ ۖ فَمَثَلُهُۥ كَمَثَلِ صَفْوَانٍ عَلَيْهِ تُرَابٌ فَأَصَابَهُۥ وَابِلٌ فَتَرَكَهُۥ صَلْدًا ۖ لَّا يَقْدِرُونَ عَلَىٰ شَىْءٍ مِّمَّا كَسَبُوا۟ ۗ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلْكَـٰفِرِينَ",
+    "arabic2": "يا ايها الذين امنوا لا تبطلوا صدقاتكم بالمن والاذى كالذي ينفق ماله رئاء الناس ولا يؤمن بالله واليوم الاخر فمثله كمثل صفوان عليه تراب فاصابه وابل فتركه صلدا لا يقدرون على شيء مما كسبوا والله لا يهدي القوم الكافرين",
+    "bengali": "হে মুমিনগণ, তোমরা খোঁটা ও কষ্ট দেয়ার মাধ্যমে তোমাদের সদাকা বাতিল করো না। সে ব্যক্তির মত, যে তার সম্পদ ব্যয় করে লোক দেখানোর উদ্দেশ্যে এবং বিশ্বাস করে না আল্লাহ ও শেষ দিনের প্রতি। অতএব তার উপমা এমন একটি মসৃণ পাথর, যার উপর রয়েছে মাটি। অতঃপর তাতে প্রবল বৃষ্টি পড়ল, ফলে তাকে একেবারে পরিষ্কার করে ফেলল। তারা যা অর্জন করেছে তার মাধ্যমে তারা কোন কিছু করার ক্ষমতা রাখে না। আর আল্লাহ কাফির জাতিকে হিদায়াত দেন না।",
+    "urdu": "مومنو! اپنے صدقات (وخیرات)احسان رکھنے اور ایذا دینے سے اس شخص کی طرح برباد نہ کردینا۔ جو لوگوں کو دکھاوے کے لئے مال خرچ کرتا ہے اور خدا اور روز آخرت پر ایمان نہیں رکھتا۔ تو اس (کے مال) کی مثال اس چٹان کی سی ہے جس پر تھوڑی سی مٹی پڑی ہو اور اس پر زور کا مینہ برس کر اسے صاف کر ڈالے۔ (اسی طرح) یہ (ریاکار) لوگ اپنے اعمال کا کچھ بھی صلہ حاصل نہیں کرسکیں گے۔ اور خدا ایسے ناشکروں کو ہدایت نہیں دیا کرتا"
+}

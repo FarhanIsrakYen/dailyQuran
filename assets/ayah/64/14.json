@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Taghaabun",
+    "surahNameArabic": "التغابن",
+    "surahNameArabicLong": "سورة التغابن",
+    "surahNameTranslation": "Mutual Disillusion",
+    "revelationPlace": "Madina",
+    "totalAyah": 18,
+    "surahNo": 64,
+    "ayahNo": 14,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/64_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/064014.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/64_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/064014.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/64_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/064014.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/64_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/064014.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/64_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/064014.mp3"
+        }
+    },
+    "english": "O believers! Indeed, some of your spouses and children are enemies to you, so beware of them. But if you pardon, overlook, and forgive ˹their faults˺, then Allah is truly All-Forgiving, Most Merciful.",
+    "arabic1": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِنَّ مِنْ أَزْوَٰجِكُمْ وَأَوْلَـٰدِكُمْ عَدُوًّا لَّكُمْ فَٱحْذَرُوهُمْ ۚ وَإِن تَعْفُوا۟ وَتَصْفَحُوا۟ وَتَغْفِرُوا۟ فَإِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ",
+    "arabic2": "يا ايها الذين امنوا ان من ازواجكم واولادكم عدوا لكم فاحذروهم وان تعفوا وتصفحوا وتغفروا فان الله غفور رحيم",
+    "bengali": "হে মুমিনগণ, তোমাদের স্বামী-স্ত্রী ও সন্তান-সন্ততিদের কেউ কেউ তোমাদের দুশমন।* অতএব তোমরা তাদের ব্যাপারে সতর্কতা অবলম্বন কর। আর যদি তোমরা মার্জনা কর, এড়িয়ে যাও এবং মাফ করে দাও তবে নিশ্চয় আল্লাহ পরম ক্ষমাশীল, অসীম দয়ালু। \n*অর্থাৎ তারা কখনো কখনো আল্লাহর পথে চলা, তাঁর আনুগত্য করা অথবা আল্লাহর যিকর ও আখিরাতের স্মরণ থেকে তোমাদের বিরত রাখতে পারে। এ আয়াতে শত্রুতা ও দুশমনি বলতে এর প্রতিই ইঙ্গিত করা হয়েছে।",
+    "urdu": "مومنو! تمہاری عورتیں اور اولاد میں سے بعض تمہارے دشمن (بھی) ہیں سو ان سے بچتے رہو۔ اور اگر معاف کردو اور درگزر کرو اور بخش دو تو خدا بھی بخشنے والا مہربان ہے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Anbiyaa",
+    "surahNameArabic": "الأنبياء",
+    "surahNameArabicLong": "سورة الأنبياء",
+    "surahNameTranslation": "The Prophets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 112,
+    "surahNo": 21,
+    "ayahNo": 68,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/21_68.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/021068.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/21_68.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/021068.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/21_68.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/021068.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/21_68.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/021068.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/21_68.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/021068.mp3"
+        }
+    },
+    "english": "They concluded, “Burn him up to avenge your gods, if you must act.”",
+    "arabic1": "قَالُوا۟ حَرِّقُوهُ وَٱنصُرُوٓا۟ ءَالِهَتَكُمْ إِن كُنتُمْ فَـٰعِلِينَ",
+    "arabic2": "قالوا حرقوه وانصروا الهتكم ان كنتم فاعلين",
+    "bengali": "তারা বলল, ‘তাকে আগুনে পুড়িয়ে দাও এবং তোমাদের দেবদেবীদেরকে সাহায্য কর, যদি তোমরা কিছু করতে চাও’।",
+    "urdu": "(تب وہ) کہنے لگے کہ اگر تمہیں (اس سے اپنے معبود کا انتقام لینا اور) کچھ کرنا ہے تو اس کو جلا دو اور اپنے معبودوں کی مدد کرو"
+}

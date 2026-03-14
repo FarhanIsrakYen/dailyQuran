@@ -1,0 +1,42 @@
+{
+    "surahName": "Yunus",
+    "surahNameArabic": "يونس",
+    "surahNameArabicLong": "سورة يونس",
+    "surahNameTranslation": "Jonas",
+    "revelationPlace": "Mecca",
+    "totalAyah": 109,
+    "surahNo": 10,
+    "ayahNo": 7,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/10_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/010007.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/10_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/010007.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/10_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/010007.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/10_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/010007.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/10_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/010007.mp3"
+        }
+    },
+    "english": "Indeed, those who do not expect to meet Us, being pleased and content with this worldly life, and who are heedless of Our signs",
+    "arabic1": "إِنَّ ٱلَّذِينَ لَا يَرْجُونَ لِقَآءَنَا وَرَضُوا۟ بِٱلْحَيَوٰةِ ٱلدُّنْيَا وَٱطْمَأَنُّوا۟ بِهَا وَٱلَّذِينَ هُمْ عَنْ ءَايَـٰتِنَا غَـٰفِلُونَ",
+    "arabic2": "ان الذين لا يرجون لقاءنا ورضوا بالحياة الدنيا واطمانوا بها والذين هم عن اياتنا غافلون",
+    "bengali": "নিশ্চয় যারা আমার সাক্ষাতের আশা রাখে না এবং দুনিয়ার জীবন নিয়ে সন্তুষ্ট আছে ও তা নিয়ে পরিতৃপ্ত রয়েছে। আর যারা আমার নিদর্শনাবলী হতে গাফেল ।",
+    "urdu": "جن لوگوں کو ہم سے ملنے کی توقع نہیں اور دنیا کی زندگی سے خوش اور اسی پر مطئمن ہو بیٹھے اور ہماری نشانیوں سے غافل ہو رہے ہیں"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Maaida",
+    "surahNameArabic": "المائدة",
+    "surahNameArabicLong": "سورة المائدة",
+    "surahNameTranslation": "The Table",
+    "revelationPlace": "Madina",
+    "totalAyah": 120,
+    "surahNo": 5,
+    "ayahNo": 22,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/5_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/005022.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/5_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/005022.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/5_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/005022.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/5_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/005022.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/5_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/005022.mp3"
+        }
+    },
+    "english": "They replied, “O Moses! There is an enormously powerful people there, so we will never ˹be able to˺ enter it until they leave. If they do, then we will enter!”",
+    "arabic1": "قَالُوا۟ يَـٰمُوسَىٰٓ إِنَّ فِيهَا قَوْمًا جَبَّارِينَ وَإِنَّا لَن نَّدْخُلَهَا حَتَّىٰ يَخْرُجُوا۟ مِنْهَا فَإِن يَخْرُجُوا۟ مِنْهَا فَإِنَّا دَٰخِلُونَ",
+    "arabic2": "قالوا يا موسى ان فيها قوما جبارين وانا لن ندخلها حتى يخرجوا منها فان يخرجوا منها فانا داخلون",
+    "bengali": "তারা বলল, ‘হে মূসা, নিশ্চয় সেখানে রয়েছে এক শক্তিশালী জাতি এবং আমরা নিশ্চয় সেখানে প্রবেশ করব না, যতক্ষণ না তারা সেখান থেকে বের হয়। অতঃপর যদি তারা সেখান থেকে বের হয়, তবে নিশ্চয় আমরা প্রবেশ করব’।",
+    "urdu": "وہ کہنے لگے کہ موسیٰ! وہاں تو بڑے زبردست لوگ (رہتے) ہیں اور جب تک وہ اس سرزمین سے نکل نہ جائیں ہم وہاں جا نہیں سکتے ہاں اگر وہ وہاں سے نکل جائیں تو ہم جا داخل ہوں گے"
+}

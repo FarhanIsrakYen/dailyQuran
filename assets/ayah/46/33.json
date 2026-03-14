@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Ahqaf",
+    "surahNameArabic": "الأحقاف",
+    "surahNameArabicLong": "سورة الأحقاف",
+    "surahNameTranslation": "The Dunes",
+    "revelationPlace": "Mecca",
+    "totalAyah": 35,
+    "surahNo": 46,
+    "ayahNo": 33,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/46_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/046033.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/46_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/046033.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/46_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/046033.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/46_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/046033.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/46_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/046033.mp3"
+        }
+    },
+    "english": "Do they not realize that Allah, Who created the heavens and the earth and did not tire in creating them, is able to give life to the dead? Yes ˹indeed˺! He is certainly Most Capable of everything.",
+    "arabic1": "أَوَلَمْ يَرَوْا۟ أَنَّ ٱللَّهَ ٱلَّذِى خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ وَلَمْ يَعْىَ بِخَلْقِهِنَّ بِقَـٰدِرٍ عَلَىٰٓ أَن يُحْـِۧىَ ٱلْمَوْتَىٰ ۚ بَلَىٰٓ إِنَّهُۥ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+    "arabic2": "اولم يروا ان الله الذي خلق السماوات والارض ولم يعي بخلقهن بقادر على ان يحيي الموتى بلى انه على كل شيء قدير",
+    "bengali": "তারা কি দেখে না যে, নিশ্চয় আল্লাহ, যিনি আসমানসমূহ ও যমীন সৃষ্টি করেছেন আর এগুলোর সৃষ্টিতে তিনি ক্লান্ত হননি, তিনি মৃতদেরকে জীবন দিতে সক্ষম? অবশ্যই হ্যাঁ, নিশ্চয় তিনি সকল কিছুর ওপর ক্ষমতাবান।",
+    "urdu": "کیا انہوں نے نہیں سمجھا کہ جس خدا نے آسمانوں اور زمین کو پیدا کیا اور ان کے پیدا کرنے سے تھکا نہیں۔ وہ اس (بات) پر بھی قادر ہے کہ مردوں کو زندہ کر دے۔ ہاں ہاں وہ ہر چیز پر قادر ہے"
+}

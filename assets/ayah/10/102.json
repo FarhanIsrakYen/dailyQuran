@@ -1,0 +1,42 @@
+{
+    "surahName": "Yunus",
+    "surahNameArabic": "يونس",
+    "surahNameArabicLong": "سورة يونس",
+    "surahNameTranslation": "Jonas",
+    "revelationPlace": "Mecca",
+    "totalAyah": 109,
+    "surahNo": 10,
+    "ayahNo": 102,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/10_102.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/010102.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/10_102.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/010102.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/10_102.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/010102.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/10_102.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/010102.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/10_102.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/010102.mp3"
+        }
+    },
+    "english": "Are they waiting for ˹anything˺ except the same torments that befell those before them? Say, “Keep waiting then! I too am waiting with you.”",
+    "arabic1": "فَهَلْ يَنتَظِرُونَ إِلَّا مِثْلَ أَيَّامِ ٱلَّذِينَ خَلَوْا۟ مِن قَبْلِهِمْ ۚ قُلْ فَٱنتَظِرُوٓا۟ إِنِّى مَعَكُم مِّنَ ٱلْمُنتَظِرِينَ",
+    "arabic2": "فهل ينتظرون الا مثل ايام الذين خلوا من قبلهم قل فانتظروا اني معكم من المنتظرين",
+    "bengali": "তবে কি তারা কেবল তাদের পূর্বে বিগত লোকদের অনুরূপ দিনগুলোরই অপেক্ষা করছে? বল, ‘তবে তোমরা অপেক্ষা কর, আমিও তোমাদের সাথে অপেক্ষমান’।",
+    "urdu": "سو جیسے (برے) دن ان سے پہلے لوگوں پر گزر چکے ہیں اسی طرح کے (دنوں کے) یہ منتظر ہیں۔ کہہ دو کہ تم بھی انتظار کرو۔ میں بھی تمہارے ساتھ انتظار کرتا ہوں"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Yusuf",
+    "surahNameArabic": "يوسف",
+    "surahNameArabicLong": "سورة يوسف",
+    "surahNameTranslation": "Joseph",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 12,
+    "ayahNo": 19,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/12_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/012019.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/12_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/012019.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/12_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/012019.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/12_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/012019.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/12_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/012019.mp3"
+        }
+    },
+    "english": "And there came some travellers, and they sent their water-boy who let down his bucket into the well. He cried out, “Oh, what a great find! Here is a boy!” And they took him secretly ˹to be sold˺ as merchandise, but Allah is All-Knowing of what they did.",
+    "arabic1": "وَجَآءَتْ سَيَّارَةٌ فَأَرْسَلُوا۟ وَارِدَهُمْ فَأَدْلَىٰ دَلْوَهُۥ ۖ قَالَ يَـٰبُشْرَىٰ هَـٰذَا غُلَـٰمٌ ۚ وَأَسَرُّوهُ بِضَـٰعَةً ۚ وَٱللَّهُ عَلِيمٌۢ بِمَا يَعْمَلُونَ",
+    "arabic2": "وجاءت سيارة فارسلوا واردهم فادلى دلوه قال يا بشرى هذا غلام واسروه بضاعة والله عليم بما يعملون",
+    "bengali": "আর একটি যাত্রীদল আসল এবং তারা তাদের পানি সংগ্রহকারীকে প্রেরণ করল অতঃপর সে তার বালতি ফেলল। সে বলে উঠলো, ‘কী সুখবর! এ যে একটি বালক’ এবং তারা তাকে পণ্যদ্রব্য হিসেবে গোপন করে ফেলল। আর তারা যা কিছু করছিল সে বিষয়ে আল্লাহ সম্যক জ্ঞাত।",
+    "urdu": "(اب خدا کی شان دیکھو کہ اس کنویں کے قریب) ایک قافلہ آوارد ہوا اور انہوں نے (پانی کے لیے) اپنا سقا بھیجا۔ اس نے کنویں میں ڈول لٹکایا (تو یوسف اس سے لٹک گئے) وہ بولا زہے قسمت یہ تو (نہایت حسین) لڑکا ہے۔ اور اس کو قیمتی سرمایہ سمجھ کر چھپا لیا اور جو کچھ وہ کرتے تھے خدا کو سب معلوم تھا"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Az-Zumar",
+    "surahNameArabic": "الزمر",
+    "surahNameArabicLong": "سورة الزمر",
+    "surahNameTranslation": "The Groups",
+    "revelationPlace": "Mecca",
+    "totalAyah": 75,
+    "surahNo": 39,
+    "ayahNo": 71,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/39_71.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/039071.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/39_71.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/039071.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/39_71.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/039071.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/39_71.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/039071.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/39_71.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/039071.mp3"
+        }
+    },
+    "english": "Those who disbelieved will be driven to Hell in ˹successive˺ groups. When they arrive there, its gates will be opened and its keepers will ask them: “Did messengers not come to you from among yourselves, reciting to you the revelations of your Lord and warning you of the coming of this Day of yours?” The disbelievers will cry, “Yes ˹indeed˺! But the decree of torment has come to pass against the disbelievers.”",
+    "arabic1": "وَسِيقَ ٱلَّذِينَ كَفَرُوٓا۟ إِلَىٰ جَهَنَّمَ زُمَرًا ۖ حَتَّىٰٓ إِذَا جَآءُوهَا فُتِحَتْ أَبْوَٰبُهَا وَقَالَ لَهُمْ خَزَنَتُهَآ أَلَمْ يَأْتِكُمْ رُسُلٌ مِّنكُمْ يَتْلُونَ عَلَيْكُمْ ءَايَـٰتِ رَبِّكُمْ وَيُنذِرُونَكُمْ لِقَآءَ يَوْمِكُمْ هَـٰذَا ۚ قَالُوا۟ بَلَىٰ وَلَـٰكِنْ حَقَّتْ كَلِمَةُ ٱلْعَذَابِ عَلَى ٱلْكَـٰفِرِينَ",
+    "arabic2": "وسيق الذين كفروا الى جهنم زمرا حتى اذا جاءوها فتحت ابوابها وقال لهم خزنتها الم ياتكم رسل منكم يتلون عليكم ايات ربكم وينذرونكم لقاء يومكم هذا قالوا بلى ولكن حقت كلمة العذاب على الكافرين",
+    "bengali": "আর কাফিরদেরকে দলে দলে জাহান্নামের দিকে হাঁকিয়ে নিয়ে যাওয়া হবে। অবশেষে তারা যখন জাহান্নামের কাছে এসে পৌঁছবে তখন তার দরজাগুলো খুলে দেয়া হবে এবং জাহান্নামের রক্ষীরা তাদেরকে বলবে, ‘তোমাদের মধ্য থেকে তোমাদের কাছে কি রাসূলগণ আসেনি, যারা তোমাদের কাছে তোমাদের রবের আয়াতগুলো তিলাওয়াত করত এবং এ দিনের সাক্ষাৎ সম্পর্কে তোমাদেরকে সতর্ক করত’? তারা বলবে, ‘অবশ্যই এসেছিল’; কিন্তু কাফিরদের উপর আযাবের বাণী সত্যে পরিণত হল।",
+    "urdu": "اور کافروں کو گروہ گروہ بنا کر جہنم کی طرف لے جائیں گے۔ یہاں تک کہ جب وہ اس کے پاس پہنچ جائیں گے تو اس کے دروازے کھول دیئے جائیں گے تو اس کے داروغہ ان سے کہیں گے کہ کیا تمہارے پاس تم ہی میں سے پیغمبر نہیں آئے تھے جو تم کو تمہارے پروردگار کی آیتیں پڑھ پڑھ کر سناتے اور اس دن کے پیش آنے سے ڈراتے تھے کہیں گے کیوں نہیں لیکن کافروں کے حق میں عذاب کا حکم متحقق ہوچکا تھا"
+}

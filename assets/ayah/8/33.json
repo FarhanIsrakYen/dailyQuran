@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Anfaal",
+    "surahNameArabic": "الأنفال",
+    "surahNameArabicLong": "سورة الأنفال",
+    "surahNameTranslation": "The Spoils of War",
+    "revelationPlace": "Madina",
+    "totalAyah": 75,
+    "surahNo": 8,
+    "ayahNo": 33,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/8_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/008033.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/8_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/008033.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/8_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/008033.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/8_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/008033.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/8_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/008033.mp3"
+        }
+    },
+    "english": "But Allah would never punish them while you ˹O Prophet˺ were in their midst. Nor would He ever punish them if they prayed for forgiveness.",
+    "arabic1": "وَمَا كَانَ ٱللَّهُ لِيُعَذِّبَهُمْ وَأَنتَ فِيهِمْ ۚ وَمَا كَانَ ٱللَّهُ مُعَذِّبَهُمْ وَهُمْ يَسْتَغْفِرُونَ",
+    "arabic2": "وما كان الله ليعذبهم وانت فيهم وما كان الله معذبهم وهم يستغفرون",
+    "bengali": "আর আল্লাহ এমন নন যে, তাদেরকে আযাব দেবেন এ অবস্থায় যে, তুমি তাদের মাঝে বিদ্যমান এবং আল্লাহ তাদেরকে আযাব দানকারী নন এমতাবস্থায় যে, তারা ক্ষমা প্রার্থনা করছে।",
+    "urdu": "اور خدا ایسا نہ تھا کہ جب تک تم ان میں سے تھے انہیں عذاب دیتا۔ اور ایسا نہ تھا کہ وہ بخششیں مانگیں اور انہیں عذاب دے"
+}

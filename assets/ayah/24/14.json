@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Noor",
+    "surahNameArabic": "النور",
+    "surahNameArabicLong": "سورة النور",
+    "surahNameTranslation": "The Light",
+    "revelationPlace": "Madina",
+    "totalAyah": 64,
+    "surahNo": 24,
+    "ayahNo": 14,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/24_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/024014.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/24_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/024014.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/24_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/024014.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/24_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/024014.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/24_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/024014.mp3"
+        }
+    },
+    "english": "Had it not been for Allah’s grace and mercy upon you in this world and the Hereafter, you would have certainly been touched with a tremendous punishment for what you plunged into—",
+    "arabic1": "وَلَوْلَا فَضْلُ ٱللَّهِ عَلَيْكُمْ وَرَحْمَتُهُۥ فِى ٱلدُّنْيَا وَٱلْـَٔاخِرَةِ لَمَسَّكُمْ فِى مَآ أَفَضْتُمْ فِيهِ عَذَابٌ عَظِيمٌ",
+    "arabic2": "ولولا فضل الله عليكم ورحمته في الدنيا والاخرة لمسكم في ما افضتم فيه عذاب عظيم",
+    "bengali": "আর যদি দুনিয়া ও আখেরাতে তোমাদের উপর আল্লাহর দয়া ও তাঁর অনুগ্রহ না থাকত, তবে তোমরা যাতে লিপ্ত ছিলে, তার জন্য তোমাদেরকে অবশ্যই কঠিন আযাব স্পর্শ করত।",
+    "urdu": "اور اگر دنیا اور آخرت میں تم پر خدا کا فضل اور اس کی رحمت نہ ہوتی تو جس بات کا تم چرچا کرتے تھے اس کی وجہ سے تم پر بڑا (سخت) عذاب نازل ہوتا"
+}

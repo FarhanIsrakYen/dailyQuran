@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Munaafiqoon",
+    "surahNameArabic": "المنافقون",
+    "surahNameArabicLong": "سورة المنافقون",
+    "surahNameTranslation": "The Hypocrites",
+    "revelationPlace": "Madina",
+    "totalAyah": 11,
+    "surahNo": 63,
+    "ayahNo": 9,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/63_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/063009.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/63_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/063009.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/63_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/063009.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/63_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/063009.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/63_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/063009.mp3"
+        }
+    },
+    "english": "O believers! Do not let your wealth or your children divert you from the remembrance of Allah. For whoever does so, it is they who are the ˹true˺ losers.",
+    "arabic1": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تُلْهِكُمْ أَمْوَٰلُكُمْ وَلَآ أَوْلَـٰدُكُمْ عَن ذِكْرِ ٱللَّهِ ۚ وَمَن يَفْعَلْ ذَٰلِكَ فَأُو۟لَـٰٓئِكَ هُمُ ٱلْخَـٰسِرُونَ",
+    "arabic2": "يا ايها الذين امنوا لا تلهكم اموالكم ولا اولادكم عن ذكر الله ومن يفعل ذلك فاولئك هم الخاسرون",
+    "bengali": "হে মুমিনগণ, তোমাদের ধন-সম্পদ ও সন্তান- সন্ততি যেন তোমাদেরকে আল্লাহর স্মরণ থেকে উদাসীন না করে। আর যারা এরূপ করে তারাই তো ক্ষতিগ্রস্ত।",
+    "urdu": "مومنو! تمہارا مال اور اولاد تم کو خدا کی یاد سے غافل نہ کردے۔ اور جو ایسا کرے گا تو وہ لوگ خسارہ اٹھانے والے ہیں"
+}

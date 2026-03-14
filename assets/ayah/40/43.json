@@ -1,0 +1,42 @@
+{
+    "surahName": "Ghafir",
+    "surahNameArabic": "غافر",
+    "surahNameArabicLong": "سورة غافر",
+    "surahNameTranslation": "The Forgiver",
+    "revelationPlace": "Mecca",
+    "totalAyah": 85,
+    "surahNo": 40,
+    "ayahNo": 43,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/40_43.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/040043.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/40_43.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/040043.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/40_43.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/040043.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/40_43.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/040043.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/40_43.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/040043.mp3"
+        }
+    },
+    "english": "There is no doubt that whatever ˹idols˺ you invite me to ˹worship˺ are not worthy to be invoked either in this world or the Hereafter. ˹Undoubtedly,˺ our return is to Allah, and the transgressors will be the inmates of the Fire.",
+    "arabic1": "لَا جَرَمَ أَنَّمَا تَدْعُونَنِىٓ إِلَيْهِ لَيْسَ لَهُۥ دَعْوَةٌ فِى ٱلدُّنْيَا وَلَا فِى ٱلْـَٔاخِرَةِ وَأَنَّ مَرَدَّنَآ إِلَى ٱللَّهِ وَأَنَّ ٱلْمُسْرِفِينَ هُمْ أَصْحَـٰبُ ٱلنَّارِ",
+    "arabic2": "لا جرم انما تدعونني اليه ليس له دعوة في الدنيا ولا في الاخرة وان مردنا الى الله وان المسرفين هم اصحاب النار",
+    "bengali": "‘এ ব্যাপারে কোন সন্দেহ নেই যে, যার দিকে তোমরা আমাকে ডাকছ, সে দুনিয়া বা আখিরাতে কারো ডাকের যোগ্য নয়। আর আমাদের প্রত্যাবর্তন হবে আল্লাহর দিকে এবং নিশ্চয় সীমালংঘনকারীরা হবে আগুনের সাথী’।",
+    "urdu": "سچ تو یہ ہے کہ جس چیز کی طرف تم مجھے بلاتے ہو اس کو دنیا اور آخرت میں بلانے (یعنی دعا قبول کرنے) کا مقدور نہیں اور ہم کو خدا کی طرف لوٹنا ہے اور حد سے نکل جانے والے دوزخی ہیں"
+}

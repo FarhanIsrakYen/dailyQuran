@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Noor",
+    "surahNameArabic": "النور",
+    "surahNameArabicLong": "سورة النور",
+    "surahNameTranslation": "The Light",
+    "revelationPlace": "Madina",
+    "totalAyah": 64,
+    "surahNo": 24,
+    "ayahNo": 50,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/24_50.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/024050.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/24_50.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/024050.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/24_50.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/024050.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/24_50.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/024050.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/24_50.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/024050.mp3"
+        }
+    },
+    "english": "Is there a sickness in their hearts? Or are they in doubt? Or do they fear that Allah and His Messenger will be unjust to them? In fact, it is they who are the ˹true˺ wrongdoers.",
+    "arabic1": "أَفِى قُلُوبِهِم مَّرَضٌ أَمِ ٱرْتَابُوٓا۟ أَمْ يَخَافُونَ أَن يَحِيفَ ٱللَّهُ عَلَيْهِمْ وَرَسُولُهُۥ ۚ بَلْ أُو۟لَـٰٓئِكَ هُمُ ٱلظَّـٰلِمُونَ",
+    "arabic2": "افي قلوبهم مرض ام ارتابوا ام يخافون ان يحيف الله عليهم ورسوله بل اولئك هم الظالمون",
+    "bengali": "তাদের অন্তরে কি ব্যাধি রয়েছে? নাকি তারা সন্দেহ পোষণ করে, না তারা ভয় করে যে, আল্লাহ ও তাঁর রাসূল তাদের উপর যুলম করবেন? বরং তারাই তো যালিম।",
+    "urdu": "کیا ان کے دلوں میں بیماری ہے یا (یہ) شک میں ہیں یا ان کو یہ خوف ہے کہ خدا اور اس کا رسول ان کے حق میں ظلم کریں گے (نہیں) بلکہ یہ خود ظالم ہیں"
+}

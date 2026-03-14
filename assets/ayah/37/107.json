@@ -1,0 +1,42 @@
+{
+    "surahName": "As-Saaffaat",
+    "surahNameArabic": "الصافات",
+    "surahNameArabicLong": "سورة الصافات",
+    "surahNameTranslation": "Those drawn up in Ranks",
+    "revelationPlace": "Mecca",
+    "totalAyah": 182,
+    "surahNo": 37,
+    "ayahNo": 107,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/37_107.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/037107.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/37_107.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/037107.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/37_107.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/037107.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/37_107.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/037107.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/37_107.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/037107.mp3"
+        }
+    },
+    "english": "And We ransomed his son with a great sacrifice",
+    "arabic1": "وَفَدَيْنَـٰهُ بِذِبْحٍ عَظِيمٍ",
+    "arabic2": "وفديناه بذبح عظيم",
+    "bengali": "আর আমি এক মহান যবেহের* বিনিময়ে তাকে মুক্ত করলাম। \n* তা ছিল একটি জান্নাতী দুম্বা।",
+    "urdu": "اور ہم نے ایک بڑی قربانی کو ان کا فدیہ دیا"
+}

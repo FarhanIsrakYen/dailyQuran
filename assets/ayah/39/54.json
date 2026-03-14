@@ -1,0 +1,42 @@
+{
+    "surahName": "Az-Zumar",
+    "surahNameArabic": "الزمر",
+    "surahNameArabicLong": "سورة الزمر",
+    "surahNameTranslation": "The Groups",
+    "revelationPlace": "Mecca",
+    "totalAyah": 75,
+    "surahNo": 39,
+    "ayahNo": 54,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/39_54.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/039054.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/39_54.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/039054.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/39_54.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/039054.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/39_54.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/039054.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/39_54.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/039054.mp3"
+        }
+    },
+    "english": "Turn to your Lord ˹in repentance˺, and ˹fully˺ submit to Him before the punishment reaches you, ˹for˺ then you will not be helped.",
+    "arabic1": "وَأَنِيبُوٓا۟ إِلَىٰ رَبِّكُمْ وَأَسْلِمُوا۟ لَهُۥ مِن قَبْلِ أَن يَأْتِيَكُمُ ٱلْعَذَابُ ثُمَّ لَا تُنصَرُونَ",
+    "arabic2": "وانيبوا الى ربكم واسلموا له من قبل ان ياتيكم العذاب ثم لا تنصرون",
+    "bengali": "আর তোমরা তোমাদের রবের অভিমুখী হও এবং তোমাদের উপর আযাব আসার পূর্বেই তার কাছে আত্মসমর্পণ কর। তার (আযাব আসার) পরে তোমাদেরকে সাহায্য করা হবে না।",
+    "urdu": "اور اس سے پہلے کہ تم پر عذاب آ واقع ہو، اپنے پروردگار کی طرف رجوع کرو اور اس کے فرمانبردار ہوجاؤ پھر تم کو مدد نہیں ملے گی"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Hajj",
+    "surahNameArabic": "الحج",
+    "surahNameArabicLong": "سورة الحج",
+    "surahNameTranslation": "The Pilgrimage",
+    "revelationPlace": "Madina",
+    "totalAyah": 78,
+    "surahNo": 22,
+    "ayahNo": 40,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/22_40.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/022040.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/22_40.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/022040.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/22_40.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/022040.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/22_40.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/022040.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/22_40.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/022040.mp3"
+        }
+    },
+    "english": "˹They are˺ those who have been expelled from their homes for no reason other than proclaiming: “Our Lord is Allah.” Had Allah not repelled ˹the aggression of˺ some people by means of others, destruction would have surely claimed monasteries, churches, synagogues, and mosques in which Allah’s Name is often mentioned. Allah will certainly help those who stand up for Him. Allah is truly All-Powerful, Almighty.",
+    "arabic1": "ٱلَّذِينَ أُخْرِجُوا۟ مِن دِيَـٰرِهِم بِغَيْرِ حَقٍّ إِلَّآ أَن يَقُولُوا۟ رَبُّنَا ٱللَّهُ ۗ وَلَوْلَا دَفْعُ ٱللَّهِ ٱلنَّاسَ بَعْضَهُم بِبَعْضٍ لَّهُدِّمَتْ صَوَٰمِعُ وَبِيَعٌ وَصَلَوَٰتٌ وَمَسَـٰجِدُ يُذْكَرُ فِيهَا ٱسْمُ ٱللَّهِ كَثِيرًا ۗ وَلَيَنصُرَنَّ ٱللَّهُ مَن يَنصُرُهُۥٓ ۗ إِنَّ ٱللَّهَ لَقَوِىٌّ عَزِيزٌ",
+    "arabic2": "الذين اخرجوا من ديارهم بغير حق الا ان يقولوا ربنا الله ولولا دفع الله الناس بعضهم ببعض لهدمت صوامع وبيع وصلوات ومساجد يذكر فيها اسم الله كثيرا ولينصرن الله من ينصره ان الله لقوي عزيز",
+    "bengali": "যাদেরকে তাদের নিজ বাড়ী-ঘর থেকে অন্যায়ভাবে শুধু এ কারণে বের করে দেয়া হয়েছে যে, তারা বলে, ‘আমাদের রব আল্লাহ’। আর আল্লাহ যদি মানবজাতির একদলকে অপর দল দ্বারা দমন না করতেন, তবে বিধস্ত হয়ে যেত খৃস্টান সন্ন্যাসীদের আশ্রম, গির্জা, ইয়াহূদীদের উপাসনালয় ও মসজিদসমূহ- যেখানে আল্লাহর নাম অধিক স্মরণ করা হয়। আর আল্লাহ অবশ্যই তাকে সাহায্য করেন, যে তাকে সাহায্য করে। নিশ্চয় আল্লাহ শক্তিমান, পরাক্রমশালী।",
+    "urdu": "یہ وہ لوگ ہیں کہ اپنے گھروں سے ناحق نکال دیئے گئے (انہوں نے کچھ قصور نہیں کیا) ہاں یہ کہتے ہیں کہ ہمارا پروردگار خدا ہے۔ اور اگر خدا لوگوں کو ایک دوسرے سے نہ ہٹاتا رہتا تو (راہبوں کے) صومعے اور (عیسائیوں کے) گرجے اور (یہودیوں کے) عبادت خانے اور (مسلمانوں کی) مسجدیں جن میں خدا کا بہت سا ذکر کیا جاتا ہے ویران ہوچکی ہوتیں۔ اور جو شخص خدا کی مدد کرتا ہے خدا اس کی ضرور مدد کرتا ہے۔ بےشک خدا توانا اور غالب ہے"
+}

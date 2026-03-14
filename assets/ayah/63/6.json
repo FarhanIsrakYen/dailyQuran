@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Munaafiqoon",
+    "surahNameArabic": "المنافقون",
+    "surahNameArabicLong": "سورة المنافقون",
+    "surahNameTranslation": "The Hypocrites",
+    "revelationPlace": "Madina",
+    "totalAyah": 11,
+    "surahNo": 63,
+    "ayahNo": 6,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/63_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/063006.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/63_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/063006.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/63_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/063006.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/63_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/063006.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/63_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/063006.mp3"
+        }
+    },
+    "english": "It is the same whether you pray for their forgiveness or not, Allah will not forgive them. Surely Allah does not guide the rebellious people.",
+    "arabic1": "سَوَآءٌ عَلَيْهِمْ أَسْتَغْفَرْتَ لَهُمْ أَمْ لَمْ تَسْتَغْفِرْ لَهُمْ لَن يَغْفِرَ ٱللَّهُ لَهُمْ ۚ إِنَّ ٱللَّهَ لَا يَهْدِى ٱلْقَوْمَ ٱلْفَـٰسِقِينَ",
+    "arabic2": "سواء عليهم استغفرت لهم ام لم تستغفر لهم لن يغفر الله لهم ان الله لا يهدي القوم الفاسقين",
+    "bengali": "তুমি তাদের জন্য ক্ষমা প্রার্থনা কর অথবা না কর, উভয়টি তাদের ক্ষেত্রে সমান। আল্লাহ তাদেরকে কখনো ক্ষমা করবেন না। অবশ্যই আল্লাহ পাপাচারী সম্প্রদায়কে হেদায়াত দেন না।",
+    "urdu": "تم ان کے لئے مغفرت مانگو یا نہ مانگو ان کے حق میں برابر ہے۔ خدا ان کو ہرگز نہ بخشے گا۔ بےشک خدا نافرمانوں کو ہدایت نہیں دیا کرتا"
+}

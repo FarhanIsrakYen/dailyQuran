@@ -1,0 +1,42 @@
+{
+    "surahName": "Yusuf",
+    "surahNameArabic": "يوسف",
+    "surahNameArabicLong": "سورة يوسف",
+    "surahNameTranslation": "Joseph",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 12,
+    "ayahNo": 35,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/12_35.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/012035.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/12_35.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/012035.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/12_35.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/012035.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/12_35.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/012035.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/12_35.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/012035.mp3"
+        }
+    },
+    "english": "And so it occurred to those in charge, despite seeing all the proofs ˹of his innocence˺, that he should be imprisoned for a while.",
+    "arabic1": "ثُمَّ بَدَا لَهُم مِّنۢ بَعْدِ مَا رَأَوُا۟ ٱلْـَٔايَـٰتِ لَيَسْجُنُنَّهُۥ حَتَّىٰ حِينٍ",
+    "arabic2": "ثم بدا لهم من بعد ما راوا الايات ليسجننه حتى حين",
+    "bengali": "তারপর নিদর্শনসমূহ দেখার পরে তাদের কাছে স্পষ্ট হল, কিছু কাল পর্যন্ত অবশ্যই তারা তাকে কারারুদ্ধ করে রাখবে।",
+    "urdu": "پھر باوجود اس کے کہ وہ لوگ نشان دیکھ چکے تھے ان کی رائے یہی ٹھہری کہ کچھ عرصہ کے لیے ان کو قید ہی کردیں"
+}

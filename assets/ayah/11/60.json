@@ -1,0 +1,42 @@
+{
+    "surahName": "Hud",
+    "surahNameArabic": "هود",
+    "surahNameArabicLong": "سورة هود",
+    "surahNameTranslation": "Hud",
+    "revelationPlace": "Mecca",
+    "totalAyah": 123,
+    "surahNo": 11,
+    "ayahNo": 60,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/11_60.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/011060.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/11_60.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/011060.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/11_60.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/011060.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/11_60.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/011060.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/11_60.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/011060.mp3"
+        }
+    },
+    "english": "They were followed by a curse in this world, as they will be on the Day of Judgment. Surely ’Âd denied their Lord. So away with ’Âd, the people of Hûd.",
+    "arabic1": "وَأُتْبِعُوا۟ فِى هَـٰذِهِ ٱلدُّنْيَا لَعْنَةً وَيَوْمَ ٱلْقِيَـٰمَةِ ۗ أَلَآ إِنَّ عَادًا كَفَرُوا۟ رَبَّهُمْ ۗ أَلَا بُعْدًا لِّعَادٍ قَوْمِ هُودٍ",
+    "arabic2": "واتبعوا في هذه الدنيا لعنة ويوم القيامة الا ان عادا كفروا ربهم الا بعدا لعاد قوم هود",
+    "bengali": "আর এই দুনিয়াতে লা‘নত তাদের পেছনে লাগিয়ে দেয়া হয়েছে এবং কিয়ামত দিবসেও। জেনে রাখ, নিশ্চয় আদ জাতি তাদের রবের সাথে কুফরী করেছে। জেনে রাখ, হূদের কওম আদ জাতির জন্য রয়েছে ধ্বংস।",
+    "urdu": "تو اس دنیا میں بھی لعنت ان کے پیچھے لگی رہے گی اور قیامت کے دن بھی (لگی رہے گی) دیکھو عاد نے اپنے پروردگار سے کفر کیا۔ (اور) سن رکھو ہود کی قوم عاد پر پھٹکار ہے"
+}

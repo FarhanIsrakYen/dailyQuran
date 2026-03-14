@@ -1,0 +1,42 @@
+{
+    "surahName": "Hud",
+    "surahNameArabic": "هود",
+    "surahNameArabicLong": "سورة هود",
+    "surahNameTranslation": "Hud",
+    "revelationPlace": "Mecca",
+    "totalAyah": 123,
+    "surahNo": 11,
+    "ayahNo": 42,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/11_42.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/011042.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/11_42.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/011042.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/11_42.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/011042.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/11_42.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/011042.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/11_42.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/011042.mp3"
+        }
+    },
+    "english": "And ˹so˺ the Ark sailed with them through waves like mountains. Noah called out to his son, who stood apart, “O my dear son! Come aboard with us and do not be with the disbelievers.”",
+    "arabic1": "وَهِىَ تَجْرِى بِهِمْ فِى مَوْجٍ كَٱلْجِبَالِ وَنَادَىٰ نُوحٌ ٱبْنَهُۥ وَكَانَ فِى مَعْزِلٍ يَـٰبُنَىَّ ٱرْكَب مَّعَنَا وَلَا تَكُن مَّعَ ٱلْكَـٰفِرِينَ",
+    "arabic2": "وهي تجري بهم في موج كالجبال ونادى نوح ابنه وكان في معزل يا بني اركب معنا ولا تكن مع الكافرين",
+    "bengali": "আর তা পাহাড়সম ঢেউয়ের মধ্যে তাদেরকে নিয়ে চলছিল এবং নূহ তার পুত্রকে ডাক দিল, আর সে ছিল আলাদা স্থানে- ‘হে আমার পুত্র, আমাদের সাথে আরোহণ কর এবং কাফিরদের সাথে থেকো না’।",
+    "urdu": "اور وہ ان کو لے کر (طوفان کی) لہروں میں چلنے لگی۔ (لہریں کیا تھیں) گویا پہاڑ (تھے) اس وقت نوح نے اپنے بیٹے کو کہ جو (کشتی سے) الگ تھا، پکارا کہ بیٹا ہمارے ساتھ سوار ہوجا اور کافروں میں شامل نہ ہو"
+}

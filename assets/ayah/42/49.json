@@ -1,0 +1,42 @@
+{
+    "surahName": "Ash-Shura",
+    "surahNameArabic": "الشورى",
+    "surahNameArabicLong": "سورة الشورى",
+    "surahNameTranslation": "Consultation",
+    "revelationPlace": "Mecca",
+    "totalAyah": 53,
+    "surahNo": 42,
+    "ayahNo": 49,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/42_49.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/042049.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/42_49.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/042049.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/42_49.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/042049.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/42_49.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/042049.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/42_49.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/042049.mp3"
+        }
+    },
+    "english": "To Allah ˹alone˺ belongs the kingdom of the heavens and the earth. He creates whatever He wills. He blesses whoever He wills with daughters, and blesses whoever He wills with sons",
+    "arabic1": "لِّلَّهِ مُلْكُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ يَخْلُقُ مَا يَشَآءُ ۚ يَهَبُ لِمَن يَشَآءُ إِنَـٰثًا وَيَهَبُ لِمَن يَشَآءُ ٱلذُّكُورَ",
+    "arabic2": "لله ملك السماوات والارض يخلق ما يشاء يهب لمن يشاء اناثا ويهب لمن يشاء الذكور",
+    "bengali": "আসমানসমূহ ও যমীনের রাজত্ব আল্লাহরই। তিনি যা চান সৃষ্টি করেন। তিনি যাকে ইচ্ছা কন্যা সন্তান দান করেন এবং যাকে ইচ্ছা পুত্র সন্তান দান করেন।",
+    "urdu": "(تمام) بادشاہت خدا ہی کی ہے آسمانوں کی بھی اور زمین کی بھی۔ وہ جو چاہتا ہے پیدا کرتا ہے۔ جسے چاہتا ہے بیٹیاں عطا کرتا ہے اور جسے چاہتا ہے بیٹے بخشتا ہے"
+}

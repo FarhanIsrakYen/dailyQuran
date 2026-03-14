@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 32,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/9_32.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/009032.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/9_32.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/009032.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/9_32.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/009032.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/9_32.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/009032.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/9_32.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/009032.mp3"
+        }
+    },
+    "english": "They wish to extinguish Allah’s light with their mouths, but Allah will only allow His light to be perfected, even to the dismay of the disbelievers.",
+    "arabic1": "يُرِيدُونَ أَن يُطْفِـُٔوا۟ نُورَ ٱللَّهِ بِأَفْوَٰهِهِمْ وَيَأْبَى ٱللَّهُ إِلَّآ أَن يُتِمَّ نُورَهُۥ وَلَوْ كَرِهَ ٱلْكَـٰفِرُونَ",
+    "arabic2": "يريدون ان يطفئوا نور الله بافواههم ويابى الله الا ان يتم نوره ولو كره الكافرون",
+    "bengali": "তারা আল্লাহর নূরকে নির্বাপিত করতে চায় তাদের মুখের (ফুঁক) দ্বারা, কিন্তু আল্লাহ তো তাঁর নূর পরিপূর্ণ করা ছাড়া অন্য কিছু চান না, যদিও কাফিররা অপছন্দ করে।",
+    "urdu": "یہ چاہتے ہیں کہ خدا کے نور کو اپنے منہ سے (پھونک مار کر) بجھا دیں اور خدا اپنے نور کو پورا کئے بغیر رہنے کا نہیں۔ اگرچہ کافروں کو برا ہی لگے"
+}

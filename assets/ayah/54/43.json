@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Qamar",
+    "surahNameArabic": "القمر",
+    "surahNameArabicLong": "سورة القمر",
+    "surahNameTranslation": "The Moon",
+    "revelationPlace": "Mecca",
+    "totalAyah": 55,
+    "surahNo": 54,
+    "ayahNo": 43,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/54_43.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/054043.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/54_43.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/054043.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/54_43.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/054043.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/54_43.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/054043.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/54_43.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/054043.mp3"
+        }
+    },
+    "english": "Now, are you ˹Meccan˺ disbelievers superior to those ˹destroyed peoples˺? Or have you ˹been granted˺ immunity ˹from punishment˺ in divine Books?",
+    "arabic1": "أَكُفَّارُكُمْ خَيْرٌ مِّنْ أُو۟لَـٰٓئِكُمْ أَمْ لَكُم بَرَآءَةٌ فِى ٱلزُّبُرِ",
+    "arabic2": "اكفاركم خير من اولئكم ام لكم براءة في الزبر",
+    "bengali": "তোমাদের (মক্কার) কাফিররা কি তাদের চেয়ে ভাল? না কি তোমাদের জন্য মুক্তির কোন ঘোষণা রয়েছে (আসমানী) কিতাবসমূহের মধ্যে?",
+    "urdu": "(اے اہل عرب) کیا تمہارے کافر ان لوگوں سے بہتر ہیں یا تمہارے لئے (پہلی) کتابوں میں کوئی فارغ خطی لکھ دی گئی ہے"
+}

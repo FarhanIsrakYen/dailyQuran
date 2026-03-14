@@ -1,0 +1,42 @@
+{
+    "surahName": "Taa-Haa",
+    "surahNameArabic": "طه",
+    "surahNameArabicLong": "سورة طه",
+    "surahNameTranslation": "Taa-Haa",
+    "revelationPlace": "Mecca",
+    "totalAyah": 135,
+    "surahNo": 20,
+    "ayahNo": 53,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/20_53.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/020053.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/20_53.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/020053.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/20_53.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/020053.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/20_53.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/020053.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/20_53.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/020053.mp3"
+        }
+    },
+    "english": "˹He is the One˺ Who has laid out the earth for ˹all of˺ you, and set in it pathways for you, and sends down rain from the sky, causing various types of plants to grow",
+    "arabic1": "ٱلَّذِى جَعَلَ لَكُمُ ٱلْأَرْضَ مَهْدًا وَسَلَكَ لَكُمْ فِيهَا سُبُلًا وَأَنزَلَ مِنَ ٱلسَّمَآءِ مَآءً فَأَخْرَجْنَا بِهِۦٓ أَزْوَٰجًا مِّن نَّبَاتٍ شَتَّىٰ",
+    "arabic2": "الذي جعل لكم الارض مهدا وسلك لكم فيها سبلا وانزل من السماء ماء فاخرجنا به ازواجا من نبات شتى",
+    "bengali": "‘যিনি তোমাদের জন্য যমীনকে বিছানা বানিয়েছেন এবং তাতে তোমাদের জন্য চলার পথ করে দিয়েছেন। আর আসমান থেকে তিনি পানি বর্ষণ করেন’; অতঃপর তা দিয়ে আমি বিভিন্ন প্রকারের উদ্ভিদ উৎপন্ন করি।",
+    "urdu": "وہ (وہی تو ہے) جس نے تم لوگوں کے لئے زمین کو فرش بنایا اور اس میں تمہارے لئے رستے جاری کئے اور آسمان سے پانی برسایا۔ پھر اس سے انواع واقسام کی مختلف روئیدگیاں پیدا کیں"
+}

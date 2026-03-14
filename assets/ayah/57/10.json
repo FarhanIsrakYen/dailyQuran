@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Hadid",
+    "surahNameArabic": "الحديد",
+    "surahNameArabicLong": "سورة الحديد",
+    "surahNameTranslation": "The Iron",
+    "revelationPlace": "Madina",
+    "totalAyah": 29,
+    "surahNo": 57,
+    "ayahNo": 10,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/57_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/057010.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/57_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/057010.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/57_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/057010.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/57_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/057010.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/57_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/057010.mp3"
+        }
+    },
+    "english": "And why should you not spend in the cause of Allah, while Allah is the ˹sole˺ inheritor of the heavens and the earth? Those of you who donated and fought before the victory ˹over Mecca˺ are unparalleled. They are far greater in rank than those who donated and fought afterwards. Yet Allah has promised each a fine reward. And Allah is All-Aware of what you do.",
+    "arabic1": "وَمَا لَكُمْ أَلَّا تُنفِقُوا۟ فِى سَبِيلِ ٱللَّهِ وَلِلَّهِ مِيرَٰثُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ لَا يَسْتَوِى مِنكُم مَّنْ أَنفَقَ مِن قَبْلِ ٱلْفَتْحِ وَقَـٰتَلَ ۚ أُو۟لَـٰٓئِكَ أَعْظَمُ دَرَجَةً مِّنَ ٱلَّذِينَ أَنفَقُوا۟ مِنۢ بَعْدُ وَقَـٰتَلُوا۟ ۚ وَكُلًّا وَعَدَ ٱللَّهُ ٱلْحُسْنَىٰ ۚ وَٱللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌ",
+    "arabic2": "وما لكم الا تنفقوا في سبيل الله ولله ميراث السماوات والارض لا يستوي منكم من انفق من قبل الفتح وقاتل اولئك اعظم درجة من الذين انفقوا من بعد وقاتلوا وكلا وعد الله الحسنى والله بما تعملون خبير",
+    "bengali": "তোমাদের কী হলো যে, তোমরা আল্লাহর পথে ব্যয় করছ না ? অথচ আসমানসমূহ ও যমীনের উত্তরাধিকারতো আল্লাহরই? তোমাদের মধ্যে যারা মক্কা বিজয়ের পূর্বে ব্যয় করেছে এবং যুদ্ধ করেছে তারা সমান নয়। তারা মর্যাদায় তাদের চেয়ে শ্রেষ্ঠ, যারা পরে ব্যয় করেছে ও যুদ্ধ করেছে। তবে আল্লাহ প্রত্যেকের জন্যই কল্যাণের ওয়াদা করেছেন। আর তোমরা যা কর, সে সম্পর্কে আল্লাহ সবিশেষ অবগত।",
+    "urdu": "اور تم کو کیا ہوا ہے کہ خدا کے رستے میں خرچ نہیں کرتے حالانکہ آسمانوں اور زمین کی وراثت خدا ہی کی ہے۔ جس شخص نے تم میں سے فتح (مکہ) سے پہلے خرچ کیا اور لڑائی کی وہ (اور جس نے یہ کام پیچھے کئے وہ) برابر نہیں۔ ان کا درجہ ان لوگوں سے کہیں بڑھ کر ہے جنہوں نے بعد میں خرچ (اموال) اور (کفار سے) جہاد وقتال کیا۔ اور خدا نے سب سے (ثواب) نیک (کا) وعدہ تو کیا ہے۔ اور جو کام تم کرتے ہو خدا ان سے واقف ہے"
+}

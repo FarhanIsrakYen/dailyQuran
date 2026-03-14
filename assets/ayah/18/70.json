@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Kahf",
+    "surahNameArabic": "الكهف",
+    "surahNameArabicLong": "سورة الكهف",
+    "surahNameTranslation": "The Cave",
+    "revelationPlace": "Mecca",
+    "totalAyah": 110,
+    "surahNo": 18,
+    "ayahNo": 70,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/18_70.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/018070.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/18_70.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/018070.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/18_70.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/018070.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/18_70.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/018070.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/18_70.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/018070.mp3"
+        }
+    },
+    "english": "He responded, “Then if you follow me, do not question me about anything until I ˹myself˺ clarify it for you.”",
+    "arabic1": "قَالَ فَإِنِ ٱتَّبَعْتَنِى فَلَا تَسْـَٔلْنِى عَن شَىْءٍ حَتَّىٰٓ أُحْدِثَ لَكَ مِنْهُ ذِكْرًا",
+    "arabic2": "قال فان اتبعتني فلا تسالني عن شيء حتى احدث لك منه ذكرا",
+    "bengali": "সে বলল, ‘তবে আপনি যদি আমাকে অনুসরণ করেন, তাহলে কোন বিষয় সম্পর্কে আমাকে প্রশ্ন করবেন না, যতক্ষণ না আমি সে সম্পর্কে আপনাকে জানাই’।",
+    "urdu": "(خضر نے) کہا کہ اگر تم میرے ساتھ رہنا چاہو تو (شرط یہ ہے) مجھ سے کوئی بات نہ پوچھنا جب تک میں خود اس کا ذکر تم سے نہ کروں"
+}

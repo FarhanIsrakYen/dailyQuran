@@ -1,0 +1,42 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 22,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/3_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/003022.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/3_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/003022.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/3_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/003022.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/3_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/003022.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/3_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/003022.mp3"
+        }
+    },
+    "english": "They are the ones whose deeds are wasted in this world and the Hereafter. And they will have no helpers.",
+    "arabic1": "أُو۟لَـٰٓئِكَ ٱلَّذِينَ حَبِطَتْ أَعْمَـٰلُهُمْ فِى ٱلدُّنْيَا وَٱلْـَٔاخِرَةِ وَمَا لَهُم مِّن نَّـٰصِرِينَ",
+    "arabic2": "اولئك الذين حبطت اعمالهم في الدنيا والاخرة وما لهم من ناصرين",
+    "bengali": "ওরাই, যাদের আমলসমূহ দুনিয়া ও আখিরাতে নিষ্ফল হয়েছে এবং তাদের কোন সাহায্যকারী নেই।",
+    "urdu": "یہ ایسے لوگ ہیں جن کے اعمال دنیا اور آخرت دونوں میں برباد ہیں اور ان کا کوئی مددگار نہیں (ہوگا)"
+}

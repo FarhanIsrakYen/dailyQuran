@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nahl",
+    "surahNameArabic": "النحل",
+    "surahNameArabicLong": "سورة النحل",
+    "surahNameTranslation": "The Bee",
+    "revelationPlace": "Mecca",
+    "totalAyah": 128,
+    "surahNo": 16,
+    "ayahNo": 78,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/16_78.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/016078.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/16_78.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/016078.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/16_78.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/016078.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/16_78.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/016078.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/16_78.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/016078.mp3"
+        }
+    },
+    "english": "And Allah brought you out of the wombs of your mothers while you knew nothing, and gave you hearing, sight, and intellect so perhaps you would be thankful.",
+    "arabic1": "وَٱللَّهُ أَخْرَجَكُم مِّنۢ بُطُونِ أُمَّهَـٰتِكُمْ لَا تَعْلَمُونَ شَيْـًٔا وَجَعَلَ لَكُمُ ٱلسَّمْعَ وَٱلْأَبْصَـٰرَ وَٱلْأَفْـِٔدَةَ ۙ لَعَلَّكُمْ تَشْكُرُونَ",
+    "arabic2": "والله اخرجكم من بطون امهاتكم لا تعلمون شيئا وجعل لكم السمع والابصار والافئدة لعلكم تشكرون",
+    "bengali": "আর আল্লাহ তোমাদেরকে বের করেছেন, তোমাদের মাতৃগর্ভ থেকে এমতাবস্থায় যে, তোমরা কিছুই জানতে না। তিনি তোমাদের জন্য সৃষ্টি করেছেন শ্রবণশক্তি, চক্ষু ও অন্তর। যাতে তোমরা শুকরিয়া আদায় কর।",
+    "urdu": "اور خدا ہی نے تم کو تمہاری ماؤں کے شکم سے پیدا کیا کہ تم کچھ نہیں جانتے تھے۔ اور اس نے تم کو کان اور آنکھیں اور دل (اور اُن کے علاوہ اور) اعضا بخشے تاکہ تم شکر کرو"
+}

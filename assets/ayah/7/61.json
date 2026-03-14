@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 61,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/7_61.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/007061.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/7_61.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/007061.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/7_61.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/007061.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/7_61.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/007061.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/7_61.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/007061.mp3"
+        }
+    },
+    "english": "He replied, “O my people! I am not misguided! But I am a messenger from the Lord of all worlds",
+    "arabic1": "قَالَ يَـٰقَوْمِ لَيْسَ بِى ضَلَـٰلَةٌ وَلَـٰكِنِّى رَسُولٌ مِّن رَّبِّ ٱلْعَـٰلَمِينَ",
+    "arabic2": "قال يا قوم ليس بي ضلالة ولكني رسول من رب العالمين",
+    "bengali": "সে বলল, ‘হে আমার কওম, আমার মধ্যে কোন ভ্রান্তি নেই; কিন্তু আমি সকল সৃষ্টির রবের পক্ষ থেকে রাসূল’।",
+    "urdu": "انہوں نے کہا اے قوم مجھ میں کسی طرح کی گمراہی نہیں ہے بلکہ میں پروردگار عالم کا پیغمبر ہوں"
+}

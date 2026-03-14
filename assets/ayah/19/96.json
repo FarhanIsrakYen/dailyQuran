@@ -1,0 +1,42 @@
+{
+    "surahName": "Maryam",
+    "surahNameArabic": "مريم",
+    "surahNameArabicLong": "سورة مريم",
+    "surahNameTranslation": "Mary",
+    "revelationPlace": "Mecca",
+    "totalAyah": 98,
+    "surahNo": 19,
+    "ayahNo": 96,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/19_96.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/019096.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/19_96.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/019096.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/19_96.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/019096.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/19_96.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/019096.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/19_96.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/019096.mp3"
+        }
+    },
+    "english": "As for those who believe and do good, the Most Compassionate will ˹certainly˺ bless them with ˹genuine˺ love.",
+    "arabic1": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ سَيَجْعَلُ لَهُمُ ٱلرَّحْمَـٰنُ وُدًّا",
+    "arabic2": "ان الذين امنوا وعملوا الصالحات سيجعل لهم الرحمن ودا",
+    "bengali": "নিশ্চয় যারা ঈমান আনে এবং সৎ কাজ করে পরম করুণাময় অবশ্যই তাদের জন্য (বান্দাদের হৃদয়ে) ভালবাসা সৃষ্টি করবেন।",
+    "urdu": "اور جو لوگ ایمان لائے اور عمل نیک کئے خدا ان کی محبت (مخلوقات کے دل میں) پیدا کردے گا"
+}

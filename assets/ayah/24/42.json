@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Noor",
+    "surahNameArabic": "النور",
+    "surahNameArabicLong": "سورة النور",
+    "surahNameTranslation": "The Light",
+    "revelationPlace": "Madina",
+    "totalAyah": 64,
+    "surahNo": 24,
+    "ayahNo": 42,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/24_42.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/024042.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/24_42.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/024042.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/24_42.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/024042.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/24_42.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/024042.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/24_42.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/024042.mp3"
+        }
+    },
+    "english": "To Allah ˹alone˺ belongs the kingdom of the heavens and the earth. And to Allah is the final return.",
+    "arabic1": "وَلِلَّهِ مُلْكُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۖ وَإِلَى ٱللَّهِ ٱلْمَصِيرُ",
+    "arabic2": "ولله ملك السماوات والارض والى الله المصير",
+    "bengali": "আর আসমান ও যমীনের মালিকানা আল্লাহর জন্যই। আর আল্লাহর দিকেই প্রত্যাবর্তন।",
+    "urdu": "اور آسمان اور زمین کی بادشاہی خدا کے لئے ہے۔ اور خدا ہی کی طرف لوٹ کر جانا ہے"
+}

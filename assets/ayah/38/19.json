@@ -1,0 +1,42 @@
+{
+    "surahName": "Saad",
+    "surahNameArabic": "ص",
+    "surahNameArabicLong": "سورة ص",
+    "surahNameTranslation": "The letter Saad",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 38,
+    "ayahNo": 19,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/38_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/038019.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/38_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/038019.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/38_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/038019.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/38_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/038019.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/38_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/038019.mp3"
+        }
+    },
+    "english": "And ˹We subjected˺ the birds, flocking together. All turned to him ˹echoing his hymns˺.",
+    "arabic1": "وَٱلطَّيْرَ مَحْشُورَةً ۖ كُلٌّ لَّهُۥٓ أَوَّابٌ",
+    "arabic2": "والطير محشورة كل له اواب",
+    "bengali": "আর সমবেত পাখীদেরকেও (অনুগত করেছিলাম); প্রত্যেকেই ছিল অধিক আল্লাহ অভিমুখী।",
+    "urdu": "اور پرندوں کو بھی کہ جمع رہتے تھے۔ سب ان کے فرمانبردار تھے"
+}

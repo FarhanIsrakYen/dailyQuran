@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Jinn",
+    "surahNameArabic": "الجن",
+    "surahNameArabicLong": "سورة الجن",
+    "surahNameTranslation": "The Jinn",
+    "revelationPlace": "Mecca",
+    "totalAyah": 28,
+    "surahNo": 72,
+    "ayahNo": 22,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/72_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/072022.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/72_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/072022.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/72_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/072022.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/72_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/072022.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/72_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/072022.mp3"
+        }
+    },
+    "english": "Say, “No one can protect me from Allah ˹if I were to disobey Him˺, nor can I find any refuge other than Him.",
+    "arabic1": "قُلْ إِنِّى لَن يُجِيرَنِى مِنَ ٱللَّهِ أَحَدٌ وَلَنْ أَجِدَ مِن دُونِهِۦ مُلْتَحَدًا",
+    "arabic2": "قل اني لن يجيرني من الله احد ولن اجد من دونه ملتحدا",
+    "bengali": "বল, ‘নিশ্চয় আল্লাহর কাছ থেকে কেউ আমাকে রক্ষা করতে পারবে না এবং তিনি ছাড়া কখনো আমি কোন আশ্রয়ও পাব না।",
+    "urdu": "(یہ بھی) کہہ دو کہ خدا (کے عذاب) سے مجھے کوئی پناہ نہیں دے سکتا۔ اور میں اس کے سوا کہیں جائے پناہ نہیں دیکھتا"
+}

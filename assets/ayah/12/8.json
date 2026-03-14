@@ -1,0 +1,42 @@
+{
+    "surahName": "Yusuf",
+    "surahNameArabic": "يوسف",
+    "surahNameArabicLong": "سورة يوسف",
+    "surahNameTranslation": "Joseph",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 12,
+    "ayahNo": 8,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/12_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/012008.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/12_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/012008.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/12_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/012008.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/12_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/012008.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/12_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/012008.mp3"
+        }
+    },
+    "english": "˹Remember˺ when they said ˹to one another˺, “Surely Joseph and his brother ˹Benjamin˺ are more beloved to our father than we, even though we are a group of so many. Indeed, our father is clearly mistaken.",
+    "arabic1": "إِذْ قَالُوا۟ لَيُوسُفُ وَأَخُوهُ أَحَبُّ إِلَىٰٓ أَبِينَا مِنَّا وَنَحْنُ عُصْبَةٌ إِنَّ أَبَانَا لَفِى ضَلَـٰلٍ مُّبِينٍ",
+    "arabic2": "اذ قالوا ليوسف واخوه احب الى ابينا منا ونحن عصبة ان ابانا لفي ضلال مبين",
+    "bengali": "যখন তারা বলেছিল, ‘নিশ্চয় ইউসুফ ও তার ভাই আমাদের পিতার নিকট আমাদের চেয়ে অধিক প্রিয়, অথচ আমরা একই দল। নিশ্চয় আমাদের পিতা সুস্পষ্ট বিভ্রান্তিতেই আছে’।",
+    "urdu": "جب انہوں نے (آپس میں) تذکرہ کیا کہ یوسف اور اس کا بھائی ابا کو ہم سے زیادہ پیارے ہیں حالانکہ ہم جماعت (کی جماعت) ہیں۔ کچھ شک نہیں کہ ابا صریح غلطی پر ہیں"
+}

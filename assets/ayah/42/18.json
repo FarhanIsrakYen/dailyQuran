@@ -1,0 +1,42 @@
+{
+    "surahName": "Ash-Shura",
+    "surahNameArabic": "الشورى",
+    "surahNameArabicLong": "سورة الشورى",
+    "surahNameTranslation": "Consultation",
+    "revelationPlace": "Mecca",
+    "totalAyah": 53,
+    "surahNo": 42,
+    "ayahNo": 18,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/42_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/042018.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/42_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/042018.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/42_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/042018.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/42_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/042018.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/42_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/042018.mp3"
+        }
+    },
+    "english": "Those who disbelieve in it ˹ask to˺ hasten it ˹mockingly˺. But the believers are fearful of it, knowing that it is the truth. Surely those who dispute about the Hour have gone far astray.",
+    "arabic1": "يَسْتَعْجِلُ بِهَا ٱلَّذِينَ لَا يُؤْمِنُونَ بِهَا ۖ وَٱلَّذِينَ ءَامَنُوا۟ مُشْفِقُونَ مِنْهَا وَيَعْلَمُونَ أَنَّهَا ٱلْحَقُّ ۗ أَلَآ إِنَّ ٱلَّذِينَ يُمَارُونَ فِى ٱلسَّاعَةِ لَفِى ضَلَـٰلٍۭ بَعِيدٍ",
+    "arabic2": "يستعجل بها الذين لا يؤمنون بها والذين امنوا مشفقون منها ويعلمون انها الحق الا ان الذين يمارون في الساعة لفي ضلال بعيد",
+    "bengali": "যারা এতে ঈমান আনে না, তারাই তা ত্বরান্বিত করতে চায়। আর যারা ঈমান এনেছে, তারা একে ভয় করে এবং তারা জানে যে, এটা অবশ্যই সত্য। জেনে রেখ, নিশ্চয় যারা কিয়ামত সম্পর্কে বাক-বিতন্ডা করে তারা সুদূর পথভ্রষ্টতায় নিপতিত।",
+    "urdu": "جو لوگ اس پر ایمان نہیں رکھتے وہ اس کے لئے جلدی کر رہے ہیں۔ اور جو مومن ہیں وہ اس سے ڈرتے ہیں۔ اور جانتے ہیں کہ وہ برحق ہے۔ دیکھو جو لوگ قیامت میں جھگڑتے ہیں وہ پرلے درجے کی گمراہی میں ہیں"
+}

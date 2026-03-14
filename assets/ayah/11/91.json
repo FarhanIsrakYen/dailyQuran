@@ -1,0 +1,42 @@
+{
+    "surahName": "Hud",
+    "surahNameArabic": "هود",
+    "surahNameArabicLong": "سورة هود",
+    "surahNameTranslation": "Hud",
+    "revelationPlace": "Mecca",
+    "totalAyah": 123,
+    "surahNo": 11,
+    "ayahNo": 91,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/11_91.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/011091.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/11_91.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/011091.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/11_91.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/011091.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/11_91.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/011091.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/11_91.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/011091.mp3"
+        }
+    },
+    "english": "They threatened, “O Shu’aib! We do not comprehend much of what you say, and surely we see you powerless among us. Were it not for your clan, we would have certainly stoned you, for you are nothing to us.”",
+    "arabic1": "قَالُوا۟ يَـٰشُعَيْبُ مَا نَفْقَهُ كَثِيرًا مِّمَّا تَقُولُ وَإِنَّا لَنَرَىٰكَ فِينَا ضَعِيفًا ۖ وَلَوْلَا رَهْطُكَ لَرَجَمْنَـٰكَ ۖ وَمَآ أَنتَ عَلَيْنَا بِعَزِيزٍ",
+    "arabic2": "قالوا يا شعيب ما نفقه كثيرا مما تقول وانا لنراك فينا ضعيفا ولولا رهطك لرجمناك وما انت علينا بعزيز",
+    "bengali": "তারা বলল, ‘হে শু‘আইব, তুমি যা বল, তার অনেক কিছুই আমরা বুঝি না। আর তোমাকে তো আমরা আমাদের মধ্যে দুর্বলই দেখতে পাচ্ছি। যদি তোমার আত্মীয়-স্বজন না থাকত, তবে আমরা তোমাকে অবশ্যই পাথর মেরে হত্যা করতাম। আর আমাদের উপর তুমি শক্তিশালী নও’।",
+    "urdu": "اُنہوں نے کہا کہ شعیب تمہاری بہت سی باتیں ہماری سمجھ میں نہیں آتیں اور ہم دیکھتے ہیں کہ تم ہم میں کمزور بھی ہو اور اگر تمہارے بھائی نہ ہوتے تو ہم تم کو سنگسار کر دیتے اور تم ہم پر (کسی طرح بھی) غالب نہیں ہو"
+}

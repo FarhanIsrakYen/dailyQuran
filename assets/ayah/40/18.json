@@ -1,0 +1,42 @@
+{
+    "surahName": "Ghafir",
+    "surahNameArabic": "غافر",
+    "surahNameArabicLong": "سورة غافر",
+    "surahNameTranslation": "The Forgiver",
+    "revelationPlace": "Mecca",
+    "totalAyah": 85,
+    "surahNo": 40,
+    "ayahNo": 18,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/40_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/040018.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/40_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/040018.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/40_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/040018.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/40_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/040018.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/40_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/040018.mp3"
+        }
+    },
+    "english": "Warn them ˹O Prophet˺ of the approaching Day when the hearts will jump into the throats, suppressing distress. The wrongdoers will have neither a close friend nor intercessor to be heard.",
+    "arabic1": "وَأَنذِرْهُمْ يَوْمَ ٱلْـَٔازِفَةِ إِذِ ٱلْقُلُوبُ لَدَى ٱلْحَنَاجِرِ كَـٰظِمِينَ ۚ مَا لِلظَّـٰلِمِينَ مِنْ حَمِيمٍ وَلَا شَفِيعٍ يُطَاعُ",
+    "arabic2": "وانذرهم يوم الازفة اذ القلوب لدى الحناجر كاظمين ما للظالمين من حميم ولا شفيع يطاع",
+    "bengali": "আর তুমি তাদের আসন্ন দিন সম্পর্কে সতর্ক করে দাও। যখন তাদের প্রাণ কণ্ঠাগত হবে দুঃখ, কষ্ট সংবরণ অবস্থায়। যালিমদের জন্য নেই কোন অকৃত্রিম বন্ধু, নেই এমন কোন সুপারিশকারী যাকে গ্রাহ্য করা হবে।",
+    "urdu": "اور ان کو قریب آنے والے دن سے ڈراؤ جب کہ دل غم سے بھر کر گلوں تک آرہے ہوں گے۔ (اور) ظالموں کا کوئی دوست نہ ہوگا اور نہ کوئی سفارشی جس کی بات قبول کی جائے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Maaida",
+    "surahNameArabic": "المائدة",
+    "surahNameArabicLong": "سورة المائدة",
+    "surahNameTranslation": "The Table",
+    "revelationPlace": "Madina",
+    "totalAyah": 120,
+    "surahNo": 5,
+    "ayahNo": 61,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/5_61.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/005061.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/5_61.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/005061.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/5_61.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/005061.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/5_61.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/005061.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/5_61.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/005061.mp3"
+        }
+    },
+    "english": "When they come to you ˹believers˺ they say, “We believe.” But they are committed to disbelief when they enter and when they leave. And Allah knows what they hide.",
+    "arabic1": "وَإِذَا جَآءُوكُمْ قَالُوٓا۟ ءَامَنَّا وَقَد دَّخَلُوا۟ بِٱلْكُفْرِ وَهُمْ قَدْ خَرَجُوا۟ بِهِۦ ۚ وَٱللَّهُ أَعْلَمُ بِمَا كَانُوا۟ يَكْتُمُونَ",
+    "arabic2": "واذا جاءوكم قالوا امنا وقد دخلوا بالكفر وهم قد خرجوا به والله اعلم بما كانوا يكتمون",
+    "bengali": "আর যখন তারা তোমাদের নিকট আসে, তখন বলে, ‘আমরা ঈমান এনেছি’। অথচ অবশ্যই তারা কুফরী নিয়ে প্রবেশ করেছে এবং তারা তা নিয়েই বেরিয়ে গেছে। আর আল্লাহ সে সম্পর্কে অধিক জ্ঞাত, যা তারা গোপন করত।",
+    "urdu": "اور جب یہ لوگ تمہارے پاس آتے ہیں تو کہتے ہیں کہ ہم ایمان لے آئے حالانکہ کفر لے کر آتے ہیں اور اسی کو لیکر جاتے ہیں اور جن باتوں کو یہ مخفی رکھتے ہیں خدا ان کو خوب جانتا ہے"
+}

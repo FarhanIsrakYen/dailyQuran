@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Tahrim",
+    "surahNameArabic": "التحريم",
+    "surahNameArabicLong": "سورة التحريم",
+    "surahNameTranslation": "The Prohibition",
+    "revelationPlace": "Madina",
+    "totalAyah": 12,
+    "surahNo": 66,
+    "ayahNo": 6,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/66_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/066006.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/66_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/066006.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/66_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/066006.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/66_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/066006.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/66_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/066006.mp3"
+        }
+    },
+    "english": "O believers! Protect yourselves and your families from a Fire whose fuel is people and stones, overseen by formidable and severe angels, who never disobey whatever Allah orders—always doing as commanded.",
+    "arabic1": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ قُوٓا۟ أَنفُسَكُمْ وَأَهْلِيكُمْ نَارًا وَقُودُهَا ٱلنَّاسُ وَٱلْحِجَارَةُ عَلَيْهَا مَلَـٰٓئِكَةٌ غِلَاظٌ شِدَادٌ لَّا يَعْصُونَ ٱللَّهَ مَآ أَمَرَهُمْ وَيَفْعَلُونَ مَا يُؤْمَرُونَ",
+    "arabic2": "يا ايها الذين امنوا قوا انفسكم واهليكم نارا وقودها الناس والحجارة عليها ملائكة غلاظ شداد لا يعصون الله ما امرهم ويفعلون ما يؤمرون",
+    "bengali": "হে ঈমানদারগণ, তোমরা নিজেদেরকে ও তোমাদের পরিবার-পরিজনকে আগুন হতে বাঁচাও যার জ্বালানি হবে মানুষ ও পাথর; যেখানে রয়েছে নির্মম ও কঠোর ফেরেশতাকূল, আল্লাহ তাদেরকে যে নির্দেশ দিয়েছেন তারা সে ব্যাপারে তার অবাধ্য হয় না। আর তারা তা-ই করে যা তাদেরকে আদেশ করা হয়।",
+    "urdu": "مومنو! اپنے آپ کو اور اپنے اہل عیال کو آتش (جہنم) سے بچاؤ جس کا ایندھن آدمی اور پتھر ہیں اور جس پر تند خو اور سخت مزاج فرشتے (مقرر) ہیں جو ارشاد خدا ان کو فرماتا ہے اس کی نافرمانی نہیں کرتے اور جو حکم ان کو ملتا ہے اسے بجا لاتے ہیں"
+}

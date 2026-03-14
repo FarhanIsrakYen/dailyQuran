@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 63,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_63.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002063.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_63.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002063.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_63.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002063.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_63.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002063.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_63.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002063.mp3"
+        }
+    },
+    "english": "And ˹remember˺ when We took a covenant from you and raised the mountain above you ˹saying˺, “Hold firmly to that ˹Scripture˺ which We have given you and observe its teachings so perhaps you will become mindful ˹of Allah˺.”",
+    "arabic1": "وَإِذْ أَخَذْنَا مِيثَـٰقَكُمْ وَرَفَعْنَا فَوْقَكُمُ ٱلطُّورَ خُذُوا۟ مَآ ءَاتَيْنَـٰكُم بِقُوَّةٍ وَٱذْكُرُوا۟ مَا فِيهِ لَعَلَّكُمْ تَتَّقُونَ",
+    "arabic2": "واذ اخذنا ميثاقكم ورفعنا فوقكم الطور خذوا ما اتيناكم بقوة واذكروا ما فيه لعلكم تتقون",
+    "bengali": "আর স্মরণ কর, যখন আমি তোমাদের অঙ্গীকার গ্রহণ করলাম এবং তূর পাহাড়কে তোমাদের উপর উঠালাম আমি (বললাম) ‘তোমাদেরকে যা দিয়েছি, তা শক্তভাবে ধর এবং তাতে যা রয়েছে তা স্মরণ কর, যাতে তোমরা তাকওয়া অবলম্বন করতে পার’।",
+    "urdu": "اور جب ہم نے تم سے عہد (کر) لیا اور کوہِ طُور کو تم پر اٹھا کھڑا کیا (اور حکم دیا) کہ جو کتاب ہم نے تم کو دی ہے، اس کو زور سے پکڑے رہو، اور جو اس میں (لکھا) ہے، اسے یاد رکھو، تاکہ (عذاب سے) محفوظ رہو"
+}

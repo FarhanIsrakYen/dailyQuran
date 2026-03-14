@@ -1,0 +1,42 @@
+{
+    "surahName": "As-Sajda",
+    "surahNameArabic": "السجدة",
+    "surahNameArabicLong": "سورة السجدة",
+    "surahNameTranslation": "The Prostration",
+    "revelationPlace": "Mecca",
+    "totalAyah": 30,
+    "surahNo": 32,
+    "ayahNo": 18,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/32_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/032018.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/32_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/032018.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/32_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/032018.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/32_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/032018.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/32_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/032018.mp3"
+        }
+    },
+    "english": "Is the one who is a believer equal ˹before Allah˺ to the one who is rebellious? They are not equal!",
+    "arabic1": "أَفَمَن كَانَ مُؤْمِنًا كَمَن كَانَ فَاسِقًا ۚ لَّا يَسْتَوُۥنَ",
+    "arabic2": "افمن كان مؤمنا كمن كان فاسقا لا يستوون",
+    "bengali": "যে ব্যক্তি মুমিন সে কি ফাসিক ব্যক্তির মত? তারা সমান নয়।",
+    "urdu": "بھلا جو مومن ہو وہ اس شخص کی طرح ہوسکتا ہے جو نافرمان ہو؟ دونوں برابر نہیں ہو سکتے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Yunus",
+    "surahNameArabic": "يونس",
+    "surahNameArabicLong": "سورة يونس",
+    "surahNameTranslation": "Jonas",
+    "revelationPlace": "Mecca",
+    "totalAyah": 109,
+    "surahNo": 10,
+    "ayahNo": 109,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/10_109.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/010109.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/10_109.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/010109.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/10_109.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/010109.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/10_109.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/010109.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/10_109.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/010109.mp3"
+        }
+    },
+    "english": "And follow what is revealed to you, and be patient until Allah passes His judgment. For He is the Best of Judges.",
+    "arabic1": "وَٱتَّبِعْ مَا يُوحَىٰٓ إِلَيْكَ وَٱصْبِرْ حَتَّىٰ يَحْكُمَ ٱللَّهُ ۚ وَهُوَ خَيْرُ ٱلْحَـٰكِمِينَ",
+    "arabic2": "واتبع ما يوحى اليك واصبر حتى يحكم الله وهو خير الحاكمين",
+    "bengali": "আর তোমার নিকট যে ওহী পাঠানো হচ্ছে, তুমি তার অনুসরণ কর এবং সবর কর, যতক্ষণ না আল্লাহ ফয়সালা করেন। আর তিনিই উত্তম ফয়সালাকারী।",
+    "urdu": "اور (اے پیغمبر) تم کو جو حکم بھیجا جاتا ہے اس کی پیروی کئے جاؤ اور (تکلیفوں پر) صبر کرو یہاں تک کہ خدا فیصلہ کردے۔ اور وہ سب سے بہتر فیصلہ کرنے والا ہے"
+}

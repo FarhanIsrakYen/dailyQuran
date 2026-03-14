@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 120,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_120.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002120.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_120.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002120.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_120.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002120.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_120.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002120.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_120.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002120.mp3"
+        }
+    },
+    "english": "Never will the Jews or Christians be pleased with you, until you follow their faith. Say, “Allah’s guidance is the only ˹true˺ guidance.” And if you were to follow their desires after ˹all˺ the knowledge that has come to you, there would be none to protect or help you against Allah.",
+    "arabic1": "وَلَن تَرْضَىٰ عَنكَ ٱلْيَهُودُ وَلَا ٱلنَّصَـٰرَىٰ حَتَّىٰ تَتَّبِعَ مِلَّتَهُمْ ۗ قُلْ إِنَّ هُدَى ٱللَّهِ هُوَ ٱلْهُدَىٰ ۗ وَلَئِنِ ٱتَّبَعْتَ أَهْوَآءَهُم بَعْدَ ٱلَّذِى جَآءَكَ مِنَ ٱلْعِلْمِ ۙ مَا لَكَ مِنَ ٱللَّهِ مِن وَلِىٍّ وَلَا نَصِيرٍ",
+    "arabic2": "ولن ترضى عنك اليهود ولا النصارى حتى تتبع ملتهم قل ان هدى الله هو الهدى ولئن اتبعت اهواءهم بعد الذي جاءك من العلم ما لك من الله من ولي ولا نصير",
+    "bengali": "আর ইয়াহূদী ও নাসারারা কখনো তোমার প্রতি সন্তুষ্ট হবে না, যতক্ষণ না তুমি তাদের মিল্লাতের অনুসরণ কর। বল, ‘নিশ্চয় আল্লাহর হিদায়াতই হিদায়াত’ আর যদি তুমি তাদের প্রবৃত্তির অনুসরণ কর তোমার কাছে যে জ্ঞান এসেছে তার পর, তাহলে আল্লাহর বিপরীতে তোমার কোন অভিভাবক ও সাহায্যকারী থাকবে না।",
+    "urdu": "اور تم سے نہ تو یہودی کبھی خوش ہوں گے اور نہ عیسائی، یہاں تک کہ تم ان کے مذہب کی پیروی اختیار کرلو۔ (ان سے) کہہ دو کہ خدا کی ہدایت (یعنی دین اسلام) ہی ہدایت ہے۔ اور (اے پیغمبر) اگر تم اپنے پاس علم (یعنی وحی خدا) کے آ جانے پر بھی ان کی خواہشوں پر چلو گے تو تم کو (عذاب) خدا سے (بچانے والا) نہ کوئی دوست ہوگا اور نہ کوئی مددگار"
+}

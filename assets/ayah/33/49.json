@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Ahzaab",
+    "surahNameArabic": "الأحزاب",
+    "surahNameArabicLong": "سورة الأحزاب",
+    "surahNameTranslation": "The Clans",
+    "revelationPlace": "Madina",
+    "totalAyah": 73,
+    "surahNo": 33,
+    "ayahNo": 49,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/33_49.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/033049.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/33_49.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/033049.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/33_49.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/033049.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/33_49.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/033049.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/33_49.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/033049.mp3"
+        }
+    },
+    "english": "O believers! If you marry believing women and then divorce them before you touch them, they will have no waiting period for you to count, so give them a ˹suitable˺ compensation, and let them go graciously.",
+    "arabic1": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا نَكَحْتُمُ ٱلْمُؤْمِنَـٰتِ ثُمَّ طَلَّقْتُمُوهُنَّ مِن قَبْلِ أَن تَمَسُّوهُنَّ فَمَا لَكُمْ عَلَيْهِنَّ مِنْ عِدَّةٍ تَعْتَدُّونَهَا ۖ فَمَتِّعُوهُنَّ وَسَرِّحُوهُنَّ سَرَاحًا جَمِيلًا",
+    "arabic2": "يا ايها الذين امنوا اذا نكحتم المؤمنات ثم طلقتموهن من قبل ان تمسوهن فما لكم عليهن من عدة تعتدونها فمتعوهن وسرحوهن سراحا جميلا",
+    "bengali": "হে মুমিনগণ, যখন তোমরা মুমিন নারীদেরকে বিবাহ করবে অতঃপর তাদেরকে স্পর্শ করার পূর্বেই* তালাক দিয়ে দেবে তবে তোমাদের জন্য তাদের কোন ইদ্দত নেই যা তোমরা গণনা করবে। সুতরাং তাদেরকে কিছু উপহার সামগ্রী প্রদান কর এবং সুন্দরভাবে তাদেরকে বিদায় দাও। \n* স্পর্শ করার পূর্বে অর্থাৎ সহবাসের পূর্বে।",
+    "urdu": "مومنو! جب تم مومن عورتوں سے نکاح کرکے ان کو ہاتھ لگانے (یعنی ان کے پاس جانے) سے پہلے طلاق دے دو تو تم کو کچھ اختیار نہیں کہ ان سے عدت پوری کراؤ۔ ان کو کچھ فائدہ (یعنی خرچ) دے کر اچھی طرح سے رخصت کردو"
+}

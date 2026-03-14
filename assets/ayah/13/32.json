@@ -1,0 +1,42 @@
+{
+    "surahName": "Ar-Ra'd",
+    "surahNameArabic": "الرعد",
+    "surahNameArabicLong": "سورة الرعد",
+    "surahNameTranslation": "The Thunder",
+    "revelationPlace": "Madina",
+    "totalAyah": 43,
+    "surahNo": 13,
+    "ayahNo": 32,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/13_32.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/013032.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/13_32.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/013032.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/13_32.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/013032.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/13_32.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/013032.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/13_32.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/013032.mp3"
+        }
+    },
+    "english": "Other messengers had already been ridiculed before you, but I delayed the disbelievers ˹for a while˺ then seized them. And how ˹horrible˺ was My punishment!",
+    "arabic1": "وَلَقَدِ ٱسْتُهْزِئَ بِرُسُلٍ مِّن قَبْلِكَ فَأَمْلَيْتُ لِلَّذِينَ كَفَرُوا۟ ثُمَّ أَخَذْتُهُمْ ۖ فَكَيْفَ كَانَ عِقَابِ",
+    "arabic2": "ولقد استهزئ برسل من قبلك فامليت للذين كفروا ثم اخذتهم فكيف كان عقاب",
+    "bengali": "আর অবশ্যই তোমার পূর্বে রাসূলদের নিয়ে উপহাস করা হয়েছে। অতঃপর যারা কুফরী করেছে, আমি তাদেরকে অবকাশ দিয়েছি, তারপর আমি তাদেরকে পাকড়াও করেছি। অতএব, কেমন ছিল আমার আযাব!",
+    "urdu": "اور تم سے پہلے بھی رسولوں کے ساتھ تمسخر ہوتے رہے ہیں تو ہم نے کافروں کو مہلت دی پھر پکڑ لیا۔ سو (دیکھ لو کہ) ہمارا عذاب کیسا تھا"
+}

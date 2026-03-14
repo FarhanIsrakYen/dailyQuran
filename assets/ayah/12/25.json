@@ -1,0 +1,42 @@
+{
+    "surahName": "Yusuf",
+    "surahNameArabic": "يوسف",
+    "surahNameArabicLong": "سورة يوسف",
+    "surahNameTranslation": "Joseph",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 12,
+    "ayahNo": 25,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/12_25.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/012025.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/12_25.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/012025.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/12_25.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/012025.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/12_25.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/012025.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/12_25.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/012025.mp3"
+        }
+    },
+    "english": "They raced for the door and she tore his shirt from the back, only to find her husband at the door. She cried, “What is the penalty for someone who tried to violate your wife, except imprisonment or a painful punishment?”",
+    "arabic1": "وَٱسْتَبَقَا ٱلْبَابَ وَقَدَّتْ قَمِيصَهُۥ مِن دُبُرٍ وَأَلْفَيَا سَيِّدَهَا لَدَا ٱلْبَابِ ۚ قَالَتْ مَا جَزَآءُ مَنْ أَرَادَ بِأَهْلِكَ سُوٓءًا إِلَّآ أَن يُسْجَنَ أَوْ عَذَابٌ أَلِيمٌ",
+    "arabic2": "واستبقا الباب وقدت قميصه من دبر والفيا سيدها لدى الباب قالت ما جزاء من اراد باهلك سوءا الا ان يسجن او عذاب اليم",
+    "bengali": "আর তারা উভয়ে দরজার দিকে দৌড়ে গেল এবং মহিলা পেছন হতে তার জামা ছিঁড়ে ফেলল। আর তারা মহিলার স্বামীকে দরজার কাছে পেল। মহিলা বলল, ‘যে লোক তোমার পরিবারের সাথে মন্দকর্ম করতে চেয়েছে, তাকে কারাবন্দি করা বা যন্ত্রনাদায়ক শাস্তি দেয়া ছাড়া তার আর কী দন্ড হতে পারে’?",
+    "urdu": "اور دونوں دروازے کی طرف بھاگے (آگے یوسف اور پیچھے زلیخا) اور عورت نے ان کا کرتا پیچھے سے (پکڑ کر جو کھینچا تو) پھاڑ ڈالا اور دونوں کو دروازے کے پاس عورت کا خاوند مل گیا تو عورت بولی کہ جو شخص تمہاری بیوی کے ساتھ برا ارادہ کرے اس کی اس کے سوا کیا سزا ہے کہ یا تو قید کیا جائے یا دکھ کا عذاب دیا جائے"
+}

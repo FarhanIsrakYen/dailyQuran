@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Maaida",
+    "surahNameArabic": "المائدة",
+    "surahNameArabicLong": "سورة المائدة",
+    "surahNameTranslation": "The Table",
+    "revelationPlace": "Madina",
+    "totalAyah": 120,
+    "surahNo": 5,
+    "ayahNo": 114,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/5_114.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/005114.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/5_114.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/005114.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/5_114.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/005114.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/5_114.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/005114.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/5_114.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/005114.mp3"
+        }
+    },
+    "english": "Jesus, son of Mary, prayed, “O Allah, our Lord! Send us from heaven a table spread with food as a feast for us—the first and last of us—and as a sign from You. Provide for us! You are indeed the Best Provider.”",
+    "arabic1": "قَالَ عِيسَى ٱبْنُ مَرْيَمَ ٱللَّهُمَّ رَبَّنَآ أَنزِلْ عَلَيْنَا مَآئِدَةً مِّنَ ٱلسَّمَآءِ تَكُونُ لَنَا عِيدًا لِّأَوَّلِنَا وَءَاخِرِنَا وَءَايَةً مِّنكَ ۖ وَٱرْزُقْنَا وَأَنتَ خَيْرُ ٱلرَّٰزِقِينَ",
+    "arabic2": "قال عيسى ابن مريم اللهم ربنا انزل علينا مائدة من السماء تكون لنا عيدا لاولنا واخرنا واية منك وارزقنا وانت خير الرازقين",
+    "bengali": "মারইয়ামের পুত্র ঈসা বলল, ‘হে আল্লাহ, হে আমাদের রব, আসমান থেকে আমাদের প্রতি খাবারপূর্ণ দস্তরখান নাযিল করুন; এটা আমাদের জন্য ঈদ হবে। আমাদের পূর্ববর্তী ও পরবর্তীদের জন্য। আর আপনার পক্ষ থেকে এক নিদর্শন হবে। আর আমাদেরকে রিয্ক দান করুন, আপনিই শ্রেষ্ঠ রিয্কদাতা’।",
+    "urdu": "(تب) عیسیٰ بن مریم نے دعا کی کہ اے ہمارے پروردگار! ہم پر آسمان سے خوان نازل فرما کہ ہمارے لیے (وہ دن) عید قرار پائے یعنی ہمارے اگلوں اور پچھلوں (سب) کے لیے اور وہ تیری طرف سے نشانی ہو اور ہمیں رزق دے تو بہتر رزق دینے والا ہے"
+}

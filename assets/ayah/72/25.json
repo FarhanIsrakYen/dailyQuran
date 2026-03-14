@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Jinn",
+    "surahNameArabic": "الجن",
+    "surahNameArabicLong": "سورة الجن",
+    "surahNameTranslation": "The Jinn",
+    "revelationPlace": "Mecca",
+    "totalAyah": 28,
+    "surahNo": 72,
+    "ayahNo": 25,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/72_25.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/072025.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/72_25.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/072025.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/72_25.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/072025.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/72_25.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/072025.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/72_25.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/072025.mp3"
+        }
+    },
+    "english": "Say, “I do not know if what you are promised is near or my Lord has set a distant time for it.",
+    "arabic1": "قُلْ إِنْ أَدْرِىٓ أَقَرِيبٌ مَّا تُوعَدُونَ أَمْ يَجْعَلُ لَهُۥ رَبِّىٓ أَمَدًا",
+    "arabic2": "قل ان ادري اقريب ما توعدون ام يجعل له ربي امدا",
+    "bengali": "বল, ‘আমি জানি না তোমাদেরকে যার প্রতিশ্রুতি দেয়া হয়েছে, তা কি নিকটবর্তী নাকি এর জন্য আমার রব কোন দীর্ঘ মেয়াদ নির্ধারণ করবেন’।",
+    "urdu": "کہہ دو کہ جس (دن) کا تم سے وعدہ کیا جاتا ہے میں نہیں جانتا کہ وہ (عن) قریب (آنے والا ہے) یا میرے پروردگار نے اس کی مدت دراز کر دی ہے"
+}

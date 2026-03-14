@@ -1,0 +1,42 @@
+{
+    "surahName": "Saba",
+    "surahNameArabic": "سبإ",
+    "surahNameArabicLong": "سورة سَبَأ",
+    "surahNameTranslation": "Sheba",
+    "revelationPlace": "Mecca",
+    "totalAyah": 54,
+    "surahNo": 34,
+    "ayahNo": 12,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/34_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/034012.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/34_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/034012.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/34_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/034012.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/34_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/034012.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/34_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/034012.mp3"
+        }
+    },
+    "english": "And to Solomon ˹We subjected˺ the wind: its morning stride was a month’s journey and so was its evening stride. And We caused a stream of molten copper to flow for him, and ˹We subjected˺ some of the jinn to work under him by his Lord’s Will. And whoever of them deviated from Our command, We made them taste the torment of the blaze.",
+    "arabic1": "وَلِسُلَيْمَـٰنَ ٱلرِّيحَ غُدُوُّهَا شَهْرٌ وَرَوَاحُهَا شَهْرٌ ۖ وَأَسَلْنَا لَهُۥ عَيْنَ ٱلْقِطْرِ ۖ وَمِنَ ٱلْجِنِّ مَن يَعْمَلُ بَيْنَ يَدَيْهِ بِإِذْنِ رَبِّهِۦ ۖ وَمَن يَزِغْ مِنْهُمْ عَنْ أَمْرِنَا نُذِقْهُ مِنْ عَذَابِ ٱلسَّعِيرِ",
+    "arabic2": "ولسليمان الريح غدوها شهر ورواحها شهر واسلنا له عين القطر ومن الجن من يعمل بين يديه باذن ربه ومن يزغ منهم عن امرنا نذقه من عذاب السعير",
+    "bengali": "আর সুলাইমানের জন্য আমি বাতাসকে অনুগত করে দিয়েছিলাম, যা সকালে এক মাসের পথ এবং সন্ধ্যায় এক মাসের পথ অতিক্রম করত। আর আমি তার জন্য গলিত তামার প্রস্রবণ প্রবাহিত করেছিলাম। আর কতিপয় জিন তার রবের অনুমতিক্রমে তার সামনে কাজ করত। তাদের মধ্যে যে আমার নির্দেশ থেকে বিচ্যুত হয় তাকে আমি জ্বলন্ত আগুনের আযাব আস্বাদন করাব।",
+    "urdu": "اور ہوا کو (ہم نے) سلیمان کا تابع کردیا تھا اس کی صبح کی منزل ایک مہینے کی راہ ہوتی اور شام کی منزل بھی مہینے بھر کی ہوتی۔ اور ان کے لئے ہم نے تانبے کا چشمہ بہا دیا تھا اور جِنّوں میں سے ایسے تھے جو ان کے پروردگار کے حکم سے ان کے آگے کام کرتے تھے۔ اور جو کوئی ان میں سے ہمارے حکم سے پھرے گا اس کو ہم (جہنم کی) آگ کا مزہ چکھائیں گے"
+}

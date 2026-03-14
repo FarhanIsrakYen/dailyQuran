@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 107,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/17_107.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/017107.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/17_107.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/017107.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/17_107.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/017107.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/17_107.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/017107.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/17_107.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/017107.mp3"
+        }
+    },
+    "english": "Say, ˹O Prophet,˺ “Believe in this ˹Quran˺, or do not. Indeed, when it is recited to those who were gifted with knowledge before it ˹was revealed˺, they fall upon their faces in prostration",
+    "arabic1": "قُلْ ءَامِنُوا۟ بِهِۦٓ أَوْ لَا تُؤْمِنُوٓا۟ ۚ إِنَّ ٱلَّذِينَ أُوتُوا۟ ٱلْعِلْمَ مِن قَبْلِهِۦٓ إِذَا يُتْلَىٰ عَلَيْهِمْ يَخِرُّونَ لِلْأَذْقَانِ سُجَّدًا",
+    "arabic2": "قل امنوا به او لا تؤمنوا ان الذين اوتوا العلم من قبله اذا يتلى عليهم يخرون للاذقان سجدا",
+    "bengali": "বল, ‘তোমরা এতে ঈমান আন বা ঈমান না আন, নিশ্চয় এর পূর্বে যাদেরকে জ্ঞান দেয়া হয়েছে, তাদের কাছে যখন এটা পাঠ করা হয় তখন তারা সিজদাবনত হয়ে লুটিয়ে পড়ে।",
+    "urdu": "کہہ دو کہ تم اس پر ایمان لاؤ یا نہ لاؤ (یہ فی نفسہ حق ہے) جن لوگوں کو اس سے پہلے علم (کتاب) دیا ہے۔ جب وہ ان کو پڑھ کر سنایا جاتا ہے تو وہ تھوڑیوں کے بل سجدے میں گر پڑتے ہیں"
+}

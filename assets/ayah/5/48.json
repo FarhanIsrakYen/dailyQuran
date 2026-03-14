@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Maaida",
+    "surahNameArabic": "المائدة",
+    "surahNameArabicLong": "سورة المائدة",
+    "surahNameTranslation": "The Table",
+    "revelationPlace": "Madina",
+    "totalAyah": 120,
+    "surahNo": 5,
+    "ayahNo": 48,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/5_48.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/005048.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/5_48.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/005048.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/5_48.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/005048.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/5_48.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/005048.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/5_48.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/005048.mp3"
+        }
+    },
+    "english": "We have revealed to you ˹O Prophet˺ this Book with the truth, as a confirmation of previous Scriptures and a supreme authority on them. So judge between them by what Allah has revealed, and do not follow their desires over the truth that has come to you. To each of you We have ordained a code of law and a way of life. If Allah had willed, He would have made you one community, but His Will is to test you with what He has given ˹each of˺ you. So compete with one another in doing good. To Allah you will all return, then He will inform you ˹of the truth˺ regarding your differences.",
+    "arabic1": "وَأَنزَلْنَآ إِلَيْكَ ٱلْكِتَـٰبَ بِٱلْحَقِّ مُصَدِّقًا لِّمَا بَيْنَ يَدَيْهِ مِنَ ٱلْكِتَـٰبِ وَمُهَيْمِنًا عَلَيْهِ ۖ فَٱحْكُم بَيْنَهُم بِمَآ أَنزَلَ ٱللَّهُ ۖ وَلَا تَتَّبِعْ أَهْوَآءَهُمْ عَمَّا جَآءَكَ مِنَ ٱلْحَقِّ ۚ لِكُلٍّ جَعَلْنَا مِنكُمْ شِرْعَةً وَمِنْهَاجًا ۚ وَلَوْ شَآءَ ٱللَّهُ لَجَعَلَكُمْ أُمَّةً وَٰحِدَةً وَلَـٰكِن لِّيَبْلُوَكُمْ فِى مَآ ءَاتَىٰكُمْ ۖ فَٱسْتَبِقُوا۟ ٱلْخَيْرَٰتِ ۚ إِلَى ٱللَّهِ مَرْجِعُكُمْ جَمِيعًا فَيُنَبِّئُكُم بِمَا كُنتُمْ فِيهِ تَخْتَلِفُونَ",
+    "arabic2": "وانزلنا اليك الكتاب بالحق مصدقا لما بين يديه من الكتاب ومهيمنا عليه فاحكم بينهم بما انزل الله ولا تتبع اهواءهم عما جاءك من الحق لكل جعلنا منكم شرعة ومنهاجا ولو شاء الله لجعلكم امة واحدة ولكن ليبلوكم في ما اتاكم فاستبقوا الخيرات الى الله مرجعكم جميعا فينبئكم بما كنتم فيه تختلفون",
+    "bengali": "আর আমি তোমার প্রতি কিতাব নাযিল করেছি যথাযথভাবে, এর পূর্বের কিতাবের সত্যায়নকারী ও এর উপর তদারককারীরূপে। সুতরাং আল্লাহ যা নাযিল করেছেন, তুমি তার মাধ্যমে ফয়সালা কর এবং তোমার নিকট যে সত্য এসেছে, তা ত্যাগ করে তাদের প্রবৃত্তির অনুসরণ করো না। তোমাদের প্রত্যেকের জন্য আমি নির্ধারণ করেছি শরীআত ও স্পষ্ট পন্থা এবং আল্লাহ যদি চাইতেন, তবে তোমাদেরকে এক উম্মত বানাতেন। কিন্তু তিনি তোমাদেরকে যা দিয়েছেন, তাতে তোমাদেরকে পরীক্ষা করতে চান। সুতরাং তোমরা ভাল কাজে প্রতিযোগিতা কর। আল্লাহরই দিকে তোমাদের সবার প্রত্যাবর্তনস্থল। অতঃপর তিনি তোমাদেরকে অবহিত করবেন, যা নিয়ে তোমরা মতবিরোধ করতে।",
+    "urdu": "اور (اے پیغمبر!) ہم نے تم پر سچی کتاب نازل کی ہے جو اپنے سے پہلی کتابوں کی تصدیق کرتی ہے اور ان (سب) پر شامل ہے تو جو حکم خدا نے نازل فرمایا ہے اس کے مطابق ان کا فیصلہ کرنا اور حق جو تمہارے پاس آچکا ہے اس کو چھوڑ کر ان کی خواہشوں کی پیروی نہ کرنا ہم نے تم میں سے ہر ایک (فرقے) کے لیے ایک دستور اور طریقہ مقرر کیا ہے اور اگر خدا چاہتا تو سب کو ایک ہی شریعت پر کر دیتا مگر جو حکم اس نے تم کو دیئے ہیں ان میں وہ تمہاری آزمائش کرنی چاہتا ہے سو نیک کاموں میں جلدی کرو تم سب کو خدا کی طرف لوٹ کر جانا ہے پھر جن باتوں میں تم کو اختلاف تھا وہ تم کو بتا دے گا"
+}

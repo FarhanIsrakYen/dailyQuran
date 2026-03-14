@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 4,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/7_4.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/007004.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/7_4.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/007004.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/7_4.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/007004.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/7_4.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/007004.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/7_4.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/007004.mp3"
+        }
+    },
+    "english": "˹Imagine˺ how many societies We have destroyed! Our torment took them by surprise ˹while sleeping˺ at night or midday.",
+    "arabic1": "وَكَم مِّن قَرْيَةٍ أَهْلَكْنَـٰهَا فَجَآءَهَا بَأْسُنَا بَيَـٰتًا أَوْ هُمْ قَآئِلُونَ",
+    "arabic2": "وكم من قرية اهلكناها فجاءها باسنا بياتا او هم قائلون",
+    "bengali": "আর এমন বহু জনবসতি রয়েছে, যা আমি ধ্বংস করে দিয়েছি। বস্তুত সেখানে আমার আযাব এসেছে রাতে, কিংবা যখন তারা দ্বিপ্রহরে বিশ্রামরত ছিল।",
+    "urdu": "اور کتنی ہی بستیاں ہیں کہ ہم نے تباہ کر ڈالیں جن پر ہمارا عذاب (یا تو رات کو) آتا تھا جبکہ وہ سوتے تھے یا (دن کو) جب وہ قیلولہ (یعنی دوپہر کو آرام) کرتے تھے"
+}

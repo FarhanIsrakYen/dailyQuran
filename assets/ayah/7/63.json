@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 63,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/7_63.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/007063.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/7_63.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/007063.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/7_63.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/007063.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/7_63.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/007063.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/7_63.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/007063.mp3"
+        }
+    },
+    "english": "Do you find it astonishing that a reminder should come to you from your Lord through one of your own, warning you, so you may beware and perhaps be shown mercy?”",
+    "arabic1": "أَوَعَجِبْتُمْ أَن جَآءَكُمْ ذِكْرٌ مِّن رَّبِّكُمْ عَلَىٰ رَجُلٍ مِّنكُمْ لِيُنذِرَكُمْ وَلِتَتَّقُوا۟ وَلَعَلَّكُمْ تُرْحَمُونَ",
+    "arabic2": "اوعجبتم ان جاءكم ذكر من ربكم على رجل منكم لينذركم ولتتقوا ولعلكم ترحمون",
+    "bengali": "‘তোমরা কি আশ্চর্য হচ্ছো যে, তোমাদের রবের পক্ষ থেকে তোমাদের মধ্য থেকে এক ব্যক্তির নিকট উপদেশ এসেছে, যাতে সে তোমাদেরকে সতর্ক করে, আর যাতে তোমরা তাকওয়া অবলম্বন কর এবং যাতে তোমরা রহমতপ্রাপ্ত হও’?",
+    "urdu": "کیا تم کو اس بات سے تعجب ہوا ہے کہ تم میں سے ایک شخص کے ہاتھ تمہارے پروردگار کی طرف سے تمہارے پاس نصیحت آئی تاکہ وہ تم کو ڈرائے اور تاکہ تم پرہیزگار بنو اور تاکہ تم پر رحم کیا جائے"
+}

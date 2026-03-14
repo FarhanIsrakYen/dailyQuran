@@ -1,0 +1,42 @@
+{
+    "surahName": "Ar-Room",
+    "surahNameArabic": "الروم",
+    "surahNameArabicLong": "سورة الروم",
+    "surahNameTranslation": "The Romans",
+    "revelationPlace": "Mecca",
+    "totalAyah": 60,
+    "surahNo": 30,
+    "ayahNo": 22,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/30_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/030022.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/30_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/030022.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/30_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/030022.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/30_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/030022.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/30_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/030022.mp3"
+        }
+    },
+    "english": "And one of His signs is the creation of the heavens and the earth, and the diversity of your languages and colours. Surely in this are signs for those of ˹sound˺ knowledge.",
+    "arabic1": "وَمِنْ ءَايَـٰتِهِۦ خَلْقُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَٱخْتِلَـٰفُ أَلْسِنَتِكُمْ وَأَلْوَٰنِكُمْ ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍ لِّلْعَـٰلِمِينَ",
+    "arabic2": "ومن اياته خلق السماوات والارض واختلاف السنتكم والوانكم ان في ذلك لايات للعالمين",
+    "bengali": "আর তাঁর নিদর্শনাবলীর মধ্যে রয়েছে আসমান ও যমীনের সৃষ্টি এবং তোমাদের ভাষা ও তোমাদের বর্ণের ভিন্নতা। নিশ্চয় এর মধ্যে নিদর্শনাবলী রয়েছে জ্ঞানীদের জন্য ।",
+    "urdu": "اور اسی کے نشانات (اور تصرفات) میں سے ہے آسمانوں اور زمین کا پیدا کرنا اور تمہاری زبانوں اور رنگوں کا جدا جدا ہونا۔ اہلِ دانش کے لیے ان (باتوں) میں (بہت سی) نشانیاں ہیں"
+}

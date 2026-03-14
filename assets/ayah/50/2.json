@@ -1,0 +1,42 @@
+{
+    "surahName": "Qaaf",
+    "surahNameArabic": "ق",
+    "surahNameArabicLong": "سورة ق",
+    "surahNameTranslation": "The letter Qaaf",
+    "revelationPlace": "Mecca",
+    "totalAyah": 45,
+    "surahNo": 50,
+    "ayahNo": 2,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/50_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/050002.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/50_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/050002.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/50_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/050002.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/50_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/050002.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/50_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/050002.mp3"
+        }
+    },
+    "english": "˹All will be resurrected,˺ yet the deniers are astonished that a warner has come to them from among themselves ˹warning of resurrection˺. So the disbelievers say, “This is an astonishing thing!",
+    "arabic1": "بَلْ عَجِبُوٓا۟ أَن جَآءَهُم مُّنذِرٌ مِّنْهُمْ فَقَالَ ٱلْكَـٰفِرُونَ هَـٰذَا شَىْءٌ عَجِيبٌ",
+    "arabic2": "بل عجبوا ان جاءهم منذر منهم فقال الكافرون هذا شيء عجيب",
+    "bengali": "বরং তারা বিস্মিত হয়েছে যে, তাদের মধ্য থেকে একজন সতর্ককারী তাদের কাছে এসেছে। অতঃপর কাফিররা বলল, ‘এতো এক বিস্ময়কর বস্তু’!",
+    "urdu": "لیکن ان لوگوں نے تعجب کیا کہ انہی میں سے ایک ہدایت کرنے والا ان کے پاس آیا تو کافر کہنے لگے کہ یہ بات تو (بڑی) عجیب ہے"
+}

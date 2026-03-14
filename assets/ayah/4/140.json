@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 140,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/4_140.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/004140.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/4_140.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/004140.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/4_140.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/004140.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/4_140.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/004140.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/4_140.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/004140.mp3"
+        }
+    },
+    "english": "He has already revealed to you in the Book that when you hear Allah’s revelations being denied or ridiculed, then do not sit in that company unless they engage in a different topic, or else you will be like them. Surely Allah will gather the hypocrites and disbelievers all together in Hell.",
+    "arabic1": "وَقَدْ نَزَّلَ عَلَيْكُمْ فِى ٱلْكِتَـٰبِ أَنْ إِذَا سَمِعْتُمْ ءَايَـٰتِ ٱللَّهِ يُكْفَرُ بِهَا وَيُسْتَهْزَأُ بِهَا فَلَا تَقْعُدُوا۟ مَعَهُمْ حَتَّىٰ يَخُوضُوا۟ فِى حَدِيثٍ غَيْرِهِۦٓ ۚ إِنَّكُمْ إِذًا مِّثْلُهُمْ ۗ إِنَّ ٱللَّهَ جَامِعُ ٱلْمُنَـٰفِقِينَ وَٱلْكَـٰفِرِينَ فِى جَهَنَّمَ جَمِيعًا",
+    "arabic2": "وقد نزل عليكم في الكتاب ان اذا سمعتم ايات الله يكفر بها ويستهزا بها فلا تقعدوا معهم حتى يخوضوا في حديث غيره انكم اذا مثلهم ان الله جامع المنافقين والكافرين في جهنم جميعا",
+    "bengali": "আর তিনি তো কিতাবে তোমাদের প্রতি নাযিল করেছেন যে, যখন তোমরা শুনবে আল্লাহর আয়াতসমূহ অস্বীকার করা হচ্ছে এবং সেগুলো নিয়ে উপহাস করা হচ্ছে, তাহলে তোমরা তাদের সাথে বসবে না, যতক্ষণ না তারা অন্য কথায় নিবিষ্ট হয়, তা না হলে তোমরাও তাদের মত হয়ে যাবে। নিশ্চয় আল্লাহ মুনাফিক ও কাফিরদের সকলকে জাহান্নামে একত্রকারী।",
+    "urdu": "اور خدا نے تم (مومنوں) پر اپنی کتاب میں (یہ حکم) نازل فرمایا ہے کہ جب تم (کہیں) سنو کہ خدا کی آیتوں سے انکار ہورہا ہے اور ان کی ہنسی اڑائی جاتی ہے تو جب تک وہ لوگ اور باتیں (نہ) کرنے لگیں۔ ان کے پاس مت بیٹھو۔ ورنہ تم بھی انہیں جیسے ہوجاؤ گے۔ کچھ شک نہیں کہ خدا منافقوں اور کافروں سب کو دوزخ میں اکھٹا کرنے والا ہے"
+}

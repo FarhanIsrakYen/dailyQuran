@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Hajj",
+    "surahNameArabic": "الحج",
+    "surahNameArabicLong": "سورة الحج",
+    "surahNameTranslation": "The Pilgrimage",
+    "revelationPlace": "Madina",
+    "totalAyah": 78,
+    "surahNo": 22,
+    "ayahNo": 15,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/22_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/022015.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/22_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/022015.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/22_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/022015.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/22_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/022015.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/22_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/022015.mp3"
+        }
+    },
+    "english": "Whoever thinks that Allah will not help His Prophet in this world and the Hereafter, let them stretch out a rope to the ceiling and strangle themselves, then let them see if this plan will do away with ˹the cause of˺ their rage.",
+    "arabic1": "مَن كَانَ يَظُنُّ أَن لَّن يَنصُرَهُ ٱللَّهُ فِى ٱلدُّنْيَا وَٱلْـَٔاخِرَةِ فَلْيَمْدُدْ بِسَبَبٍ إِلَى ٱلسَّمَآءِ ثُمَّ لْيَقْطَعْ فَلْيَنظُرْ هَلْ يُذْهِبَنَّ كَيْدُهُۥ مَا يَغِيظُ",
+    "arabic2": "من كان يظن ان لن ينصره الله في الدنيا والاخرة فليمدد بسبب الى السماء ثم ليقطع فلينظر هل يذهبن كيده ما يغيظ",
+    "bengali": "যে ধারণা করে যে, আল্লাহ দুনিয়া ও আখিরাতে কখনো তাকে (রাসূলকে) সাহায্য করবেন না, সে আসমানের দিকে একটি রশি প্রসারিত করুক, এরপর তা কেটে দিক, অতঃপর দেখুক তার কৌশল তার আক্রোশ দূর করে কিনা।",
+    "urdu": "جو شخص یہ گمان کرتا ہے کہ خدا اس کو دنیا اور آخرت میں مدد نہیں دے گا تو اس کو چاہیئے کہ اوپر کی طرف (یعنی اپنے گھر کی چھت میں) ایک رسی باندھے پھر (اس سے اپنا) گلا گھونٹ لے۔ پھر دیکھے کہ آیا یہ تدبیر اس کے غصے کو دور کردیتی ہے"
+}

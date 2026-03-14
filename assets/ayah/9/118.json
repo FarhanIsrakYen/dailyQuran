@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 118,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/9_118.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/009118.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/9_118.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/009118.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/9_118.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/009118.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/9_118.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/009118.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/9_118.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/009118.mp3"
+        }
+    },
+    "english": "And ˹Allah has also turned in mercy to˺ the three who had remained behind, ˹whose guilt distressed them˺ until the earth, despite its vastness, seemed to close in on them, and their souls were torn in anguish. They knew there was no refuge from Allah except in Him. Then He turned to them in mercy so that they might repent. Surely Allah ˹alone˺ is the Accepter of Repentance, Most Merciful.",
+    "arabic1": "وَعَلَى ٱلثَّلَـٰثَةِ ٱلَّذِينَ خُلِّفُوا۟ حَتَّىٰٓ إِذَا ضَاقَتْ عَلَيْهِمُ ٱلْأَرْضُ بِمَا رَحُبَتْ وَضَاقَتْ عَلَيْهِمْ أَنفُسُهُمْ وَظَنُّوٓا۟ أَن لَّا مَلْجَأَ مِنَ ٱللَّهِ إِلَّآ إِلَيْهِ ثُمَّ تَابَ عَلَيْهِمْ لِيَتُوبُوٓا۟ ۚ إِنَّ ٱللَّهَ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+    "arabic2": "وعلى الثلاثة الذين خلفوا حتى اذا ضاقت عليهم الارض بما رحبت وضاقت عليهم انفسهم وظنوا ان لا ملجا من الله الا اليه ثم تاب عليهم ليتوبوا ان الله هو التواب الرحيم",
+    "bengali": "আর সে তিন জনের (তাওবা কবূল করলেন), যাদের বিষয়টি স্থগিত রাখা হয়েছিল। এমনকি পৃথিবী প্রশস্ত হওয়া সত্ত্বেও তাদের জন্য সংকীর্ণ হয়ে গিয়েছিল এবং তাদের নিকট তাদের জীবন দুর্বিসহ হয়ে উঠেছিল। আর তারা নিশ্চিত বুঝেছিল যে, আল্লাহর আযাব থেকে তিনি ছাড়া কোন আশ্রয়স্থল নেই। তারপর তিনি তাদের তাওবা কবুল করলেন, যাতে তারা তাওবায় স্থির থাকে। নিশ্চয় আল্লাহ তাওবা কবূলকারী, পরম দয়ালু।",
+    "urdu": "اور ان تینوں پر بھی جن کا معاملہ ملتوی کیا گیا تھا۔ یہاں تک کہ جب اُنہیں زمین باوجود فراخی کے ان پر تنگ ہوگئی اور ان کے جانیں بھی ان پر دوبھر ہوگئیں۔ اور انہوں نے جان لیا کہ خدا (کے ہاتھ) سے خود اس کے سوا کوئی پناہ نہیں۔ پھر خدا نے ان پر مہربانی کی تاکہ توبہ کریں۔ بےشک خدا توبہ قبول کرنے والا مہربان ہے"
+}

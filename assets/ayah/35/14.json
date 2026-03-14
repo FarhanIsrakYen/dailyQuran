@@ -1,0 +1,42 @@
+{
+    "surahName": "Faatir",
+    "surahNameArabic": "فاطر",
+    "surahNameArabicLong": "سورة فاطر",
+    "surahNameTranslation": "The Originator",
+    "revelationPlace": "Mecca",
+    "totalAyah": 45,
+    "surahNo": 35,
+    "ayahNo": 14,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/35_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/035014.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/35_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/035014.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/35_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/035014.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/35_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/035014.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/35_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/035014.mp3"
+        }
+    },
+    "english": "If you call upon them, they cannot hear your calls. And if they were to hear, they could not respond to you. On the Day of Judgment they will disown your worship ˹of them˺. And no one can inform you ˹O Prophet˺ like the All-Knowledgeable.",
+    "arabic1": "إِن تَدْعُوهُمْ لَا يَسْمَعُوا۟ دُعَآءَكُمْ وَلَوْ سَمِعُوا۟ مَا ٱسْتَجَابُوا۟ لَكُمْ ۖ وَيَوْمَ ٱلْقِيَـٰمَةِ يَكْفُرُونَ بِشِرْكِكُمْ ۚ وَلَا يُنَبِّئُكَ مِثْلُ خَبِيرٍ",
+    "arabic2": "ان تدعوهم لا يسمعوا دعاءكم ولو سمعوا ما استجابوا لكم ويوم القيامة يكفرون بشرككم ولا ينبئك مثل خبير",
+    "bengali": "যদি তোমরা তাদেরকে ডাক, তারা তোমাদের ডাক শুনবে না; আর শুনতে পেলেও তোমাদের ডাকে সাড়া দেবে না এবং কিয়ামতের দিন তারা তোমাদের শরীক করাকে অস্বীকার করবে। আর সর্বজ্ঞ আল্লাহর ন্যায় কেউ তোমাকে অবহিত করবে না।",
+    "urdu": "اگر تم ان کو پکارو تو وہ تمہاری پکار نہ سنیں اور اگر سن بھی لیں تو تمہاری بات کو قبول نہ کرسکیں۔ اور قیامت کے دن تمہارے شرک سے انکار کردیں گے۔ اور (خدائے) باخبر کی طرح تم کو کوئی خبر نہیں دے گا"
+}

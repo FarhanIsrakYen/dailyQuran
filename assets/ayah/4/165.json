@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 165,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/4_165.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/004165.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/4_165.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/004165.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/4_165.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/004165.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/4_165.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/004165.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/4_165.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/004165.mp3"
+        }
+    },
+    "english": "˹All were˺ messengers delivering good news and warnings so humanity should have no excuse before Allah after ˹the coming of˺ the messengers. And Allah is Almighty, All-Wise.",
+    "arabic1": "رُّسُلًا مُّبَشِّرِينَ وَمُنذِرِينَ لِئَلَّا يَكُونَ لِلنَّاسِ عَلَى ٱللَّهِ حُجَّةٌۢ بَعْدَ ٱلرُّسُلِ ۚ وَكَانَ ٱللَّهُ عَزِيزًا حَكِيمًا",
+    "arabic2": "رسلا مبشرين ومنذرين لئلا يكون للناس على الله حجة بعد الرسل وكان الله عزيزا حكيما",
+    "bengali": "আর (পাঠিয়েছি) রাসূলগণকে সুসংবাদদাতা ও সতর্ককারীরূপে, যাতে আল্লাহর বিপক্ষে রাসূলদের পর মানুষের জন্য কোন অজুহাত না থাকে। আর আল্লাহ মহাপরাক্রমশালী, প্রজ্ঞাময় ।",
+    "urdu": "(سب) پیغمبروں کو (خدا نے) خوشخبری سنانے والے اور ڈرانے والے (بنا کر بھیجا تھا) تاکہ پیغمبروں کے آنے کے بعد لوگوں کو خدا پر الزام کا موقع نہ رہے اور خدا غالب حکمت والا ہے"
+}

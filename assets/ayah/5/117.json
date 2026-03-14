@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Maaida",
+    "surahNameArabic": "المائدة",
+    "surahNameArabicLong": "سورة المائدة",
+    "surahNameTranslation": "The Table",
+    "revelationPlace": "Madina",
+    "totalAyah": 120,
+    "surahNo": 5,
+    "ayahNo": 117,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/5_117.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/005117.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/5_117.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/005117.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/5_117.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/005117.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/5_117.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/005117.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/5_117.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/005117.mp3"
+        }
+    },
+    "english": "I never told them anything except what You ordered me to say: “Worship Allah—my Lord and your Lord!” And I was witness over them as long as I remained among them. But when You took me, You were the Witness over them—and You are a Witness over all things.",
+    "arabic1": "مَا قُلْتُ لَهُمْ إِلَّا مَآ أَمَرْتَنِى بِهِۦٓ أَنِ ٱعْبُدُوا۟ ٱللَّهَ رَبِّى وَرَبَّكُمْ ۚ وَكُنتُ عَلَيْهِمْ شَهِيدًا مَّا دُمْتُ فِيهِمْ ۖ فَلَمَّا تَوَفَّيْتَنِى كُنتَ أَنتَ ٱلرَّقِيبَ عَلَيْهِمْ ۚ وَأَنتَ عَلَىٰ كُلِّ شَىْءٍ شَهِيدٌ",
+    "arabic2": "ما قلت لهم الا ما امرتني به ان اعبدوا الله ربي وربكم وكنت عليهم شهيدا ما دمت فيهم فلما توفيتني كنت انت الرقيب عليهم وانت على كل شيء شهيد",
+    "bengali": "‘আমি তাদেরকে কেবল তাই বলেছি, যা আপনি আমাকে আদেশ করেছেন যে, তোমরা আমার রব ও তোমাদের রব আললাহর ইবাদাত কর। আর যতদিন আমি তাদের মধ্যে ছিলাম ততদিন আমি তাদের উপর সাক্ষী ছিলাম। অতঃপর যখন আপনি আমাকে উঠিয়ে নিলেন তখন আপনি ছিলেন তাদের পর্যবেক্ষণকারী। আর আপনি সব কিছুর উপর সাক্ষী।",
+    "urdu": "میں نے ان سے کچھ نہیں کہا بجز اس کے جس کا تو نے مجھے حکم دیا ہے وہ یہ کہ تم خدا کی عبادت کرو جو میرا اور تمہارا سب کا پروردگار ہے اور جب تک میں ان میں رہا ان (کے حالات) کی خبر رکھتا رہا جب تو نے مجھے دنیا سے اٹھا لیا تو تو ان کا نگران تھا اور تو ہر چیز سے خبردار ہے"
+}

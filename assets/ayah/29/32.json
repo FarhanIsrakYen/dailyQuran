@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Ankaboot",
+    "surahNameArabic": "العنكبوت",
+    "surahNameArabicLong": "سورة العنكبوت",
+    "surahNameTranslation": "The Spider",
+    "revelationPlace": "Mecca",
+    "totalAyah": 69,
+    "surahNo": 29,
+    "ayahNo": 32,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/29_32.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/029032.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/29_32.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/029032.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/29_32.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/029032.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/29_32.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/029032.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/29_32.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/029032.mp3"
+        }
+    },
+    "english": "He said, “But Lot is there!” They responded, “We know best who is there. We will certainly save him and his family—except his wife, who is one of the doomed.”",
+    "arabic1": "قَالَ إِنَّ فِيهَا لُوطًا ۚ قَالُوا۟ نَحْنُ أَعْلَمُ بِمَن فِيهَا ۖ لَنُنَجِّيَنَّهُۥ وَأَهْلَهُۥٓ إِلَّا ٱمْرَأَتَهُۥ كَانَتْ مِنَ ٱلْغَـٰبِرِينَ",
+    "arabic2": "قال ان فيها لوطا قالوا نحن اعلم بمن فيها لننجينه واهله الا امراته كانت من الغابرين",
+    "bengali": "ইবরাহীম বলল, ‘নিশ্চয় সেখানে লূত আছে।’ তারা বলল, ‘আমরা ভালই জানি সেখানে কারা আছে, আমরা অবশ্যই তাকে ও তার পরিবারকে রক্ষা করব; তবে তার স্ত্রীকে নয়, সে হবে পিছনে পড়ে থাকা লোকদের একজন’।",
+    "urdu": "ابراہیم نے کہا کہ اس میں تو لوط بھی ہیں۔ وہ کہنے لگے کہ جو لوگ یہاں (رہتے) ہیں ہمیں سب معلوم ہیں۔ ہم اُن کو اور اُن کے گھر والوں کو بچالیں گے بجز اُن کی بیوی کے وہ پیچھے رہنے والوں میں ہوگی"
+}

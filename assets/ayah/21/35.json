@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Anbiyaa",
+    "surahNameArabic": "الأنبياء",
+    "surahNameArabicLong": "سورة الأنبياء",
+    "surahNameTranslation": "The Prophets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 112,
+    "surahNo": 21,
+    "ayahNo": 35,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/21_35.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/021035.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/21_35.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/021035.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/21_35.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/021035.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/21_35.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/021035.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/21_35.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/021035.mp3"
+        }
+    },
+    "english": "Every soul will taste death. And We test you ˹O humanity˺ with good and evil as a trial, then to Us you will ˹all˺ be returned.",
+    "arabic1": "كُلُّ نَفْسٍ ذَآئِقَةُ ٱلْمَوْتِ ۗ وَنَبْلُوكُم بِٱلشَّرِّ وَٱلْخَيْرِ فِتْنَةً ۖ وَإِلَيْنَا تُرْجَعُونَ",
+    "arabic2": "كل نفس ذائقة الموت ونبلوكم بالشر والخير فتنة والينا ترجعون",
+    "bengali": "প্রতিটি প্রাণ মৃত্যুর স্বাদ গ্রহণ করবে; আর ভাল ও মন্দ দ্বারা আমি তোমাদেরকে পরীক্ষা করে থাকি এবং আমার কাছেই তোমাদেরকে ফিরে আসতে হবে।",
+    "urdu": "ہر متنفس کو موت کا مزا چکھنا ہے۔ اور ہم تو لوگوں کو سختی اور آسودگی میں آزمائش کے طور پر مبتلا کرتے ہیں۔ اور تم ہماری طرف ہی لوٹ کر آؤ گے"
+}

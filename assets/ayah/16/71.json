@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nahl",
+    "surahNameArabic": "النحل",
+    "surahNameArabicLong": "سورة النحل",
+    "surahNameTranslation": "The Bee",
+    "revelationPlace": "Mecca",
+    "totalAyah": 128,
+    "surahNo": 16,
+    "ayahNo": 71,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/16_71.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/016071.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/16_71.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/016071.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/16_71.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/016071.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/16_71.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/016071.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/16_71.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/016071.mp3"
+        }
+    },
+    "english": "And Allah has favoured some of you over others in provision. But those who have been much favoured would not share their wealth with those ˹bondspeople˺ in their possession, making them their equals. Do they then deny Allah’s favours?",
+    "arabic1": "وَٱللَّهُ فَضَّلَ بَعْضَكُمْ عَلَىٰ بَعْضٍ فِى ٱلرِّزْقِ ۚ فَمَا ٱلَّذِينَ فُضِّلُوا۟ بِرَآدِّى رِزْقِهِمْ عَلَىٰ مَا مَلَكَتْ أَيْمَـٰنُهُمْ فَهُمْ فِيهِ سَوَآءٌ ۚ أَفَبِنِعْمَةِ ٱللَّهِ يَجْحَدُونَ",
+    "arabic2": "والله فضل بعضكم على بعض في الرزق فما الذين فضلوا برادي رزقهم على ما ملكت ايمانهم فهم فيه سواء افبنعمة الله يجحدون",
+    "bengali": "আর আল্লাহ রিয্ক তোমাদের কতককে কতকের উপর প্রাধান্য দিয়েছেন; কিন্তু যাদেরকে প্রাধান্য দেয়া হয়েছে, তারা তাদের রিয্ক দাসদাসীদের ফিরিয়ে দেয় না। (এই ভয়ে যে,) তারা তাতে সমান হয়ে যাবে। তবে তারা কি আল্লাহর নিআমতকে অস্বীকার করছে?",
+    "urdu": "اور خدا نے رزق (ودولت) میں بعض کو بعض پر فضیلت دی ہے تو جن لوگوں کو فضیلت دی ہے وہ اپنا رزق اپنے مملوکوں کو تو دے ڈالنے والے ہیں نہیں کہ سب اس میں برابر ہوجائیں۔ تو کیا یہ لوگ نعمت الہیٰ کے منکر ہیں"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 7,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/17_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/017007.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/17_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/017007.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/17_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/017007.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/17_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/017007.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/17_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/017007.mp3"
+        }
+    },
+    "english": "If you act rightly, it is for your own good, but if you do wrong, it is to your own loss. “And when the second warning would come to pass, your enemies would ˹be left to˺ totally disgrace you and enter the Temple ˹of Jerusalem˺ as they entered it the first time, and utterly destroy whatever would fall into their hands.",
+    "arabic1": "إِنْ أَحْسَنتُمْ أَحْسَنتُمْ لِأَنفُسِكُمْ ۖ وَإِنْ أَسَأْتُمْ فَلَهَا ۚ فَإِذَا جَآءَ وَعْدُ ٱلْـَٔاخِرَةِ لِيَسُـۥٓـُٔوا۟ وُجُوهَكُمْ وَلِيَدْخُلُوا۟ ٱلْمَسْجِدَ كَمَا دَخَلُوهُ أَوَّلَ مَرَّةٍ وَلِيُتَبِّرُوا۟ مَا عَلَوْا۟ تَتْبِيرًا",
+    "arabic2": "ان احسنتم احسنتم لانفسكم وان اساتم فلها فاذا جاء وعد الاخرة ليسوءوا وجوهكم وليدخلوا المسجد كما دخلوه اول مرة وليتبروا ما علوا تتبيرا",
+    "bengali": "তোমরা যদি ভাল কর, তবে নিজদের জন্যই ভাল করবে এবং যদি মন্দ কর তবে তা নিজদের জন্যই। এরপর যখন পরবর্তী ওয়াদা এল, (তখন অন্য বান্দাদের প্রেরণ করলাম) যাতে তারা তোমাদের চেহারাসমূহ মলিন করে দেয়, আর যেন মসজিদে ঢুকে পড়ে যেমন ঢুকে পড়েছিল প্রথমবার এবং যাতে সম্পূর্ণরূপে ধ্বংস করে দেয় যা ওদের কর্তৃত্বে ছিল।",
+    "urdu": "اگر تم نیکوکاری کرو گے تو اپنی جانوں کے لئے کرو گے۔ اور اگر اعمال بد کرو گے تو (اُن کا) وبال بھی تمہاری ہی جانوں پر ہوگا پھر جب دوسرے (وعدے) کا وقت آیا (تو ہم نے پھر اپنے بندے بھیجے) تاکہ تمہارے چہروں کو بگاڑ دیں اور جس طرح پہلی دفعہ مسجد (بیت المقدس) میں داخل ہوگئے تھے اسی طرح پھر اس میں داخل ہوجائیں اور جس چیز پر غلبہ پائیں اُسے تباہ کردیں"
+}

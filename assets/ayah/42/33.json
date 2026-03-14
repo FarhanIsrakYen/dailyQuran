@@ -1,0 +1,42 @@
+{
+    "surahName": "Ash-Shura",
+    "surahNameArabic": "الشورى",
+    "surahNameArabicLong": "سورة الشورى",
+    "surahNameTranslation": "Consultation",
+    "revelationPlace": "Mecca",
+    "totalAyah": 53,
+    "surahNo": 42,
+    "ayahNo": 33,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/42_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/042033.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/42_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/042033.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/42_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/042033.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/42_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/042033.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/42_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/042033.mp3"
+        }
+    },
+    "english": "If He wills, He can calm the wind, leaving the ships motionless on the water. Surely in this are signs for whoever is steadfast, grateful.",
+    "arabic1": "إِن يَشَأْ يُسْكِنِ ٱلرِّيحَ فَيَظْلَلْنَ رَوَاكِدَ عَلَىٰ ظَهْرِهِۦٓ ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍ لِّكُلِّ صَبَّارٍ شَكُورٍ",
+    "arabic2": "ان يشا يسكن الريح فيظللن رواكد على ظهره ان في ذلك لايات لكل صبار شكور",
+    "bengali": "তিনি যদি চান বাতাসকে থামিয়ে দিতে পারেন। ফলে জাহাজগুলো সমুদ্রপৃষ্ঠে গতিহীন হয়ে পড়বে। নিশ্চয় এতে পরম ধৈর্যশীল ও কৃতজ্ঞ ব্যক্তির জন্য অনেক নিদর্শন রয়েছে।",
+    "urdu": "اگر خدا چاہے تو ہوا کو ٹھیرا دے اور جہاز اس کی سطح پر کھڑے رہ جائیں۔ تمام صبر اور شکر کرنے والوں کے لئے ان (باتوں) میں قدرت خدا کے نمونے ہیں"
+}

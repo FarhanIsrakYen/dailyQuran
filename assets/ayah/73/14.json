@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Muzzammil",
+    "surahNameArabic": "المزمل",
+    "surahNameArabicLong": "سورة المزمل",
+    "surahNameTranslation": "The Enshrouded One",
+    "revelationPlace": "Mecca",
+    "totalAyah": 20,
+    "surahNo": 73,
+    "ayahNo": 14,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/73_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/073014.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/73_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/073014.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/73_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/073014.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/73_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/073014.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/73_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/073014.mp3"
+        }
+    },
+    "english": "on the Day the earth and mountains will shake ˹violently˺, and mountains will be ˹reduced to˺ dunes of shifting sand.",
+    "arabic1": "يَوْمَ تَرْجُفُ ٱلْأَرْضُ وَٱلْجِبَالُ وَكَانَتِ ٱلْجِبَالُ كَثِيبًا مَّهِيلًا",
+    "arabic2": "يوم ترجف الارض والجبال وكانت الجبال كثيبا مهيلا",
+    "bengali": "যেদিন যমীন ও পর্বতমালা প্রকম্পিত হবে এবং পাহাড়গুলো চলমান বালুকারাশিতে পরিণত হবে।",
+    "urdu": "جس دن زمین اور پہاڑ کانپنے لگیں اور پہاڑ ایسے بھر بھرے (گویا) ریت کے ٹیلے ہوجائیں"
+}

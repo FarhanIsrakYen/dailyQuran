@@ -1,0 +1,42 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 146,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/3_146.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/003146.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/3_146.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/003146.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/3_146.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/003146.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/3_146.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/003146.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/3_146.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/003146.mp3"
+        }
+    },
+    "english": "˹Imagine˺ how many devotees fought along with their prophets and never faltered despite whatever ˹losses˺ they suffered in the cause of Allah, nor did they weaken or give in! Allah loves those who persevere.",
+    "arabic1": "وَكَأَيِّن مِّن نَّبِىٍّ قَـٰتَلَ مَعَهُۥ رِبِّيُّونَ كَثِيرٌ فَمَا وَهَنُوا۟ لِمَآ أَصَابَهُمْ فِى سَبِيلِ ٱللَّهِ وَمَا ضَعُفُوا۟ وَمَا ٱسْتَكَانُوا۟ ۗ وَٱللَّهُ يُحِبُّ ٱلصَّـٰبِرِينَ",
+    "arabic2": "وكاين من نبي قاتل معه ربيون كثير فما وهنوا لما اصابهم في سبيل الله وما ضعفوا وما استكانوا والله يحب الصابرين",
+    "bengali": "আর কত নবী ছিল, যার সাথে থেকে অনেক আল্লাহওয়ালা লড়াই করেছে। তবে আল্লাহর পথে তাদের উপর যা আপতিত হয়েছে তার জন্য তারা হতোদ্যম হয়নি। আর তারা দুর্বল হয়নি এবং তারা নত হয়নি। আর আল্লাহ ধৈর্যশীলদেরকে ভালবাসেন।",
+    "urdu": "اور بہت سے نبی ہوئے ہیں جن کے ساتھ ہو کر اکثر اہل الله (خدا کے دشمنوں سے) لڑے ہیں تو جو مصبتیں ان پر راہِ خدا میں واقع ہوئیں ان کے سبب انہوں نے نہ تو ہمت ہاری اور نہ بزدلی کی نہ (کافروں سے) دبے اور خدا استقلال رکھنے والوں کو دوست رکھتا ہے"
+}

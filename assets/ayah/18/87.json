@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Kahf",
+    "surahNameArabic": "الكهف",
+    "surahNameArabicLong": "سورة الكهف",
+    "surahNameTranslation": "The Cave",
+    "revelationPlace": "Mecca",
+    "totalAyah": 110,
+    "surahNo": 18,
+    "ayahNo": 87,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/18_87.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/018087.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/18_87.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/018087.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/18_87.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/018087.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/18_87.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/018087.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/18_87.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/018087.mp3"
+        }
+    },
+    "english": "He responded, “Whoever does wrong will be punished by us, then will be returned to their Lord, Who will punish them with a horrible torment.",
+    "arabic1": "قَالَ أَمَّا مَن ظَلَمَ فَسَوْفَ نُعَذِّبُهُۥ ثُمَّ يُرَدُّ إِلَىٰ رَبِّهِۦ فَيُعَذِّبُهُۥ عَذَابًا نُّكْرًا",
+    "arabic2": "قال اما من ظلم فسوف نعذبه ثم يرد الى ربه فيعذبه عذابا نكرا",
+    "bengali": "সে বলল, ‘যে ব্যক্তি যুলম করবে, আমি অচিরেই তাকে শাস্তি দেব। অতঃপর তাকে তার রবের নিকট ফিরিয়ে নেয়া হবে। তখন তিনি তাকে কঠিন আযাব দেবেন’।",
+    "urdu": "ذوالقرنین نے کہا کہ جو (کفر وبدکرداری سے) ظلم کرے گا اسے ہم عذاب دیں گے۔ پھر (جب) وہ اپنے پروردگار کی طرف لوٹایا جائے گا تو وہ بھی اسے بُرا عذاب دے گا"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Maaida",
+    "surahNameArabic": "المائدة",
+    "surahNameArabicLong": "سورة المائدة",
+    "surahNameTranslation": "The Table",
+    "revelationPlace": "Madina",
+    "totalAyah": 120,
+    "surahNo": 5,
+    "ayahNo": 29,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/5_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/005029.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/5_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/005029.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/5_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/005029.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/5_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/005029.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/5_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/005029.mp3"
+        }
+    },
+    "english": "I want to let you bear your sin against me along with your other sins, then you will be one of those destined to the Fire. And that is the reward of the wrongdoers.”",
+    "arabic1": "إِنِّىٓ أُرِيدُ أَن تَبُوٓأَ بِإِثْمِى وَإِثْمِكَ فَتَكُونَ مِنْ أَصْحَـٰبِ ٱلنَّارِ ۚ وَذَٰلِكَ جَزَٰٓؤُا۟ ٱلظَّـٰلِمِينَ",
+    "arabic2": "اني اريد ان تبوء باثمي واثمك فتكون من اصحاب النار وذلك جزاء الظالمين",
+    "bengali": "‘নিশ্চয় আমি চাই যে, তুমি আমার ও তোমার পাপ নিয়ে ফিরে যাও, ফলে তুমি আগুনের অধিবাসী হও। আর সেটিই হচ্ছে যালিমদের প্রতিদান’।",
+    "urdu": "میں چاہتا ہوں کہ تو میرے گناہ میں بھی ماخوذ ہو اور اپنے گناہ میں بھی پھر (زمرہ) اہل دوزخ میں ہو اور ظالموں کی یہی سزا ہے"
+}

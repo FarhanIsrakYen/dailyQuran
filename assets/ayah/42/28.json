@@ -1,0 +1,42 @@
+{
+    "surahName": "Ash-Shura",
+    "surahNameArabic": "الشورى",
+    "surahNameArabicLong": "سورة الشورى",
+    "surahNameTranslation": "Consultation",
+    "revelationPlace": "Mecca",
+    "totalAyah": 53,
+    "surahNo": 42,
+    "ayahNo": 28,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/42_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/042028.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/42_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/042028.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/42_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/042028.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/42_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/042028.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/42_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/042028.mp3"
+        }
+    },
+    "english": "He is the One Who sends down rain after people have given up hope, spreading out His mercy. He is the Guardian, the Praiseworthy.",
+    "arabic1": "وَهُوَ ٱلَّذِى يُنَزِّلُ ٱلْغَيْثَ مِنۢ بَعْدِ مَا قَنَطُوا۟ وَيَنشُرُ رَحْمَتَهُۥ ۚ وَهُوَ ٱلْوَلِىُّ ٱلْحَمِيدُ",
+    "arabic2": "وهو الذي ينزل الغيث من بعد ما قنطوا وينشر رحمته وهو الولي الحميد",
+    "bengali": "আর তারা নিরাশ হয়ে পড়লে তিনিই বৃষ্টি বর্ষণ করেন এবং তাঁর রহমত ছড়িয়ে দেন। আর তিনিই তো অভিভাবক, প্রশংসিত।",
+    "urdu": "اور وہی تو ہے جو لوگوں کے ناامید ہوجانے کے بعد مینہ برساتا اور اپنی رحمت (یعنی بارش) کی برکت کو پھیلا دیتا ہے۔ اور وہ کارساز اور سزاوار تعریف ہے"
+}

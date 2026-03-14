@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 26,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_26.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002026.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_26.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002026.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_26.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002026.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_26.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002026.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_26.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002026.mp3"
+        }
+    },
+    "english": "Surely Allah does not shy away from using the parable of a mosquito or what is even smaller. As for the believers, they know that it is the truth from their Lord. And as for the disbelievers, they argue, “What does Allah mean by such a parable?” Through this ˹test˺, He leaves many to stray, and guides many. And He leaves none to stray except the rebellious—",
+    "arabic1": "۞ إِنَّ ٱللَّهَ لَا يَسْتَحْىِۦٓ أَن يَضْرِبَ مَثَلًا مَّا بَعُوضَةً فَمَا فَوْقَهَا ۚ فَأَمَّا ٱلَّذِينَ ءَامَنُوا۟ فَيَعْلَمُونَ أَنَّهُ ٱلْحَقُّ مِن رَّبِّهِمْ ۖ وَأَمَّا ٱلَّذِينَ كَفَرُوا۟ فَيَقُولُونَ مَاذَآ أَرَادَ ٱللَّهُ بِهَـٰذَا مَثَلًا ۘ يُضِلُّ بِهِۦ كَثِيرًا وَيَهْدِى بِهِۦ كَثِيرًا ۚ وَمَا يُضِلُّ بِهِۦٓ إِلَّا ٱلْفَـٰسِقِينَ",
+    "arabic2": "ان الله لا يستحيي ان يضرب مثلا ما بعوضة فما فوقها فاما الذين امنوا فيعلمون انه الحق من ربهم واما الذين كفروا فيقولون ماذا اراد الله بهذا مثلا يضل به كثيرا ويهدي به كثيرا وما يضل به الا الفاسقين",
+    "bengali": "নিশ্চয় আল্লাহ মশা কিংবা তার চেয়েও ছোট কিছুর উপমা দিতে লজ্জা করেন না। সুতরাং যারা ঈমান এনেছে তারা জানে, নিশ্চয় তা তাদের রবের পক্ষ থেকে সত্য। আর যারা কুফরী করেছে তারা বলে, আল্লাহ এর মাধ্যমে উপমা দিয়ে কী চেয়েছেন? তিনি এ দিয়ে অনেককে পথভ্রষ্ট করেন এবং এ দিয়ে অনেককে হিদায়াত দেন। আর এর মাধ্যমে কেবল ফাসিকদেরকেই পথভ্রষ্ট করেন।",
+    "urdu": "الله اس بات سے عار نہیں کرتا کہ مچھر یا اس سے بڑھ کر کسی چیز (مثلاً مکھی مکڑی وغیرہ) کی مثال بیان فرمائے۔ جو مومن ہیں، وہ یقین کرتے ہیں وہ ان کے پروردگار کی طرف سے سچ ہے اور جو کافر ہیں وہ کہتے ہیں کہ اس مثال سے خدا کی مراد ہی کیا ہے۔ اس سے (خدا) بہتوں کو گمراہ کرتا ہے اور بہتوں کو ہدایت بخشتا ہے اور گمراہ بھی کرتا تو نافرمانوں ہی کو"
+}

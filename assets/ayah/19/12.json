@@ -1,0 +1,42 @@
+{
+    "surahName": "Maryam",
+    "surahNameArabic": "مريم",
+    "surahNameArabicLong": "سورة مريم",
+    "surahNameTranslation": "Mary",
+    "revelationPlace": "Mecca",
+    "totalAyah": 98,
+    "surahNo": 19,
+    "ayahNo": 12,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/19_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/019012.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/19_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/019012.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/19_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/019012.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/19_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/019012.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/19_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/019012.mp3"
+        }
+    },
+    "english": "˹It was later said,˺ “O John! Hold firmly to the Scriptures.” And We granted him wisdom while ˹he was still˺ a child",
+    "arabic1": "يَـٰيَحْيَىٰ خُذِ ٱلْكِتَـٰبَ بِقُوَّةٍ ۖ وَءَاتَيْنَـٰهُ ٱلْحُكْمَ صَبِيًّا",
+    "arabic2": "يا يحيى خذ الكتاب بقوة واتيناه الحكم صبيا",
+    "bengali": "‘হে ইয়াহইয়া, তুমি কিতাবটিকে দৃঢ়ভাবে আঁকড়ে ধর’। আমি তাকে শৈশবেই প্রজ্ঞা* দান করেছি। \n* এখানে ‘হুকম’ বলতে হিকমাত বা প্রজ্ঞা বুঝানো হয়েছে। কারো মতে, তা হল ইলম ও আমল। কেউ বলেছেন, নবুওয়াত বা আকল। ইমাম শওকানী বলেন, উল্লেখিত প্রতিটি বিষয় ‘হুকম’ দ্বারা উদ্দেশ্য হতে পারে।",
+    "urdu": "اے یحییٰ (ہماری) کتاب کو زور سے پکڑے رہو۔ اور ہم نے ان کو لڑکپن میں دانائی عطا فرمائی تھی"
+}

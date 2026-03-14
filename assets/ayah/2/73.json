@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 73,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_73.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002073.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_73.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002073.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_73.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002073.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_73.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002073.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_73.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002073.mp3"
+        }
+    },
+    "english": "So We instructed, “Strike the dead body with a piece of the cow.” This is how ˹easily˺ Allah brings the dead to life, showing you His signs so that you may understand.",
+    "arabic1": "فَقُلْنَا ٱضْرِبُوهُ بِبَعْضِهَا ۚ كَذَٰلِكَ يُحْىِ ٱللَّهُ ٱلْمَوْتَىٰ وَيُرِيكُمْ ءَايَـٰتِهِۦ لَعَلَّكُمْ تَعْقِلُونَ",
+    "arabic2": "فقلنا اضربوه ببعضها كذلك يحيي الله الموتى ويريكم اياته لعلكم تعقلون",
+    "bengali": "অতঃপর আমি বললাম, ‘তোমরা তাকে আঘাত কর গাভীটির (গোশতের) কিছু অংশ দিয়ে। এভাবে আল্লাহ জীবিত করেন মৃতদেরকে। আর তিনি তোমাদেরকে তাঁর নিদর্শনসমূহ দেখান, যাতে তোমরা বুঝ।",
+    "urdu": "تو ہم نے کہا کہ اس بیل کا کوئی سا ٹکڑا مقتول کو مارو۔ اس طرح خدا مردوں کو زندہ کرتا ہے اور تم کو اپنی (قدرت کی) نشانیاں دکھاتا ہے تاکہ تم سمجھو"
+}

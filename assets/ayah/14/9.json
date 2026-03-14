@@ -1,0 +1,42 @@
+{
+    "surahName": "Ibrahim",
+    "surahNameArabic": "ابراهيم",
+    "surahNameArabicLong": "سورة ابراهيم",
+    "surahNameTranslation": "Abraham",
+    "revelationPlace": "Mecca",
+    "totalAyah": 52,
+    "surahNo": 14,
+    "ayahNo": 9,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/14_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/014009.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/14_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/014009.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/14_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/014009.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/14_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/014009.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/14_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/014009.mp3"
+        }
+    },
+    "english": "Have you not ˹already˺ received the stories of those who were before you: the people of Noah, ’Âd, Thamûd, and those after them? Only Allah knows how many they were. Their messengers came to them with clear proofs, but they put their hands over their mouths and said, “We totally reject what you have been sent with, and we are certainly in alarming doubt about what you are inviting us to.”",
+    "arabic1": "أَلَمْ يَأْتِكُمْ نَبَؤُا۟ ٱلَّذِينَ مِن قَبْلِكُمْ قَوْمِ نُوحٍ وَعَادٍ وَثَمُودَ ۛ وَٱلَّذِينَ مِنۢ بَعْدِهِمْ ۛ لَا يَعْلَمُهُمْ إِلَّا ٱللَّهُ ۚ جَآءَتْهُمْ رُسُلُهُم بِٱلْبَيِّنَـٰتِ فَرَدُّوٓا۟ أَيْدِيَهُمْ فِىٓ أَفْوَٰهِهِمْ وَقَالُوٓا۟ إِنَّا كَفَرْنَا بِمَآ أُرْسِلْتُم بِهِۦ وَإِنَّا لَفِى شَكٍّ مِّمَّا تَدْعُونَنَآ إِلَيْهِ مُرِيبٍ",
+    "arabic2": "الم ياتكم نبا الذين من قبلكم قوم نوح وعاد وثمود والذين من بعدهم لا يعلمهم الا الله جاءتهم رسلهم بالبينات فردوا ايديهم في افواههم وقالوا انا كفرنا بما ارسلتم به وانا لفي شك مما تدعوننا اليه مريب",
+    "bengali": "তোমাদের কাছে কি তোমাদের পূর্বের লোকদের সংবাদ পৌছেনি? নূহ, আদ ও সামূদ জাতির এবং যারা তাদের পরের, যাদেরকে আল্লাহ ছাড়া কেউ জানে না। তাদের রাসূলগণ তাদের নিকট স্পষ্ট প্রমাণাদি নিয়ে এসেছিল, ফলে তারা ফিরিয়ে দিল তাদের হাত তাদের মুখে এবং বলল, ‘নিশ্চয় তোমাদেরকে যা দিয়ে প্রেরণ করা হয়েছে, তা আমরা অস্বীকার করলাম। আর তোমরা আমাদের যে বিষয়ের প্রতি দাওয়াত দিচ্ছ, সে বিষয়ে আমরা ঘোর সন্দেহে রয়েছি’।",
+    "urdu": "بھلا تم کو ان لوگوں (کے حالات) کی خبر نہیں پہنچی جو تم سے پہلے تھے (یعنی) نوح اور عاد اور ثمود کی قوم۔ اور جو ان کے بعد تھے۔ جن کا علم خدا کے سوا کسی کو نہیں (جب) ان کے پاس پیغمبر نشانیاں لے کر آئے تو انہوں نے اپنے ہاتھ ان کے مونہوں پر رکھ دیئے (کہ خاموش رہو) اور کہنے لگے کہ ہم تو تمہاری رسالت کو تسلیم نہیں کرتے اور جس چیز کی طرف تم ہمیں بلاتے ہو ہم اس سے قوی شک میں ہیں"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 171,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_171.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002171.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_171.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002171.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_171.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002171.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_171.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002171.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_171.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002171.mp3"
+        }
+    },
+    "english": "The example of the disbelievers ˹not responding to the Messenger’s warning˺ is like a flock not comprehending the calls and cries of the shepherd. ˹They are wilfully˺ deaf, dumb and blind so they have no understanding.",
+    "arabic1": "وَمَثَلُ ٱلَّذِينَ كَفَرُوا۟ كَمَثَلِ ٱلَّذِى يَنْعِقُ بِمَا لَا يَسْمَعُ إِلَّا دُعَآءً وَنِدَآءً ۚ صُمٌّۢ بُكْمٌ عُمْىٌ فَهُمْ لَا يَعْقِلُونَ",
+    "arabic2": "ومثل الذين كفروا كمثل الذي ينعق بما لا يسمع الا دعاء ونداء صم بكم عمي فهم لا يعقلون",
+    "bengali": "আর যারা কুফরী করেছে তাদের উদাহরণ তার মত, যে এমন কিছুর জন্য চিৎকার করছে, হাঁক-ডাক ছাড়া যে কিছু শোনে না। তারা বধির, বোবা, অন্ধ। তাই তারা বুঝে না।",
+    "urdu": "جو لوگ کافر ہیں ان کی مثال اس شخص کی سی ہے جو کسی ایسی چیز کو آواز دے جو پکار اور آواز کے سوا کچھ سن نہ سکے۔ (یہ) بہرے ہیں گونگے ہیں اندھے ہیں کہ (کچھ) سمجھ ہی نہیں سکتے"
+}

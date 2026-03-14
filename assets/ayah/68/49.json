@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Qalam",
+    "surahNameArabic": "القلم",
+    "surahNameArabicLong": "سورة القلم",
+    "surahNameTranslation": "The Pen",
+    "revelationPlace": "Mecca",
+    "totalAyah": 52,
+    "surahNo": 68,
+    "ayahNo": 49,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/68_49.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/068049.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/68_49.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/068049.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/68_49.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/068049.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/68_49.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/068049.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/68_49.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/068049.mp3"
+        }
+    },
+    "english": "Had he not been shown grace by his Lord, he would have certainly been cast onto the open ˹shore˺, still blameworthy.",
+    "arabic1": "لَّوْلَآ أَن تَدَٰرَكَهُۥ نِعْمَةٌ مِّن رَّبِّهِۦ لَنُبِذَ بِٱلْعَرَآءِ وَهُوَ مَذْمُومٌ",
+    "arabic2": "لولا ان تداركه نعمة من ربه لنبذ بالعراء وهو مذموم",
+    "bengali": "যদি তার রবের অনুগ্রহ তার কাছে না পৌঁছত, তাহলে সে নিন্দিত অবস্থায় উন্মুক্ত প্রান্তরে নিক্ষিপ্ত হত।",
+    "urdu": "اگر تمہارے پروردگار کی مہربانی ان کی یاوری نہ کرتی تو وہ چٹیل میدان میں ڈال دیئے جاتے اور ان کا حال ابتر ہوجاتا"
+}

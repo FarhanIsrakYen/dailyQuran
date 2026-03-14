@@ -1,0 +1,42 @@
+{
+    "surahName": "Luqman",
+    "surahNameArabic": "لقمان",
+    "surahNameArabicLong": "سورة لقمان",
+    "surahNameTranslation": "Luqman",
+    "revelationPlace": "Mecca",
+    "totalAyah": 34,
+    "surahNo": 31,
+    "ayahNo": 13,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/31_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/031013.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/31_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/031013.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/31_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/031013.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/31_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/031013.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/31_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/031013.mp3"
+        }
+    },
+    "english": "And ˹remember˺ when Luqmân said to his son, while advising him, “O my dear son! Never associate ˹anything˺ with Allah ˹in worship˺, for associating ˹others with Him˺ is truly the worst of all wrongs.”",
+    "arabic1": "وَإِذْ قَالَ لُقْمَـٰنُ لِٱبْنِهِۦ وَهُوَ يَعِظُهُۥ يَـٰبُنَىَّ لَا تُشْرِكْ بِٱللَّهِ ۖ إِنَّ ٱلشِّرْكَ لَظُلْمٌ عَظِيمٌ",
+    "arabic2": "واذ قال لقمان لابنه وهو يعظه يا بني لا تشرك بالله ان الشرك لظلم عظيم",
+    "bengali": "আর স্মরণ কর, যখন লুকমান তার পুত্রকে উপদেশ দিতে গিয়ে বলেছিল, ‘প্রিয় বৎস, আল্লাহর সাথে শিরক করো না; নিশ্চয় শিরক হল বড় যুলম'।",
+    "urdu": "اور (اُس وقت کو یاد کرو) جب لقمان نے اپنے بیٹے کو نصیحت کرتے ہوئے کہا کہ بیٹا خدا کے ساتھ شرک نہ کرنا۔ شرک تو بڑا (بھاری) ظلم ہے"
+}

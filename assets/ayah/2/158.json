@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 158,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_158.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002158.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_158.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002158.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_158.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002158.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_158.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002158.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_158.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002158.mp3"
+        }
+    },
+    "english": "Indeed, ˹the hills of˺ Ṣafa and Marwah are among the symbols of Allah. So whoever performs the pilgrimage or minor pilgrimage, let them walk between ˹the two hills˺. And whoever does good willingly, Allah is truly Appreciative, All-Knowing.",
+    "arabic1": "۞ إِنَّ ٱلصَّفَا وَٱلْمَرْوَةَ مِن شَعَآئِرِ ٱللَّهِ ۖ فَمَنْ حَجَّ ٱلْبَيْتَ أَوِ ٱعْتَمَرَ فَلَا جُنَاحَ عَلَيْهِ أَن يَطَّوَّفَ بِهِمَا ۚ وَمَن تَطَوَّعَ خَيْرًا فَإِنَّ ٱللَّهَ شَاكِرٌ عَلِيمٌ",
+    "arabic2": "ان الصفا والمروة من شعائر الله فمن حج البيت او اعتمر فلا جناح عليه ان يطوف بهما ومن تطوع خيرا فان الله شاكر عليم",
+    "bengali": "নিশ্চয় সাফা ও মারওয়া আল্লাহর নিদর্শনসমূহের অন্তর্ভুক্ত। সুতরাং যে বাইতুল্লাহর হজ্জ করবে কিংবা উমরা করবে তার কোন অপরাধ হবে না যে, সে এগুলোর তাওয়াফ করবে। আর যে স্বতঃস্ফূর্তভাবে কল্যাণ করবে, তবে নিশ্চয় শোকরকারী, সর্বজ্ঞ।",
+    "urdu": "بےشک (کوہ) صفا اور مروہ خدا کی نشانیوں میں سے ہیں۔ تو جو شخص خانہٴ کعبہ کا حج یا عمرہ کرے اس پر کچھ گناہ نہیں کہ دونوں کا طواف کرے۔ (بلکہ طواف ایک قسم کا نیک کام ہے) اور جو کوئی نیک کام کرے تو خدا قدر شناس اور دانا ہے"
+}

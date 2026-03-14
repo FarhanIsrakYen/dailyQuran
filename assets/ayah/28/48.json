@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Qasas",
+    "surahNameArabic": "القصص",
+    "surahNameArabicLong": "سورة القصص",
+    "surahNameTranslation": "The Stories",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 28,
+    "ayahNo": 48,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/28_48.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/028048.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/28_48.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/028048.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/28_48.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/028048.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/28_48.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/028048.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/28_48.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/028048.mp3"
+        }
+    },
+    "english": "But when the truth came to them from Us, they said, “If only he was given the like of what Moses had been given.” Did they not deny what had been given to Moses earlier? They claimed, “Both ˹Scriptures˺ are works of magic, supporting each other!” Adding, “We truly deny both.”",
+    "arabic1": "فَلَمَّا جَآءَهُمُ ٱلْحَقُّ مِنْ عِندِنَا قَالُوا۟ لَوْلَآ أُوتِىَ مِثْلَ مَآ أُوتِىَ مُوسَىٰٓ ۚ أَوَلَمْ يَكْفُرُوا۟ بِمَآ أُوتِىَ مُوسَىٰ مِن قَبْلُ ۖ قَالُوا۟ سِحْرَانِ تَظَـٰهَرَا وَقَالُوٓا۟ إِنَّا بِكُلٍّ كَـٰفِرُونَ",
+    "arabic2": "فلما جاءهم الحق من عندنا قالوا لولا اوتي مثل ما اوتي موسى اولم يكفروا بما اوتي موسى من قبل قالوا سحران تظاهرا وقالوا انا بكل كافرون",
+    "bengali": "অতঃপর যখন আমার নিকট থেকে তাদের কাছে সত্য আসল তখন তারা বলল, ‘মূসাকে যা দেয়া হয়েছিল তাকে(মুহাম্মাদকে) কেন সেরূপ দেয়া হল না’? ইতঃপূর্বে মূসাকে যা দেয়া হয়েছিল তারা কি তা অস্বীকার করেনি? তারা বলেছিল, ‘দু’টিই যাদু, একটি অপরটিকে সাহায্য করে’। আর তারা বলেছিল, ‘আমরা সবই অস্বীকারকারী’।",
+    "urdu": "پھر جب اُن کے پاس ہماری طرف سے حق آپہنچا تو کہنے لگے کہ جیسی (نشانیاں) موسٰی کو ملی تھیں ویسی اس کو کیوں نہیں ملیں۔ کیا جو (نشانیاں) پہلے موسٰی کو دی گئی تھیں اُنہوں نے اُن سے کفر نہیں کیا۔ کہنے لگے کہ دونوں جادوگر ہیں ایک دوسرے کے موافق۔ اور بولے کہ ہم سب سے منکر ہیں"
+}

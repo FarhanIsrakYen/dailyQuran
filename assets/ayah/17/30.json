@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 30,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/17_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/017030.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/17_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/017030.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/17_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/017030.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/17_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/017030.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/17_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/017030.mp3"
+        }
+    },
+    "english": "Surely your Lord gives abundant or limited provisions to whoever He wills. He is certainly All-Aware, All-Seeing of His servants.",
+    "arabic1": "إِنَّ رَبَّكَ يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ وَيَقْدِرُ ۚ إِنَّهُۥ كَانَ بِعِبَادِهِۦ خَبِيرًۢا بَصِيرًا",
+    "arabic2": "ان ربك يبسط الرزق لمن يشاء ويقدر انه كان بعباده خبيرا بصيرا",
+    "bengali": "নিশ্চয় তোমার রব যাকে ইচ্ছা তার জন্য রিয্ক প্রশস্ত করে দেন এবং সীমিত করে দেন। তিনি অবশ্যই তাঁর বান্দাদের সম্পর্কে পূর্ণ জ্ঞাত, পূর্ণ দ্রষ্টা।",
+    "urdu": "بےشک تمہارا پروردگار جس کی روزی چاہتا ہے فراخ کردیتا ہے اور (جس کی روزی چاہتا ہے) تنگ کردیتا ہے وہ اپنے بندوں سے خبردار ہے اور (ان کو) دیکھ رہا ہے"
+}

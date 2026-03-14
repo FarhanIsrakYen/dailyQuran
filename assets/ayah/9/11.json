@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 11,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/9_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/009011.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/9_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/009011.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/9_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/009011.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/9_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/009011.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/9_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/009011.mp3"
+        }
+    },
+    "english": "But if they repent, perform prayer, and pay alms-tax, then they are your brothers in faith. This is how We make the revelations clear for people of knowledge.",
+    "arabic1": "فَإِن تَابُوا۟ وَأَقَامُوا۟ ٱلصَّلَوٰةَ وَءَاتَوُا۟ ٱلزَّكَوٰةَ فَإِخْوَٰنُكُمْ فِى ٱلدِّينِ ۗ وَنُفَصِّلُ ٱلْـَٔايَـٰتِ لِقَوْمٍ يَعْلَمُونَ",
+    "arabic2": "فان تابوا واقاموا الصلاة واتوا الزكاة فاخوانكم في الدين ونفصل الايات لقوم يعلمون",
+    "bengali": "অতএব যদি তারা তাওবা করে, সালাত কায়েম করে এবং যাকাত প্রদান করে, তবে দীনের মধ্যে তারা তোমাদের ভাই। আর আমি আয়াতসমূহ যথাযথভাবে বর্ণনা করি এমন কওমের জন্য যারা জানে।",
+    "urdu": "اگر یہ توبہ کرلیں اور نماز پڑھنے اور زکوٰة دینے لگیں تو دین میں تمہارے بھائی ہیں۔ اور سمجھنے والے لوگوں کے لیے ہم اپنی آیتیں کھول کھول کر بیان کرتے ہیں"
+}

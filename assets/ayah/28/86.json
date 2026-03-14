@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Qasas",
+    "surahNameArabic": "القصص",
+    "surahNameArabicLong": "سورة القصص",
+    "surahNameTranslation": "The Stories",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 28,
+    "ayahNo": 86,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/28_86.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/028086.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/28_86.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/028086.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/28_86.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/028086.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/28_86.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/028086.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/28_86.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/028086.mp3"
+        }
+    },
+    "english": "You never expected this Book to be revealed to you, but ˹it came˺ only ˹as˺ a mercy from your Lord. So never side with the disbelievers ˹in their disbelief˺.",
+    "arabic1": "وَمَا كُنتَ تَرْجُوٓا۟ أَن يُلْقَىٰٓ إِلَيْكَ ٱلْكِتَـٰبُ إِلَّا رَحْمَةً مِّن رَّبِّكَ ۖ فَلَا تَكُونَنَّ ظَهِيرًا لِّلْكَـٰفِرِينَ",
+    "arabic2": "وما كنت ترجو ان يلقى اليك الكتاب الا رحمة من ربك فلا تكونن ظهيرا للكافرين",
+    "bengali": "আর তুমি আশা করছিলে না যে, তোমার প্রতি কিতাব (কুরআন) নাযিল করা হবে, বরং তা তোমার রবের পক্ষ থেকে রহমতস্বরূপ। অতএব, তুমি কখনো কাফিরদের জন্য সাহায্যকারী হয়ো না।",
+    "urdu": "اور تمہیں اُمید نہ تھی کہ تم پر کتاب نازل کی جائے گی۔ مگر تمہارے پروردگار کی مہربانی سے (نازل ہوئی) تو تم ہرگز کافروں کے مددگار نہ ہونا"
+}

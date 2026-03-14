@@ -1,0 +1,42 @@
+{
+    "surahName": "Yaseen",
+    "surahNameArabic": "يس",
+    "surahNameArabicLong": "سورة يس",
+    "surahNameTranslation": "Yaseen",
+    "revelationPlace": "Mecca",
+    "totalAyah": 83,
+    "surahNo": 36,
+    "ayahNo": 45,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/36_45.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/036045.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/36_45.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/036045.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/36_45.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/036045.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/36_45.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/036045.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/36_45.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/036045.mp3"
+        }
+    },
+    "english": "˹Still they turn away˺ when it is said to them, “Beware of what is ahead of you ˹in the Hereafter˺ and what is behind you ˹of destroyed nations˺ so you may be shown mercy.”",
+    "arabic1": "وَإِذَا قِيلَ لَهُمُ ٱتَّقُوا۟ مَا بَيْنَ أَيْدِيكُمْ وَمَا خَلْفَكُمْ لَعَلَّكُمْ تُرْحَمُونَ",
+    "arabic2": "واذا قيل لهم اتقوا ما بين ايديكم وما خلفكم لعلكم ترحمون",
+    "bengali": "আর যখন তাদেরকে বলা হয়, যা তোমাদের সামনে আছে এবং যা তোমাদের পিছনে আছে সে বিষয়ে সতর্ক হও, যাতে তোমাদের প্রতি অনুগ্রহ করা যায়।",
+    "urdu": "اور جب ان سے کہا جاتا ہے کہ جو تمہارے آگے اور جو تمہارے پیچھے ہے اس سے ڈرو تاکہ تم پر رحم کیا جائے"
+}

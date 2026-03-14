@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 229,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_229.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002229.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_229.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002229.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_229.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002229.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_229.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002229.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_229.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002229.mp3"
+        }
+    },
+    "english": "Divorce may be retracted twice, then the husband must retain ˹his wife˺ with honour or separate ˹from her˺ with grace. It is not lawful for husbands to take back anything of the dowry given to their wives, unless the couple fears not being able to keep within the limits of Allah. So if you fear they will not be able to keep within the limits of Allah, there is no blame if the wife compensates the husband to obtain divorce. These are the limits set by Allah, so do not transgress them. And whoever transgresses the limits of Allah, they are the ˹true˺ wrongdoers.",
+    "arabic1": "ٱلطَّلَـٰقُ مَرَّتَانِ ۖ فَإِمْسَاكٌۢ بِمَعْرُوفٍ أَوْ تَسْرِيحٌۢ بِإِحْسَـٰنٍ ۗ وَلَا يَحِلُّ لَكُمْ أَن تَأْخُذُوا۟ مِمَّآ ءَاتَيْتُمُوهُنَّ شَيْـًٔا إِلَّآ أَن يَخَافَآ أَلَّا يُقِيمَا حُدُودَ ٱللَّهِ ۖ فَإِنْ خِفْتُمْ أَلَّا يُقِيمَا حُدُودَ ٱللَّهِ فَلَا جُنَاحَ عَلَيْهِمَا فِيمَا ٱفْتَدَتْ بِهِۦ ۗ تِلْكَ حُدُودُ ٱللَّهِ فَلَا تَعْتَدُوهَا ۚ وَمَن يَتَعَدَّ حُدُودَ ٱللَّهِ فَأُو۟لَـٰٓئِكَ هُمُ ٱلظَّـٰلِمُونَ",
+    "arabic2": "الطلاق مرتان فامساك بمعروف او تسريح باحسان ولا يحل لكم ان تاخذوا مما اتيتموهن شيئا الا ان يخافا الا يقيما حدود الله فان خفتم الا يقيما حدود الله فلا جناح عليهما فيما افتدت به تلك حدود الله فلا تعتدوها ومن يتعد حدود الله فاولئك هم الظالمون",
+    "bengali": "তালাক দু’বার। অতঃপর বিধি মোতাবেক রেখে দেবে কিংবা সুন্দরভাবে ছেড়ে দেবে। আর তোমাদের জন্য হালাল নয় যে, তোমরা তাদেরকে যা দিয়েছ, তা থেকে কিছু নিয়ে নেবে। তবে উভয়ে যদি আশঙ্কা করে যে, আল্লাহর সীমারেখায় তারা অবস্থান করতে পারবে না। সুতরাং তোমরা যদি আশঙ্কা কর যে, তারা আল্লাহর সীমারেখা কায়েম রাখতে পারবে না তাহলে স্ত্রী যা দিয়ে নিজকে মুক্ত করে নেবে তাতে কোন সমস্যা নেই। এটা আল্লাহর সীমারেখা। সুতরাং তোমরা তা লঙ্ঘন করো না। আর যে আল্লাহর সীমারেখাসমূহ লঙ্ঘন করে, বস্তুত তারাই যালিম।",
+    "urdu": "طلاق (صرف) دوبار ہے (یعنی جب دو دفعہ طلاق دے دی جائے تو) پھر (عورتوں کو) یا تو بطریق شائستہ (نکاح میں) رہنے دینا یا بھلائی کے ساتھ چھوڑ دینا۔ اور یہ جائز نہیں کہ جو مہر تم ان کو دے چکے ہو اس میں سے کچھ واپس لے لو۔ ہاں اگر زن و شوہر کو خوف ہو کہ وہ خدا کی حدوں کو قائم نہیں رکھ سکیں گے تو اگر عورت (خاوند کے ہاتھ سے) رہائی پانے کے بدلے میں کچھ دے ڈالے تو دونوں پر کچھ گناہ نہیں۔ یہ خدا کی (مقرر کی ہوئی) حدیں ہیں ان سے باہر نہ نکلنا۔ اور جو لوگ خدا کی حدوں سے باہر نکل جائیں گے وہ گنہگار ہوں گے"
+}

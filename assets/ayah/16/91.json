@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nahl",
+    "surahNameArabic": "النحل",
+    "surahNameArabicLong": "سورة النحل",
+    "surahNameTranslation": "The Bee",
+    "revelationPlace": "Mecca",
+    "totalAyah": 128,
+    "surahNo": 16,
+    "ayahNo": 91,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/16_91.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/016091.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/16_91.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/016091.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/16_91.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/016091.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/16_91.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/016091.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/16_91.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/016091.mp3"
+        }
+    },
+    "english": "Honour Allah’s covenant when you make a pledge, and do not break your oaths after confirming them, having made Allah your guarantor. Surely Allah knows all you do.",
+    "arabic1": "وَأَوْفُوا۟ بِعَهْدِ ٱللَّهِ إِذَا عَـٰهَدتُّمْ وَلَا تَنقُضُوا۟ ٱلْأَيْمَـٰنَ بَعْدَ تَوْكِيدِهَا وَقَدْ جَعَلْتُمُ ٱللَّهَ عَلَيْكُمْ كَفِيلًا ۚ إِنَّ ٱللَّهَ يَعْلَمُ مَا تَفْعَلُونَ",
+    "arabic2": "واوفوا بعهد الله اذا عاهدتم ولا تنقضوا الايمان بعد توكيدها وقد جعلتم الله عليكم كفيلا ان الله يعلم ما تفعلون",
+    "bengali": "আর তোমরা যখন অঙ্গীকার কর তখন আল্লাহর অঙ্গীকার পূর্ণ কর। তোমরা পাকাপোক্ত অঙ্গীকার করার পর তা ভঙ্গ করো না এবং প্রকৃত পক্ষে তোমরা নিজদের জন্য আল্লাহকে জিম্মাদার বানিয়েছ। নিশ্চয় আল্লাহ জানেন, যা তোমরা কর।",
+    "urdu": "اور جب خدا سے عہد واثق کرو تو اس کو پورا کرو اور جب پکی قسمیں کھاؤ تو اُن کو مت توڑو کہ تم خدا کو اپنا ضامن مقرر کرچکے ہو۔ اور جو کچھ تم کرتے ہو خدا اس کو جانتا ہے"
+}

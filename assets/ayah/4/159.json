@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 159,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/4_159.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/004159.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/4_159.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/004159.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/4_159.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/004159.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/4_159.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/004159.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/4_159.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/004159.mp3"
+        }
+    },
+    "english": "Every one of the People of the Book will definitely believe in him before his death. And on the Day of Judgment Jesus will be a witness against them.",
+    "arabic1": "وَإِن مِّنْ أَهْلِ ٱلْكِتَـٰبِ إِلَّا لَيُؤْمِنَنَّ بِهِۦ قَبْلَ مَوْتِهِۦ ۖ وَيَوْمَ ٱلْقِيَـٰمَةِ يَكُونُ عَلَيْهِمْ شَهِيدًا",
+    "arabic2": "وان من اهل الكتاب الا ليؤمنن به قبل موته ويوم القيامة يكون عليهم شهيدا",
+    "bengali": "কিতাবীদের মধ্যে এমন কেউ নেই, যে তার মৃত্যুর পূর্বে তার প্রতি ঈমান আনবে না* এবং কিয়ামতের দিনে সে তাদের বিরুদ্ধে সাক্ষী হবে। \n* কিয়ামতের পূর্বে ঈসা আঃ যখন অবতরণ করবেন, তখন সে যুগের ইয়াহূদী ও নাসারারা পুরো বিষয়টি উপলব্ধি করতে সক্ষম হবে এবং সকলেই মৃত্যুর মুহূর্তে তাঁর প্রতি ঈমান আনবে; কিন্তু ফির‘আউনের মত তাদের ঈমান তখন কোন কাজে আসবে না।",
+    "urdu": "اور کوئی اہل کتاب نہیں ہوگا مگر ان کی موت سے پہلے ان پر ایمان لے آئے گا۔ اور وہ قیامت کے دن ان پر گواہ ہوں گے"
+}

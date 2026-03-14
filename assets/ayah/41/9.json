@@ -1,0 +1,42 @@
+{
+    "surahName": "Fussilat",
+    "surahNameArabic": "فصلت",
+    "surahNameArabicLong": "سورة فصلت",
+    "surahNameTranslation": "Explained in detail",
+    "revelationPlace": "Mecca",
+    "totalAyah": 54,
+    "surahNo": 41,
+    "ayahNo": 9,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/41_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/041009.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/41_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/041009.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/41_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/041009.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/41_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/041009.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/41_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/041009.mp3"
+        }
+    },
+    "english": "Ask ˹them, O  Prophet˺, “How can you disbelieve in the One Who created the earth in two Days? And how can you set up equals with Him? That is the Lord of all worlds.",
+    "arabic1": "۞ قُلْ أَئِنَّكُمْ لَتَكْفُرُونَ بِٱلَّذِى خَلَقَ ٱلْأَرْضَ فِى يَوْمَيْنِ وَتَجْعَلُونَ لَهُۥٓ أَندَادًا ۚ ذَٰلِكَ رَبُّ ٱلْعَـٰلَمِينَ",
+    "arabic2": "قل ائنكم لتكفرون بالذي خلق الارض في يومين وتجعلون له اندادا ذلك رب العالمين",
+    "bengali": "বল, ‘তোমরা কি তাঁকে অস্বীকার করবে যিনি দু’দিনে যমীন সৃষ্টি করেছেন? আর তোমরা কি তাঁর সমকক্ষ বানাতে চাচ্ছ? তিনিই সৃষ্টিকুলের রব’।",
+    "urdu": "کہو کیا تم اس سے انکار کرتے ہو جس نے زمین کو دو دن میں پیدا کیا۔ اور (بتوں کو) اس کا مدمقابل بناتے ہو۔ وہی تو سارے جہان کا مالک ہے"
+}

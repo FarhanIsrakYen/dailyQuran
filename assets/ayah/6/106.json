@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 106,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/6_106.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/006106.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/6_106.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/006106.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/6_106.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/006106.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/6_106.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/006106.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/6_106.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/006106.mp3"
+        }
+    },
+    "english": "˹O Prophet!˺ Follow what is revealed to you from your Lord—there is no god ˹worthy of worship˺ except Him—and turn away from the polytheists.",
+    "arabic1": "ٱتَّبِعْ مَآ أُوحِىَ إِلَيْكَ مِن رَّبِّكَ ۖ لَآ إِلَـٰهَ إِلَّا هُوَ ۖ وَأَعْرِضْ عَنِ ٱلْمُشْرِكِينَ",
+    "arabic2": "اتبع ما اوحي اليك من ربك لا اله الا هو واعرض عن المشركين",
+    "bengali": "তুমি অনুসরণ কর তার, তোমার প্রতি যা ওহী প্রেরণ করা হয়েছে তোমার রবের পক্ষ থেকে। তিনি ছাড়া কোন (সত্য) ইলাহ নেই। আর মুশরিকদের থেকে তুমি বিমুখ থাক।",
+    "urdu": "اور جو حکم تمہارے پروردگار کی طرف سے تمہارے پاس آتا ہے اسی کی پیروی کرو۔ اس (پروردگار) کے سوا کوئی معبود نہیں۔ اور مشرکوں سے کنارہ کرلو"
+}

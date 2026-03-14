@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Maaida",
+    "surahNameArabic": "المائدة",
+    "surahNameArabicLong": "سورة المائدة",
+    "surahNameTranslation": "The Table",
+    "revelationPlace": "Madina",
+    "totalAyah": 120,
+    "surahNo": 5,
+    "ayahNo": 44,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/5_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/005044.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/5_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/005044.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/5_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/005044.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/5_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/005044.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/5_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/005044.mp3"
+        }
+    },
+    "english": "Indeed, We revealed the Torah, containing guidance and light, by which the prophets, who submitted themselves to Allah, made judgments for Jews. So too did the rabbis and scholars judge according to Allah’s Book, with which they were entrusted and of which they were made keepers. So do not fear the people; fear Me! Nor trade my revelations for a fleeting gain. And those who do not judge by what Allah has revealed are ˹truly˺ the disbelievers.",
+    "arabic1": "إِنَّآ أَنزَلْنَا ٱلتَّوْرَىٰةَ فِيهَا هُدًى وَنُورٌ ۚ يَحْكُمُ بِهَا ٱلنَّبِيُّونَ ٱلَّذِينَ أَسْلَمُوا۟ لِلَّذِينَ هَادُوا۟ وَٱلرَّبَّـٰنِيُّونَ وَٱلْأَحْبَارُ بِمَا ٱسْتُحْفِظُوا۟ مِن كِتَـٰبِ ٱللَّهِ وَكَانُوا۟ عَلَيْهِ شُهَدَآءَ ۚ فَلَا تَخْشَوُا۟ ٱلنَّاسَ وَٱخْشَوْنِ وَلَا تَشْتَرُوا۟ بِـَٔايَـٰتِى ثَمَنًا قَلِيلًا ۚ وَمَن لَّمْ يَحْكُم بِمَآ أَنزَلَ ٱللَّهُ فَأُو۟لَـٰٓئِكَ هُمُ ٱلْكَـٰفِرُونَ",
+    "arabic2": "انا انزلنا التوراة فيها هدى ونور يحكم بها النبيون الذين اسلموا للذين هادوا والربانيون والاحبار بما استحفظوا من كتاب الله وكانوا عليه شهداء فلا تخشوا الناس واخشون ولا تشتروا باياتي ثمنا قليلا ومن لم يحكم بما انزل الله فاولئك هم الكافرون",
+    "bengali": "নিশ্চয় আমি তাওরাত নাযিল করেছি, তাতে ছিল হিদায়াত ও আলো, এর মাধ্যমে ইয়াহূদীদের জন্য ফয়সালা প্রদান করত অনুগত নবীগণ এবং রববানী ও ধর্মবিদগণ। কারণ তাদেরকে আল্লাহর কিতাবের রক্ষক করা হয়েছিল এবং তারা ছিল এর উপর সাক্ষী। সুতরাং তোমরা মানুষকে ভয় করো না, আমাকে ভয় কর এবং আমার আয়াতসমূহের বিনিময়ে সামান্য মূল্য ক্রয় করো না। আর যারা আল্লাহ যা নাযিল করেছেন, তার মাধ্যমে ফয়সালা করে না, তারাই কাফির।",
+    "urdu": "بیشک ہم نے توریت نازل فرمائی جس میں ہدایت اور روشنی ہے اسی کے مطابق انبیاء جو (خدا کے) فرمانبردار تھے یہودیوں کو حکم دیتے رہے ہیں اور مشائخ اور علماء بھی کیونکہ وہ کتاب خدا کے نگہبان مقرر کیے گئے تھے اور اس پر گواہ تھے (یعنی حکم الہٰی کا یقین رکھتے تھے) تو تم لوگوں سے مت ڈرنا اور مجھی سے ڈرتے رہنا اور میری آیتوں کے بدلے تھوڑی سی قیمت نہ لینا اور جو خدا کے نازل فرمائے ہوئے احکام کے مطابق حکم نہ دے تو ایسے ہی لوگ کافر ہیں"
+}

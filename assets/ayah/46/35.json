@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Ahqaf",
+    "surahNameArabic": "الأحقاف",
+    "surahNameArabicLong": "سورة الأحقاف",
+    "surahNameTranslation": "The Dunes",
+    "revelationPlace": "Mecca",
+    "totalAyah": 35,
+    "surahNo": 46,
+    "ayahNo": 35,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/46_35.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/046035.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/46_35.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/046035.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/46_35.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/046035.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/46_35.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/046035.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/46_35.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/046035.mp3"
+        }
+    },
+    "english": "So endure patiently, as did the Messengers of Firm Resolve. And do not ˹seek to˺ hasten ˹the torment˺ for the deniers. On the Day they see what they have been threatened with, it will be as if they had only stayed ˹in this world˺ for an hour of a day. ˹This is˺ a ˹sufficient˺ warning! Then, will anyone be destroyed except the rebellious people?",
+    "arabic1": "فَٱصْبِرْ كَمَا صَبَرَ أُو۟لُوا۟ ٱلْعَزْمِ مِنَ ٱلرُّسُلِ وَلَا تَسْتَعْجِل لَّهُمْ ۚ كَأَنَّهُمْ يَوْمَ يَرَوْنَ مَا يُوعَدُونَ لَمْ يَلْبَثُوٓا۟ إِلَّا سَاعَةً مِّن نَّهَارٍۭ ۚ بَلَـٰغٌ ۚ فَهَلْ يُهْلَكُ إِلَّا ٱلْقَوْمُ ٱلْفَـٰسِقُونَ",
+    "arabic2": "فاصبر كما صبر اولو العزم من الرسل ولا تستعجل لهم كانهم يوم يرون ما يوعدون لم يلبثوا الا ساعة من نهار بلاغ فهل يهلك الا القوم الفاسقون",
+    "bengali": "অতএব তুমি ধৈর্যধারণ কর, যেমন ধৈর্যধারণ করেছিল সুদৃঢ় সংকল্পের অধিকারী রাসূলগণ। আর তাদের জন্য তাড়াহুড়া করো না। তাদেরকে যে বিষয়ে সতর্ক করা হয়েছিল, যেদিন তারা তা প্রত্যক্ষ করবে, মনে হবে তারা পৃথিবীতে এক দিনের কিছু সময় অবস্থান করেছে। সুতরাং এটা এক ঘোষণা, তাই পাপাচারী কওমকেই ধ্বংস করা হবে।",
+    "urdu": "پس (اے محمدﷺ) جس طرح اور عالی ہمت پیغمبر صبر کرتے رہے ہیں اسی طرح تم بھی صبر کرو اور ان کے لئے (عذاب) جلدی نہ مانگو۔ جس دن یہ اس چیز کو دیکھیں گے جس کا ان سے وعدہ کیا جاتا ہے تو (خیال کریں گے کہ) گویا (دنیا میں) رہے ہی نہ تھے مگر گھڑی بھر دن۔ (یہ قرآن) پیغام ہے۔ سو (اب) وہی ہلاک ہوں گے جو نافرمان تھے"
+}

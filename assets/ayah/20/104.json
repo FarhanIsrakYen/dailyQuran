@@ -1,0 +1,42 @@
+{
+    "surahName": "Taa-Haa",
+    "surahNameArabic": "طه",
+    "surahNameArabicLong": "سورة طه",
+    "surahNameTranslation": "Taa-Haa",
+    "revelationPlace": "Mecca",
+    "totalAyah": 135,
+    "surahNo": 20,
+    "ayahNo": 104,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/20_104.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/020104.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/20_104.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/020104.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/20_104.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/020104.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/20_104.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/020104.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/20_104.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/020104.mp3"
+        }
+    },
+    "english": "We know best what they will say—the most reasonable of them will say, “You stayed no more than a day.”",
+    "arabic1": "نَّحْنُ أَعْلَمُ بِمَا يَقُولُونَ إِذْ يَقُولُ أَمْثَلُهُمْ طَرِيقَةً إِن لَّبِثْتُمْ إِلَّا يَوْمًا",
+    "arabic2": "نحن اعلم بما يقولون اذ يقول امثلهم طريقة ان لبثتم الا يوما",
+    "bengali": "আমি ভালভাবেই জানি তারা কী বলবে, তাদের মধ্যে অপেক্ষাকৃত সৎপথে ছিল যে লোকটি সে বলবে, ‘তোমরা মাত্র একদিন অবস্থান করেছিলে’!",
+    "urdu": "جو باتیں یہ کریں گے ہم خوب جانتے ہیں۔ اس وقت ان میں سب سے اچھی راہ والا (یعنی عاقل وہوشمند) کہے گا کہ (نہیں بلکہ) صرف ایک ہی روز ٹھہرے ہو"
+}

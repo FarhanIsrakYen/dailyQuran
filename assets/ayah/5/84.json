@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Maaida",
+    "surahNameArabic": "المائدة",
+    "surahNameArabicLong": "سورة المائدة",
+    "surahNameTranslation": "The Table",
+    "revelationPlace": "Madina",
+    "totalAyah": 120,
+    "surahNo": 5,
+    "ayahNo": 84,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/5_84.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/005084.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/5_84.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/005084.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/5_84.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/005084.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/5_84.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/005084.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/5_84.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/005084.mp3"
+        }
+    },
+    "english": "Why should we not believe in Allah and the truth that has come to us? And we long for our Lord to include us in the company of the righteous.”",
+    "arabic1": "وَمَا لَنَا لَا نُؤْمِنُ بِٱللَّهِ وَمَا جَآءَنَا مِنَ ٱلْحَقِّ وَنَطْمَعُ أَن يُدْخِلَنَا رَبُّنَا مَعَ ٱلْقَوْمِ ٱلصَّـٰلِحِينَ",
+    "arabic2": "وما لنا لا نؤمن بالله وما جاءنا من الحق ونطمع ان يدخلنا ربنا مع القوم الصالحين",
+    "bengali": "আর আমাদের কী হয়েছে যে, আমরা আল্লাহর প্রতি এবং যে সত্য আমাদের কাছে এসেছে তার প্রতি ঈমান আনব না? আর আমরা আশা করব না যে, আমাদের রব আমাদেরকে প্রবেশ করাবেন নেককার সম্প্রদায়ের সাথে’।",
+    "urdu": "اور ہمیں کیا ہوا ہے کہ خدا پر اور حق بات پر جو ہمارے پاس آئی ہے ایمان نہ لائیں اور ہم امید رکھتے ہیں کہ پروردگار ہم کو نیک بندوں کے ساتھ (بہشت میں) داخل کرے گا"
+}

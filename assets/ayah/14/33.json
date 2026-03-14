@@ -1,0 +1,42 @@
+{
+    "surahName": "Ibrahim",
+    "surahNameArabic": "ابراهيم",
+    "surahNameArabicLong": "سورة ابراهيم",
+    "surahNameTranslation": "Abraham",
+    "revelationPlace": "Mecca",
+    "totalAyah": 52,
+    "surahNo": 14,
+    "ayahNo": 33,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/14_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/014033.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/14_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/014033.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/14_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/014033.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/14_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/014033.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/14_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/014033.mp3"
+        }
+    },
+    "english": "He has ˹also˺ subjected for you the sun and the moon, both constantly orbiting, and has subjected the day and night for you.",
+    "arabic1": "وَسَخَّرَ لَكُمُ ٱلشَّمْسَ وَٱلْقَمَرَ دَآئِبَيْنِ ۖ وَسَخَّرَ لَكُمُ ٱلَّيْلَ وَٱلنَّهَارَ",
+    "arabic2": "وسخر لكم الشمس والقمر دائبين وسخر لكم الليل والنهار",
+    "bengali": "আর তিনি সূর্য ও চাঁদকে তোমাদের জন্য নিয়োজিত করেছেন বিরামহীনভাবে এবং তোমাদের জন্য নিয়োজিত করেছেন রাত ও দিনকে।",
+    "urdu": "اور سورج اور چاند کو تمہارے لیے کام میں لگا دیا کہ دونوں (دن رات) ایک دستور پر چل رہے ہیں۔ اور رات اور دن کو بھی تمہاری خاطر کام میں لگا دیا"
+}

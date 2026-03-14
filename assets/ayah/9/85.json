@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 85,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/9_85.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/009085.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/9_85.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/009085.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/9_85.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/009085.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/9_85.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/009085.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/9_85.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/009085.mp3"
+        }
+    },
+    "english": "And let neither their wealth nor children impress you ˹O Prophet˺. Allah only intends to torment them through these things in this world, and ˹then˺ their souls will depart while they are disbelievers.",
+    "arabic1": "وَلَا تُعْجِبْكَ أَمْوَٰلُهُمْ وَأَوْلَـٰدُهُمْ ۚ إِنَّمَا يُرِيدُ ٱللَّهُ أَن يُعَذِّبَهُم بِهَا فِى ٱلدُّنْيَا وَتَزْهَقَ أَنفُسُهُمْ وَهُمْ كَـٰفِرُونَ",
+    "arabic2": "ولا تعجبك اموالهم واولادهم انما يريد الله ان يعذبهم بها في الدنيا وتزهق انفسهم وهم كافرون",
+    "bengali": "আর তোমাকে যেন মুগ্ধ না করে তাদের ধন-সম্পদ ও সন্তান-সন্ততি, আল্লাহ এর দ্বারা কেবল তাদের দুনিয়ার জীবনে আযাব দিতে চান এবং কাফির অবস্থায় তাদের জান বের হয়ে যাবে।",
+    "urdu": "ان کے اولاد اور مال سے تعجب نہ کرنا۔ ان چیزوں سے خدا یہ چاہتا ہے کہ ان کو دنیا میں عذاب کرے اور (جب) ان کی جان نکلے تو (اس وقت بھی) یہ کافر ہی ہوں"
+}

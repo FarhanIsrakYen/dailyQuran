@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Muminoon",
+    "surahNameArabic": "المؤمنون",
+    "surahNameArabicLong": "سورة المؤمنون",
+    "surahNameTranslation": "The Believers",
+    "revelationPlace": "Mecca",
+    "totalAyah": 118,
+    "surahNo": 23,
+    "ayahNo": 72,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/23_72.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/023072.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/23_72.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/023072.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/23_72.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/023072.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/23_72.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/023072.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/23_72.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/023072.mp3"
+        }
+    },
+    "english": "Or ˹is it because˺ you ˹O Prophet˺ are asking them for tribute? But the reward of your Lord is best, for He is the Best Provider.",
+    "arabic1": "أَمْ تَسْـَٔلُهُمْ خَرْجًا فَخَرَاجُ رَبِّكَ خَيْرٌ ۖ وَهُوَ خَيْرُ ٱلرَّٰزِقِينَ",
+    "arabic2": "ام تسالهم خرجا فخراج ربك خير وهو خير الرازقين",
+    "bengali": "নাকি তুমি তাদের কাছে কোন প্রতিদান চাও? তবে তোমার রবের প্রতিদান সর্বোত্তম। আর তিনিই সর্বোত্তম রিয্কদাতা।",
+    "urdu": "کیا تم ان سے (تبلیغ کے صلے میں) کچھ مال مانگتے ہو، تو تمہارا پروردگار کا مال بہت اچھا ہے اور وہ سب سے بہتر رزق دینے والا ہے"
+}

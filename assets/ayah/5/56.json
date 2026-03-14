@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Maaida",
+    "surahNameArabic": "المائدة",
+    "surahNameArabicLong": "سورة المائدة",
+    "surahNameTranslation": "The Table",
+    "revelationPlace": "Madina",
+    "totalAyah": 120,
+    "surahNo": 5,
+    "ayahNo": 56,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/5_56.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/005056.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/5_56.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/005056.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/5_56.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/005056.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/5_56.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/005056.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/5_56.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/005056.mp3"
+        }
+    },
+    "english": "Whoever allies themselves with Allah, His Messenger, and fellow believers, then it is certainly Allah’s party that will prevail.",
+    "arabic1": "وَمَن يَتَوَلَّ ٱللَّهَ وَرَسُولَهُۥ وَٱلَّذِينَ ءَامَنُوا۟ فَإِنَّ حِزْبَ ٱللَّهِ هُمُ ٱلْغَـٰلِبُونَ",
+    "arabic2": "ومن يتول الله ورسوله والذين امنوا فان حزب الله هم الغالبون",
+    "bengali": "আর যে আল্লাহ, তাঁর রাসূল ও মুমিনদের সাথে বন্ধুত্ব করে, তবে নিশ্চয় আল্লাহর দলই বিজয়ী।",
+    "urdu": "اور جو شخص خدا اور اس کے پیغمبر اور مومنوں سے دوستی کرے گا تو (وہ خدا کی جماعت میں داخل ہوگا اور) خدا کی جماعت ہی غلبہ پانے والی ہے"
+}

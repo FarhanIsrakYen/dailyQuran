@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Kahf",
+    "surahNameArabic": "الكهف",
+    "surahNameArabicLong": "سورة الكهف",
+    "surahNameTranslation": "The Cave",
+    "revelationPlace": "Mecca",
+    "totalAyah": 110,
+    "surahNo": 18,
+    "ayahNo": 39,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/18_39.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/018039.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/18_39.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/018039.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/18_39.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/018039.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/18_39.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/018039.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/18_39.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/018039.mp3"
+        }
+    },
+    "english": "If only you had said, upon entering your property, ‘This is what Allah has willed! There is no power except with Allah!’ Even though you see me inferior to you in wealth and offspring",
+    "arabic1": "وَلَوْلَآ إِذْ دَخَلْتَ جَنَّتَكَ قُلْتَ مَا شَآءَ ٱللَّهُ لَا قُوَّةَ إِلَّا بِٱللَّهِ ۚ إِن تَرَنِ أَنَا۠ أَقَلَّ مِنكَ مَالًا وَوَلَدًا",
+    "arabic2": "ولولا اذ دخلت جنتك قلت ما شاء الله لا قوة الا بالله ان ترن انا اقل منك مالا وولدا",
+    "bengali": "‘আর যখন তুমি তোমার বাগানে প্রবেশ করলে, তখন কেন তুমি বললে না, ‘মাশাআল্লাহ’! আল্লাহর তৌফিক ছাড়া কোন শক্তি নেই। তুমি যদি দেখ যে, আমি সম্পদে ও সন্তানে তোমার চেয়ে কম,",
+    "urdu": "اور (بھلا) جب تم اپنے باغ میں داخل ہوئے تو تم نے ماشاالله لاقوة الابالله کیوں نہ کہا۔ اگر تم مجھے مال واولاد میں اپنے سے کمتر دیکھتے ہو"
+}

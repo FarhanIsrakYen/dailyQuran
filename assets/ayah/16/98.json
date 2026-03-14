@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nahl",
+    "surahNameArabic": "النحل",
+    "surahNameArabicLong": "سورة النحل",
+    "surahNameTranslation": "The Bee",
+    "revelationPlace": "Mecca",
+    "totalAyah": 128,
+    "surahNo": 16,
+    "ayahNo": 98,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/16_98.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/016098.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/16_98.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/016098.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/16_98.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/016098.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/16_98.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/016098.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/16_98.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/016098.mp3"
+        }
+    },
+    "english": "When you recite the Quran, seek refuge with Allah from Satan, the accursed.",
+    "arabic1": "فَإِذَا قَرَأْتَ ٱلْقُرْءَانَ فَٱسْتَعِذْ بِٱللَّهِ مِنَ ٱلشَّيْطَـٰنِ ٱلرَّجِيمِ",
+    "arabic2": "فاذا قرات القران فاستعذ بالله من الشيطان الرجيم",
+    "bengali": "সুতরাং যখন তুমি কুরআন পড়বে তখন আল্লাহর কাছে বিতাড়িত শয়তান হতে পানাহ চাও।",
+    "urdu": "اور جب تم قرآن پڑھنے لگو تو شیطان مردود سے پناہ مانگ لیا کرو"
+}

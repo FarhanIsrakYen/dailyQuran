@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 58,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/7_58.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/007058.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/7_58.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/007058.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/7_58.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/007058.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/7_58.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/007058.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/7_58.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/007058.mp3"
+        }
+    },
+    "english": "The fertile land produces abundantly by the Will of its Lord, whereas the infertile land hardly produces anything. This is how We vary ˹Our˺ lessons to those who are thankful.",
+    "arabic1": "وَٱلْبَلَدُ ٱلطَّيِّبُ يَخْرُجُ نَبَاتُهُۥ بِإِذْنِ رَبِّهِۦ ۖ وَٱلَّذِى خَبُثَ لَا يَخْرُجُ إِلَّا نَكِدًا ۚ كَذَٰلِكَ نُصَرِّفُ ٱلْـَٔايَـٰتِ لِقَوْمٍ يَشْكُرُونَ",
+    "arabic2": "والبلد الطيب يخرج نباته باذن ربه والذي خبث لا يخرج الا نكدا كذلك نصرف الايات لقوم يشكرون",
+    "bengali": "আর উত্তম ভূমি- তার ফসল বের হয় তার রবের অনুমতিতে। আর যা নিকৃষ্ট, তাতে তো কমই উৎপন্ন হয়। এভাবেই আমি আয়াতসমূহ বিভিন্নভাবে বর্ণনা করি এমন কওমের জন্য, যারা কৃতজ্ঞ হয়।",
+    "urdu": "جو زمین پاکیزہ (ہے) اس میں سے سبزہ بھی پروردگار کے حکم سے (نفیس ہی) نکلتا ہے اور جو خراب ہے اس میں جو کچھ ہے ناقص ہوتا ہے۔ اسی طرح ہم آیتوں کو شکرگزار لوگوں کے لئے پھیر پھیر کر بیان کرتے ہیں"
+}

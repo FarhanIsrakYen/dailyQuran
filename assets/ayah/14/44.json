@@ -1,0 +1,42 @@
+{
+    "surahName": "Ibrahim",
+    "surahNameArabic": "ابراهيم",
+    "surahNameArabicLong": "سورة ابراهيم",
+    "surahNameTranslation": "Abraham",
+    "revelationPlace": "Mecca",
+    "totalAyah": 52,
+    "surahNo": 14,
+    "ayahNo": 44,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/14_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/014044.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/14_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/014044.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/14_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/014044.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/14_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/014044.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/14_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/014044.mp3"
+        }
+    },
+    "english": "And warn the people of the Day when the punishment will overtake ˹the wicked among˺ them, and the wrongdoers will cry, “Our Lord! Delay us for a little while. We will respond to Your call and follow the messengers!” ˹It will be said,˺ “Did you not swear before that you would never be removed ˹to the next life˺?”",
+    "arabic1": "وَأَنذِرِ ٱلنَّاسَ يَوْمَ يَأْتِيهِمُ ٱلْعَذَابُ فَيَقُولُ ٱلَّذِينَ ظَلَمُوا۟ رَبَّنَآ أَخِّرْنَآ إِلَىٰٓ أَجَلٍ قَرِيبٍ نُّجِبْ دَعْوَتَكَ وَنَتَّبِعِ ٱلرُّسُلَ ۗ أَوَلَمْ تَكُونُوٓا۟ أَقْسَمْتُم مِّن قَبْلُ مَا لَكُم مِّن زَوَالٍ",
+    "arabic2": "وانذر الناس يوم ياتيهم العذاب فيقول الذين ظلموا ربنا اخرنا الى اجل قريب نجب دعوتك ونتبع الرسل اولم تكونوا اقسمتم من قبل ما لكم من زوال",
+    "bengali": "আর তুমি মানুষদেরকে সতর্ক কর, যেদিন তাদের উপর আযাব নেমে আসবে। অতঃপর তখন যারা যুলম করেছে তারা বলবে, ‘হে আমাদের রব, তুমি আমাদেরকে কিছু সময়ের জন্য অবকাশ দাও, আমরা তোমার ডাকে সাড়া দেব এবং রাসূলদের অনুসরণ করব’। ইতঃপূর্বে তোমরা কি কসম করনি যে, তোমাদের কোন পতন নেই?",
+    "urdu": "اور لوگوں کو اس دن سے آگاہ کردو جب ان پر عذاب آجائے گا تب ظالم لوگ کہیں گے کہ اے ہمارے پروردگار ہمیں تھوڑی سی مدت مہلت عطا کر۔ تاکہ تیری دعوت (توحید) قبول کریں اور (تیرے) پیغمبروں کے پیچھے چلیں (تو جواب ملے گا) کیا تم پہلے قسمیں نہیں کھایا کرتے تھے کہ تم کو (اس حال سے جس میں تم ہو) زوال (اور قیامت کو حساب اعمال) نہیں ہوگا"
+}

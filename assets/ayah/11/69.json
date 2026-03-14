@@ -1,0 +1,42 @@
+{
+    "surahName": "Hud",
+    "surahNameArabic": "هود",
+    "surahNameArabicLong": "سورة هود",
+    "surahNameTranslation": "Hud",
+    "revelationPlace": "Mecca",
+    "totalAyah": 123,
+    "surahNo": 11,
+    "ayahNo": 69,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/11_69.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/011069.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/11_69.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/011069.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/11_69.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/011069.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/11_69.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/011069.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/11_69.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/011069.mp3"
+        }
+    },
+    "english": "And surely Our messenger-angels came to Abraham with good news ˹of a son˺. They greeted ˹him with˺, “Peace!” And he replied, “Peace ˹be upon you˺!” Then it was not long before he brought ˹them˺ a ˹fat,˺ roasted calf.",
+    "arabic1": "وَلَقَدْ جَآءَتْ رُسُلُنَآ إِبْرَٰهِيمَ بِٱلْبُشْرَىٰ قَالُوا۟ سَلَـٰمًا ۖ قَالَ سَلَـٰمٌ ۖ فَمَا لَبِثَ أَن جَآءَ بِعِجْلٍ حَنِيذٍ",
+    "arabic2": "ولقد جاءت رسلنا ابراهيم بالبشرى قالوا سلاما قال سلام فما لبث ان جاء بعجل حنيذ",
+    "bengali": "আর অবশ্যই আমার ফেরেশতারা সুসংবাদ নিয়ে ইবরাহীমের কাছে আসল, তারা বলল, ‘সালাম’। সেও বলল, ‘সালাম’। বিলম্ব না করে সে একটি ভুনা গো বাছুর নিয়ে আসল।",
+    "urdu": "اور ہمارے فرشتے ابراہیم کے پاس بشارت لے کر آئے تو سلام کہا۔ انہوں نے بھی (جواب میں) سلام کہا۔ ابھی کچھ وقفہ نہیں ہوا تھا کہ (ابراہیم) ایک بھنا ہوا بچھڑا لے آئے"
+}

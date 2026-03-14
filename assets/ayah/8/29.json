@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Anfaal",
+    "surahNameArabic": "الأنفال",
+    "surahNameArabicLong": "سورة الأنفال",
+    "surahNameTranslation": "The Spoils of War",
+    "revelationPlace": "Madina",
+    "totalAyah": 75,
+    "surahNo": 8,
+    "ayahNo": 29,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/8_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/008029.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/8_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/008029.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/8_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/008029.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/8_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/008029.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/8_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/008029.mp3"
+        }
+    },
+    "english": "O believers! If you are mindful of Allah, He will grant you a standard ˹to distinguish between right and wrong˺, absolve you of your sins, and forgive you. And Allah is the Lord of infinite bounty.",
+    "arabic1": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِن تَتَّقُوا۟ ٱللَّهَ يَجْعَل لَّكُمْ فُرْقَانًا وَيُكَفِّرْ عَنكُمْ سَيِّـَٔاتِكُمْ وَيَغْفِرْ لَكُمْ ۗ وَٱللَّهُ ذُو ٱلْفَضْلِ ٱلْعَظِيمِ",
+    "arabic2": "يا ايها الذين امنوا ان تتقوا الله يجعل لكم فرقانا ويكفر عنكم سيئاتكم ويغفر لكم والله ذو الفضل العظيم",
+    "bengali": "হে মুমিনগণ, যদি তোমরা আল্লাহকে ভয় কর তাহলে তিনি তোমাদের জন্য ফুরকান* প্রদান করবেন, তোমাদের থেকে তোমাদের পাপসমূহ দূর করবেন এবং তোমাদেরকে ক্ষমা করবেন। আর আল্লাহ মহা অনুগ্রহশীল। \n* অর্থাৎ তিনি তোমাদের মধ্যে আন্তরিক দৃঢ়তা, বিচক্ষণ ক্ষমতা ও সুন্দর হিদায়াত সৃষ্টি করে দেবেন যার মাধ্যমে তোমরা হক ও বাতিলের পার্থক্য করতে পারবে। (যুবদাতুত-তাফসীর)",
+    "urdu": "مومنو! اگر تم خدا سے ڈرو گے تو وہ تمہارے لیے امر فارق پیدا کردے گا (یعنی تم کو ممتاز کردے گا) تو وہ تمہارے گناہ مٹادے گا اور تمہیں بخش دے گا۔ اور خدا بڑا فضل والا ہے"
+}

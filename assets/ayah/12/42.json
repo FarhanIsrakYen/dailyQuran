@@ -1,0 +1,42 @@
+{
+    "surahName": "Yusuf",
+    "surahNameArabic": "يوسف",
+    "surahNameArabicLong": "سورة يوسف",
+    "surahNameTranslation": "Joseph",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 12,
+    "ayahNo": 42,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/12_42.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/012042.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/12_42.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/012042.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/12_42.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/012042.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/12_42.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/012042.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/12_42.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/012042.mp3"
+        }
+    },
+    "english": "Then he said to the one he knew would survive, “Mention me in the presence of your master.” But Satan made him forget to mention Joseph to his master, so he remained in prison for several years.",
+    "arabic1": "وَقَالَ لِلَّذِى ظَنَّ أَنَّهُۥ نَاجٍ مِّنْهُمَا ٱذْكُرْنِى عِندَ رَبِّكَ فَأَنسَىٰهُ ٱلشَّيْطَـٰنُ ذِكْرَ رَبِّهِۦ فَلَبِثَ فِى ٱلسِّجْنِ بِضْعَ سِنِينَ",
+    "arabic2": "وقال للذي ظن انه ناج منهما اذكرني عند ربك فانساه الشيطان ذكر ربه فلبث في السجن بضع سنين",
+    "bengali": "আর তাদের দু’জনের মধ্যে যে মুক্তি পাবে বলে সে ধারণা করল তাকে বলল, ‘তোমার মনিবের কাছে আমার কথা উল্লেখ করবে’। কিন্তু শয়তান তাকে স্বীয় মনিবের নিকট উল্লেখ করার বিষয়টি ভুলিয়ে দিল। ফলে সে কয়েক বছর কারাগারে অবস্থান করল।",
+    "urdu": "اور دونوں شخصوں میں سے جس کی نسبت (یوسف نے) خیال کیا کہ وہ رہائی پا جائے گا اس سے کہا کہ اپنے آقا سے میرا ذکر بھی کرنا لیکن شیطان نے ان کا اپنے آقا سے ذکر کرنا بھلا دیا اور یوسف کئی برس جیل خانے میں رہے"
+}

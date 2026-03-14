@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Ahzaab",
+    "surahNameArabic": "الأحزاب",
+    "surahNameArabicLong": "سورة الأحزاب",
+    "surahNameTranslation": "The Clans",
+    "revelationPlace": "Madina",
+    "totalAyah": 73,
+    "surahNo": 33,
+    "ayahNo": 52,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/33_52.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/033052.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/33_52.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/033052.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/33_52.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/033052.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/33_52.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/033052.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/33_52.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/033052.mp3"
+        }
+    },
+    "english": "It is not lawful for you ˹O Prophet˺ to marry more women after this, nor can you replace any of your present wives with another, even if her beauty may attract you—except those ˹bondwomen˺ in your possession. And Allah is ever Watchful over all things.",
+    "arabic1": "لَّا يَحِلُّ لَكَ ٱلنِّسَآءُ مِنۢ بَعْدُ وَلَآ أَن تَبَدَّلَ بِهِنَّ مِنْ أَزْوَٰجٍ وَلَوْ أَعْجَبَكَ حُسْنُهُنَّ إِلَّا مَا مَلَكَتْ يَمِينُكَ ۗ وَكَانَ ٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ رَّقِيبًا",
+    "arabic2": "لا يحل لك النساء من بعد ولا ان تبدل بهن من ازواج ولو اعجبك حسنهن الا ما ملكت يمينك وكان الله على كل شيء رقيبا",
+    "bengali": "এরপর তোমার জন্য (এদের অতিরিক্ত) অন্য স্ত্রী গ্রহণ হালাল নয় এবং তোমার স্ত্রীদের (তালাক দিয়ে) পরিবর্তে অন্য স্ত্রী গ্রহণ করাও হালাল নয়, যদিও অন্যদের সৌন্দর্য তোমাকে বিমোহিত করে; তবে তোমার মালিকানাধীন দাসী ছাড়া। আর আল্লাহ সকল কিছুর উপর সজাগ দৃষ্টি রাখেন।",
+    "urdu": "(اے پیغمبر) ان کے سوا اور عورتیں تم کو جائز نہیں اور نہ یہ کہ ان بیویوں کو چھوڑ کر اور بیویاں کرو خواہ ان کا حسن تم کو (کیسا ہی) اچھا لگے مگر وہ جو تمہارے ہاتھ کا مال ہے (یعنی لونڈیوں کے بارے میں تم کو اختیار ہے) اور خدا ہر چیز پر نگاہ رکھتا ہے"
+}

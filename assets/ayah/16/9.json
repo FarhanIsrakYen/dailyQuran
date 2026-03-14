@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nahl",
+    "surahNameArabic": "النحل",
+    "surahNameArabicLong": "سورة النحل",
+    "surahNameTranslation": "The Bee",
+    "revelationPlace": "Mecca",
+    "totalAyah": 128,
+    "surahNo": 16,
+    "ayahNo": 9,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/16_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/016009.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/16_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/016009.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/16_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/016009.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/16_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/016009.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/16_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/016009.mp3"
+        }
+    },
+    "english": "It is upon Allah ˹alone˺ to ˹clearly˺ show the Straight Way. Other ways are deviant. Had He willed, He would have easily imposed guidance upon all of you.",
+    "arabic1": "وَعَلَى ٱللَّهِ قَصْدُ ٱلسَّبِيلِ وَمِنْهَا جَآئِرٌ ۚ وَلَوْ شَآءَ لَهَدَىٰكُمْ أَجْمَعِينَ",
+    "arabic2": "وعلى الله قصد السبيل ومنها جائر ولو شاء لهداكم اجمعين",
+    "bengali": "আর সঠিক পথ বাতলে দেয়া আল্লাহর দায়িত্ব, এবং পথের মধ্যে কিছু আছে বক্র। আর তিনি যদি ইচ্ছা করতেন তবে তোমাদের সকলকে হিদায়াত করতেন।",
+    "urdu": "اور سیدھا رستہ تو خدا تک جا پہنچتا ہے۔ اور بعض رستے ٹیڑھے ہیں (وہ اس تک نہیں پہنچتے) اور اگر وہ چاہتا تو تم سب کو سیدھے رستے پر چلا دیتا"
+}

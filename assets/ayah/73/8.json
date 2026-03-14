@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Muzzammil",
+    "surahNameArabic": "المزمل",
+    "surahNameArabicLong": "سورة المزمل",
+    "surahNameTranslation": "The Enshrouded One",
+    "revelationPlace": "Mecca",
+    "totalAyah": 20,
+    "surahNo": 73,
+    "ayahNo": 8,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/73_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/073008.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/73_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/073008.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/73_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/073008.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/73_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/073008.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/73_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/073008.mp3"
+        }
+    },
+    "english": "˹Always˺ remember the Name of your Lord, and devote yourself to Him wholeheartedly.",
+    "arabic1": "وَٱذْكُرِ ٱسْمَ رَبِّكَ وَتَبَتَّلْ إِلَيْهِ تَبْتِيلًا",
+    "arabic2": "واذكر اسم ربك وتبتل اليه تبتيلا",
+    "bengali": "আর তুমি তোমার রবের নাম স্মরণ কর এবং একাগ্রচিত্তে তাঁর প্রতি নিমগ্ন হও।",
+    "urdu": "تو اپنے پروردگار کے نام کا ذکر کرو اور ہر طرف سے بےتعلق ہو کر اسی کی طرف متوجہ ہوجاؤ"
+}

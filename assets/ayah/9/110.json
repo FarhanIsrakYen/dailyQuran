@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 110,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/9_110.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/009110.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/9_110.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/009110.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/9_110.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/009110.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/9_110.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/009110.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/9_110.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/009110.mp3"
+        }
+    },
+    "english": "The building which they erected will never cease to fuel hypocrisy in their hearts until their hearts are torn apart. And Allah is All-Knowing, All-Wise.",
+    "arabic1": "لَا يَزَالُ بُنْيَـٰنُهُمُ ٱلَّذِى بَنَوْا۟ رِيبَةً فِى قُلُوبِهِمْ إِلَّآ أَن تَقَطَّعَ قُلُوبُهُمْ ۗ وَٱللَّهُ عَلِيمٌ حَكِيمٌ",
+    "arabic2": "لا يزال بنيانهم الذي بنوا ريبة في قلوبهم الا ان تقطع قلوبهم والله عليم حكيم",
+    "bengali": "তাদের নির্মিত গৃহ, তাদের অন্তরে সন্দেহের কারণ হয়ে থাকবে, যে পর্যন্ত না তাদের হৃদয় টুকরো টুকরো হয়ে যায়। আর আল্লাহ সর্বজ্ঞ, প্রজ্ঞাময়।",
+    "urdu": "یہ عمارت جو انہوں نے بنائی ہے ہمیشہ ان کے دلوں میں (موجب) خلجان رہے گی (اور ان کو متردد رکھے گی) مگر یہ کہ ان کے دل پاش پاش ہو جائیں اور خدا جاننے والا اور حکمت والا ہے"
+}

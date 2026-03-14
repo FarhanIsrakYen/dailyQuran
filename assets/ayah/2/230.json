@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 230,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_230.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002230.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_230.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002230.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_230.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002230.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_230.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002230.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_230.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002230.mp3"
+        }
+    },
+    "english": "So if a husband divorces his wife ˹three times˺, then it is not lawful for him to remarry her until after she has married another man and then is divorced. Then it is permissible for them to reunite, as long as they feel they are able to maintain the limits of Allah. These are the limits set by Allah, which He makes clear for people of knowledge.",
+    "arabic1": "فَإِن طَلَّقَهَا فَلَا تَحِلُّ لَهُۥ مِنۢ بَعْدُ حَتَّىٰ تَنكِحَ زَوْجًا غَيْرَهُۥ ۗ فَإِن طَلَّقَهَا فَلَا جُنَاحَ عَلَيْهِمَآ أَن يَتَرَاجَعَآ إِن ظَنَّآ أَن يُقِيمَا حُدُودَ ٱللَّهِ ۗ وَتِلْكَ حُدُودُ ٱللَّهِ يُبَيِّنُهَا لِقَوْمٍ يَعْلَمُونَ",
+    "arabic2": "فان طلقها فلا تحل له من بعد حتى تنكح زوجا غيره فان طلقها فلا جناح عليهما ان يتراجعا ان ظنا ان يقيما حدود الله وتلك حدود الله يبينها لقوم يعلمون",
+    "bengali": "অতএব যদি সে তাকে তালাক দেয় তাহলে সে পুরুষের জন্য হালাল হবে না যতক্ষণ পর্যন্ত ভিন্ন একজন স্বামী সে গ্রহণ না করে। অতঃপর সে (স্বামী) যদি তাকে তালাক দেয়, তাহলে তাদের উভয়ের অপরাধ হবে না যে, তারা একে অপরের নিকট ফিরে আসবে, যদি দৃঢ় ধারণা রাখে যে, তারা আল্লাহর সীমারেখা কায়েম রাখতে পারবে। আর এটা আল্লাহর সীমারেখা, তিনি তা এমন সম্প্রদায়ের জন্য স্পষ্ট করে দেন, যারা জানে।",
+    "urdu": "پھر اگر شوہر (دو طلاقوں کے بعد تیسری) طلاق عورت کو دے دے تو اس کے بعد جب تک عورت کسی دوسرے شخص سے نکاح نہ کرلے اس (پہلے شوہر) پر حلال نہ ہوگی۔ ہاں اگر دوسرا خاوند بھی طلاق دے دے اورعورت اور پہلا خاوند پھر ایک دوسرے کی طرف رجوع کرلیں تو ان پر کچھ گناہ نہیں بشرطیکہ دونوں یقین کریں کہ خدا کی حدوں کو قائم رکھ سکیں گے اور یہ خدا کی حدیں ہیں ان کو وہ ان لوگوں کے لئے بیان فرماتا ہے جو دانش رکھتے ہیں"
+}

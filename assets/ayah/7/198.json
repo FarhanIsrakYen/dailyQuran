@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 198,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/7_198.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/007198.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/7_198.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/007198.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/7_198.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/007198.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/7_198.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/007198.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/7_198.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/007198.mp3"
+        }
+    },
+    "english": "If you ˹idolaters˺ call them to guidance, they cannot hear. And you ˹O Prophet˺ may see them facing towards you, but they cannot see.",
+    "arabic1": "وَإِن تَدْعُوهُمْ إِلَى ٱلْهُدَىٰ لَا يَسْمَعُوا۟ ۖ وَتَرَىٰهُمْ يَنظُرُونَ إِلَيْكَ وَهُمْ لَا يُبْصِرُونَ",
+    "arabic2": "وان تدعوهم الى الهدى لا يسمعوا وتراهم ينظرون اليك وهم لا يبصرون",
+    "bengali": "তুমি যদি তাদেরকে হিদায়াতের দিকে আহবান কর, তারা শুনবে না। আর তুমি তাদেরকে দেখবে যে, তারা তোমার দিকে তাকিয়ে আছে, অথচ তারা দেখছে না।",
+    "urdu": "اور اگر تم ان کو سیدھے رستے کی طرف بلاؤ تو سن نہ سکیں اور تم انہیں دیکھتے ہو کہ (بہ ظاہر) آنکھیں کھولے تمہاری طرف دیکھ رہے ہیں مگر (فی الواقع) کچھ نہیں دیکھتے"
+}

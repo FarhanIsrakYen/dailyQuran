@@ -1,0 +1,42 @@
+{
+    "surahName": "Nooh",
+    "surahNameArabic": "نوح",
+    "surahNameArabicLong": "سورة نوح",
+    "surahNameTranslation": "Noah",
+    "revelationPlace": "Mecca",
+    "totalAyah": 28,
+    "surahNo": 71,
+    "ayahNo": 15,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/71_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/071015.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/71_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/071015.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/71_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/071015.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/71_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/071015.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/71_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/071015.mp3"
+        }
+    },
+    "english": "Do you not see how Allah created seven heavens, one above the other",
+    "arabic1": "أَلَمْ تَرَوْا۟ كَيْفَ خَلَقَ ٱللَّهُ سَبْعَ سَمَـٰوَٰتٍ طِبَاقًا",
+    "arabic2": "الم تروا كيف خلق الله سبع سماوات طباقا",
+    "bengali": "‘তোমরা কি লক্ষ্য কর না যে, কীভাবে আল্লাহ স্তরে স্তরে সপ্তাকাশ সৃষ্টি করেছেন’?",
+    "urdu": "کیا تم نے نہیں دیکھا کہ خدا نے سات آسمان کیسے اوپر تلے بنائے ہیں"
+}

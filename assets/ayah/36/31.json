@@ -1,0 +1,42 @@
+{
+    "surahName": "Yaseen",
+    "surahNameArabic": "يس",
+    "surahNameArabicLong": "سورة يس",
+    "surahNameTranslation": "Yaseen",
+    "revelationPlace": "Mecca",
+    "totalAyah": 83,
+    "surahNo": 36,
+    "ayahNo": 31,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/36_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/036031.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/36_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/036031.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/36_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/036031.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/36_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/036031.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/36_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/036031.mp3"
+        }
+    },
+    "english": "Have the deniers not considered how many peoples We destroyed before them who never came back to life again?",
+    "arabic1": "أَلَمْ يَرَوْا۟ كَمْ أَهْلَكْنَا قَبْلَهُم مِّنَ ٱلْقُرُونِ أَنَّهُمْ إِلَيْهِمْ لَا يَرْجِعُونَ",
+    "arabic2": "الم يروا كم اهلكنا قبلهم من القرون انهم اليهم لا يرجعون",
+    "bengali": "তারা কি লক্ষ্য করেনি যে, আমি তাদের পূর্বে কত প্রজন্মকে ধ্বংস করেছি, নিশ্চয় তারা তাদের কাছে ফিরে আসবে না।",
+    "urdu": "کیا انہوں نے نہیں دیکھا کہ ہم نے ان سے پہلے بہت سے لوگوں کو ہلاک کردیا تھا اب وہ ان کی طرف لوٹ کر نہیں آئیں گے"
+}

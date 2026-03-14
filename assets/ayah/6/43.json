@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 43,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/6_43.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/006043.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/6_43.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/006043.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/6_43.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/006043.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/6_43.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/006043.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/6_43.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/006043.mp3"
+        }
+    },
+    "english": "Why did they not humble themselves when We made them suffer? Instead, their hearts were hardened, and Satan made their misdeeds appealing to them.",
+    "arabic1": "فَلَوْلَآ إِذْ جَآءَهُم بَأْسُنَا تَضَرَّعُوا۟ وَلَـٰكِن قَسَتْ قُلُوبُهُمْ وَزَيَّنَ لَهُمُ ٱلشَّيْطَـٰنُ مَا كَانُوا۟ يَعْمَلُونَ",
+    "arabic2": "فلولا اذ جاءهم باسنا تضرعوا ولكن قست قلوبهم وزين لهم الشيطان ما كانوا يعملون",
+    "bengali": "সুতরাং তারা কেন বিনীত হয়নি, যখন আমার আযাব তাদের কাছে আসল? কিন্তু তাদের হৃদয় নিষ্ঠুর হয়ে গিয়েছে। আর তারা যা করত, শয়তান তাদের জন্য তা শোভিত করেছে।",
+    "urdu": "تو جب ان پر ہمارا عذاب آتا رہا کیوں نہیں عاجزی کرتے رہے۔ مگر ان کے تو دل ہی سخت ہوگئے تھے۔ اور جو وہ کام کرتے تھے شیطان ان کو (ان کی نظروں میں) آراستہ کر دکھاتا تھا"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Mursalaat",
+    "surahNameArabic": "المرسلات",
+    "surahNameArabicLong": "سورة المرسلات",
+    "surahNameTranslation": "The Emissaries",
+    "revelationPlace": "Mecca",
+    "totalAyah": 50,
+    "surahNo": 77,
+    "ayahNo": 32,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/77_32.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/077032.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/77_32.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/077032.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/77_32.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/077032.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/77_32.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/077032.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/77_32.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/077032.mp3"
+        }
+    },
+    "english": "Indeed, it hurls sparks ˹as big˺ as huge castles",
+    "arabic1": "إِنَّهَا تَرْمِى بِشَرَرٍ كَٱلْقَصْرِ",
+    "arabic2": "انها ترمي بشرر كالقصر",
+    "bengali": "নিশ্চয় তা (জাহান্নাম) ছড়াবে প্রাসাদসম স্ফুলিঙ্গ।",
+    "urdu": "اس سے (آگ کی اتنی اتنی بڑی) چنگاریاں اُڑتی ہیں جیسے محل"
+}

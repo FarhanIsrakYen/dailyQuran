@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 104,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_104.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002104.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_104.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002104.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_104.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002104.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_104.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002104.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_104.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002104.mp3"
+        }
+    },
+    "english": "O believers! Do not say, “Râ’ina.” [Herd us!] But say, “Unẓurna,” [Tend to us!] and listen ˹attentively˺. And the disbelievers will suffer a painful punishment.",
+    "arabic1": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَقُولُوا۟ رَٰعِنَا وَقُولُوا۟ ٱنظُرْنَا وَٱسْمَعُوا۟ ۗ وَلِلْكَـٰفِرِينَ عَذَابٌ أَلِيمٌ",
+    "arabic2": "يا ايها الذين امنوا لا تقولوا راعنا وقولوا انظرنا واسمعوا وللكافرين عذاب اليم",
+    "bengali": "হে মুমিনগণ, তোমরা ‘রা‘ইনা’* বলো না; বরং বল, ‘উনজুরনা’ আর শোন, কাফিরদের জন্য রয়েছে যন্ত্রণাদায়ক আযাব। \n*- راعنا রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সাথে কথোপকথন বা তাঁর কাছ থেকে শিক্ষা গ্রহণের সময় মুমিনগণের বুঝতে সমস্যা হলে তারা বলতেন ‘রা‘ইনা’ অর্থাৎ আমাদের প্রতি লক্ষ্য করুন এবং ধীরে বলুন। শব্দটির আর একটি অর্থ ‘বোকা’। ইয়াহূদিরা তা শোনে সে অর্থে ব্যবহার শুরু করল এবং নিজেরা হাসি-ঠাট্টা করতে লাগল। তখন আল্লাহ তাআলা উক্ত দ্ব্যর্থবোধক শব্দটির পরিবর্তে পরিষ্কার অর্থবোধক শব্দ ‘উনজুরনা’ অর্থাৎ আমাদের প্রতি নজর দিন- শব্দটি ব্যবহার করার নির্দেশ দিলেন।",
+    "urdu": "اے اہل ایمان! (گفتگو کے وقت پیغمبرِ خدا سے) راعنا نہ کہا کرو۔ انظرنا کہا کرو۔ اور خوب سن رکھو، اور کافروں کے لیے دکھ دینے والا عذاب ہے"
+}

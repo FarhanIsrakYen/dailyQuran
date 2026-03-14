@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Naml",
+    "surahNameArabic": "النمل",
+    "surahNameArabicLong": "سورة النمل",
+    "surahNameTranslation": "The Ant",
+    "revelationPlace": "Mecca",
+    "totalAyah": 93,
+    "surahNo": 27,
+    "ayahNo": 72,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/27_72.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/027072.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/27_72.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/027072.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/27_72.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/027072.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/27_72.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/027072.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/27_72.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/027072.mp3"
+        }
+    },
+    "english": "Say, ˹O Prophet,˺ “Perhaps some of what you seek to hasten is close at hand.”",
+    "arabic1": "قُلْ عَسَىٰٓ أَن يَكُونَ رَدِفَ لَكُم بَعْضُ ٱلَّذِى تَسْتَعْجِلُونَ",
+    "arabic2": "قل عسى ان يكون ردف لكم بعض الذي تستعجلون",
+    "bengali": "বল, ‘আশা করা যায়, তোমরা যে বিষয়ে তাড়াহুড়া করছ তার কিছু অচিরেই হবে’।",
+    "urdu": "کہہ دو کہ جس (عذاب) کے لئے تم جلدی کر رہے ہو شاید اس میں سے کچھ تمہارے نزدیک آپہنچا ہو"
+}

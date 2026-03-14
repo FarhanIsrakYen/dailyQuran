@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 62,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/17_62.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/017062.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/17_62.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/017062.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/17_62.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/017062.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/17_62.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/017062.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/17_62.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/017062.mp3"
+        }
+    },
+    "english": "Adding, “Do you see this one you honoured above me? If you delay my end until the Day of Judgment, I will certainly take hold of his descendants, except for a few.”",
+    "arabic1": "قَالَ أَرَءَيْتَكَ هَـٰذَا ٱلَّذِى كَرَّمْتَ عَلَىَّ لَئِنْ أَخَّرْتَنِ إِلَىٰ يَوْمِ ٱلْقِيَـٰمَةِ لَأَحْتَنِكَنَّ ذُرِّيَّتَهُۥٓ إِلَّا قَلِيلًا",
+    "arabic2": "قال ارايتك هذا الذي كرمت علي لئن اخرتن الى يوم القيامة لاحتنكن ذريته الا قليلا",
+    "bengali": "সে বলল, ‘দেখুন, এ ব্যক্তি, যাকে আপনি আমার উপর সম্মান দিয়েছেন, যদি আপনি আমাকে কিয়ামত পর্যন্ত সময় দেন, তবে অতি সামান্য সংখ্যক ছাড়া তার বংশধরদেরকে অবশ্যই পথভ্রষ্ট করে ছাড়ব’।",
+    "urdu": "(اور از راہ طنز) کہنے لگا کہ دیکھ تو یہی وہ ہے جسے تو نے مجھ پر فضیلت دی ہے۔ اگر تو مجھ کو قیامت کے دن تک مہلت دے تو میں تھوڑے سے شخصوں کے سوا اس کی (تمام) اولاد کی جڑ کاٹتا رہوں گا"
+}

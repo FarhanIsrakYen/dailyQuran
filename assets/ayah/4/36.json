@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 36,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/4_36.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/004036.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/4_36.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/004036.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/4_36.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/004036.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/4_36.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/004036.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/4_36.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/004036.mp3"
+        }
+    },
+    "english": "Worship Allah ˹alone˺ and associate none with Him. And be kind to parents, relatives, orphans, the poor, near and distant neighbours, close friends, ˹needy˺ travellers, and those ˹bondspeople˺ in your possession. Surely Allah does not like whoever is arrogant, boastful—",
+    "arabic1": "۞ وَٱعْبُدُوا۟ ٱللَّهَ وَلَا تُشْرِكُوا۟ بِهِۦ شَيْـًٔا ۖ وَبِٱلْوَٰلِدَيْنِ إِحْسَـٰنًا وَبِذِى ٱلْقُرْبَىٰ وَٱلْيَتَـٰمَىٰ وَٱلْمَسَـٰكِينِ وَٱلْجَارِ ذِى ٱلْقُرْبَىٰ وَٱلْجَارِ ٱلْجُنُبِ وَٱلصَّاحِبِ بِٱلْجَنۢبِ وَٱبْنِ ٱلسَّبِيلِ وَمَا مَلَكَتْ أَيْمَـٰنُكُمْ ۗ إِنَّ ٱللَّهَ لَا يُحِبُّ مَن كَانَ مُخْتَالًا فَخُورًا",
+    "arabic2": "واعبدوا الله ولا تشركوا به شيئا وبالوالدين احسانا وبذي القربى واليتامى والمساكين والجار ذي القربى والجار الجنب والصاحب بالجنب وابن السبيل وما ملكت ايمانكم ان الله لا يحب من كان مختالا فخورا",
+    "bengali": "তোমরা ইবাদাত কর আল্লাহর, তাঁর সাথে কোন কিছুকে শরীক করো না। আর সদ্ব্যবহার কর মাতা-পিতার সাথে, নিকট আত্মীয়ের সাথে, ইয়াতীম, মিসকীন, নিকট আত্মীয়- প্রতিবেশী, অনাত্মীয়- প্রতিবেশী, পার্শ্ববর্তী সাথী, মুসাফির এবং তোমাদের মালিকানাভুক্ত দাস-দাসীদের সাথে। নিশ্চয় আল্লাহ পছন্দ করেন না তাদেরকে যারা দাম্ভিক, অহঙ্কারী।",
+    "urdu": "اور خدا ہی کی عبادت کرو اور اس کے ساتھ کسی چیز کو شریک نہ بناؤ اور ماں باپ اور قرابت والوں اور یتیموں اور محتاجوں اور رشتہ دار ہمسائیوں اور اجنبی ہمسائیوں اور رفقائے پہلو (یعنی پاس بیٹھنے والوں) اور مسافروں اور جو لوگ تمہارے قبضے میں ہوں سب کے ساتھ احسان کرو کہ خدا (احسان کرنے والوں کو دوست رکھتا ہے اور) تکبر کرنے والے بڑائی مارنے والے کو دوست نہیں رکھتا"
+}

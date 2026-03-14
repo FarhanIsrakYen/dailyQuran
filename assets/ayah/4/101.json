@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 101,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/4_101.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/004101.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/4_101.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/004101.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/4_101.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/004101.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/4_101.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/004101.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/4_101.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/004101.mp3"
+        }
+    },
+    "english": "When you travel through the land, it is permissible for you to shorten the prayer—˹especially˺ if you fear an attack by the disbelievers. Indeed, the disbelievers are your sworn enemies.",
+    "arabic1": "وَإِذَا ضَرَبْتُمْ فِى ٱلْأَرْضِ فَلَيْسَ عَلَيْكُمْ جُنَاحٌ أَن تَقْصُرُوا۟ مِنَ ٱلصَّلَوٰةِ إِنْ خِفْتُمْ أَن يَفْتِنَكُمُ ٱلَّذِينَ كَفَرُوٓا۟ ۚ إِنَّ ٱلْكَـٰفِرِينَ كَانُوا۟ لَكُمْ عَدُوًّا مُّبِينًا",
+    "arabic2": "واذا ضربتم في الارض فليس عليكم جناح ان تقصروا من الصلاة ان خفتم ان يفتنكم الذين كفروا ان الكافرين كانوا لكم عدوا مبينا",
+    "bengali": "আর যখন তোমরা যমীনে সফর করবে, তখন তোমাদের সালাত কসর করাতে কোন দোষ নেই। যদি আশঙ্কা কর যে, কাফিররা তোমাদেরকে ফিতনায় ফেলবে*। নিশ্চয় কাফিররা তোমাদের প্রকাশ্য শত্রু। \n* শত্রুদের আক্রমণের আশঙ্কা না থাকলেও সফরে সালাত ‘কসর’ করা যাবে। কেননা মহানবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সকল সফরেই সালাত ‘কসর’ করেছেন।",
+    "urdu": "اور جب تم سفر کو جاؤ تو تم پر کچھ گناہ نہیں کہ نماز کو کم کرکے پڑھو بشرطیکہ تم کو خوف ہو کہ کافر لوگ تم کو ایذا دیں گے بےشک کافر تمہارے کھلے دشمن ہیں"
+}

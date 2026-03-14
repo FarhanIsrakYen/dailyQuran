@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Anfaal",
+    "surahNameArabic": "الأنفال",
+    "surahNameArabicLong": "سورة الأنفال",
+    "surahNameTranslation": "The Spoils of War",
+    "revelationPlace": "Madina",
+    "totalAyah": 75,
+    "surahNo": 8,
+    "ayahNo": 75,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/8_75.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/008075.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/8_75.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/008075.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/8_75.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/008075.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/8_75.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/008075.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/8_75.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/008075.mp3"
+        }
+    },
+    "english": "And those who later believed, migrated, and struggled alongside you, they are also with you. But only blood relatives are now entitled to inherit from one another, as ordained by Allah. Surely Allah has ˹full˺ knowledge of everything.",
+    "arabic1": "وَٱلَّذِينَ ءَامَنُوا۟ مِنۢ بَعْدُ وَهَاجَرُوا۟ وَجَـٰهَدُوا۟ مَعَكُمْ فَأُو۟لَـٰٓئِكَ مِنكُمْ ۚ وَأُو۟لُوا۟ ٱلْأَرْحَامِ بَعْضُهُمْ أَوْلَىٰ بِبَعْضٍ فِى كِتَـٰبِ ٱللَّهِ ۗ إِنَّ ٱللَّهَ بِكُلِّ شَىْءٍ عَلِيمٌۢ",
+    "arabic2": "والذين امنوا من بعد وهاجروا وجاهدوا معكم فاولئك منكم واولو الارحام بعضهم اولى ببعض في كتاب الله ان الله بكل شيء عليم",
+    "bengali": "আর যারা পরে ঈমান এনেছে, হিজরত করেছে এবং তোমাদের সাথে জিহাদ করেছে, তারা তোমাদের অন্তর্ভুক্ত, আর আত্মীয়-স্বজনরা একে অপরের তুলনায় অগ্রগণ্য, আল্লাহর কিতাবে। নিশ্চয় আল্লাহ প্রতিটি বিষয়ে মহাজ্ঞানী।",
+    "urdu": "اور جو لوگ بعد میں ایمان لائے اور وطن سے ہجرت کرگئے اور تمہارے ساتھ ہو کر جہاد کرتے رہے وہ بھی تم ہی میں سے ہیں۔ اور رشتہ دار خدا کے حکم کی رو سے ایک دوسرے کے زیادہ حقدار ہیں۔ کچھ شک نہیں کہ خدا ہر چیز سے واقف ہے"
+}

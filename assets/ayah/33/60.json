@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Ahzaab",
+    "surahNameArabic": "الأحزاب",
+    "surahNameArabicLong": "سورة الأحزاب",
+    "surahNameTranslation": "The Clans",
+    "revelationPlace": "Madina",
+    "totalAyah": 73,
+    "surahNo": 33,
+    "ayahNo": 60,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/33_60.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/033060.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/33_60.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/033060.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/33_60.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/033060.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/33_60.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/033060.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/33_60.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/033060.mp3"
+        }
+    },
+    "english": "If the hypocrites, and those with sickness in their hearts, and rumour-mongers in Medina do not desist, We will certainly incite you ˹O Prophet˺ against them, and then they will not be your neighbours there any longer.",
+    "arabic1": "۞ لَّئِن لَّمْ يَنتَهِ ٱلْمُنَـٰفِقُونَ وَٱلَّذِينَ فِى قُلُوبِهِم مَّرَضٌ وَٱلْمُرْجِفُونَ فِى ٱلْمَدِينَةِ لَنُغْرِيَنَّكَ بِهِمْ ثُمَّ لَا يُجَاوِرُونَكَ فِيهَآ إِلَّا قَلِيلًا",
+    "arabic2": "لئن لم ينته المنافقون والذين في قلوبهم مرض والمرجفون في المدينة لنغرينك بهم ثم لا يجاورونك فيها الا قليلا",
+    "bengali": "যদি মুনাফিকগণ এবং যাদের অন্তরে ব্যাধি রয়েছে তারা ও শহরে মিথ্যা সংবাদ প্রচারকারীরা বিরত না হয়, তবে আমি অবশ্যই তাদের বিরুদ্ধে তোমাকে ক্ষমতাবান করে দেব। অতঃপর তারা সেখানে তোমার প্রতিবেশী হয়ে অল্প সময়ই থাকবে,",
+    "urdu": "اگر منافق اور وہ لوگ جن کے دلوں میں مرض ہے اور جو مدینے (کے شہر میں) بری بری خبریں اُڑایا کرتے ہیں (اپنے کردار) سے باز نہ آئیں گے تو ہم تم کو ان کے پیچھے لگا دیں گے پھر وہاں تمہارے پڑوس میں نہ رہ سکیں گے مگر تھوڑے دن"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Ar-Ra'd",
+    "surahNameArabic": "الرعد",
+    "surahNameArabicLong": "سورة الرعد",
+    "surahNameTranslation": "The Thunder",
+    "revelationPlace": "Madina",
+    "totalAyah": 43,
+    "surahNo": 13,
+    "ayahNo": 40,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/13_40.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/013040.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/13_40.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/013040.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/13_40.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/013040.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/13_40.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/013040.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/13_40.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/013040.mp3"
+        }
+    },
+    "english": "Whether We show you ˹O Prophet˺ some of what We threaten them with, or cause you to die ˹before that˺, your duty is only to deliver ˹the message˺. Judgment is for Us.",
+    "arabic1": "وَإِن مَّا نُرِيَنَّكَ بَعْضَ ٱلَّذِى نَعِدُهُمْ أَوْ نَتَوَفَّيَنَّكَ فَإِنَّمَا عَلَيْكَ ٱلْبَلَـٰغُ وَعَلَيْنَا ٱلْحِسَابُ",
+    "arabic2": "وان ما نرينك بعض الذي نعدهم او نتوفينك فانما عليك البلاغ وعلينا الحساب",
+    "bengali": "আর যে প্রতিশ্রুতি আমি তাদেরকে দিচ্ছি, যদি তার কিছু তোমাকে দেখাই অথবা তোমার মৃত্যু ঘটাই (তাতে কিছুই আসে যায় না)। তবে তোমার কর্তব্য কেবল পৌঁছে দেয়া, আর আমার দায়িত্ব হিসাব নেয়া।",
+    "urdu": "اور اگر ہم کوئی عذاب جس کا ان لوگوں سے وعدہ کرتے ہیں تمہیں دکھائیں (یعنی تمہارے روبرو ان پر نازل کریں) یا تمہاری مدت حیات پوری کر دیں (یعنی تمہارے انتقال کے بعد عذاب بھیجیں) تو تمہارا کام (ہمارے احکام کا) پہنچا دینا ہے اور ہمارا کام حساب لینا ہے"
+}

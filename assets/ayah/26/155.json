@@ -1,0 +1,42 @@
+{
+    "surahName": "Ash-Shu'araa",
+    "surahNameArabic": "الشعراء",
+    "surahNameArabicLong": "سورة الشعراء",
+    "surahNameTranslation": "The Poets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 227,
+    "surahNo": 26,
+    "ayahNo": 155,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/26_155.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/026155.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/26_155.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/026155.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/26_155.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/026155.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/26_155.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/026155.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/26_155.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/026155.mp3"
+        }
+    },
+    "english": "Ṣâliḥ said, “Here is a camel. She will have her turn to drink as you have yours, each on an appointed day.",
+    "arabic1": "قَالَ هَـٰذِهِۦ نَاقَةٌ لَّهَا شِرْبٌ وَلَكُمْ شِرْبُ يَوْمٍ مَّعْلُومٍ",
+    "arabic2": "قال هذه ناقة لها شرب ولكم شرب يوم معلوم",
+    "bengali": "সালিহ বলল, ‘এটি একটি উষ্ট্রী; তার জন্য পানি পানের পালা একদিন আর তোমাদের পানি পানের পালা আরেক নির্দিষ্ট দিনে’।",
+    "urdu": "صالح نے کہا (دیکھو) یہ اونٹنی ہے (ایک دن) اس کی پانی پینے کی باری ہے اور ایک معین روز تمہاری باری"
+}

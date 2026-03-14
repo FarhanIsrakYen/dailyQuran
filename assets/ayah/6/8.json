@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 8,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/6_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/006008.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/6_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/006008.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/6_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/006008.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/6_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/006008.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/6_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/006008.mp3"
+        }
+    },
+    "english": "They say, “Why has no ˹visible˺ angel come with him?” Had We sent down an angel, the matter would have certainly been settled ˹at once˺, and they would have never been given more time ˹to repent˺.",
+    "arabic1": "وَقَالُوا۟ لَوْلَآ أُنزِلَ عَلَيْهِ مَلَكٌ ۖ وَلَوْ أَنزَلْنَا مَلَكًا لَّقُضِىَ ٱلْأَمْرُ ثُمَّ لَا يُنظَرُونَ",
+    "arabic2": "وقالوا لولا انزل عليه ملك ولو انزلنا ملكا لقضي الامر ثم لا ينظرون",
+    "bengali": "আর তারা বলে, ‘কেন তার উপর কোন ফেরেশ্তা নাযিল করা হয়নি?’ যদি আমি ফেরেশ্তা নাযিল করতাম তাহলে বিষয়টি ফয়সালা হয়ে যেত, তারপর তাদের সুযোগ দেয়া হত না।",
+    "urdu": "اور کہتے ہیں کہ ان (پیغمبر) پر فرشتہ کیوں نازل نہ ہوا (جو ان کی تصدیق کرتا) اگر ہم فرشتہ نازل کرتے تو کام ہی فیصل ہو جاتا پھر انھیں (مطلق) مہلت نہ دی جاتی"
+}

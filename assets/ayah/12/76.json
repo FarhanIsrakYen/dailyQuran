@@ -1,0 +1,42 @@
+{
+    "surahName": "Yusuf",
+    "surahNameArabic": "يوسف",
+    "surahNameArabicLong": "سورة يوسف",
+    "surahNameTranslation": "Joseph",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 12,
+    "ayahNo": 76,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/12_76.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/012076.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/12_76.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/012076.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/12_76.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/012076.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/12_76.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/012076.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/12_76.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/012076.mp3"
+        }
+    },
+    "english": "Joseph began searching their bags before that of his brother ˹Benjamin˺, then brought it out of Benjamin’s bag. This is how We inspired Joseph to plan. He could not have taken his brother under the King’s law, but Allah had so willed. We elevate in rank whoever We will. But above those ranking in knowledge is the One All-Knowing.",
+    "arabic1": "فَبَدَأَ بِأَوْعِيَتِهِمْ قَبْلَ وِعَآءِ أَخِيهِ ثُمَّ ٱسْتَخْرَجَهَا مِن وِعَآءِ أَخِيهِ ۚ كَذَٰلِكَ كِدْنَا لِيُوسُفَ ۖ مَا كَانَ لِيَأْخُذَ أَخَاهُ فِى دِينِ ٱلْمَلِكِ إِلَّآ أَن يَشَآءَ ٱللَّهُ ۚ نَرْفَعُ دَرَجَـٰتٍ مَّن نَّشَآءُ ۗ وَفَوْقَ كُلِّ ذِى عِلْمٍ عَلِيمٌ",
+    "arabic2": "فبدا باوعيتهم قبل وعاء اخيه ثم استخرجها من وعاء اخيه كذلك كدنا ليوسف ما كان لياخذ اخاه في دين الملك الا ان يشاء الله نرفع درجات من نشاء وفوق كل ذي علم عليم",
+    "bengali": "তারপর সে তার ভাইয়ের পাত্রের পূর্বে তাদের পাত্রগুলো দিয়ে (তল্লাশী) শুরু করল, তারপর সেটি তার ভাইয়ের পাত্র থেকে বের করল, এভাবে আমি ইউসুফের জন্য কৌশল করলাম। আল্লাহর ইচ্ছা ছাড়া বাদশাহ্র আইনে সে তার ভাইকে রেখে দিতে পারত না, আমি যাকে ইচ্ছা তার মর্যাদা উঁচু করে দেই এবং প্রত্যেক জ্ঞানীর উপর রয়েছে একজন মহাজ্ঞানী।",
+    "urdu": "پھر یوسف نے اپنے بھائی کے شلیتے سے پہلے ان کے شلیتوں کو دیکھنا شروع کیا پھر اپنے بھائی کے شلیتے میں سے اس کو نکال لیا۔ اس طرح ہم نے یوسف کے لیے تدبیر کی (ورنہ) بادشاہ کے قانون کے مطابق وہ مشیتِ خدا کے سوا اپنے بھائی کو لے نہیں سکتے تھے۔ ہم جس کے لیے چاہتے ہیں درجے بلند کرتے ہیں۔ اور ہر علم والے سے دوسرا علم والا بڑھ کر ہے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Ad-Dukhaan",
+    "surahNameArabic": "الدخان",
+    "surahNameArabicLong": "سورة الدخان",
+    "surahNameTranslation": "The Smoke",
+    "revelationPlace": "Mecca",
+    "totalAyah": 59,
+    "surahNo": 44,
+    "ayahNo": 22,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/44_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/044022.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/44_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/044022.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/44_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/044022.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/44_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/044022.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/44_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/044022.mp3"
+        }
+    },
+    "english": "Ultimately, he cried out to his Lord, “These are a wicked people!”",
+    "arabic1": "فَدَعَا رَبَّهُۥٓ أَنَّ هَـٰٓؤُلَآءِ قَوْمٌ مُّجْرِمُونَ",
+    "arabic2": "فدعا ربه ان هؤلاء قوم مجرمون",
+    "bengali": "অতঃপর সে তার রবকে ডেকে বলল, ‘নিশ্চয় এরা এক অপরাধী সম্প্রদায়।’",
+    "urdu": "تب موسیٰ نے اپنے پروردگار سے دعا کی کہ یہ نافرمان لوگ ہیں"
+}

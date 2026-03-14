@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Hashr",
+    "surahNameArabic": "الحشر",
+    "surahNameArabicLong": "سورة الحشر",
+    "surahNameTranslation": "The Exile",
+    "revelationPlace": "Madina",
+    "totalAyah": 24,
+    "surahNo": 59,
+    "ayahNo": 19,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/59_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/059019.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/59_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/059019.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/59_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/059019.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/59_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/059019.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/59_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/059019.mp3"
+        }
+    },
+    "english": "And do not be like those who forgot Allah, so He made them forget themselves. It is they who are ˹truly˺ rebellious.",
+    "arabic1": "وَلَا تَكُونُوا۟ كَٱلَّذِينَ نَسُوا۟ ٱللَّهَ فَأَنسَىٰهُمْ أَنفُسَهُمْ ۚ أُو۟لَـٰٓئِكَ هُمُ ٱلْفَـٰسِقُونَ",
+    "arabic2": "ولا تكونوا كالذين نسوا الله فانساهم انفسهم اولئك هم الفاسقون",
+    "bengali": "তোমরা তাদের মত হইও না, যারা আল্লাহকে ভুলে গিয়েছিল ফলে আল্লাহও তাদেরকে আত্মবিস্মৃত করে দিয়েছিলেন; আর তারাই হল ফাসিক।",
+    "urdu": "اور ان لوگوں جیسے نہ ہونا جنہوں نے خدا کو بھلا دیا تو خدا نے انہیں ایسا کردیا کہ خود اپنے تئیں بھول گئے۔ یہ بدکردار لوگ ہیں"
+}

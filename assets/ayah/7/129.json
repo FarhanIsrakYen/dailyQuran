@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 129,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/7_129.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/007129.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/7_129.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/007129.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/7_129.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/007129.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/7_129.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/007129.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/7_129.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/007129.mp3"
+        }
+    },
+    "english": "They complained, “We have always been oppressed—before and after you came to us ˹with the message˺.” He replied, “Perhaps your Lord will destroy your enemy and make you successors in the land to see what you will do.”",
+    "arabic1": "قَالُوٓا۟ أُوذِينَا مِن قَبْلِ أَن تَأْتِيَنَا وَمِنۢ بَعْدِ مَا جِئْتَنَا ۚ قَالَ عَسَىٰ رَبُّكُمْ أَن يُهْلِكَ عَدُوَّكُمْ وَيَسْتَخْلِفَكُمْ فِى ٱلْأَرْضِ فَيَنظُرَ كَيْفَ تَعْمَلُونَ",
+    "arabic2": "قالوا اوذينا من قبل ان تاتينا ومن بعد ما جئتنا قال عسى ربكم ان يهلك عدوكم ويستخلفكم في الارض فينظر كيف تعملون",
+    "bengali": "তারা বলল, ‘তুমি আমাদের কাছে আসার পূর্বে আমাদেরকে কষ্ট দেয়া হয়েছে এবং তুমি আমাদের কাছে আসার পরেও।’ সে বলল, ‘আশা করা যায়, তোমাদের রব তোমাদের শত্রুকে ধ্বংস করবেন এবং যমীনে তোমাদেরকে স্থলাভিষিক্ত করবেন, অতঃপর তিনি দেখবেন তোমরা কীভাবে আমল কর।’",
+    "urdu": "وہ بولے کہ تمہارے آنے سے پہلے بھی ہم کو اذیتیں پہنچتی رہیں اور آنے کے بعد بھی۔ موسیٰ نے کہا کہ قریب ہے کہ تمہارا پروردگار تمہارے دشمن کو ہلاک کردے اور اس کی جگہ تمہیں زمین میں خلیفہ بنائے پھر دیکھے کہ تم کیسے عمل کرتے ہو"
+}

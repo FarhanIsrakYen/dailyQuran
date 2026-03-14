@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Qalam",
+    "surahNameArabic": "القلم",
+    "surahNameArabicLong": "سورة القلم",
+    "surahNameTranslation": "The Pen",
+    "revelationPlace": "Mecca",
+    "totalAyah": 52,
+    "surahNo": 68,
+    "ayahNo": 33,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/68_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/068033.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/68_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/068033.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/68_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/068033.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/68_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/068033.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/68_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/068033.mp3"
+        }
+    },
+    "english": "That is the ˹way of Our˺ punishment ˹in this world˺. But the punishment of the Hereafter is certainly far worse, if only they knew.",
+    "arabic1": "كَذَٰلِكَ ٱلْعَذَابُ ۖ وَلَعَذَابُ ٱلْـَٔاخِرَةِ أَكْبَرُ ۚ لَوْ كَانُوا۟ يَعْلَمُونَ",
+    "arabic2": "كذلك العذاب ولعذاب الاخرة اكبر لو كانوا يعلمون",
+    "bengali": "এভাবেই হয় আযাব। আর পরকালের আযাব অবশ্যই আরো বড়, যদি তারা জানত।",
+    "urdu": "(دیکھو) عذاب یوں ہوتا ہے۔ اور آخرت کا عذاب اس سے کہیں بڑھ کر ہے۔ کاش! یہ لوگ جانتے ہوتے"
+}

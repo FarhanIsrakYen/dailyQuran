@@ -1,0 +1,42 @@
+{
+    "surahName": "Fussilat",
+    "surahNameArabic": "فصلت",
+    "surahNameArabicLong": "سورة فصلت",
+    "surahNameTranslation": "Explained in detail",
+    "revelationPlace": "Mecca",
+    "totalAyah": 54,
+    "surahNo": 41,
+    "ayahNo": 22,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/41_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/041022.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/41_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/041022.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/41_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/041022.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/41_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/041022.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/41_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/041022.mp3"
+        }
+    },
+    "english": "You did not ˹bother to˺ hide yourselves from your ears, eyes, and skin to prevent them from testifying against you. Rather, you assumed that Allah did not know much of what you used to do.",
+    "arabic1": "وَمَا كُنتُمْ تَسْتَتِرُونَ أَن يَشْهَدَ عَلَيْكُمْ سَمْعُكُمْ وَلَآ أَبْصَـٰرُكُمْ وَلَا جُلُودُكُمْ وَلَـٰكِن ظَنَنتُمْ أَنَّ ٱللَّهَ لَا يَعْلَمُ كَثِيرًا مِّمَّا تَعْمَلُونَ",
+    "arabic2": "وما كنتم تستترون ان يشهد عليكم سمعكم ولا ابصاركم ولا جلودكم ولكن ظننتم ان الله لا يعلم كثيرا مما تعملون",
+    "bengali": "তোমরা কিছুই গোপন করতে না এই বিশ্বাসে যে, তোমাদের কান, চোখসমূহ ও চামড়াসমূহ তোমাদের বিরুদ্ধে সাক্ষ্য দেবে না, বরং তোমরা মনে করেছিলে যে, তোমরা যা কিছু করতে আল্লাহ তার অনেক কিছুই জানেন না।",
+    "urdu": "اور تم اس (بات کے خوف) سے تو پردہ نہیں کرتے تھے کہ تمہارے کان اور تمہاری آنکھیں اور چمڑے تمہارے خلاف شہادت دیں گے بلکہ تم یہ خیال کرتے تھے کہ خدا کو تمہارے بہت سے عملوں کی خبر ہی نہیں"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Hajj",
+    "surahNameArabic": "الحج",
+    "surahNameArabicLong": "سورة الحج",
+    "surahNameTranslation": "The Pilgrimage",
+    "revelationPlace": "Madina",
+    "totalAyah": 78,
+    "surahNo": 22,
+    "ayahNo": 54,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/22_54.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/022054.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/22_54.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/022054.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/22_54.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/022054.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/22_54.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/022054.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/22_54.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/022054.mp3"
+        }
+    },
+    "english": "˹This is˺ also so that those gifted with knowledge would know that this ˹revelation˺ is the truth from your Lord, so they have faith in it, and so their hearts would submit humbly to it. And Allah surely guides the believers to the Straight Path.",
+    "arabic1": "وَلِيَعْلَمَ ٱلَّذِينَ أُوتُوا۟ ٱلْعِلْمَ أَنَّهُ ٱلْحَقُّ مِن رَّبِّكَ فَيُؤْمِنُوا۟ بِهِۦ فَتُخْبِتَ لَهُۥ قُلُوبُهُمْ ۗ وَإِنَّ ٱللَّهَ لَهَادِ ٱلَّذِينَ ءَامَنُوٓا۟ إِلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ",
+    "arabic2": "وليعلم الذين اوتوا العلم انه الحق من ربك فيؤمنوا به فتخبت له قلوبهم وان الله لهاد الذين امنوا الى صراط مستقيم",
+    "bengali": "এটা এজন্যও যে, যাদেরকে জ্ঞান দেয়া হয়েছে, তারা যেন জানতে পারে যে, এটা অবশ্যই তোমার রবের পক্ষ থেকে সত্য। অতঃপর তারা যেন এর প্রতি ঈমান আনে এবং তাদের অন্তর যেন এর প্রতি অনুগত হয়। আর যারা ঈমান এনেছে, নিশ্চয় আল্লাহ তাদেরকে সরল পথ প্রদর্শনকারী।",
+    "urdu": "اور یہ بھی غرض ہے کہ جن لوگوں کو علم عطا ہوا ہے وہ جان لیں کہ وہ (یعنی وحی) تمہارے پروردگار کی طرف سے حق ہے تو وہ اس پر ایمان لائیں اور ان کے دل خدا کے آگے عاجزی کریں۔ اور جو لوگ ایمان لائے ہیں خدا ان کو سیدھے رستے کی طرف ہدایت کرتا ہے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Ash-Shams",
+    "surahNameArabic": "الشمس",
+    "surahNameArabicLong": "سورة الشمس",
+    "surahNameTranslation": "The Sun",
+    "revelationPlace": "Mecca",
+    "totalAyah": 15,
+    "surahNo": 91,
+    "ayahNo": 8,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/91_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/091008.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/91_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/091008.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/91_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/091008.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/91_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/091008.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/91_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/091008.mp3"
+        }
+    },
+    "english": "then with ˹the knowledge of˺ right and wrong inspired it!",
+    "arabic1": "فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَىٰهَا",
+    "arabic2": "فالهمها فجورها وتقواها",
+    "bengali": "অতঃপর তিনি তাকে অবহিত করেছেন তার পাপসমূহ ও তার তাকওয়া সম্পর্কে।",
+    "urdu": "پھر اس کو بدکاری (سے بچنے) اور پرہیزگاری کرنے کی سمجھ دی"
+}

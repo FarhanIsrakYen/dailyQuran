@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Munaafiqoon",
+    "surahNameArabic": "المنافقون",
+    "surahNameArabicLong": "سورة المنافقون",
+    "surahNameTranslation": "The Hypocrites",
+    "revelationPlace": "Madina",
+    "totalAyah": 11,
+    "surahNo": 63,
+    "ayahNo": 7,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/63_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/063007.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/63_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/063007.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/63_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/063007.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/63_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/063007.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/63_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/063007.mp3"
+        }
+    },
+    "english": "They are the ones who say ˹to one another˺, “Do not spend ˹anything˺ on those ˹emigrants˺ with the Messenger of Allah so that they will break away ˹from him˺.” But to Allah ˹alone˺ belong the treasuries of the heavens and the earth, yet the hypocrites do not comprehend.",
+    "arabic1": "هُمُ ٱلَّذِينَ يَقُولُونَ لَا تُنفِقُوا۟ عَلَىٰ مَنْ عِندَ رَسُولِ ٱللَّهِ حَتَّىٰ يَنفَضُّوا۟ ۗ وَلِلَّهِ خَزَآئِنُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَلَـٰكِنَّ ٱلْمُنَـٰفِقِينَ لَا يَفْقَهُونَ",
+    "arabic2": "هم الذين يقولون لا تنفقوا على من عند رسول الله حتى ينفضوا ولله خزائن السماوات والارض ولكن المنافقين لا يفقهون",
+    "bengali": "তারাই বলে, যারা আল্লাহর রাসূলের কাছে আছে তোমরা তাদের জন্য খরচ করো না, যতক্ষণ না তারা সরে যায়। আর আসমানসমূহ ও যমীনের ধন-ভান্ডার তো আল্লাহরই, কিন্তু মুনাফিকরা তা বুঝে না।",
+    "urdu": "یہی ہیں جو کہتے ہیں کہ جو لوگ رسول خدا کے پاس (رہتے) ہیں ان پر (کچھ) خرچ نہ کرو۔ یہاں تک کہ یہ (خود بخود) بھاگ جائیں۔ حالانکہ آسمانوں اور زمین کے خزانے خدا ہی کہ ہیں لیکن منافق نہیں سمجھتے"
+}

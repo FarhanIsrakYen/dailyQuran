@@ -1,0 +1,42 @@
+{
+    "surahName": "Yusuf",
+    "surahNameArabic": "يوسف",
+    "surahNameArabicLong": "سورة يوسف",
+    "surahNameTranslation": "Joseph",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 12,
+    "ayahNo": 23,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/12_23.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/012023.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/12_23.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/012023.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/12_23.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/012023.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/12_23.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/012023.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/12_23.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/012023.mp3"
+        }
+    },
+    "english": "And the lady, in whose house he lived, tried to seduce him. She locked the doors ˹firmly˺ and said, “Come to me!” He replied, “Allah is my refuge! It is ˹not right to betray˺ my master, who has taken good care of me. Indeed, the wrongdoers never succeed.”",
+    "arabic1": "وَرَٰوَدَتْهُ ٱلَّتِى هُوَ فِى بَيْتِهَا عَن نَّفْسِهِۦ وَغَلَّقَتِ ٱلْأَبْوَٰبَ وَقَالَتْ هَيْتَ لَكَ ۚ قَالَ مَعَاذَ ٱللَّهِ ۖ إِنَّهُۥ رَبِّىٓ أَحْسَنَ مَثْوَاىَ ۖ إِنَّهُۥ لَا يُفْلِحُ ٱلظَّـٰلِمُونَ",
+    "arabic2": "وراودته التي هو في بيتها عن نفسه وغلقت الابواب وقالت هيت لك قال معاذ الله انه ربي احسن مثواي انه لا يفلح الظالمون",
+    "bengali": "আর যে মহিলার ঘরে সে ছিল, সে তাকে কুপ্ররোচনা দিল এবং দরজাগুলো বন্ধ করে দিল আর বলল, ‘এসো’। সে বলল, আল্লাহর আশ্রয় (চাই)। নিশ্চয় তিনি আমার মনিব, তিনি আমার থাকার সুন্দর ব্যবস্থা করেছেন। নিশ্চয় যালিমগণ সফল হয় না।",
+    "urdu": "تو جس عورت کے گھر میں وہ رہتے تھے اس نے ان کو اپنی طرف مائل کرنا چاہا اور دروازے بند کرکے کہنے لگی (یوسف) جلدی آؤ۔ انہوں نے کہا کہ خدا پناہ میں رکھے (وہ یعنی تمہارے میاں) تو میرے آقا ہیں انہوں نے مجھے اچھی طرح سے رکھا ہے (میں ایسا ظلم نہیں کرسکتا) بےشک ظالم لوگ فلاح نہیں پائیں گے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 21,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/4_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/004021.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/4_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/004021.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/4_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/004021.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/4_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/004021.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/4_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/004021.mp3"
+        }
+    },
+    "english": "And how could you take it back after having enjoyed each other intimately and she has taken from you a firm commitment?",
+    "arabic1": "وَكَيْفَ تَأْخُذُونَهُۥ وَقَدْ أَفْضَىٰ بَعْضُكُمْ إِلَىٰ بَعْضٍ وَأَخَذْنَ مِنكُم مِّيثَـٰقًا غَلِيظًا",
+    "arabic2": "وكيف تاخذونه وقد افضى بعضكم الى بعض واخذن منكم ميثاقا غليظا",
+    "bengali": "আর তোমরা তা কীভাবে নেবে অথচ তোমরা একে অপরের সাথে একান্তে মিলিত হয়েছ; আর তারা তোমাদের থেকে নিয়েছিল দৃঢ় অঙ্গীকার?",
+    "urdu": "اور تم دیا ہوا مال کیونکر واپس لے سکتے ہو جب کہ تم ایک دوسرے کے ساتھ صحبت کرچکے ہو۔ اور وہ تم سے عہد واثق بھی لے چکی ہے"
+}

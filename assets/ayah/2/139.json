@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 139,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_139.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002139.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_139.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002139.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_139.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002139.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_139.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002139.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_139.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002139.mp3"
+        }
+    },
+    "english": "Say, “Would you dispute with us about Allah, while He is our Lord and your Lord? We are accountable for our deeds and you for yours. And we are devoted to Him ˹alone˺.",
+    "arabic1": "قُلْ أَتُحَآجُّونَنَا فِى ٱللَّهِ وَهُوَ رَبُّنَا وَرَبُّكُمْ وَلَنَآ أَعْمَـٰلُنَا وَلَكُمْ أَعْمَـٰلُكُمْ وَنَحْنُ لَهُۥ مُخْلِصُونَ",
+    "arabic2": "قل اتحاجوننا في الله وهو ربنا وربكم ولنا اعمالنا ولكم اعمالكم ونحن له مخلصون",
+    "bengali": "বল, ‘তোমরা কি আমাদের সাথে আল্লাহর ব্যাপারে বিতর্ক করছ অথচ তিনি আমাদের রব ও তোমাদের রব? আর আমাদের জন্য রয়েছে আমাদের আমলসমূহ এবং তোমাদের জন্য রয়েছে তোমাদের আমলসমূহ এবং আমরা তাঁর জন্যই একনিষ্ঠ।",
+    "urdu": "(ان سے) کہو، کیا تم خدا کے بارے میں ہم سے جھگڑتے ہو، حالانکہ وہی ہمارا اور تمھارا پروردگار ہے اور ہم کو ہمارے اعمال (کا بدلہ ملے گا) اور تم کو تمھارے اعمال (کا) اور ہم خاص اسی کی عبادت کرنے والے ہیں"
+}

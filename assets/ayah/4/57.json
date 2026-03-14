@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 57,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/4_57.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/004057.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/4_57.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/004057.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/4_57.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/004057.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/4_57.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/004057.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/4_57.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/004057.mp3"
+        }
+    },
+    "english": "As for those who believe and do good, We will admit them into Gardens under which rivers flow, to stay there for ever and ever. There they will have pure spouses, and We will place them under a vast shade.",
+    "arabic1": "وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ سَنُدْخِلُهُمْ جَنَّـٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ خَـٰلِدِينَ فِيهَآ أَبَدًا ۖ لَّهُمْ فِيهَآ أَزْوَٰجٌ مُّطَهَّرَةٌ ۖ وَنُدْخِلُهُمْ ظِلًّا ظَلِيلًا",
+    "arabic2": "والذين امنوا وعملوا الصالحات سندخلهم جنات تجري من تحتها الانهار خالدين فيها ابدا لهم فيها ازواج مطهرة وندخلهم ظلا ظليلا",
+    "bengali": "আর যারা ঈমান এনেছে এবং নেক আমল করেছে, অচিরেই আমি তাদেরকে প্রবেশ করাব জান্নাতসমূহে, যার তলদেশে প্রবাহিত রয়েছে নহরসমূহ। সেখানে তারা হবে স্থায়ী। সেখানে তাদের জন্য রয়েছে পবিত্র স্ত্রীগণ এবং তাদেরকে আমি প্রবেশ করাব বিস্তৃত ঘন ছায়ায়।",
+    "urdu": "اور جو ایمان لائے اور نیک عمل کرتے رہے ان کو ہم بہشتوں میں داخل کریں گے جن کے نیچے نہریں بہہ رہی ہیں وہ ان میں ہمیشہ ہمیشہ رہیں گے وہاں ان کے لئے پاک بیبیاں ہیں اور ان کو ہم گھنے سائے میں داخل کریں گے"
+}

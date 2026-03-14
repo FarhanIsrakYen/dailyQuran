@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Kahf",
+    "surahNameArabic": "الكهف",
+    "surahNameArabicLong": "سورة الكهف",
+    "surahNameTranslation": "The Cave",
+    "revelationPlace": "Mecca",
+    "totalAyah": 110,
+    "surahNo": 18,
+    "ayahNo": 2,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/18_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/018002.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/18_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/018002.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/18_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/018002.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/18_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/018002.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/18_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/018002.mp3"
+        }
+    },
+    "english": "˹making it˺ perfectly upright, to warn ˹the disbelievers˺ of a severe torment from Him; to give good news to the believers—who do good—that they will have a fine reward",
+    "arabic1": "قَيِّمًا لِّيُنذِرَ بَأْسًا شَدِيدًا مِّن لَّدُنْهُ وَيُبَشِّرَ ٱلْمُؤْمِنِينَ ٱلَّذِينَ يَعْمَلُونَ ٱلصَّـٰلِحَـٰتِ أَنَّ لَهُمْ أَجْرًا حَسَنًا",
+    "arabic2": "قيما لينذر باسا شديدا من لدنه ويبشر المؤمنين الذين يعملون الصالحات ان لهم اجرا حسنا",
+    "bengali": "সরলরূপে, যাতে সে তাঁর পক্ষ থেকে কঠিন আযাব সম্পর্কে সতর্ক করে এবং সুসংবাদ দেয়, সেসব মুমিনকে, যারা সৎকর্ম করে, নিশ্চয় তাদের জন্য রয়েছে উত্তম প্রতিদান।",
+    "urdu": "سیدھی (اور سلیس اتاری) تاکہ لوگوں کو عذاب سخت سے جو اس کی طرف سے (آنے والا) ہے ڈرائے اور مومنوں کو جو نیک عمل کرتے ہیں خوشخبری سنائے کہ اُن کے لئے (ان کے کاموں کا) نیک بدلہ (یعنی) بہشت ہے"
+}

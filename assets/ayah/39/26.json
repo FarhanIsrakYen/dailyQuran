@@ -1,0 +1,42 @@
+{
+    "surahName": "Az-Zumar",
+    "surahNameArabic": "الزمر",
+    "surahNameArabicLong": "سورة الزمر",
+    "surahNameTranslation": "The Groups",
+    "revelationPlace": "Mecca",
+    "totalAyah": 75,
+    "surahNo": 39,
+    "ayahNo": 26,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/39_26.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/039026.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/39_26.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/039026.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/39_26.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/039026.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/39_26.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/039026.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/39_26.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/039026.mp3"
+        }
+    },
+    "english": "So Allah made them taste humiliation in this worldly life, but far worse is the punishment of the Hereafter, if only they knew.",
+    "arabic1": "فَأَذَاقَهُمُ ٱللَّهُ ٱلْخِزْىَ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا ۖ وَلَعَذَابُ ٱلْـَٔاخِرَةِ أَكْبَرُ ۚ لَوْ كَانُوا۟ يَعْلَمُونَ",
+    "arabic2": "فاذاقهم الله الخزي في الحياة الدنيا ولعذاب الاخرة اكبر لو كانوا يعلمون",
+    "bengali": "ফলে তাদেরকে আল্লাহ দুনিয়ার জীবনে লাঞ্ছনা আস্বাদন করালেন, আর আখিরাতের আযাব নিশ্চয় আরো বড়, যদি তারা জানত।",
+    "urdu": "پھر ان کو خدا نے دنیا کی زندگی میں رسوائی کا مزہ چکھا دیا۔ اور آخرت کا عذاب تو بہت بڑا ہے۔ کاش یہ سمجھ رکھتے"
+}

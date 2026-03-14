@@ -1,0 +1,42 @@
+{
+    "surahName": "Faatir",
+    "surahNameArabic": "فاطر",
+    "surahNameArabicLong": "سورة فاطر",
+    "surahNameTranslation": "The Originator",
+    "revelationPlace": "Mecca",
+    "totalAyah": 45,
+    "surahNo": 35,
+    "ayahNo": 42,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/35_42.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/035042.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/35_42.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/035042.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/35_42.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/035042.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/35_42.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/035042.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/35_42.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/035042.mp3"
+        }
+    },
+    "english": "They swore by Allah their most solemn oaths that if a warner were to come to them, they would certainly be better guided than any other community. Yet when a warner did come to them, it only drove them farther away—",
+    "arabic1": "وَأَقْسَمُوا۟ بِٱللَّهِ جَهْدَ أَيْمَـٰنِهِمْ لَئِن جَآءَهُمْ نَذِيرٌ لَّيَكُونُنَّ أَهْدَىٰ مِنْ إِحْدَى ٱلْأُمَمِ ۖ فَلَمَّا جَآءَهُمْ نَذِيرٌ مَّا زَادَهُمْ إِلَّا نُفُورًا",
+    "arabic2": "واقسموا بالله جهد ايمانهم لئن جاءهم نذير ليكونن اهدى من احدى الامم فلما جاءهم نذير ما زادهم الا نفورا",
+    "bengali": "আর তারা দৃঢ়তার সাথে আল্লাহর নামে কসম করে বলত যে, যদি তাদের কাছে কোন সতর্ককারী আসে, তাহলে তারা অবশ্যই অন্য যে কোন জাতির চেয়ে অধিক হিদায়াতপ্রাপ্ত হবে; কিন্তু যখন তাদের নিকট সতর্ককারী আসল, তখন তা কেবল তাদের বিমুখতাই বৃদ্ধি করল-",
+    "urdu": "اور یہ خدا کی سخت سخت قسمیں کھاتے ہیں کہ اگر ان کے پاس کوئی ہدایت کرنے والا آئے تو ہر ایک اُمت سے بڑھ کر ہدایت پر ہوں۔ مگر جب ان کے پاس ہدایت کرنے والا آیا تو اس سے ان کو نفرت ہی بڑھی"
+}

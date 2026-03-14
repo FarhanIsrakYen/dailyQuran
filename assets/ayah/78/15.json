@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Naba",
+    "surahNameArabic": "النبإ",
+    "surahNameArabicLong": "سورة النبأ",
+    "surahNameTranslation": "The Announcement",
+    "revelationPlace": "Mecca",
+    "totalAyah": 40,
+    "surahNo": 78,
+    "ayahNo": 15,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/78_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/078015.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/78_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/078015.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/78_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/078015.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/78_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/078015.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/78_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/078015.mp3"
+        }
+    },
+    "english": "producing by it grain and ˹various˺ plants",
+    "arabic1": "لِّنُخْرِجَ بِهِۦ حَبًّا وَنَبَاتًا",
+    "arabic2": "لنخرج به حبا ونباتا",
+    "bengali": "যাতে তা দিয়ে আমি শস্য ও উদ্ভিদ উৎপন্ন করতে পারি।",
+    "urdu": "تاکہ اس سے اناج اور سبزہ پیدا کریں"
+}

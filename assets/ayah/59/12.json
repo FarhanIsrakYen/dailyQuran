@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Hashr",
+    "surahNameArabic": "الحشر",
+    "surahNameArabicLong": "سورة الحشر",
+    "surahNameTranslation": "The Exile",
+    "revelationPlace": "Madina",
+    "totalAyah": 24,
+    "surahNo": 59,
+    "ayahNo": 12,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/59_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/059012.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/59_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/059012.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/59_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/059012.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/59_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/059012.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/59_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/059012.mp3"
+        }
+    },
+    "english": "Indeed, if they are expelled, the hypocrites will never leave with them. And if they are fought against, the hypocrites will never help them. And even if the hypocrites did so, they would certainly flee, then the disbelievers would be left with no help.",
+    "arabic1": "لَئِنْ أُخْرِجُوا۟ لَا يَخْرُجُونَ مَعَهُمْ وَلَئِن قُوتِلُوا۟ لَا يَنصُرُونَهُمْ وَلَئِن نَّصَرُوهُمْ لَيُوَلُّنَّ ٱلْأَدْبَـٰرَ ثُمَّ لَا يُنصَرُونَ",
+    "arabic2": "لئن اخرجوا لا يخرجون معهم ولئن قوتلوا لا ينصرونهم ولئن نصروهم ليولن الادبار ثم لا ينصرون",
+    "bengali": "তারা (ইহুদিরা) যদি বহিষ্কৃত হয় তবে এরা (মুনাফিকরা) কখনো তাদের সাথে বেরিয়ে যাবে না আর তাদের (ইয়াহুদীদের) সাথে যদি যুদ্ধ করা হয় এরা (মুনাফিকরা) কখনো তাদেরকে সাহায্য করবে না। আর যদি তাদেরকে সাহায্য করে তবে তারা অবশ্যই পিঠ দেখিয়ে পালাবে; এরপর তারা কোন সাহায্যই পাবে না।",
+    "urdu": "اگر وہ نکالے گئے تو یہ ان کے ساتھ نہیں نکلیں گے۔ اور اگر ان سے جنگ ہوئی تو ان کی مدد نہیں کریں گے۔ اگر مدد کریں گے تو پیٹھ پھیر کر بھاگ جائیں گے۔ پھر ان کو (کہیں سے بھی) مدد نہ ملے گی"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Ash-Shura",
+    "surahNameArabic": "الشورى",
+    "surahNameArabicLong": "سورة الشورى",
+    "surahNameTranslation": "Consultation",
+    "revelationPlace": "Mecca",
+    "totalAyah": 53,
+    "surahNo": 42,
+    "ayahNo": 12,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/42_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/042012.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/42_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/042012.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/42_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/042012.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/42_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/042012.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/42_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/042012.mp3"
+        }
+    },
+    "english": "To Him belong the keys ˹of the treasuries˺ of the heavens and the earth. He gives abundant or limited provisions to whoever He wills. Indeed, He has ˹perfect˺ knowledge of all things.",
+    "arabic1": "لَهُۥ مَقَالِيدُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۖ يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ وَيَقْدِرُ ۚ إِنَّهُۥ بِكُلِّ شَىْءٍ عَلِيمٌ",
+    "arabic2": "له مقاليد السماوات والارض يبسط الرزق لمن يشاء ويقدر انه بكل شيء عليم",
+    "bengali": "আসমানসমূহ ও যমীনের চাবি তাঁর কাছে; যার জন্য ইচ্ছা তিনি রিয্ক প্রশস্ত করেন এবং নিয়ন্ত্রিত করেন; নিশ্চয় তিনি সকল বিষয়ে সর্বজ্ঞাত।",
+    "urdu": "آسمانوں اور زمین کی کنجیاں اسی کے ہاتھ میں ہیں۔ وہ جس کے لئے چاہتا ہے رزق فراخ کردیتا ہے (اور جس کے لئے چاہتا ہے) تنگ کردیتا ہے۔ بےشک وہ ہر چیز سے واقف ہے"
+}

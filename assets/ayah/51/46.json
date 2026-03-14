@@ -1,0 +1,42 @@
+{
+    "surahName": "Adh-Dhaariyat",
+    "surahNameArabic": "الذاريات",
+    "surahNameArabicLong": "سورة الذاريات",
+    "surahNameTranslation": "The Winnowing Winds",
+    "revelationPlace": "Mecca",
+    "totalAyah": 60,
+    "surahNo": 51,
+    "ayahNo": 46,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/51_46.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/051046.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/51_46.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/051046.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/51_46.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/051046.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/51_46.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/051046.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/51_46.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/051046.mp3"
+        }
+    },
+    "english": "And the people of Noah ˹had also been destroyed˺ earlier. They were truly a rebellious people.",
+    "arabic1": "وَقَوْمَ نُوحٍ مِّن قَبْلُ ۖ إِنَّهُمْ كَانُوا۟ قَوْمًا فَـٰسِقِينَ",
+    "arabic2": "وقوم نوح من قبل انهم كانوا قوما فاسقين",
+    "bengali": "আর ইতঃপূর্বে নূহের কওমকেও (আমি ধ্বংস করে দিয়েছিলাম)। নিশ্চয় তারা ছিল ফাসিক কওম।",
+    "urdu": "اور اس سے پہلے (ہم) نوح کی قوم کو (ہلاک کرچکے تھے) بےشک وہ نافرمان لوگ تھے"
+}

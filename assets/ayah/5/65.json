@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Maaida",
+    "surahNameArabic": "المائدة",
+    "surahNameArabicLong": "سورة المائدة",
+    "surahNameTranslation": "The Table",
+    "revelationPlace": "Madina",
+    "totalAyah": 120,
+    "surahNo": 5,
+    "ayahNo": 65,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/5_65.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/005065.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/5_65.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/005065.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/5_65.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/005065.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/5_65.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/005065.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/5_65.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/005065.mp3"
+        }
+    },
+    "english": "Had the People of the Book only been faithful and mindful ˹of Allah˺, We would have certainly absolved them of their sins and admitted them into the Gardens of Bliss.",
+    "arabic1": "وَلَوْ أَنَّ أَهْلَ ٱلْكِتَـٰبِ ءَامَنُوا۟ وَٱتَّقَوْا۟ لَكَفَّرْنَا عَنْهُمْ سَيِّـَٔاتِهِمْ وَلَأَدْخَلْنَـٰهُمْ جَنَّـٰتِ ٱلنَّعِيمِ",
+    "arabic2": "ولو ان اهل الكتاب امنوا واتقوا لكفرنا عنهم سيئاتهم ولادخلناهم جنات النعيم",
+    "bengali": "আর যদি কিতাবীরা ঈমান আনত এবং তাকওয়া অবলম্বন করত তবে অবশ্যই আমি তাদের থেকে পাপগুলো দূর করে দিতাম এবং অবশ্যই তাদেরকে আরামদায়ক জান্নাতসমূহে প্রবেশ করাতাম।",
+    "urdu": "اور اگر اہل کتاب ایمان لاتے اور پرہیز گاری کرتے تو ہم ان سے ان کے گناہ محو کر دیتے اور ان کو نعمت کے باغوں میں داخل کرتے"
+}

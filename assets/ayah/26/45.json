@@ -1,0 +1,42 @@
+{
+    "surahName": "Ash-Shu'araa",
+    "surahNameArabic": "الشعراء",
+    "surahNameArabicLong": "سورة الشعراء",
+    "surahNameTranslation": "The Poets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 227,
+    "surahNo": 26,
+    "ayahNo": 45,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/26_45.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/026045.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/26_45.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/026045.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/26_45.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/026045.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/26_45.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/026045.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/26_45.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/026045.mp3"
+        }
+    },
+    "english": "Then Moses threw down his staff, and—behold!—it devoured the objects of their illusion!",
+    "arabic1": "فَأَلْقَىٰ مُوسَىٰ عَصَاهُ فَإِذَا هِىَ تَلْقَفُ مَا يَأْفِكُونَ",
+    "arabic2": "فالقى موسى عصاه فاذا هي تلقف ما يافكون",
+    "bengali": "তারপর মূসা তার লাঠি ফেলল, ফলে তৎক্ষণাৎ তা তাদের মিথ্যা প্রদর্শনীগুলো গ্রাস করে ফেলল।",
+    "urdu": "پھر موسیٰ نے اپنی لاٹھی ڈالی تو وہ ان چیزوں کو جو جادوگروں نے بنائی تھیں یکایک نگلنے لگی"
+}

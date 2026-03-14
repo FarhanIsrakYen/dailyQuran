@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 120,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/6_120.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/006120.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/6_120.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/006120.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/6_120.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/006120.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/6_120.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/006120.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/6_120.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/006120.mp3"
+        }
+    },
+    "english": "Shun all sin—open and secret. Indeed, those who commit sin will be punished for what they earn.",
+    "arabic1": "وَذَرُوا۟ ظَـٰهِرَ ٱلْإِثْمِ وَبَاطِنَهُۥٓ ۚ إِنَّ ٱلَّذِينَ يَكْسِبُونَ ٱلْإِثْمَ سَيُجْزَوْنَ بِمَا كَانُوا۟ يَقْتَرِفُونَ",
+    "arabic2": "وذروا ظاهر الاثم وباطنه ان الذين يكسبون الاثم سيجزون بما كانوا يقترفون",
+    "bengali": "আর তোমরা প্রকাশ্য ও গোপন পাপ ত্যাগ কর। নিশ্চয় যারা পাপ অর্জন করে, তাদেরকে অচিরেই প্রতিদান দেয়া হবে, তারা যা অর্জন করে তার বিনিময়ে।",
+    "urdu": "اور ظاہری اور پوشیدہ (ہر طرح کا) گناہ ترک کر دو جو لوگ گناہ کرتے ہیں وہ عنقریب اپنے کئے کی سزا پائیں گے"
+}

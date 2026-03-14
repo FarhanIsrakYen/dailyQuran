@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Kahf",
+    "surahNameArabic": "الكهف",
+    "surahNameArabicLong": "سورة الكهف",
+    "surahNameTranslation": "The Cave",
+    "revelationPlace": "Mecca",
+    "totalAyah": 110,
+    "surahNo": 18,
+    "ayahNo": 60,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/18_60.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/018060.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/18_60.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/018060.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/18_60.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/018060.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/18_60.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/018060.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/18_60.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/018060.mp3"
+        }
+    },
+    "english": "And ˹remember˺ when Moses said to his young assistant, “I will never give up until I reach the junction of the two seas, even if I travel for ages.”",
+    "arabic1": "وَإِذْ قَالَ مُوسَىٰ لِفَتَىٰهُ لَآ أَبْرَحُ حَتَّىٰٓ أَبْلُغَ مَجْمَعَ ٱلْبَحْرَيْنِ أَوْ أَمْضِىَ حُقُبًا",
+    "arabic2": "واذ قال موسى لفتاه لا ابرح حتى ابلغ مجمع البحرين او امضي حقبا",
+    "bengali": "আর স্মরণ কর, যখন মূসা তার সহচর যুবকটিকে বলল, আমি চলতে থাকব যতক্ষণ না দুই সমুদ্রের মিলনস্থলে উপনীত হব কিংবা দীর্ঘ সময় কাটিয়ে দেব।",
+    "urdu": "اور جب موسیٰ نے اپنے شاگرد سے کہا کہ جب تک دو دریاؤں کے ملنے کی جگہ نہ پہنچ جاؤں ہٹنے کا نہیں خواہ برسوں چلتا رہوں"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Fath",
+    "surahNameArabic": "الفتح",
+    "surahNameArabicLong": "سورة الفتح",
+    "surahNameTranslation": "The Victory",
+    "revelationPlace": "Madina",
+    "totalAyah": 29,
+    "surahNo": 48,
+    "ayahNo": 22,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/48_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/048022.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/48_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/048022.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/48_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/048022.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/48_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/048022.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/48_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/048022.mp3"
+        }
+    },
+    "english": "If the disbelievers were to fight you, they would certainly flee. Then they would never find any protector or helper.",
+    "arabic1": "وَلَوْ قَـٰتَلَكُمُ ٱلَّذِينَ كَفَرُوا۟ لَوَلَّوُا۟ ٱلْأَدْبَـٰرَ ثُمَّ لَا يَجِدُونَ وَلِيًّا وَلَا نَصِيرًا",
+    "arabic2": "ولو قاتلكم الذين كفروا لولوا الادبار ثم لا يجدون وليا ولا نصيرا",
+    "bengali": "আর যারা কুফরী করেছে তারা যদি তোমাদের সাথে যুদ্ধ করে তবে অবশ্যই তারা পিঠ দেখিয়ে পালাবে। তারপর তারা কোন অভিভাবক ও সাহায্যকারী পাবে না।",
+    "urdu": "اور اگر تم سے کافر لڑتے تو پیٹھ پھیر کر بھاگ جاتے پھر کسی کو دوست نہ پاتے اور نہ مددگار"
+}

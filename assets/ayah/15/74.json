@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Hijr",
+    "surahNameArabic": "الحجر",
+    "surahNameArabicLong": "سورة الحجر",
+    "surahNameTranslation": "The Rock",
+    "revelationPlace": "Mecca",
+    "totalAyah": 99,
+    "surahNo": 15,
+    "ayahNo": 74,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/15_74.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/015074.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/15_74.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/015074.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/15_74.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/015074.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/15_74.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/015074.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/15_74.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/015074.mp3"
+        }
+    },
+    "english": "And We turned the cities ˹of Sodom and Gomorrah˺ upside down and rained upon them stones of baked clay.",
+    "arabic1": "فَجَعَلْنَا عَـٰلِيَهَا سَافِلَهَا وَأَمْطَرْنَا عَلَيْهِمْ حِجَارَةً مِّن سِجِّيلٍ",
+    "arabic2": "فجعلنا عاليها سافلها وامطرنا عليهم حجارة من سجيل",
+    "bengali": "অতঃপর আমি তার (নগরীর) উপরকে নিচে উলটে দিলাম এবং তাদের উপর বর্ষণ করলাম পোড়া মাটির পাথর।",
+    "urdu": "اور ہم نے اس شہر کو (الٹ کر) نیچے اوپر کردیا۔ اور ان پر کھنگر کی پتھریاں برسائیں"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 127,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_127.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002127.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_127.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002127.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_127.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002127.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_127.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002127.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_127.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002127.mp3"
+        }
+    },
+    "english": "And ˹remember˺ when Abraham raised the foundation of the House with Ishmael, ˹both praying,˺ “Our Lord! Accept ˹this˺ from us. You are indeed the All-Hearing, All-Knowing.",
+    "arabic1": "وَإِذْ يَرْفَعُ إِبْرَٰهِـۧمُ ٱلْقَوَاعِدَ مِنَ ٱلْبَيْتِ وَإِسْمَـٰعِيلُ رَبَّنَا تَقَبَّلْ مِنَّآ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+    "arabic2": "واذ يرفع ابراهيم القواعد من البيت واسماعيل ربنا تقبل منا انك انت السميع العليم",
+    "bengali": "আর স্মরণ কর, যখন ইবরাহীম ও ইসমাঈল কাবার ভিত্গুলো উঠাচ্ছিল (এবং বলছিল,) ‘হে আমাদের রব, আমাদের পক্ষ থেকে কবূল করুন। নিশ্চয় আপনি সর্বশ্রোতা, সর্বজ্ঞানী’।",
+    "urdu": "اور جب ابراہیم اور اسمٰعیل بیت الله کی بنیادیں اونچی کر رہے تھے (تو دعا کئے جاتے تھے کہ) اے پروردگار، ہم سے یہ خدمت قبول فرما۔ بےشک تو سننے والا (اور) جاننے والا ہے"
+}

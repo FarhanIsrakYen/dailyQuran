@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Anfaal",
+    "surahNameArabic": "الأنفال",
+    "surahNameArabicLong": "سورة الأنفال",
+    "surahNameTranslation": "The Spoils of War",
+    "revelationPlace": "Madina",
+    "totalAyah": 75,
+    "surahNo": 8,
+    "ayahNo": 27,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/8_27.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/008027.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/8_27.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/008027.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/8_27.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/008027.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/8_27.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/008027.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/8_27.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/008027.mp3"
+        }
+    },
+    "english": "O believers! Do not betray Allah and the Messenger, nor betray your trusts knowingly.",
+    "arabic1": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَخُونُوا۟ ٱللَّهَ وَٱلرَّسُولَ وَتَخُونُوٓا۟ أَمَـٰنَـٰتِكُمْ وَأَنتُمْ تَعْلَمُونَ",
+    "arabic2": "يا ايها الذين امنوا لا تخونوا الله والرسول وتخونوا اماناتكم وانتم تعلمون",
+    "bengali": "হে মুমিনগণ, তোমরা আল্লাহ ও রাসূলের খিয়ানত করো না। আর খিয়ানত করো না নিজদের আমানতসমূহের, অথচ তোমরা জান।",
+    "urdu": "اے ایمان والو! نہ تو خدا اور رسول کی امانت میں خیانت کرو اور نہ اپنی امانتوں میں خیانت کرو اور تم (ان باتوں کو) جانتے ہو"
+}

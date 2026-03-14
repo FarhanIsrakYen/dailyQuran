@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 14,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/9_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/009014.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/9_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/009014.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/9_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/009014.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/9_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/009014.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/9_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/009014.mp3"
+        }
+    },
+    "english": "˹So˺ fight them and Allah will punish them at your hands, put them to shame, help you overcome them, and soothe the hearts of the believers—",
+    "arabic1": "قَـٰتِلُوهُمْ يُعَذِّبْهُمُ ٱللَّهُ بِأَيْدِيكُمْ وَيُخْزِهِمْ وَيَنصُرْكُمْ عَلَيْهِمْ وَيَشْفِ صُدُورَ قَوْمٍ مُّؤْمِنِينَ",
+    "arabic2": "قاتلوهم يعذبهم الله بايديكم ويخزهم وينصركم عليهم ويشف صدور قوم مؤمنين",
+    "bengali": "তোমরা তাদের সাথে লড়াই কর, আল্লাহ তোমাদের হাতে তাদেরকে আযাব দেবেন এবং তাদেরকে অপদস্থ করবেন, আর তোমাদেরকে তাদের বিরুদ্ধে সাহায্য করবেন এবং মুমিন কওমের অন্তরসমূহকে চিন্তামুক্ত করবেন।",
+    "urdu": "ان سے (خوب) لڑو۔ خدا ان کو تمہارے ہاتھوں سے عذاب میں ڈالے گا اور رسوا کرے گا اور تم کو ان پر غلبہ دے گا اور مومن لوگوں کے سینوں کو شفا بخشے گا"
+}

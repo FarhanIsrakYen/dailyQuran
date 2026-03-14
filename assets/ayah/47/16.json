@@ -1,0 +1,42 @@
+{
+    "surahName": "Muhammad",
+    "surahNameArabic": "محمد",
+    "surahNameArabicLong": "سورة محمد",
+    "surahNameTranslation": "Muhammad",
+    "revelationPlace": "Madina",
+    "totalAyah": 38,
+    "surahNo": 47,
+    "ayahNo": 16,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/47_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/047016.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/47_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/047016.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/47_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/047016.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/47_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/047016.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/47_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/047016.mp3"
+        }
+    },
+    "english": "There are some of them who listen to you ˹O Prophet˺, but when they depart from you, they say ˹mockingly˺ to those ˹believers˺ gifted with knowledge, “What did he just say?” These are the ones whose hearts Allah has sealed and who ˹only˺ follow their desires.",
+    "arabic1": "وَمِنْهُم مَّن يَسْتَمِعُ إِلَيْكَ حَتَّىٰٓ إِذَا خَرَجُوا۟ مِنْ عِندِكَ قَالُوا۟ لِلَّذِينَ أُوتُوا۟ ٱلْعِلْمَ مَاذَا قَالَ ءَانِفًا ۚ أُو۟لَـٰٓئِكَ ٱلَّذِينَ طَبَعَ ٱللَّهُ عَلَىٰ قُلُوبِهِمْ وَٱتَّبَعُوٓا۟ أَهْوَآءَهُمْ",
+    "arabic2": "ومنهم من يستمع اليك حتى اذا خرجوا من عندك قالوا للذين اوتوا العلم ماذا قال انفا اولئك الذين طبع الله على قلوبهم واتبعوا اهواءهم",
+    "bengali": "আর তাদের মধ্যে এমন কতক রয়েছে, যারা তোমার প্রতি মনোযোগ দিয়ে শুনে। অবশেষে যখন তারা তোমার কাছ থেকে বের হয়ে যায় তখন তারা যাদের জ্ঞান দান করা হয়েছে তাদের উদ্দেশ্যে বলে, ‘এই মাত্র সে কী বলল?’ এরাই তারা, যাদের অন্তরসমূহে আল্লাহ মোহর মেরে দিয়েছেন এবং তারা নিজদের খেয়াল-খুশীর অনুসরণ করেছে।",
+    "urdu": "اور ان میں بعض ایسے بھی ہیں جو تمہاری طرف کان لگائے یہاں تک کہ (سب کچھ سنتے ہیں لیکن) جب تمہارے پاس سے نکل کر چلے جاتے ہیں تو جن لوگوں کو علم (دین) دیا گیا ہے ان سے کہتے ہیں کہ (بھلا) انہوں نے ابھی کیا کہا تھا؟ یہی لوگ ہیں جن کے دلوں پر خدا نے مہر لگا رکھی ہے اور وہ اپنی خواہشوں کے پیچھے چل رہے ہیں"
+}

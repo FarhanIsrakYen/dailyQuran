@@ -1,0 +1,42 @@
+{
+    "surahName": "Az-Zukhruf",
+    "surahNameArabic": "الزخرف",
+    "surahNameArabicLong": "سورة الزخرف",
+    "surahNameTranslation": "Ornaments of gold",
+    "revelationPlace": "Mecca",
+    "totalAyah": 89,
+    "surahNo": 43,
+    "ayahNo": 26,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/43_26.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/043026.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/43_26.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/043026.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/43_26.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/043026.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/43_26.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/043026.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/43_26.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/043026.mp3"
+        }
+    },
+    "english": "˹Remember, O  Prophet˺ when Abraham declared to his father and his people, “I am totally free of whatever ˹gods˺ you worship",
+    "arabic1": "وَإِذْ قَالَ إِبْرَٰهِيمُ لِأَبِيهِ وَقَوْمِهِۦٓ إِنَّنِى بَرَآءٌ مِّمَّا تَعْبُدُونَ",
+    "arabic2": "واذ قال ابراهيم لابيه وقومه انني براء مما تعبدون",
+    "bengali": "আর স্মরণ কর, যখন ইবরাহীম স্বীয় পিতা ও তার কওমকে বলেছিল, ‘তোমরা যেগুলোর ইবাদাত কর, নিশ্চয় আমি তাদের থেকে সম্পর্কমুক্ত’।",
+    "urdu": "اور جب ابراہیم نے اپنے باپ اور اپنی قوم کے لوگوں سے کہا کہ جن چیزوں کو تم پوجتے ہو میں ان سے بیزار ہوں"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Yunus",
+    "surahNameArabic": "يونس",
+    "surahNameArabicLong": "سورة يونس",
+    "surahNameTranslation": "Jonas",
+    "revelationPlace": "Mecca",
+    "totalAyah": 109,
+    "surahNo": 10,
+    "ayahNo": 53,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/10_53.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/010053.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/10_53.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/010053.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/10_53.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/010053.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/10_53.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/010053.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/10_53.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/010053.mp3"
+        }
+    },
+    "english": "They ask you ˹O Prophet˺, “Is this true?” Say, “Yes, by my Lord! Most certainly it is true! And you will have no escape.”",
+    "arabic1": "۞ وَيَسْتَنۢبِـُٔونَكَ أَحَقٌّ هُوَ ۖ قُلْ إِى وَرَبِّىٓ إِنَّهُۥ لَحَقٌّ ۖ وَمَآ أَنتُم بِمُعْجِزِينَ",
+    "arabic2": "ويستنبئونك احق هو قل اي وربي انه لحق وما انتم بمعجزين",
+    "bengali": "আর তারা তোমার কাছে জানতে চায়, ‘তা কি সত্য’? বল, ‘হ্যাঁ, আমার রবের কসম! নিশ্চয় তা সত্য এবং তোমরা পরাস্তকারী নও’।",
+    "urdu": "اور تم سے دریافت کرتے ہیں کہ آیا یہ سچ ہے۔ کہہ دو ہاں خدا کی قسم سچ ہے اور تم (بھاگ کر خدا کو) عاجز نہیں کرسکو گے"
+}

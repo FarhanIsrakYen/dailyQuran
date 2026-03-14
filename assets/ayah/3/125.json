@@ -1,0 +1,42 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 125,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/3_125.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/003125.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/3_125.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/003125.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/3_125.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/003125.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/3_125.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/003125.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/3_125.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/003125.mp3"
+        }
+    },
+    "english": "Most certainly, if you ˹believers˺ are firm and mindful ˹of Allah˺ and the enemy launches a sudden attack on you, Allah will reinforce you with five thousand angels designated ˹for battle˺.",
+    "arabic1": "بَلَىٰٓ ۚ إِن تَصْبِرُوا۟ وَتَتَّقُوا۟ وَيَأْتُوكُم مِّن فَوْرِهِمْ هَـٰذَا يُمْدِدْكُمْ رَبُّكُم بِخَمْسَةِ ءَالَـٰفٍ مِّنَ ٱلْمَلَـٰٓئِكَةِ مُسَوِّمِينَ",
+    "arabic2": "بلى ان تصبروا وتتقوا وياتوكم من فورهم هذا يمددكم ربكم بخمسة الاف من الملائكة مسومين",
+    "bengali": "হ্যাঁ, যদি তোমরা ধৈর্য ধর এবং তাকওয়া অবলম্বন কর, আর তারা হঠাৎ তোমাদের মুখোমুখি এসে যায়, তবে তোমাদের রব পাঁচ হাজার চি‎‎হ্নত ফেরেশতা দ্বারা তোমাদেরকে সাহায্য করবেন।",
+    "urdu": "ہاں اگر تم دل کو مضبوط رکھو اور (خدا سے) ڈرتے رہو اور کافر تم پر جوش کے ساتھ دفعتہً حملہ کردیں تو پروردگار پانچ ہزار فرشتے جن پر نشان ہوں گے تمہاری مدد کو بھیجے گا"
+}

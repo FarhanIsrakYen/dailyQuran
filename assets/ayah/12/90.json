@@ -1,0 +1,42 @@
+{
+    "surahName": "Yusuf",
+    "surahNameArabic": "يوسف",
+    "surahNameArabicLong": "سورة يوسف",
+    "surahNameTranslation": "Joseph",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 12,
+    "ayahNo": 90,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/12_90.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/012090.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/12_90.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/012090.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/12_90.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/012090.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/12_90.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/012090.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/12_90.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/012090.mp3"
+        }
+    },
+    "english": "They replied ˹in shock˺, “Are you really Joseph?” He said, “I am Joseph, and here is my brother ˹Benjamin˺! Allah has truly been gracious to us. Surely whoever is mindful ˹of Allah˺ and patient, then certainly Allah never discounts the reward of the good-doers.”",
+    "arabic1": "قَالُوٓا۟ أَءِنَّكَ لَأَنتَ يُوسُفُ ۖ قَالَ أَنَا۠ يُوسُفُ وَهَـٰذَآ أَخِى ۖ قَدْ مَنَّ ٱللَّهُ عَلَيْنَآ ۖ إِنَّهُۥ مَن يَتَّقِ وَيَصْبِرْ فَإِنَّ ٱللَّهَ لَا يُضِيعُ أَجْرَ ٱلْمُحْسِنِينَ",
+    "arabic2": "قالوا اانك لانت يوسف قال انا يوسف وهذا اخي قد من الله علينا انه من يتق ويصبر فان الله لا يضيع اجر المحسنين",
+    "bengali": "তারা বলল, ‘তুমি কি সত্যিই ইউসুফ’? সে বলল, আমি ইউসুফ, আর এ আমার সহোদর। আল্লাহ আমাদের উপর অনুগ্রহ করেছেন। নিশ্চয় যে ব্যক্তি তাকওয়া অবলম্বন করে এবং সবর করে, তবে অবশ্যই আল্লাহ সৎকর্মশীলদের প্রতিদান বিনষ্ট করেন না’।",
+    "urdu": "وہ بولے کیا تم ہی یوسف ہو؟ انہوں نے کہا ہاں میں ہی یوسف ہوں۔ اور (بنیامین کی طرف اشارہ کرکے کہنے لگے) یہ میرا بھائی ہے خدا نے ہم پر بڑا احسان کیا ہے۔ جو شخص خدا سے ڈرتا اور صبر کرتا ہے تو خدا نیکوکاروں کا اجر ضائع نہیں کرتا"
+}

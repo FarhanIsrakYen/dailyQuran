@@ -1,0 +1,42 @@
+{
+    "surahName": "Faatir",
+    "surahNameArabic": "فاطر",
+    "surahNameArabicLong": "سورة فاطر",
+    "surahNameTranslation": "The Originator",
+    "revelationPlace": "Mecca",
+    "totalAyah": 45,
+    "surahNo": 35,
+    "ayahNo": 22,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/35_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/035022.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/35_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/035022.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/35_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/035022.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/35_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/035022.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/35_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/035022.mp3"
+        }
+    },
+    "english": "Nor are the dead and the living equal. Indeed, Allah ˹alone˺ makes whoever He wills hear, but you ˹O Prophet˺ can never make those in the graves hear ˹your call˺.",
+    "arabic1": "وَمَا يَسْتَوِى ٱلْأَحْيَآءُ وَلَا ٱلْأَمْوَٰتُ ۚ إِنَّ ٱللَّهَ يُسْمِعُ مَن يَشَآءُ ۖ وَمَآ أَنتَ بِمُسْمِعٍ مَّن فِى ٱلْقُبُورِ",
+    "arabic2": "وما يستوي الاحياء ولا الاموات ان الله يسمع من يشاء وما انت بمسمع من في القبور",
+    "bengali": "আর জীবিতরা ও মৃতরা এক নয়;* নিশ্চয় আল্লাহ যাকে ইচ্ছা শুনাতে পারেন, কিন্তু যে ব্যক্তি কবরে আছে তাকে তুমি শুনাতে পারবে না। \n* এই আয়াত ও আগের কয়েকটি আয়াতে ঈমান ও কুফরীকে নানা উপমায় চিত্রিত করা হয়েছে; ঈমান হল দৃষ্টিশক্তি, আলো, সুশীতল ছায়া আর প্রাণবন্ত জীবনের ন্যায়। পক্ষান্তরে কুফরী হল অন্ধত্ব, অন্ধকার, প্রচন্ড খরতাপ আর মৃত্যুতুল্য।",
+    "urdu": "اور نہ زندے اور مردے برابر ہوسکتے ہیں۔ خدا جس کو چاہتا ہے سنا دیتا ہے۔ اور تم ان کو جو قبروں میں مدفون ہیں نہیں سنا سکتے"
+}

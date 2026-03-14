@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Fajr",
+    "surahNameArabic": "الفجر",
+    "surahNameArabicLong": "سورة الفجر",
+    "surahNameTranslation": "The Dawn",
+    "revelationPlace": "Mecca",
+    "totalAyah": 30,
+    "surahNo": 89,
+    "ayahNo": 17,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/89_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/089017.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/89_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/089017.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/89_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/089017.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/89_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/089017.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/89_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/089017.mp3"
+        }
+    },
+    "english": "Absolutely not! In fact, you are not ˹even˺ gracious to the orphan",
+    "arabic1": "كَلَّا ۖ بَل لَّا تُكْرِمُونَ ٱلْيَتِيمَ",
+    "arabic2": "كلا بل لا تكرمون اليتيم",
+    "bengali": "কখনো নয়, বরং তোমরা ইয়াতীমদের দয়া-অনুগ্রহ প্রদর্শন কর না।",
+    "urdu": "نہیں بلکہ تم لوگ یتیم کی خاطر نہیں کرتے"
+}

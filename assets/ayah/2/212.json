@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 212,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_212.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002212.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_212.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002212.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_212.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002212.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_212.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002212.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_212.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002212.mp3"
+        }
+    },
+    "english": "The life of this world has been made appealing to the disbelievers, and they mock the believers. Those who are mindful ˹of Allah˺ will rank above them on the Day of Judgment. And Allah provides for whoever He wills without limit.",
+    "arabic1": "زُيِّنَ لِلَّذِينَ كَفَرُوا۟ ٱلْحَيَوٰةُ ٱلدُّنْيَا وَيَسْخَرُونَ مِنَ ٱلَّذِينَ ءَامَنُوا۟ ۘ وَٱلَّذِينَ ٱتَّقَوْا۟ فَوْقَهُمْ يَوْمَ ٱلْقِيَـٰمَةِ ۗ وَٱللَّهُ يَرْزُقُ مَن يَشَآءُ بِغَيْرِ حِسَابٍ",
+    "arabic2": "زين للذين كفروا الحياة الدنيا ويسخرون من الذين امنوا والذين اتقوا فوقهم يوم القيامة والله يرزق من يشاء بغير حساب",
+    "bengali": "যারা কুফরী করেছে, দুনিয়ার জীবনকে তাদের জন্য সুশোভিত করা হয়েছে। আর তারা মুমিনদের নিয়ে উপহাস করে। আর যারা তাকওয়া অবলম্বন করেছে, তারা কিয়ামত দিবসে তাদের উপরে থাকবে। আর আল্লাহ যাকে চান, বেহিসাব রিয্ক দান করেন।",
+    "urdu": "اور جو کافر ہیں ان کے لئے دنیا کی زندگی خوشنما کر دی گئی ہے اور وہ مومنوں سے تمسخر کرتے ہیں لیکن جو پرہیز گار ہیں وہ قیامت کے دن ان پر غالب ہوں گے اور خدا جس کو چاہتا ہے بےشمار رزق دیتا ہے"
+}

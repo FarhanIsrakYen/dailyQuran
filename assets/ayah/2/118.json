@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 118,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_118.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002118.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_118.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002118.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_118.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002118.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_118.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002118.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_118.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002118.mp3"
+        }
+    },
+    "english": "Those who have no knowledge say, “If only Allah would speak to us or a sign would come to us!” The same was said by those who came before. Their hearts are all alike. Indeed, We have made the signs clear for people of sure faith.",
+    "arabic1": "وَقَالَ ٱلَّذِينَ لَا يَعْلَمُونَ لَوْلَا يُكَلِّمُنَا ٱللَّهُ أَوْ تَأْتِينَآ ءَايَةٌ ۗ كَذَٰلِكَ قَالَ ٱلَّذِينَ مِن قَبْلِهِم مِّثْلَ قَوْلِهِمْ ۘ تَشَـٰبَهَتْ قُلُوبُهُمْ ۗ قَدْ بَيَّنَّا ٱلْـَٔايَـٰتِ لِقَوْمٍ يُوقِنُونَ",
+    "arabic2": "وقال الذين لا يعلمون لولا يكلمنا الله او تاتينا اية كذلك قال الذين من قبلهم مثل قولهم تشابهت قلوبهم قد بينا الايات لقوم يوقنون",
+    "bengali": "আর যারা জানে না, তারা বলে, ‘কেন আল্লাহ আমাদের সাথে কথা বলেন না কিংবা আমাদের কাছে কোন নিদর্শন আসে না’? এভাবেই, যারা তাদের পূর্বে ছিল তারা তাদের কথার মত কথা বলেছে। তাদের অন্তরসমূহ একই রকম হয়ে গিয়েছে। আমি তো আয়াতসমূহ সুস্পষ্ট করে দিয়েছি এমন কওমের জন্য, যারা দৃঢ় বিশ্বাস রাখে।",
+    "urdu": "اور جو لوگ (کچھ) نہیں جانتے (یعنی مشرک) وہ کہتے ہیں کہ خدا ہم سے کلام کیوں نہیں کرتا۔ یا ہمارے پاس کوئی نشانی کیوں نہیں آتی۔ اسی طرح جو لوگ ان سے پہلے تھے، وہ بھی انہی کی سی باتیں کیا کرتے تھے۔ ان لوگوں کے دل آپس میں ملتے جلتے ہیں۔ جو لوگ صاحبِ یقین ہیں، ان کے (سمجھانے کے) لیے نشانیاں بیان کردی ہیں"
+}

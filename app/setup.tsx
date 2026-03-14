@@ -12,15 +12,17 @@ import {
     FlatList,
 } from 'react-native';
 import { storage, DayPlan } from '../utils/storage';
-import { buildPlan, SURAH_API, SurahInfo } from '../utils/planBuilder';
+import { buildPlan, SurahInfo } from '../utils/planBuilder';
+import { ThemeType, COLORS } from '../utils/colors';
 
 const PRESET_DAYS = [30, 60, 90, 120, 180, 365];
 
 interface Props {
     onComplete: () => void;
+    theme: ThemeType;
 }
 
-export default function Setup({ onComplete }: Props) {
+export default function Setup({ onComplete, theme }: Props) {
     const [surahs, setSurahs] = useState<SurahInfo[]>([]);
     const [totalAyah, setTotalAyah] = useState(0);
     const [days, setDays] = useState('');
@@ -32,14 +34,15 @@ export default function Setup({ onComplete }: Props) {
     useEffect(() => {
         setDays('');
         setShowPreview(false);
-        fetch(SURAH_API)
-            .then(r => r.json())
-            .then((data: SurahInfo[]) => {
-                setSurahs(data);
-                setTotalAyah(data.reduce((s, su) => s + su.totalAyah, 0));
-            })
-            .catch(() => Alert.alert('Error', 'Failed to load Quran data. Check your internet connection.'))
-            .finally(() => setLoading(false));
+        try {
+            const data: SurahInfo[] = require('../assets/surah.json');
+            setSurahs(data);
+            setTotalAyah(data.reduce((s, su) => s + su.totalAyah, 0));
+        } catch (e) {
+            Alert.alert('Error', 'Failed to load local Quran data.');
+        } finally {
+            setLoading(false);
+        }
     }, []);
 
     const parsedDays = parseInt(days, 10);
@@ -84,47 +87,54 @@ export default function Setup({ onComplete }: Props) {
         }
     };
 
+    const themeColors = COLORS[theme];
+    const isDark = theme === 'dark';
+
     if (loading) {
         return (
-            <View style={styles.center}>
-                <ActivityIndicator size="large" color="#C9A96E" />
-                <Text style={styles.loadingText}>Loading Quran data…</Text>
+            <View style={[styles.center, { backgroundColor: themeColors.background }]}>
+                <ActivityIndicator size="large" color={themeColors.accent} />
+                <Text style={[styles.loadingText, { color: themeColors.subtext }]}>Loading Quran data…</Text>
             </View>
         );
     }
 
     // FIX: Replaced root <> fragment with <View flex:1> to prevent Android Modal dismiss issues
     return (
-        <View style={styles.flex}>
-            <ScrollView contentContainerStyle={styles.container} keyboardShouldPersistTaps="handled">
+        <View style={[styles.flex, { backgroundColor: themeColors.background }]}>
+            <ScrollView contentContainerStyle={[styles.container, { backgroundColor: themeColors.background }]} keyboardShouldPersistTaps="handled">
                 <View style={styles.header}>
-                    <Text style={styles.arabic}>بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ</Text>
-                    <Text style={styles.title}>Quran Daily</Text>
-                    <Text style={styles.subtitle}>Build a consistent reading routine</Text>
+                    <Text style={[styles.arabic, { color: themeColors.accent }]}>بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ</Text>
+                    <Text style={[styles.title, { color: themeColors.text }]}>Quran Daily</Text>
+                    <Text style={[styles.subtitle, { color: themeColors.subtext }]}>Build a consistent reading routine</Text>
                 </View>
 
-                <View style={styles.statsRow}>
+                <View style={[styles.statsRow, { backgroundColor: themeColors.card, borderColor: themeColors.border }]}>
                     <View style={styles.statCard}>
-                        <Text style={styles.statNumber}>114</Text>
-                        <Text style={styles.statLabel}>Surahs</Text>
+                        <Text style={[styles.statNumber, { color: themeColors.accent }]}>114</Text>
+                        <Text style={[styles.statLabel, { color: themeColors.subtext }]}>Surahs</Text>
                     </View>
-                    <View style={styles.statDivider} />
+                    <View style={[styles.statDivider, { backgroundColor: themeColors.border }]} />
                     <View style={styles.statCard}>
-                        <Text style={styles.statNumber}>{totalAyah.toLocaleString()}</Text>
-                        <Text style={styles.statLabel}>Total Ayahs</Text>
+                        <Text style={[styles.statNumber, { color: themeColors.accent }]}>{totalAyah.toLocaleString()}</Text>
+                        <Text style={[styles.statLabel, { color: themeColors.subtext }]}>Total Ayahs</Text>
                     </View>
                 </View>
 
-                <Text style={styles.sectionLabel}>Quick presets</Text>
+                <Text style={[styles.sectionLabel, { color: themeColors.subtext }]}>Quick presets</Text>
                 <View style={styles.presets}>
                     {PRESET_DAYS.map(d => (
                         <TouchableOpacity
                             key={d}
-                            style={[styles.preset, days === String(d) && styles.presetActive]}
+                            style={[
+                                styles.preset, 
+                                { backgroundColor: themeColors.card, borderColor: themeColors.border },
+                                days === String(d) && (isDark ? styles.presetActiveDark : styles.presetActiveLight)
+                            ]}
                             onPress={() => setDays(String(d))}
                         >
-                            <Text style={[styles.presetNum, days === String(d) && styles.presetNumActive]}>{d}</Text>
-                            <Text style={[styles.presetDayLabel, days === String(d) && styles.presetDayLabelActive]}>days</Text>
+                            <Text style={[styles.presetNum, { color: themeColors.text }, days === String(d) && styles.presetNumActive]}>{d}</Text>
+                            <Text style={[styles.presetDayLabel, { color: themeColors.subtext }, days === String(d) && styles.presetDayLabelActive]}>days</Text>
                             {totalAyah > 0 && (
                                 <Text style={[styles.presetAyah, days === String(d) && styles.presetAyahActive]}>
                                     ~{Math.ceil(totalAyah / d)}/day
@@ -134,56 +144,55 @@ export default function Setup({ onComplete }: Props) {
                     ))}
                 </View>
 
-                <Text style={styles.sectionLabel}>Custom number of days</Text>
+                <Text style={[styles.sectionLabel, { color: themeColors.subtext }]}>Custom number of days</Text>
                 <TextInput
-                    style={[styles.input, isValidDays && styles.inputActive]}
+                    style={[styles.input, { backgroundColor: themeColors.card, borderColor: themeColors.border, color: themeColors.text }, isValidDays && styles.inputActive]}
                     value={days}
                     onChangeText={setDays}
                     placeholder="Enter days (e.g. 45)"
-                    placeholderTextColor="#3D5A73"
+                    placeholderTextColor={themeColors.subtext}
                     keyboardType="numeric"
                     maxLength={4}
-                    selectionColor="#C9A96E"
+                    selectionColor={themeColors.accent}
                 />
 
                 {isValidDays && (
-                    <View style={styles.livePreview}>
+                    <View style={[styles.livePreview, { backgroundColor: themeColors.sajdahBg, borderColor: themeColors.accent }]}>
                         <View style={styles.livePreviewItem}>
-                            <Text style={styles.livePreviewNum}>{parsedDays}</Text>
-                            <Text style={styles.livePreviewLabel}>days</Text>
+                            <Text style={[styles.livePreviewNum, { color: themeColors.accent }]}>{parsedDays}</Text>
+                            <Text style={[styles.livePreviewLabel, { color: isDark ? '#5A8A5A' : '#4F7942' }]}>days</Text>
                         </View>
-                        <View style={styles.livePreviewDivider} />
+                        <View style={[styles.livePreviewDivider, { backgroundColor: isDark ? '#1E4A1E' : '#C8E6C9' }]} />
                         <View style={styles.livePreviewItem}>
-                            <Text style={styles.livePreviewNum}>~{ayahPerDay}</Text>
-                            <Text style={styles.livePreviewLabel}>ayahs/day</Text>
+                            <Text style={[styles.livePreviewNum, { color: themeColors.accent }]}>~{ayahPerDay}</Text>
+                            <Text style={[styles.livePreviewLabel, { color: isDark ? '#5A8A5A' : '#4F7942' }]}>ayahs/day</Text>
                         </View>
-                        <View style={styles.livePreviewDivider} />
+                        <View style={[styles.livePreviewDivider, { backgroundColor: isDark ? '#1E4A1E' : '#C8E6C9' }]} />
                         <View style={styles.livePreviewItem}>
-                            <Text style={styles.livePreviewNum}>{totalAyah.toLocaleString()}</Text>
-                            <Text style={styles.livePreviewLabel}>total</Text>
+                            <Text style={[styles.livePreviewNum, { color: themeColors.accent }]}>{totalAyah.toLocaleString()}</Text>
+                            <Text style={[styles.livePreviewLabel, { color: isDark ? '#5A8A5A' : '#4F7942' }]}>total</Text>
                         </View>
                     </View>
                 )}
 
                 <TouchableOpacity
-                    style={[styles.previewBtn, (!isValidDays || creating) && styles.btnDisabled]}
+                    style={[styles.previewBtn, { backgroundColor: themeColors.accent }, (!isValidDays || creating) && styles.btnDisabled]}
                     onPress={handlePreview}
                     disabled={!isValidDays || creating}
                 >
                     {creating ? (
-                        <ActivityIndicator color="#0D1B2A" />
+                        <ActivityIndicator color={themeColors.background} />
                     ) : (
-                        <Text style={styles.previewBtnText}>Preview My Plan →</Text>
+                        <Text style={[styles.previewBtnText, { color: themeColors.nextBtnText }]}>Preview My Plan →</Text>
                     )}
                 </TouchableOpacity>
             </ScrollView>
 
-            {/* FIX: Modal now inside a proper View container — fixes Android dismiss + keyboard issues */}
             <Modal visible={showPreview} animationType="slide" transparent>
                 <View style={styles.modalOverlay}>
-                    <View style={styles.modalCard}>
-                        <Text style={styles.modalTitle}>Your {parsedDays}-Day Plan</Text>
-                        <Text style={styles.modalSubtitle}>
+                    <View style={[styles.modalCard, { backgroundColor: themeColors.card, borderColor: themeColors.border }]}>
+                        <Text style={[styles.modalTitle, { color: themeColors.text }]}>Your {parsedDays}-Day Plan</Text>
+                        <Text style={[styles.modalSubtitle, { color: themeColors.subtext }]}>
                             ~{ayahPerDay} ayahs/day · {totalAyah.toLocaleString()} total ayahs
                         </Text>
                         <FlatList
@@ -192,25 +201,25 @@ export default function Setup({ onComplete }: Props) {
                             style={styles.previewList}
                             showsVerticalScrollIndicator={false}
                             renderItem={({ item }) => (
-                                <View style={styles.previewRow}>
-                                    <View style={styles.previewDayBadge}>
-                                        <Text style={styles.previewDayNum}>{item.day}</Text>
+                                <View style={[styles.previewRow, { borderBottomColor: themeColors.background }]}>
+                                    <View style={[styles.previewDayBadge, { backgroundColor: themeColors.background, borderColor: themeColors.border }]}>
+                                        <Text style={[styles.previewDayNum, { color: themeColors.subtext }]}>{item.day}</Text>
                                     </View>
                                     <View style={styles.previewInfo}>
-                                        <Text style={styles.previewInfoText}>
+                                        <Text style={[styles.previewInfoText, { color: themeColors.text }]}>
                                             Surah {item.startSurah}:{item.startAyah} → {item.endSurah}:{item.endAyah}
                                         </Text>
-                                        <Text style={styles.previewAyahCount}>{item.ayahCount} ayahs</Text>
+                                        <Text style={[styles.previewAyahCount, { color: themeColors.subtext }]}>{item.ayahCount} ayahs</Text>
                                     </View>
                                 </View>
                             )}
                         />
                         <View style={styles.modalActions}>
-                            <TouchableOpacity style={styles.modalCancelBtn} onPress={() => setShowPreview(false)}>
-                                <Text style={styles.modalCancelText}>← Change</Text>
+                            <TouchableOpacity style={[styles.modalCancelBtn, { backgroundColor: themeColors.background, borderColor: themeColors.border }]} onPress={() => setShowPreview(false)}>
+                                <Text style={[styles.modalCancelText, { color: themeColors.subtext }]}>← Change</Text>
                             </TouchableOpacity>
-                            <TouchableOpacity style={styles.modalConfirmBtn} onPress={handleConfirm} disabled={creating}>
-                                <Text style={styles.modalConfirmText}>Start Journey ✓</Text>
+                            <TouchableOpacity style={[styles.modalConfirmBtn, { backgroundColor: themeColors.accent }]} onPress={handleConfirm} disabled={creating}>
+                                <Text style={[styles.modalConfirmText, { color: themeColors.nextBtnText }]}>Start Journey ✓</Text>
                             </TouchableOpacity>
                         </View>
                     </View>
@@ -243,8 +252,9 @@ const styles = StyleSheet.create({
         width: '30%', backgroundColor: '#132030', borderRadius: 12, padding: 14,
         alignItems: 'center', borderWidth: 1, borderColor: '#1E3348',
     },
-    presetActive: { backgroundColor: '#1A2A14', borderColor: '#C9A96E' },
-    presetNum: { fontSize: 22, color: '#EAE0D0', fontWeight: '300' },
+    presetActiveDark: { backgroundColor: '#1A2A14', borderColor: '#C9A96E' },
+    presetActiveLight: { backgroundColor: '#F0F9F4', borderColor: '#C9A96E' },
+    presetNum: { fontSize: 22, fontWeight: '300' },
     presetNumActive: { color: '#C9A96E' },
     presetDayLabel: { fontSize: 10, color: '#5A7A9A', textTransform: 'uppercase', letterSpacing: 1 },
     presetDayLabelActive: { color: '#8BA78A' },

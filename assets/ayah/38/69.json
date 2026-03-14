@@ -1,0 +1,42 @@
+{
+    "surahName": "Saad",
+    "surahNameArabic": "ص",
+    "surahNameArabicLong": "سورة ص",
+    "surahNameTranslation": "The letter Saad",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 38,
+    "ayahNo": 69,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/38_69.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/038069.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/38_69.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/038069.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/38_69.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/038069.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/38_69.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/038069.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/38_69.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/038069.mp3"
+        }
+    },
+    "english": "˹And say,˺ “I had no knowledge of the highest assembly ˹in heaven˺ when they differed ˹concerning Adam˺.",
+    "arabic1": "مَا كَانَ لِىَ مِنْ عِلْمٍۭ بِٱلْمَلَإِ ٱلْأَعْلَىٰٓ إِذْ يَخْتَصِمُونَ",
+    "arabic2": "ما كان لي من علم بالملا الاعلى اذ يختصمون",
+    "bengali": "‘ঊর্ধ্বলোক সম্পর্কে আমার কোন জ্ঞানই ছিল না যখন তারা বাদানুবাদ* করছিল’। \n* আদম আ. এর সৃষ্টির প্রাক্কালে ফেরেশতাদের মধ্যকার পারস্পরিক আলোচনার প্রতি ইঙ্গিত করা হয়েছে।",
+    "urdu": "مجھ کو اوپر کی مجلس (والوں) کا جب وہ جھگڑتے تھے کچھ بھی علم نہ تھا"
+}

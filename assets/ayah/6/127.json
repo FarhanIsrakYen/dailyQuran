@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 127,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/6_127.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/006127.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/6_127.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/006127.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/6_127.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/006127.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/6_127.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/006127.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/6_127.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/006127.mp3"
+        }
+    },
+    "english": "They will have the Home of Peace with their Lord, Who will be their Guardian because of what they used to do.",
+    "arabic1": "۞ لَهُمْ دَارُ ٱلسَّلَـٰمِ عِندَ رَبِّهِمْ ۖ وَهُوَ وَلِيُّهُم بِمَا كَانُوا۟ يَعْمَلُونَ",
+    "arabic2": "لهم دار السلام عند ربهم وهو وليهم بما كانوا يعملون",
+    "bengali": "তাদের জন্য তাদের রবের নিকট রয়েছে শান্তির আবাস এবং তারা যে আমল করত, তার কারণে তিনি তাদের অভিভাবক।",
+    "urdu": "ان کے لیے ان کے اعمال کے صلے میں پروردگار کے ہاں سلامتی کا گھر ہے اور وہی ان کا دوستدار ہے"
+}

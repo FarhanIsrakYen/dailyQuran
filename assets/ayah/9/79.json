@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 79,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/9_79.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/009079.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/9_79.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/009079.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/9_79.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/009079.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/9_79.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/009079.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/9_79.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/009079.mp3"
+        }
+    },
+    "english": "˹There are˺ those who slander ˹some of˺ the believers for donating liberally and mock others for giving only the little they can afford. Allah will throw their mockery back at them, and they will suffer a painful punishment.",
+    "arabic1": "ٱلَّذِينَ يَلْمِزُونَ ٱلْمُطَّوِّعِينَ مِنَ ٱلْمُؤْمِنِينَ فِى ٱلصَّدَقَـٰتِ وَٱلَّذِينَ لَا يَجِدُونَ إِلَّا جُهْدَهُمْ فَيَسْخَرُونَ مِنْهُمْ ۙ سَخِرَ ٱللَّهُ مِنْهُمْ وَلَهُمْ عَذَابٌ أَلِيمٌ",
+    "arabic2": "الذين يلمزون المطوعين من المؤمنين في الصدقات والذين لا يجدون الا جهدهم فيسخرون منهم سخر الله منهم ولهم عذاب اليم",
+    "bengali": "যারা দোষারোপ করে সদাকার ব্যাপারে মুমিনদের মধ্য থেকে স্বেচ্ছাদানকারীদেরকে এবং তাদেরকে যারা তাদের পরিশ্রম ছাড়া কিছুই পায় না। অতঃপর তারা তাদেরকে নিয়ে উপহাস করে, আল্লাহও তাদেরকে নিয়ে উপহাস করেন এবং তাদের জন্যই রয়েছে যন্ত্রণাদায়ক আযাব।",
+    "urdu": "جو (ذی استطاعت) مسلمان دل کھول کر خیرات کرتے ہیں اور جو (بےچارے غریب صرف اتنا ہی کما سکتے ہیں جتنی مزدوری کرتے (اور تھوڑی سی کمائی میں سے خرچ بھی کرتے) ہیں ان پر جو (منافق) طعن کرتے ہیں اور ہنستے ہیں۔ خدا ان پر ہنستا ہے اور ان کے لیے تکلیف دینے والا عذاب (تیار) ہے"
+}

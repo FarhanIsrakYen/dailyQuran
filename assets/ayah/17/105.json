@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 105,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/17_105.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/017105.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/17_105.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/017105.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/17_105.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/017105.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/17_105.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/017105.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/17_105.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/017105.mp3"
+        }
+    },
+    "english": "We have sent down the Quran in truth, and with the truth it has come down. We have sent you ˹O Prophet˺ only as a deliverer of good news and a warner.",
+    "arabic1": "وَبِٱلْحَقِّ أَنزَلْنَـٰهُ وَبِٱلْحَقِّ نَزَلَ ۗ وَمَآ أَرْسَلْنَـٰكَ إِلَّا مُبَشِّرًا وَنَذِيرًا",
+    "arabic2": "وبالحق انزلناه وبالحق نزل وما ارسلناك الا مبشرا ونذيرا",
+    "bengali": "আর আমি তা যথাযথভাবে নাযিল করেছি এবং যথাযথভাবে তা নাযিল হয়েছে। আমি তো তোমাকে কেবল সুসংবাদদাতা ও সতর্ককারীরূপে পাঠিয়েছি।",
+    "urdu": "اور ہم نے اس قرآن کو سچائی کے ساتھ نازل کیا ہے اور وہ سچائی کے ساتھ نازل ہوا اور (اے محمدﷺ) ہم نے تم کو صرف خوشخبری دینے والا اور ڈر سنانے والا بنا کر بھیجا ہے"
+}

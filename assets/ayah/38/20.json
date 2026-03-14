@@ -1,0 +1,42 @@
+{
+    "surahName": "Saad",
+    "surahNameArabic": "ص",
+    "surahNameArabicLong": "سورة ص",
+    "surahNameTranslation": "The letter Saad",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 38,
+    "ayahNo": 20,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/38_20.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/038020.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/38_20.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/038020.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/38_20.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/038020.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/38_20.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/038020.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/38_20.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/038020.mp3"
+        }
+    },
+    "english": "We strengthened his kingship, and gave him wisdom and sound judgment.",
+    "arabic1": "وَشَدَدْنَا مُلْكَهُۥ وَءَاتَيْنَـٰهُ ٱلْحِكْمَةَ وَفَصْلَ ٱلْخِطَابِ",
+    "arabic2": "وشددنا ملكه واتيناه الحكمة وفصل الخطاب",
+    "bengali": "আর আমি তার রাজত্বকে সুদৃঢ় করেছিলাম এবং তাকে প্রজ্ঞা ও ফয়সালাকারী বাগ্মিতা দিয়েছিলাম।",
+    "urdu": "اور ہم نے ان کی بادشاہی کو مستحکم کیا اور ان کو حکمت عطا کی اور (خصومت کی) بات کا فیصلہ (سکھایا)"
+}

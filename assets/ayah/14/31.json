@@ -1,0 +1,42 @@
+{
+    "surahName": "Ibrahim",
+    "surahNameArabic": "ابراهيم",
+    "surahNameArabicLong": "سورة ابراهيم",
+    "surahNameTranslation": "Abraham",
+    "revelationPlace": "Mecca",
+    "totalAyah": 52,
+    "surahNo": 14,
+    "ayahNo": 31,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/14_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/014031.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/14_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/014031.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/14_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/014031.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/14_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/014031.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/14_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/014031.mp3"
+        }
+    },
+    "english": "Tell My believing servants to establish prayer and donate from what We have provided for them—openly and secretly—before the arrival of a Day in which there will be no ransom or friendly connections.",
+    "arabic1": "قُل لِّعِبَادِىَ ٱلَّذِينَ ءَامَنُوا۟ يُقِيمُوا۟ ٱلصَّلَوٰةَ وَيُنفِقُوا۟ مِمَّا رَزَقْنَـٰهُمْ سِرًّا وَعَلَانِيَةً مِّن قَبْلِ أَن يَأْتِىَ يَوْمٌ لَّا بَيْعٌ فِيهِ وَلَا خِلَـٰلٌ",
+    "arabic2": "قل لعبادي الذين امنوا يقيموا الصلاة وينفقوا مما رزقناهم سرا وعلانية من قبل ان ياتي يوم لا بيع فيه ولا خلال",
+    "bengali": "আমার বান্দাদের বল, ‘যারা ঈমান এনেছে, তারা যেন সালাত কায়েম করে এবং আমি তাদেরকে যে রিয্ক দিয়েছি তা থেকে গোপনে ও প্রকাশ্যে ব্যয় করে, ঐ দিন আসার পূর্বে যে দিন কোন বেচা-কেনা থাকবে না এবং থাকবে না বন্ধুত্বও।",
+    "urdu": "(اے پیغمبر) میرے مومن بندوں سے کہہ دو کہ نماز پڑھا کریں اور اس دن کے آنے سے پیشتر جس میں نہ (اعمال کا) سودا ہوگا اور نہ دوستی (کام آئے گی) ہمارے دیئے ہوئے مال میں سے درپردہ اور ظاہر خرچ کرتے رہیں"
+}

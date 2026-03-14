@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 82,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/4_82.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/004082.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/4_82.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/004082.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/4_82.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/004082.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/4_82.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/004082.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/4_82.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/004082.mp3"
+        }
+    },
+    "english": "Do they not then reflect on the Quran? Had it been from anyone other than Allah, they would have certainly found in it many inconsistencies.",
+    "arabic1": "أَفَلَا يَتَدَبَّرُونَ ٱلْقُرْءَانَ ۚ وَلَوْ كَانَ مِنْ عِندِ غَيْرِ ٱللَّهِ لَوَجَدُوا۟ فِيهِ ٱخْتِلَـٰفًا كَثِيرًا",
+    "arabic2": "افلا يتدبرون القران ولو كان من عند غير الله لوجدوا فيه اختلافا كثيرا",
+    "bengali": "তারা কি কুরআন নিয়ে গবেষণা করে না? আর যদি তা আল্লাহ ছাড়া অন্য কারো পক্ষ থেকে হত, তবে অবশ্যই তারা এতে অনেক বৈপরীত্য দেখতে পেত।",
+    "urdu": "بھلا یہ قرآن میں غور کیوں نہیں کرتے؟ اگر یہ خدا کے سوا کسی اور کا (کلام) ہوتا تو اس میں (بہت سا) اختلاف پاتے"
+}

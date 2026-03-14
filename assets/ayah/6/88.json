@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 88,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/6_88.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/006088.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/6_88.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/006088.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/6_88.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/006088.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/6_88.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/006088.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/6_88.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/006088.mp3"
+        }
+    },
+    "english": "This is Allah’s guidance with which He guides whoever He wills of His servants. Had they associated others with Him ˹in worship˺, their ˹good˺ deeds would have been wasted.",
+    "arabic1": "ذَٰلِكَ هُدَى ٱللَّهِ يَهْدِى بِهِۦ مَن يَشَآءُ مِنْ عِبَادِهِۦ ۚ وَلَوْ أَشْرَكُوا۟ لَحَبِطَ عَنْهُم مَّا كَانُوا۟ يَعْمَلُونَ",
+    "arabic2": "ذلك هدى الله يهدي به من يشاء من عباده ولو اشركوا لحبط عنهم ما كانوا يعملون",
+    "bengali": "এ হচ্ছে আল্লাহর হিদায়াত, এ দ্বারা তিনি নিজ বান্দাদের মধ্য থেকে যাকে ইচ্ছা হিদায়াত করেন। আর যদি তারা শির্‌ক করত, তবে তারা যা আমল করছিল তা অবশ্যই বরবাদ হয়ে যেত।",
+    "urdu": "یہ خدا کی ہدایت ہے اس پر اپنے بندوں میں سے جسے چاہے چلائے۔ اور اگر وہ لوگ شرک کرتے تو جو عمل وہ کرتے تھے سب ضائع ہوجاتے"
+}

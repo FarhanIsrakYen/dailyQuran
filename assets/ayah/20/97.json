@@ -1,0 +1,42 @@
+{
+    "surahName": "Taa-Haa",
+    "surahNameArabic": "طه",
+    "surahNameArabicLong": "سورة طه",
+    "surahNameTranslation": "Taa-Haa",
+    "revelationPlace": "Mecca",
+    "totalAyah": 135,
+    "surahNo": 20,
+    "ayahNo": 97,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/20_97.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/020097.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/20_97.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/020097.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/20_97.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/020097.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/20_97.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/020097.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/20_97.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/020097.mp3"
+        }
+    },
+    "english": "Moses said, “Go away then! And for ˹the rest of your˺ life you will surely be crying, ‘Do not touch ˹me˺!’ Then you will certainly have a fate that you cannot escape. Now look at your god to which you have been devoted: we will burn it up, then scatter it in the sea completely.”",
+    "arabic1": "قَالَ فَٱذْهَبْ فَإِنَّ لَكَ فِى ٱلْحَيَوٰةِ أَن تَقُولَ لَا مِسَاسَ ۖ وَإِنَّ لَكَ مَوْعِدًا لَّن تُخْلَفَهُۥ ۖ وَٱنظُرْ إِلَىٰٓ إِلَـٰهِكَ ٱلَّذِى ظَلْتَ عَلَيْهِ عَاكِفًا ۖ لَّنُحَرِّقَنَّهُۥ ثُمَّ لَنَنسِفَنَّهُۥ فِى ٱلْيَمِّ نَسْفًا",
+    "arabic2": "قال فاذهب فان لك في الحياة ان تقول لا مساس وان لك موعدا لن تخلفه وانظر الى الهك الذي ظلت عليه عاكفا لنحرقنه ثم لننسفنه في اليم نسفا",
+    "bengali": "মূসা বলল, ‘যাও, তোমার শাস্তি হল, জীবদ্দশায় তুমি বলতে থাকবে, ‘আমি অস্পৃশ্য’। আর তোমার জন্য একটা নির্দিষ্ট সময় রইল যার কখনো ব্যতিক্রম হবে না। আর তুমি তোমার ইলাহের প্রতি চেয়ে দেখ, যার পূজায় তুমি রত ছিলে, আমরা তা অবশ্যই জ্বালিয়ে দেব। তারপর বিক্ষিপ্ত করে তা সাগরে নিক্ষেপ করবই’।",
+    "urdu": "(موسیٰ نے) کہا جا تجھ کو دنیا کی زندگی میں یہ (سزا) ہے کہ کہتا رہے کہ مجھ کو ہاتھ نہ لگانا اور تیرے لئے ایک اور وعدہ ہے (یعنی عذاب کا) جو تجھ سے ٹل نہ سکے گا اور جس معبود (کی پوجا) پر تو (قائم و) معتکف تھا اس کو دیکھ۔ ہم اسے جلادیں گے پھر اس (کی راکھ) کو اُڑا کر دریا میں بکھیر دیں گے"
+}

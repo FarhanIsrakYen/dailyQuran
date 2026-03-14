@@ -1,0 +1,42 @@
+{
+    "surahName": "Az-Zalzala",
+    "surahNameArabic": "الزلزلة",
+    "surahNameArabicLong": "سورة الزلزلة",
+    "surahNameTranslation": "The Earthquake",
+    "revelationPlace": "Madina",
+    "totalAyah": 8,
+    "surahNo": 99,
+    "ayahNo": 3,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/99_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/099003.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/99_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/099003.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/99_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/099003.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/99_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/099003.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/99_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/099003.mp3"
+        }
+    },
+    "english": "and humanity cries, “What is wrong with it?”—",
+    "arabic1": "وَقَالَ ٱلْإِنسَـٰنُ مَا لَهَا",
+    "arabic2": "وقال الانسان ما لها",
+    "bengali": "আর মানুষ বলবে, ‘এর কী হল?’",
+    "urdu": "اور انسان کہے گا کہ اس کو کیا ہوا ہے؟"
+}

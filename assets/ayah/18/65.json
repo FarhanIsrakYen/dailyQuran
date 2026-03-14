@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Kahf",
+    "surahNameArabic": "الكهف",
+    "surahNameArabicLong": "سورة الكهف",
+    "surahNameTranslation": "The Cave",
+    "revelationPlace": "Mecca",
+    "totalAyah": 110,
+    "surahNo": 18,
+    "ayahNo": 65,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/18_65.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/018065.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/18_65.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/018065.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/18_65.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/018065.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/18_65.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/018065.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/18_65.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/018065.mp3"
+        }
+    },
+    "english": "There they found a servant of Ours, to whom We had granted mercy from Us and enlightened with knowledge of Our Own.",
+    "arabic1": "فَوَجَدَا عَبْدًا مِّنْ عِبَادِنَآ ءَاتَيْنَـٰهُ رَحْمَةً مِّنْ عِندِنَا وَعَلَّمْنَـٰهُ مِن لَّدُنَّا عِلْمًا",
+    "arabic2": "فوجدا عبدا من عبادنا اتيناه رحمة من عندنا وعلمناه من لدنا علما",
+    "bengali": "অতঃপর তারা আমার বান্দাদের মধ্য থেকে এক বান্দাকে পেল, যাকে আমি আমার পক্ষ থেকে রহমত দান করেছি এবং তাকে আমার পক্ষ থেকে জ্ঞান শিক্ষা দিয়েছি।",
+    "urdu": "(وہاں) انہوں نے ہمارے بندوں میں سے ایک بندہ دیکھا جس کو ہم نے اپنے ہاں سے رحمت (یعنی نبوت یا نعمت ولایت) دی تھی اور اپنے پاس سے علم بخشا تھا"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Yunus",
+    "surahNameArabic": "يونس",
+    "surahNameArabicLong": "سورة يونس",
+    "surahNameTranslation": "Jonas",
+    "revelationPlace": "Mecca",
+    "totalAyah": 109,
+    "surahNo": 10,
+    "ayahNo": 3,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/10_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/010003.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/10_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/010003.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/10_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/010003.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/10_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/010003.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/10_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/010003.mp3"
+        }
+    },
+    "english": "Surely your Lord is Allah Who created the heavens and the earth in six Days, then established Himself on the Throne, conducting every affair. None can intercede except by His permission. That is Allah—your Lord, so worship Him ˹alone˺. Will you not then be mindful?",
+    "arabic1": "إِنَّ رَبَّكُمُ ٱللَّهُ ٱلَّذِى خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ فِى سِتَّةِ أَيَّامٍ ثُمَّ ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ ۖ يُدَبِّرُ ٱلْأَمْرَ ۖ مَا مِن شَفِيعٍ إِلَّا مِنۢ بَعْدِ إِذْنِهِۦ ۚ ذَٰلِكُمُ ٱللَّهُ رَبُّكُمْ فَٱعْبُدُوهُ ۚ أَفَلَا تَذَكَّرُونَ",
+    "arabic2": "ان ربكم الله الذي خلق السماوات والارض في ستة ايام ثم استوى على العرش يدبر الامر ما من شفيع الا من بعد اذنه ذلكم الله ربكم فاعبدوه افلا تذكرون",
+    "bengali": "নিশ্চয় তোমাদের রব আল্লাহ। যিনি আসমানসমূহ ও যমীন সৃষ্টি করেছেন ছয় দিনে, তারপর আরশে উঠেছেন। তিনি সব বিষয় পরিচালনা করেন। তার অনুমতি ছাড়া সুপারিশ করার কেউ নেই। তিনিই আল্লাহ, তোমাদের রব। সুতরাং তোমরা তাঁর ইবাদাত কর। তারপরও কি তোমরা উপদেশ গ্রহণ করবে না?",
+    "urdu": "تمہارا پروردگار تو خدا ہی ہے جس نے آسمان اور زمین چھ دن میں بنائے پھر عرش (تخت شاہی) پر قائم ہوا وہی ہر ایک کا انتظام کرتا ہے۔ کوئی (اس کے پاس) اس کا اذن حاصل کیے بغیر کسی کی سفارش نہیں کرسکتا، یہی خدا تمہارا پروردگار ہے تو اسی کی عبادت کرو۔ بھلا تم غور کیوں نہیں کرتے"
+}

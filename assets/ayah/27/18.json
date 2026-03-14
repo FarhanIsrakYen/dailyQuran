@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Naml",
+    "surahNameArabic": "النمل",
+    "surahNameArabicLong": "سورة النمل",
+    "surahNameTranslation": "The Ant",
+    "revelationPlace": "Mecca",
+    "totalAyah": 93,
+    "surahNo": 27,
+    "ayahNo": 18,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/27_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/027018.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/27_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/027018.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/27_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/027018.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/27_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/027018.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/27_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/027018.mp3"
+        }
+    },
+    "english": "And when they came across a valley of ants, an ant warned, “O ants! Go quickly into your homes so Solomon and his armies do not crush you, unknowingly.”",
+    "arabic1": "حَتَّىٰٓ إِذَآ أَتَوْا۟ عَلَىٰ وَادِ ٱلنَّمْلِ قَالَتْ نَمْلَةٌ يَـٰٓأَيُّهَا ٱلنَّمْلُ ٱدْخُلُوا۟ مَسَـٰكِنَكُمْ لَا يَحْطِمَنَّكُمْ سُلَيْمَـٰنُ وَجُنُودُهُۥ وَهُمْ لَا يَشْعُرُونَ",
+    "arabic2": "حتى اذا اتوا على واد النمل قالت نملة يا ايها النمل ادخلوا مساكنكم لا يحطمنكم سليمان وجنوده وهم لا يشعرون",
+    "bengali": "অবশেষে যখন তারা পিপড়ার উপত্যকায় পৌঁছল তখন এক পিপড়া বলল, ‘ওহে পিপড়ার দল, তোমরা তোমাদের বাসস্থানে প্রবেশ কর। সুলাইমান ও তার বাহিনী তোমাদেরকে যেন অজ্ঞাতসারে পিষ্ট করে মারতে না পারে’।",
+    "urdu": "یہاں تک کہ جب چیونٹیوں کے میدان میں پہنچے تو ایک چیونٹی نے کہا کہ چیونٹیوں اپنے اپنے بلوں میں داخل ہو جاؤ ایسا نہ ہو کہ سلیمان اور اس کے لشکر تم کو کچل ڈالیں اور ان کو خبر بھی نہ ہو"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 170,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/4_170.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/004170.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/4_170.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/004170.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/4_170.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/004170.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/4_170.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/004170.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/4_170.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/004170.mp3"
+        }
+    },
+    "english": "O humanity! The Messenger has certainly come to you with the truth from your Lord, so believe for your own good. But if you disbelieve, then ˹know that˺ to Allah belongs whatever is in the heavens and the earth. And Allah is All-Knowing, All-Wise.",
+    "arabic1": "يَـٰٓأَيُّهَا ٱلنَّاسُ قَدْ جَآءَكُمُ ٱلرَّسُولُ بِٱلْحَقِّ مِن رَّبِّكُمْ فَـَٔامِنُوا۟ خَيْرًا لَّكُمْ ۚ وَإِن تَكْفُرُوا۟ فَإِنَّ لِلَّهِ مَا فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ وَكَانَ ٱللَّهُ عَلِيمًا حَكِيمًا",
+    "arabic2": "يا ايها الناس قد جاءكم الرسول بالحق من ربكم فامنوا خيرا لكم وان تكفروا فان لله ما في السماوات والارض وكان الله عليما حكيما",
+    "bengali": "হে মানুষ, অবশ্যই তোমাদের নিকট রাসূল এসেছে, তোমাদের রবের পক্ষ থেকে সত্য নিয়ে। সুতরাং তোমরা ঈমান আন, তা তোমাদের জন্য উত্তম হবে। আর যদি কুফরী কর, তবে নিশ্চয় আসমানসমূহ ও যমীনে যা রয়েছে, তা আল্লাহর জন্যই এবং আল্লাহ সর্বজ্ঞ, প্রজ্ঞাময়।",
+    "urdu": "لوگو! خدا کے پیغمبر تمہارے پاس تمہارے پروردگار کی طرف سے حق بات لے کر آئے ہیں تو (ان پر) ایمان لاؤ (یہی) تمہارے حق میں بہتر ہے۔ اور اگر کفر کرو گے تو (جان رکھو کہ) جو کچھ آسمانوں اور زمین میں ہے سب خداہی کا ہے اور خدا سب کچھ جاننے والا (اور) حکمت والا ہے"
+}

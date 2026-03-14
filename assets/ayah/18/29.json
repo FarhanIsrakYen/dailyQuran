@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Kahf",
+    "surahNameArabic": "الكهف",
+    "surahNameArabicLong": "سورة الكهف",
+    "surahNameTranslation": "The Cave",
+    "revelationPlace": "Mecca",
+    "totalAyah": 110,
+    "surahNo": 18,
+    "ayahNo": 29,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/18_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/018029.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/18_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/018029.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/18_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/018029.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/18_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/018029.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/18_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/018029.mp3"
+        }
+    },
+    "english": "And say, ˹O Prophet,˺ “˹This is˺ the truth from your Lord. Whoever wills let them believe, and whoever wills let them disbelieve.” Surely We have prepared for the wrongdoers a Fire whose walls will ˹completely˺ surround them. When they cry for aid, they will be aided with water like molten metal, which will burn ˹their˺ faces. What a horrible drink! And what a terrible place to rest!",
+    "arabic1": "وَقُلِ ٱلْحَقُّ مِن رَّبِّكُمْ ۖ فَمَن شَآءَ فَلْيُؤْمِن وَمَن شَآءَ فَلْيَكْفُرْ ۚ إِنَّآ أَعْتَدْنَا لِلظَّـٰلِمِينَ نَارًا أَحَاطَ بِهِمْ سُرَادِقُهَا ۚ وَإِن يَسْتَغِيثُوا۟ يُغَاثُوا۟ بِمَآءٍ كَٱلْمُهْلِ يَشْوِى ٱلْوُجُوهَ ۚ بِئْسَ ٱلشَّرَابُ وَسَآءَتْ مُرْتَفَقًا",
+    "arabic2": "وقل الحق من ربكم فمن شاء فليؤمن ومن شاء فليكفر انا اعتدنا للظالمين نارا احاط بهم سرادقها وان يستغيثوا يغاثوا بماء كالمهل يشوي الوجوه بئس الشراب وساءت مرتفقا",
+    "bengali": "আর বল, ‘সত্য তোমাদের রবের পক্ষ থেকে। সুতরাং যে ইচ্ছা করে সে যেন ঈমান আনে এবং যে ইচ্ছা করে সে যেন কুফরী করে। নিশ্চয় আমি যালিমদের জন্য আগুন প্রস্ত্তত করেছি, যার প্রাচীরগুলো তাদেরকে বেষ্টন করে রেখেছে। যদি তারা পানি চায়, তবে তাদেরকে দেয়া হবে এমন পানি যা গলিত ধাতুর মত, যা চেহারাগুলো ঝলসে দেবে। কী নিকৃষ্ট পানীয়! আর কী মন্দ বিশ্রামস্থল!",
+    "urdu": "اور کہہ دو کہ (لوگو) یہ قرآن تمہارے پروردگار کی طرف سے برحق ہے تو جو چاہے ایمان لائے اور جو چاہے کافر رہے۔ ہم نے ظالموں کے لئے دوزخ کی آگ تیار کر رکھی ہے جس کی قناتیں ان کو گھیر رہی ہوں گی۔ اور اگر فریاد کریں گے تو ایسے کھولتے ہوئے پانی سے ان کی دادرسی کی جائے گی (جو) پگھلے ہوئے تانبے کی طرح (گرم ہوگا اور جو) مونہوں کو بھون ڈالے گا (ان کے پینے کا) پانی بھی برا اور آرام گاہ بھی بری"
+}

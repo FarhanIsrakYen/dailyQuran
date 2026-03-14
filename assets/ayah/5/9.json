@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Maaida",
+    "surahNameArabic": "المائدة",
+    "surahNameArabicLong": "سورة المائدة",
+    "surahNameTranslation": "The Table",
+    "revelationPlace": "Madina",
+    "totalAyah": 120,
+    "surahNo": 5,
+    "ayahNo": 9,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/5_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/005009.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/5_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/005009.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/5_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/005009.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/5_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/005009.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/5_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/005009.mp3"
+        }
+    },
+    "english": "Allah has promised those who believe and do good ˹His˺ forgiveness and a great reward.",
+    "arabic1": "وَعَدَ ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ ۙ لَهُم مَّغْفِرَةٌ وَأَجْرٌ عَظِيمٌ",
+    "arabic2": "وعد الله الذين امنوا وعملوا الصالحات لهم مغفرة واجر عظيم",
+    "bengali": "যারা ঈমান এনেছে এবং নেক কাজ করেছে আল্লাহ ওয়াদা দিয়েছেন, তাদের জন্য রয়েছে ক্ষমা ও মহাপুরস্কার।",
+    "urdu": "جو لوگ ایمان لائے اور نیک کام کرتے رہے ان سے خدا نے وعدہ فرمایا ہے کہ ان کے لیے بخشش اور اجر عظیم ہے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Muhammad",
+    "surahNameArabic": "محمد",
+    "surahNameArabicLong": "سورة محمد",
+    "surahNameTranslation": "Muhammad",
+    "revelationPlace": "Madina",
+    "totalAyah": 38,
+    "surahNo": 47,
+    "ayahNo": 30,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/47_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/047030.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/47_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/047030.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/47_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/047030.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/47_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/047030.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/47_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/047030.mp3"
+        }
+    },
+    "english": "Had We willed, We could have truly shown them to you ˹O Prophet˺, and you would have certainly recognized them by their appearance. But you will surely recognize them by their tone of speech. And Allah ˹fully˺ knows your doings ˹O people˺.",
+    "arabic1": "وَلَوْ نَشَآءُ لَأَرَيْنَـٰكَهُمْ فَلَعَرَفْتَهُم بِسِيمَـٰهُمْ ۚ وَلَتَعْرِفَنَّهُمْ فِى لَحْنِ ٱلْقَوْلِ ۚ وَٱللَّهُ يَعْلَمُ أَعْمَـٰلَكُمْ",
+    "arabic2": "ولو نشاء لاريناكهم فلعرفتهم بسيماهم ولتعرفنهم في لحن القول والله يعلم اعمالكم",
+    "bengali": "আর যদি আমি চাইতাম তবে আমি তোমাকে এদের দেখিয়ে দিতে পারতাম। ফলে লক্ষণ দেখেই তুমি তাদের চিনতে পারতে। তবে তুমি অবশ্যই কথার ভঙ্গিতে তাদের চিনতে পারবে। আল্লাহ তোমাদের আমলসমূহ জানেন।",
+    "urdu": "اور اگر ہم چاہتے تو وہ لوگ تم کو دکھا بھی دیتے اور تم ان کو ان کے چہروں ہی سے پہچان لیتے۔ اور تم انہیں (ان کے) انداز گفتگو ہی سے پہچان لو گے! اور خدا تمہارے اعمال سے واقف ہے"
+}

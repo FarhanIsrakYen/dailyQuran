@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Anfaal",
+    "surahNameArabic": "الأنفال",
+    "surahNameArabicLong": "سورة الأنفال",
+    "surahNameTranslation": "The Spoils of War",
+    "revelationPlace": "Madina",
+    "totalAyah": 75,
+    "surahNo": 8,
+    "ayahNo": 30,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/8_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/008030.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/8_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/008030.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/8_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/008030.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/8_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/008030.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/8_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/008030.mp3"
+        }
+    },
+    "english": "And ˹remember, O  Prophet,˺ when the disbelievers conspired to capture, kill, or exile you. They planned, but Allah also planned. And Allah is the best of planners.",
+    "arabic1": "وَإِذْ يَمْكُرُ بِكَ ٱلَّذِينَ كَفَرُوا۟ لِيُثْبِتُوكَ أَوْ يَقْتُلُوكَ أَوْ يُخْرِجُوكَ ۚ وَيَمْكُرُونَ وَيَمْكُرُ ٱللَّهُ ۖ وَٱللَّهُ خَيْرُ ٱلْمَـٰكِرِينَ",
+    "arabic2": "واذ يمكر بك الذين كفروا ليثبتوك او يقتلوك او يخرجوك ويمكرون ويمكر الله والله خير الماكرين",
+    "bengali": "আর যখন কাফিররা তোমাকে নিয়ে ষড়যন্ত্র করছিল, তোমাকে বন্দী করতে অথবা তোমাকে হত্যা করতে কিংবা তোমাকে বের করে দিতে। আর তারা ষড়যন্ত্র করে এবং আল্লাহও ষড়যন্ত্র করেন। আর আল্লাহ হচ্ছেন ষড়যন্ত্রকারীদের মধ্যে উত্তম।",
+    "urdu": "اور (اے محمدﷺ اس وقت کو یاد کرو) جب کافر لوگ تمہارے بارے میں چال چل رہے تھے کہ تم کو قید کر دیں یا جان سے مار ڈالیں یا (وطن سے) نکال دیں تو (ادھر تو) وہ چال چل رہے تھے اور (اُدھر) خدا چال چل رہا تھا۔ اور خدا سب سے بہتر چال چلنے والا ہے"
+}

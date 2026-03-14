@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Ahzaab",
+    "surahNameArabic": "الأحزاب",
+    "surahNameArabicLong": "سورة الأحزاب",
+    "surahNameTranslation": "The Clans",
+    "revelationPlace": "Madina",
+    "totalAyah": 73,
+    "surahNo": 33,
+    "ayahNo": 18,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/33_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/033018.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/33_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/033018.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/33_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/033018.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/33_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/033018.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/33_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/033018.mp3"
+        }
+    },
+    "english": "Allah knows well those among you who discourage ˹others from fighting˺, saying ˹secretly˺ to their brothers, “Stay with us,” and who themselves hardly take part in fighting.",
+    "arabic1": "۞ قَدْ يَعْلَمُ ٱللَّهُ ٱلْمُعَوِّقِينَ مِنكُمْ وَٱلْقَآئِلِينَ لِإِخْوَٰنِهِمْ هَلُمَّ إِلَيْنَا ۖ وَلَا يَأْتُونَ ٱلْبَأْسَ إِلَّا قَلِيلًا",
+    "arabic2": "قد يعلم الله المعوقين منكم والقائلين لاخوانهم هلم الينا ولا ياتون الباس الا قليلا",
+    "bengali": "আল্লাহ অবশ্যই জানেন তোমাদের মধ্যে কারা বাধাদানকারী এবং কারা তাদের ভাইদেরকে বলে, ‘আমাদের কাছে আস’ তারা খুব কমই যুদ্ধে আসে-",
+    "urdu": "خدا تم میں سے ان لوگوں کو بھی جانتا ہے جو (لوگوں کو) منع کرتے ہیں اور اپنے بھائیوں سے کہتے ہیں کہ ہمارے پاس چلے آؤ۔ اور لڑائی میں نہیں آتے مگر کم"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 262,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_262.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002262.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_262.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002262.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_262.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002262.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_262.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002262.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_262.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002262.mp3"
+        }
+    },
+    "english": "Those who spend their wealth in the cause of Allah and do not follow their charity with reminders of their generosity or hurtful words—they will get their reward from their Lord, and there will be no fear for them, nor will they grieve.",
+    "arabic1": "ٱلَّذِينَ يُنفِقُونَ أَمْوَٰلَهُمْ فِى سَبِيلِ ٱللَّهِ ثُمَّ لَا يُتْبِعُونَ مَآ أَنفَقُوا۟ مَنًّا وَلَآ أَذًى ۙ لَّهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+    "arabic2": "الذين ينفقون اموالهم في سبيل الله ثم لا يتبعون ما انفقوا منا ولا اذى لهم اجرهم عند ربهم ولا خوف عليهم ولا هم يحزنون",
+    "bengali": "যারা আল্লাহর রাস্তায় তাদের সম্পদ ব্যয় করে, অতঃপর তারা যা ব্যয় করেছে, তার পেছনে খোঁটা দেয় না এবং কোন কষ্টও দেয় না, তাদের জন্য তাদের রবের নিকট তাদের প্রতিদান রয়েছে এবং তাদের কোন ভয় নেই, আর তারা চিন্তিত হবে না।",
+    "urdu": "جو لوگ اپنا مال خدا کے رستے میں صرف کرتے ہیں پھر اس کے بعد نہ اس خرچ کا (کسی پر) احسان رکھتے ہیں اور نہ (کسی کو) تکلیف دیتے ہیں۔ ان کا صلہ ان کے پروردگار کے پاس (تیار) ہے۔ اور (قیامت کے روز) نہ ان کو کچھ خوف ہوگا اور نہ وہ غمگین ہوں گے"
+}

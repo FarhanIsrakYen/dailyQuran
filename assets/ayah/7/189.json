@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 189,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/7_189.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/007189.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/7_189.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/007189.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/7_189.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/007189.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/7_189.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/007189.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/7_189.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/007189.mp3"
+        }
+    },
+    "english": "He is the One Who created you from a single soul, then from it made its spouse so he may find comfort in her. After he had been united with her, she carried a light burden that developed gradually. When it grew heavy, they prayed to Allah, their Lord, “If you grant us good offspring, we will certainly be grateful.”",
+    "arabic1": "۞ هُوَ ٱلَّذِى خَلَقَكُم مِّن نَّفْسٍ وَٰحِدَةٍ وَجَعَلَ مِنْهَا زَوْجَهَا لِيَسْكُنَ إِلَيْهَا ۖ فَلَمَّا تَغَشَّىٰهَا حَمَلَتْ حَمْلًا خَفِيفًا فَمَرَّتْ بِهِۦ ۖ فَلَمَّآ أَثْقَلَت دَّعَوَا ٱللَّهَ رَبَّهُمَا لَئِنْ ءَاتَيْتَنَا صَـٰلِحًا لَّنَكُونَنَّ مِنَ ٱلشَّـٰكِرِينَ",
+    "arabic2": "هو الذي خلقكم من نفس واحدة وجعل منها زوجها ليسكن اليها فلما تغشاها حملت حملا خفيفا فمرت به فلما اثقلت دعوا الله ربهما لئن اتيتنا صالحا لنكونن من الشاكرين",
+    "bengali": "তিনিই সে সত্তা যিনি তোমাদেরকে সৃষ্টি করেছেন এক ব্যক্তি থেকে এবং তার থেকে বানিয়েছেন তার সঙ্গিনীকে, যাতে সে তার নিকট প্রশান্তি লাভ করে। অতঃপর যখন সে তার সঙ্গিনীর সাথে মিলিত হল, তখন সে হালকা গর্ভ ধারণ করল এবং তা নিয়ে চলাফেরা করতে থাকল। অতঃপর যখন সে ভারী হল, তখন উভয়ে তাদের রব আল্লাহকে ডাকল, ‘যদি আপনি আমাদেরকে সুসন্তান দান করেন তবে অবশ্যই আমরা কৃতজ্ঞদের অন্তর্ভুক্ত হব’।",
+    "urdu": "وہ خدا ہی تو ہے جس نے تم کو ایک شخص سے پیدا کیا اور اس سے اس کا جوڑا بنایا تاکہ اس سے راحت حاصل کرے۔ سو جب وہ اس کے پاس جاتا ہے تو اسے ہلکا سا حمل رہ جاتا ہے اور وہ اس کے ساتھ چلتی پھرتی ہے۔ پھر جب کچھ بوجھ معلوم کرتی یعنی بچہ پیٹ میں بڑا ہوتا ہے تو دونوں میاں بیوی اپنے پروردگار خدائے عزوجل سے التجا کرتے ہیں کہ اگر تو ہمیں صحیح وسالم (بچہ) دے گا تو ہم تیرے شکر گذار ہوں گے"
+}

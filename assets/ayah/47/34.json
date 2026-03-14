@@ -1,0 +1,42 @@
+{
+    "surahName": "Muhammad",
+    "surahNameArabic": "محمد",
+    "surahNameArabicLong": "سورة محمد",
+    "surahNameTranslation": "Muhammad",
+    "revelationPlace": "Madina",
+    "totalAyah": 38,
+    "surahNo": 47,
+    "ayahNo": 34,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/47_34.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/047034.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/47_34.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/047034.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/47_34.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/047034.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/47_34.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/047034.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/47_34.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/047034.mp3"
+        }
+    },
+    "english": "Surely those who disbelieve, hinder ˹others˺ from the Way of Allah, and then die as disbelievers; Allah will never forgive them.",
+    "arabic1": "إِنَّ ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ ثُمَّ مَاتُوا۟ وَهُمْ كُفَّارٌ فَلَن يَغْفِرَ ٱللَّهُ لَهُمْ",
+    "arabic2": "ان الذين كفروا وصدوا عن سبيل الله ثم ماتوا وهم كفار فلن يغفر الله لهم",
+    "bengali": "নিশ্চয়ই যারা কুফরী করেছে এবং আল্লাহর পথে বাধা দিয়েছে। তারপর কাফির অবস্থায়ই মারা গেছে, আল্লাহ কখনই তাদের ক্ষমা করবেন না।",
+    "urdu": "جو لوگ کافر ہوئے اور خدا کے رستے سے روکتے رہے پھر کافر ہی مرگئے خدا ان کو ہرگز نہیں بخشے گا"
+}

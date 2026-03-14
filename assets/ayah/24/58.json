@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Noor",
+    "surahNameArabic": "النور",
+    "surahNameArabicLong": "سورة النور",
+    "surahNameTranslation": "The Light",
+    "revelationPlace": "Madina",
+    "totalAyah": 64,
+    "surahNo": 24,
+    "ayahNo": 58,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/24_58.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/024058.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/24_58.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/024058.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/24_58.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/024058.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/24_58.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/024058.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/24_58.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/024058.mp3"
+        }
+    },
+    "english": "O believers! Let those ˹bondspeople˺ in your possession and those of you who are still under age ask for your permission ˹to come in˺ at three times: before dawn prayer, when you take off your ˹outer˺ clothes at noon, and after the late evening prayer. ˹These are˺ three times of privacy for you. Other than these times, there is no blame on you or them to move freely, attending to one another. This is how Allah makes the revelations clear to you, for Allah is All-Knowing, All-Wise.",
+    "arabic1": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لِيَسْتَـْٔذِنكُمُ ٱلَّذِينَ مَلَكَتْ أَيْمَـٰنُكُمْ وَٱلَّذِينَ لَمْ يَبْلُغُوا۟ ٱلْحُلُمَ مِنكُمْ ثَلَـٰثَ مَرَّٰتٍ ۚ مِّن قَبْلِ صَلَوٰةِ ٱلْفَجْرِ وَحِينَ تَضَعُونَ ثِيَابَكُم مِّنَ ٱلظَّهِيرَةِ وَمِنۢ بَعْدِ صَلَوٰةِ ٱلْعِشَآءِ ۚ ثَلَـٰثُ عَوْرَٰتٍ لَّكُمْ ۚ لَيْسَ عَلَيْكُمْ وَلَا عَلَيْهِمْ جُنَاحٌۢ بَعْدَهُنَّ ۚ طَوَّٰفُونَ عَلَيْكُم بَعْضُكُمْ عَلَىٰ بَعْضٍ ۚ كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ لَكُمُ ٱلْـَٔايَـٰتِ ۗ وَٱللَّهُ عَلِيمٌ حَكِيمٌ",
+    "arabic2": "يا ايها الذين امنوا ليستاذنكم الذين ملكت ايمانكم والذين لم يبلغوا الحلم منكم ثلاث مرات من قبل صلاة الفجر وحين تضعون ثيابكم من الظهيرة ومن بعد صلاة العشاء ثلاث عورات لكم ليس عليكم ولا عليهم جناح بعدهن طوافون عليكم بعضكم على بعض كذلك يبين الله لكم الايات والله عليم حكيم",
+    "bengali": "হে মুমিনগণ, তোমাদের ডানহাত যার মালিক হয়েছে এবং তোমাদের মধ্যে যারা প্রাপ্তবয়স্ক হয়নি তারা যেন অবশ্যই তিন সময়ে অনুমতি গ্রহণ করে। ফজরের সালাতের পূর্বে, দুপুরে যখন তোমরা তোমাদের পোশাক খুলে রাখ, এবং ‘ইশার সালাতের পর; এই তিনটি তোমাদের [গোপনীয়তার] সময়। এই তিন সময়ের পর তোমাদের এবং তাদের কোন দোষ নেই। তোমাদের একে অন্যের কাছে যাতায়াত করতেই হয়। এভাবে আল্লাহ তোমাদের উদ্দেশ্যে তাঁর আয়াতসমূহ বর্ণনা করেন। আল্লাহ মহাজ্ঞানী, প্রজ্ঞাময়।",
+    "urdu": "مومنو! تمہارے غلام لونڈیاں اور جو بچّے تم میں سے بلوغ کو نہیں پہنچے تین دفعہ یعنی (تین اوقات میں) تم سے اجازت لیا کریں۔ (ایک تو) نماز صبح سے پہلے اور (دوسرے گرمی کی دوپہر کو) جب تم کپڑے اتار دیتے ہو۔ اور تیسرے عشاء کی نماز کے بعد۔ (یہ) تین (وقت) تمہارے پردے (کے) ہیں ان کے (آگے) پیچھے (یعنی دوسرے وقتوں میں) نہ تم پر کچھ گناہ ہے اور نہ ان پر۔ کہ کام کاج کے لئے ایک دوسرے کے پاس آتے رہتے ہو۔ اس طرح خدا اپنی آیتیں تم سے کھول کھول کر بیان فرماتا ہے اور خدا بڑا علم والا اور بڑا حکمت والا ہے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 74,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_74.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002074.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_74.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002074.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_74.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002074.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_74.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002074.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_74.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002074.mp3"
+        }
+    },
+    "english": "Even then your hearts became hardened like a rock or even harder, for some rocks gush rivers; others split, spilling water; while others are humbled in awe of Allah. And Allah is never unaware of what you do.",
+    "arabic1": "ثُمَّ قَسَتْ قُلُوبُكُم مِّنۢ بَعْدِ ذَٰلِكَ فَهِىَ كَٱلْحِجَارَةِ أَوْ أَشَدُّ قَسْوَةً ۚ وَإِنَّ مِنَ ٱلْحِجَارَةِ لَمَا يَتَفَجَّرُ مِنْهُ ٱلْأَنْهَـٰرُ ۚ وَإِنَّ مِنْهَا لَمَا يَشَّقَّقُ فَيَخْرُجُ مِنْهُ ٱلْمَآءُ ۚ وَإِنَّ مِنْهَا لَمَا يَهْبِطُ مِنْ خَشْيَةِ ٱللَّهِ ۗ وَمَا ٱللَّهُ بِغَـٰفِلٍ عَمَّا تَعْمَلُونَ",
+    "arabic2": "ثم قست قلوبكم من بعد ذلك فهي كالحجارة او اشد قسوة وان من الحجارة لما يتفجر منه الانهار وان منها لما يشقق فيخرج منه الماء وان منها لما يهبط من خشية الله وما الله بغافل عما تعملون",
+    "bengali": "অতঃপর তোমাদের অন্তরসমূহ এর পরে কঠিন হয়ে গেল যেন তা পাথরের মত কিংবা তার চেয়েও শক্ত। আর নিশ্চয় পাথরের মধ্যে কিছু আছে, যা থেকে নহর উৎসারিত হয়। আর নিশ্চয় তার মধ্যে কিছু আছে যা চূর্ণ হয়। ফলে তা থেকে পানি বের হয়। আর নিশ্চয় তার মধ্যে কিছু আছে যা আল্লাহর ভয়ে ধ্বসে পড়ে। আর আল্লাহ তোমরা যা কর, সে সম্পর্কে গাফেল নন।",
+    "urdu": "پھر اس کے بعد تمہارے دل سخت ہو گئے۔ گویا وہ پتھر ہیں یا ان سے بھی زیادہ سخت۔ اور پتھر تو بعضے ایسے ہوتے ہیں کہ ان میں سے چشمے پھوٹ نکلتے ہیں، اور بعضے ایسے ہوتے ہیں کہ پھٹ جاتے ہیں،اور ان میں سے پانی نکلنے لگتا ہے، اور بعضے ایسے ہوتے ہیں کہ خدا کے خوف سے گر پڑتے ہیں، اور خدا تمہارے عملوں سے بے خبر نہیں"
+}

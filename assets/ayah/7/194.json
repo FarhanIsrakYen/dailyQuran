@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 194,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/7_194.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/007194.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/7_194.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/007194.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/7_194.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/007194.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/7_194.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/007194.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/7_194.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/007194.mp3"
+        }
+    },
+    "english": "Those ˹idols˺ you invoke besides Allah are created beings like yourselves. So call upon them and see if they will answer you, if your claims are true!",
+    "arabic1": "إِنَّ ٱلَّذِينَ تَدْعُونَ مِن دُونِ ٱللَّهِ عِبَادٌ أَمْثَالُكُمْ ۖ فَٱدْعُوهُمْ فَلْيَسْتَجِيبُوا۟ لَكُمْ إِن كُنتُمْ صَـٰدِقِينَ",
+    "arabic2": "ان الذين تدعون من دون الله عباد امثالكم فادعوهم فليستجيبوا لكم ان كنتم صادقين",
+    "bengali": "আল্লাহ ছাড়া যাদেরকে তোমরা ডাক তারা তোমাদের মত বান্দা। সুতরাং তোমরা তাদেরকে ডাক। অতঃপর তারা যেন তোমাদের ডাকে সাড়া দেয়, যদি তোমরা সত্যবাদী হও।",
+    "urdu": "(مشرکو) جن کو تم خدا کے سوا پکارتے ہو وہ تمہاری طرح کے بندے ہی ہیں (اچھا) تم ان کو پکارو اگر سچے ہو تو چاہیئے کہ وہ تم کو جواب بھی دیں"
+}

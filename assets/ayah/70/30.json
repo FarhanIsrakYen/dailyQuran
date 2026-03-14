@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Ma'aarij",
+    "surahNameArabic": "المعارج",
+    "surahNameArabicLong": "سورة المعارج",
+    "surahNameTranslation": "The Ascending Stairways",
+    "revelationPlace": "Mecca",
+    "totalAyah": 44,
+    "surahNo": 70,
+    "ayahNo": 30,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/70_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/070030.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/70_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/070030.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/70_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/070030.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/70_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/070030.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/70_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/070030.mp3"
+        }
+    },
+    "english": "except with their wives or those ˹bondwomen˺ in their possession, for then they are free from blame",
+    "arabic1": "إِلَّا عَلَىٰٓ أَزْوَٰجِهِمْ أَوْ مَا مَلَكَتْ أَيْمَـٰنُهُمْ فَإِنَّهُمْ غَيْرُ مَلُومِينَ",
+    "arabic2": "الا على ازواجهم او ما ملكت ايمانهم فانهم غير ملومين",
+    "bengali": "তবে তাদের স্ত্রী ও তাদের ডান হাত যাদের মালিক হয়েছে সে দাসীগণের ক্ষেত্র ছাড়া। তাহলে তারা সে ক্ষেত্রে নিন্দনীয় হবে না।",
+    "urdu": "مگر اپنی بیویوں یا لونڈیوں سے کہ (ان کے پاس جانے پر) انہیں کچھ ملامت نہیں"
+}

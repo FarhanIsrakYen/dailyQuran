@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Naml",
+    "surahNameArabic": "النمل",
+    "surahNameArabicLong": "سورة النمل",
+    "surahNameTranslation": "The Ant",
+    "revelationPlace": "Mecca",
+    "totalAyah": 93,
+    "surahNo": 27,
+    "ayahNo": 24,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/27_24.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/027024.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/27_24.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/027024.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/27_24.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/027024.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/27_24.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/027024.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/27_24.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/027024.mp3"
+        }
+    },
+    "english": "I found her and her people prostrating to the sun instead of Allah. For Satan has made their deeds appealing to them—hindering them from the ˹Right˺ Way and leaving them unguided—",
+    "arabic1": "وَجَدتُّهَا وَقَوْمَهَا يَسْجُدُونَ لِلشَّمْسِ مِن دُونِ ٱللَّهِ وَزَيَّنَ لَهُمُ ٱلشَّيْطَـٰنُ أَعْمَـٰلَهُمْ فَصَدَّهُمْ عَنِ ٱلسَّبِيلِ فَهُمْ لَا يَهْتَدُونَ",
+    "arabic2": "وجدتها وقومها يسجدون للشمس من دون الله وزين لهم الشيطان اعمالهم فصدهم عن السبيل فهم لا يهتدون",
+    "bengali": "‘আমি তাকে ও তার কওমকে দেখতে পেলাম তারা আল্লাহর পরিবর্তে সূর্যকে সিজদা করছে। আর শয়তান তাদের কার্যাবলীকে তাদের জন্য সৌন্দর্যমন্ডিত করে দিয়েছে এবং তাদেরকে সৎপথ থেকে নিবৃত করেছে, ফলে তারা হিদায়াত পায় না’।",
+    "urdu": "میں نے دیکھا کہ وہ اور اس کی قوم خدا کو چھوڑ کر آفتاب کو سجدہ کرتے ہیں اور شیطان نے ان کے اعمال انہیں آراستہ کر دکھائے ہیں اور ان کو رستے سے روک رکھا ہے پس وہ رستے پر نہیں آئے"
+}

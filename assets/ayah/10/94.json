@@ -1,0 +1,42 @@
+{
+    "surahName": "Yunus",
+    "surahNameArabic": "يونس",
+    "surahNameArabicLong": "سورة يونس",
+    "surahNameTranslation": "Jonas",
+    "revelationPlace": "Mecca",
+    "totalAyah": 109,
+    "surahNo": 10,
+    "ayahNo": 94,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/10_94.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/010094.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/10_94.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/010094.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/10_94.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/010094.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/10_94.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/010094.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/10_94.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/010094.mp3"
+        }
+    },
+    "english": "If you ˹O Prophet˺ are in doubt about ˹these stories˺ that We have revealed to you, then ask those who read the Scripture before you. The truth has certainly come to you from your Lord, so do not be one of those who doubt",
+    "arabic1": "فَإِن كُنتَ فِى شَكٍّ مِّمَّآ أَنزَلْنَآ إِلَيْكَ فَسْـَٔلِ ٱلَّذِينَ يَقْرَءُونَ ٱلْكِتَـٰبَ مِن قَبْلِكَ ۚ لَقَدْ جَآءَكَ ٱلْحَقُّ مِن رَّبِّكَ فَلَا تَكُونَنَّ مِنَ ٱلْمُمْتَرِينَ",
+    "arabic2": "فان كنت في شك مما انزلنا اليك فاسال الذين يقرءون الكتاب من قبلك لقد جاءك الحق من ربك فلا تكونن من الممترين",
+    "bengali": "সুতরাং আমি তোমার নিকট যা নাযিল করেছি, তা নিয়ে তুমি যদি সন্দেহে থাক, তাহলে যারা তোমার পূর্ব থেকেই কিতাব পাঠ করছে তাদেরকে জিজ্ঞাসা কর। অবশ্যই তোমার নিকট তোমার রবের পক্ষ থেকে সত্য এসেছে। সুতরাং তুমি সন্দেহ পোষণকারীদের অন্তর্ভুক্ত হয়ো না।",
+    "urdu": "اگر تم کو اس (کتاب کے) بارے میں جو ہم نے تم پر نازل کی ہے کچھ شک ہو تو جو لوگ تم سے پہلے کی (اُتری ہوئی) کتابیں پڑھتے ہیں ان سے پوچھ لو۔ تمہارے پروردگار کی طرف سے تمہارے پاس حق آچکا ہے تو تم ہرگز شک کرنے والوں میں نہ ہونا"
+}

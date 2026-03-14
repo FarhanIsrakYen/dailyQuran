@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 206,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/7_206.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/007206.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/7_206.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/007206.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/7_206.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/007206.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/7_206.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/007206.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/7_206.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/007206.mp3"
+        }
+    },
+    "english": "Surely those ˹angels˺ nearest to your Lord are not too proud to worship Him. They glorify Him. And to Him they prostrate.",
+    "arabic1": "إِنَّ ٱلَّذِينَ عِندَ رَبِّكَ لَا يَسْتَكْبِرُونَ عَنْ عِبَادَتِهِۦ وَيُسَبِّحُونَهُۥ وَلَهُۥ يَسْجُدُونَ ۩",
+    "arabic2": "ان الذين عند ربك لا يستكبرون عن عبادته ويسبحونه وله يسجدون",
+    "bengali": "নিশ্চয় যারা তোমার রবের নিকট আছে তারা তাঁর ইবাদাতের ব্যাপারে অহঙ্কার করে না এবং তার তাসবীহ পাঠ করে, আর তাঁর জন্যই সিজদা করে।[সাজদাহ]",
+    "urdu": "جو لوگ تمہارے پروردگار کے پاس ہیں وہ اس کی عبادت سے گردن کشی نہیں کرتے اور اس پاک ذات کو یاد کرتے اور اس کے آگے سجدے کرتے رہتے ہیں"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Hud",
+    "surahNameArabic": "هود",
+    "surahNameArabicLong": "سورة هود",
+    "surahNameTranslation": "Hud",
+    "revelationPlace": "Mecca",
+    "totalAyah": 123,
+    "surahNo": 11,
+    "ayahNo": 44,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/11_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/011044.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/11_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/011044.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/11_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/011044.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/11_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/011044.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/11_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/011044.mp3"
+        }
+    },
+    "english": "And it was said, “O earth! Swallow up your water. And O  sky! Withhold ˹your rain˺.” The floodwater receded and the decree was carried out. The Ark rested on Mount Judi, and it was said, “Away with the wrongdoing people!”",
+    "arabic1": "وَقِيلَ يَـٰٓأَرْضُ ٱبْلَعِى مَآءَكِ وَيَـٰسَمَآءُ أَقْلِعِى وَغِيضَ ٱلْمَآءُ وَقُضِىَ ٱلْأَمْرُ وَٱسْتَوَتْ عَلَى ٱلْجُودِىِّ ۖ وَقِيلَ بُعْدًا لِّلْقَوْمِ ٱلظَّـٰلِمِينَ",
+    "arabic2": "وقيل يا ارض ابلعي ماءك ويا سماء اقلعي وغيض الماء وقضي الامر واستوت على الجودي وقيل بعدا للقوم الظالمين",
+    "bengali": "আর বলা হল, ‘হে যমীন, তুমি তোমার পানি চুষে নাও, আর হে আসমান, বিরত হও’। অতঃপর পানি কমে গেল এবং (আল্লাহর) সিদ্ধান্ত বাস্তবায়িত হল, আর নৌকা জুদী পর্বতের উপর উঠল এবং ঘোষণা করা হল, ‘ধ্বংস যালিম কওমের জন্য’।",
+    "urdu": "اور حکم دیا گیا کہ اے زمین اپنا پانی نگل جا اور اے آسمان تھم جا۔ تو پانی خشک ہوگیا اور کام تمام کردیا گیا اور کشی کوہ جودی پر جا ٹھہری۔ اور کہہ دیا گیا کہ بےانصاف لوگوں پر لعنت"
+}

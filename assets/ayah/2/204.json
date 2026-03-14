@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 204,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_204.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002204.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_204.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002204.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_204.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002204.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_204.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002204.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_204.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002204.mp3"
+        }
+    },
+    "english": "There are some ˹hypocrites˺ who impress you with their views regarding worldly affairs and openly call upon Allah to witness what is in their hearts, yet they are your worst adversaries.",
+    "arabic1": "وَمِنَ ٱلنَّاسِ مَن يُعْجِبُكَ قَوْلُهُۥ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا وَيُشْهِدُ ٱللَّهَ عَلَىٰ مَا فِى قَلْبِهِۦ وَهُوَ أَلَدُّ ٱلْخِصَامِ",
+    "arabic2": "ومن الناس من يعجبك قوله في الحياة الدنيا ويشهد الله على ما في قلبه وهو الد الخصام",
+    "bengali": "আর মানুষের মধ্যে এমনও আছে, যার কথা দুনিয়ার জীবনে তোমাকে অবাক করে এবং সে তার অন্তরে যা রয়েছে, তার উপর আল্লাহকে সাক্ষী রাখে। আর সে কঠিন ঝগড়াকারী।",
+    "urdu": "اور کوئی شخص تو ایسا ہے جس کی گفتگو دنیا کی زندگی میں تم کو دلکش معلوم ہوتی ہے اور وہ اپنی مانی الضمیر پر خدا کو گواہ بناتا ہے حالانکہ وہ سخت جھگڑالو ہے"
+}

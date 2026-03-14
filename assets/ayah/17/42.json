@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 42,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/17_42.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/017042.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/17_42.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/017042.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/17_42.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/017042.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/17_42.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/017042.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/17_42.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/017042.mp3"
+        }
+    },
+    "english": "Say, ˹O Prophet,˺ “Had there been other gods besides Him—as they claim—then they would have certainly sought a way to ˹challenge˺ the Lord of the Throne.”",
+    "arabic1": "قُل لَّوْ كَانَ مَعَهُۥٓ ءَالِهَةٌ كَمَا يَقُولُونَ إِذًا لَّٱبْتَغَوْا۟ إِلَىٰ ذِى ٱلْعَرْشِ سَبِيلًا",
+    "arabic2": "قل لو كان معه الهة كما يقولون اذا لابتغوا الى ذي العرش سبيلا",
+    "bengali": "বল, ‘তাঁর সাথে যদি আরো উপাস্য থাকত, যেমন তারা বলে, তবে তারা আরশের অধিপতি পর্যন্ত পৌঁছার পথ তালাশ করত’।",
+    "urdu": "کہہ دو کہ اگر خدا کے ساتھ اور معبود ہوتے جیسا کہ یہ کہتے ہیں تو وہ ضرور (خدائے) مالک عرش کی طرف (لڑنے بھڑنے کے لئے) رستہ نکالتے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 174,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_174.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002174.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_174.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002174.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_174.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002174.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_174.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002174.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_174.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002174.mp3"
+        }
+    },
+    "english": "Indeed, those who hide Allah’s revelations, trading them for a fleeting gain consume nothing but fire into their bellies. Allah will neither speak to them on the Day of Judgment, nor will He purify them. And they will suffer a painful punishment.",
+    "arabic1": "إِنَّ ٱلَّذِينَ يَكْتُمُونَ مَآ أَنزَلَ ٱللَّهُ مِنَ ٱلْكِتَـٰبِ وَيَشْتَرُونَ بِهِۦ ثَمَنًا قَلِيلًا ۙ أُو۟لَـٰٓئِكَ مَا يَأْكُلُونَ فِى بُطُونِهِمْ إِلَّا ٱلنَّارَ وَلَا يُكَلِّمُهُمُ ٱللَّهُ يَوْمَ ٱلْقِيَـٰمَةِ وَلَا يُزَكِّيهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌ",
+    "arabic2": "ان الذين يكتمون ما انزل الله من الكتاب ويشترون به ثمنا قليلا اولئك ما ياكلون في بطونهم الا النار ولا يكلمهم الله يوم القيامة ولا يزكيهم ولهم عذاب اليم",
+    "bengali": "নিশ্চয় যারা গোপন করে যে কিতাব আল্লাহ নাযিল করেছেন এবং এর বিনিময়ে সামান্য মূল্য গ্রহণ করে, তারা শুধু আগুনই তাদের উদরে পুরে। আর আল্লাহ কিয়ামতের দিনে তাদের সাথে কথা বলবেন না, তাদেরকে পরিশুদ্ধ করবেন না। আর তাদের জন্য রয়েছে যন্ত্রণাদায়ক আযাব।",
+    "urdu": "جو لوگ (خدا) کی کتاب سے ان (آیتوں اور ہدایتوں) کو جو اس نے نازل فرمائی ہیں چھپاتے اور ان کے بدلے تھوڑی سی قیمت (یعنی دنیاوی منفعت)حاصل کرتے ہیں وہ اپنے پیٹوں میں محض آگ بھرتے ہیں۔ ایسے لوگوں سے خدا قیامت کے دن نہ کلام کرے گا اور نہ ان کو (گناہوں سے) پاک کرے گا۔اور ان کے لئے دکھ دینے والا عذاب ہے"
+}

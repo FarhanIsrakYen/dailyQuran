@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Maaida",
+    "surahNameArabic": "المائدة",
+    "surahNameArabicLong": "سورة المائدة",
+    "surahNameTranslation": "The Table",
+    "revelationPlace": "Madina",
+    "totalAyah": 120,
+    "surahNo": 5,
+    "ayahNo": 69,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/5_69.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/005069.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/5_69.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/005069.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/5_69.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/005069.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/5_69.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/005069.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/5_69.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/005069.mp3"
+        }
+    },
+    "english": "Indeed, the believers, Jews, Sabians and Christians—whoever ˹truly˺ believes in Allah and the Last Day and does good, there will be no fear for them, nor will they grieve.",
+    "arabic1": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَٱلَّذِينَ هَادُوا۟ وَٱلصَّـٰبِـُٔونَ وَٱلنَّصَـٰرَىٰ مَنْ ءَامَنَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ وَعَمِلَ صَـٰلِحًا فَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+    "arabic2": "ان الذين امنوا والذين هادوا والصابئون والنصارى من امن بالله واليوم الاخر وعمل صالحا فلا خوف عليهم ولا هم يحزنون",
+    "bengali": "নিশ্চয় যারা ঈমান এনেছে, ইয়াহূদী হয়েছে এবং সাবিঈ ও নাসারারা (তাদের মধ্য থেকে) যে ঈমান এনেছে আল্লাহ ও আখিরাত দিবসে এবং নেককাজ করেছে, তাদের কোন ভয় নেই এবং তারা চিন্তিতও হবে না।",
+    "urdu": "جو لوگ خدا پر اور روز آخرت پر ایمان لائیں گے اور عمل نیک کریں گے خواہ وہ مسلمان ہوں یا یہودی یا ستارہ پرست یا عیسائی ان کو (قیامت کے دن) نہ کچھ خوف ہو گا اور نہ غمناک ہوں گے"
+}

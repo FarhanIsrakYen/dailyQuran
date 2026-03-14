@@ -1,0 +1,42 @@
+{
+    "surahName": "Ghafir",
+    "surahNameArabic": "غافر",
+    "surahNameArabicLong": "سورة غافر",
+    "surahNameTranslation": "The Forgiver",
+    "revelationPlace": "Mecca",
+    "totalAyah": 85,
+    "surahNo": 40,
+    "ayahNo": 79,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/40_79.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/040079.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/40_79.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/040079.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/40_79.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/040079.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/40_79.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/040079.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/40_79.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/040079.mp3"
+        }
+    },
+    "english": "It is Allah Who made cattle for you so that you may ride some and eat others.",
+    "arabic1": "ٱللَّهُ ٱلَّذِى جَعَلَ لَكُمُ ٱلْأَنْعَـٰمَ لِتَرْكَبُوا۟ مِنْهَا وَمِنْهَا تَأْكُلُونَ",
+    "arabic2": "الله الذي جعل لكم الانعام لتركبوا منها ومنها تاكلون",
+    "bengali": "আল্লাহই তোমাদের জন্য গবাদি পশু সৃষ্টি করেছেন, যাতে তোমরা এদের কতকের উপর আরোহণ করতে পার আর কতক তোমরা খেতে পার।",
+    "urdu": "خدا ہی تو ہے جس نے تمہارے لئے چارپائے بنائے تاکہ ان میں سے بعض پر سوار ہو اور بعض کو تم کھاتے ہو"
+}

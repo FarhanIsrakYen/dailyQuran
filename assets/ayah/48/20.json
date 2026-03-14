@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Fath",
+    "surahNameArabic": "الفتح",
+    "surahNameArabicLong": "سورة الفتح",
+    "surahNameTranslation": "The Victory",
+    "revelationPlace": "Madina",
+    "totalAyah": 29,
+    "surahNo": 48,
+    "ayahNo": 20,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/48_20.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/048020.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/48_20.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/048020.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/48_20.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/048020.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/48_20.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/048020.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/48_20.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/048020.mp3"
+        }
+    },
+    "english": "Allah has promised you ˹believers˺ abundant spoils, which you will gain, so He hastened this ˹truce˺ for you. And He has held people’s hands back from ˹harming˺ you, so it may be a sign for the believers, and so He may guide you along the Straight Path.",
+    "arabic1": "وَعَدَكُمُ ٱللَّهُ مَغَانِمَ كَثِيرَةً تَأْخُذُونَهَا فَعَجَّلَ لَكُمْ هَـٰذِهِۦ وَكَفَّ أَيْدِىَ ٱلنَّاسِ عَنكُمْ وَلِتَكُونَ ءَايَةً لِّلْمُؤْمِنِينَ وَيَهْدِيَكُمْ صِرَٰطًا مُّسْتَقِيمًا",
+    "arabic2": "وعدكم الله مغانم كثيرة تاخذونها فعجل لكم هذه وكف ايدي الناس عنكم ولتكون اية للمؤمنين ويهديكم صراطا مستقيما",
+    "bengali": "আল্লাহ তোমাদেরকে প্রভূত গনীমতের ওয়াদা দিয়েছেন যা তোমরা গ্রহণ করবে; অতঃপর এগুলি আগে দিয়েছেন; আর মানুষের হাত তোমাদের থেকে ফিরিয়ে রেখেছেন এবং যাতে এটি মুমিনদের জন্য একটি নিদর্শন হয়, আর তিনি তোমাদেরকে সরল পথ দেখান।",
+    "urdu": "خدا نے تم سے بہت سی غنیمتوں کا وعدہ فرمایا کہ تم ان کو حاصل کرو گے سو اس نے غنیمت کی تمہارے لئے جلدی فرمائی اور لوگوں کے ہاتھ تم سے روک دیئے۔ غرض یہ تھی کہ یہ مومنوں کے لئے (خدا کی) قدرت کا نمونہ ہو اور وہ تم کو سیدھے رستے پر چلائے"
+}

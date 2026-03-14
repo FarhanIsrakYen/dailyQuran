@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nahl",
+    "surahNameArabic": "النحل",
+    "surahNameArabicLong": "سورة النحل",
+    "surahNameTranslation": "The Bee",
+    "revelationPlace": "Mecca",
+    "totalAyah": 128,
+    "surahNo": 16,
+    "ayahNo": 32,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/16_32.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/016032.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/16_32.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/016032.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/16_32.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/016032.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/16_32.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/016032.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/16_32.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/016032.mp3"
+        }
+    },
+    "english": "those whose souls the angels take while they are virtuous, saying ˹to them˺, “Peace be upon you! Enter Paradise for what you used to do.”",
+    "arabic1": "ٱلَّذِينَ تَتَوَفَّىٰهُمُ ٱلْمَلَـٰٓئِكَةُ طَيِّبِينَ ۙ يَقُولُونَ سَلَـٰمٌ عَلَيْكُمُ ٱدْخُلُوا۟ ٱلْجَنَّةَ بِمَا كُنتُمْ تَعْمَلُونَ",
+    "arabic2": "الذين تتوفاهم الملائكة طيبين يقولون سلام عليكم ادخلوا الجنة بما كنتم تعملون",
+    "bengali": "ফেরেশতারা যাদের মৃত্যু ঘটায় উত্তম অবস্থায়, তারা বলে, ‘তোমাদের উপর সালাম। জান্নাতে প্রবেশ কর, যে আমল তোমরা করতে তার কারণে।",
+    "urdu": "(ان کی کیفیت یہ ہے کہ) جب فرشتے ان کی جانیں نکالنے لگتے ہیں اور یہ (کفر وشرک سے) پاک ہوتے ہیں تو سلام علیکم کہتے ہیں (اور کہتے ہیں کہ) جو عمل تم کیا کرتے تھے ان کے بدلے میں بہشت میں داخل ہوجاؤ"
+}

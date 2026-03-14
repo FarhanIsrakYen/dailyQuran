@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nahl",
+    "surahNameArabic": "النحل",
+    "surahNameArabicLong": "سورة النحل",
+    "surahNameTranslation": "The Bee",
+    "revelationPlace": "Mecca",
+    "totalAyah": 128,
+    "surahNo": 16,
+    "ayahNo": 59,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/16_59.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/016059.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/16_59.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/016059.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/16_59.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/016059.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/16_59.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/016059.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/16_59.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/016059.mp3"
+        }
+    },
+    "english": "He hides himself from the people because of the bad news he has received. Should he keep her in disgrace, or bury her ˹alive˺ in the ground? Evil indeed is their judgment!",
+    "arabic1": "يَتَوَٰرَىٰ مِنَ ٱلْقَوْمِ مِن سُوٓءِ مَا بُشِّرَ بِهِۦٓ ۚ أَيُمْسِكُهُۥ عَلَىٰ هُونٍ أَمْ يَدُسُّهُۥ فِى ٱلتُّرَابِ ۗ أَلَا سَآءَ مَا يَحْكُمُونَ",
+    "arabic2": "يتوارى من القوم من سوء ما بشر به ايمسكه على هون ام يدسه في التراب الا ساء ما يحكمون",
+    "bengali": "তাকে যে সংবাদ দেয়া হয়েছে, সে দুঃখে সে কওম থেকে আত্মগোপন করে। আপমান সত্ত্বেও কি একে রেখে দেবে, না মাটিতে পুঁতে ফেলবে? জেনে রেখ, তারা যা ফয়সালা করে, তা কতই না মন্দ!",
+    "urdu": "اور اس خبر بد سے (جو وہ سنتا ہے) لوگوں سے چھپتا پھرتا ہے (اور سوچتا ہے) کہ آیا ذلت برداشت کرکے لڑکی کو زندہ رہنے دے یا زمین میں گاڑ دے۔ دیکھو یہ جو تجویز کرتے ہیں بہت بری ہے"
+}

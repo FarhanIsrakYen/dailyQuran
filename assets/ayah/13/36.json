@@ -1,0 +1,42 @@
+{
+    "surahName": "Ar-Ra'd",
+    "surahNameArabic": "الرعد",
+    "surahNameArabicLong": "سورة الرعد",
+    "surahNameTranslation": "The Thunder",
+    "revelationPlace": "Madina",
+    "totalAyah": 43,
+    "surahNo": 13,
+    "ayahNo": 36,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/13_36.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/013036.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/13_36.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/013036.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/13_36.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/013036.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/13_36.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/013036.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/13_36.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/013036.mp3"
+        }
+    },
+    "english": "˹The believers among˺ those who were given the Scripture rejoice at what has been revealed to you ˹O Prophet˺, while some ˹disbelieving˺ factions deny a portion of it. Say, “I have only been commanded to worship Allah, associating none with Him ˹in worship˺. To Him I invite ˹all˺, and to Him is my return.”",
+    "arabic1": "وَٱلَّذِينَ ءَاتَيْنَـٰهُمُ ٱلْكِتَـٰبَ يَفْرَحُونَ بِمَآ أُنزِلَ إِلَيْكَ ۖ وَمِنَ ٱلْأَحْزَابِ مَن يُنكِرُ بَعْضَهُۥ ۚ قُلْ إِنَّمَآ أُمِرْتُ أَنْ أَعْبُدَ ٱللَّهَ وَلَآ أُشْرِكَ بِهِۦٓ ۚ إِلَيْهِ أَدْعُوا۟ وَإِلَيْهِ مَـَٔابِ",
+    "arabic2": "والذين اتيناهم الكتاب يفرحون بما انزل اليك ومن الاحزاب من ينكر بعضه قل انما امرت ان اعبد الله ولا اشرك به اليه ادعو واليه ماب",
+    "bengali": "আর আমি যাদেরকে কিতাব দিয়েছি, তোমার উপর যা নাযিল হয়, তাতে তারা উৎফুল্ল হয়। আর দলগুলোর মধ্যে কেউ কেউ এর কিছু অংশকে অস্বীকার করে। বল, ‘আমাকে কেবল আদেশ দেয়া হয়েছে, যেন আমি আল্লাহর ইবাদাত করি এবং তাঁর সাথে শরীক না করি। আমি তাঁরই দিকে দাওয়াত দেই এবং তাঁরই নিকট আমার প্রত্যাবর্তনস্থল’।",
+    "urdu": "اور جن لوگوں کو ہم نے کتاب دی ہے وہ اس (کتاب) سے جو تم پر نازل ہوئی ہے خوش ہوتے ہیں اور بعض فرقے اس کی بعض باتیں نہیں بھی مانتے۔ کہہ دو کہ مجھ کو یہی حکم ہوا ہے کہ خدا ہی کی عبادت کروں اور اس کے ساتھ کسی کو شریک نہ بناؤں۔ میں اسی کی طرف بلاتا ہوں اور اسی کی طرف مجھے لوٹنا ہے"
+}

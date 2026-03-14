@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 178,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_178.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002178.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_178.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002178.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_178.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002178.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_178.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002178.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_178.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002178.mp3"
+        }
+    },
+    "english": "O believers! ˹The law of˺ retaliation is set for you in cases of murder—a free man for a free man, a slave for a slave, and a female for a female. But if the offender is pardoned by the victim’s guardian, then blood-money should be decided fairly and payment should be made courteously. This is a concession and a mercy from your Lord. But whoever transgresses after that will suffer a painful punishment.",
+    "arabic1": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُتِبَ عَلَيْكُمُ ٱلْقِصَاصُ فِى ٱلْقَتْلَى ۖ ٱلْحُرُّ بِٱلْحُرِّ وَٱلْعَبْدُ بِٱلْعَبْدِ وَٱلْأُنثَىٰ بِٱلْأُنثَىٰ ۚ فَمَنْ عُفِىَ لَهُۥ مِنْ أَخِيهِ شَىْءٌ فَٱتِّبَاعٌۢ بِٱلْمَعْرُوفِ وَأَدَآءٌ إِلَيْهِ بِإِحْسَـٰنٍ ۗ ذَٰلِكَ تَخْفِيفٌ مِّن رَّبِّكُمْ وَرَحْمَةٌ ۗ فَمَنِ ٱعْتَدَىٰ بَعْدَ ذَٰلِكَ فَلَهُۥ عَذَابٌ أَلِيمٌ",
+    "arabic2": "يا ايها الذين امنوا كتب عليكم القصاص في القتلى الحر بالحر والعبد بالعبد والانثى بالانثى فمن عفي له من اخيه شيء فاتباع بالمعروف واداء اليه باحسان ذلك تخفيف من ربكم ورحمة فمن اعتدى بعد ذلك فله عذاب اليم",
+    "bengali": "হে মুমিনগণ, নিহতদের ব্যাপারে তোমাদের উপর ‘কিসাস’ ফরয করা হয়েছে। স্বাধীনের বদলে স্বাধীন, দাসের বদলে দাস, নারীর বদলে নারী। তবে যাকে কিছুটা ক্ষমা করা হবে তার ভাইয়ের পক্ষ থেকে, তাহলে সততার অনুসরণ করবে এবং সুন্দরভাবে তাকে আদায় করে দেবে। এটি তোমাদের রবের পক্ষ থেকে হালকাকরণ ও রহমত। সুতরাং এরপর যে সীমালঙ্ঘন করবে, তার জন্য রয়েছে যন্ত্রণাদায়ক আযাব।",
+    "urdu": "مومنو! تم کو مقتولوں کے بارےمیں قصاص (یعنی خون کے بدلے خون) کا حکم دیا جاتا ہے (اس طرح پر کہ)آزاد کے بدلے آزاد (مارا جائے) اور غلام کے بدلے غلام اور عورت کے بدلے عورت اور قاتل کو اس کے (مقتول) بھائی (کے قصاص میں) سے کچھ معاف کردیا جائے تو (وارث مقتول) کو پسندیدہ طریق سے (قرار داد کی) پیروی (یعنی مطالبہٴ خون بہا) کرنا اور (قاتل کو) خوش خوئی کے ساتھ ادا کرنا چاہیئے یہ پروردگار کی طرف سے تمہارے لئے آسانی اور مہربانی ہے جو اس کے بعد زیادتی کرے اس کے لئے دکھ کا عذاب ہے"
+}

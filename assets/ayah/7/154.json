@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 154,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/7_154.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/007154.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/7_154.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/007154.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/7_154.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/007154.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/7_154.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/007154.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/7_154.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/007154.mp3"
+        }
+    },
+    "english": "When Moses’ anger subsided, he took up the Tablets whose text contained guidance and mercy for those who stand in awe of their Lord.",
+    "arabic1": "وَلَمَّا سَكَتَ عَن مُّوسَى ٱلْغَضَبُ أَخَذَ ٱلْأَلْوَاحَ ۖ وَفِى نُسْخَتِهَا هُدًى وَرَحْمَةٌ لِّلَّذِينَ هُمْ لِرَبِّهِمْ يَرْهَبُونَ",
+    "arabic2": "ولما سكت عن موسى الغضب اخذ الالواح وفي نسختها هدى ورحمة للذين هم لربهم يرهبون",
+    "bengali": "আর যখন মূসার ক্রোধ থেমে গেল তখন সে ফলকগুলো তুলে নিল। তার লেখাতে ছিল হিদায়াত ও রহমত, তাদের জন্য যারা নিজদের রবকেই ভয় করে।",
+    "urdu": "اور جب موسیٰ کا غصہ فرو ہوا تو (تورات) کی تختیاں اٹھالیں اور جو کچھ ان میں لکھا تھا وہ ان لوگوں کے لیے جو اپنے پروردگار سے ڈرتے ہیں۔ ہدایت اور رحمت تھی"
+}

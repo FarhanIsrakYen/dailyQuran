@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 94,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/4_94.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/004094.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/4_94.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/004094.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/4_94.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/004094.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/4_94.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/004094.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/4_94.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/004094.mp3"
+        }
+    },
+    "english": "O believers! When you struggle in the cause of Allah, be sure of who you fight. And do not say to those who offer you ˹greetings of˺ peace, “You are no believer!”—seeking a fleeting worldly gain. Instead, Allah has infinite bounties ˹in store˺. You were initially like them then Allah blessed you ˹with Islam˺. So be sure! Indeed, Allah is All-Aware of what you do.",
+    "arabic1": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا ضَرَبْتُمْ فِى سَبِيلِ ٱللَّهِ فَتَبَيَّنُوا۟ وَلَا تَقُولُوا۟ لِمَنْ أَلْقَىٰٓ إِلَيْكُمُ ٱلسَّلَـٰمَ لَسْتَ مُؤْمِنًا تَبْتَغُونَ عَرَضَ ٱلْحَيَوٰةِ ٱلدُّنْيَا فَعِندَ ٱللَّهِ مَغَانِمُ كَثِيرَةٌ ۚ كَذَٰلِكَ كُنتُم مِّن قَبْلُ فَمَنَّ ٱللَّهُ عَلَيْكُمْ فَتَبَيَّنُوٓا۟ ۚ إِنَّ ٱللَّهَ كَانَ بِمَا تَعْمَلُونَ خَبِيرًا",
+    "arabic2": "يا ايها الذين امنوا اذا ضربتم في سبيل الله فتبينوا ولا تقولوا لمن القى اليكم السلام لست مؤمنا تبتغون عرض الحياة الدنيا فعند الله مغانم كثيرة كذلك كنتم من قبل فمن الله عليكم فتبينوا ان الله كان بما تعملون خبيرا",
+    "bengali": "হে মুমিনগণ, যখন তোমরা আল্লাহর রাস্তায় বের হবে তখন যাচাই করবে এবং যে তোমাদেরকে সালাম দেবে দুনিয়ার জীবনের সম্পদের আশায় তাকে বলবে না যে, ‘তুমি মুমিন নও’। বস্ত্ততঃ আল্লাহর কাছে প্রচুর গনীমত আছে। তোমরাতো পূর্বে এরূপই ছিলে। অতঃপর আল্লাহ তোমাদের প্রতি অনুগ্রহ করলেন। সুতরাং তোমরা যাচাই করবে। নিশ্চয় তোমরা যা কর সে বিষয়ে আল্লাহ সম্যক অবগত।",
+    "urdu": "مومنو! جب تم خدا کی راہ میں باہر نکلو کرو تو تحقیق سے کام لیا کرو اور جو شخص تم سے سلام علیک کرے اس سے یہ نہ کہو کہ تم مومن نہیں اور اس سے تمہاری غرض یہ ہو کہ دنیا کی زندگی کا فائدہ حاصل کرو سو خدا کے نزدیک بہت سے غنیمتیں ہیں تم بھی تو پہلے ایسے ہی تھے پھر خدا نے تم پر احسان کیا تو (آئندہ) تحقیق کرلیا کرو اور جو عمل تم کرتے ہو خدا کو سب کی خبر ہے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Yunus",
+    "surahNameArabic": "يونس",
+    "surahNameArabicLong": "سورة يونس",
+    "surahNameTranslation": "Jonas",
+    "revelationPlace": "Mecca",
+    "totalAyah": 109,
+    "surahNo": 10,
+    "ayahNo": 71,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/10_71.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/010071.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/10_71.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/010071.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/10_71.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/010071.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/10_71.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/010071.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/10_71.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/010071.mp3"
+        }
+    },
+    "english": "Relate to them ˹O Prophet˺ the story of Noah when he said to his people, “O my People! If my presence and my reminders to you of Allah’s signs are unbearable to you, then ˹know that˺ I have put my trust in Allah. So devise a plot along with your associate-gods—and you do not have to be secretive about your plot—then carry it out against me without delay!",
+    "arabic1": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ نُوحٍ إِذْ قَالَ لِقَوْمِهِۦ يَـٰقَوْمِ إِن كَانَ كَبُرَ عَلَيْكُم مَّقَامِى وَتَذْكِيرِى بِـَٔايَـٰتِ ٱللَّهِ فَعَلَى ٱللَّهِ تَوَكَّلْتُ فَأَجْمِعُوٓا۟ أَمْرَكُمْ وَشُرَكَآءَكُمْ ثُمَّ لَا يَكُنْ أَمْرُكُمْ عَلَيْكُمْ غُمَّةً ثُمَّ ٱقْضُوٓا۟ إِلَىَّ وَلَا تُنظِرُونِ",
+    "arabic2": "واتل عليهم نبا نوح اذ قال لقومه يا قوم ان كان كبر عليكم مقامي وتذكيري بايات الله فعلى الله توكلت فاجمعوا امركم وشركاءكم ثم لا يكن امركم عليكم غمة ثم اقضوا الي ولا تنظرون",
+    "bengali": "আর তাদেরকে নূহের সংবাদ পড়ে শুনাও, যখন সে তার কওমকে বলল, ‘হে আমার কওম, আমার অবস্থান এবং আল্লাহর আয়াতসমূহের মাধ্যমে আমার উপদেশ দান যদি তোমাদের কাছে ভারী মনে হয়, তবে আমি আল্লাহর উপরই তাওয়াক্কুল করলাম। সুতরাং তোমরা অভিন্ন সিদ্ধান্ত গ্রহণ কর এবং (সাথে নাও) তোমাদের শরীকদের। তারপর তোমাদের বিষয়টি যেন তোমাদের নিকট অস্পষ্ট না থাকে। এরপর আমার ব্যাপারে সিদ্ধান্ত চূড়ান্ত কর এবং আমাকে অবকাশ দিও না’।",
+    "urdu": "اور ان کو نوح کا قصہ پڑھ کر سنادو۔ جب انہوں نے اپنی قوم سے کہا کہ اے قوم! اگر تم کو میرا تم میں رہنا اور خدا کی آیتوں سے نصیحت کرنا ناگوار ہو تو میں خدا پر بھروسہ رکھتا ہوں۔ تم اپنے شریکوں کے ساتھ مل کر ایک کام (جو میرے بارے میں کرنا چاہو) مقرر کرلو اور وہ تمہاری تمام جماعت (کو معلوم ہوجائے اور کسی) سے پوشیدہ نہ رہے اور پھر وہ کام میرے حق میں کر گزرو اور مجھے مہلت نہ دو"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Hajj",
+    "surahNameArabic": "الحج",
+    "surahNameArabicLong": "سورة الحج",
+    "surahNameTranslation": "The Pilgrimage",
+    "revelationPlace": "Madina",
+    "totalAyah": 78,
+    "surahNo": 22,
+    "ayahNo": 41,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/22_41.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/022041.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/22_41.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/022041.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/22_41.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/022041.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/22_41.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/022041.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/22_41.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/022041.mp3"
+        }
+    },
+    "english": "˹They are˺ those who, if established in the land by Us, would perform prayer, pay alms-tax, encourage what is good, and forbid what is evil. And with Allah rests the outcome of all affairs.",
+    "arabic1": "ٱلَّذِينَ إِن مَّكَّنَّـٰهُمْ فِى ٱلْأَرْضِ أَقَامُوا۟ ٱلصَّلَوٰةَ وَءَاتَوُا۟ ٱلزَّكَوٰةَ وَأَمَرُوا۟ بِٱلْمَعْرُوفِ وَنَهَوْا۟ عَنِ ٱلْمُنكَرِ ۗ وَلِلَّهِ عَـٰقِبَةُ ٱلْأُمُورِ",
+    "arabic2": "الذين ان مكناهم في الارض اقاموا الصلاة واتوا الزكاة وامروا بالمعروف ونهوا عن المنكر ولله عاقبة الامور",
+    "bengali": "তারা এমন যাদেরকে আমি যমীনে ক্ষমতা দান করলে তারা সালাত কায়েম করবে, যাকাত দেবে এবং সৎকাজের আদেশ দেবে ও অসৎকাজ থেকে নিষেধ করবে; আর সব কাজের পরিণাম আল্লাহরই অধিকারে।",
+    "urdu": "یہ وہ لوگ ہیں کہ اگر ہم ان کو ملک میں دسترس دیں تو نماز پڑھیں اور زکوٰة ادا کریں اور نیک کام کرنے کا حکم دیں اور برے کاموں سے منع کریں اور سب کاموں کا انجام خدا ہی کے اختیار میں ہے"
+}

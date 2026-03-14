@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Fath",
+    "surahNameArabic": "الفتح",
+    "surahNameArabicLong": "سورة الفتح",
+    "surahNameTranslation": "The Victory",
+    "revelationPlace": "Madina",
+    "totalAyah": 29,
+    "surahNo": 48,
+    "ayahNo": 5,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/48_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/048005.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/48_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/048005.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/48_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/048005.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/48_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/048005.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/48_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/048005.mp3"
+        }
+    },
+    "english": "So He may admit believing men and women into Gardens under which rivers flow—to stay there forever—and absolve them of their sins. And that is a supreme achievement in the sight of Allah.",
+    "arabic1": "لِّيُدْخِلَ ٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَـٰتِ جَنَّـٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ خَـٰلِدِينَ فِيهَا وَيُكَفِّرَ عَنْهُمْ سَيِّـَٔاتِهِمْ ۚ وَكَانَ ذَٰلِكَ عِندَ ٱللَّهِ فَوْزًا عَظِيمًا",
+    "arabic2": "ليدخل المؤمنين والمؤمنات جنات تجري من تحتها الانهار خالدين فيها ويكفر عنهم سيئاتهم وكان ذلك عند الله فوزا عظيما",
+    "bengali": "যেন তিনি মুমিন নারী ও পুরুষকে জান্নাতে প্রবেশ করাবেন যার নিচ দিয়ে নহরসমূহ প্রবাহিত; সেখানে তারা স্থায়ী হবে; আর তিনি তাদের পাপসমূহ ক্ষমা করবেন; আর এটি ছিল আল্লাহর নিকট এক মহাসাফল্য।",
+    "urdu": "(یہ) اس لئے کہ وہ مومن مردوں اور مومن عورتوں کو بہشتوں میں جن کے نیچے نہریں بہہ رہی ہیں داخل کرے وہ اس میں ہمیشہ رہیں گے اور ان سے ان کے گناہوں کو دور کردے۔ اور یہ خدا کے نزدیک بڑی کامیابی ہے"
+}

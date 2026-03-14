@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Mumtahana",
+    "surahNameArabic": "الممتحنة",
+    "surahNameArabicLong": "سورة الممتحنة",
+    "surahNameTranslation": "She that is to be examined",
+    "revelationPlace": "Madina",
+    "totalAyah": 13,
+    "surahNo": 60,
+    "ayahNo": 7,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/60_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/060007.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/60_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/060007.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/60_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/060007.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/60_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/060007.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/60_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/060007.mp3"
+        }
+    },
+    "english": "˹In time,˺ Allah may bring about goodwill between you and those of them you ˹now˺ hold as enemies. For Allah is Most Capable. And Allah is All-Forgiving, Most Merciful.",
+    "arabic1": "۞ عَسَى ٱللَّهُ أَن يَجْعَلَ بَيْنَكُمْ وَبَيْنَ ٱلَّذِينَ عَادَيْتُم مِّنْهُم مَّوَدَّةً ۚ وَٱللَّهُ قَدِيرٌ ۚ وَٱللَّهُ غَفُورٌ رَّحِيمٌ",
+    "arabic2": "عسى الله ان يجعل بينكم وبين الذين عاديتم منهم مودة والله قدير والله غفور رحيم",
+    "bengali": "যাদের সাথে তোমরা শত্রুতা করছ, আশা করা যায় আল্লাহ তোমাদের ও তাদের মধ্যে বন্ধুত্ব সৃষ্টি করে দেবেন। আর আল্লাহ সর্ব শক্তিমান এবং আল্লাহ অতিশয় ক্ষমাশীল, পরম দয়ালু।",
+    "urdu": "عجب نہیں کہ خدا تم میں اور ان لوگوں میں جن سے تم دشمنی رکھتے ہو دوستی پیدا کردے۔ اور خدا قادر ہے اور خدا بخشنے والا مہربان ہے"
+}

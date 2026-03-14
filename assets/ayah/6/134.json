@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 134,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/6_134.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/006134.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/6_134.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/006134.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/6_134.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/006134.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/6_134.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/006134.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/6_134.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/006134.mp3"
+        }
+    },
+    "english": "Indeed, what you have been promised will certainly come to pass. And you will have no escape.",
+    "arabic1": "إِنَّ مَا تُوعَدُونَ لَـَٔاتٍ ۖ وَمَآ أَنتُم بِمُعْجِزِينَ",
+    "arabic2": "ان ما توعدون لات وما انتم بمعجزين",
+    "bengali": "নিশ্চয় তোমাদেরকে যে ওয়াদা দেয়া হচ্ছে, তা অবশ্যই আসবে এবং (এ ব্যাপারে তাঁকে) তোমরা অক্ষম করতে পারবে না।",
+    "urdu": "کچھ شک نہیں کہ جو وعدہ تم سے کیا جاتا ہے وہ (وقوع میں) آنے والا ہے اور تم (خدا کو) مغلوب نہیں کر سکتے"
+}

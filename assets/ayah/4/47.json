@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 47,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/4_47.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/004047.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/4_47.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/004047.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/4_47.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/004047.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/4_47.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/004047.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/4_47.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/004047.mp3"
+        }
+    },
+    "english": "O you who were given the Book! Believe in what We have revealed—confirming your own Scriptures—before We wipe out ˹your˺ faces, turning them backwards, or We condemn the defiant as We did to the Sabbath-breakers. And Allah’s command is always executed!",
+    "arabic1": "يَـٰٓأَيُّهَا ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ ءَامِنُوا۟ بِمَا نَزَّلْنَا مُصَدِّقًا لِّمَا مَعَكُم مِّن قَبْلِ أَن نَّطْمِسَ وُجُوهًا فَنَرُدَّهَا عَلَىٰٓ أَدْبَارِهَآ أَوْ نَلْعَنَهُمْ كَمَا لَعَنَّآ أَصْحَـٰبَ ٱلسَّبْتِ ۚ وَكَانَ أَمْرُ ٱللَّهِ مَفْعُولًا",
+    "arabic2": "يا ايها الذين اوتوا الكتاب امنوا بما نزلنا مصدقا لما معكم من قبل ان نطمس وجوها فنردها على ادبارها او نلعنهم كما لعنا اصحاب السبت وكان امر الله مفعولا",
+    "bengali": "হে কিতাবপ্রাপ্তগণ, তোমরা ঈমান আন, তার প্রতি যা আমি নাযিল করেছি তোমাদের সাথে যা আছে তার সত্যায়নকারীরূপে। আমি চেহারাসমূহকে বিকৃত করে তা তাদের পিঠের দিকে ফিরিয়ে দেয়া অথবা তাদেরকে লা‘নত করার পূর্বে যেমনিভাবে লা‘নত করেছি আসহাবুস্ সাবতকে* । আর আল্লাহর নির্দেশ কার্যকর হয়েই থাকে। \n* দাউদ (আঃ) এর উম্মতের উপর সাবত বা শনিবারে ইবাদাত করা ফরয ছিল এবং পরীক্ষাস্বরূপ এ দিনে মাছ শিকার করা নিষিদ্ধ ছিল। এ নিষেধাজ্ঞা উপেক্ষা করে মাছ শিকার করায় আল্লাহ তায়ালা তাদেরকে আযাবস্বরূপ বানরে পরিণত করেছিলেন।",
+    "urdu": "اے کتاب والو! قبل اس کے کہ ہم لوگوں کے مونہوں کو بگاڑ کر ان کی پیٹھ کی طرف پھیر دیں یا ان پر اس طرح لعنت کریں جس طرح ہفتے والوں پر کی تھی ہماری نازل کی ہوئی کتاب پر جو تمہاری کتاب کی بھی تصدیق کرتی ہے ایمان لے آؤ اور خدا نے جو حکم فرمایا سو (سمجھ لو کہ) ہوچکا"
+}

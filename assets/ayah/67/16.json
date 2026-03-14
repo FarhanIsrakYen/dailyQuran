@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Mulk",
+    "surahNameArabic": "الملك",
+    "surahNameArabicLong": "سورة الملك",
+    "surahNameTranslation": "The Sovereignty",
+    "revelationPlace": "Mecca",
+    "totalAyah": 30,
+    "surahNo": 67,
+    "ayahNo": 16,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/67_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/067016.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/67_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/067016.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/67_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/067016.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/67_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/067016.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/67_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/067016.mp3"
+        }
+    },
+    "english": "Do you feel secure that the One Who is in heaven will not cause the earth to swallow you up as it quakes violently?",
+    "arabic1": "ءَأَمِنتُم مَّن فِى ٱلسَّمَآءِ أَن يَخْسِفَ بِكُمُ ٱلْأَرْضَ فَإِذَا هِىَ تَمُورُ",
+    "arabic2": "اامنتم من في السماء ان يخسف بكم الارض فاذا هي تمور",
+    "bengali": "যিনি আসমানে আছেন,* তিনি তোমাদের সহ যমীন ধসিয়ে দেয়া থেকে কি তোমরা নিরাপদ হয়ে গেছ, অতঃপর আকস্মিকভাবে তা থর থর করে কাঁপতে থাকবে? \n*‘যিনি আসমানে আছেন’ দ্বারা আল্লাহকে বুঝানো হয়েছে। এর দ্বারা আল্লাহ যে আসমানে আছেন, তা প্রমাণিত হয়।",
+    "urdu": "کیا تم اس سے جو آسمان میں ہے بےخوف ہو کہ تم کو زمین میں دھنسا دے اور وہ اس وقت حرکت کرنے لگے"
+}

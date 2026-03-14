@@ -1,0 +1,42 @@
+{
+    "surahName": "Yaseen",
+    "surahNameArabic": "يس",
+    "surahNameArabicLong": "سورة يس",
+    "surahNameTranslation": "Yaseen",
+    "revelationPlace": "Mecca",
+    "totalAyah": 83,
+    "surahNo": 36,
+    "ayahNo": 21,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/36_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/036021.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/36_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/036021.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/36_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/036021.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/36_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/036021.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/36_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/036021.mp3"
+        }
+    },
+    "english": "Follow those who ask no reward of you, and are ˹rightly˺ guided.",
+    "arabic1": "ٱتَّبِعُوا۟ مَن لَّا يَسْـَٔلُكُمْ أَجْرًا وَهُم مُّهْتَدُونَ",
+    "arabic2": "اتبعوا من لا يسالكم اجرا وهم مهتدون",
+    "bengali": "‘তোমরা তাদের অনুসরণ কর যারা তোমাদের কাছে কোন প্রতিদান চায় না আর তারা সৎপথপ্রাপ্ত’।",
+    "urdu": "ایسوں کے جو تم سے صلہ نہیں مانگتے اور وہ سیدھے رستے پر ہیں"
+}

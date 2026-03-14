@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Noor",
+    "surahNameArabic": "النور",
+    "surahNameArabicLong": "سورة النور",
+    "surahNameTranslation": "The Light",
+    "revelationPlace": "Madina",
+    "totalAyah": 64,
+    "surahNo": 24,
+    "ayahNo": 23,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/24_23.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/024023.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/24_23.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/024023.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/24_23.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/024023.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/24_23.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/024023.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/24_23.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/024023.mp3"
+        }
+    },
+    "english": "Surely those who accuse chaste, unsuspecting, believing women are cursed in this life and the Hereafter. And they will suffer a tremendous punishment",
+    "arabic1": "إِنَّ ٱلَّذِينَ يَرْمُونَ ٱلْمُحْصَنَـٰتِ ٱلْغَـٰفِلَـٰتِ ٱلْمُؤْمِنَـٰتِ لُعِنُوا۟ فِى ٱلدُّنْيَا وَٱلْـَٔاخِرَةِ وَلَهُمْ عَذَابٌ عَظِيمٌ",
+    "arabic2": "ان الذين يرمون المحصنات الغافلات المؤمنات لعنوا في الدنيا والاخرة ولهم عذاب عظيم",
+    "bengali": "যারা সচ্চরিত্রা সরলমনা মুমিন নারীদের প্রতি অপবাদ আরোপ করে, তারা দুনিয়া ও আখিরাতে অভিশপ্ত। আর তাদের জন্য রয়েছে মহাআযাব।",
+    "urdu": "جو لوگ پرہیزگار اور برے کاموں سے بےخبر اور ایمان دار عورتوں پر بدکاری کی تہمت لگاتے ہیں ان پر دنیا وآخرت (دونوں) میں لعنت ہے۔ اور ان کو سخت عذاب ہوگا"
+}

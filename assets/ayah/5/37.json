@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Maaida",
+    "surahNameArabic": "المائدة",
+    "surahNameArabicLong": "سورة المائدة",
+    "surahNameTranslation": "The Table",
+    "revelationPlace": "Madina",
+    "totalAyah": 120,
+    "surahNo": 5,
+    "ayahNo": 37,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/5_37.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/005037.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/5_37.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/005037.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/5_37.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/005037.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/5_37.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/005037.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/5_37.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/005037.mp3"
+        }
+    },
+    "english": "They will be desperate to get out of the Fire but they will never be able to. And they will suffer an everlasting punishment.",
+    "arabic1": "يُرِيدُونَ أَن يَخْرُجُوا۟ مِنَ ٱلنَّارِ وَمَا هُم بِخَـٰرِجِينَ مِنْهَا ۖ وَلَهُمْ عَذَابٌ مُّقِيمٌ",
+    "arabic2": "يريدون ان يخرجوا من النار وما هم بخارجين منها ولهم عذاب مقيم",
+    "bengali": "তারা চাইবে আগুন থেকে বের হতে, কিন্তু তারা সেখান থেকে বের হবার নয় এবং তাদের জন্য রয়েছে স্থায়ী আযাব।",
+    "urdu": "(ہر چند) چاہیں گے کہ آگ سے نکل جائیں مگر اس سے نہیں نکل سکیں گے اور ان کے لئے ہمیشہ کا عذاب ہے"
+}

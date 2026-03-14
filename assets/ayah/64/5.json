@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Taghaabun",
+    "surahNameArabic": "التغابن",
+    "surahNameArabicLong": "سورة التغابن",
+    "surahNameTranslation": "Mutual Disillusion",
+    "revelationPlace": "Madina",
+    "totalAyah": 18,
+    "surahNo": 64,
+    "ayahNo": 5,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/64_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/064005.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/64_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/064005.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/64_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/064005.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/64_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/064005.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/64_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/064005.mp3"
+        }
+    },
+    "english": "Have the stories of those who disbelieved before not reached you ˹pagans˺? They tasted the evil consequences of their doings, and they will suffer a painful punishment.",
+    "arabic1": "أَلَمْ يَأْتِكُمْ نَبَؤُا۟ ٱلَّذِينَ كَفَرُوا۟ مِن قَبْلُ فَذَاقُوا۟ وَبَالَ أَمْرِهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌ",
+    "arabic2": "الم ياتكم نبا الذين كفروا من قبل فذاقوا وبال امرهم ولهم عذاب اليم",
+    "bengali": "ইতঃপূর্বে যারা কুফরী করেছে, তাদের সংবাদ কি তোমাদের নিকট পৌঁছেনি। তারা তাদের কর্মের মন্দ পরিণাম আস্বাদন করেছিল এবং তাদের জন্য রয়েছে যন্ত্রণাদায়ক আযাব।",
+    "urdu": "کیا تم کو ان لوگوں کے حال کی خبر نہیں پہنچی جو پہلے کافر ہوئے تھے تو انہوں نے اپنے کاموں کی سزا کا مزہ چکھ لیا اور (ابھی) دکھ دینے والا عذاب (اور) ہونا ہے"
+}

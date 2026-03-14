@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Tur",
+    "surahNameArabic": "الطور",
+    "surahNameArabicLong": "سورة الطور",
+    "surahNameTranslation": "The Mount",
+    "revelationPlace": "Mecca",
+    "totalAyah": 49,
+    "surahNo": 52,
+    "ayahNo": 28,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/52_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/052028.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/52_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/052028.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/52_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/052028.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/52_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/052028.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/52_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/052028.mp3"
+        }
+    },
+    "english": "Indeed, we used to call upon Him ˹alone˺ before. He is truly the Most Kind, Most Merciful.”",
+    "arabic1": "إِنَّا كُنَّا مِن قَبْلُ نَدْعُوهُ ۖ إِنَّهُۥ هُوَ ٱلْبَرُّ ٱلرَّحِيمُ",
+    "arabic2": "انا كنا من قبل ندعوه انه هو البر الرحيم",
+    "bengali": "নিশ্চয় পূর্বে আমরা তাঁকে ডাকতাম; নিশ্চয় তিনি ইহসানকারী, পরম দয়ালু।",
+    "urdu": "اس سے پہلے ہم اس سے دعائیں کیا کرتے تھے۔ بےشک وہ احسان کرنے والا مہربان ہے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 93,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/17_93.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/017093.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/17_93.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/017093.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/17_93.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/017093.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/17_93.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/017093.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/17_93.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/017093.mp3"
+        }
+    },
+    "english": "or until you have a house of gold, or you ascend into heaven—and even then we will not believe in your ascension until you bring down to us a book that we can read.” Say, “Glory be to my Lord! Am I not only a human messenger?”",
+    "arabic1": "أَوْ يَكُونَ لَكَ بَيْتٌ مِّن زُخْرُفٍ أَوْ تَرْقَىٰ فِى ٱلسَّمَآءِ وَلَن نُّؤْمِنَ لِرُقِيِّكَ حَتَّىٰ تُنَزِّلَ عَلَيْنَا كِتَـٰبًا نَّقْرَؤُهُۥ ۗ قُلْ سُبْحَانَ رَبِّى هَلْ كُنتُ إِلَّا بَشَرًا رَّسُولًا",
+    "arabic2": "او يكون لك بيت من زخرف او ترقى في السماء ولن نؤمن لرقيك حتى تنزل علينا كتابا نقرؤه قل سبحان ربي هل كنت الا بشرا رسولا",
+    "bengali": "‘অথবা তোমার জন্য স্বর্ণের একটি ঘর হবে অথবা তুমি আসমানে উঠবে, কিন্তু তোমার উঠাতেও আমরা ঈমান আনব না, যতক্ষণ না তুমি আমাদের প্রতি এক কিতাব নাযিল করবে যা আমরা পাঠ করব’। বল, ‘পবিত্র মহান আমার রব! আমি তো একজন মানব-রাসূল ছাড়া কিছু নই’?",
+    "urdu": "یا تو تمہارا سونے کا گھر ہو یا تم آسمان پر چڑھ جاؤ۔ اور ہم تمہارے چڑھنے کو بھی نہیں مانیں گے جب تک کہ کوئی کتاب نہ لاؤ جسے ہم پڑھ بھی لیں۔ کہہ دو کہ میرا پروردگار پاک ہے میں تو صرف ایک پیغام پہنچانے والا انسان ہوں"
+}

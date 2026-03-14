@@ -1,0 +1,42 @@
+{
+    "surahName": "Muhammad",
+    "surahNameArabic": "محمد",
+    "surahNameArabicLong": "سورة محمد",
+    "surahNameTranslation": "Muhammad",
+    "revelationPlace": "Madina",
+    "totalAyah": 38,
+    "surahNo": 47,
+    "ayahNo": 37,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/47_37.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/047037.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/47_37.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/047037.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/47_37.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/047037.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/47_37.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/047037.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/47_37.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/047037.mp3"
+        }
+    },
+    "english": "If He were to do so and pressure you, you would withhold and He would bring out your resentment.",
+    "arabic1": "إِن يَسْـَٔلْكُمُوهَا فَيُحْفِكُمْ تَبْخَلُوا۟ وَيُخْرِجْ أَضْغَـٰنَكُمْ",
+    "arabic2": "ان يسالكموها فيحفكم تبخلوا ويخرج اضغانكم",
+    "bengali": "যদি তিনি তোমাদের নিকট তা চান, অতঃপর তিনি তোমাদের ওপর প্রবল চাপ দেন, তাহলে তো তোমরা কার্পণ্য করবে। আর তিনি তোমাদের গোপন বিদ্বেষসমূহ বের করে দেবেন।",
+    "urdu": "اگر وہ تم سے مال طلب کرے اور تمہیں تنگ کرے تو تم بخل کرنے لگو اور وہ (بخل) تمہاری بدنیتی ظاہر کرکے رہے"
+}

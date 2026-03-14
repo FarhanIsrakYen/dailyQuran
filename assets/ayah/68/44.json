@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Qalam",
+    "surahNameArabic": "القلم",
+    "surahNameArabicLong": "سورة القلم",
+    "surahNameTranslation": "The Pen",
+    "revelationPlace": "Mecca",
+    "totalAyah": 52,
+    "surahNo": 68,
+    "ayahNo": 44,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/68_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/068044.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/68_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/068044.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/68_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/068044.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/68_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/068044.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/68_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/068044.mp3"
+        }
+    },
+    "english": "So leave to Me ˹O Prophet˺ those who reject this message. We will gradually draw them to destruction in ways they cannot comprehend.",
+    "arabic1": "فَذَرْنِى وَمَن يُكَذِّبُ بِهَـٰذَا ٱلْحَدِيثِ ۖ سَنَسْتَدْرِجُهُم مِّنْ حَيْثُ لَا يَعْلَمُونَ",
+    "arabic2": "فذرني ومن يكذب بهذا الحديث سنستدرجهم من حيث لا يعلمون",
+    "bengali": "অতএব ছেড়ে দাও আমাকে এবং যারা এ বাণী প্রত্যাখ্যান করে তাদেরকে। আমি তাদেরকে ধীরে ধীরে এমনভাবে পাকড়াও করব যে, তারা জানতে পারবে না।",
+    "urdu": "تو مجھ کو اس کلام کے جھٹلانے والوں سے سمجھ لینے دو۔ ہم ان کو آہستہ آہستہ ایسے طریق سے پکڑیں گے کہ ان کو خبر بھی نہ ہوگی"
+}

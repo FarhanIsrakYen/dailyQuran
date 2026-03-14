@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nahl",
+    "surahNameArabic": "النحل",
+    "surahNameArabicLong": "سورة النحل",
+    "surahNameTranslation": "The Bee",
+    "revelationPlace": "Mecca",
+    "totalAyah": 128,
+    "surahNo": 16,
+    "ayahNo": 92,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/16_92.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/016092.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/16_92.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/016092.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/16_92.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/016092.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/16_92.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/016092.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/16_92.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/016092.mp3"
+        }
+    },
+    "english": "Do not be like the woman who ˹foolishly˺ unravels her yarn after it is firmly spun, by taking your oaths as a means of deceiving one another in favour of a stronger group. Surely Allah tests you through this. And on the Day of Judgment He will certainly make your differences clear to you.",
+    "arabic1": "وَلَا تَكُونُوا۟ كَٱلَّتِى نَقَضَتْ غَزْلَهَا مِنۢ بَعْدِ قُوَّةٍ أَنكَـٰثًا تَتَّخِذُونَ أَيْمَـٰنَكُمْ دَخَلًۢا بَيْنَكُمْ أَن تَكُونَ أُمَّةٌ هِىَ أَرْبَىٰ مِنْ أُمَّةٍ ۚ إِنَّمَا يَبْلُوكُمُ ٱللَّهُ بِهِۦ ۚ وَلَيُبَيِّنَنَّ لَكُمْ يَوْمَ ٱلْقِيَـٰمَةِ مَا كُنتُمْ فِيهِ تَخْتَلِفُونَ",
+    "arabic2": "ولا تكونوا كالتي نقضت غزلها من بعد قوة انكاثا تتخذون ايمانكم دخلا بينكم ان تكون امة هي اربى من امة انما يبلوكم الله به وليبينن لكم يوم القيامة ما كنتم فيه تختلفون",
+    "bengali": "আর তোমরা সে নারীর মত হয়ো না, যে তার পাকানো সূতো শক্ত করে পাকানোর পর টুকরো টুকরো করে ফেলে। তোমরা তোমাদের উপর অঙ্গীকারকে নিজদের মধ্যে প্রতারণা হিসেবে গ্রহণ করছ (এই উদ্দেশ্যে) যে, একদল অপর দলের চেয়ে বড় হবে। আল্লাহ তো এর মাধ্যমে তোমাদের পরীক্ষা করেন এবং নিশ্চয় তিনি তোমাদের জন্য কিয়ামতের দিনে স্পষ্ট করে দেবেন সে বিষয়, যাতে তোমরা মতবিরোধ করতে।",
+    "urdu": "اور اُس عورت کی طرح نہ ہونا جس نے محنت سے تو سوت کاتا۔ پھر اس کو توڑ کر ٹکڑے ٹکڑے کر ڈالا۔ کہ تم اپنی قسموں کو آپس میں اس بات کا ذریعہ بنانے لگو کہ ایک گروہ دوسرے گروہ سے زیادہ غالب رہے۔ بات یہ ہے کہ خدا تمہیں اس سے آزماتا ہے۔ اور جن باتوں میں تم اختلاف کرتے ہو قیامت کو اس کی حقیقت تم پر ظاہر کر دے گا"
+}

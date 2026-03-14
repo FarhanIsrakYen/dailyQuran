@@ -1,0 +1,42 @@
+{
+    "surahName": "Ar-Room",
+    "surahNameArabic": "الروم",
+    "surahNameArabicLong": "سورة الروم",
+    "surahNameTranslation": "The Romans",
+    "revelationPlace": "Mecca",
+    "totalAyah": 60,
+    "surahNo": 30,
+    "ayahNo": 27,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/30_27.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/030027.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/30_27.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/030027.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/30_27.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/030027.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/30_27.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/030027.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/30_27.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/030027.mp3"
+        }
+    },
+    "english": "And He is the One Who originates the creation then will resurrect it—which is even easier for Him. To Him belong the finest attributes in the heavens and the earth. And He is the Almighty, All-Wise.",
+    "arabic1": "وَهُوَ ٱلَّذِى يَبْدَؤُا۟ ٱلْخَلْقَ ثُمَّ يُعِيدُهُۥ وَهُوَ أَهْوَنُ عَلَيْهِ ۚ وَلَهُ ٱلْمَثَلُ ٱلْأَعْلَىٰ فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+    "arabic2": "وهو الذي يبدا الخلق ثم يعيده وهو اهون عليه وله المثل الاعلى في السماوات والارض وهو العزيز الحكيم",
+    "bengali": "আর তিনিই সৃষ্টির সূচনা করেন তারপর তিনিই এর পুনরাবৃত্তি করবেন। আর এটা তো তাঁর জন্য অধিকতর সহজ। আসমান ও যমীনে সর্বোচ্চ মর্যাদা তাঁরই এবং তিনি পরাক্রমশালী, প্রজ্ঞাময়।",
+    "urdu": "اور وہی تو ہے جو خلقت کو پہلی دفعہ پیدا کرتا ہے پھر اُسے دوبارہ پیدا کرے گا۔ اور یہ اس کو بہت آسان ہے۔ اور آسمانوں اور زمین میں اس کی شان بہت بلند ہے۔ اور وہ غالب حکمت والا ہے"
+}

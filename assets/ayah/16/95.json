@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nahl",
+    "surahNameArabic": "النحل",
+    "surahNameArabicLong": "سورة النحل",
+    "surahNameTranslation": "The Bee",
+    "revelationPlace": "Mecca",
+    "totalAyah": 128,
+    "surahNo": 16,
+    "ayahNo": 95,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/16_95.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/016095.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/16_95.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/016095.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/16_95.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/016095.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/16_95.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/016095.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/16_95.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/016095.mp3"
+        }
+    },
+    "english": "And do not trade Allah’s covenant for a fleeting gain. What is with Allah is certainly far better for you, if only you knew.",
+    "arabic1": "وَلَا تَشْتَرُوا۟ بِعَهْدِ ٱللَّهِ ثَمَنًا قَلِيلًا ۚ إِنَّمَا عِندَ ٱللَّهِ هُوَ خَيْرٌ لَّكُمْ إِن كُنتُمْ تَعْلَمُونَ",
+    "arabic2": "ولا تشتروا بعهد الله ثمنا قليلا انما عند الله هو خير لكم ان كنتم تعلمون",
+    "bengali": "আর তোমরা স্বল্প মূল্যে আল্লাহর অঙ্গীকার বিক্রি করো না। আল্লাহর কাছে যা আছে, তোমাদের জন্যই তাই উত্তম, যদি তোমরা জানতে।",
+    "urdu": "اور خدا سے جو تم نے عہد کیا ہے (اس کو مت بیچو اور) اس کے بدلے تھوڑی سی قیمت نہ لو۔ (کیونکہ ایفائے عہد کا) جو صلہ خدا کے ہاں مقرر ہے وہ اگر سمجھو تو تمہارے لیے بہتر ہے"
+}

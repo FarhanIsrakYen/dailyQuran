@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 114,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_114.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002114.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_114.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002114.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_114.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002114.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_114.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002114.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_114.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002114.mp3"
+        }
+    },
+    "english": "Who does more wrong than those who prevent Allah’s Name from being mentioned in His places of worship and strive to destroy them? Such people have no right to enter these places except with fear. For them is disgrace in this world, and they will suffer a tremendous punishment in the Hereafter.",
+    "arabic1": "وَمَنْ أَظْلَمُ مِمَّن مَّنَعَ مَسَـٰجِدَ ٱللَّهِ أَن يُذْكَرَ فِيهَا ٱسْمُهُۥ وَسَعَىٰ فِى خَرَابِهَآ ۚ أُو۟لَـٰٓئِكَ مَا كَانَ لَهُمْ أَن يَدْخُلُوهَآ إِلَّا خَآئِفِينَ ۚ لَهُمْ فِى ٱلدُّنْيَا خِزْىٌ وَلَهُمْ فِى ٱلْـَٔاخِرَةِ عَذَابٌ عَظِيمٌ",
+    "arabic2": "ومن اظلم ممن منع مساجد الله ان يذكر فيها اسمه وسعى في خرابها اولئك ما كان لهم ان يدخلوها الا خائفين لهم في الدنيا خزي ولهم في الاخرة عذاب عظيم",
+    "bengali": "আর তার চেয়ে অধিক যালেম কে, যে আল্লাহর মাসজিদসমূহে তাঁর নাম স্মরণ করা থেকে বাধা প্রদান করে এবং তা বিরাণ করতে চেষ্টা করে? তাদের তো উচিৎ ছিল ভীত হয়ে তাতে প্রবেশ করা। তাদের জন্য দুনিয়ায় রয়েছে লাঞ্ছনা আর আখিরাতে তাদের জন্য রয়েছে মহাআযাব।",
+    "urdu": "اور اس سے بڑھ کر ظالم کون، جو خدا کی مسجدوں میں خدا کے نام کا ذکر کئے جانے کو منع کرے اور ان کی ویرانی میں ساعی ہو۔ان لوگوں کو کچھ حق نہیں کہ ان میں داخل ہوں، مگر ڈرتے ہوئے۔ ان کے لیے دنیا میں رسوائی ہے اور آخرت میں بڑا عذاب"
+}

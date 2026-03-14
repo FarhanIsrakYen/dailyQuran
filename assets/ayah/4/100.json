@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 100,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/4_100.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/004100.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/4_100.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/004100.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/4_100.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/004100.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/4_100.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/004100.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/4_100.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/004100.mp3"
+        }
+    },
+    "english": "Whoever emigrates in the cause of Allah will find many safe havens and bountiful resources throughout the earth. Those who leave their homes and die while emigrating to Allah and His Messenger—their reward has already been secured with Allah. And Allah is All-Forgiving, Most Merciful.",
+    "arabic1": "۞ وَمَن يُهَاجِرْ فِى سَبِيلِ ٱللَّهِ يَجِدْ فِى ٱلْأَرْضِ مُرَٰغَمًا كَثِيرًا وَسَعَةً ۚ وَمَن يَخْرُجْ مِنۢ بَيْتِهِۦ مُهَاجِرًا إِلَى ٱللَّهِ وَرَسُولِهِۦ ثُمَّ يُدْرِكْهُ ٱلْمَوْتُ فَقَدْ وَقَعَ أَجْرُهُۥ عَلَى ٱللَّهِ ۗ وَكَانَ ٱللَّهُ غَفُورًا رَّحِيمًا",
+    "arabic2": "ومن يهاجر في سبيل الله يجد في الارض مراغما كثيرا وسعة ومن يخرج من بيته مهاجرا الى الله ورسوله ثم يدركه الموت فقد وقع اجره على الله وكان الله غفورا رحيما",
+    "bengali": "আর যে আল্লাহর রাস্তায় হিজরত করবে, সে যমীনে বহু আশ্রয়ের জায়গা ও সচ্ছলতা পাবে। আর যে আল্লাহ ও তাঁর রাসূলের উদ্দেশ্যে মুহাজির হয়ে নিজ ঘর থেকে বের হয় তারপর তাকে মৃত্যু পেয়ে বসে, তাহলে তার প্রতিদান আল্লাহর উপর অবধারিত হয়। আর আল্লাহ ক্ষমাশীল, পরম দয়ালু।",
+    "urdu": "اور جو شخص خدا کی راہ میں گھر بار چھوڑ جائے وہ زمین میں بہت سی جگہ اور کشائش پائے گا اور جو شخص خدا اور رسول کی طرف ہجرت کرکے گھر سے نکل جائے پھر اس کو موت آپکڑے تو اس کا ثواب خدا کے ذمے ہوچکا اور خدا بخشنے والا اور مہربان ہے"
+}

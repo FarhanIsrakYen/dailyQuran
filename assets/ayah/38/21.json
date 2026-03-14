@@ -1,0 +1,42 @@
+{
+    "surahName": "Saad",
+    "surahNameArabic": "ص",
+    "surahNameArabicLong": "سورة ص",
+    "surahNameTranslation": "The letter Saad",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 38,
+    "ayahNo": 21,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/38_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/038021.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/38_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/038021.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/38_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/038021.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/38_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/038021.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/38_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/038021.mp3"
+        }
+    },
+    "english": "Has the story of the two plaintiffs, who scaled the ˹wall of David’s˺ sanctuary, reached you ˹O Prophet˺?",
+    "arabic1": "۞ وَهَلْ أَتَىٰكَ نَبَؤُا۟ ٱلْخَصْمِ إِذْ تَسَوَّرُوا۟ ٱلْمِحْرَابَ",
+    "arabic2": "وهل اتاك نبا الخصم اذ تسوروا المحراب",
+    "bengali": "তোমার কাছে কি বিবদমান লোকদের সংবাদ এসেছে? যখন তারা প্রাচীর ডিঙিয়ে মিহরাবে আসল।",
+    "urdu": "بھلا تمہارے پاس ان جھگڑنے والوں کی بھی خبر آئی ہے جب وہ دیوار پھاند کر عبادت خانے میں داخل ہوئے"
+}

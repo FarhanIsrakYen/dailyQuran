@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Kahf",
+    "surahNameArabic": "الكهف",
+    "surahNameArabicLong": "سورة الكهف",
+    "surahNameTranslation": "The Cave",
+    "revelationPlace": "Mecca",
+    "totalAyah": 110,
+    "surahNo": 18,
+    "ayahNo": 21,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/18_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/018021.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/18_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/018021.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/18_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/018021.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/18_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/018021.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/18_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/018021.mp3"
+        }
+    },
+    "english": "That is how We caused them to be discovered so that their people might know that Allah’s promise ˹of resurrection˺ is true and that there is no doubt about the Hour. When the people disputed with each other about the case of the youth ˹after their death˺, some proposed, “Build a structure around them. Their Lord knows best about them.” Those who prevailed in the matter said, “We will surely build a place of worship over them.”",
+    "arabic1": "وَكَذَٰلِكَ أَعْثَرْنَا عَلَيْهِمْ لِيَعْلَمُوٓا۟ أَنَّ وَعْدَ ٱللَّهِ حَقٌّ وَأَنَّ ٱلسَّاعَةَ لَا رَيْبَ فِيهَآ إِذْ يَتَنَـٰزَعُونَ بَيْنَهُمْ أَمْرَهُمْ ۖ فَقَالُوا۟ ٱبْنُوا۟ عَلَيْهِم بُنْيَـٰنًا ۖ رَّبُّهُمْ أَعْلَمُ بِهِمْ ۚ قَالَ ٱلَّذِينَ غَلَبُوا۟ عَلَىٰٓ أَمْرِهِمْ لَنَتَّخِذَنَّ عَلَيْهِم مَّسْجِدًا",
+    "arabic2": "وكذلك اعثرنا عليهم ليعلموا ان وعد الله حق وان الساعة لا ريب فيها اذ يتنازعون بينهم امرهم فقالوا ابنوا عليهم بنيانا ربهم اعلم بهم قال الذين غلبوا على امرهم لنتخذن عليهم مسجدا",
+    "bengali": "আর এমনিভাবে আমি তাদের ব্যাপারে (লোকদেরকে) জানিয়ে দিলাম, যাতে তারা জানতে পারে যে, নিশ্চয় আল্লাহর ওয়াদা সত্য এবং কিয়ামতের ব্যাপারে কোন সন্দেহ নেই। যখন তারা নিজদের মধ্যে তাদের বিষয়টি নিয়ে বিতর্ক করছিল, তখন তারা বলল, ‘তাদের উপর তোমরা একটি ভবন নির্মাণ কর’। তাদের রবই তাদের ব্যাপারে অধিক জ্ঞাত। যারা গুহাবাসীদের উপর প্রাধান্য লাভ করেছিল, তারা বলল, ‘আমরা অবশ্যই তাদের উপর একটি মসজিদ নির্মাণ করব’।",
+    "urdu": "اور اسی طرح ہم نے (لوگوں کو) ان (کے حال) سے خبردار کردیا تاکہ وہ جانیں کہ خدا کا وعدہ سچا ہے اور یہ کہ قیامت (جس کا وعدہ کیا جاتا ہے) اس میں کچھ شک نہیں۔ اس وقت لوگ ان کے بارے میں باہم جھگڑنے لگے اور کہنے لگے کہ ان (کے غار) پر عمارت بنا دو۔ ان کا پروردگار ان (کے حال) سے خوب واقف ہے۔ جو لوگ ان کے معاملے میں غلبہ رکھتے تھے وہ کہنے لگے کہ ہم ان (کے غار) پر مسجد بنائیں گے"
+}

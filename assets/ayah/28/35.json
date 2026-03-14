@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Qasas",
+    "surahNameArabic": "القصص",
+    "surahNameArabicLong": "سورة القصص",
+    "surahNameTranslation": "The Stories",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 28,
+    "ayahNo": 35,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/28_35.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/028035.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/28_35.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/028035.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/28_35.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/028035.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/28_35.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/028035.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/28_35.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/028035.mp3"
+        }
+    },
+    "english": "Allah responded, “We will assist you with your brother and grant you both authority, so they cannot harm you. With Our signs, you and those who follow you will ˹certainly˺ prevail.”",
+    "arabic1": "قَالَ سَنَشُدُّ عَضُدَكَ بِأَخِيكَ وَنَجْعَلُ لَكُمَا سُلْطَـٰنًا فَلَا يَصِلُونَ إِلَيْكُمَا ۚ بِـَٔايَـٰتِنَآ أَنتُمَا وَمَنِ ٱتَّبَعَكُمَا ٱلْغَـٰلِبُونَ",
+    "arabic2": "قال سنشد عضدك باخيك ونجعل لكما سلطانا فلا يصلون اليكما باياتنا انتما ومن اتبعكما الغالبون",
+    "bengali": "আল্লাহ বললেন, ‘আমি তোমার ভাইয়ের মাধ্যমে তোমার বাহু শক্তিশালী করব এবং তোমাদের দু’জনকে ক্ষমতা দান করব, ফলে তারা তোমাদের কাছে পৌঁছতে পারবে না। আমার নিদর্শনাবলী দ্বারা তোমরা ও তোমাদের অনুসারীরা বিজয়ী হবে’।",
+    "urdu": "(خدا نے) فرمایا ہم تمہارے بھائی سے تمہارے بازو مضبوط کریں گے اور تم دونوں کو غلبہ دیں گے تو ہماری نشانیوں کے سبب وہ تم تک پہنچ نہ سکیں گے (اور) تم اور جنہوں نے تمہاری پیروی کی غالب رہو گے"
+}

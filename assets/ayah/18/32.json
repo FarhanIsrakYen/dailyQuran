@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Kahf",
+    "surahNameArabic": "الكهف",
+    "surahNameArabicLong": "سورة الكهف",
+    "surahNameTranslation": "The Cave",
+    "revelationPlace": "Mecca",
+    "totalAyah": 110,
+    "surahNo": 18,
+    "ayahNo": 32,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/18_32.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/018032.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/18_32.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/018032.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/18_32.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/018032.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/18_32.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/018032.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/18_32.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/018032.mp3"
+        }
+    },
+    "english": "Give them ˹O Prophet˺ an example of two men. To ˹the disbelieving˺ one We gave two gardens of grapevines, which We surrounded with palm trees and placed ˹various˺ crops in between.",
+    "arabic1": "۞ وَٱضْرِبْ لَهُم مَّثَلًا رَّجُلَيْنِ جَعَلْنَا لِأَحَدِهِمَا جَنَّتَيْنِ مِنْ أَعْنَـٰبٍ وَحَفَفْنَـٰهُمَا بِنَخْلٍ وَجَعَلْنَا بَيْنَهُمَا زَرْعًا",
+    "arabic2": "واضرب لهم مثلا رجلين جعلنا لاحدهما جنتين من اعناب وحففناهما بنخل وجعلنا بينهما زرعا",
+    "bengali": "আর তুমি তাদের জন্য একটি দৃষ্টান্ত পেশ কর: দুই ব্যক্তি, তাদের একজনকে আমি দু’টি আঙ্গুরের বাগান দিয়েছি এবং উভয় বাগানকে ঘিরে দিয়েছি খেজুর গাছ দ্বারা এবং উভয়ের মাঝখানে রেখেছি শস্যক্ষেত।",
+    "urdu": "اور ان سے دو شخصوں کا حال بیان کرو جن میں سے ایک ہم نے انگور کے دو باغ (عنایت) کئے تھے اور ان کے گردا گرد کھجوروں کے درخت لگا دیئے تھے اور ان کے درمیان کھیتی پیدا کردی تھی"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 136,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/3_136.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/003136.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/3_136.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/003136.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/3_136.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/003136.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/3_136.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/003136.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/3_136.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/003136.mp3"
+        }
+    },
+    "english": "Their reward is forgiveness from their Lord and Gardens under which rivers flow, staying there forever. How excellent is the reward for those who work ˹righteousness˺!",
+    "arabic1": "أُو۟لَـٰٓئِكَ جَزَآؤُهُم مَّغْفِرَةٌ مِّن رَّبِّهِمْ وَجَنَّـٰتٌ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ خَـٰلِدِينَ فِيهَا ۚ وَنِعْمَ أَجْرُ ٱلْعَـٰمِلِينَ",
+    "arabic2": "اولئك جزاؤهم مغفرة من ربهم وجنات تجري من تحتها الانهار خالدين فيها ونعم اجر العاملين",
+    "bengali": "এরাই তারা, যাদের প্রতিদান তাদের রবের পক্ষ থেকে মাগফিরাত ও জান্নাতসমূহ যার তলদেশে প্রবাহিত রয়েছে নহরসমূহ। সেখানে তারা স্থায়ী হবে। আর আমলকারীদের প্রতিদান কতই না উত্তম!",
+    "urdu": "ایسے ہی لوگوں کا صلہ پروردگار کی طرف سے بخشش اور باغ ہیں جن کے نیچے نہریں بہہ رہی ہیں (اور) وہ ان میں ہمیشہ بستے رہیں گے اور (اچھے) کام کرنے والوں کا بدلہ بہت اچھا ہے"
+}

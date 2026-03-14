@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Muminoon",
+    "surahNameArabic": "المؤمنون",
+    "surahNameArabicLong": "سورة المؤمنون",
+    "surahNameTranslation": "The Believers",
+    "revelationPlace": "Mecca",
+    "totalAyah": 118,
+    "surahNo": 23,
+    "ayahNo": 14,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/23_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/023014.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/23_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/023014.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/23_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/023014.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/23_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/023014.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/23_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/023014.mp3"
+        }
+    },
+    "english": "then We developed the drop into a clinging clot ˹of blood˺, then developed the clot into a lump ˹of flesh˺, then developed the lump into bones, then clothed the bones with flesh, then We brought it into being as a new creation. So Blessed is Allah, the Best of Creators.",
+    "arabic1": "ثُمَّ خَلَقْنَا ٱلنُّطْفَةَ عَلَقَةً فَخَلَقْنَا ٱلْعَلَقَةَ مُضْغَةً فَخَلَقْنَا ٱلْمُضْغَةَ عِظَـٰمًا فَكَسَوْنَا ٱلْعِظَـٰمَ لَحْمًا ثُمَّ أَنشَأْنَـٰهُ خَلْقًا ءَاخَرَ ۚ فَتَبَارَكَ ٱللَّهُ أَحْسَنُ ٱلْخَـٰلِقِينَ",
+    "arabic2": "ثم خلقنا النطفة علقة فخلقنا العلقة مضغة فخلقنا المضغة عظاما فكسونا العظام لحما ثم انشاناه خلقا اخر فتبارك الله احسن الخالقين",
+    "bengali": "তারপর শুক্রকে আমি ‘আলাকায় পরিণত করি। তারপর ‘আলাকাকে গোশতপিন্ডে পরিণত করি। তারপর গোশতপিন্ডকে হাড়ে পরিণত করি। তারপর হাড়কে গোশ্ত দিয়ে আবৃত করি। অতঃপর তাকে অন্য এক সৃষ্টিরূপে গড়ে তুলি। অতএব সর্বোত্তম স্রষ্টা আল্লাহ কত বরকতময়!",
+    "urdu": "پھر نطفے کا لوتھڑا بنایا۔ پھر لوتھڑے کی بوٹی بنائی پھر بوٹی کی ہڈیاں بنائیں پھر ہڈیوں پر گوشت (پوست) چڑھایا۔ پھر اس کو نئی صورت میں بنا دیا۔ تو خدا جو سب سے بہتر بنانے والا بڑا بابرکت ہے"
+}

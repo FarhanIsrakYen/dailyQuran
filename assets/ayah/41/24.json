@@ -1,0 +1,42 @@
+{
+    "surahName": "Fussilat",
+    "surahNameArabic": "فصلت",
+    "surahNameArabicLong": "سورة فصلت",
+    "surahNameTranslation": "Explained in detail",
+    "revelationPlace": "Mecca",
+    "totalAyah": 54,
+    "surahNo": 41,
+    "ayahNo": 24,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/41_24.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/041024.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/41_24.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/041024.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/41_24.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/041024.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/41_24.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/041024.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/41_24.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/041024.mp3"
+        }
+    },
+    "english": "Even if they endure patiently, the Fire will ˹always˺ be their home. And if they ˹beg to˺ appease ˹their Lord˺, they will never be allowed to.",
+    "arabic1": "فَإِن يَصْبِرُوا۟ فَٱلنَّارُ مَثْوًى لَّهُمْ ۖ وَإِن يَسْتَعْتِبُوا۟ فَمَا هُم مِّنَ ٱلْمُعْتَبِينَ",
+    "arabic2": "فان يصبروا فالنار مثوى لهم وان يستعتبوا فما هم من المعتبين",
+    "bengali": "অতঃপর যদি তারা ধৈর্যধারণ করে তবে আগুনই হবে তাদের আবাস এবং যদি তারা আল্লাহকে সন্তুষ্ট করতে চায়, তবুও তারা আল্লাহর সন্তোষপ্রাপ্তদের অন্তর্ভুক্ত হবে না।",
+    "urdu": "اب اگر یہ صبر کریں گے تو ان کا ٹھکانا دوزخ ہے۔ اور اگر توبہ کریں گے تو ان کی توبہ قبول نہیں کی جائے گی"
+}

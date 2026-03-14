@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 60,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/9_60.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/009060.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/9_60.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/009060.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/9_60.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/009060.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/9_60.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/009060.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/9_60.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/009060.mp3"
+        }
+    },
+    "english": "Alms-tax is only for the poor and the needy, for those employed to administer it, for those whose hearts are attracted ˹to the faith˺, for ˹freeing˺ slaves, for those in debt, for Allah’s cause, and for ˹needy˺ travellers. ˹This is˺ an obligation from Allah. And Allah is All-Knowing, All-Wise.",
+    "arabic1": "۞ إِنَّمَا ٱلصَّدَقَـٰتُ لِلْفُقَرَآءِ وَٱلْمَسَـٰكِينِ وَٱلْعَـٰمِلِينَ عَلَيْهَا وَٱلْمُؤَلَّفَةِ قُلُوبُهُمْ وَفِى ٱلرِّقَابِ وَٱلْغَـٰرِمِينَ وَفِى سَبِيلِ ٱللَّهِ وَٱبْنِ ٱلسَّبِيلِ ۖ فَرِيضَةً مِّنَ ٱللَّهِ ۗ وَٱللَّهُ عَلِيمٌ حَكِيمٌ",
+    "arabic2": "انما الصدقات للفقراء والمساكين والعاملين عليها والمؤلفة قلوبهم وفي الرقاب والغارمين وفي سبيل الله وابن السبيل فريضة من الله والله عليم حكيم",
+    "bengali": "নিশ্চয় সদাকা হচ্ছে ফকীর ও মিসকীনদের জন্য এবং এতে নিয়োজিত কর্মচারীদের জন্য, আর যাদের অন্তর আকৃষ্ট করতে হয় তাদের জন্য; (তা বণ্টন করা যায়) দাস আযাদ করার ক্ষেত্রে, ঋণগ্রস্তদের মধ্যে, আল্লাহর রাস্তায় এবং মুসাফিরদের মধ্যে। এটি আল্লাহর পক্ষ থেকে নির্ধারিত, আর আল্লাহ মহাজ্ঞানী, প্রজ্ঞাময়।",
+    "urdu": "صدقات (یعنی زکوٰة وخیرات) تو مفلسوں اور محتاجوں اور کارکنان صدقات کا حق ہے اور ان لوگوں کا جن کی تالیف قلوب منظور ہے اور غلاموں کے آزاد کرانے میں اور قرضداروں (کے قرض ادا کرنے میں) اور خدا کی راہ میں اور مسافروں (کی مدد) میں (بھی یہ مال خرچ کرنا چاہیئے یہ حقوق) خدا کی طرف سے مقرر کر دیئے گئے ہیں اور خدا جاننے والا (اور) حکمت والا ہے"
+}

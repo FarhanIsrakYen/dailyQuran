@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 75,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/6_75.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/006075.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/6_75.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/006075.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/6_75.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/006075.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/6_75.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/006075.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/6_75.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/006075.mp3"
+        }
+    },
+    "english": "We also showed Abraham the wonders of the heavens and the earth, so he would be sure in faith.",
+    "arabic1": "وَكَذَٰلِكَ نُرِىٓ إِبْرَٰهِيمَ مَلَكُوتَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَلِيَكُونَ مِنَ ٱلْمُوقِنِينَ",
+    "arabic2": "وكذلك نري ابراهيم ملكوت السماوات والارض وليكون من الموقنين",
+    "bengali": "আর এভাবেই আমি ইবরাহীমকে আসমানসমূহ ও যমীনের রাজত্ব দেখাই এবং যাতে সে দৃঢ় বিশ্বাসীদের অন্তর্ভুক্ত হয়।",
+    "urdu": "اور ہم اس طرح ابراہیم کو آسمانوں اور زمین کے عجائبات دکھانے لگے تاکہ وہ خوب یقین کرنے والوں میں ہوجائیں"
+}

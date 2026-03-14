@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 108,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/9_108.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/009108.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/9_108.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/009108.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/9_108.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/009108.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/9_108.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/009108.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/9_108.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/009108.mp3"
+        }
+    },
+    "english": "Do not ˹O Prophet˺ ever pray in it. Certainly, a mosque founded on righteousness from the first day is more worthy of your prayers. In it are men who love to be purified. And Allah loves those who purify themselves.",
+    "arabic1": "لَا تَقُمْ فِيهِ أَبَدًا ۚ لَّمَسْجِدٌ أُسِّسَ عَلَى ٱلتَّقْوَىٰ مِنْ أَوَّلِ يَوْمٍ أَحَقُّ أَن تَقُومَ فِيهِ ۚ فِيهِ رِجَالٌ يُحِبُّونَ أَن يَتَطَهَّرُوا۟ ۚ وَٱللَّهُ يُحِبُّ ٱلْمُطَّهِّرِينَ",
+    "arabic2": "لا تقم فيه ابدا لمسجد اسس على التقوى من اول يوم احق ان تقوم فيه فيه رجال يحبون ان يتطهروا والله يحب المطهرين",
+    "bengali": "তুমি সেখানে কখনো (সালাত কায়েম করতে) দাঁড়িও না। অবশ্যই যে মসজিদ প্রতিষ্ঠিত হয়েছে তাকওয়ার উপর প্রথম দিন থেকে তা বেশী হকদার যে, তুমি সেখানে সালাত কায়েম করতে দাঁড়াবে। সেখানে এমন লোক আছে, যারা উত্তমরূপে পবিত্রতা অর্জন করতে ভালবাসে। আর আল্লাহ পবিত্রতা অর্জনকারীদের ভালবাসেন।",
+    "urdu": "تم اس (مسجد) میں کبھی (جاکر) کھڑے بھی نہ ہونا۔ البتہ وہ مسجد جس کی بنیاد پہلے دن سے تقویٰ پر رکھی گئی ہے اس قابل ہے کہ اس میں جایا (اور نماز پڑھایا) کرو۔ اس میں ایسے لوگ ہیں جو کہ پاک رہنے کو پسند کرتے ہیں۔ اور خدا پاک رہنے والوں کو ہی پسند کرتا ہے"
+}

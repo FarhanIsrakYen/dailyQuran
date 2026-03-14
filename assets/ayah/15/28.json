@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Hijr",
+    "surahNameArabic": "الحجر",
+    "surahNameArabicLong": "سورة الحجر",
+    "surahNameTranslation": "The Rock",
+    "revelationPlace": "Mecca",
+    "totalAyah": 99,
+    "surahNo": 15,
+    "ayahNo": 28,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/15_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/015028.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/15_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/015028.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/15_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/015028.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/15_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/015028.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/15_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/015028.mp3"
+        }
+    },
+    "english": "˹Remember, O  Prophet˺ when your Lord said to the angels, “I am going to create a human being from sounding clay moulded from black mud.",
+    "arabic1": "وَإِذْ قَالَ رَبُّكَ لِلْمَلَـٰٓئِكَةِ إِنِّى خَـٰلِقٌۢ بَشَرًا مِّن صَلْصَـٰلٍ مِّنْ حَمَإٍ مَّسْنُونٍ",
+    "arabic2": "واذ قال ربك للملائكة اني خالق بشرا من صلصال من حما مسنون",
+    "bengali": "আর স্মরণ কর, যখন তোমার রব ফেরেশতাদের বললেন, ‘আমি একজন মানুষ সৃষ্টি করতে যাচ্ছি শুকনো ঠনঠনে কালচে মাটি থেকে’।",
+    "urdu": "اور جب تمہارے پروردگار نے فرشتوں سے فرمایا کہ میں کھنکھناتے سڑے ہوئے گارے سے ایک بشر بنانے والا ہوں"
+}

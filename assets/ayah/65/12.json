@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Talaaq",
+    "surahNameArabic": "الطلاق",
+    "surahNameArabicLong": "سورة الطلاق",
+    "surahNameTranslation": "Divorce",
+    "revelationPlace": "Madina",
+    "totalAyah": 12,
+    "surahNo": 65,
+    "ayahNo": 12,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/65_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/065012.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/65_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/065012.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/65_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/065012.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/65_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/065012.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/65_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/065012.mp3"
+        }
+    },
+    "english": "Allah is the One Who created seven heavens ˹in layers˺, and likewise for the earth. The ˹divine˺ command descends between them so you may know that Allah is Most Capable of everything and that Allah certainly encompasses all things in ˹His˺ knowledge.",
+    "arabic1": "ٱللَّهُ ٱلَّذِى خَلَقَ سَبْعَ سَمَـٰوَٰتٍ وَمِنَ ٱلْأَرْضِ مِثْلَهُنَّ يَتَنَزَّلُ ٱلْأَمْرُ بَيْنَهُنَّ لِتَعْلَمُوٓا۟ أَنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ وَأَنَّ ٱللَّهَ قَدْ أَحَاطَ بِكُلِّ شَىْءٍ عِلْمًۢا",
+    "arabic2": "الله الذي خلق سبع سماوات ومن الارض مثلهن يتنزل الامر بينهن لتعلموا ان الله على كل شيء قدير وان الله قد احاط بكل شيء علما",
+    "bengali": "তিনি আল্লাহ, যিনি সাত আসমান এবং অনুরূপ যমীন সৃষ্টি করেছেন; এগুলির মাঝে তাঁর নির্দেশ অবতীর্ণ হয় যেন তোমরা জানতে পার যে, আল্লাহ সর্ববিষয়ে ক্ষমতাবান এবং আল্লাহর জ্ঞানতো সব কিছুকে বেষ্টন করে আছে।",
+    "urdu": "خدا ہی تو ہے جس نے سات آسمان پیدا کئے اور ایسی ہی زمینیں۔ ان میں (خدا کے) حکم اُترتے رہتے ہیں تاکہ تم لوگ جان لو کہ خدا چیز پر قادر ہے۔ اور یہ کہ خدا اپنے علم سے ہر چیز پر احاطہ کئے ہوئے ہے"
+}

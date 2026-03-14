@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Maaida",
+    "surahNameArabic": "المائدة",
+    "surahNameArabicLong": "سورة المائدة",
+    "surahNameTranslation": "The Table",
+    "revelationPlace": "Madina",
+    "totalAyah": 120,
+    "surahNo": 5,
+    "ayahNo": 95,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/5_95.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/005095.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/5_95.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/005095.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/5_95.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/005095.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/5_95.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/005095.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/5_95.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/005095.mp3"
+        }
+    },
+    "english": "O  believers! Do not kill game while on pilgrimage. Whoever kills game intentionally must compensate by offering its equivalence—as judged by two just men among you—to be offered at the Sacred House, or by feeding the needy, or by fasting so that they may taste the consequences of their violations. Allah has forgiven what has been done. But those who persist will be punished by Allah. And Allah is Almighty, capable of punishment.",
+    "arabic1": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَقْتُلُوا۟ ٱلصَّيْدَ وَأَنتُمْ حُرُمٌ ۚ وَمَن قَتَلَهُۥ مِنكُم مُّتَعَمِّدًا فَجَزَآءٌ مِّثْلُ مَا قَتَلَ مِنَ ٱلنَّعَمِ يَحْكُمُ بِهِۦ ذَوَا عَدْلٍ مِّنكُمْ هَدْيًۢا بَـٰلِغَ ٱلْكَعْبَةِ أَوْ كَفَّـٰرَةٌ طَعَامُ مَسَـٰكِينَ أَوْ عَدْلُ ذَٰلِكَ صِيَامًا لِّيَذُوقَ وَبَالَ أَمْرِهِۦ ۗ عَفَا ٱللَّهُ عَمَّا سَلَفَ ۚ وَمَنْ عَادَ فَيَنتَقِمُ ٱللَّهُ مِنْهُ ۗ وَٱللَّهُ عَزِيزٌ ذُو ٱنتِقَامٍ",
+    "arabic2": "يا ايها الذين امنوا لا تقتلوا الصيد وانتم حرم ومن قتله منكم متعمدا فجزاء مثل ما قتل من النعم يحكم به ذوا عدل منكم هديا بالغ الكعبة او كفارة طعام مساكين او عدل ذلك صياما ليذوق وبال امره عفا الله عما سلف ومن عاد فينتقم الله منه والله عزيز ذو انتقام",
+    "bengali": "হে মুমিনগণ, ইহরামে থাকা অবস্থায় তোমরা শিকারকে হত্যা করো না এবং যে তোমাদের মধ্যে ইচ্ছাকৃতভাবে তা হত্যা করবে তার বিনিময় হল যা হত্যা করেছে, তার অনুরূপ গৃহপালিত পশু, যার ফয়সালা করবে তোমাদের মধ্যে দু’জন ন্যায়পরায়ণ লোক- কুরবানীর জন্তু হিসাবে কা’বায় পৌঁছতে হবে। অথবা মিসকীনকে খাবার দানের কাফ্ফারা কিংবা সমসংখ্যক সিয়াম পালন, যাতে সে নিজ কর্মের শাস্তি আস্বাদন করে। যা গত হয়েছে তা আল্লাহ ক্ষমা করেছেন। যে পুনরায় করবে আল্লাহ তার থেকে প্রতিশোধ নেবেন। আর আল্লাহ মহাপরাক্রমশালী, প্রতিশোধ গ্রহণকারী।",
+    "urdu": "مومنو! جب تم احرام کی حالت میں ہو تو شکار نہ مارنا اور جو تم میں سے جان بوجھ کر اسے مارے تو (یا تو اس کا) بدلہ (دے اور وہ یہ ہے کہ) اسی طرح کا چارپایہ جسے تم میں دو معتبر شخص مقرر کردیں قربانی (کرے اور یہ قربانی) کعبے پہنچائی جائے یا کفارہ (دے اور وہ) مسکینوں کو کھانا کھلانا (ہے) یا اس کے برابر روزے رکھے تاکہ اپنے کام کی سزا (کا مزہ) چکھے (اور) جو پہلے ہو چکا وہ خدا نے معاف کر دیا اور جو پھر (ایسا کام) کرے گا تو خدا اس سے انتقام لے گا اور خدا غالب اور انتقام لینے والا ہے"
+}

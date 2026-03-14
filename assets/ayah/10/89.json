@@ -1,0 +1,42 @@
+{
+    "surahName": "Yunus",
+    "surahNameArabic": "يونس",
+    "surahNameArabicLong": "سورة يونس",
+    "surahNameTranslation": "Jonas",
+    "revelationPlace": "Mecca",
+    "totalAyah": 109,
+    "surahNo": 10,
+    "ayahNo": 89,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/10_89.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/010089.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/10_89.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/010089.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/10_89.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/010089.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/10_89.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/010089.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/10_89.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/010089.mp3"
+        }
+    },
+    "english": "Allah responded ˹to Moses and Aaron˺, “Your prayer is answered! So be steadfast and do not follow the way of those who do not know.”",
+    "arabic1": "قَالَ قَدْ أُجِيبَت دَّعْوَتُكُمَا فَٱسْتَقِيمَا وَلَا تَتَّبِعَآنِّ سَبِيلَ ٱلَّذِينَ لَا يَعْلَمُونَ",
+    "arabic2": "قال قد اجيبت دعوتكما فاستقيما ولا تتبعان سبيل الذين لا يعلمون",
+    "bengali": "তিনি বললেন, ‘তোমাদের দো‘আ কবূল করা হয়েছে। সুতরাং তোমরা দৃঢ় থাক এবং যারা জানে না তাদের পথ অনুসরণ করো না’।",
+    "urdu": "خدا نے فرمایا کہ تمہاری دعا قبول کرلی گئی تو تم ثابت قدم رہنا اور بےعقلوں کے رستے نہ چلنا"
+}

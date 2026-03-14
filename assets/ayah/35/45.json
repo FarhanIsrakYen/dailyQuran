@@ -1,0 +1,42 @@
+{
+    "surahName": "Faatir",
+    "surahNameArabic": "فاطر",
+    "surahNameArabicLong": "سورة فاطر",
+    "surahNameTranslation": "The Originator",
+    "revelationPlace": "Mecca",
+    "totalAyah": 45,
+    "surahNo": 35,
+    "ayahNo": 45,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/35_45.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/035045.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/35_45.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/035045.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/35_45.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/035045.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/35_45.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/035045.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/35_45.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/035045.mp3"
+        }
+    },
+    "english": "If Allah were to punish people ˹immediately˺ for what they have committed, He would not have left a single living being on earth. But He delays them for an appointed term. And when their time arrives, then surely Allah is All-Seeing of His servants.",
+    "arabic1": "وَلَوْ يُؤَاخِذُ ٱللَّهُ ٱلنَّاسَ بِمَا كَسَبُوا۟ مَا تَرَكَ عَلَىٰ ظَهْرِهَا مِن دَآبَّةٍ وَلَـٰكِن يُؤَخِّرُهُمْ إِلَىٰٓ أَجَلٍ مُّسَمًّى ۖ فَإِذَا جَآءَ أَجَلُهُمْ فَإِنَّ ٱللَّهَ كَانَ بِعِبَادِهِۦ بَصِيرًۢا",
+    "arabic2": "ولو يؤاخذ الله الناس بما كسبوا ما ترك على ظهرها من دابة ولكن يؤخرهم الى اجل مسمى فاذا جاء اجلهم فان الله كان بعباده بصيرا",
+    "bengali": "আর যদি আল্লাহ মানুষদেরকে তারা যা অর্জন করেছে তার জন্য পাকড়াও করতেন, তাহলে যমীনের উপর একটি প্রাণীকেও তিনি ছেড়ে দিতেন না। কিন্তু তিনি একটি নির্দিষ্ট সময় পর্যন্ত তাদেরকে বিলম্বিত করে থাকেন। অতঃপর যখন তাদের সেই নির্দিষ্ট সময় এসে যায় (তখন তিনি তাদের পাকড়াও করেন), কেননা আল্লাহ তো তাঁর বান্দাদের ব্যাপারে সম্যক দ্রষ্টা।",
+    "urdu": "اور اگر خدا لوگوں کو ان کے اعمال کے سبب پکڑنے لگتا۔ تو روئے زمین پر ایک چلنے پھرنے والے کو نہ چھوڑتا۔ لیکن وہ ان کو ایک وقت مقرر تک مہلت دیئے جاتا ہے۔ سو جب ان کا وقت آجائے گا تو (ان کے اعمال کا بدلہ دے گا) خدا تو اپنے بندوں کو دیکھ رہا ہے"
+}

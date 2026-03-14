@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 207,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_207.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002207.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_207.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002207.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_207.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002207.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_207.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002207.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_207.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002207.mp3"
+        }
+    },
+    "english": "And there are those who would dedicate their lives to Allah’s pleasure. And Allah is Ever Gracious to ˹His˺ servants.",
+    "arabic1": "وَمِنَ ٱلنَّاسِ مَن يَشْرِى نَفْسَهُ ٱبْتِغَآءَ مَرْضَاتِ ٱللَّهِ ۗ وَٱللَّهُ رَءُوفٌۢ بِٱلْعِبَادِ",
+    "arabic2": "ومن الناس من يشري نفسه ابتغاء مرضات الله والله رءوف بالعباد",
+    "bengali": "আর মানুষের মধ্যে এমন লোকও আছে যে আল্লাহর সন্তুষ্টির উদ্দেশ্যে নিজকে বিকিয়ে দেয়। আর আল্লাহ (তাঁর) বান্দাদের প্রতি স্নেহশীল।",
+    "urdu": "اور کوئی شخص ایسا ہے کہ خدا کی خوشنودی حاصل کرنے کے لئے اپنی جان بیچ ڈالتا ہے اور خدا بندوں پر بہت مہربان ہے"
+}

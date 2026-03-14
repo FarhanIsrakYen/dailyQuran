@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Maaida",
+    "surahNameArabic": "المائدة",
+    "surahNameArabicLong": "سورة المائدة",
+    "surahNameTranslation": "The Table",
+    "revelationPlace": "Madina",
+    "totalAyah": 120,
+    "surahNo": 5,
+    "ayahNo": 94,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/5_94.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/005094.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/5_94.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/005094.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/5_94.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/005094.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/5_94.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/005094.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/5_94.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/005094.mp3"
+        }
+    },
+    "english": "O believers! Allah will surely test you with game within the reach of your hands and spears to distinguish those who fear Him in secret. Whoever transgresses from now on will suffer a painful punishment.",
+    "arabic1": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَيَبْلُوَنَّكُمُ ٱللَّهُ بِشَىْءٍ مِّنَ ٱلصَّيْدِ تَنَالُهُۥٓ أَيْدِيكُمْ وَرِمَاحُكُمْ لِيَعْلَمَ ٱللَّهُ مَن يَخَافُهُۥ بِٱلْغَيْبِ ۚ فَمَنِ ٱعْتَدَىٰ بَعْدَ ذَٰلِكَ فَلَهُۥ عَذَابٌ أَلِيمٌ",
+    "arabic2": "يا ايها الذين امنوا ليبلونكم الله بشيء من الصيد تناله ايديكم ورماحكم ليعلم الله من يخافه بالغيب فمن اعتدى بعد ذلك فله عذاب اليم",
+    "bengali": "হে মুমিনগণ, অবশ্যই আল্লাহ তোমাদেরকে পরীক্ষা করবেন শিকারের এমন বস্তু দ্বারা তোমাদের হাত ও বর্শা যার নাগাল পায়, যাতে আল্লাহ জেনে নেন কে তাঁকে গায়েবের সাথে ভয় করে। সুতরাং এরপর যে সীমালঙ্ঘন করবে তার জন্য রয়েছে যন্ত্রণাদায়ক আযাব ।",
+    "urdu": "مومنو! کسی قدر شکار سے جن کو تم ہاتھوں اور نیزوں سے پکڑ سکو خدا تمہاری آزمائش کرے گا (یعنی حالت احرام میں شکار کی ممانعت سے) تا کہ معلوم کرے کہ اس سے غائبانہ کون ڈرتا ہے تو جو اس کے بعد زیادتی کرے اس کے لیے دکھ دینے والا عذاب (تیار) ہے"
+}

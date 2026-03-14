@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 210,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_210.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002210.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_210.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002210.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_210.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002210.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_210.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002210.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_210.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002210.mp3"
+        }
+    },
+    "english": "Are they waiting for Allah ˹Himself˺ to come to them in the shade of clouds, along with the angels? ˹If He did˺, then the matter would be settled ˹at once˺. And to Allah ˹all˺ matters will be returned ˹for judgment˺.",
+    "arabic1": "هَلْ يَنظُرُونَ إِلَّآ أَن يَأْتِيَهُمُ ٱللَّهُ فِى ظُلَلٍ مِّنَ ٱلْغَمَامِ وَٱلْمَلَـٰٓئِكَةُ وَقُضِىَ ٱلْأَمْرُ ۚ وَإِلَى ٱللَّهِ تُرْجَعُ ٱلْأُمُورُ",
+    "arabic2": "هل ينظرون الا ان ياتيهم الله في ظلل من الغمام والملائكة وقضي الامر والى الله ترجع الامور",
+    "bengali": "তারা কি এরই অপেক্ষা করছে যে, মেঘের ছায়ায় আল্লাহ ও ফেরেশতাগণ তাদের নিকট আগমন করবেন এবং সব বিষয়ের ফয়সালা করে দেয়া হবে। আর আল্লাহর নিকটই সব বিষয় প্রত্যাবর্তিত হবে।",
+    "urdu": "کیا یہ لوگ اسی بات کے منتظر ہیں کہ ان پر خدا (کاعذاب) بادل کے سائبانوں میں آنازل ہو اور فرشتے بھی (اتر آئیں) اور کام تمام کردیا جائے اور سب کاموں کا رجوع خدا ہی کی طرف ہے"
+}

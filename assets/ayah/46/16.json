@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Ahqaf",
+    "surahNameArabic": "الأحقاف",
+    "surahNameArabicLong": "سورة الأحقاف",
+    "surahNameTranslation": "The Dunes",
+    "revelationPlace": "Mecca",
+    "totalAyah": 35,
+    "surahNo": 46,
+    "ayahNo": 16,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/46_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/046016.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/46_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/046016.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/46_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/046016.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/46_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/046016.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/46_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/046016.mp3"
+        }
+    },
+    "english": "It is from these ˹people˺ that We will accept the good they did, and overlook their misdeeds—along with the residents of Paradise, ˹in fulfilment of˺ the true promise they have been given.",
+    "arabic1": "أُو۟لَـٰٓئِكَ ٱلَّذِينَ نَتَقَبَّلُ عَنْهُمْ أَحْسَنَ مَا عَمِلُوا۟ وَنَتَجَاوَزُ عَن سَيِّـَٔاتِهِمْ فِىٓ أَصْحَـٰبِ ٱلْجَنَّةِ ۖ وَعْدَ ٱلصِّدْقِ ٱلَّذِى كَانُوا۟ يُوعَدُونَ",
+    "arabic2": "اولئك الذين نتقبل عنهم احسن ما عملوا ونتجاوز عن سيئاتهم في اصحاب الجنة وعد الصدق الذي كانوا يوعدون",
+    "bengali": "এরাই, যাদের উৎকৃষ্ট আমলগুলো আমি কবূল করি এবং তাদের মন্দ কাজগুলো ক্ষমা করে দেই। তারা জান্নাতবাসীদের অন্তর্ভুক্ত। তাদেরকে যে ওয়াদা দেয়া হয়েছে, তা সত্য ওয়াদা।",
+    "urdu": "یہی لوگ ہیں جن کے اعمال نیک ہم قبول کریں گے اور ان کے گناہوں سے درگزر فرمائیں گے اور (یہی) اہل جنت میں (ہوں گے)۔ (یہ) سچا وعدہ (ہے) جو ان سے کیا جاتا ہے"
+}

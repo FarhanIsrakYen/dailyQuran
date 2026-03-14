@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 2,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/17_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/017002.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/17_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/017002.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/17_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/017002.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/17_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/017002.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/17_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/017002.mp3"
+        }
+    },
+    "english": "And We gave Moses the Scripture and made it a guide for the Children of Israel, ˹stating:˺ “Do not take besides Me any other Trustee of Affairs",
+    "arabic1": "وَءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَـٰهُ هُدًى لِّبَنِىٓ إِسْرَٰٓءِيلَ أَلَّا تَتَّخِذُوا۟ مِن دُونِى وَكِيلًا",
+    "arabic2": "واتينا موسى الكتاب وجعلناه هدى لبني اسرائيل الا تتخذوا من دوني وكيلا",
+    "bengali": "আর আমি মূসাকে কিতাব দিয়েছি এবং তা বনী ইসরাঈলের জন্য পথনির্দেশ বানিয়েছি। যেন তোমরা আমাকে ছাড়া কোন কর্মবিধায়ক না বানাও।",
+    "urdu": "اور ہم نے موسیٰ کو کتاب عنایت کی تھی اور اس کو بنی اسرائیل کے لئے رہنما مقرر کیا تھا کہ میرے سوا کسی کو کارساز نہ ٹھہرانا"
+}

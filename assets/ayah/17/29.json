@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 29,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/17_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/017029.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/17_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/017029.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/17_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/017029.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/17_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/017029.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/17_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/017029.mp3"
+        }
+    },
+    "english": "Do not be so tight-fisted, for you will be blameworthy; nor so open-handed, for you will end up in poverty.",
+    "arabic1": "وَلَا تَجْعَلْ يَدَكَ مَغْلُولَةً إِلَىٰ عُنُقِكَ وَلَا تَبْسُطْهَا كُلَّ ٱلْبَسْطِ فَتَقْعُدَ مَلُومًا مَّحْسُورًا",
+    "arabic2": "ولا تجعل يدك مغلولة الى عنقك ولا تبسطها كل البسط فتقعد ملوما محسورا",
+    "bengali": "আর তুমি তোমার হাত তোমার ঘাড়ে আবদ্ধ রেখো না এবং তা পুরোপুরি প্রসারিত করো না*, তাহলে তুমি নিন্দিত ও নিঃস্ব হয়ে বসে পড়বে। \n* আয়াত দ্বারা উদ্দেশ্য- একেবারে কৃপণও হয়ো না, আবার একেবারে ধন-সম্পদ উজাড় করেও দিও না।",
+    "urdu": "اور اپنے ہاتھ کو نہ تو گردن سے بندھا ہوا (یعنی بہت تنگ) کرلو (کہ کسی کچھ دو ہی نہیں) اور نہ بالکل کھول ہی دو (کہ سبھی دے ڈالو اور انجام یہ ہو) کہ ملامت زدہ اور درماندہ ہو کر بیٹھ جاؤ"
+}

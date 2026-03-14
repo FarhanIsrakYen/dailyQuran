@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Anbiyaa",
+    "surahNameArabic": "الأنبياء",
+    "surahNameArabicLong": "سورة الأنبياء",
+    "surahNameTranslation": "The Prophets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 112,
+    "surahNo": 21,
+    "ayahNo": 70,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/21_70.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/021070.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/21_70.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/021070.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/21_70.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/021070.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/21_70.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/021070.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/21_70.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/021070.mp3"
+        }
+    },
+    "english": "They had sought to harm him, but We made them the worst losers.",
+    "arabic1": "وَأَرَادُوا۟ بِهِۦ كَيْدًا فَجَعَلْنَـٰهُمُ ٱلْأَخْسَرِينَ",
+    "arabic2": "وارادوا به كيدا فجعلناهم الاخسرين",
+    "bengali": "আর তারা তার বিরুদ্ধে চক্রান্ত করেছিল, কিন্তু আমি তাদেরকে সবচেয়ে বেশী ক্ষতিগ্রস্ত করে দিলাম।",
+    "urdu": "اور ان لوگوں نے برا تو ان کا چاہا تھا مگر ہم نے ان ہی کو نقصان میں ڈال دیا"
+}

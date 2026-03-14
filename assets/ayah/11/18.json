@@ -1,0 +1,42 @@
+{
+    "surahName": "Hud",
+    "surahNameArabic": "هود",
+    "surahNameArabicLong": "سورة هود",
+    "surahNameTranslation": "Hud",
+    "revelationPlace": "Mecca",
+    "totalAyah": 123,
+    "surahNo": 11,
+    "ayahNo": 18,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/11_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/011018.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/11_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/011018.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/11_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/011018.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/11_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/011018.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/11_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/011018.mp3"
+        }
+    },
+    "english": "Who does more wrong than those who fabricate lies against Allah? They will be brought before their Lord, and the witnesses will say, “These are the ones who lied against their Lord.” Surely Allah’s condemnation is upon the wrongdoers",
+    "arabic1": "وَمَنْ أَظْلَمُ مِمَّنِ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًا ۚ أُو۟لَـٰٓئِكَ يُعْرَضُونَ عَلَىٰ رَبِّهِمْ وَيَقُولُ ٱلْأَشْهَـٰدُ هَـٰٓؤُلَآءِ ٱلَّذِينَ كَذَبُوا۟ عَلَىٰ رَبِّهِمْ ۚ أَلَا لَعْنَةُ ٱللَّهِ عَلَى ٱلظَّـٰلِمِينَ",
+    "arabic2": "ومن اظلم ممن افترى على الله كذبا اولئك يعرضون على ربهم ويقول الاشهاد هؤلاء الذين كذبوا على ربهم الا لعنة الله على الظالمين",
+    "bengali": "যারা আল্লাহর ব্যাপারে মিথ্যা রটনা করে, তাদের চেয়ে অধিক যালিম কে? তাদেরকে তাদের রবের সামনে উপস্থিত করা হবে এবং সাক্ষীগণ বলবে, ‘এরাই তাদের রবের ব্যাপারে মিথ্যারোপ করেছিল’। সাবধান, যালিমদের উপর আল্লাহর লা‘নত।",
+    "urdu": "اور اس سے بڑھ کر ظالم کون ہوگا جو خدا پر جھوٹ افتراء کرے ایسے لوگ خدا کے سامنے پیش کئے جائیں گے اور گواہ کہیں گے کہ یہی لوگ ہیں جنہوں نے اپنے پروردگار پر جھوٹ بولا تھا۔ سن رکھو کہ ظالموں پر الله کی لعنت ہے"
+}

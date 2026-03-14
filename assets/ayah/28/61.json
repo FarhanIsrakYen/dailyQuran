@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Qasas",
+    "surahNameArabic": "القصص",
+    "surahNameArabicLong": "سورة القصص",
+    "surahNameTranslation": "The Stories",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 28,
+    "ayahNo": 61,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/28_61.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/028061.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/28_61.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/028061.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/28_61.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/028061.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/28_61.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/028061.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/28_61.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/028061.mp3"
+        }
+    },
+    "english": "Can those to whom We have made a fine promise—which they will see fulfilled—be like those who We have allowed to enjoy the pleasures of this worldly life, but on the Day of Judgment will be brought ˹for punishment˺?",
+    "arabic1": "أَفَمَن وَعَدْنَـٰهُ وَعْدًا حَسَنًا فَهُوَ لَـٰقِيهِ كَمَن مَّتَّعْنَـٰهُ مَتَـٰعَ ٱلْحَيَوٰةِ ٱلدُّنْيَا ثُمَّ هُوَ يَوْمَ ٱلْقِيَـٰمَةِ مِنَ ٱلْمُحْضَرِينَ",
+    "arabic2": "افمن وعدناه وعدا حسنا فهو لاقيه كمن متعناه متاع الحياة الدنيا ثم هو يوم القيامة من المحضرين",
+    "bengali": "আমি যাকে উত্তম ওয়াদা দিয়েছি সে তা পাবেই; সে কি তার মতই যাকে আমি দুনিয়ার জীবনের ভোগসামগ্রী দিয়েছি? তারপর কিয়ামতের দিনে সে উপস্থিতকৃতদের মধ্যে থাকবে।",
+    "urdu": "بھلا جس شخص سے ہم نے نیک وعدہ کیا اور اُس نے اُسے حاصل کرلیا تو کیا وہ اس شخص کا سا ہے جس کو ہم نے دنیا کی زندگی کے فائدے سے بہرہ مند کیا پھر وہ قیامت کے روز ان لوگوں میں ہو جو (ہمارے روبرو) حاضر کئے جائیں گے"
+}

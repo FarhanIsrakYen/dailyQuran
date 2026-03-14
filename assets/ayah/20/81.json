@@ -1,0 +1,42 @@
+{
+    "surahName": "Taa-Haa",
+    "surahNameArabic": "طه",
+    "surahNameArabicLong": "سورة طه",
+    "surahNameTranslation": "Taa-Haa",
+    "revelationPlace": "Mecca",
+    "totalAyah": 135,
+    "surahNo": 20,
+    "ayahNo": 81,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/20_81.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/020081.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/20_81.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/020081.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/20_81.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/020081.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/20_81.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/020081.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/20_81.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/020081.mp3"
+        }
+    },
+    "english": "˹saying,˺ “Eat from the good things We have provided for you, but do not transgress in them, or My wrath will befall you. And whoever My wrath befalls is certainly doomed.",
+    "arabic1": "كُلُوا۟ مِن طَيِّبَـٰتِ مَا رَزَقْنَـٰكُمْ وَلَا تَطْغَوْا۟ فِيهِ فَيَحِلَّ عَلَيْكُمْ غَضَبِى ۖ وَمَن يَحْلِلْ عَلَيْهِ غَضَبِى فَقَدْ هَوَىٰ",
+    "arabic2": "كلوا من طيبات ما رزقناكم ولا تطغوا فيه فيحل عليكم غضبي ومن يحلل عليه غضبي فقد هوى",
+    "bengali": "আমি তোমাদেরকে যে রিয্ক দান করেছি তা থেকে ভালগুলো খাও এবং এতে সীমালংঘন করো না। করলে তোমাদের উপর আমার গযব পতিত হবে। আর যার উপর আমার গযব পতিত হয় সে অবশ্যই ধ্বংস হয়।",
+    "urdu": "(اور حکم دیا کہ) جو پاکیزہ چیزیں ہم نے تم کو دی ہیں ان کو کھاؤ۔ اور اس میں حد سے نہ نکلنا۔ ورنہ تم پر میرا غضب نازل ہوگا۔ اور جس پر میرا غضب نازل ہوا وہ ہلاک ہوگیا"
+}

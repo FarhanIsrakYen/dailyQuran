@@ -1,0 +1,42 @@
+{
+    "surahName": "Saba",
+    "surahNameArabic": "سبإ",
+    "surahNameArabicLong": "سورة سَبَأ",
+    "surahNameTranslation": "Sheba",
+    "revelationPlace": "Mecca",
+    "totalAyah": 54,
+    "surahNo": 34,
+    "ayahNo": 11,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/34_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/034011.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/34_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/034011.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/34_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/034011.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/34_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/034011.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/34_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/034011.mp3"
+        }
+    },
+    "english": "instructing: “Make full-length armour, ˹perfectly˺ balancing the links. And work righteousness ˹O family of David!˺. Indeed, I am All-Seeing of what you do.”",
+    "arabic1": "أَنِ ٱعْمَلْ سَـٰبِغَـٰتٍ وَقَدِّرْ فِى ٱلسَّرْدِ ۖ وَٱعْمَلُوا۟ صَـٰلِحًا ۖ إِنِّى بِمَا تَعْمَلُونَ بَصِيرٌ",
+    "arabic2": "ان اعمل سابغات وقدر في السرد واعملوا صالحا اني بما تعملون بصير",
+    "bengali": "(এ নির্দেশ দিয়ে যে,) ‘তুমি পরিপূর্ণ বর্ম তৈরী কর এবং যথার্থ পরিমাণে প্রস্তুত কর’। আর তোমরা সৎকর্ম কর। তোমরা যা কিছু কর নিশ্চয় আমি তার সম্যক দ্রষ্টা।",
+    "urdu": "کہ کشادہ زرہیں بناؤ اور کڑیوں کو اندازے سے جوڑو اور نیک عمل کرو۔ جو عمل تم کرتے ہو میں ان کو دیکھنے والا ہوں"
+}

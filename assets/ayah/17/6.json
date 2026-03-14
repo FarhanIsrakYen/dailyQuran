@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 6,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/17_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/017006.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/17_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/017006.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/17_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/017006.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/17_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/017006.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/17_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/017006.mp3"
+        }
+    },
+    "english": "Then ˹after your repentance˺ We would give you the upper hand over them and aid you with wealth and offspring, causing you to outnumber them.",
+    "arabic1": "ثُمَّ رَدَدْنَا لَكُمُ ٱلْكَرَّةَ عَلَيْهِمْ وَأَمْدَدْنَـٰكُم بِأَمْوَٰلٍ وَبَنِينَ وَجَعَلْنَـٰكُمْ أَكْثَرَ نَفِيرًا",
+    "arabic2": "ثم رددنا لكم الكرة عليهم وامددناكم باموال وبنين وجعلناكم اكثر نفيرا",
+    "bengali": "তারপর আমি তাদের বিরুদ্ধে তোমাদের জন্য পালা ঘুরিয়ে দিলাম, ধন-সম্পদ ও সন্তান-সন্ততি দিয়ে তোমাদেরকে মদদ করলাম এবং জনবলে তোমাদেরকে সংখ্যাধিক্যে পরিণত করলাম।",
+    "urdu": "پھر ہم نے دوسری بات تم کو اُن پر غلبہ دیا اور مال اور بیٹوں سے تمہاری مدد کی۔ اور تم کو جماعت کثیر بنا دیا"
+}

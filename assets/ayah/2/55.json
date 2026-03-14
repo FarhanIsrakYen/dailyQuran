@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 55,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_55.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002055.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_55.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002055.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_55.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002055.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_55.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002055.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_55.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002055.mp3"
+        }
+    },
+    "english": "And ˹remember˺ when you said, “O Moses! We will never believe you until we see Allah with our own eyes,” so a thunderbolt struck you while you were looking on.",
+    "arabic1": "وَإِذْ قُلْتُمْ يَـٰمُوسَىٰ لَن نُّؤْمِنَ لَكَ حَتَّىٰ نَرَى ٱللَّهَ جَهْرَةً فَأَخَذَتْكُمُ ٱلصَّـٰعِقَةُ وَأَنتُمْ تَنظُرُونَ",
+    "arabic2": "واذ قلتم يا موسى لن نؤمن لك حتى نرى الله جهرة فاخذتكم الصاعقة وانتم تنظرون",
+    "bengali": "আর যখন তোমরা বললে, ‘হে মূসা, আমরা তোমার প্রতি ঈমান আনব না, যতক্ষণ না আমরা প্রকাশ্যে আল্লাহকে দেখি’। ফলে বজ্র তোমাদেরকে পাকড়াও করল আর তোমরা তা দেখছিলে।",
+    "urdu": "اور جب تم نے (موسیٰ) سے کہا کہ موسیٰ، جب تک ہم خدا کو سامنے نہ دیکھ لیں گے، تم پر ایمان نہیں لائیں گے، تو تم کو بجلی نے آ گھیرا اور تم دیکھ رہے تھے"
+}

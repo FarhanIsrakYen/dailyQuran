@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Ahzaab",
+    "surahNameArabic": "الأحزاب",
+    "surahNameArabicLong": "سورة الأحزاب",
+    "surahNameTranslation": "The Clans",
+    "revelationPlace": "Madina",
+    "totalAyah": 73,
+    "surahNo": 33,
+    "ayahNo": 33,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/33_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/033033.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/33_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/033033.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/33_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/033033.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/33_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/033033.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/33_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/033033.mp3"
+        }
+    },
+    "english": "Settle in your homes, and do not display yourselves as women did in the days of ˹pre-Islamic˺ ignorance. Establish prayer, pay alms-tax, and obey Allah and His Messenger. Allah only intends to keep ˹the causes of˺ evil away from you and purify you completely, O  members of the ˹Prophet’s˺ family!",
+    "arabic1": "وَقَرْنَ فِى بُيُوتِكُنَّ وَلَا تَبَرَّجْنَ تَبَرُّجَ ٱلْجَـٰهِلِيَّةِ ٱلْأُولَىٰ ۖ وَأَقِمْنَ ٱلصَّلَوٰةَ وَءَاتِينَ ٱلزَّكَوٰةَ وَأَطِعْنَ ٱللَّهَ وَرَسُولَهُۥٓ ۚ إِنَّمَا يُرِيدُ ٱللَّهُ لِيُذْهِبَ عَنكُمُ ٱلرِّجْسَ أَهْلَ ٱلْبَيْتِ وَيُطَهِّرَكُمْ تَطْهِيرًا",
+    "arabic2": "وقرن في بيوتكن ولا تبرجن تبرج الجاهلية الاولى واقمن الصلاة واتين الزكاة واطعن الله ورسوله انما يريد الله ليذهب عنكم الرجس اهل البيت ويطهركم تطهيرا",
+    "bengali": "আর তোমরা নিজ গৃহে অবস্থান করবে এবং প্রাক-জাহেলী যুগের মত সৌন্দর্য প্রদর্শন করো না। আর তোমরা সালাত কায়েম কর, যাকাত প্রদান কর এবং আল্লাহ ও তাঁর রাসূলের আনুগত্য কর। হে নবী পরিবার, আল্লাহ তো কেবল চান তোমাদের থেকে অপবিত্রতাকে দূরীভূত করতে এবং তোমাদেরকে সম্পূর্ণরূপে পবিত্র করতে।",
+    "urdu": "اور اپنے گھروں میں ٹھہری رہو اور جس طرح (پہلے) جاہلیت (کے دنوں) میں اظہار تجمل کرتی تھیں اس طرح زینت نہ دکھاؤ۔ اور نماز پڑھتی رہو اور زکوٰة دیتی رہو اور خدا اور اس کے رسول کی فرمانبرداری کرتی رہو۔ اے (پیغمبر کے) اہل بیت خدا چاہتا ہے کہ تم سے ناپاکی (کا میل کچیل) دور کردے اور تمہیں بالکل پاک صاف کردے"
+}

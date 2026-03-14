@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Fath",
+    "surahNameArabic": "الفتح",
+    "surahNameArabicLong": "سورة الفتح",
+    "surahNameTranslation": "The Victory",
+    "revelationPlace": "Madina",
+    "totalAyah": 29,
+    "surahNo": 48,
+    "ayahNo": 12,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/48_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/048012.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/48_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/048012.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/48_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/048012.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/48_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/048012.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/48_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/048012.mp3"
+        }
+    },
+    "english": "The truth is: you thought that the Messenger and the believers would never return to their families again. And that was made appealing in your hearts. You harboured evil thoughts ˹about Allah˺, and ˹so˺ became a doomed people.”",
+    "arabic1": "بَلْ ظَنَنتُمْ أَن لَّن يَنقَلِبَ ٱلرَّسُولُ وَٱلْمُؤْمِنُونَ إِلَىٰٓ أَهْلِيهِمْ أَبَدًا وَزُيِّنَ ذَٰلِكَ فِى قُلُوبِكُمْ وَظَنَنتُمْ ظَنَّ ٱلسَّوْءِ وَكُنتُمْ قَوْمًۢا بُورًا",
+    "arabic2": "بل ظننتم ان لن ينقلب الرسول والمؤمنون الى اهليهم ابدا وزين ذلك في قلوبكم وظننتم ظن السوء وكنتم قوما بورا",
+    "bengali": "বরং তোমরা মনে করেছিলে রাসূল ও মুমিনরা তাদের পরিবারের কাছে কখনো ফিরে আসবে না; আর এটি তোমাদের অন্তরে শোভিত করে দেয়া হয়েছিল; আর তোমরা মন্দ ধারণা করেছিলে এবং তোমরা ছিলে ধংসোম্মুখ কওম ।",
+    "urdu": "بات یہ ہے کہ تم لوگ یہ سمجھ بیٹھے تھے کہ پیغمبر اور مومن اپنے اہل وعیال میں کبھی لوٹ کر آنے ہی کے نہیں۔ اور یہی بات تمہارے دلوں کو اچھی معلوم ہوئی۔ اور (اسی وجہ سے) تم نے برے برے خیال کئے اور (آخرکار) تم ہلاکت میں پڑ گئے"
+}

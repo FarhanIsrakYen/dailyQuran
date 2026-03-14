@@ -1,0 +1,42 @@
+{
+    "surahName": "Yunus",
+    "surahNameArabic": "يونس",
+    "surahNameArabicLong": "سورة يونس",
+    "surahNameTranslation": "Jonas",
+    "revelationPlace": "Mecca",
+    "totalAyah": 109,
+    "surahNo": 10,
+    "ayahNo": 34,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/10_34.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/010034.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/10_34.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/010034.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/10_34.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/010034.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/10_34.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/010034.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/10_34.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/010034.mp3"
+        }
+    },
+    "english": "Ask ˹them, O  Prophet˺, “Can any of your associate-gods originate creation and then resurrect it?” Say, “˹Only˺ Allah originates creation and then resurrects it. How can you then be deluded ˹from the truth˺?”",
+    "arabic1": "قُلْ هَلْ مِن شُرَكَآئِكُم مَّن يَبْدَؤُا۟ ٱلْخَلْقَ ثُمَّ يُعِيدُهُۥ ۚ قُلِ ٱللَّهُ يَبْدَؤُا۟ ٱلْخَلْقَ ثُمَّ يُعِيدُهُۥ ۖ فَأَنَّىٰ تُؤْفَكُونَ",
+    "arabic2": "قل هل من شركائكم من يبدا الخلق ثم يعيده قل الله يبدا الخلق ثم يعيده فانى تؤفكون",
+    "bengali": "বল, ‘তোমাদের শরীকদের কেউ কি আছে, যে প্রথম সৃষ্টি করবে, অতঃপর তার পুনরাবৃত্তি ঘটাবে’? বল, ‘আল্লাহই প্রথম সৃষ্টি করেন অতঃপর তার পুনরাবৃত্তি ঘটান’। অতএব তোমাদেরকে কোথায় ফিরানো হচ্ছে?",
+    "urdu": "(ان سے) پوچھو کہ بھلا تمھارے شریکوں میں سے کوئی ایسا ہے کہ مخلوق کو ابتداً پیدا کرے (اور) پھر اس کو دوبارہ بنائے؟ کہہ دو کہ خدا ہی پہلی بار پیدا کرتا ہے پھر وہی اس کو دوبارہ پیدا کرے گا تو تم کہاں اُکسے جارہے ہو"
+}

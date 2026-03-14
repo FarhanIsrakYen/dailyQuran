@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 159,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_159.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002159.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_159.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002159.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_159.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002159.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_159.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002159.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_159.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002159.mp3"
+        }
+    },
+    "english": "Those who hide the clear proofs and guidance that We have revealed—after We made it clear for humanity in the Book—will be condemned by Allah and ˹all˺ those who condemn.",
+    "arabic1": "إِنَّ ٱلَّذِينَ يَكْتُمُونَ مَآ أَنزَلْنَا مِنَ ٱلْبَيِّنَـٰتِ وَٱلْهُدَىٰ مِنۢ بَعْدِ مَا بَيَّنَّـٰهُ لِلنَّاسِ فِى ٱلْكِتَـٰبِ ۙ أُو۟لَـٰٓئِكَ يَلْعَنُهُمُ ٱللَّهُ وَيَلْعَنُهُمُ ٱللَّـٰعِنُونَ",
+    "arabic2": "ان الذين يكتمون ما انزلنا من البينات والهدى من بعد ما بيناه للناس في الكتاب اولئك يلعنهم الله ويلعنهم اللاعنون",
+    "bengali": "নিশ্চয় যারা গোপন করে সু-স্পষ্ট নিদর্শনসমূহ ও হিদায়াত যা আমি নাযিল করেছি, কিতাবে মানুষের জন্য তা স্পষ্টভাবে বর্ণনা করার পর, তাদেরকে আল্লাহ লা‘নত করেন এবং লা‘নতকারীগণও তাদেরকে লা‘নত করে।",
+    "urdu": "جو لوگ ہمارے حکموں اور ہدایتوں کو جو ہم نے نازل کی ہیں (کسی غرض فاسد سے) چھپاتے ہیں باوجود یہ کہ ہم نے ان لوگوں کے (سمجھانے کے) لئے اپنی کتاب میں کھول کھول کر بیان کردیا ہے۔ ایسوں پر خدا اور تمام لعنت کرنے والے لعنت کرتے ہیں"
+}

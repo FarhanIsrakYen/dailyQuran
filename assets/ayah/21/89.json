@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Anbiyaa",
+    "surahNameArabic": "الأنبياء",
+    "surahNameArabicLong": "سورة الأنبياء",
+    "surahNameTranslation": "The Prophets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 112,
+    "surahNo": 21,
+    "ayahNo": 89,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/21_89.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/021089.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/21_89.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/021089.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/21_89.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/021089.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/21_89.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/021089.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/21_89.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/021089.mp3"
+        }
+    },
+    "english": "And ˹remember˺ when Zachariah cried out to his Lord, “My Lord! Do not leave me childless, though You are the Best of Successors.”",
+    "arabic1": "وَزَكَرِيَّآ إِذْ نَادَىٰ رَبَّهُۥ رَبِّ لَا تَذَرْنِى فَرْدًا وَأَنتَ خَيْرُ ٱلْوَٰرِثِينَ",
+    "arabic2": "وزكريا اذ نادى ربه رب لا تذرني فردا وانت خير الوارثين",
+    "bengali": "আর স্মরণ কর যাকারিয়্যার কথা, যখন সে তার রবকে আহবান করে বলেছিল, ‘হে আমার রব! আমাকে একা রেখো না, তুমি তো শ্রেষ্ঠ মালিকানার অধিকারী’।",
+    "urdu": "اور زکریا (کو یاد کرو) جب انہوں نے اپنے پروردگار کو پکارا کہ پروردگار مجھے اکیلا نہ چھوڑ اور تو سب سے بہتر وارث ہے"
+}

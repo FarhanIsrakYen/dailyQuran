@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 122,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/9_122.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/009122.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/9_122.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/009122.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/9_122.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/009122.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/9_122.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/009122.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/9_122.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/009122.mp3"
+        }
+    },
+    "english": "˹However,˺ it is not necessary for the believers to march forth all at once. Only a party from each group should march forth, leaving the rest to gain religious knowledge then enlighten their people when they return to them, so that they ˹too˺ may beware ˹of evil˺.",
+    "arabic1": "۞ وَمَا كَانَ ٱلْمُؤْمِنُونَ لِيَنفِرُوا۟ كَآفَّةً ۚ فَلَوْلَا نَفَرَ مِن كُلِّ فِرْقَةٍ مِّنْهُمْ طَآئِفَةٌ لِّيَتَفَقَّهُوا۟ فِى ٱلدِّينِ وَلِيُنذِرُوا۟ قَوْمَهُمْ إِذَا رَجَعُوٓا۟ إِلَيْهِمْ لَعَلَّهُمْ يَحْذَرُونَ",
+    "arabic2": "وما كان المؤمنون لينفروا كافة فلولا نفر من كل فرقة منهم طائفة ليتفقهوا في الدين ولينذروا قومهم اذا رجعوا اليهم لعلهم يحذرون",
+    "bengali": "আর মুমিনদের জন্য সংগত নয় যে, তারা সকলে একসঙ্গে অভিযানে বের হবে। অতঃপর তাদের প্রতিটি দল থেকে কিছু লোক কেন বের হয় না, যাতে তারা দীনের গভীর জ্ঞান আহরণ করতে পারে এবং আপন সম্প্রদায় যখন তাদের নিকট প্রত্যাবর্তন করবে, তখন তাদেরকে সতর্ক করতে পারে, যাতে তারা (গুনাহ থেকে) বেঁচে থাকে।",
+    "urdu": "اور یہ تو ہو نہیں سکتا کہ مومن سب کے سب نکل آئیں۔ تو یوں کیوں نہ کیا کہ ہر ایک جماعت میں سے چند اشخاص نکل جاتے تاکہ دین کا (علم سیکھتے اور اس) میں سمجھ پیدا کرتے اور جب اپنی قوم کی طرف واپس آتے تو ان کو ڈر سناتے تاکہ وہ حذر کرتے"
+}

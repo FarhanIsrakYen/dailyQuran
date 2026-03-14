@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nahl",
+    "surahNameArabic": "النحل",
+    "surahNameArabicLong": "سورة النحل",
+    "surahNameTranslation": "The Bee",
+    "revelationPlace": "Mecca",
+    "totalAyah": 128,
+    "surahNo": 16,
+    "ayahNo": 104,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/16_104.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/016104.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/16_104.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/016104.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/16_104.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/016104.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/16_104.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/016104.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/16_104.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/016104.mp3"
+        }
+    },
+    "english": "Surely those who do not believe in Allah’s revelations will never be guided by Allah, and they will suffer a painful punishment.",
+    "arabic1": "إِنَّ ٱلَّذِينَ لَا يُؤْمِنُونَ بِـَٔايَـٰتِ ٱللَّهِ لَا يَهْدِيهِمُ ٱللَّهُ وَلَهُمْ عَذَابٌ أَلِيمٌ",
+    "arabic2": "ان الذين لا يؤمنون بايات الله لا يهديهم الله ولهم عذاب اليم",
+    "bengali": "নিশ্চয় যারা আল্লাহর আয়াতসমূহে বিশ্বাস করে না, আল্লাহ তাদেরকে হিদায়াত করবেন না এবং তাদের জন্য রয়েছে যন্ত্রদায়ক আযাব।",
+    "urdu": "یہ لوگ خدا کی آیتوں پر ایمان نہیں لاتے ان کو خدا ہدایت نہیں دیتا اور ان کے لئے عذاب الیم ہے"
+}

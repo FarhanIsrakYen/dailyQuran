@@ -1,0 +1,42 @@
+{
+    "surahName": "Saba",
+    "surahNameArabic": "سبإ",
+    "surahNameArabicLong": "سورة سَبَأ",
+    "surahNameTranslation": "Sheba",
+    "revelationPlace": "Mecca",
+    "totalAyah": 54,
+    "surahNo": 34,
+    "ayahNo": 14,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/34_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/034014.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/34_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/034014.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/34_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/034014.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/34_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/034014.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/34_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/034014.mp3"
+        }
+    },
+    "english": "When We decreed Solomon’s death, nothing indicated to the ˹subjected˺ jinn that he was dead except the termites eating away his staff. So when he collapsed, the jinn realized that if they had ˹really˺ known the unseen, they would not have remained in ˹such˺ humiliating servitude.",
+    "arabic1": "فَلَمَّا قَضَيْنَا عَلَيْهِ ٱلْمَوْتَ مَا دَلَّهُمْ عَلَىٰ مَوْتِهِۦٓ إِلَّا دَآبَّةُ ٱلْأَرْضِ تَأْكُلُ مِنسَأَتَهُۥ ۖ فَلَمَّا خَرَّ تَبَيَّنَتِ ٱلْجِنُّ أَن لَّوْ كَانُوا۟ يَعْلَمُونَ ٱلْغَيْبَ مَا لَبِثُوا۟ فِى ٱلْعَذَابِ ٱلْمُهِينِ",
+    "arabic2": "فلما قضينا عليه الموت ما دلهم على موته الا دابة الارض تاكل منساته فلما خر تبينت الجن ان لو كانوا يعلمون الغيب ما لبثوا في العذاب المهين",
+    "bengali": "তারপর যখন আমি সুলাইমানের মৃত্যুর ফয়সালা করলাম তখন মাটির পোকা জিনদেরকে তার মৃত্যু সম্পর্কে অবহিত করল, যা তার লাঠি খাচ্ছিল। অতঃপর যখন সে পড়ে গেল তখন জিনরা বুঝতে পারল যে, তারা যদি গায়েব জানত তাহলে তারা লাঞ্ছনাদায়ক আযাবে থাকত না।",
+    "urdu": "پھر جب ہم نے ان کے لئے موت کا حکم صادر کیا تو کسی چیز سے ان کا مرنا معلوم نہ ہوا مگر گھن کے کیڑے سے جو ان کے عصا کو کھاتا رہا۔ جب عصا گر پڑا تب جنوں کو معلوم ہوا (اور کہنے لگے) کہ اگر وہ غیب جانتے ہوتے تو ذلت کی تکلیف میں نہ رہتے"
+}

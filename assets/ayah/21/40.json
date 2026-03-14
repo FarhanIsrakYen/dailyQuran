@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Anbiyaa",
+    "surahNameArabic": "الأنبياء",
+    "surahNameArabicLong": "سورة الأنبياء",
+    "surahNameTranslation": "The Prophets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 112,
+    "surahNo": 21,
+    "ayahNo": 40,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/21_40.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/021040.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/21_40.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/021040.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/21_40.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/021040.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/21_40.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/021040.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/21_40.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/021040.mp3"
+        }
+    },
+    "english": "In fact, the Hour will take them by surprise, leaving them stunned. So they will not be able to avert it, nor will it be delayed from them.",
+    "arabic1": "بَلْ تَأْتِيهِم بَغْتَةً فَتَبْهَتُهُمْ فَلَا يَسْتَطِيعُونَ رَدَّهَا وَلَا هُمْ يُنظَرُونَ",
+    "arabic2": "بل تاتيهم بغتة فتبهتهم فلا يستطيعون ردها ولا هم ينظرون",
+    "bengali": "বরং অকস্মাৎ তাদের উপর তা এসে পড়বে। অতঃপর তাদেরকে হতবাক করে দেবে। ফলে তারা তা ফিরাতে সক্ষম হবে না এবং তাদেরকে অবকাশও দেয়া হবে না।",
+    "urdu": "بلکہ قیامت ان پر ناگہاں آ واقع ہوگی۔ اور ان کے ہوش کھو دے گی۔ پھر نہ تو وہ اس کو ہٹا سکیں گے اور نہ ان کو مہلت دی جائے گی"
+}

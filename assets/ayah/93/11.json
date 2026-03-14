@@ -1,0 +1,42 @@
+{
+    "surahName": "Ad-Dhuhaa",
+    "surahNameArabic": "الضحى",
+    "surahNameArabicLong": "سورة الضحى",
+    "surahNameTranslation": "The Morning Hours",
+    "revelationPlace": "Mecca",
+    "totalAyah": 11,
+    "surahNo": 93,
+    "ayahNo": 11,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/93_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/093011.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/93_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/093011.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/93_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/093011.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/93_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/093011.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/93_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/093011.mp3"
+        }
+    },
+    "english": "And proclaim the blessings of your Lord.",
+    "arabic1": "وَأَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ",
+    "arabic2": "واما بنعمة ربك فحدث",
+    "bengali": "আর তোমার রবের অনুগ্রহ তুমি বর্ণনা কর।",
+    "urdu": "اور اپنے پروردگار کی نعمتوں کا بیان کرتے رہنا"
+}

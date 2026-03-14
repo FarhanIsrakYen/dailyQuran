@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Qasas",
+    "surahNameArabic": "القصص",
+    "surahNameArabicLong": "سورة القصص",
+    "surahNameTranslation": "The Stories",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 28,
+    "ayahNo": 34,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/28_34.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/028034.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/28_34.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/028034.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/28_34.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/028034.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/28_34.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/028034.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/28_34.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/028034.mp3"
+        }
+    },
+    "english": "And my brother Aaron is more eloquent than I, so send him with me as a helper to support what I say, for I truly fear they may reject me.”",
+    "arabic1": "وَأَخِى هَـٰرُونُ هُوَ أَفْصَحُ مِنِّى لِسَانًا فَأَرْسِلْهُ مَعِىَ رِدْءًا يُصَدِّقُنِىٓ ۖ إِنِّىٓ أَخَافُ أَن يُكَذِّبُونِ",
+    "arabic2": "واخي هارون هو افصح مني لسانا فارسله معي ردءا يصدقني اني اخاف ان يكذبون",
+    "bengali": "‘আর আমার ভাই হারূন, সে আমার চেয়ে স্পষ্টভাষী, তাই তাকে আমার সাথে সাহায্যকারী হিসেবে প্রেরণ করুন, সে আমাকে সমর্থন করবে। আমি আশঙ্কা করছি যে, তারা আমাকে মিথ্যাবাদী বলবে।",
+    "urdu": "اور ہارون (جو) میرا بھائی (ہے) اس کی زبان مجھ سے زیادہ فصیح ہے تو اس کو میرے ساتھ مددگار بناکر بھیج کہ میری تصدیق کرے مجھے خوف ہے کہ وہ میری لوگ تکذیب کریں گے"
+}

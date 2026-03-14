@@ -1,0 +1,42 @@
+{
+    "surahName": "Ash-Shu'araa",
+    "surahNameArabic": "الشعراء",
+    "surahNameArabicLong": "سورة الشعراء",
+    "surahNameTranslation": "The Poets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 227,
+    "surahNo": 26,
+    "ayahNo": 61,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/26_61.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/026061.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/26_61.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/026061.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/26_61.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/026061.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/26_61.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/026061.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/26_61.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/026061.mp3"
+        }
+    },
+    "english": "When the two groups came face to face, the companions of Moses cried out, “We are overtaken for sure.”",
+    "arabic1": "فَلَمَّا تَرَٰٓءَا ٱلْجَمْعَانِ قَالَ أَصْحَـٰبُ مُوسَىٰٓ إِنَّا لَمُدْرَكُونَ",
+    "arabic2": "فلما تراءى الجمعان قال اصحاب موسى انا لمدركون",
+    "bengali": "অতঃপর যখন উভয় দল পরস্পরকে দেখল, তখন মূসার সাথীরা বলল, অবশ্যই ‘আমরা ধরা পড়ে গেলাম!’",
+    "urdu": "جب دونوں جماعتیں آمنے سامنے ہوئیں تو موسیٰ کے ساتھی کہنے لگے کہ ہم تو پکڑ لئے گئے"
+}

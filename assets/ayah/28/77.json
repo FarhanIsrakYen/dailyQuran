@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Qasas",
+    "surahNameArabic": "القصص",
+    "surahNameArabicLong": "سورة القصص",
+    "surahNameTranslation": "The Stories",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 28,
+    "ayahNo": 77,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/28_77.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/028077.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/28_77.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/028077.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/28_77.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/028077.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/28_77.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/028077.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/28_77.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/028077.mp3"
+        }
+    },
+    "english": "Rather, seek the ˹reward˺ of the Hereafter by means of what Allah has granted you, without forgetting your share of this world. And be good ˹to others˺ as Allah has been good to you. Do not seek to spread corruption in the land, for Allah certainly does not like the corruptors.”",
+    "arabic1": "وَٱبْتَغِ فِيمَآ ءَاتَىٰكَ ٱللَّهُ ٱلدَّارَ ٱلْـَٔاخِرَةَ ۖ وَلَا تَنسَ نَصِيبَكَ مِنَ ٱلدُّنْيَا ۖ وَأَحْسِن كَمَآ أَحْسَنَ ٱللَّهُ إِلَيْكَ ۖ وَلَا تَبْغِ ٱلْفَسَادَ فِى ٱلْأَرْضِ ۖ إِنَّ ٱللَّهَ لَا يُحِبُّ ٱلْمُفْسِدِينَ",
+    "arabic2": "وابتغ فيما اتاك الله الدار الاخرة ولا تنس نصيبك من الدنيا واحسن كما احسن الله اليك ولا تبغ الفساد في الارض ان الله لا يحب المفسدين",
+    "bengali": "আর আল্লাহ তোমাকে যা দান করেছেন তাতে তুমি আখিরাতের নিবাস অনুসন্ধান কর। তবে তুমি দুনিয়া থেকে তোমার অংশ ভুলে যেয়ো না। তোমার প্রতি আল্লাহ যেরূপ অনুগ্রহ করেছেন তুমিও সেরূপ অনুগ্রহ কর। আর যমীনে ফাসাদ করতে চেয়ো না। নিশ্চয় আল্লাহ ফাসাদকারীদের ভালবাসেন না’।",
+    "urdu": "اور جو (مال) تم کو خدا نے عطا فرمایا ہے اس سے آخرت کی بھلائی طلب کیجئے اور دنیا سے اپنا حصہ نہ بھلائیے اور جیسی خدا نے تم سے بھلائی کی ہے (ویسی) تم بھی (لوگوں سے) بھلائی کرو۔ اور ملک میں طالب فساد نہ ہو۔ کیونکہ خدا فساد کرنے والوں کو دوست نہیں رکھتا"
+}

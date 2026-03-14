@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 21,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/17_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/017021.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/17_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/017021.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/17_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/017021.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/17_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/017021.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/17_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/017021.mp3"
+        }
+    },
+    "english": "See how We have favoured some over others ˹in this life˺, but the Hereafter is certainly far greater in rank and in favour.",
+    "arabic1": "ٱنظُرْ كَيْفَ فَضَّلْنَا بَعْضَهُمْ عَلَىٰ بَعْضٍ ۚ وَلَلْـَٔاخِرَةُ أَكْبَرُ دَرَجَـٰتٍ وَأَكْبَرُ تَفْضِيلًا",
+    "arabic2": "انظر كيف فضلنا بعضهم على بعض وللاخرة اكبر درجات واكبر تفضيلا",
+    "bengali": "ভেবে দেখ, আমি তাদের কতককে কতকের উপর কিভাবে শ্রেষ্ঠত্ব দান করেছি। আর আখিরাত নিশ্চয়ই মর্যাদায় মহান এবং শ্রেষ্ঠত্বে বৃহত্তর।",
+    "urdu": "دیکھو ہم نے کس طرح بعض کو بعض پر فضیلت بخشی ہے۔ اور آخرت درجوں میں (دنیا سے) بہت برتر اور برتری میں کہیں بڑھ کر ہے"
+}

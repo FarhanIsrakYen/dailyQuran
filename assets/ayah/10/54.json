@@ -1,0 +1,42 @@
+{
+    "surahName": "Yunus",
+    "surahNameArabic": "يونس",
+    "surahNameArabicLong": "سورة يونس",
+    "surahNameTranslation": "Jonas",
+    "revelationPlace": "Mecca",
+    "totalAyah": 109,
+    "surahNo": 10,
+    "ayahNo": 54,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/10_54.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/010054.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/10_54.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/010054.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/10_54.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/010054.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/10_54.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/010054.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/10_54.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/010054.mp3"
+        }
+    },
+    "english": "If every wrongdoer were to possess everything in the world, they would surely ransom themselves with it. They will hide ˹their˺ remorse when they see the torment. And they will be judged in all fairness, and none will be wronged.",
+    "arabic1": "وَلَوْ أَنَّ لِكُلِّ نَفْسٍ ظَلَمَتْ مَا فِى ٱلْأَرْضِ لَٱفْتَدَتْ بِهِۦ ۗ وَأَسَرُّوا۟ ٱلنَّدَامَةَ لَمَّا رَأَوُا۟ ٱلْعَذَابَ ۖ وَقُضِىَ بَيْنَهُم بِٱلْقِسْطِ ۚ وَهُمْ لَا يُظْلَمُونَ",
+    "arabic2": "ولو ان لكل نفس ظلمت ما في الارض لافتدت به واسروا الندامة لما راوا العذاب وقضي بينهم بالقسط وهم لا يظلمون",
+    "bengali": "আর যমীনে যা রয়েছে, তা যদি যুলম করেছে এমন প্রত্যেক ব্যক্তির হয়ে যায়, তবে তা সে মুক্তিপণ হিসেবে দিয়ে দেবে এবং তারা লজ্জা গোপন করবে, যখন তারা আযাব দেখবে। আর তাদের মধ্যে ন্যায়ভিত্তিক ফয়সালা করা হবে এবং তাদেরকে যুলম করা হবে না।",
+    "urdu": "اور اگر ہر ایک نافرمان شخص کے پاس روئے زمین کی تمام چیزیں ہوں تو (عذاب سے بچنے کے) بدلے میں (سب) دے ڈالے اور جب وہ عذاب کو دیکھیں گے تو (پچھتائیں گے اور) ندامت کو چھپائیں گے۔ اور ان میں انصاف کے ساتھ فیصلہ کر دیا جائے گا اور (کسی طرح کا) ان پر ظلم نہیں ہوگا"
+}

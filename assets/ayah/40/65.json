@@ -1,0 +1,42 @@
+{
+    "surahName": "Ghafir",
+    "surahNameArabic": "غافر",
+    "surahNameArabicLong": "سورة غافر",
+    "surahNameTranslation": "The Forgiver",
+    "revelationPlace": "Mecca",
+    "totalAyah": 85,
+    "surahNo": 40,
+    "ayahNo": 65,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/40_65.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/040065.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/40_65.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/040065.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/40_65.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/040065.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/40_65.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/040065.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/40_65.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/040065.mp3"
+        }
+    },
+    "english": "He is the Ever-Living. There is no god ˹worthy of worship˺ except Him. So call upon Him with sincere devotion, ˹saying,˺ “All praise is for Allah—Lord of all worlds.”",
+    "arabic1": "هُوَ ٱلْحَىُّ لَآ إِلَـٰهَ إِلَّا هُوَ فَٱدْعُوهُ مُخْلِصِينَ لَهُ ٱلدِّينَ ۗ ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ",
+    "arabic2": "هو الحي لا اله الا هو فادعوه مخلصين له الدين الحمد لله رب العالمين",
+    "bengali": "তিনি চিরঞ্জীব, তিনি ছাড়া কোন (সত্য) ইলাহ নেই। সুতরাং তোমরা দীনকে তাঁর জন্য একনিষ্ঠ করে তাঁকে ডাক। সকল প্রশংসা আল্লাহর যিনি সৃষ্টিকুলের রব।",
+    "urdu": "وہ زندہ ہے (جسے موت نہیں) اس کے سوا کوئی عبادت کے لائق نہیں تو اس کی عبادت کو خالص کر کر اسی کو پکارو۔ ہر طرح کی تعریف خدا ہی کو (سزاوار) ہے جو تمام جہان کا پروردگار ہے"
+}

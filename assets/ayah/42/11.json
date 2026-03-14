@@ -1,0 +1,42 @@
+{
+    "surahName": "Ash-Shura",
+    "surahNameArabic": "الشورى",
+    "surahNameArabicLong": "سورة الشورى",
+    "surahNameTranslation": "Consultation",
+    "revelationPlace": "Mecca",
+    "totalAyah": 53,
+    "surahNo": 42,
+    "ayahNo": 11,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/42_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/042011.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/42_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/042011.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/42_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/042011.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/42_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/042011.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/42_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/042011.mp3"
+        }
+    },
+    "english": "˹He is˺ the Originator of the heavens and the earth. He has made for you spouses from among yourselves, and ˹made˺ mates for cattle ˹as well˺—multiplying you ˹both˺. There is nothing like Him, for He ˹alone˺ is the All-Hearing, All-Seeing.",
+    "arabic1": "فَاطِرُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ جَعَلَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَٰجًا وَمِنَ ٱلْأَنْعَـٰمِ أَزْوَٰجًا ۖ يَذْرَؤُكُمْ فِيهِ ۚ لَيْسَ كَمِثْلِهِۦ شَىْءٌ ۖ وَهُوَ ٱلسَّمِيعُ ٱلْبَصِيرُ",
+    "arabic2": "فاطر السماوات والارض جعل لكم من انفسكم ازواجا ومن الانعام ازواجا يذرؤكم فيه ليس كمثله شيء وهو السميع البصير",
+    "bengali": "তিনি আসমানসমূহ ও যমীনের স্রষ্টা; তোমাদের জন্য তোমাদের মধ্য থেকে জোড়া বানিয়েছেন এবং চতুষ্পদ জন্তু থেকেও জোড়া বানিয়েছেন, (এভাবেই) তিনি তোমাদেরকে ছড়িয়ে দিয়েছেন। তাঁর মত কিছু নেই আর তিনি সর্বশ্রোতা ও সর্বদ্রষ্টা।",
+    "urdu": "آسمانوں اور زمین کا پیدا کرنے والا (وہی ہے)۔ اسی نے تمہارے لئے تمہاری ہی جنس کے جوڑے بنائے اور چارپایوں کے بھی جوڑے (بنائے اور) اسی طریق پر تم کو پھیلاتا رہتا ہے۔ اس جیسی کوئی چیز نہیں۔ اور وہ دیکھتا سنتا ہے"
+}

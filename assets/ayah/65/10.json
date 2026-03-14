@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Talaaq",
+    "surahNameArabic": "الطلاق",
+    "surahNameArabicLong": "سورة الطلاق",
+    "surahNameTranslation": "Divorce",
+    "revelationPlace": "Madina",
+    "totalAyah": 12,
+    "surahNo": 65,
+    "ayahNo": 10,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/65_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/065010.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/65_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/065010.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/65_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/065010.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/65_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/065010.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/65_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/065010.mp3"
+        }
+    },
+    "english": "Allah has ˹also˺ prepared for them a severe punishment. So fear Allah, O  people of reason and faith. Allah has indeed revealed to you a Reminder",
+    "arabic1": "أَعَدَّ ٱللَّهُ لَهُمْ عَذَابًا شَدِيدًا ۖ فَٱتَّقُوا۟ ٱللَّهَ يَـٰٓأُو۟لِى ٱلْأَلْبَـٰبِ ٱلَّذِينَ ءَامَنُوا۟ ۚ قَدْ أَنزَلَ ٱللَّهُ إِلَيْكُمْ ذِكْرًا",
+    "arabic2": "اعد الله لهم عذابا شديدا فاتقوا الله يا اولي الالباب الذين امنوا قد انزل الله اليكم ذكرا",
+    "bengali": "আল্লাহ তাদের জন্য কঠিন আযাব প্রস্তুত রেখেছেন; সুতরাং তোমরা আল্লাহকে ভয় কর, হে বুদ্ধিসম্পন্ন লোকেরা, যারা ঈমান এনেছে; নিশ্চয় আল্লাহ তোমাদের কাছে পাঠিয়েছেন একটি উপদেশ।",
+    "urdu": "خدا نے ان کے لئے سخت عذاب تیار کر رکھا ہے۔ تو اے ارباب دانش جو ایمان لائے ہو خدا سے ڈرو۔ خدا نے تمہارے پاس نصیحت (کی کتاب) بھیجی ہے"
+}

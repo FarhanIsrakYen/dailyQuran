@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Qasas",
+    "surahNameArabic": "القصص",
+    "surahNameArabicLong": "سورة القصص",
+    "surahNameTranslation": "The Stories",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 28,
+    "ayahNo": 87,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/28_87.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/028087.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/28_87.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/028087.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/28_87.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/028087.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/28_87.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/028087.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/28_87.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/028087.mp3"
+        }
+    },
+    "english": "Do not let them turn you away from the revelations of Allah after they have been sent down to you. Rather, invite ˹all˺ to ˹the Way of˺ your Lord, and never be one of the polytheists.",
+    "arabic1": "وَلَا يَصُدُّنَّكَ عَنْ ءَايَـٰتِ ٱللَّهِ بَعْدَ إِذْ أُنزِلَتْ إِلَيْكَ ۖ وَٱدْعُ إِلَىٰ رَبِّكَ ۖ وَلَا تَكُونَنَّ مِنَ ٱلْمُشْرِكِينَ",
+    "arabic2": "ولا يصدنك عن ايات الله بعد اذ انزلت اليك وادع الى ربك ولا تكونن من المشركين",
+    "bengali": "আর আল্লাহর আয়াতসমূহ তোমার প্রতি নাযিল হওয়ার পর তারা যেন তোমাকে তা থেকে বিরত রাখতে না পারে, তোমার রবের প্রতি তুমি আহবান কর এবং তুমি মুশরিকদের অন্তর্ভুক্ত হয়ো না।",
+    "urdu": "اور وہ تمہیں خدا کی آیتوں کی تبلیغ سے بعد اس کے کہ وہ تم پر نازل ہوچکی ہیں روک نہ دیں اور اپنے پروردگار کو پکارتے رہو اور مشرکوں میں ہرگز نہ ہو جیو"
+}

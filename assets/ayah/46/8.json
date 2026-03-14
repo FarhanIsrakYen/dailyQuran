@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Ahqaf",
+    "surahNameArabic": "الأحقاف",
+    "surahNameArabicLong": "سورة الأحقاف",
+    "surahNameTranslation": "The Dunes",
+    "revelationPlace": "Mecca",
+    "totalAyah": 35,
+    "surahNo": 46,
+    "ayahNo": 8,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/46_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/046008.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/46_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/046008.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/46_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/046008.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/46_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/046008.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/46_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/046008.mp3"
+        }
+    },
+    "english": "Or do they say, “He has fabricated this ˹Quran˺!”? Say, ˹O Prophet,˺ “If I have done so, then there is nothing whatsoever you can do to save me from Allah. He knows best what ˹slurs˺ you indulge about it. Sufficient is He as a Witness between you and me. And He is the All-Forgiving, Most Merciful.”",
+    "arabic1": "أَمْ يَقُولُونَ ٱفْتَرَىٰهُ ۖ قُلْ إِنِ ٱفْتَرَيْتُهُۥ فَلَا تَمْلِكُونَ لِى مِنَ ٱللَّهِ شَيْـًٔا ۖ هُوَ أَعْلَمُ بِمَا تُفِيضُونَ فِيهِ ۖ كَفَىٰ بِهِۦ شَهِيدًۢا بَيْنِى وَبَيْنَكُمْ ۖ وَهُوَ ٱلْغَفُورُ ٱلرَّحِيمُ",
+    "arabic2": "ام يقولون افتراه قل ان افتريته فلا تملكون لي من الله شيئا هو اعلم بما تفيضون فيه كفى به شهيدا بيني وبينكم وهو الغفور الرحيم",
+    "bengali": "তবে কি তারা বলে যে, ‘সে এটা নিজে উদ্ভাবন করেছে’? বল, ‘যদি আমি এটা উদ্ভাবন করে থাকি, তবে তোমরা আমাকে আল্লাহর (আযাব) থেকে বাঁচাতে সামান্য কিছুরও মালিক নও। তোমরা যে বিষয়ে আলোচনায় মত্ত আছ, তিনি সে বিষয়ে সম্যক অবগত। আমার ও তোমাদের মধ্যে সাক্ষী হিসেবে তিনিই যথেষ্ট। আর তিনি অতি ক্ষমাশীল, পরম দয়ালু’।",
+    "urdu": "کیا یہ کہتے ہیں کہ اس نے اس کو از خود بنا لیا ہے۔ کہہ دو کہ اگر میں نے اس کو اپنی طرف سے بنایا ہو تو تم خدا کے سامنے میرے (بچاؤ کے) لئے کچھ اختیار نہیں رکھتے۔ وہ اس گفتگو کو خوب جانتا ہے جو تم اس کے بارے میں کرتے ہو۔ وہی میرے اور تمہارے درمیان گواہ کافی ہے۔ اور وہ بخشنے والا مہربان ہے"
+}

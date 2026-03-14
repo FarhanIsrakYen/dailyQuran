@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 59,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_59.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002059.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_59.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002059.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_59.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002059.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_59.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002059.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_59.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002059.mp3"
+        }
+    },
+    "english": "But the wrongdoers changed the words they were commanded to say. So We sent down a punishment from the heavens upon them for their rebelliousness.",
+    "arabic1": "فَبَدَّلَ ٱلَّذِينَ ظَلَمُوا۟ قَوْلًا غَيْرَ ٱلَّذِى قِيلَ لَهُمْ فَأَنزَلْنَا عَلَى ٱلَّذِينَ ظَلَمُوا۟ رِجْزًا مِّنَ ٱلسَّمَآءِ بِمَا كَانُوا۟ يَفْسُقُونَ",
+    "arabic2": "فبدل الذين ظلموا قولا غير الذي قيل لهم فانزلنا على الذين ظلموا رجزا من السماء بما كانوا يفسقون",
+    "bengali": "অতঃপর যালিমরা পবিবর্তন করে ফেলল সে কথা যা তাদেরকে বলা হয়েছিল, ভিন্ন অন্য কথা দিয়ে। ফলে আমি তাদের উপর আসমান থেকে আযাব নাযিল করলাম, কারণ তারা পাপাচার করত।",
+    "urdu": "تو جو ظالم تھے، انہوں نے اس لفظ کو، جس کا ان کو حکم دیا تھا، بدل کر اس کی جگہ اور لفظ کہنا شروع کیا، پس ہم نے (ان) ظالموں پر آسمان سے عذاب نازل کیا، کیونکہ نافرمانیاں کئے جاتے تھے"
+}

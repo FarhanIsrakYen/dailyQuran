@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Anbiyaa",
+    "surahNameArabic": "الأنبياء",
+    "surahNameArabicLong": "سورة الأنبياء",
+    "surahNameTranslation": "The Prophets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 112,
+    "surahNo": 21,
+    "ayahNo": 28,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/21_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/021028.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/21_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/021028.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/21_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/021028.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/21_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/021028.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/21_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/021028.mp3"
+        }
+    },
+    "english": "He ˹fully˺ knows what is ahead of them and what is behind them. They do not intercede except for whom He approves, and they tremble in awe of Him.",
+    "arabic1": "يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلَا يَشْفَعُونَ إِلَّا لِمَنِ ٱرْتَضَىٰ وَهُم مِّنْ خَشْيَتِهِۦ مُشْفِقُونَ",
+    "arabic2": "يعلم ما بين ايديهم وما خلفهم ولا يشفعون الا لمن ارتضى وهم من خشيته مشفقون",
+    "bengali": "তাদের সামনে ও পেছনে যা কিছু আছে সবই তিনি জানেন। আর তারা শুধু তাদের জন্যই সুপারিশ করে যাদের প্রতি তিনি সন্তুষ্ট। তারা তাঁর ভয়ে ভীত।* \n* ফেরেশতারা আল্লাহর ভয়ে সর্বদা ভীত থাকে।",
+    "urdu": "جو کچھ ان کے آگے ہوچکا ہے اور پیچھے ہوگا وہ سب سے واقف ہے اور وہ (اس کے پاس کسی کی) سفارش نہیں کرسکتے مگر اس شخص کی جس سے خدا خوش ہو اور وہ اس کی ہیبت سے ڈرتے رہتے ہیں"
+}

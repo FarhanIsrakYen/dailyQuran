@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Anfaal",
+    "surahNameArabic": "الأنفال",
+    "surahNameArabicLong": "سورة الأنفال",
+    "surahNameTranslation": "The Spoils of War",
+    "revelationPlace": "Madina",
+    "totalAyah": 75,
+    "surahNo": 8,
+    "ayahNo": 54,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/8_54.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/008054.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/8_54.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/008054.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/8_54.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/008054.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/8_54.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/008054.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/8_54.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/008054.mp3"
+        }
+    },
+    "english": "That was the case with Pharaoh’s people and those before them—they all rejected the signs of their Lord, so We destroyed them for their sins and drowned Pharaoh’s people. They were all wrongdoers.",
+    "arabic1": "كَدَأْبِ ءَالِ فِرْعَوْنَ ۙ وَٱلَّذِينَ مِن قَبْلِهِمْ ۚ كَذَّبُوا۟ بِـَٔايَـٰتِ رَبِّهِمْ فَأَهْلَكْنَـٰهُم بِذُنُوبِهِمْ وَأَغْرَقْنَآ ءَالَ فِرْعَوْنَ ۚ وَكُلٌّ كَانُوا۟ ظَـٰلِمِينَ",
+    "arabic2": "كداب ال فرعون والذين من قبلهم كذبوا بايات ربهم فاهلكناهم بذنوبهم واغرقنا ال فرعون وكل كانوا ظالمين",
+    "bengali": "ফিরআউন বংশ ও তাদের পূর্বের লোকদের আচরণের মত তারা তাদের রবের আয়াতসমূহকে অস্বীকার করেছে, ফলে আমি তাদেরকে ধ্বংস করেছি তাদের পাপের কারণে এবং ফিরআউন বংশকে ডুবিয়েছি, আর তারা সকলেই ছিল যালিম।",
+    "urdu": "جیسا حال فرعونیوں اور ان سے پہلے لوگوں کا (ہوا تھا ویسا ہی ان کا ہوا) انہوں نے اپنے پروردگار کی آیتوں کو جھٹلایا تو ہم نے ان کو ان کے گناہوں کے سبب ہلاک کر ڈالا اور فرعونیوں کو ڈبو دیا۔ اور وہ سب ظالم تھے"
+}

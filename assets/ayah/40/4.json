@@ -1,0 +1,42 @@
+{
+    "surahName": "Ghafir",
+    "surahNameArabic": "غافر",
+    "surahNameArabicLong": "سورة غافر",
+    "surahNameTranslation": "The Forgiver",
+    "revelationPlace": "Mecca",
+    "totalAyah": 85,
+    "surahNo": 40,
+    "ayahNo": 4,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/40_4.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/040004.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/40_4.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/040004.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/40_4.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/040004.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/40_4.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/040004.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/40_4.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/040004.mp3"
+        }
+    },
+    "english": "None disputes the signs of Allah except the disbelievers, so do not be deceived by their prosperity throughout the land.",
+    "arabic1": "مَا يُجَـٰدِلُ فِىٓ ءَايَـٰتِ ٱللَّهِ إِلَّا ٱلَّذِينَ كَفَرُوا۟ فَلَا يَغْرُرْكَ تَقَلُّبُهُمْ فِى ٱلْبِلَـٰدِ",
+    "arabic2": "ما يجادل في ايات الله الا الذين كفروا فلا يغررك تقلبهم في البلاد",
+    "bengali": "কাফিররাই কেবল আল্লাহর আয়াতসমূহ নিয়ে বিতর্কে লিপ্ত হয়। সুতরাং দেশে দেশে তাদের অবাধ বিচরণ যেন তোমাকে ধোঁকায় না ফেলে।",
+    "urdu": "خدا کی آیتوں میں وہی لوگ جھگڑتے ہیں جو کافر ہیں۔ تو ان لوگوں کا شہروں میں چلنا پھرنا تمہیں دھوکے میں نہ ڈال دے"
+}

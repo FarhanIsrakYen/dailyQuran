@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Jaathiya",
+    "surahNameArabic": "الجاثية",
+    "surahNameArabicLong": "سورة الجاثية",
+    "surahNameTranslation": "Crouching",
+    "revelationPlace": "Mecca",
+    "totalAyah": 37,
+    "surahNo": 45,
+    "ayahNo": 9,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/45_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/045009.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/45_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/045009.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/45_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/045009.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/45_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/045009.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/45_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/045009.mp3"
+        }
+    },
+    "english": "And whenever they learn anything of Our revelations, they make a mockery of it. It is they who will suffer a humiliating punishment.",
+    "arabic1": "وَإِذَا عَلِمَ مِنْ ءَايَـٰتِنَا شَيْـًٔا ٱتَّخَذَهَا هُزُوًا ۚ أُو۟لَـٰٓئِكَ لَهُمْ عَذَابٌ مُّهِينٌ",
+    "arabic2": "واذا علم من اياتنا شيئا اتخذها هزوا اولئك لهم عذاب مهين",
+    "bengali": "আর যখন সে আমার আয়াতসমূহের কিছু জানতে পারে, তখন সে এটাকে পরিহাসের পাত্ররূপে গ্রহণ করে। এদের জন্য রয়েছে লাঞ্ছনাদায়ক আযাব।",
+    "urdu": "اور جب ہماری کچھ آیتیں اسے معلوم ہوتی ہیں تو ان کی ہنسی اُڑاتا ہے۔ ایسے لوگوں کے لئے ذلیل کرنے والا عذاب ہے"
+}

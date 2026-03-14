@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Najm",
+    "surahNameArabic": "النجم",
+    "surahNameArabicLong": "سورة النجم",
+    "surahNameTranslation": "The Star",
+    "revelationPlace": "Mecca",
+    "totalAyah": 62,
+    "surahNo": 53,
+    "ayahNo": 32,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/53_32.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/053032.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/53_32.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/053032.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/53_32.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/053032.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/53_32.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/053032.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/53_32.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/053032.mp3"
+        }
+    },
+    "english": "those who avoid major sins and shameful deeds, despite ˹stumbling on˺ minor sins. Surely your Lord is infinite in forgiveness. He knew well what would become of you as He created you from the earth and while you were ˹still˺ fetuses in the wombs of your mothers. So do not ˹falsely˺ elevate yourselves. He knows best who is ˹truly˺ righteous.",
+    "arabic1": "ٱلَّذِينَ يَجْتَنِبُونَ كَبَـٰٓئِرَ ٱلْإِثْمِ وَٱلْفَوَٰحِشَ إِلَّا ٱللَّمَمَ ۚ إِنَّ رَبَّكَ وَٰسِعُ ٱلْمَغْفِرَةِ ۚ هُوَ أَعْلَمُ بِكُمْ إِذْ أَنشَأَكُم مِّنَ ٱلْأَرْضِ وَإِذْ أَنتُمْ أَجِنَّةٌ فِى بُطُونِ أُمَّهَـٰتِكُمْ ۖ فَلَا تُزَكُّوٓا۟ أَنفُسَكُمْ ۖ هُوَ أَعْلَمُ بِمَنِ ٱتَّقَىٰٓ",
+    "arabic2": "الذين يجتنبون كبائر الاثم والفواحش الا اللمم ان ربك واسع المغفرة هو اعلم بكم اذ انشاكم من الارض واذ انتم اجنة في بطون امهاتكم فلا تزكوا انفسكم هو اعلم بمن اتقى",
+    "bengali": "যারা ছোট খাট দোষ-ত্রুটি ছাড়া বড় বড় পাপ ও অশ্লীল কার্যকলাপ থেকে বিরত থাকে, নিশ্চয় তোমার রব ক্ষমার ব্যাপারে উদার, তিনি তোমাদের ব্যাপারে সম্যক অবগত। যখন তিনি তোমাদেরকে মাটি থেকে সৃষ্টি করেছেন এবং যখন তোমরা তোমাদের মাতৃগর্ভে ভ্রূণরূপে ছিলে। কাজেই তোমরা আত্মপ্রশংসা করো না। কে তাকওয়া অবলম্বন করেছে, সে সম্পর্কে তিনিই সম্যক অবগত।",
+    "urdu": "جو صغیرہ گناہوں کے سوا بڑے بڑے گناہوں اور بےحیائی کی باتوں سے اجتناب کرتے ہیں۔ بےشک تمہارا پروردگار بڑی بخشش والا ہے۔ وہ تم کو خوب جانتا ہے۔ جب اس نے تم کو مٹی سے پیدا کیا اور جب تم اپنی ماؤں کے پیٹ میں بچّے تھے۔ تو اپنے آپ کو پاک صاف نہ جتاؤ۔ جو پرہیزگار ہے وہ اس سے خوب واقف ہے"
+}

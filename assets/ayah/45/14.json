@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Jaathiya",
+    "surahNameArabic": "الجاثية",
+    "surahNameArabicLong": "سورة الجاثية",
+    "surahNameTranslation": "Crouching",
+    "revelationPlace": "Mecca",
+    "totalAyah": 37,
+    "surahNo": 45,
+    "ayahNo": 14,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/45_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/045014.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/45_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/045014.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/45_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/045014.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/45_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/045014.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/45_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/045014.mp3"
+        }
+    },
+    "english": "˹O Prophet!˺ Tell the believers to forgive those who do not fear Allah’s days ˹of torment˺, so that He will reward each group for what they used to commit.",
+    "arabic1": "قُل لِّلَّذِينَ ءَامَنُوا۟ يَغْفِرُوا۟ لِلَّذِينَ لَا يَرْجُونَ أَيَّامَ ٱللَّهِ لِيَجْزِىَ قَوْمًۢا بِمَا كَانُوا۟ يَكْسِبُونَ",
+    "arabic2": "قل للذين امنوا يغفروا للذين لا يرجون ايام الله ليجزي قوما بما كانوا يكسبون",
+    "bengali": "যারা ঈমান এনেছে তাদেরকে বল, ‘যারা আল্লাহর দিবসসমূহ প্রত্যাশা করে না, এরা যেন তাদের ক্ষমা করে দেয়, যাতে আল্লাহ প্রত্যেক কওমকে তাদের কৃতকর্মের জন্য প্রতিদান দিতে পারেন।",
+    "urdu": "مومنوں سے کہہ دو کہ جو لوگ خدا کے دنوں کی (جو اعمال کے بدلے کے لئے مقرر ہیں) توقع نہیں رکھتے ان سے درگزر کریں۔ تاکہ وہ ان لوگوں کو ان کے اعمال کا بدلے دے"
+}

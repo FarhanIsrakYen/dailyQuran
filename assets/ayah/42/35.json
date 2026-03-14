@@ -1,0 +1,42 @@
+{
+    "surahName": "Ash-Shura",
+    "surahNameArabic": "الشورى",
+    "surahNameArabicLong": "سورة الشورى",
+    "surahNameTranslation": "Consultation",
+    "revelationPlace": "Mecca",
+    "totalAyah": 53,
+    "surahNo": 42,
+    "ayahNo": 35,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/42_35.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/042035.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/42_35.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/042035.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/42_35.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/042035.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/42_35.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/042035.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/42_35.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/042035.mp3"
+        }
+    },
+    "english": "so those who dispute about Our signs may know that they have no refuge.",
+    "arabic1": "وَيَعْلَمَ ٱلَّذِينَ يُجَـٰدِلُونَ فِىٓ ءَايَـٰتِنَا مَا لَهُم مِّن مَّحِيصٍ",
+    "arabic2": "ويعلم الذين يجادلون في اياتنا ما لهم من محيص",
+    "bengali": "আর যারা আমার নিদর্শনসমূহ সম্পর্কে বাক বিতন্ডা করে তারা যেন জানতে পারে যে, তাদের কোন আশ্রয়স্থল নেই।",
+    "urdu": "اور (انتقام اس لئے لیا جائے کہ) جو لوگ ہماری آیتوں میں جھگڑتے ہیں۔ وہ جان لیں کہ ان کے لئے خلاصی نہیں"
+}

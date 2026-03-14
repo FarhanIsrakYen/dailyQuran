@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 49,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/7_49.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/007049.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/7_49.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/007049.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/7_49.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/007049.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/7_49.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/007049.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/7_49.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/007049.mp3"
+        }
+    },
+    "english": "Are these ˹humble believers˺ the ones you swore would never be shown Allah’s mercy?” ˹Finally, those on the heights will be told:˺ “Enter Paradise! There will be no fear for you, nor will you grieve.”",
+    "arabic1": "أَهَـٰٓؤُلَآءِ ٱلَّذِينَ أَقْسَمْتُمْ لَا يَنَالُهُمُ ٱللَّهُ بِرَحْمَةٍ ۚ ٱدْخُلُوا۟ ٱلْجَنَّةَ لَا خَوْفٌ عَلَيْكُمْ وَلَآ أَنتُمْ تَحْزَنُونَ",
+    "arabic2": "اهؤلاء الذين اقسمتم لا ينالهم الله برحمة ادخلوا الجنة لا خوف عليكم ولا انتم تحزنون",
+    "bengali": "এরাই কি তারা যাদের ব্যাপারে তোমরা কসম করতে যে, আল্লাহ তাদেরকে রহমতে শামিল করবেন না? ‘তোমরা জান্নাতে প্রবেশ কর। তোমাদের উপর কোন ভয় নেই এবং তোমরা দুঃখিত হবে না’।",
+    "urdu": "(پھر مومنوں کی طرف اشارہ کر کے کہیں گے) کیا یہ وہی لوگ ہیں جن کے بارے میں تم قسمیں کھایا کرتے تھے کہ خدا اپنی رحمت سے ان کی دستگیری نہیں کرے گا (تو مومنو) تم بہشت میں داخل ہو جاؤ تمہیں کچھ خوف نہیں اور نہ تم کو کچھ رنج واندوہ ہوگا"
+}

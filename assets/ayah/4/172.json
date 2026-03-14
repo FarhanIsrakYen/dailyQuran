@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 172,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/4_172.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/004172.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/4_172.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/004172.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/4_172.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/004172.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/4_172.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/004172.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/4_172.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/004172.mp3"
+        }
+    },
+    "english": "The Messiah would never be too proud to be a servant of Allah, nor would the angels nearest to Allah. Those who are too proud and arrogant to worship Him will be brought before Him all together.",
+    "arabic1": "لَّن يَسْتَنكِفَ ٱلْمَسِيحُ أَن يَكُونَ عَبْدًا لِّلَّهِ وَلَا ٱلْمَلَـٰٓئِكَةُ ٱلْمُقَرَّبُونَ ۚ وَمَن يَسْتَنكِفْ عَنْ عِبَادَتِهِۦ وَيَسْتَكْبِرْ فَسَيَحْشُرُهُمْ إِلَيْهِ جَمِيعًا",
+    "arabic2": "لن يستنكف المسيح ان يكون عبدا لله ولا الملائكة المقربون ومن يستنكف عن عبادته ويستكبر فسيحشرهم اليه جميعا",
+    "bengali": "মাসীহ কখনো আল্লাহর বান্দা হতে (নিজকে) হেয় মনে করে না এবং নৈকট্যপ্রাপ্ত ফেরেশতারাও না, আর যারা তাঁর ইবাদাতকে হেয় জ্ঞান করে এবং অহঙ্কার করে, তবে অচিরেই আল্লাহ তাদের সবাইকে তাঁর নিকট সমবেত করবেন।",
+    "urdu": "مسیح اس بات سے عار نہیں رکھتے کہ خدا کے بندے ہوں اور نہ مقرب فرشتے (عار رکھتے ہیں) اور جو شخص خدا کا بندہ ہونے کو موجب عار سمجھے اور سرکشی کرے تو خدا سب کو اپنے پاس جمع کرلے گا"
+}

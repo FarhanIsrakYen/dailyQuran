@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Ma'aarij",
+    "surahNameArabic": "المعارج",
+    "surahNameArabicLong": "سورة المعارج",
+    "surahNameTranslation": "The Ascending Stairways",
+    "revelationPlace": "Mecca",
+    "totalAyah": 44,
+    "surahNo": 70,
+    "ayahNo": 11,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/70_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/070011.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/70_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/070011.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/70_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/070011.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/70_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/070011.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/70_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/070011.mp3"
+        }
+    },
+    "english": "˹although˺ they will be made to see each other. The wicked will wish to ransom themselves from the punishment of that Day by their children",
+    "arabic1": "يُبَصَّرُونَهُمْ ۚ يَوَدُّ ٱلْمُجْرِمُ لَوْ يَفْتَدِى مِنْ عَذَابِ يَوْمِئِذٍۭ بِبَنِيهِ",
+    "arabic2": "يبصرونهم يود المجرم لو يفتدي من عذاب يومئذ ببنيه",
+    "bengali": "তাদেরকে একে অপরের দৃষ্টিগোচর করা হবে। অপরাধী চাইবে যদি সে সেদিনের শাস্তি থেকে তার সন্তান-সন্ততিকে পণ হিসেবে দিয়ে মুক্তি পেতে,",
+    "urdu": "ایک دوسرے کو سامنے دیکھ رہے ہوں گے (اس روز) گنہگار خواہش کرے گا کہ کسی طرح اس دن کے عذاب کے بدلے میں (سب کچھ) دے دے یعنی اپنے بیٹے"
+}

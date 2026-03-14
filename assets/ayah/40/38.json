@@ -1,0 +1,42 @@
+{
+    "surahName": "Ghafir",
+    "surahNameArabic": "غافر",
+    "surahNameArabicLong": "سورة غافر",
+    "surahNameTranslation": "The Forgiver",
+    "revelationPlace": "Mecca",
+    "totalAyah": 85,
+    "surahNo": 40,
+    "ayahNo": 38,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/40_38.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/040038.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/40_38.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/040038.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/40_38.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/040038.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/40_38.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/040038.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/40_38.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/040038.mp3"
+        }
+    },
+    "english": "And the man who believed urged, “O my people! Follow me, ˹and˺ I will lead you to the Way of Guidance.",
+    "arabic1": "وَقَالَ ٱلَّذِىٓ ءَامَنَ يَـٰقَوْمِ ٱتَّبِعُونِ أَهْدِكُمْ سَبِيلَ ٱلرَّشَادِ",
+    "arabic2": "وقال الذي امن يا قوم اتبعون اهدكم سبيل الرشاد",
+    "bengali": "আর যে ব্যক্তি ঈমান এনেছিল, সে বলল, ‘হে আমার কওম, তোমরা আমার আনুগত্য কর; আমি তোমাদেরকে সঠিক পথ দেখাব’।",
+    "urdu": "اور وہ شخص جو مومن تھا اس نے کہا کہ بھائیو میرے پیچھے چلو میں تمہیں بھلائی کا رستہ دکھاؤ ں"
+}

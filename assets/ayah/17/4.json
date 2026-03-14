@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 4,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/17_4.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/017004.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/17_4.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/017004.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/17_4.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/017004.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/17_4.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/017004.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/17_4.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/017004.mp3"
+        }
+    },
+    "english": "And We warned the Children of Israel in the Scripture, “You will certainly cause corruption in the land twice, and you will become extremely arrogant.",
+    "arabic1": "وَقَضَيْنَآ إِلَىٰ بَنِىٓ إِسْرَٰٓءِيلَ فِى ٱلْكِتَـٰبِ لَتُفْسِدُنَّ فِى ٱلْأَرْضِ مَرَّتَيْنِ وَلَتَعْلُنَّ عُلُوًّا كَبِيرًا",
+    "arabic2": "وقضينا الى بني اسرائيل في الكتاب لتفسدن في الارض مرتين ولتعلن علوا كبيرا",
+    "bengali": "আর আমি বনী ইসরাঈলকে কিতাবে সিদ্ধান্ত জানিয়েছিলাম যে, তোমরা যমীনে দু’বার অবশ্যই ফাসাদ করবে এবং ঔদ্ধত্য দেখাবে মারাত্মকভাবে।",
+    "urdu": "اور ہم نے کتاب میں بنی اسرائیل سے کہہ دیا تھا کہ زمین میں دو دفعہ فساد مچاؤ گے اور بڑی سرکشی کرو گے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 148,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_148.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002148.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_148.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002148.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_148.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002148.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_148.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002148.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_148.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002148.mp3"
+        }
+    },
+    "english": "Everyone turns to their own direction ˹of prayer˺. So compete with one another in doing good. Wherever you are, Allah will bring you all together ˹for judgment˺. Surely Allah is Most Capable of everything.",
+    "arabic1": "وَلِكُلٍّ وِجْهَةٌ هُوَ مُوَلِّيهَا ۖ فَٱسْتَبِقُوا۟ ٱلْخَيْرَٰتِ ۚ أَيْنَ مَا تَكُونُوا۟ يَأْتِ بِكُمُ ٱللَّهُ جَمِيعًا ۚ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+    "arabic2": "ولكل وجهة هو موليها فاستبقوا الخيرات اين ما تكونوا يات بكم الله جميعا ان الله على كل شيء قدير",
+    "bengali": "আর প্রত্যেকের রয়েছে একটি দিক, যেদিকে সে চেহারা ফিরায়। সুতরাং তোমরা কল্যাণকর্মে প্রতিযোগিতা কর। তোমরা যেখানেই থাক না কেন, আল্লাহ তোমাদের সবাইকে নিয়ে আসবেন। নিশ্চয় আল্লাহ সব কিছুর উপর ক্ষমতাবান।",
+    "urdu": "اور ہر ایک (فرقے) کے لیے ایک سمت (مقرر) ہے۔ جدھر وہ (عبادت کے وقت) منہ کیا کرتے ہیں۔ تو تم نیکیوں میں سبقت حاصل کرو۔ تم جہاں رہو گے خدا تم سب کو جمع کرلے گا۔ بے شک خدا ہر چیز پر قادر ہے"
+}

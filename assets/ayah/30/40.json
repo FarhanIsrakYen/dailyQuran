@@ -1,0 +1,42 @@
+{
+    "surahName": "Ar-Room",
+    "surahNameArabic": "الروم",
+    "surahNameArabicLong": "سورة الروم",
+    "surahNameTranslation": "The Romans",
+    "revelationPlace": "Mecca",
+    "totalAyah": 60,
+    "surahNo": 30,
+    "ayahNo": 40,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/30_40.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/030040.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/30_40.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/030040.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/30_40.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/030040.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/30_40.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/030040.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/30_40.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/030040.mp3"
+        }
+    },
+    "english": "It is Allah Who created you, then gives you provisions, then will cause you to die, and then will bring you back to life. Can any of your associate-gods do any of this? Glorified and Exalted is He above what they associate with Him ˹in worship˺!",
+    "arabic1": "ٱللَّهُ ٱلَّذِى خَلَقَكُمْ ثُمَّ رَزَقَكُمْ ثُمَّ يُمِيتُكُمْ ثُمَّ يُحْيِيكُمْ ۖ هَلْ مِن شُرَكَآئِكُم مَّن يَفْعَلُ مِن ذَٰلِكُم مِّن شَىْءٍ ۚ سُبْحَـٰنَهُۥ وَتَعَـٰلَىٰ عَمَّا يُشْرِكُونَ",
+    "arabic2": "الله الذي خلقكم ثم رزقكم ثم يميتكم ثم يحييكم هل من شركائكم من يفعل من ذلكم من شيء سبحانه وتعالى عما يشركون",
+    "bengali": "আল্লাহ সেই সত্তা যিনি তোমাদেরকে সৃষ্টি করেছেন, তারপর তোমাদেরকে রিয্ক দিয়েছেন। এরপর তিনি তোমাদের মৃত্যু দেবেন, পরে আবার তোমাদের জীবন দেবেন। তোমাদের শরীকদের মধ্যে এমন কেউ আছে কি, যে এ থেকে কোন কিছু করতে পারবে? তিনি পবিত্র এবং তারা যাদের শরীক করে তা থেকে তিনি ঊর্ধ্বে।",
+    "urdu": "خدا ہی تو ہے جس نے تم کو پیدا کیا پھر تم کو رزق دیا پھر تمہیں مارے گا۔ پھر زندہ کرے گا۔ بھلا تمہارے (بنائے ہوئے) شریکوں میں بھی کوئی ایسا ہے جو ان کاموں میں سے کچھ کر سکے۔ وہ پاک ہے اور (اس کی شان) ان کے شریکوں سے بلند ہے"
+}

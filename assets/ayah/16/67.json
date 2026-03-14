@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nahl",
+    "surahNameArabic": "النحل",
+    "surahNameArabicLong": "سورة النحل",
+    "surahNameTranslation": "The Bee",
+    "revelationPlace": "Mecca",
+    "totalAyah": 128,
+    "surahNo": 16,
+    "ayahNo": 67,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/16_67.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/016067.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/16_67.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/016067.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/16_67.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/016067.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/16_67.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/016067.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/16_67.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/016067.mp3"
+        }
+    },
+    "english": "And from the fruits of palm trees and grapevines you derive intoxicants as well as wholesome provision. Surely in this is a sign for those who understand.",
+    "arabic1": "وَمِن ثَمَرَٰتِ ٱلنَّخِيلِ وَٱلْأَعْنَـٰبِ تَتَّخِذُونَ مِنْهُ سَكَرًا وَرِزْقًا حَسَنًا ۗ إِنَّ فِى ذَٰلِكَ لَـَٔايَةً لِّقَوْمٍ يَعْقِلُونَ",
+    "arabic2": "ومن ثمرات النخيل والاعناب تتخذون منه سكرا ورزقا حسنا ان في ذلك لاية لقوم يعقلون",
+    "bengali": "আর তোমরা খেজুর গাছের ফল ও আঙ্গুর থেকে মাদক* ও উত্তম রিয্ক গ্রহণ কর। নিশ্চয় এতে এমন কওমের জন্য নিদর্শন রয়েছে, যারা বুঝে। \n* ইমাম তাবারী বলেন, আয়াতটি মাদক নিষিদ্দ হওয়ার পূর্বে অবতীর্ণ হয়েছে।",
+    "urdu": "اور کھجور اور انگور کے میووں سے بھی (تم پینے کی چیزیں تیار کرتے ہو کہ ان سے شراب بناتے ہو) اور عمدہ رزق (کھاتے ہو) جو لوگ سمجھ رکھتے ہیں ان کے لیے ان (چیزوں) میں (قدرت خدا کی) نشانی ہے"
+}

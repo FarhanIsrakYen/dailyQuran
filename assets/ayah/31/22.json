@@ -1,0 +1,42 @@
+{
+    "surahName": "Luqman",
+    "surahNameArabic": "لقمان",
+    "surahNameArabicLong": "سورة لقمان",
+    "surahNameTranslation": "Luqman",
+    "revelationPlace": "Mecca",
+    "totalAyah": 34,
+    "surahNo": 31,
+    "ayahNo": 22,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/31_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/031022.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/31_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/031022.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/31_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/031022.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/31_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/031022.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/31_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/031022.mp3"
+        }
+    },
+    "english": "Whoever fully submits themselves to Allah and is a good-doer, they have certainly grasped the firmest hand-hold. And with Allah rests the outcome of ˹all˺ affairs.",
+    "arabic1": "۞ وَمَن يُسْلِمْ وَجْهَهُۥٓ إِلَى ٱللَّهِ وَهُوَ مُحْسِنٌ فَقَدِ ٱسْتَمْسَكَ بِٱلْعُرْوَةِ ٱلْوُثْقَىٰ ۗ وَإِلَى ٱللَّهِ عَـٰقِبَةُ ٱلْأُمُورِ",
+    "arabic2": "ومن يسلم وجهه الى الله وهو محسن فقد استمسك بالعروة الوثقى والى الله عاقبة الامور",
+    "bengali": "আর যে ব্যক্তি একনিষ্ঠ ও বিশুদ্ধচিত্তে আল্লাহর কাছে নিজকে সমর্পণ করে, সে তো শক্ত রশি আঁকড়ে ধরে। আর সকল বিষয়ের পরিণাম আল্লাহরই কাছে।",
+    "urdu": "اور جو شخص اپنے تئیں خدا کا فرمانبردار کردے اور نیکوکار بھی ہو تو اُس نے مضبوط دستاویز ہاتھ میں لے لی۔ اور (سب)کاموں کا انجام خدا ہی کی طرف ہے"
+}

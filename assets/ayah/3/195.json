@@ -1,0 +1,42 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 195,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/3_195.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/003195.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/3_195.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/003195.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/3_195.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/003195.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/3_195.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/003195.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/3_195.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/003195.mp3"
+        }
+    },
+    "english": "So their Lord responded to them: “I will never deny any of you—male or female—the reward of your deeds. Both are equal in reward. Those who migrated or were expelled from their homes, and were persecuted for My sake and fought and ˹some˺ were martyred—I will certainly forgive their sins and admit them into Gardens under which rivers flow, as a reward from Allah. And with Allah is the finest reward!”",
+    "arabic1": "فَٱسْتَجَابَ لَهُمْ رَبُّهُمْ أَنِّى لَآ أُضِيعُ عَمَلَ عَـٰمِلٍ مِّنكُم مِّن ذَكَرٍ أَوْ أُنثَىٰ ۖ بَعْضُكُم مِّنۢ بَعْضٍ ۖ فَٱلَّذِينَ هَاجَرُوا۟ وَأُخْرِجُوا۟ مِن دِيَـٰرِهِمْ وَأُوذُوا۟ فِى سَبِيلِى وَقَـٰتَلُوا۟ وَقُتِلُوا۟ لَأُكَفِّرَنَّ عَنْهُمْ سَيِّـَٔاتِهِمْ وَلَأُدْخِلَنَّهُمْ جَنَّـٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ ثَوَابًا مِّنْ عِندِ ٱللَّهِ ۗ وَٱللَّهُ عِندَهُۥ حُسْنُ ٱلثَّوَابِ",
+    "arabic2": "فاستجاب لهم ربهم اني لا اضيع عمل عامل منكم من ذكر او انثى بعضكم من بعض فالذين هاجروا واخرجوا من ديارهم واوذوا في سبيلي وقاتلوا وقتلوا لاكفرن عنهم سيئاتهم ولادخلنهم جنات تجري من تحتها الانهار ثوابا من عند الله والله عنده حسن الثواب",
+    "bengali": "অতঃপর তাদের রব তাদের ডাকে সাড়া দিলেন যে, ‘নিশ্চয় আমি তোমাদের কোন পুরুষ অথবা মহিলা আমলকারীর আমল নষ্ট করব না। তোমাদের একে অপরের অংশ। সুতরাং যারা হিজরত করেছে এবং যাদেরকে তাদের ঘর থেকে বের করে দেয়া হয়েছে এবং যাদেরকে আমার রাস্তায় কষ্ট দেয়া হয়েছে, আর যারা যুদ্ধ করেছে এবং নিহত হয়েছে, আমি অবশ্যই তাদের ত্রুটি-বিচ্যুতিসমূহ বিলুপ্ত করে দেব এবং তাদেরকে প্রবেশ করাবো জান্নাতসমূহে, যার তলদেশে প্রবাহিত হচ্ছে নহরসমূহ; আল্লাহর পক্ষ থেকে প্রতিদানস্বরূপ। আর আল্লাহর নিকট রয়েছে উত্তম প্রতিদান।",
+    "urdu": "تو ان کے پرردگار نے ان کی دعا قبول کر لی (اور فرمایا) کہ میں کسی عمل کرنے والے کے عمل کو مرد ہو یا عورت ضائع نہیں کرتا تم ایک دوسرے کی جنس ہو تو جو لوگ میرے لیے وطن چھوڑ گئے اور اپنے گھروں سے نکالے گئے اور ستائے گئے اور لڑے اور قتل کیے گئے میں ان کے گناہ دور کردوں گا اور ان کو بہشتوں میں داخل کروں گا جن کے نیچے نہریں بہ رہی ہیں (یہ) خدا کے ہاں سے بدلہ ہے اور خدا کے ہاں اچھا بدلہ ہے"
+}

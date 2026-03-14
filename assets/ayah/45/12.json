@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Jaathiya",
+    "surahNameArabic": "الجاثية",
+    "surahNameArabicLong": "سورة الجاثية",
+    "surahNameTranslation": "Crouching",
+    "revelationPlace": "Mecca",
+    "totalAyah": 37,
+    "surahNo": 45,
+    "ayahNo": 12,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/45_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/045012.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/45_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/045012.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/45_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/045012.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/45_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/045012.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/45_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/045012.mp3"
+        }
+    },
+    "english": "Allah is the One Who has subjected the sea for you so that ships may sail upon it by His command, and that you may seek His bounty, and that perhaps you will be grateful.",
+    "arabic1": "۞ ٱللَّهُ ٱلَّذِى سَخَّرَ لَكُمُ ٱلْبَحْرَ لِتَجْرِىَ ٱلْفُلْكُ فِيهِ بِأَمْرِهِۦ وَلِتَبْتَغُوا۟ مِن فَضْلِهِۦ وَلَعَلَّكُمْ تَشْكُرُونَ",
+    "arabic2": "الله الذي سخر لكم البحر لتجري الفلك فيه بامره ولتبتغوا من فضله ولعلكم تشكرون",
+    "bengali": "আল্লাহ, যিনি সমুদ্রকে তোমাদের কল্যাণে নিয়োজিত করেছেন যাতে তাঁরই আদেশক্রমে তাতে নৌযানসমূহ চলাচল করতে পারে এবং যাতে তোমরা তাঁর অনুগ্রহ সন্ধান করে বেড়াতে পার এবং যাতে তোমরা শোকর আদায় করতে পার।",
+    "urdu": "خدا ہی تو ہے جس نے دریا کو تمہارے قابو کردیا تاکہ اس کے حکم سے اس میں کشتیاں چلیں اور تاکہ تم اس کے فضل سے (معاش) تلاش کرو اور تاکہ شکر کرو"
+}

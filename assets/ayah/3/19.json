@@ -1,0 +1,42 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 19,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/3_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/003019.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/3_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/003019.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/3_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/003019.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/3_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/003019.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/3_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/003019.mp3"
+        }
+    },
+    "english": "Certainly, Allah’s only Way is Islam. Those who were given the Scripture did not dispute ˹among themselves˺ out of mutual envy until knowledge came to them. Whoever denies Allah’s signs, then surely Allah is swift in reckoning.",
+    "arabic1": "إِنَّ ٱلدِّينَ عِندَ ٱللَّهِ ٱلْإِسْلَـٰمُ ۗ وَمَا ٱخْتَلَفَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ إِلَّا مِنۢ بَعْدِ مَا جَآءَهُمُ ٱلْعِلْمُ بَغْيًۢا بَيْنَهُمْ ۗ وَمَن يَكْفُرْ بِـَٔايَـٰتِ ٱللَّهِ فَإِنَّ ٱللَّهَ سَرِيعُ ٱلْحِسَابِ",
+    "arabic2": "ان الدين عند الله الاسلام وما اختلف الذين اوتوا الكتاب الا من بعد ما جاءهم العلم بغيا بينهم ومن يكفر بايات الله فان الله سريع الحساب",
+    "bengali": "নিশ্চয় আল্লাহর নিকট দীন হচ্ছে ইসলাম। আর যাদেরকে কিতাব দেয়া হয়েছে, তাদের নিকট জ্ঞান আসার পরই তারা মতানৈক্য করেছে, পরস্পর বিদ্বেষবশত। আর যে ব্যক্তি আল্লাহর আয়াতসমূহের সাথে কুফরী করে, নিশ্চয় আল্লাহ হিসাব গ্রহণে দ্রুত।",
+    "urdu": "دین تو خدا کے نزدیک اسلام ہے اور اہل کتاب نے جو (اس دین سے) اختلاف کیا تو علم ہونے کے بعد آپس کی ضد سے کیا اور جو شخص خدا کی آیتوں کو نہ مانے تو خدا جلد حساب لینے والا (اور سزا دینے والا) ہے"
+}

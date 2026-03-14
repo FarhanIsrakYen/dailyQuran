@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 74,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/17_74.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/017074.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/17_74.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/017074.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/17_74.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/017074.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/17_74.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/017074.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/17_74.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/017074.mp3"
+        }
+    },
+    "english": "Had We not made you steadfast, you probably would have inclined to them a little",
+    "arabic1": "وَلَوْلَآ أَن ثَبَّتْنَـٰكَ لَقَدْ كِدتَّ تَرْكَنُ إِلَيْهِمْ شَيْـًٔا قَلِيلًا",
+    "arabic2": "ولولا ان ثبتناك لقد كدت تركن اليهم شيئا قليلا",
+    "bengali": "আর আমি যদি তোমাকে অবিচল না রাখতাম, তবে অবশ্যই তুমি তাদের দিকে কিছুটা ঝুঁকে পড়তে,",
+    "urdu": "اور اگر تم کو ثابت قدم نہ رہنے دیتے تو تم کسی قدر ان کی طرف مائل ہونے ہی لگے تھے"
+}

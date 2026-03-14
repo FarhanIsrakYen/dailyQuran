@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Muminoon",
+    "surahNameArabic": "المؤمنون",
+    "surahNameArabicLong": "سورة المؤمنون",
+    "surahNameTranslation": "The Believers",
+    "revelationPlace": "Mecca",
+    "totalAyah": 118,
+    "surahNo": 23,
+    "ayahNo": 71,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/23_71.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/023071.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/23_71.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/023071.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/23_71.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/023071.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/23_71.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/023071.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/23_71.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/023071.mp3"
+        }
+    },
+    "english": "Had the truth followed their desires, the heavens, the earth, and all those in them would have certainly been corrupted. In fact, We have brought them ˹the means to˺ their glory, but they turn away from it.",
+    "arabic1": "وَلَوِ ٱتَّبَعَ ٱلْحَقُّ أَهْوَآءَهُمْ لَفَسَدَتِ ٱلسَّمَـٰوَٰتُ وَٱلْأَرْضُ وَمَن فِيهِنَّ ۚ بَلْ أَتَيْنَـٰهُم بِذِكْرِهِمْ فَهُمْ عَن ذِكْرِهِم مُّعْرِضُونَ",
+    "arabic2": "ولو اتبع الحق اهواءهم لفسدت السماوات والارض ومن فيهن بل اتيناهم بذكرهم فهم عن ذكرهم معرضون",
+    "bengali": "আর যদি সত্য তাদের কামনা-বাসনার অনুগামী হত, তবে আসমানসমূহ, যমীন ও এতদোভয়ের মধ্যস্থিত সব কিছু বিপর্যস্ত হয়ে যেত; বরং আমি তাদেরকে দিয়েছি তাদের উপদেশবাণী (কুরআন)। অথচ তারা তাদের উপদেশ হতে মুখ ফিরিয়ে নিচ্ছে।",
+    "urdu": "اور خدائے (برحق) ان کی خواہشوں پر چلے تو آسمان اور زمین اور جو ان میں ہیں سب درہم برہم ہوجائیں۔ بلکہ ہم نے ان کے پاس ان کی نصیحت (کی کتاب) پہنچا دی ہے اور وہ اپنی (کتاب) نصیحت سے منہ پھیر رہے ہیں"
+}

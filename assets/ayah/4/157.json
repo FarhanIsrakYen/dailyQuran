@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 157,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/4_157.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/004157.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/4_157.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/004157.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/4_157.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/004157.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/4_157.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/004157.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/4_157.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/004157.mp3"
+        }
+    },
+    "english": "and for boasting, “We killed the Messiah, Jesus, son of Mary, the messenger of Allah.” But they neither killed nor crucified him—it was only made to appear so. Even those who argue for this ˹crucifixion˺ are in doubt. They have no knowledge whatsoever—only making assumptions. They certainly did not kill him.",
+    "arabic1": "وَقَوْلِهِمْ إِنَّا قَتَلْنَا ٱلْمَسِيحَ عِيسَى ٱبْنَ مَرْيَمَ رَسُولَ ٱللَّهِ وَمَا قَتَلُوهُ وَمَا صَلَبُوهُ وَلَـٰكِن شُبِّهَ لَهُمْ ۚ وَإِنَّ ٱلَّذِينَ ٱخْتَلَفُوا۟ فِيهِ لَفِى شَكٍّ مِّنْهُ ۚ مَا لَهُم بِهِۦ مِنْ عِلْمٍ إِلَّا ٱتِّبَاعَ ٱلظَّنِّ ۚ وَمَا قَتَلُوهُ يَقِينًۢا",
+    "arabic2": "وقولهم انا قتلنا المسيح عيسى ابن مريم رسول الله وما قتلوه وما صلبوه ولكن شبه لهم وان الذين اختلفوا فيه لفي شك منه ما لهم به من علم الا اتباع الظن وما قتلوه يقينا",
+    "bengali": "এবং তাদের এ কথার কারণে যে, ‘আমরা আল্লাহর রাসূল মারইয়াম পুত্র ঈসা মাসীহকে হত্যা করেছি’। অথচ তারা তাকে হত্যা করেনি এবং তাকে শূলেও চড়ায়নি। বরং তাদেরকে ধাঁধায় ফেলা হয়েছিল। আর নিশ্চয় যারা তাতে মতবিরোধ করেছিল, অবশ্যই তারা তার ব্যাপারে সন্দেহের মধ্যে ছিল। ধারণার অনুসরণ ছাড়া এ ব্যাপারে তাদের কোন জ্ঞান নেই। আর এটা নিশ্চিত যে, তারা তাকে হত্যা করেনি।",
+    "urdu": "اور یہ کہنے کے سبب کہ ہم نے مریم کے بیٹے عیسیٰ مسیح کو جو خدا کے پیغمبر (کہلاتے) تھے قتل کردیا ہے (خدا نے ان کو معلون کردیا) اور انہوں نے عیسیٰ کو قتل نہیں کیا اور نہ انہیں سولی پر چڑھایا بلکہ ان کو ان کی سی صورت معلوم ہوئی اور جو لوگ ان کے بارے میں اختلاف کرتے ہیں وہ ان کے حال سے شک میں پڑے ہوئے ہیں اور پیروئی ظن کے سوا ان کو اس کا مطلق علم نہیں۔ اور انہوں نے عیسیٰ کو یقیناً قتل نہیں کیا"
+}

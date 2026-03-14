@@ -1,0 +1,42 @@
+{
+    "surahName": "Ibrahim",
+    "surahNameArabic": "ابراهيم",
+    "surahNameArabicLong": "سورة ابراهيم",
+    "surahNameTranslation": "Abraham",
+    "revelationPlace": "Mecca",
+    "totalAyah": 52,
+    "surahNo": 14,
+    "ayahNo": 10,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/14_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/014010.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/14_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/014010.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/14_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/014010.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/14_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/014010.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/14_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/014010.mp3"
+        }
+    },
+    "english": "Their messengers asked ˹them˺, “Is there any doubt about Allah, the Originator of the heavens and the earth? He is inviting you in order to forgive your sins, and delay your end until your appointed term.” They argued, “You are no more than humans like us! You ˹only˺ wish to turn us away from what our forefathers worshipped. So bring us some compelling proof.”",
+    "arabic1": "۞ قَالَتْ رُسُلُهُمْ أَفِى ٱللَّهِ شَكٌّ فَاطِرِ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۖ يَدْعُوكُمْ لِيَغْفِرَ لَكُم مِّن ذُنُوبِكُمْ وَيُؤَخِّرَكُمْ إِلَىٰٓ أَجَلٍ مُّسَمًّى ۚ قَالُوٓا۟ إِنْ أَنتُمْ إِلَّا بَشَرٌ مِّثْلُنَا تُرِيدُونَ أَن تَصُدُّونَا عَمَّا كَانَ يَعْبُدُ ءَابَآؤُنَا فَأْتُونَا بِسُلْطَـٰنٍ مُّبِينٍ",
+    "arabic2": "قالت رسلهم افي الله شك فاطر السماوات والارض يدعوكم ليغفر لكم من ذنوبكم ويؤخركم الى اجل مسمى قالوا ان انتم الا بشر مثلنا تريدون ان تصدونا عما كان يعبد اباؤنا فاتونا بسلطان مبين",
+    "bengali": "তাদের রাসূলগণ বলেছিল, ‘আল্লাহর ব্যাপারেও কি সন্দেহ, যিনি আসমানসমূহ ও যমীনের সৃষ্টিকর্তা? তিনি তোমাদেরকে আহবান করেন যাতে তিনি তোমাদের পাপসমূহ ক্ষমা করেন এবং তিনি নির্দিষ্ট সময় পর্যন্ত তোমাদেরকে অবকাশ দেন’। তারা বলল, ‘তোমরা তো আমাদের মতই মানুষ, ‘তোমরা আমাদেরকে আমাদের পিতৃপুরুষরা যার ইবাদাত করত, তা থেকে ফিরাতে চাও। অতএব তোমরা আমাদের কাছে স্পষ্ট প্রমাণ নিয়ে আস’।",
+    "urdu": "ان کے پیغمبروں نے کہا کیا (تم کو) خدا (کے بارے) میں شک ہے جو آسمانوں اور زمین کا پیدا کرنے والا ہے۔ وہ تمہیں اس لیے بلاتا ہے کہ تمہارے گناہ بخشے اور (فائدہ پہنچانے کے لیے) ایک مدت مقرر تک تم کو مہلت دے۔ وہ بولے کہ تم تو ہمارے ہی جیسے آدمی ہو۔ تمہارا یہ منشاء ہے کہ جن چیزوں کو ہمارے بڑے پوجتے رہے ہیں ان (کے پوجنے) سے ہم کو بند کر دو تو (اچھا) کوئی کھلی دلیل لاؤ (یعنی معجزہ دکھاؤ)"
+}

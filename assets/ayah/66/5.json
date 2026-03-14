@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Tahrim",
+    "surahNameArabic": "التحريم",
+    "surahNameArabicLong": "سورة التحريم",
+    "surahNameTranslation": "The Prohibition",
+    "revelationPlace": "Madina",
+    "totalAyah": 12,
+    "surahNo": 66,
+    "ayahNo": 5,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/66_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/066005.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/66_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/066005.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/66_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/066005.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/66_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/066005.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/66_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/066005.mp3"
+        }
+    },
+    "english": "Perhaps, if he were to divorce you ˹all˺, his Lord would replace you with better wives who are submissive ˹to Allah˺, faithful ˹to Him˺, devout, repentant, dedicated to worship and fasting—previously married or virgins.",
+    "arabic1": "عَسَىٰ رَبُّهُۥٓ إِن طَلَّقَكُنَّ أَن يُبْدِلَهُۥٓ أَزْوَٰجًا خَيْرًا مِّنكُنَّ مُسْلِمَـٰتٍ مُّؤْمِنَـٰتٍ قَـٰنِتَـٰتٍ تَـٰٓئِبَـٰتٍ عَـٰبِدَٰتٍ سَـٰٓئِحَـٰتٍ ثَيِّبَـٰتٍ وَأَبْكَارًا",
+    "arabic2": "عسى ربه ان طلقكن ان يبدله ازواجا خيرا منكن مسلمات مؤمنات قانتات تائبات عابدات سائحات ثيبات وابكارا",
+    "bengali": "সে যদি তোমাদেরকে তালাক দেয়, তবে আশা করা যায় তার রব তোমাদের পরিবর্তে তোমাদের চাইতে উত্তম স্ত্রী তাকে দিবেন, যারা মুসলিম, মুমিনা, অনুগত, তাওবাকারী, ‘ইবাদতকারী, সিয়াম পালনকারী, অকুমারী ও কুমারী।",
+    "urdu": "اگر پیغمبر تم کو طلاق دے دیں تو عجب نہیں کہ ان کا پروردگار تمہارے بدلے ان کو تم سے بہتر بیبیاں دے دے۔ مسلمان، صاحب ایمان فرمانبردار توبہ کرنے والیاں عبادت گذار روزہ رکھنے والیاں بن شوہر اور کنواریاں"
+}

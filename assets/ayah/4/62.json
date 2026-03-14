@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 62,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/4_62.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/004062.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/4_62.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/004062.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/4_62.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/004062.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/4_62.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/004062.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/4_62.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/004062.mp3"
+        }
+    },
+    "english": "How ˹horrible˺ will it be if a disaster strikes them because of what their hands have done, then they come to you swearing by Allah, “We intended nothing but goodwill and reconciliation.”",
+    "arabic1": "فَكَيْفَ إِذَآ أَصَـٰبَتْهُم مُّصِيبَةٌۢ بِمَا قَدَّمَتْ أَيْدِيهِمْ ثُمَّ جَآءُوكَ يَحْلِفُونَ بِٱللَّهِ إِنْ أَرَدْنَآ إِلَّآ إِحْسَـٰنًا وَتَوْفِيقًا",
+    "arabic2": "فكيف اذا اصابتهم مصيبة بما قدمت ايديهم ثم جاءوك يحلفون بالله ان اردنا الا احسانا وتوفيقا",
+    "bengali": "সুতরাং তখন কেমন হবে, যখন তাদের উপর কোন মুসীবত আসবে, সেই কারণে যা তাদের হাত পূর্বেই প্রেরণ করেছে? তারপর তারা আল্লাহর নামে শপথ করা অবস্থায় তোমার কাছে আসবে যে, আমরা কল্যাণ ও সম্প্রীতি ভিন্ন অন্য কিছু চাইনি।",
+    "urdu": "تو کیسی (ندامت کی) بات ہے کہ جب ان کے اعمال (کی شامت سے) ان پر کوئی مصیبت واقع ہوتی ہے تو تمہارے پاس بھاگے آتے ہیں اور قسمیں کھاتے ہیں کہ والله ہمارا مقصود تو بھلائی اور موافقت تھا"
+}

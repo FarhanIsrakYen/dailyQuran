@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Kahf",
+    "surahNameArabic": "الكهف",
+    "surahNameArabicLong": "سورة الكهف",
+    "surahNameTranslation": "The Cave",
+    "revelationPlace": "Mecca",
+    "totalAyah": 110,
+    "surahNo": 18,
+    "ayahNo": 27,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/18_27.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/018027.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/18_27.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/018027.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/18_27.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/018027.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/18_27.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/018027.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/18_27.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/018027.mp3"
+        }
+    },
+    "english": "Recite what has been revealed to you from the Book of your Lord. None can change His Words, nor can you find any refuge besides Him.",
+    "arabic1": "وَٱتْلُ مَآ أُوحِىَ إِلَيْكَ مِن كِتَابِ رَبِّكَ ۖ لَا مُبَدِّلَ لِكَلِمَـٰتِهِۦ وَلَن تَجِدَ مِن دُونِهِۦ مُلْتَحَدًا",
+    "arabic2": "واتل ما اوحي اليك من كتاب ربك لا مبدل لكلماته ولن تجد من دونه ملتحدا",
+    "bengali": "আর তোমার রবের কিতাব থেকে তোমার নিকট যে ওহী পাঠানো হয়, তুমি তা তিলাওয়াত কর। তাঁর বাণীসমূহের কোন পরিবর্তনকারী নেই এবং তিনি ছাড়া কোন আশ্রয়স্থল তুমি পাবে না।",
+    "urdu": "اور اپنے پروردگار کی کتاب جو تمہارے پاس بھیجی جاتی ہے پڑھتے رہا کرو۔ اس کی باتوں کو کوئی بدلنے والا نہیں۔ اور اس کے سوا تم کہیں پناہ کی جگہ بھی نہیں پاؤ گے"
+}

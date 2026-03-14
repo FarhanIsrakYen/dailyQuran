@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Hadid",
+    "surahNameArabic": "الحديد",
+    "surahNameArabicLong": "سورة الحديد",
+    "surahNameTranslation": "The Iron",
+    "revelationPlace": "Madina",
+    "totalAyah": 29,
+    "surahNo": 57,
+    "ayahNo": 17,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/57_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/057017.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/57_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/057017.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/57_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/057017.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/57_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/057017.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/57_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/057017.mp3"
+        }
+    },
+    "english": "Know that Allah revives the earth after its death. We have certainly made the signs clear for you so perhaps you will understand.",
+    "arabic1": "ٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ يُحْىِ ٱلْأَرْضَ بَعْدَ مَوْتِهَا ۚ قَدْ بَيَّنَّا لَكُمُ ٱلْـَٔايَـٰتِ لَعَلَّكُمْ تَعْقِلُونَ",
+    "arabic2": "اعلموا ان الله يحيي الارض بعد موتها قد بينا لكم الايات لعلكم تعقلون",
+    "bengali": "তোমরা জেনে রাখ যে, আল্লাহ্ যমীনকে তার মৃত্যুর পর পুনর্জীবিত করেন। আমি নিদর্শনসমূহ তোমাদের কাছে সুস্পষ্টভাবে বর্ণনা করেছি, আশা করা যায় তোমরা বুঝতে পারবে।",
+    "urdu": "جان رکھو کہ خدا ہی زمین کو اس کے مرنے کے بعد زندہ کرتا ہے۔ ہم نے اپنی نشانیاں تم سے کھول کھول کر بیان کردی ہیں تاکہ تم سمجھو"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nahl",
+    "surahNameArabic": "النحل",
+    "surahNameArabicLong": "سورة النحل",
+    "surahNameTranslation": "The Bee",
+    "revelationPlace": "Mecca",
+    "totalAyah": 128,
+    "surahNo": 16,
+    "ayahNo": 1,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/16_1.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/016001.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/16_1.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/016001.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/16_1.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/016001.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/16_1.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/016001.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/16_1.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/016001.mp3"
+        }
+    },
+    "english": "The command of Allah is at hand, so do not hasten it. Glorified and Exalted is He above what they associate ˹with Him in worship˺!",
+    "arabic1": "أَتَىٰٓ أَمْرُ ٱللَّهِ فَلَا تَسْتَعْجِلُوهُ ۚ سُبْحَـٰنَهُۥ وَتَعَـٰلَىٰ عَمَّا يُشْرِكُونَ",
+    "arabic2": "اتى امر الله فلا تستعجلوه سبحانه وتعالى عما يشركون",
+    "bengali": "আল্লাহর আদেশ এসে গেছে, সুতরাং তার জন্য তাড়াহুড়া করো না। তিনি পবিত্র এবং তারা যা শিরক করে, তা থেকে ঊর্ধ্বে।",
+    "urdu": "خدا کا حکم (یعنی عذاب گویا) آ ہی پہنچا تو (کافرو) اس کے لیے جلدی مت کرو۔ یہ لوگ جو (خدا کا) شریک بناتے ہیں وہ اس سے پاک اور بالاتر ہے"
+}

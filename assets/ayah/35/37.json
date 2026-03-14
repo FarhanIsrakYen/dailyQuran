@@ -1,0 +1,42 @@
+{
+    "surahName": "Faatir",
+    "surahNameArabic": "فاطر",
+    "surahNameArabicLong": "سورة فاطر",
+    "surahNameTranslation": "The Originator",
+    "revelationPlace": "Mecca",
+    "totalAyah": 45,
+    "surahNo": 35,
+    "ayahNo": 37,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/35_37.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/035037.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/35_37.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/035037.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/35_37.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/035037.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/35_37.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/035037.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/35_37.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/035037.mp3"
+        }
+    },
+    "english": "There they will be ˹fervently˺ screaming, “Our Lord! Take us out ˹and send us back˺. We will do good, unlike what we used to do.” ˹They will be told,˺ “Did We not give you lives long enough so that whoever wanted to be mindful could have done so? And the warner came to you. So taste ˹the punishment˺, for the wrongdoers have no helper.”",
+    "arabic1": "وَهُمْ يَصْطَرِخُونَ فِيهَا رَبَّنَآ أَخْرِجْنَا نَعْمَلْ صَـٰلِحًا غَيْرَ ٱلَّذِى كُنَّا نَعْمَلُ ۚ أَوَلَمْ نُعَمِّرْكُم مَّا يَتَذَكَّرُ فِيهِ مَن تَذَكَّرَ وَجَآءَكُمُ ٱلنَّذِيرُ ۖ فَذُوقُوا۟ فَمَا لِلظَّـٰلِمِينَ مِن نَّصِيرٍ",
+    "arabic2": "وهم يصطرخون فيها ربنا اخرجنا نعمل صالحا غير الذي كنا نعمل اولم نعمركم ما يتذكر فيه من تذكر وجاءكم النذير فذوقوا فما للظالمين من نصير",
+    "bengali": "আর সেখানে তারা আর্তনাদ করে বলবে, ‘হে আমাদের রব, আমাদেরকে বের করে দিন, আমরা পূর্বে যে আমল করতাম, তার পরিবর্তে আমরা নেক আমল করব’। (আল্লাহ বলবেন) ‘আমি কি তোমাদেরকে এতটা বয়স দেইনি যে, তখন কেউ শিক্ষা গ্রহণ করতে চাইলে শিক্ষা গ্রহণ করতে পারত? আর তোমাদের কাজে তো সতর্ককারী এসেছিল। কাজেই তোমরা আযাব আস্বাদন কর, আর যালিমদের কোন সাহায্যকারী নেই।",
+    "urdu": "وہ اس میں چلائیں گے کہ اے پروردگار ہم کو نکال لے (اب) ہم نیک عمل کیا کریں گے۔ نہ وہ جو (پہلے) کرتے تھے۔ کیا ہم نے تم کو اتنی عمر نہیں دی تھی کہ اس میں جو سوچنا چاہتا سوچ لیتا اور تمہارے پاس ڈرانے والا بھی آیا۔ تو اب مزے چکھو۔ ظالموں کا کوئی مددگار نہیں"
+}

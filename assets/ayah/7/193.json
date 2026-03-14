@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 193,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/7_193.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/007193.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/7_193.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/007193.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/7_193.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/007193.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/7_193.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/007193.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/7_193.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/007193.mp3"
+        }
+    },
+    "english": "And if you ˹idolaters˺ call upon them for guidance, they cannot respond to you. It is all the same whether you call them or remain silent.",
+    "arabic1": "وَإِن تَدْعُوهُمْ إِلَى ٱلْهُدَىٰ لَا يَتَّبِعُوكُمْ ۚ سَوَآءٌ عَلَيْكُمْ أَدَعَوْتُمُوهُمْ أَمْ أَنتُمْ صَـٰمِتُونَ",
+    "arabic2": "وان تدعوهم الى الهدى لا يتبعوكم سواء عليكم ادعوتموهم ام انتم صامتون",
+    "bengali": "আর তোমরা যদি তাদেরকে হিদায়াতের দিকে আহবান কর, তারা তোমাদের অনুসরণ করবে না। তোমরা তাদেরকে ডাক অথবা তোমরা চুপ থাক, তা তোমাদের নিকট সমান।",
+    "urdu": "اگر تم ان کو سیدھے رستے کی طرف بلاؤ تو تمہارا کہا نہ مانیں۔ تمہارے لیے برابر ہے کہ تم ان کو بلاؤ یا چپکے ہو رہو"
+}

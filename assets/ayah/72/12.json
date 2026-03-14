@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Jinn",
+    "surahNameArabic": "الجن",
+    "surahNameArabicLong": "سورة الجن",
+    "surahNameTranslation": "The Jinn",
+    "revelationPlace": "Mecca",
+    "totalAyah": 28,
+    "surahNo": 72,
+    "ayahNo": 12,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/72_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/072012.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/72_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/072012.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/72_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/072012.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/72_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/072012.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/72_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/072012.mp3"
+        }
+    },
+    "english": "˹Now,˺ we truly know that we cannot frustrate Allah on earth, nor can we escape from Him ˹into heaven˺.",
+    "arabic1": "وَأَنَّا ظَنَنَّآ أَن لَّن نُّعْجِزَ ٱللَّهَ فِى ٱلْأَرْضِ وَلَن نُّعْجِزَهُۥ هَرَبًا",
+    "arabic2": "وانا ظننا ان لن نعجز الله في الارض ولن نعجزه هربا",
+    "bengali": "‘আর আমরা তো বুঝতে পেরেছি যে, আমরা কিছুতেই যমীনের মধ্যে আল্লাহকে অপারগ করতে পারব না এবং পালিয়েও কখনো তাকে অপারগ করতে পারব না’।",
+    "urdu": "اور یہ کہ ہم نے یقین کرلیا ہے کہ ہم زمین میں (خواہ کہیں ہوں) خدا کو ہرا نہیں سکتے اور نہ بھاگ کر اس کو تھکا سکتے ہیں"
+}

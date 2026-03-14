@@ -1,0 +1,42 @@
+{
+    "surahName": "Muhammad",
+    "surahNameArabic": "محمد",
+    "surahNameArabicLong": "سورة محمد",
+    "surahNameTranslation": "Muhammad",
+    "revelationPlace": "Madina",
+    "totalAyah": 38,
+    "surahNo": 47,
+    "ayahNo": 14,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/47_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/047014.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/47_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/047014.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/47_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/047014.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/47_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/047014.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/47_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/047014.mp3"
+        }
+    },
+    "english": "Can those ˹believers˺ who stand on clear proof from their Lord be like those whose evil deeds are made appealing to them and ˹only˺ follow their desires?",
+    "arabic1": "أَفَمَن كَانَ عَلَىٰ بَيِّنَةٍ مِّن رَّبِّهِۦ كَمَن زُيِّنَ لَهُۥ سُوٓءُ عَمَلِهِۦ وَٱتَّبَعُوٓا۟ أَهْوَآءَهُم",
+    "arabic2": "افمن كان على بينة من ربه كمن زين له سوء عمله واتبعوا اهواءهم",
+    "bengali": "যে ব্যক্তি তার রবের পক্ষ থেকে আগত সুস্পষ্ট প্রমাণের উপর প্রতিষ্ঠিত সে কি তার মত, যার মন্দ আমল তার জন্য চাকচিক্যময় করে দেয়া হয়েছে এবং যারা তাদের খেয়াল খুশীর অনুসরণ করে?",
+    "urdu": "بھلا جو شخص اپنے پروردگار (کی مہربانی) سے کھلے رستے پر (چل رہا) ہو وہ ان کی طرح (ہوسکتا) ہے جن کے اعمال بد انہیں اچھے کرکے دکھائی جائیں اور جو اپنی خواہشوں کی پیروی کریں"
+}

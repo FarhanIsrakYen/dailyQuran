@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Ahzaab",
+    "surahNameArabic": "الأحزاب",
+    "surahNameArabicLong": "سورة الأحزاب",
+    "surahNameTranslation": "The Clans",
+    "revelationPlace": "Madina",
+    "totalAyah": 73,
+    "surahNo": 33,
+    "ayahNo": 69,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/33_69.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/033069.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/33_69.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/033069.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/33_69.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/033069.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/33_69.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/033069.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/33_69.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/033069.mp3"
+        }
+    },
+    "english": "O believers! Do not be like those who slandered Moses, but Allah cleared him of what they said. And he was honourable in the sight of Allah.",
+    "arabic1": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَكُونُوا۟ كَٱلَّذِينَ ءَاذَوْا۟ مُوسَىٰ فَبَرَّأَهُ ٱللَّهُ مِمَّا قَالُوا۟ ۚ وَكَانَ عِندَ ٱللَّهِ وَجِيهًا",
+    "arabic2": "يا ايها الذين امنوا لا تكونوا كالذين اذوا موسى فبراه الله مما قالوا وكان عند الله وجيها",
+    "bengali": "হে ঈমানদারগণ, তোমরা তাদের মত হয়ো না, যারা মূসাকে কষ্ট দিয়েছিল। অতঃপর তারা যা বলেছিল, তা থেকে আল্লাহ তাকে নির্দোষ বলে ঘোষণা করেছেন। আর সে ছিল আল্লাহর নিকট মর্যাদাবান।",
+    "urdu": "مومنو تم ان لوگوں جیسے نہ ہونا جنہوں نے موسیٰ (کو عیب لگا کر) رنج پہنچایا تو خدا نے ان کو بےعیب ثابت کیا۔ اور وہ خدا کے نزدیک آبرو والے تھے"
+}

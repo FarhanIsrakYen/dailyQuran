@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Naml",
+    "surahNameArabic": "النمل",
+    "surahNameArabicLong": "سورة النمل",
+    "surahNameTranslation": "The Ant",
+    "revelationPlace": "Mecca",
+    "totalAyah": 93,
+    "surahNo": 27,
+    "ayahNo": 75,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/27_75.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/027075.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/27_75.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/027075.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/27_75.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/027075.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/27_75.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/027075.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/27_75.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/027075.mp3"
+        }
+    },
+    "english": "For there is nothing hidden in the heavens or the earth without being ˹written˺ in a perfect Record.",
+    "arabic1": "وَمَا مِنْ غَآئِبَةٍ فِى ٱلسَّمَآءِ وَٱلْأَرْضِ إِلَّا فِى كِتَـٰبٍ مُّبِينٍ",
+    "arabic2": "وما من غائبة في السماء والارض الا في كتاب مبين",
+    "bengali": "আর আসমান ও যমীনে এমন কোন গোপন বিষয় নেই যা সুস্পষ্ট কিতাবে লিপিবদ্ধ নেই।",
+    "urdu": "اور آسمانوں اور زمین میں کوئی پوشیدہ چیز نہیں ہے مگر (وہ) کتاب روشن میں (لکھی ہوئی) ہے"
+}

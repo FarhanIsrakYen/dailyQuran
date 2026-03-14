@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Anbiyaa",
+    "surahNameArabic": "الأنبياء",
+    "surahNameArabicLong": "سورة الأنبياء",
+    "surahNameTranslation": "The Prophets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 112,
+    "surahNo": 21,
+    "ayahNo": 104,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/21_104.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/021104.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/21_104.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/021104.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/21_104.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/021104.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/21_104.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/021104.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/21_104.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/021104.mp3"
+        }
+    },
+    "english": "On that Day We will roll up the heavens like a scroll of writings. Just as We produced the first creation, ˹so˺ shall We reproduce it. That is a promise binding on Us. We truly uphold ˹Our promises˺!",
+    "arabic1": "يَوْمَ نَطْوِى ٱلسَّمَآءَ كَطَىِّ ٱلسِّجِلِّ لِلْكُتُبِ ۚ كَمَا بَدَأْنَآ أَوَّلَ خَلْقٍ نُّعِيدُهُۥ ۚ وَعْدًا عَلَيْنَآ ۚ إِنَّا كُنَّا فَـٰعِلِينَ",
+    "arabic2": "يوم نطوي السماء كطي السجل للكتب كما بدانا اول خلق نعيده وعدا علينا انا كنا فاعلين",
+    "bengali": "সে দিন আমি আসমানসমূহকে গুটিয়ে নেব, যেভাবে গুটিয়ে রাখা হয় লিখিত দলীল-পত্রাদি। যেভাবে আমি প্রথম সৃষ্টির সূচনা করেছিলাম সেভাবেই পুনরায় সৃষ্টি করব। ওয়াদা পালন করা আমার কর্তব্য। আমি তা পালন করবই।",
+    "urdu": "جس دن ہم آسمان کو اس طرح لپیٹ لیں گے جیسے خطوں کا طومار لپیٹ لیتے ہیں۔ جس طرح ہم نے (کائنات کو) پہلے پیدا کیا اسی طرح دوبارہ پیدا کردیں گے۔ (یہ) وعدہ (جس کا پورا کرنا لازم) ہے۔ ہم (ایسا) ضرور کرنے والے ہیں"
+}

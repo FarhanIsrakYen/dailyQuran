@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 133,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_133.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002133.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_133.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002133.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_133.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002133.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_133.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002133.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_133.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002133.mp3"
+        }
+    },
+    "english": "Or did you witness when death came to Jacob? He asked his children, “Who will you worship after my passing?” They replied, “We will ˹continue to˺ worship your God, the God of your forefathers—Abraham, Ishmael, and Isaac—the One God. And to Him we ˹all˺ submit.”",
+    "arabic1": "أَمْ كُنتُمْ شُهَدَآءَ إِذْ حَضَرَ يَعْقُوبَ ٱلْمَوْتُ إِذْ قَالَ لِبَنِيهِ مَا تَعْبُدُونَ مِنۢ بَعْدِى قَالُوا۟ نَعْبُدُ إِلَـٰهَكَ وَإِلَـٰهَ ءَابَآئِكَ إِبْرَٰهِـۧمَ وَإِسْمَـٰعِيلَ وَإِسْحَـٰقَ إِلَـٰهًا وَٰحِدًا وَنَحْنُ لَهُۥ مُسْلِمُونَ",
+    "arabic2": "ام كنتم شهداء اذ حضر يعقوب الموت اذ قال لبنيه ما تعبدون من بعدي قالوا نعبد الهك واله ابائك ابراهيم واسماعيل واسحاق الها واحدا ونحن له مسلمون",
+    "bengali": "নাকি তোমরা সাক্ষী ছিলে, যখন ইয়াকূবের নিকট মৃত্যু উপস্থিত হয়েছিল? যখন সে তার সন্তানদেরকে বলল, ‘আমার পর তোমরা কার ইবাদাত করবে’? তারা বলল, ‘আমরা ইবাদাত করব আপনার ইলাহের, আপনার পিতৃপুরুষ ইবরাহীম, ইসমাঈল ও ইসহাকের ইলাহের, যিনি এক ইলাহ। আর আমরা তাঁরই অনুগত’।",
+    "urdu": "بھلا جس وقت یعقوب وفات پانے لگے تو تم اس وقت موجود تھے، جب انہوں نے اپنے بیٹوں سے پوچھا کہ میرے بعد تم کس کی عبادت کرو گے، تو انہوں نے کہا کہ آپ کے معبود اور آپ کے باپ دادا ابراہیم اور اسمٰعیل اور اسحاق کے معبود کی عبادت کریں گے جو معبود یکتا ہے اور ہم اُسی کے حکم بردار ہیں"
+}

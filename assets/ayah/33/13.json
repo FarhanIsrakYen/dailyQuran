@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Ahzaab",
+    "surahNameArabic": "الأحزاب",
+    "surahNameArabicLong": "سورة الأحزاب",
+    "surahNameTranslation": "The Clans",
+    "revelationPlace": "Madina",
+    "totalAyah": 73,
+    "surahNo": 33,
+    "ayahNo": 13,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/33_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/033013.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/33_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/033013.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/33_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/033013.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/33_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/033013.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/33_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/033013.mp3"
+        }
+    },
+    "english": "And ˹remember˺ when a group of them said, “O people of Yathrib! There is no point in you staying ˹here˺, so retreat!” Another group of them asked the Prophet’s permission ˹to leave˺, saying, “Our homes are vulnerable,” while ˹in fact˺ they were not vulnerable. They only wished to flee.",
+    "arabic1": "وَإِذْ قَالَت طَّآئِفَةٌ مِّنْهُمْ يَـٰٓأَهْلَ يَثْرِبَ لَا مُقَامَ لَكُمْ فَٱرْجِعُوا۟ ۚ وَيَسْتَـْٔذِنُ فَرِيقٌ مِّنْهُمُ ٱلنَّبِىَّ يَقُولُونَ إِنَّ بُيُوتَنَا عَوْرَةٌ وَمَا هِىَ بِعَوْرَةٍ ۖ إِن يُرِيدُونَ إِلَّا فِرَارًا",
+    "arabic2": "واذ قالت طائفة منهم يا اهل يثرب لا مقام لكم فارجعوا ويستاذن فريق منهم النبي يقولون ان بيوتنا عورة وما هي بعورة ان يريدون الا فرارا",
+    "bengali": "আর যখন তাদের একদল বলেছিল, ‘হে ইয়াসরিববাসী, এখানে তোমাদের কোন স্থান নেই, তাই তোমরা ফিরে যাও’। আর তাদের একদল নবীর কাছে অনুমতি চেয়ে বলছিল, আমাদের বাড়ি-ঘর অরক্ষিত, অথচ সেগুলো অরক্ষিত ছিল না। আসলে পালিয়ে যাওয়াই ছিল তাদের উদ্দেশ্য।",
+    "urdu": "اور جب اُن میں سے ایک جماعت کہتی تھی کہ اے اہل مدینہ (یہاں) تمہارے ٹھہرنے کا مقام نہیں تو لوٹ چلو۔ اور ایک گروہ ان میں سے پیغمبر سے اجازت مانگنے اور کہنے لگا کہ ہمارے گھر کھلے پڑے ہیں حالانکہ وہ کھلے نہیں تھے۔ وہ تو صرف بھاگنا چاہتے تھے"
+}

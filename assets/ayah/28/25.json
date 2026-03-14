@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Qasas",
+    "surahNameArabic": "القصص",
+    "surahNameArabicLong": "سورة القصص",
+    "surahNameTranslation": "The Stories",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 28,
+    "ayahNo": 25,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/28_25.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/028025.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/28_25.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/028025.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/28_25.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/028025.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/28_25.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/028025.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/28_25.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/028025.mp3"
+        }
+    },
+    "english": "Then one of the two women came to him, walking bashfully. She said, “My father is inviting you so he may reward you for watering ˹our animals˺ for us.” When Moses came to him and told him his whole story, the old man said, “Have no fear! You are ˹now˺ safe from the wrongdoing people.”",
+    "arabic1": "فَجَآءَتْهُ إِحْدَىٰهُمَا تَمْشِى عَلَى ٱسْتِحْيَآءٍ قَالَتْ إِنَّ أَبِى يَدْعُوكَ لِيَجْزِيَكَ أَجْرَ مَا سَقَيْتَ لَنَا ۚ فَلَمَّا جَآءَهُۥ وَقَصَّ عَلَيْهِ ٱلْقَصَصَ قَالَ لَا تَخَفْ ۖ نَجَوْتَ مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+    "arabic2": "فجاءته احداهما تمشي على استحياء قالت ان ابي يدعوك ليجزيك اجر ما سقيت لنا فلما جاءه وقص عليه القصص قال لا تخف نجوت من القوم الظالمين",
+    "bengali": "অতঃপর নারীদ্বয়ের একজন লাজুকভাবে হেঁটে তার কাছে এসে বলল যে, আমার পিতা আপনাকে ডাকছেন, যেন তিনি আপনাকে পারিশ্রমিক দিতে পারেন, আমাদের পশুগুলোকে আপনি যে পানি পান করিয়েছেন তার বিনিময়ে’। অতঃপর যখন মূসা তার নিকট আসল এবং সকল ঘটনা তার কাছে খুলে বলল, তখন সে বলল, ‘তুমি ভয় করো না। তুমি যালিম কওম থেকে রেহাই পেয়ে গেছ’।",
+    "urdu": "(تھوڑی دیر کے بعد) ان میں سے ایک عورت جو شرماتی اور لجاتی چلی آتی تھی۔ موسٰی کے پاس آئی اور کہنے لگی کہ تم کو میرے والد بلاتے ہیں کہ تم نے جو ہمارے لئے پانی پلایا تھا اس کی تم کو اُجرت دیں۔ جب وہ اُن کے پاس آئے اور اُن سے اپنا ماجرا بیان کیا تو اُنہوں نے کہا کہ کچھ خوف نہ کرو۔ تم ظالم لوگوں سے بچ آئے ہو"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 17,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/9_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/009017.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/9_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/009017.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/9_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/009017.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/9_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/009017.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/9_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/009017.mp3"
+        }
+    },
+    "english": "It is not for the polytheists to maintain the mosques of Allah while they openly profess disbelief. Their deeds are void, and they will be in the Fire forever.",
+    "arabic1": "مَا كَانَ لِلْمُشْرِكِينَ أَن يَعْمُرُوا۟ مَسَـٰجِدَ ٱللَّهِ شَـٰهِدِينَ عَلَىٰٓ أَنفُسِهِم بِٱلْكُفْرِ ۚ أُو۟لَـٰٓئِكَ حَبِطَتْ أَعْمَـٰلُهُمْ وَفِى ٱلنَّارِ هُمْ خَـٰلِدُونَ",
+    "arabic2": "ما كان للمشركين ان يعمروا مساجد الله شاهدين على انفسهم بالكفر اولئك حبطت اعمالهم وفي النار هم خالدون",
+    "bengali": "মুশরিকদের অধিকার নেই যে, তারা আল্লাহর মসজিদসমূহ আবাদ করবে, নিজদের উপর কুফরীর সাক্ষ্য দেয়া অবস্থায়। এদেরই আমলসমূহ বরবাদ হয়েছে এবং আগুনেই তারা স্থায়ী হবে।",
+    "urdu": "مشرکوں کی زیبا نہیں کہ خدا کی مسجدوں کو آباد کریں جب کہ وہ اپنے آپ پر کفر کی گواہی دے رہے ہیں۔ ان لوگوں کے سب اعمال بےکار ہیں اور یہ ہمیشہ دوزخ میں رہیں گے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 22,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002022.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002022.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002022.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002022.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002022.mp3"
+        }
+    },
+    "english": "˹He is the One˺ Who has made the earth a place of settlement for you and the sky a canopy; and sends down rain from the sky, causing fruits to grow as a provision for you. So do not knowingly set up equals to Allah ˹in worship˺.",
+    "arabic1": "ٱلَّذِى جَعَلَ لَكُمُ ٱلْأَرْضَ فِرَٰشًا وَٱلسَّمَآءَ بِنَآءً وَأَنزَلَ مِنَ ٱلسَّمَآءِ مَآءً فَأَخْرَجَ بِهِۦ مِنَ ٱلثَّمَرَٰتِ رِزْقًا لَّكُمْ ۖ فَلَا تَجْعَلُوا۟ لِلَّهِ أَندَادًا وَأَنتُمْ تَعْلَمُونَ",
+    "arabic2": "الذي جعل لكم الارض فراشا والسماء بناء وانزل من السماء ماء فاخرج به من الثمرات رزقا لكم فلا تجعلوا لله اندادا وانتم تعلمون",
+    "bengali": "যিনি তোমাদের জন্য যমীনকে করেছেন বিছানা, আসমানকে ছাদ এবং আসমান থেকে নাযিল করেছেন বৃষ্টি। অতঃপর তাঁর মাধ্যমে উৎপন্ন করেছেন ফল-ফলাদি, তোমাদের জন্য রিয্কস্বরূপ। সুতরাং তোমরা জেনে-বুঝে আল্লাহর জন্য সমকক্ষ নির্ধারণ করো না।",
+    "urdu": "جس نے تمھارے لیے زمین کو بچھونا اور آسمان کو چھت بنایا اور آسمان سے مینہ برسا کر تمہارے کھانے کے لیے انواع و اقسام کے میوے پیدا کئے۔ پس کسی کو خدا کا ہمسر نہ بناؤ۔ اور تم جانتے تو ہو"
+}

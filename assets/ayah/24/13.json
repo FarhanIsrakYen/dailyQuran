@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Noor",
+    "surahNameArabic": "النور",
+    "surahNameArabicLong": "سورة النور",
+    "surahNameTranslation": "The Light",
+    "revelationPlace": "Madina",
+    "totalAyah": 64,
+    "surahNo": 24,
+    "ayahNo": 13,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/24_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/024013.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/24_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/024013.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/24_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/024013.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/24_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/024013.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/24_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/024013.mp3"
+        }
+    },
+    "english": "Why did they not produce four witnesses? Now, since they have failed to produce witnesses, they are ˹truly˺ liars in the sight of Allah.",
+    "arabic1": "لَّوْلَا جَآءُو عَلَيْهِ بِأَرْبَعَةِ شُهَدَآءَ ۚ فَإِذْ لَمْ يَأْتُوا۟ بِٱلشُّهَدَآءِ فَأُو۟لَـٰٓئِكَ عِندَ ٱللَّهِ هُمُ ٱلْكَـٰذِبُونَ",
+    "arabic2": "لولا جاءوا عليه باربعة شهداء فاذ لم ياتوا بالشهداء فاولئك عند الله هم الكاذبون",
+    "bengali": "তারা কেন এ ব্যাপারে চারজন সাক্ষী নিয়ে আসল না? সুতরাং যখন তারা সাক্ষী নিয়ে আসেনি, তখন তারাই আল্লাহর কাছে মিথ্যাবাদী।",
+    "urdu": "یہ (افتراء پرداز) اپنی بات (کی تصدیق) کے (لئے) چار گواہ کیوں نہ لائے۔ تو جب یہ گواہ نہیں لاسکے تو خدا کے نزدیک یہی جھوٹے ہیں"
+}

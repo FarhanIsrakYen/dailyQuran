@@ -1,0 +1,42 @@
+{
+    "surahName": "Yusuf",
+    "surahNameArabic": "يوسف",
+    "surahNameArabicLong": "سورة يوسف",
+    "surahNameTranslation": "Joseph",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 12,
+    "ayahNo": 46,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/12_46.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/012046.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/12_46.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/012046.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/12_46.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/012046.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/12_46.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/012046.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/12_46.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/012046.mp3"
+        }
+    },
+    "english": "˹He said,˺ “Joseph, O  man of truth! Interpret for us ˹the dream of˺ seven fat cows eaten up by seven skinny ones; and seven green ears of grain and ˹seven˺ others dry, so that I may return to the people and let them know.”",
+    "arabic1": "يُوسُفُ أَيُّهَا ٱلصِّدِّيقُ أَفْتِنَا فِى سَبْعِ بَقَرَٰتٍ سِمَانٍ يَأْكُلُهُنَّ سَبْعٌ عِجَافٌ وَسَبْعِ سُنۢبُلَـٰتٍ خُضْرٍ وَأُخَرَ يَابِسَـٰتٍ لَّعَلِّىٓ أَرْجِعُ إِلَى ٱلنَّاسِ لَعَلَّهُمْ يَعْلَمُونَ",
+    "arabic2": "يوسف ايها الصديق افتنا في سبع بقرات سمان ياكلهن سبع عجاف وسبع سنبلات خضر واخر يابسات لعلي ارجع الى الناس لعلهم يعلمون",
+    "bengali": "‘হে ইউসুফ, হে সত্যবাদী, আপনি আমাদের ব্যাখ্যা দিন, সাতটি মোটা তাজা গাভী সম্বন্ধে, যাদের খাচ্ছে সাতটি ক্ষীণকায় গাভী এবং সাতটি সবুজ শীষ ও অপর সাতটি শুষ্ক শীষ সম্পর্কে, যাতে আমি লোকদের কাছে ফিরে যেতে পারি যেন তারা জানতে পারে’।",
+    "urdu": "(غرض وہ یوسف کے پاس آیا اور کہنے لگا) یوسف اے بڑے سچے (یوسف) ہمیں اس خواب کی تعبیر بتایئے کہ سات موٹی گائیوں کو سات دبلی گائیں کھا رہی ہیں۔ اور سات خوشے سبز ہیں اور سات سوکھے تاکہ میں لوگوں کے پاس واپس جا (کر تعبیر بتاؤں)۔ عجب نہیں کہ وہ (تمہاری قدر) جانیں"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Jaathiya",
+    "surahNameArabic": "الجاثية",
+    "surahNameArabicLong": "سورة الجاثية",
+    "surahNameTranslation": "Crouching",
+    "revelationPlace": "Mecca",
+    "totalAyah": 37,
+    "surahNo": 45,
+    "ayahNo": 29,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/45_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/045029.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/45_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/045029.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/45_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/045029.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/45_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/045029.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/45_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/045029.mp3"
+        }
+    },
+    "english": "This record of Ours speaks the truth about you. Indeed, We always had your deeds recorded ˹by the angels˺.”",
+    "arabic1": "هَـٰذَا كِتَـٰبُنَا يَنطِقُ عَلَيْكُم بِٱلْحَقِّ ۚ إِنَّا كُنَّا نَسْتَنسِخُ مَا كُنتُمْ تَعْمَلُونَ",
+    "arabic2": "هذا كتابنا ينطق عليكم بالحق انا كنا نستنسخ ما كنتم تعملون",
+    "bengali": "‘এটি আমার লেখনী, যা তোমাদের ব্যাপারে সত্য সহকারে কথা বলবে; নিশ্চয় তোমরা যা করতে আমি তা লিখে রাখতাম’।",
+    "urdu": "یہ ہماری کتاب تمہارے بارے میں سچ سچ بیان کردے گی۔ جو کچھ تم کیا کرتے تھے ہم لکھواتے جاتے ہیں"
+}

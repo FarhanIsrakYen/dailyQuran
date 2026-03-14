@@ -1,0 +1,42 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 72,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/3_72.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/003072.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/3_72.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/003072.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/3_72.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/003072.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/3_72.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/003072.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/3_72.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/003072.mp3"
+        }
+    },
+    "english": "A group among the People of the Book said ˹to one another˺, “Believe in what has been revealed to the believers in the morning and reject it in the evening, so they may abandon their faith.",
+    "arabic1": "وَقَالَت طَّآئِفَةٌ مِّنْ أَهْلِ ٱلْكِتَـٰبِ ءَامِنُوا۟ بِٱلَّذِىٓ أُنزِلَ عَلَى ٱلَّذِينَ ءَامَنُوا۟ وَجْهَ ٱلنَّهَارِ وَٱكْفُرُوٓا۟ ءَاخِرَهُۥ لَعَلَّهُمْ يَرْجِعُونَ",
+    "arabic2": "وقالت طائفة من اهل الكتاب امنوا بالذي انزل على الذين امنوا وجه النهار واكفروا اخره لعلهم يرجعون",
+    "bengali": "আর কিতাবীদের একদল বলে, ‘মুমিনদের উপর যা নাযিল করা হয়েছে, তোমরা তার প্রতি দিনের প্রথমভাগে ঈমান আন, আর শেষ ভাগে তা কুফরী কর; যাতে তারা ফিরে আসে’।",
+    "urdu": "اور اہلِ کتاب ایک دوسرے سے کہتے ہیں کہ جو (کتاب) مومنوں پر نازل ہوئی ہے اس پر دن کے شروع میں تو ایمان لے آیا کرو اور اس کے آخر میں انکار کر دیا کرو تاکہ وہ (اسلام سے) برگشتہ ہو جائیں"
+}

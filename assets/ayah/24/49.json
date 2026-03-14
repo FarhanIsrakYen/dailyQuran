@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Noor",
+    "surahNameArabic": "النور",
+    "surahNameArabicLong": "سورة النور",
+    "surahNameTranslation": "The Light",
+    "revelationPlace": "Madina",
+    "totalAyah": 64,
+    "surahNo": 24,
+    "ayahNo": 49,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/24_49.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/024049.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/24_49.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/024049.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/24_49.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/024049.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/24_49.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/024049.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/24_49.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/024049.mp3"
+        }
+    },
+    "english": "But if the truth is in their favour, they come to him, fully submitting.",
+    "arabic1": "وَإِن يَكُن لَّهُمُ ٱلْحَقُّ يَأْتُوٓا۟ إِلَيْهِ مُذْعِنِينَ",
+    "arabic2": "وان يكن لهم الحق ياتوا اليه مذعنين",
+    "bengali": "কিন্তু যদি সত্য তাদের পক্ষে থাকে, তাহলে তারা তার কাছে একান্ত বিনীতভাবে ছুটে আসে।",
+    "urdu": "اگر (معاملہ) حق (ہو اور) ان کو (پہنچتا) ہو تو ان کی طرف مطیع ہو کر چلے آتے ہیں"
+}

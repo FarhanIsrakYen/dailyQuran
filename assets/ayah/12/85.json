@@ -1,0 +1,42 @@
+{
+    "surahName": "Yusuf",
+    "surahNameArabic": "يوسف",
+    "surahNameArabicLong": "سورة يوسف",
+    "surahNameTranslation": "Joseph",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 12,
+    "ayahNo": 85,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/12_85.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/012085.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/12_85.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/012085.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/12_85.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/012085.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/12_85.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/012085.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/12_85.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/012085.mp3"
+        }
+    },
+    "english": "They said, “By Allah! You will not cease to remember Joseph until you lose your health or ˹even˺ your life.”",
+    "arabic1": "قَالُوا۟ تَٱللَّهِ تَفْتَؤُا۟ تَذْكُرُ يُوسُفَ حَتَّىٰ تَكُونَ حَرَضًا أَوْ تَكُونَ مِنَ ٱلْهَـٰلِكِينَ",
+    "arabic2": "قالوا تالله تفتا تذكر يوسف حتى تكون حرضا او تكون من الهالكين",
+    "bengali": "তারা বলল, ‘আল্লাহর কসম, আপনি তো ইউসুফকে স্মরণ করতেই থাকবেন, যতক্ষণ না আপনি ধ্বংসের দ্বারপ্রান্তে পৌঁছবেন অথবা ধ্বংস হয়ে যাবেন’।",
+    "urdu": "بیٹے کہنے لگے کہ والله اگر آپ یوسف کو اسی طرح یاد ہی کرتے رہیں گے تو یا تو بیمار ہوجائیں گے یا جان ہی دے دیں گے"
+}

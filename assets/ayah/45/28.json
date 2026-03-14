@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Jaathiya",
+    "surahNameArabic": "الجاثية",
+    "surahNameArabicLong": "سورة الجاثية",
+    "surahNameTranslation": "Crouching",
+    "revelationPlace": "Mecca",
+    "totalAyah": 37,
+    "surahNo": 45,
+    "ayahNo": 28,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/45_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/045028.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/45_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/045028.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/45_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/045028.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/45_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/045028.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/45_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/045028.mp3"
+        }
+    },
+    "english": "And you will see every faith-community on its knees. Every community will be summoned to its record ˹of deeds˺. ˹They all will be told,˺ “This Day you will be rewarded for what you used to do.",
+    "arabic1": "وَتَرَىٰ كُلَّ أُمَّةٍ جَاثِيَةً ۚ كُلُّ أُمَّةٍ تُدْعَىٰٓ إِلَىٰ كِتَـٰبِهَا ٱلْيَوْمَ تُجْزَوْنَ مَا كُنتُمْ تَعْمَلُونَ",
+    "arabic2": "وترى كل امة جاثية كل امة تدعى الى كتابها اليوم تجزون ما كنتم تعملون",
+    "bengali": "আর তুমি প্রতিটি জাতিকে দেখবে ভয়ে নতজানু; প্রত্যেক জাতিকে স্বীয় আমলনামার দিকে আহবান করা হবে। (এবং বলা হবে) ‘তোমরা যে আমল করতে আজ তার প্রতিদান দেয়া হবে’।",
+    "urdu": "اور تم ہر ایک فرقے کو دیکھو گے کہ گھٹنوں کے بل بیٹھا ہوگا۔ اور ہر ایک جماعت اپنی کتاب (اعمال) کی طرف بلائی جائے گی۔ جو کچھ تم کرتے رہے ہو آج تم کو اس کا بدلہ دیا جائے گا"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Hud",
+    "surahNameArabic": "هود",
+    "surahNameArabicLong": "سورة هود",
+    "surahNameTranslation": "Hud",
+    "revelationPlace": "Mecca",
+    "totalAyah": 123,
+    "surahNo": 11,
+    "ayahNo": 39,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/11_39.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/011039.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/11_39.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/011039.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/11_39.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/011039.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/11_39.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/011039.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/11_39.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/011039.mp3"
+        }
+    },
+    "english": "You will soon come to know who will be visited by a humiliating torment ˹in this life˺ and overwhelmed by an everlasting punishment ˹in the next˺.”",
+    "arabic1": "فَسَوْفَ تَعْلَمُونَ مَن يَأْتِيهِ عَذَابٌ يُخْزِيهِ وَيَحِلُّ عَلَيْهِ عَذَابٌ مُّقِيمٌ",
+    "arabic2": "فسوف تعلمون من ياتيه عذاب يخزيه ويحل عليه عذاب مقيم",
+    "bengali": "অতএব, শীঘ্রই তোমরা জানতে পারবে, কার উপর সে আযাব আসবে যা তাকে লাঞ্ছিত করবে এবং কার উপর আপতিত হবে স্থায়ী আযাব।",
+    "urdu": "اور تم کو جلد معلوم ہوجائے گا کہ کس پر عذاب آتا ہے اور جو اسے رسوا کرے گا اور کس پر ہمیشہ کا عذاب نازل ہوتا ہے"
+}

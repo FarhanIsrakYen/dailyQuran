@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Ma'aarij",
+    "surahNameArabic": "المعارج",
+    "surahNameArabicLong": "سورة المعارج",
+    "surahNameTranslation": "The Ascending Stairways",
+    "revelationPlace": "Mecca",
+    "totalAyah": 44,
+    "surahNo": 70,
+    "ayahNo": 44,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/70_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/070044.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/70_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/070044.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/70_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/070044.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/70_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/070044.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/70_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/070044.mp3"
+        }
+    },
+    "english": "with eyes downcast, utterly covered with disgrace. That is the Day they have ˹always˺ been warned of.",
+    "arabic1": "خَـٰشِعَةً أَبْصَـٰرُهُمْ تَرْهَقُهُمْ ذِلَّةٌ ۚ ذَٰلِكَ ٱلْيَوْمُ ٱلَّذِى كَانُوا۟ يُوعَدُونَ",
+    "arabic2": "خاشعة ابصارهم ترهقهم ذلة ذلك اليوم الذي كانوا يوعدون",
+    "bengali": "অবনত চোখে। লাঞ্ছনা তাদেরকে আচ্ছন্ন করবে! এটিই সেদিন যার ওয়াদা তাদেরকে দেয়া হয়েছিল।",
+    "urdu": "ان کی آنکھیں جھک رہی ہوں گی اور ذلت ان پر چھا رہی ہوگی۔ یہی وہ دن ہے جس کا ان سے وعدہ کیا جاتا تھا"
+}

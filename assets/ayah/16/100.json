@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nahl",
+    "surahNameArabic": "النحل",
+    "surahNameArabicLong": "سورة النحل",
+    "surahNameTranslation": "The Bee",
+    "revelationPlace": "Mecca",
+    "totalAyah": 128,
+    "surahNo": 16,
+    "ayahNo": 100,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/16_100.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/016100.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/16_100.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/016100.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/16_100.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/016100.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/16_100.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/016100.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/16_100.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/016100.mp3"
+        }
+    },
+    "english": "His authority is only over those who take him as a patron and who—under his influence—associate ˹others˺ with Allah ˹in worship˺.",
+    "arabic1": "إِنَّمَا سُلْطَـٰنُهُۥ عَلَى ٱلَّذِينَ يَتَوَلَّوْنَهُۥ وَٱلَّذِينَ هُم بِهِۦ مُشْرِكُونَ",
+    "arabic2": "انما سلطانه على الذين يتولونه والذين هم به مشركون",
+    "bengali": "তার ক্ষমতা তো কেবল তাদের উপর, যারা তাকে অভিভাবকরূপে গ্রহণ কর এবং যারা আল্লাহর সাথে শরীক করে।",
+    "urdu": "اس کا زور ان ہی لوگوں پر چلتا ہے جو اس کو رفیق بناتے ہیں اور اس کے (وسوسے کے) سبب (خدا کے ساتھ) شریک مقرر کرتے ہیں"
+}

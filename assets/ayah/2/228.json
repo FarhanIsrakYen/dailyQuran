@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 228,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_228.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002228.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_228.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002228.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_228.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002228.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_228.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002228.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_228.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002228.mp3"
+        }
+    },
+    "english": "Divorced women must wait three monthly cycles ˹before they can re-marry˺. It is not lawful for them to conceal what Allah has created in their wombs, if they ˹truly˺ believe in Allah and the Last Day. And their husbands reserve the right to take them back within that period if they desire reconciliation. Women have rights similar to those of men equitably, although men have a degree ˹of responsibility˺ above them. And Allah is Almighty, All-Wise.",
+    "arabic1": "وَٱلْمُطَلَّقَـٰتُ يَتَرَبَّصْنَ بِأَنفُسِهِنَّ ثَلَـٰثَةَ قُرُوٓءٍ ۚ وَلَا يَحِلُّ لَهُنَّ أَن يَكْتُمْنَ مَا خَلَقَ ٱللَّهُ فِىٓ أَرْحَامِهِنَّ إِن كُنَّ يُؤْمِنَّ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ ۚ وَبُعُولَتُهُنَّ أَحَقُّ بِرَدِّهِنَّ فِى ذَٰلِكَ إِنْ أَرَادُوٓا۟ إِصْلَـٰحًا ۚ وَلَهُنَّ مِثْلُ ٱلَّذِى عَلَيْهِنَّ بِٱلْمَعْرُوفِ ۚ وَلِلرِّجَالِ عَلَيْهِنَّ دَرَجَةٌ ۗ وَٱللَّهُ عَزِيزٌ حَكِيمٌ",
+    "arabic2": "والمطلقات يتربصن بانفسهن ثلاثة قروء ولا يحل لهن ان يكتمن ما خلق الله في ارحامهن ان كن يؤمن بالله واليوم الاخر وبعولتهن احق بردهن في ذلك ان ارادوا اصلاحا ولهن مثل الذي عليهن بالمعروف وللرجال عليهن درجة والله عزيز حكيم",
+    "bengali": "আর তালাকপ্রাপ্তা নারীরা তিন কুরূ* পর্যন্ত অপেক্ষায় থাকবে এবং তাদের জন্য হালাল হবে না যে, আল্লাহ তাদের গর্ভে যা সৃষ্টি করেছেন, তা তারা গোপন করবে, যদি তারা আল্লাহ ও শেষ দিনের প্রতি বিশ্বাস রাখে। আর এর মধ্যে তাদের স্বামীরা তাদেরকে ফিরিয়ে নেয়ার ব্যাপারে অধিক হকদার, যদি তারা সংশোধন চায়। আর নারীদের রয়েছে বিধি মোতাবেক অধিকার। যেমন আছে তাদের উপর (পুরুষদের) অধিকার। আর পুরুষদের রয়েছে তাদের উপর মর্যাদা এবং আল্লাহ পরাক্রমশালী, প্রজ্ঞাময়। \n*‘কুরূ’ দ্বারা হয়েয মতান্তরে তুহূর বা পবিত্রাবস্থাকে বুঝানো হয়েছে।",
+    "urdu": "اور طلاق والی عورتیں تین حیض تک اپنی تئیں روکے رہیں۔ اور اگر وہ خدا اور روز قیامت پر ایمان رکھتی ہیں تو ان کا جائز نہیں کہ خدا نے جو کچھ ان کے شکم میں پیدا کیا ہے اس کو چھپائیں۔ اور ان کے خاوند اگر پھر موافقت چاہیں تو اس (مدت) میں وہ ان کو اپنی زوجیت میں لے لینے کے زیادہ حقدار ہیں۔ اور عورتوں کا حق (مردوں پر) ویسا ہی ہے جیسے دستور کے مطابق (مردوں کا حق) عورتوں پر ہے۔ البتہ مردوں کو عورتوں پر فضیلت ہے۔ اور خدا غالب (اور) صاحب حکمت ہے"
+}

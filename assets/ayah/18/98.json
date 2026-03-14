@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Kahf",
+    "surahNameArabic": "الكهف",
+    "surahNameArabicLong": "سورة الكهف",
+    "surahNameTranslation": "The Cave",
+    "revelationPlace": "Mecca",
+    "totalAyah": 110,
+    "surahNo": 18,
+    "ayahNo": 98,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/18_98.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/018098.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/18_98.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/018098.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/18_98.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/018098.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/18_98.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/018098.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/18_98.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/018098.mp3"
+        }
+    },
+    "english": "He declared, “This is a mercy from my Lord. But when the promise of my Lord comes to pass, He will level it to the ground. And my Lord’s promise is ever true.”",
+    "arabic1": "قَالَ هَـٰذَا رَحْمَةٌ مِّن رَّبِّى ۖ فَإِذَا جَآءَ وَعْدُ رَبِّى جَعَلَهُۥ دَكَّآءَ ۖ وَكَانَ وَعْدُ رَبِّى حَقًّا",
+    "arabic2": "قال هذا رحمة من ربي فاذا جاء وعد ربي جعله دكاء وكان وعد ربي حقا",
+    "bengali": "সে বলল, ‘এটা আমার রবের অনুগ্রহ। অতঃপর যখন আমার রবের ওয়াদাকৃত সময় আসবে তখন তিনি তা মাটির সাথে মিশিয়ে দেবেন। আর আমার রবের ওয়াদা সত্য’।",
+    "urdu": "بولا کہ یہ میرے پروردگار کی مہربانی ہے۔ جب میرے پروردگار کا وعدہ آپہنچے گا تو اس کو (ڈھا کر) ہموار کردے گا اور میرے پروردگار کا وعدہ سچا ہے"
+}

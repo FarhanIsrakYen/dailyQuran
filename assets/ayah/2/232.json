@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 232,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_232.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002232.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_232.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002232.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_232.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002232.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_232.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002232.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_232.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002232.mp3"
+        }
+    },
+    "english": "When you have divorced women and they have reached the end of their waiting period, do not prevent them from re-marrying their ex-husbands if they come to an honourable agreement. This is enjoined on whoever has faith in Allah and the Last Day. This is purer and more dignifying for you. Allah knows and you do not know.",
+    "arabic1": "وَإِذَا طَلَّقْتُمُ ٱلنِّسَآءَ فَبَلَغْنَ أَجَلَهُنَّ فَلَا تَعْضُلُوهُنَّ أَن يَنكِحْنَ أَزْوَٰجَهُنَّ إِذَا تَرَٰضَوْا۟ بَيْنَهُم بِٱلْمَعْرُوفِ ۗ ذَٰلِكَ يُوعَظُ بِهِۦ مَن كَانَ مِنكُمْ يُؤْمِنُ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ ۗ ذَٰلِكُمْ أَزْكَىٰ لَكُمْ وَأَطْهَرُ ۗ وَٱللَّهُ يَعْلَمُ وَأَنتُمْ لَا تَعْلَمُونَ",
+    "arabic2": "واذا طلقتم النساء فبلغن اجلهن فلا تعضلوهن ان ينكحن ازواجهن اذا تراضوا بينهم بالمعروف ذلك يوعظ به من كان منكم يؤمن بالله واليوم الاخر ذلكم ازكى لكم واطهر والله يعلم وانتم لا تعلمون",
+    "bengali": "আর যখন তোমরা স্ত্রীদেরকে তালাক দেবে অতঃপর তারা তাদের ইদ্দতে পৌঁছবে তখন তোমরা তাদেরকে বাধা দিয়ো না যে, তারা তাদের স্বামীদেরকে বিয়ে করবে যদি তারা পরস্পরে তাদের মধ্যে বিধি মোতাবেক সম্মত হয়। এটা উপদেশ তাকে দেয়া হচ্ছে, যে তোমাদের মধ্যে আল্লাহ ও শেষ দিবসের প্রতি বিশ্বাস রাখে। এটি তোমাদের জন্য অধিক শুদ্ধ ও অধিক পবিত্র। আর আল্লাহ জানেন এবং তোমরা জান না।",
+    "urdu": "اور جب تم عورتوں کو طلاق دے چکو اور ان کی عدت پوری ہوجائے تو ان کو دوسرے شوہروں کے ساتھ جب وہ آپس میں جائز طور پر راضی ہوجائیں نکاح کرنے سے مت روکو۔ اس (حکم) سے اس شخص کو نصیحت کی جاتی ہے جو تم میں خدا اور روز آخرت پر یقین رکھتا ہے۔ یہ تمہارے لئے نہایت خوب اور بہت پاکیزگی کی بات ہے اور خدا جانتا ہے اور تم نہیں جانتے"
+}

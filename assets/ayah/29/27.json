@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Ankaboot",
+    "surahNameArabic": "العنكبوت",
+    "surahNameArabicLong": "سورة العنكبوت",
+    "surahNameTranslation": "The Spider",
+    "revelationPlace": "Mecca",
+    "totalAyah": 69,
+    "surahNo": 29,
+    "ayahNo": 27,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/29_27.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/029027.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/29_27.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/029027.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/29_27.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/029027.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/29_27.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/029027.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/29_27.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/029027.mp3"
+        }
+    },
+    "english": "We blessed him with Isaac and ˹later˺ Jacob, and reserved prophethood and revelation for his descendants. We gave him his reward in this life, and in the Hereafter he will certainly be among the righteous.",
+    "arabic1": "وَوَهَبْنَا لَهُۥٓ إِسْحَـٰقَ وَيَعْقُوبَ وَجَعَلْنَا فِى ذُرِّيَّتِهِ ٱلنُّبُوَّةَ وَٱلْكِتَـٰبَ وَءَاتَيْنَـٰهُ أَجْرَهُۥ فِى ٱلدُّنْيَا ۖ وَإِنَّهُۥ فِى ٱلْـَٔاخِرَةِ لَمِنَ ٱلصَّـٰلِحِينَ",
+    "arabic2": "ووهبنا له اسحاق ويعقوب وجعلنا في ذريته النبوة والكتاب واتيناه اجره في الدنيا وانه في الاخرة لمن الصالحين",
+    "bengali": "আর আমি তাকে দান করলাম ইসহাক ও ‘ইয়া‘কূবকে এবং তার বংশে নবুওয়াত ও কিতাব দিলাম। আর দুনিয়াতে তাকে তার প্রতিদান দিলাম এবং নিশ্চয় সে আখিরাতে সৎকর্মশীলদের অন্তর্ভুক্ত হবে।",
+    "urdu": "اور ہم نے اُن کو اسحٰق اور یعقوب بخشے اور اُن کی اولاد میں پیغمبری اور کتاب (مقرر) کر دی اور ان کو دنیا میں بھی اُن کا صلہ عنایت کیا اور وہ آخرت میں بھی نیک لوگوں میں ہوں گے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 223,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_223.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002223.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_223.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002223.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_223.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002223.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_223.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002223.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_223.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002223.mp3"
+        }
+    },
+    "english": "Your wives are like farmland for you, so approach them ˹consensually˺ as you please. And send forth something good for yourselves. Be mindful of Allah, and know that you will meet Him. And give good news to the believers.",
+    "arabic1": "نِسَآؤُكُمْ حَرْثٌ لَّكُمْ فَأْتُوا۟ حَرْثَكُمْ أَنَّىٰ شِئْتُمْ ۖ وَقَدِّمُوا۟ لِأَنفُسِكُمْ ۚ وَٱتَّقُوا۟ ٱللَّهَ وَٱعْلَمُوٓا۟ أَنَّكُم مُّلَـٰقُوهُ ۗ وَبَشِّرِ ٱلْمُؤْمِنِينَ",
+    "arabic2": "نساؤكم حرث لكم فاتوا حرثكم انى شئتم وقدموا لانفسكم واتقوا الله واعلموا انكم ملاقوه وبشر المؤمنين",
+    "bengali": "তোমাদের স্ত্রী তোমাদের ফসলক্ষেত্র। সুতরাং তোমরা তোমাদের ফসলক্ষেত্রে গমন কর, যেভাবে চাও। আর তোমরা নিজদের কল্যাণে উত্তম কাজ সামনে পাঠাও। আর আল্লাহর তাকওয়া অবলম্বন কর এবং জেনে রাখ, নিশ্চয় তোমরা তাঁর সাথে সাক্ষাৎ করবে । আর মুমিনদেরকে সুসংবাদ দাও।",
+    "urdu": "تمہاری عورتیں تمہارای کھیتی ہیں تو اپنی کھیتی میں جس طرح چاہو جاؤ۔ اور اپنے لئے (نیک عمل) آگے بھیجو۔ اور خدا سے ڈرتے رہو اور جان رکھو کہ (ایک دن) تمہیں اس کے روبرو حاضر ہونا ہے اور (اے پیغمبر) ایمان والوں کو بشارت سنا دو"
+}

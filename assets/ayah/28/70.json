@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Qasas",
+    "surahNameArabic": "القصص",
+    "surahNameArabicLong": "سورة القصص",
+    "surahNameTranslation": "The Stories",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 28,
+    "ayahNo": 70,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/28_70.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/028070.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/28_70.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/028070.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/28_70.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/028070.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/28_70.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/028070.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/28_70.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/028070.mp3"
+        }
+    },
+    "english": "He is Allah. There is no god ˹worthy of worship˺ except Him. All praise belongs to Him in this life and the next. All authority is His. And to Him you will ˹all˺ be returned.",
+    "arabic1": "وَهُوَ ٱللَّهُ لَآ إِلَـٰهَ إِلَّا هُوَ ۖ لَهُ ٱلْحَمْدُ فِى ٱلْأُولَىٰ وَٱلْـَٔاخِرَةِ ۖ وَلَهُ ٱلْحُكْمُ وَإِلَيْهِ تُرْجَعُونَ",
+    "arabic2": "وهو الله لا اله الا هو له الحمد في الاولى والاخرة وله الحكم واليه ترجعون",
+    "bengali": "আর তিনিই আল্লাহ, তিনি ছাড়া কোন (সত্য) ইলাহ নেই। দুনিয়া ও আখিরাতে সমস্ত প্রশংসা তাঁরই; বিধান তাঁরই। আর তাঁর কাছেই তোমরা প্রত্যাবর্তিত হবে।",
+    "urdu": "اور وہی خدا ہے اس کے سوا کوئی معبود نہیں دنیا اور آخرت میں اُسی کی تعریف ہے اور اُسی کا حکم اور اسی کی طرف تم لوٹائے جاؤ گے"
+}

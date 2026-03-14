@@ -1,0 +1,42 @@
+{
+    "surahName": "Ar-Room",
+    "surahNameArabic": "الروم",
+    "surahNameArabicLong": "سورة الروم",
+    "surahNameTranslation": "The Romans",
+    "revelationPlace": "Mecca",
+    "totalAyah": 60,
+    "surahNo": 30,
+    "ayahNo": 54,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/30_54.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/030054.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/30_54.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/030054.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/30_54.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/030054.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/30_54.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/030054.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/30_54.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/030054.mp3"
+        }
+    },
+    "english": "It is Allah Who created you in a state of weakness, then developed ˹your˺ weakness into strength, then developed ˹your˺ strength into weakness and old age. He creates whatever He wills. For He is the All-Knowing, Most Capable.",
+    "arabic1": "۞ ٱللَّهُ ٱلَّذِى خَلَقَكُم مِّن ضَعْفٍ ثُمَّ جَعَلَ مِنۢ بَعْدِ ضَعْفٍ قُوَّةً ثُمَّ جَعَلَ مِنۢ بَعْدِ قُوَّةٍ ضَعْفًا وَشَيْبَةً ۚ يَخْلُقُ مَا يَشَآءُ ۖ وَهُوَ ٱلْعَلِيمُ ٱلْقَدِيرُ",
+    "arabic2": "الله الذي خلقكم من ضعف ثم جعل من بعد ضعف قوة ثم جعل من بعد قوة ضعفا وشيبة يخلق ما يشاء وهو العليم القدير",
+    "bengali": "আল্লাহ, যিনি তোমাদের সৃষ্টি করেছেন দুর্বল বস্তু থেকে এবং দুর্বলতার পর তিনি শক্তি দান করেন। আর শক্তির পর তিনি আবার দেন দুর্বলতা ও বার্ধক্য। তিনি যা ইচ্ছা সৃষ্টি করেন এবং তিনিই সর্বজ্ঞ, সর্বশক্তিমান।",
+    "urdu": "خدا ہی تو ہے جس نے تم کو (ابتدا میں) کمزور حالت میں پیدا کیا پھر کمزوری کے بعد طاقت عنایت کی پھر طاقت کے بعد کمزوری اور بڑھاپا دیا۔ وہ جو چاہتا ہے پیدا کرتا ہے اور وہ صاحب دانش اور صاحب قدرت ہے"
+}

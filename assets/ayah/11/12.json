@@ -1,0 +1,42 @@
+{
+    "surahName": "Hud",
+    "surahNameArabic": "هود",
+    "surahNameArabicLong": "سورة هود",
+    "surahNameTranslation": "Hud",
+    "revelationPlace": "Mecca",
+    "totalAyah": 123,
+    "surahNo": 11,
+    "ayahNo": 12,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/11_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/011012.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/11_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/011012.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/11_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/011012.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/11_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/011012.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/11_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/011012.mp3"
+        }
+    },
+    "english": "Perhaps you ˹O Prophet˺ may wish to give up some of what is revealed to you and may be distressed by it because they say, “If only a treasure had been sent down to him, or an angel had come with him!” You are only a warner, and Allah is the Trustee of All Affairs.",
+    "arabic1": "فَلَعَلَّكَ تَارِكٌۢ بَعْضَ مَا يُوحَىٰٓ إِلَيْكَ وَضَآئِقٌۢ بِهِۦ صَدْرُكَ أَن يَقُولُوا۟ لَوْلَآ أُنزِلَ عَلَيْهِ كَنزٌ أَوْ جَآءَ مَعَهُۥ مَلَكٌ ۚ إِنَّمَآ أَنتَ نَذِيرٌ ۚ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ وَكِيلٌ",
+    "arabic2": "فلعلك تارك بعض ما يوحى اليك وضائق به صدرك ان يقولوا لولا انزل عليه كنز او جاء معه ملك انما انت نذير والله على كل شيء وكيل",
+    "bengali": "তাহলে সম্ভবত তুমি তোমার উপর অবতীর্ণ ওহীর কিছু বিষয় ছেড়ে দেবে এবং তোমার বুক সঙ্কুচিত হবে এ কারণে যে, তারা বলে, ‘কেন তার উপর ধন-ভান্ডার অবতীর্ণ হয়নি, কিংবা তার সাথে ফেরেশতা আসেনি’? তুমি তো শুধু সতর্ককারী আর আল্লাহ সব কিছুর তত্ত্বাবধায়ক।",
+    "urdu": "شاید تم کچھ چیز وحی میں سے جو تمہارے پاس آتی ہے چھوڑ دو اور اس (خیال) سے کہ تمہارا دل تنگ ہو کہ (کافر) یہ کہنے لگیں کہ اس پر کوئی خزانہ کیوں نہ نازل ہوا یا اس کے ساتھ کوئی فرشتہ کیوں نہیں آیا۔ اے محمدﷺ! تم تو صرف نصیحت کرنے والے ہو۔ اور خدا ہر چیز کا نگہبان ہے"
+}

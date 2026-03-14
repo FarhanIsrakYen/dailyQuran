@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Qasas",
+    "surahNameArabic": "القصص",
+    "surahNameArabicLong": "سورة القصص",
+    "surahNameTranslation": "The Stories",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 28,
+    "ayahNo": 5,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/28_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/028005.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/28_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/028005.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/28_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/028005.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/28_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/028005.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/28_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/028005.mp3"
+        }
+    },
+    "english": "But it was Our Will to favour those who were oppressed in the land, making them models ˹of faith˺ as well as successors;",
+    "arabic1": "وَنُرِيدُ أَن نَّمُنَّ عَلَى ٱلَّذِينَ ٱسْتُضْعِفُوا۟ فِى ٱلْأَرْضِ وَنَجْعَلَهُمْ أَئِمَّةً وَنَجْعَلَهُمُ ٱلْوَٰرِثِينَ",
+    "arabic2": "ونريد ان نمن على الذين استضعفوا في الارض ونجعلهم ائمة ونجعلهم الوارثين",
+    "bengali": "আর আমি চাইলাম সেই দেশে যাদেরকে দুর্বল করে রাখা হয়েছিল তাদের প্রতি অনুগ্রহ করতে এবং তাদেরকে নেতা বানাতে, আর তাদেরকে উত্তরাধিকারী বানাতে।",
+    "urdu": "اور ہم چاہتے تھے کہ جو لوگ ملک میں کمزور کر دیئے گئے ہیں اُن پر احسان کریں اور اُن کو پیشوا بنائیں اور انہیں (ملک کا) وارث کریں"
+}

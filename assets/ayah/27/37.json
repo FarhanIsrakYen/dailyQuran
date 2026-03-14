@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Naml",
+    "surahNameArabic": "النمل",
+    "surahNameArabicLong": "سورة النمل",
+    "surahNameTranslation": "The Ant",
+    "revelationPlace": "Mecca",
+    "totalAyah": 93,
+    "surahNo": 27,
+    "ayahNo": 37,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/27_37.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/027037.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/27_37.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/027037.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/27_37.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/027037.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/27_37.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/027037.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/27_37.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/027037.mp3"
+        }
+    },
+    "english": "Go back to them, for we will certainly mobilize against them forces which they can never resist, and we will drive them out from there in disgrace, fully humbled.”",
+    "arabic1": "ٱرْجِعْ إِلَيْهِمْ فَلَنَأْتِيَنَّهُم بِجُنُودٍ لَّا قِبَلَ لَهُم بِهَا وَلَنُخْرِجَنَّهُم مِّنْهَآ أَذِلَّةً وَهُمْ صَـٰغِرُونَ",
+    "arabic2": "ارجع اليهم فلناتينهم بجنود لا قبل لهم بها ولنخرجنهم منها اذلة وهم صاغرون",
+    "bengali": "‘তোমরা তাদের কাছে ফিরে যাও। তারপর আমি অবশ্যই তাদের কাছে এমন সৈন্যবাহিনী নিয়ে আসব যার মুকাবিলা করার শক্তি তাদের নেই। আর আমি অবশ্যই তাদেরকে সেখান থেকে লাঞ্ছিত অবস্থায় বের করে দেব আর তারা অপমানিত।’",
+    "urdu": "ان کے پاس واپس جاؤ ہم ان پر ایسے لشکر سے حملہ کریں گے جس کے مقابلے کی ان میں طاقت نہ ہوگی اور ان کو وہاں سے بےعزت کرکے نکال دیں گے اور وہ ذلیل ہوں گے"
+}

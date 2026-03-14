@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Qasas",
+    "surahNameArabic": "القصص",
+    "surahNameArabicLong": "سورة القصص",
+    "surahNameTranslation": "The Stories",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 28,
+    "ayahNo": 21,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/28_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/028021.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/28_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/028021.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/28_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/028021.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/28_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/028021.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/28_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/028021.mp3"
+        }
+    },
+    "english": "So Moses left the city in a state of fear and caution, praying, “My Lord! Deliver me from the wrongdoing people.”",
+    "arabic1": "فَخَرَجَ مِنْهَا خَآئِفًا يَتَرَقَّبُ ۖ قَالَ رَبِّ نَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+    "arabic2": "فخرج منها خائفا يترقب قال رب نجني من القوم الظالمين",
+    "bengali": "তখন সে ভীত প্রতীক্ষারত অবস্থায় শহর থেকে বেরিয়ে পড়ল। বলল, ‘হে আমার রব, আপনি যালিম কওম থেকে আমাকে রক্ষা করুন’।",
+    "urdu": "موسٰی وہاں سے ڈرتے ڈرتے نکل کھڑے ہوئے کہ دیکھیں (کیا ہوتا ہے) اور دعا کرنے لگے کہ اے پروردگار مجھے ظالم لوگوں سے نجات دے۔"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 231,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_231.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002231.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_231.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002231.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_231.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002231.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_231.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002231.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_231.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002231.mp3"
+        }
+    },
+    "english": "When you divorce women and they have ˹almost˺ reached the end of their waiting period, either retain them honourably or let them go honourably. But do not retain them ˹only˺ to harm them ˹or˺ to take advantage ˹of them˺. Whoever does that surely wrongs his own soul. Do not take Allah’s revelations lightly. Remember Allah’s favours upon you as well as the Book and wisdom He has sent down for your guidance. Be mindful of Allah, and know that Allah has ˹perfect˺ knowledge of all things.",
+    "arabic1": "وَإِذَا طَلَّقْتُمُ ٱلنِّسَآءَ فَبَلَغْنَ أَجَلَهُنَّ فَأَمْسِكُوهُنَّ بِمَعْرُوفٍ أَوْ سَرِّحُوهُنَّ بِمَعْرُوفٍ ۚ وَلَا تُمْسِكُوهُنَّ ضِرَارًا لِّتَعْتَدُوا۟ ۚ وَمَن يَفْعَلْ ذَٰلِكَ فَقَدْ ظَلَمَ نَفْسَهُۥ ۚ وَلَا تَتَّخِذُوٓا۟ ءَايَـٰتِ ٱللَّهِ هُزُوًا ۚ وَٱذْكُرُوا۟ نِعْمَتَ ٱللَّهِ عَلَيْكُمْ وَمَآ أَنزَلَ عَلَيْكُم مِّنَ ٱلْكِتَـٰبِ وَٱلْحِكْمَةِ يَعِظُكُم بِهِۦ ۚ وَٱتَّقُوا۟ ٱللَّهَ وَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ بِكُلِّ شَىْءٍ عَلِيمٌ",
+    "arabic2": "واذا طلقتم النساء فبلغن اجلهن فامسكوهن بمعروف او سرحوهن بمعروف ولا تمسكوهن ضرارا لتعتدوا ومن يفعل ذلك فقد ظلم نفسه ولا تتخذوا ايات الله هزوا واذكروا نعمت الله عليكم وما انزل عليكم من الكتاب والحكمة يعظكم به واتقوا الله واعلموا ان الله بكل شيء عليم",
+    "bengali": "আর যখন তোমরা স্ত্রীদেরকে তালাক দেবে অতঃপর তারা তাদের ইদ্দতে পৌঁছে যাবে তখন হয়তো বিধি মোতাবেক তাদেরকে রেখে দেবে অথবা বিধি মোতাবেক তাদেরকে ছেড়ে দেবে। তবে তাদেরকে কষ্ট দিয়ে সীমালঙ্ঘনের উদ্দেশ্যে তাদেরকে আটকে রেখো না। আর যে তা করবে সে তো নিজের প্রতি যুলম করবে। আর তোমরা আল্লাহর আয়াতসমূহকে উপহাসরূপে গ্রহণ করো না। আর তোমরা স্মরণ কর তোমাদের উপর আল্লাহর নিআমত এবং তোমাদের উপর কিতাব ও হিকমত যা নাযিল করেছেন, যার মাধ্যমে তিনি তোমাদেরকে উপদেশ দেন। আর আল্লাহকে ভয় কর এবং জেনে রাখ যে, নিশ্চয় আল্লাহ সব বিষয় সম্পর্কে সুপরিজ্ঞাত।",
+    "urdu": "اور جب تم عورتوں کو (دو دفعہ) طلاق دے چکو اور ان کی عدت پوری ہوجائے تو انہیں یا تو حسن سلوک سے نکاح میں رہنے دو یا بطریق شائستہ رخصت کردو اور اس نیت سے ان کو نکاح میں نہ رہنے دینا چاہئے کہ انہیں تکلیف دو اور ان پر زیادتی کرو۔ اور جو ایسا کرے گا وہ اپنا ہی نقصان کرے گا اور خدا کے احکام کو ہنسی (اور کھیل) نہ بناؤ اور خدا نے تم کو جو نعمتیں بخشی ہیں اور تم پر جو کتاب اور دانائی کی باتیں نازل کی ہیں جن سے وہ تمہیں نصیحت فرماتا ہے ان کو یاد کرو۔ اور خدا سے ڈرتے رہو اور جان رکھوکہ خدا ہر چیز سے واقف ہے"
+}

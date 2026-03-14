@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Mumtahana",
+    "surahNameArabic": "الممتحنة",
+    "surahNameArabicLong": "سورة الممتحنة",
+    "surahNameTranslation": "She that is to be examined",
+    "revelationPlace": "Madina",
+    "totalAyah": 13,
+    "surahNo": 60,
+    "ayahNo": 12,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/60_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/060012.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/60_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/060012.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/60_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/060012.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/60_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/060012.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/60_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/060012.mp3"
+        }
+    },
+    "english": "O Prophet! When the believing women come to you, pledging to you that they will neither associate anything with Allah ˹in worship˺, nor steal, nor fornicate, nor kill their children, nor falsely attribute ˹illegitimate˺ children to their husbands, nor disobey you in what is right, then accept their pledge, and ask Allah to forgive them. Surely Allah is All-Forgiving, Most Merciful.",
+    "arabic1": "يَـٰٓأَيُّهَا ٱلنَّبِىُّ إِذَا جَآءَكَ ٱلْمُؤْمِنَـٰتُ يُبَايِعْنَكَ عَلَىٰٓ أَن لَّا يُشْرِكْنَ بِٱللَّهِ شَيْـًٔا وَلَا يَسْرِقْنَ وَلَا يَزْنِينَ وَلَا يَقْتُلْنَ أَوْلَـٰدَهُنَّ وَلَا يَأْتِينَ بِبُهْتَـٰنٍ يَفْتَرِينَهُۥ بَيْنَ أَيْدِيهِنَّ وَأَرْجُلِهِنَّ وَلَا يَعْصِينَكَ فِى مَعْرُوفٍ ۙ فَبَايِعْهُنَّ وَٱسْتَغْفِرْ لَهُنَّ ٱللَّهَ ۖ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ",
+    "arabic2": "يا ايها النبي اذا جاءك المؤمنات يبايعنك على ان لا يشركن بالله شيئا ولا يسرقن ولا يزنين ولا يقتلن اولادهن ولا ياتين ببهتان يفترينه بين ايديهن وارجلهن ولا يعصينك في معروف فبايعهن واستغفر لهن الله ان الله غفور رحيم",
+    "bengali": "হে নবী, যখন মুমিন নারীরা তোমার কাছে এসে এই মর্মে বাইআত করে যে, তারা আল্লাহর সাথে কোন কিছু শরীক করবে না, চুরি করবে না, ব্যভিচার করবে না, নিজেদের সন্তানদেরকে হত্যা করবে না, তারা জেনে শুনে কোন অপবাদ রচনা করে রটাবে না এবং সৎকাজে তারা তোমার অবাধ্য হবে না। তখন তুমি তাদের বাইআত গ্রহণ কর এবং তাদের জন্য আল্লাহর নিকট ক্ষমা প্রার্থনা কর। নিশ্চয় আল্লাহ অতিশয় ক্ষমাশীল, পরম দয়ালু।",
+    "urdu": "اے پیغمبر! جب تمہارے پاس مومن عورتیں اس بات پر بیعت کرنے کو آئیں کہ خدا کے ساتھ نہ شرک کریں گی نہ چوری کریں گی نہ بدکاری کریں گی نہ اپنی اولاد کو قتل کریں گی نہ اپنے ہاتھ پاؤں میں کوئی بہتان باندھ لائیں گی اور نہ نیک کاموں میں تمہاری نافرمانی کریں گی تو ان سے بیعت لے لو اور ان کے لئے خدا سے بخشش مانگو۔ بےشک خدا بخشنے والا مہربان ہے"
+}

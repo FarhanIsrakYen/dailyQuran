@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Ahzaab",
+    "surahNameArabic": "الأحزاب",
+    "surahNameArabicLong": "سورة الأحزاب",
+    "surahNameTranslation": "The Clans",
+    "revelationPlace": "Madina",
+    "totalAyah": 73,
+    "surahNo": 33,
+    "ayahNo": 67,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/33_67.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/033067.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/33_67.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/033067.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/33_67.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/033067.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/33_67.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/033067.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/33_67.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/033067.mp3"
+        }
+    },
+    "english": "And they will say, “Our Lord! We obeyed our leaders and elite, but they led us astray from the ˹Right˺ Way.",
+    "arabic1": "وَقَالُوا۟ رَبَّنَآ إِنَّآ أَطَعْنَا سَادَتَنَا وَكُبَرَآءَنَا فَأَضَلُّونَا ٱلسَّبِيلَا۠",
+    "arabic2": "وقالوا ربنا انا اطعنا سادتنا وكبراءنا فاضلونا السبيلا",
+    "bengali": "তারা আরো বলবে, ‘হে আমাদের রব, আমরা আমাদের নেতৃবর্গ ও বিশিষ্ট লোকদের আনুগত্য করেছিলাম, তখন তারা আমাদেরকে পথভ্রষ্ট করেছিল’।",
+    "urdu": "اور کہیں گے کہ اے ہمارے پروردگار ہم نے اپنے سرداروں اور بڑے لوگوں کا کہا مانا تو انہوں نے ہم کو رستے سے گمراہ کردیا"
+}

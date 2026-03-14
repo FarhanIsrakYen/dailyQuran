@@ -1,0 +1,42 @@
+{
+    "surahName": "Taa-Haa",
+    "surahNameArabic": "طه",
+    "surahNameArabicLong": "سورة طه",
+    "surahNameTranslation": "Taa-Haa",
+    "revelationPlace": "Mecca",
+    "totalAyah": 135,
+    "surahNo": 20,
+    "ayahNo": 113,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/20_113.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/020113.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/20_113.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/020113.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/20_113.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/020113.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/20_113.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/020113.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/20_113.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/020113.mp3"
+        }
+    },
+    "english": "And so We have sent it down as an Arabic Quran and varied the warnings in it, so perhaps they will shun evil or it may cause them to be mindful.",
+    "arabic1": "وَكَذَٰلِكَ أَنزَلْنَـٰهُ قُرْءَانًا عَرَبِيًّا وَصَرَّفْنَا فِيهِ مِنَ ٱلْوَعِيدِ لَعَلَّهُمْ يَتَّقُونَ أَوْ يُحْدِثُ لَهُمْ ذِكْرًا",
+    "arabic2": "وكذلك انزلناه قرانا عربيا وصرفنا فيه من الوعيد لعلهم يتقون او يحدث لهم ذكرا",
+    "bengali": "আর এভাবেই আমি আরবী ভাষায় কুরআন নাযিল করেছি এবং তাতে বিভিন্ন সতর্কবাণী বর্ণনা করেছি, যাতে তারা মুত্তাকী হতে পারে অথবা তা হয় তাদের জন্য উপদেশ।",
+    "urdu": "اور ہم نے اس کو اسی طرح کا قرآن عربی نازل کیا ہے اور اس میں طرح طرح کے ڈراوے بیان کردیئے ہیں تاکہ لوگ پرہیزگار بنیں یا خدا ان کے لئے نصیحت پیدا کردے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Muzzammil",
+    "surahNameArabic": "المزمل",
+    "surahNameArabicLong": "سورة المزمل",
+    "surahNameTranslation": "The Enshrouded One",
+    "revelationPlace": "Mecca",
+    "totalAyah": 20,
+    "surahNo": 73,
+    "ayahNo": 16,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/73_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/073016.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/73_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/073016.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/73_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/073016.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/73_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/073016.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/73_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/073016.mp3"
+        }
+    },
+    "english": "But Pharaoh disobeyed the messenger, so We seized him with a stern grip.",
+    "arabic1": "فَعَصَىٰ فِرْعَوْنُ ٱلرَّسُولَ فَأَخَذْنَـٰهُ أَخْذًا وَبِيلًا",
+    "arabic2": "فعصى فرعون الرسول فاخذناه اخذا وبيلا",
+    "bengali": "কিন্তু ফির‘আউন রাসূলকে অমান্য করল। তাই আমি তাকে অত্যন্ত শক্তভাবে পাকড়াও করলাম।",
+    "urdu": "سو فرعون نے (ہمارے) پیغمبر کا کہا نہ مانا تو ہم نے اس کو بڑے وبال میں پکڑ لیا"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Najm",
+    "surahNameArabic": "النجم",
+    "surahNameArabicLong": "سورة النجم",
+    "surahNameTranslation": "The Star",
+    "revelationPlace": "Mecca",
+    "totalAyah": 62,
+    "surahNo": 53,
+    "ayahNo": 36,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/53_36.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/053036.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/53_36.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/053036.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/53_36.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/053036.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/53_36.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/053036.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/53_36.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/053036.mp3"
+        }
+    },
+    "english": "Or has he not been informed of what is in the Scripture of Moses",
+    "arabic1": "أَمْ لَمْ يُنَبَّأْ بِمَا فِى صُحُفِ مُوسَىٰ",
+    "arabic2": "ام لم ينبا بما في صحف موسى",
+    "bengali": "নাকি মূসার কিতাবে যা আছে, সে সম্পর্কে তাকে অবহিত করা হয়নি ?",
+    "urdu": "کیا جو باتیں موسیٰ کے صحیفوں میں ہیں ان کی اس کو خبر نہیں پہنچی"
+}

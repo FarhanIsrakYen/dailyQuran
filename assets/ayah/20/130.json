@@ -1,0 +1,42 @@
+{
+    "surahName": "Taa-Haa",
+    "surahNameArabic": "طه",
+    "surahNameArabicLong": "سورة طه",
+    "surahNameTranslation": "Taa-Haa",
+    "revelationPlace": "Mecca",
+    "totalAyah": 135,
+    "surahNo": 20,
+    "ayahNo": 130,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/20_130.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/020130.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/20_130.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/020130.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/20_130.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/020130.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/20_130.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/020130.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/20_130.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/020130.mp3"
+        }
+    },
+    "english": "So be patient ˹O Prophet˺ with what they say. And glorify the praises of your Lord before sunrise and before sunset, and glorify Him in the hours of the night and at both ends of the day, so that you may be pleased ˹with the reward˺.",
+    "arabic1": "فَٱصْبِرْ عَلَىٰ مَا يَقُولُونَ وَسَبِّحْ بِحَمْدِ رَبِّكَ قَبْلَ طُلُوعِ ٱلشَّمْسِ وَقَبْلَ غُرُوبِهَا ۖ وَمِنْ ءَانَآئِ ٱلَّيْلِ فَسَبِّحْ وَأَطْرَافَ ٱلنَّهَارِ لَعَلَّكَ تَرْضَىٰ",
+    "arabic2": "فاصبر على ما يقولون وسبح بحمد ربك قبل طلوع الشمس وقبل غروبها ومن اناء الليل فسبح واطراف النهار لعلك ترضى",
+    "bengali": "সুতরাং এরা যা বলে তার উপর ধৈর্য ধারণ কর এবং তাসবীহ পাঠ কর তোমার রবের প্রশংসা বর্ণনার মাধ্যমে, সূর্যোদয়ের পূর্বে, সূর্যাস্তের পূর্বে এবং তাসবীহ পাঠ কর রাতের কিছু অংশে ও দিনের প্রান্তসমূহে, যাতে তুমি সন্তুষ্ট হতে পার।",
+    "urdu": "پس جو کچھ یہ بکواس کرتے ہیں اس پر صبر کرو۔ اور سورج کے نکلنے سے پہلے اور اس کے غروب ہونے سے پہلے اپنے پروردگار کی تسبیح وتحمید کیا کرو۔ اور رات کی ساعات (اولین) میں بھی اس کی تسبیح کیا کرو اور دن کی اطراف (یعنی دوپہر کے قریب ظہر کے وقت بھی) تاکہ تم خوش ہوجاؤ"
+}

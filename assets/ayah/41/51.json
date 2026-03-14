@@ -1,0 +1,42 @@
+{
+    "surahName": "Fussilat",
+    "surahNameArabic": "فصلت",
+    "surahNameArabicLong": "سورة فصلت",
+    "surahNameTranslation": "Explained in detail",
+    "revelationPlace": "Mecca",
+    "totalAyah": 54,
+    "surahNo": 41,
+    "ayahNo": 51,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/41_51.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/041051.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/41_51.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/041051.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/41_51.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/041051.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/41_51.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/041051.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/41_51.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/041051.mp3"
+        }
+    },
+    "english": "When We show favour to someone, they turn away, acting arrogantly. And when touched with evil, they make endless prayers ˹for good˺.",
+    "arabic1": "وَإِذَآ أَنْعَمْنَا عَلَى ٱلْإِنسَـٰنِ أَعْرَضَ وَنَـَٔا بِجَانِبِهِۦ وَإِذَا مَسَّهُ ٱلشَّرُّ فَذُو دُعَآءٍ عَرِيضٍ",
+    "arabic2": "واذا انعمنا على الانسان اعرض وناى بجانبه واذا مسه الشر فذو دعاء عريض",
+    "bengali": "আর যখন আমি মানুষের প্রতি অনুগ্রহ করি তখন সে বিমুখ হয় এবং দূরে সরে যায়; আর যখন অকল্যাণ তাকে স্পর্শ করে তখন সে দীর্ঘ দোআকারী হয়।",
+    "urdu": "اور جب ہم انسان پر کرم کرتے ہیں تو منہ موڑ لیتا ہے اور پہلو پھیر کر چل دیتا ہے۔ اور جب اس کو تکلیف پہنچتی ہے تو لمبی لمبی دعائیں کرنے لگتا ہے"
+}

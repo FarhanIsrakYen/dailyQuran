@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 170,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/7_170.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/007170.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/7_170.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/007170.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/7_170.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/007170.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/7_170.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/007170.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/7_170.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/007170.mp3"
+        }
+    },
+    "english": "As for those who firmly abide by the Scripture and establish prayer—surely We never discount the reward of those acting righteously.",
+    "arabic1": "وَٱلَّذِينَ يُمَسِّكُونَ بِٱلْكِتَـٰبِ وَأَقَامُوا۟ ٱلصَّلَوٰةَ إِنَّا لَا نُضِيعُ أَجْرَ ٱلْمُصْلِحِينَ",
+    "arabic2": "والذين يمسكون بالكتاب واقاموا الصلاة انا لا نضيع اجر المصلحين",
+    "bengali": "আর যারা কিতাবকে দৃঢ়ভাবে আঁকড়ে ধরে এবং সালাত কায়েম করে, নিশ্চয় আমি সৎকর্মশীলদের প্রতিদান বিনষ্ট’ করি না।",
+    "urdu": "اور جو لوگ کتاب کو مضبوط پکڑے ہوئے ہیں اور نماز کا التزام رکھتے ہیں (ان کو ہم اجر دیں گے کہ) ہم نیکوکاروں کا اجر ضائع نہیں کرتے"
+}

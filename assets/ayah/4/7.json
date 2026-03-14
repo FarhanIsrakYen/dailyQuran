@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 7,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/4_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/004007.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/4_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/004007.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/4_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/004007.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/4_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/004007.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/4_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/004007.mp3"
+        }
+    },
+    "english": "For men there is a share in what their parents and close relatives leave, and for women there is a share in what their parents and close relatives leave—whether it is little or much. ˹These are˺ obligatory shares.",
+    "arabic1": "لِّلرِّجَالِ نَصِيبٌ مِّمَّا تَرَكَ ٱلْوَٰلِدَانِ وَٱلْأَقْرَبُونَ وَلِلنِّسَآءِ نَصِيبٌ مِّمَّا تَرَكَ ٱلْوَٰلِدَانِ وَٱلْأَقْرَبُونَ مِمَّا قَلَّ مِنْهُ أَوْ كَثُرَ ۚ نَصِيبًا مَّفْرُوضًا",
+    "arabic2": "للرجال نصيب مما ترك الوالدان والاقربون وللنساء نصيب مما ترك الوالدان والاقربون مما قل منه او كثر نصيبا مفروضا",
+    "bengali": "পুরুষদের জন্য মাতা পিতা ও নিকটাত্মীয়রা যা রেখে গিয়েছে তা থেকে একটি অংশ রয়েছে। আর নারীদের জন্য রয়েছে মাতা পিতা ও নিকটাত্মীয়রা যা রেখে গিয়েছে তা থেকে একটি অংশ- তা থেকে কম হোক বা বেশি হোক- নির্ধারিত হারে।",
+    "urdu": "جو مال ماں باپ اور رشتہ دار چھوڑ مریں تھوڑا ہو یا بہت۔ اس میں مردوں کا بھی حصہ ہے اور عورتوں کا بھی یہ حصے (خدا کے) مقرر کئے ہوئے ہیں"
+}

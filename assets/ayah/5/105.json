@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Maaida",
+    "surahNameArabic": "المائدة",
+    "surahNameArabicLong": "سورة المائدة",
+    "surahNameTranslation": "The Table",
+    "revelationPlace": "Madina",
+    "totalAyah": 120,
+    "surahNo": 5,
+    "ayahNo": 105,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/5_105.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/005105.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/5_105.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/005105.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/5_105.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/005105.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/5_105.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/005105.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/5_105.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/005105.mp3"
+        }
+    },
+    "english": "O believers! You are accountable only for yourselves. It will not harm you if someone chooses to deviate—as long as you are ˹rightly˺ guided. To Allah you will all return, and He will inform you of what you used to do.",
+    "arabic1": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ عَلَيْكُمْ أَنفُسَكُمْ ۖ لَا يَضُرُّكُم مَّن ضَلَّ إِذَا ٱهْتَدَيْتُمْ ۚ إِلَى ٱللَّهِ مَرْجِعُكُمْ جَمِيعًا فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ",
+    "arabic2": "يا ايها الذين امنوا عليكم انفسكم لا يضركم من ضل اذا اهتديتم الى الله مرجعكم جميعا فينبئكم بما كنتم تعملون",
+    "bengali": "হে মুমিনগণ, তোমাদের উপর তোমাদের নিজদের দায়িত্ব। যদি তোমরা সঠিক পথে থাক তাহলে যে পথভ্রষ্ট হয়েছে সে তোমাদের ক্ষতি করতে পারবে না। আল্লাহর দিকেই তোমাদের সকলের প্রত্যাবর্তন; তখন তিনি তোমরা যা আমল করতে তা তোমাদের জানিয়ে দেবেন।",
+    "urdu": "اے ایمان والو! اپنی جانوں کی حفاظت کرو جب تم ہدایت پر ہو تو کوئی گمراہ تمہارا کچھ بھی بگاڑ نہیں سکتا تم سب کو خدا کی طرف لوٹ کر جانا ہے اس وقت وہ تم کو تمہارے سب کاموں سے جو (دنیا میں) کئے تھے آگاہ کرے گا (اور ان کا بدلہ دے گا)"
+}

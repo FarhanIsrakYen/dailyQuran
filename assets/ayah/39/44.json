@@ -1,0 +1,42 @@
+{
+    "surahName": "Az-Zumar",
+    "surahNameArabic": "الزمر",
+    "surahNameArabicLong": "سورة الزمر",
+    "surahNameTranslation": "The Groups",
+    "revelationPlace": "Mecca",
+    "totalAyah": 75,
+    "surahNo": 39,
+    "ayahNo": 44,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/39_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/039044.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/39_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/039044.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/39_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/039044.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/39_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/039044.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/39_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/039044.mp3"
+        }
+    },
+    "english": "Say, “All intercession belongs to Allah ˹alone˺. To Him belongs the kingdom of the heavens and the earth. Then to Him you will ˹all˺ be returned.”",
+    "arabic1": "قُل لِّلَّهِ ٱلشَّفَـٰعَةُ جَمِيعًا ۖ لَّهُۥ مُلْكُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۖ ثُمَّ إِلَيْهِ تُرْجَعُونَ",
+    "arabic2": "قل لله الشفاعة جميعا له ملك السماوات والارض ثم اليه ترجعون",
+    "bengali": "বল, ‘সকল সুপারিশ আল্লাহর মালিকানাধীন। আসমানসমূহ ও যমীনের রাজত্ব একমাত্র তাঁরই। তারপর তোমরা তাঁর কাছেই প্রত্যাবর্তিত হবে’।",
+    "urdu": "کہہ دو کہ سفارش تو سب خدا ہی کے اختیار میں ہے۔ اسی کے لئے آسمانوں اور زمین کی بادشاہت ہے۔ پھر تم اسی کی طرف لوٹ کر جاؤ گے"
+}

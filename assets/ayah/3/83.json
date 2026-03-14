@@ -1,0 +1,42 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 83,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/3_83.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/003083.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/3_83.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/003083.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/3_83.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/003083.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/3_83.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/003083.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/3_83.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/003083.mp3"
+        }
+    },
+    "english": "Do they desire a way other than Allah’s—knowing that all those in the heavens and the earth submit to His Will, willingly or unwillingly, and to Him they will ˹all˺ be returned?",
+    "arabic1": "أَفَغَيْرَ دِينِ ٱللَّهِ يَبْغُونَ وَلَهُۥٓ أَسْلَمَ مَن فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ طَوْعًا وَكَرْهًا وَإِلَيْهِ يُرْجَعُونَ",
+    "arabic2": "افغير دين الله يبغون وله اسلم من في السماوات والارض طوعا وكرها واليه يرجعون",
+    "bengali": "তারা কি আল্লাহর দীনের পরিবর্তে অন্য কিছু তালাশ করছে? অথচ আসমানসমূহ ও যমীনে যা আছে তা তাঁরই আনুগত্য করে ইচ্ছায় কিংবা অনিচ্ছায় এবং তাদেরকে তাঁরই নিকট প্রত্যাবর্তন করা হবে।",
+    "urdu": "کیا یہ (کافر) خدا کے دین کے سوا کسی اور دین کے طالب ہیں حالانکہ سب اہلِ آسمان و زمین خوشی یا زبردستی سے خدا کے فرماں بردار ہیں اور اسی کی طرف لوٹ کر جانے والے ہیں"
+}

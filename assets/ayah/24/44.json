@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Noor",
+    "surahNameArabic": "النور",
+    "surahNameArabicLong": "سورة النور",
+    "surahNameTranslation": "The Light",
+    "revelationPlace": "Madina",
+    "totalAyah": 64,
+    "surahNo": 24,
+    "ayahNo": 44,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/24_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/024044.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/24_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/024044.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/24_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/024044.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/24_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/024044.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/24_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/024044.mp3"
+        }
+    },
+    "english": "Allah alternates the day and night. Surely in this is a lesson for people of insight.",
+    "arabic1": "يُقَلِّبُ ٱللَّهُ ٱلَّيْلَ وَٱلنَّهَارَ ۚ إِنَّ فِى ذَٰلِكَ لَعِبْرَةً لِّأُو۟لِى ٱلْأَبْصَـٰرِ",
+    "arabic2": "يقلب الله الليل والنهار ان في ذلك لعبرة لاولي الابصار",
+    "bengali": "আল্লাহ দিন ও রাতের আবর্তন ঘটান, নিশ্চয়ই এতে অন্তরদৃষ্টিসম্পন্নদের জন্য শিক্ষা রয়েছে।",
+    "urdu": "اور خدا ہی رات اور دن کو بدلتا رہتا ہے۔ اہل بصارت کے لئے اس میں بڑی عبرت ہے"
+}

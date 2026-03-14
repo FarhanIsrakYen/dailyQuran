@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Qasas",
+    "surahNameArabic": "القصص",
+    "surahNameArabicLong": "سورة القصص",
+    "surahNameTranslation": "The Stories",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 28,
+    "ayahNo": 53,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/28_53.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/028053.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/28_53.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/028053.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/28_53.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/028053.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/28_53.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/028053.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/28_53.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/028053.mp3"
+        }
+    },
+    "english": "When it is recited to them, they declare, “We believe in it. This is definitely the truth from our Lord. We had already submitted ˹even˺ before this.”",
+    "arabic1": "وَإِذَا يُتْلَىٰ عَلَيْهِمْ قَالُوٓا۟ ءَامَنَّا بِهِۦٓ إِنَّهُ ٱلْحَقُّ مِن رَّبِّنَآ إِنَّا كُنَّا مِن قَبْلِهِۦ مُسْلِمِينَ",
+    "arabic2": "واذا يتلى عليهم قالوا امنا به انه الحق من ربنا انا كنا من قبله مسلمين",
+    "bengali": "আর যখন তাদের নিকট তা তিলাওয়াত করা হয় তখন তারা বলে, ‘আমরা এর প্রতি ঈমান এনেছি, নিশ্চয় তা সত্য আমাদের রবের পক্ষ থেকে। নিশ্চয় আমরা এর পূর্বেও আত্মসমর্পণকারী ছিলাম’।",
+    "urdu": "اور جب (قرآن) اُن کو پڑھ کر سنایا جاتا ہے تو کہتے ہیں کہ ہم اس پر ایمان لے آئے بیشک وہ ہمارے پروردگار کی طرف سے برحق ہے اور ہم تو اس سے پہلے کے حکمبردار ہیں"
+}

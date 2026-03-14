@@ -1,0 +1,42 @@
+{
+    "surahName": "Yaseen",
+    "surahNameArabic": "يس",
+    "surahNameArabicLong": "سورة يس",
+    "surahNameTranslation": "Yaseen",
+    "revelationPlace": "Mecca",
+    "totalAyah": 83,
+    "surahNo": 36,
+    "ayahNo": 56,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/36_56.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/036056.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/36_56.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/036056.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/36_56.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/036056.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/36_56.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/036056.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/36_56.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/036056.mp3"
+        }
+    },
+    "english": "They and their spouses will be in ˹cool˺ shade, reclining on ˹canopied˺ couches.",
+    "arabic1": "هُمْ وَأَزْوَٰجُهُمْ فِى ظِلَـٰلٍ عَلَى ٱلْأَرَآئِكِ مُتَّكِـُٔونَ",
+    "arabic2": "هم وازواجهم في ظلال على الارائك متكئون",
+    "bengali": "তারা ও তাদের স্ত্রীরা ছায়ার মধ্যে সুসজ্জিত আসনে হেলান দিয়ে উপবিষ্ট থাকবে।",
+    "urdu": "وہ بھی اور ان کی بیویاں بھی سایوں میں تختوں پر تکیے لگائے بیٹھے ہوں گے"
+}

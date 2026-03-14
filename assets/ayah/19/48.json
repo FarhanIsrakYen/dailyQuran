@@ -1,0 +1,42 @@
+{
+    "surahName": "Maryam",
+    "surahNameArabic": "مريم",
+    "surahNameArabicLong": "سورة مريم",
+    "surahNameTranslation": "Mary",
+    "revelationPlace": "Mecca",
+    "totalAyah": 98,
+    "surahNo": 19,
+    "ayahNo": 48,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/19_48.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/019048.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/19_48.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/019048.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/19_48.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/019048.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/19_48.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/019048.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/19_48.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/019048.mp3"
+        }
+    },
+    "english": "As I distance myself from ˹all of˺ you and from whatever you invoke besides Allah, I will ˹continue to˺ call upon my Lord ˹alone˺, trusting that I will never be disappointed in invoking my Lord.”",
+    "arabic1": "وَأَعْتَزِلُكُمْ وَمَا تَدْعُونَ مِن دُونِ ٱللَّهِ وَأَدْعُوا۟ رَبِّى عَسَىٰٓ أَلَّآ أَكُونَ بِدُعَآءِ رَبِّى شَقِيًّا",
+    "arabic2": "واعتزلكم وما تدعون من دون الله وادعو ربي عسى الا اكون بدعاء ربي شقيا",
+    "bengali": "‘আর আমি তোমাদের ও আল্লাহ ছাড়া যাদের ইবাদাত তোমরা কর তাদের পরিত্যাগ করছি এবং আমি আমার রবের ইবাদাত করছি। আশা করি আমার রবের ইবাদাত করে আমি ব্যর্থ হব না’।",
+    "urdu": "اور میں آپ لوگوں سے اور جن کو آپ خدا کے سوا پکارا کرتے ہیں ان سے کنارہ کرتا ہوں اور اپنے پروردگار ہی کو پکاروں گا۔ امید ہے کہ میں اپنے پروردگار کو پکار کر محروم نہیں رہوں گا"
+}

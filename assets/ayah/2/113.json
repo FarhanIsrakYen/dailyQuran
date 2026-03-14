@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 113,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_113.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002113.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_113.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002113.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_113.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002113.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_113.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002113.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_113.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002113.mp3"
+        }
+    },
+    "english": "The Jews say, “The Christians have nothing to stand on” and the Christians say, “The Jews have nothing to stand on,” although both recite the Scriptures. And those ˹pagans˺ who have no knowledge say the same ˹about people of faith˺. Surely Allah will judge between them on the Day of Judgment regarding their dispute.",
+    "arabic1": "وَقَالَتِ ٱلْيَهُودُ لَيْسَتِ ٱلنَّصَـٰرَىٰ عَلَىٰ شَىْءٍ وَقَالَتِ ٱلنَّصَـٰرَىٰ لَيْسَتِ ٱلْيَهُودُ عَلَىٰ شَىْءٍ وَهُمْ يَتْلُونَ ٱلْكِتَـٰبَ ۗ كَذَٰلِكَ قَالَ ٱلَّذِينَ لَا يَعْلَمُونَ مِثْلَ قَوْلِهِمْ ۚ فَٱللَّهُ يَحْكُمُ بَيْنَهُمْ يَوْمَ ٱلْقِيَـٰمَةِ فِيمَا كَانُوا۟ فِيهِ يَخْتَلِفُونَ",
+    "arabic2": "وقالت اليهود ليست النصارى على شيء وقالت النصارى ليست اليهود على شيء وهم يتلون الكتاب كذلك قال الذين لا يعلمون مثل قولهم فالله يحكم بينهم يوم القيامة فيما كانوا فيه يختلفون",
+    "bengali": "আর ইয়াহূদীরা বলে, ‘নাসারাদের কোন ভিত্তি নেই’ এবং নাসারারা বলে ‘ইয়াহূদীদের কোন ভিত্তি নেই’। অথচ তারা কিতাব পাঠ করে। এভাবেই, যারা কিছু জানে না, তারা তাদের কথার মত কথা বলে। সুতরাং যে বিষয়ে তারা মতবিরোধ করত আল্লাহ কিয়ামতের দিন সে বিষয়ে তাদের মধ্যে ফয়সালা করবেন।",
+    "urdu": "اور یہودی کہتے ہیں کہ عیسائی رستے پر نہیں اور عیسائی کہتے ہیں کہ یہودی رستے پر نہیں۔ حالانکہ وہ کتاب (الہٰی) پڑھتے ہیں۔ اسی طرح بالکل انہی کی سی بات وہ لوگ کہتے ہیں جو (کچھ) نہیں جانتے (یعنی مشرک) تو جس بات میں یہ لوگ اختلاف کر رہے خدا قیامت کے دن اس کا ان میں فیصلہ کر دے گا"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 19,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/6_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/006019.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/6_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/006019.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/6_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/006019.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/6_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/006019.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/6_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/006019.mp3"
+        }
+    },
+    "english": "Ask ˹them, O  Prophet˺, “Who is the best witness?” Say, “Allah is! He is a Witness between me and you. And this Quran has been revealed to me so that, with it, I may warn you and whoever it reaches. Do you ˹pagans˺ testify that there are other gods besides Allah?” ˹Then˺ say, “I will never testify ˹to this˺!” ˹And˺ say, “There is only One God. And I totally reject whatever ˹idols˺ you associate with Him.”",
+    "arabic1": "قُلْ أَىُّ شَىْءٍ أَكْبَرُ شَهَـٰدَةً ۖ قُلِ ٱللَّهُ ۖ شَهِيدٌۢ بَيْنِى وَبَيْنَكُمْ ۚ وَأُوحِىَ إِلَىَّ هَـٰذَا ٱلْقُرْءَانُ لِأُنذِرَكُم بِهِۦ وَمَنۢ بَلَغَ ۚ أَئِنَّكُمْ لَتَشْهَدُونَ أَنَّ مَعَ ٱللَّهِ ءَالِهَةً أُخْرَىٰ ۚ قُل لَّآ أَشْهَدُ ۚ قُلْ إِنَّمَا هُوَ إِلَـٰهٌ وَٰحِدٌ وَإِنَّنِى بَرِىٓءٌ مِّمَّا تُشْرِكُونَ",
+    "arabic2": "قل اي شيء اكبر شهادة قل الله شهيد بيني وبينكم واوحي الي هذا القران لانذركم به ومن بلغ ائنكم لتشهدون ان مع الله الهة اخرى قل لا اشهد قل انما هو اله واحد وانني بريء مما تشركون",
+    "bengali": "বল, ‘সাক্ষ্য হিসেবে সবচেয়ে বড় বস্তু কী?’ বল, ‘আল্লাহ সাক্ষী আমার ও তোমাদের মধ্যে। আর এ কুরআন আমার কাছে ওহী করে পাঠানো হয়েছে যেন তোমাদেরকে ও যার কাছে এটা পৌঁছবে তাদেরকে এর মাধ্যমে আমি সতর্ক করি। তোমরাই কি সাক্ষ্য দাও যে, আল্লাহর সাথে রয়েছে অন্যান্য উপাস্য? বল, ‘আমি সাক্ষ্য দেই না’। বল, ‘তিনি কেবল এক ইলাহ আর তোমরা যা শরীক কর আমি নিশ্চয়ই তা থেকে মুক্ত’।",
+    "urdu": "ان سے پوچھو کہ سب سے بڑھ کر (قرین انصاف) کس کی شہادت ہے کہہ دو کہ خدا ہی مجھ میں اور تم میں گواہ ہے اور یہ قرآن مجھ پر اس لیے اتارا گیا ہے کہ اس کے ذریعے سے تم کو اور جس شخص تک وہ پہنچ سکے آگاہ کردوں کیا تم لوگ اس بات کی شہادت دیتے ہو کہ خدا کے ساتھ اور بھی معبود ہیں (اے محمدﷺ!) کہہ دو کہ میں تو (ایسی) شہادت نہیں دیتا کہہ دو کہ صرف وہی ایک معبود ہے اور جن کو تم لوگ شریک بناتے ہو میں ان سے بیزار ہوں"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 145,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/7_145.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/007145.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/7_145.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/007145.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/7_145.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/007145.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/7_145.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/007145.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/7_145.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/007145.mp3"
+        }
+    },
+    "english": "We wrote for him on the Tablets ˹the fundamentals˺ of everything; commandments and explanations of all things. ˹We commanded,˺ “Hold to this firmly and ask your people to take the best of it. I will soon show ˹all of˺ you the home of the rebellious.",
+    "arabic1": "وَكَتَبْنَا لَهُۥ فِى ٱلْأَلْوَاحِ مِن كُلِّ شَىْءٍ مَّوْعِظَةً وَتَفْصِيلًا لِّكُلِّ شَىْءٍ فَخُذْهَا بِقُوَّةٍ وَأْمُرْ قَوْمَكَ يَأْخُذُوا۟ بِأَحْسَنِهَا ۚ سَأُو۟رِيكُمْ دَارَ ٱلْفَـٰسِقِينَ",
+    "arabic2": "وكتبنا له في الالواح من كل شيء موعظة وتفصيلا لكل شيء فخذها بقوة وامر قومك ياخذوا باحسنها ساريكم دار الفاسقين",
+    "bengali": "আর আমি তার জন্য ফলকসমূহে লিখে দিয়েছি প্রত্যেক বিষয়ের উপদেশ এবং প্রত্যেক বিষয়ের বিস্তারিত ব্যাখ্যা। সুতরাং তা শক্ত করে ধর এবং তোমার কওমকে নির্দেশ দাও, যেন তারা গ্রহণ করে এর উত্তম বিষয়গুলো। আমি অচিরেই তোমাদেরকে দেখাব ফাসিকদের আবাস।",
+    "urdu": "اور ہم نے (تورات) کی تختیوں میں ان کے لیے ہر قسم کی نصیحت اور ہر چیز کی تفصیل لکھ دی پھر (ارشاد فرمایا کہ) اسے زور سے پکڑے رہو اور اپنی قوم سے بھی کہہ دو کہ ان باتوں کو جو اس میں (مندرج ہیں اور) بہت بہتر ہیں پکڑے رہیں۔ میں عنقریب تم کو نافرمان لوگوں کا گھر دکھاؤں گا"
+}

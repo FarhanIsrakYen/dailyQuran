@@ -29,6 +29,8 @@
       "predictiveBackGestureEnabled": false,
       "permissions": [
         "android.permission.RECORD_AUDIO",
+        "android.permission.MODIFY_AUDIO_SETTINGS",
+        "android.permission.RECORD_AUDIO",
         "android.permission.MODIFY_AUDIO_SETTINGS"
       ]
     },
@@ -46,6 +48,12 @@
         "projectId": "60e1b6c9-1778-4b86-83da-f087dbbc57df"
       }
     },
-    "owner": "farhanisrak-dev"
+    "owner": "farhanisrak-dev",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/60e1b6c9-1778-4b86-83da-f087dbbc57df"
+    }
   }
 }

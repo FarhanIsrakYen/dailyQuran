@@ -1,0 +1,42 @@
+{
+    "surahName": "Ash-Shu'araa",
+    "surahNameArabic": "الشعراء",
+    "surahNameArabicLong": "سورة الشعراء",
+    "surahNameTranslation": "The Poets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 227,
+    "surahNo": 26,
+    "ayahNo": 52,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/26_52.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/026052.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/26_52.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/026052.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/26_52.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/026052.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/26_52.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/026052.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/26_52.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/026052.mp3"
+        }
+    },
+    "english": "And We inspired Moses, ˹saying,˺ “Leave with My servants at night, for you will surely be pursued.”",
+    "arabic1": "۞ وَأَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ أَنْ أَسْرِ بِعِبَادِىٓ إِنَّكُم مُّتَّبَعُونَ",
+    "arabic2": "واوحينا الى موسى ان اسر بعبادي انكم متبعون",
+    "bengali": "আর আমি মূসার প্রতি এ মর্মে ওহী পাঠিয়েছিলাম যে, ‘আমার বান্দাদের নিয়ে রাত্রিকালে যাত্রা শুরু কর, নিশ্চয়ই তোমাদের পিছু নেয়া হবে।’",
+    "urdu": "اور ہم نے موسیٰ کی طرف وحی بھیجی کہ ہمارے بندوں کو رات کو لے نکلو کہ (فرعونیوں کی طرف سے) تمہارا تعاقب کیا جائے گا"
+}

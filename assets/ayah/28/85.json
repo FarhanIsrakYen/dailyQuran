@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Qasas",
+    "surahNameArabic": "القصص",
+    "surahNameArabicLong": "سورة القصص",
+    "surahNameTranslation": "The Stories",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 28,
+    "ayahNo": 85,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/28_85.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/028085.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/28_85.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/028085.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/28_85.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/028085.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/28_85.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/028085.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/28_85.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/028085.mp3"
+        }
+    },
+    "english": "Most certainly, the One Who has ordained the Quran for you will ˹ultimately˺ bring you back home ˹to Mecca˺. Say, “My Lord knows best who has come with ˹true˺ guidance and who is clearly astray.”",
+    "arabic1": "إِنَّ ٱلَّذِى فَرَضَ عَلَيْكَ ٱلْقُرْءَانَ لَرَآدُّكَ إِلَىٰ مَعَادٍ ۚ قُل رَّبِّىٓ أَعْلَمُ مَن جَآءَ بِٱلْهُدَىٰ وَمَنْ هُوَ فِى ضَلَـٰلٍ مُّبِينٍ",
+    "arabic2": "ان الذي فرض عليك القران لرادك الى معاد قل ربي اعلم من جاء بالهدى ومن هو في ضلال مبين",
+    "bengali": "নিশ্চয় যিনি তোমার প্রতি কুরআনকে বিধানস্বরূপ দিয়েছেন, অবশ্যই তিনি তোমাকে প্রত্যাবর্তনস্থলে* ফিরিয়ে নেবেন। বল, ‘আমার রব বেশী জানেন, কে হিদায়াত নিয়ে এসেছে, আর কে রয়েছে স্পষ্ট পথভ্রষ্টতায়’। \n* معاد বা প্রত্যাবর্তনস্থল বলতে স্বদেশ অর্থাৎ মক্কা নগরী অথবা আখিরাতকে বুঝানো হয়েছে।",
+    "urdu": "(اے پیغمبر) جس (خدا) نے تم پر قرآن (کے احکام) کو فرض کیا ہے وہ تمہیں بازگشت کی جگہ لوٹا دے گا۔ کہہ دو کہ میرا پروردگار اس شخص کو بھی خوب جانتا ہے جو ہدایت لےکر آیا اور (اس کو بھی) جو صریح گمراہی میں ہے"
+}

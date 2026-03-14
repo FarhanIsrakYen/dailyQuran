@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Taghaabun",
+    "surahNameArabic": "التغابن",
+    "surahNameArabicLong": "سورة التغابن",
+    "surahNameTranslation": "Mutual Disillusion",
+    "revelationPlace": "Madina",
+    "totalAyah": 18,
+    "surahNo": 64,
+    "ayahNo": 16,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/64_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/064016.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/64_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/064016.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/64_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/064016.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/64_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/064016.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/64_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/064016.mp3"
+        }
+    },
+    "english": "So be mindful of Allah to the best of your ability, hear and obey, and spend in charity—that will be best for you. And whoever is saved from the selfishness of their own souls, it is they who are ˹truly˺ successful.",
+    "arabic1": "فَٱتَّقُوا۟ ٱللَّهَ مَا ٱسْتَطَعْتُمْ وَٱسْمَعُوا۟ وَأَطِيعُوا۟ وَأَنفِقُوا۟ خَيْرًا لِّأَنفُسِكُمْ ۗ وَمَن يُوقَ شُحَّ نَفْسِهِۦ فَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ",
+    "arabic2": "فاتقوا الله ما استطعتم واسمعوا واطيعوا وانفقوا خيرا لانفسكم ومن يوق شح نفسه فاولئك هم المفلحون",
+    "bengali": "অতএব তোমরা যথাসাধ্য আল্লাহকে ভয় কর, শ্রবণ কর, আনুগত্য কর এবং তোমাদের নিজদের কল্যাণে ব্যয় কর, আর যাদেরকে অন্তরের কার্পণ্য থেকে রক্ষা করা হয়, তারাই মূলত সফলকাম।",
+    "urdu": "سو جہاں تک ہوسکے خدا سے ڈرو اور (اس کے احکام کو) سنو اور (اس کے) فرمانبردار رہو اور (اس کی راہ میں) خرچ کرو (یہ) تمہارے حق میں بہتر ہے۔ اور جو شخص طبعیت کے بخل سے بچایا گیا تو ایسے ہی لوگ راہ پانے والے ہیں"
+}

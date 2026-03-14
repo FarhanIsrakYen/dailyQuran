@@ -1,0 +1,42 @@
+{
+    "surahName": "Nooh",
+    "surahNameArabic": "نوح",
+    "surahNameArabicLong": "سورة نوح",
+    "surahNameTranslation": "Noah",
+    "revelationPlace": "Mecca",
+    "totalAyah": 28,
+    "surahNo": 71,
+    "ayahNo": 25,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/71_25.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/071025.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/71_25.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/071025.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/71_25.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/071025.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/71_25.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/071025.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/71_25.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/071025.mp3"
+        }
+    },
+    "english": "So because of their sins, they were drowned, then admitted into the Fire. And they found none to help them against Allah.",
+    "arabic1": "مِّمَّا خَطِيٓـَٔـٰتِهِمْ أُغْرِقُوا۟ فَأُدْخِلُوا۟ نَارًا فَلَمْ يَجِدُوا۟ لَهُم مِّن دُونِ ٱللَّهِ أَنصَارًا",
+    "arabic2": "مما خطيئاتهم اغرقوا فادخلوا نارا فلم يجدوا لهم من دون الله انصارا",
+    "bengali": "তাদের পাপের কারণে তাদেরকে ডুবিয়ে দেয়া হল অতঃপর আগুনে প্রবেশ করানো হল; তারা নিজদের সাহায্যকারী হিসেবে আল্লাহ ছাড়া আর কাউকে পায়নি।",
+    "urdu": "(آخر) وہ اپنے گناہوں کے سبب پہلے غرقاب کردیئے گئے پھر آگ میں ڈال دیئے گئے۔ تو انہوں نے خدا کے سوا کسی کو اپنا مددگار نہ پایا"
+}

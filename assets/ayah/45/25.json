@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Jaathiya",
+    "surahNameArabic": "الجاثية",
+    "surahNameArabicLong": "سورة الجاثية",
+    "surahNameTranslation": "Crouching",
+    "revelationPlace": "Mecca",
+    "totalAyah": 37,
+    "surahNo": 45,
+    "ayahNo": 25,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/45_25.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/045025.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/45_25.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/045025.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/45_25.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/045025.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/45_25.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/045025.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/45_25.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/045025.mp3"
+        }
+    },
+    "english": "And whenever Our clear revelations are recited to them, their only argument is to say: “Bring our forefathers back, if what you say is true!”",
+    "arabic1": "وَإِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَـٰتُنَا بَيِّنَـٰتٍ مَّا كَانَ حُجَّتَهُمْ إِلَّآ أَن قَالُوا۟ ٱئْتُوا۟ بِـَٔابَآئِنَآ إِن كُنتُمْ صَـٰدِقِينَ",
+    "arabic2": "واذا تتلى عليهم اياتنا بينات ما كان حجتهم الا ان قالوا ائتوا بابائنا ان كنتم صادقين",
+    "bengali": "আর তাদের কাছে যখন আমার সুস্পষ্ট আয়াতসমূহ তিলাওয়াত করা হয়, তখন তাদের এ কথা বলা ছাড়া আর কোন যুক্তি থাকে না যে, ‘তোমরা সত্যবাদী হয়ে থাকলে আমাদের পিতৃপুরুষদের জীবিত করে নিয়ে এসো’।",
+    "urdu": "اور جب ان کے سامنے ہماری کھلی کھلی آیتیں پڑھی جاتی ہیں تو ان کی یہی حجت ہوتی ہے کہ اگر تم سچے ہو تو ہمارے باپ دادا کو (زندہ کر) لاؤ"
+}

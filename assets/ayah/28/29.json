@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Qasas",
+    "surahNameArabic": "القصص",
+    "surahNameArabicLong": "سورة القصص",
+    "surahNameTranslation": "The Stories",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 28,
+    "ayahNo": 29,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/28_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/028029.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/28_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/028029.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/28_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/028029.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/28_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/028029.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/28_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/028029.mp3"
+        }
+    },
+    "english": "When Moses had completed the term and was travelling with his family, he spotted a fire on the side of Mount Ṭûr. He said to his family, “Stay here, ˹for˺ I have spotted a fire. Perhaps from there I can bring you some directions or a torch from the fire so you may warm yourselves.”",
+    "arabic1": "۞ فَلَمَّا قَضَىٰ مُوسَى ٱلْأَجَلَ وَسَارَ بِأَهْلِهِۦٓ ءَانَسَ مِن جَانِبِ ٱلطُّورِ نَارًا قَالَ لِأَهْلِهِ ٱمْكُثُوٓا۟ إِنِّىٓ ءَانَسْتُ نَارًا لَّعَلِّىٓ ءَاتِيكُم مِّنْهَا بِخَبَرٍ أَوْ جَذْوَةٍ مِّنَ ٱلنَّارِ لَعَلَّكُمْ تَصْطَلُونَ",
+    "arabic2": "فلما قضى موسى الاجل وسار باهله انس من جانب الطور نارا قال لاهله امكثوا اني انست نارا لعلي اتيكم منها بخبر او جذوة من النار لعلكم تصطلون",
+    "bengali": "অতঃপর মূসা যখন মেয়াদ পূর্ণ করল এবং সপরিবারে যাত্রা করল, তখন সে তূর পর্বতের পাশে আগুন দেখতে পেল। সে তার পরিবার পরিজনকে বলল, ‘তোমরা অপেক্ষা কর, আমি আগুন দেখতে পেয়েছি, সম্ভবত আমি তা থেকে তোমাদের কাছে আনতে পারব কোন খবর, অথবা একটি জ্বলন্ত আঙ্গার; যাতে তোমরা আগুন পোহাতে পার’।",
+    "urdu": "جب موسٰی نے مدت پوری کردی اور اپنے گھر کے لوگوں کو لے کر چلے تو طور کی طرف سے آگ دکھائی دی تو اپنے گھر والوں سے کہنے لگے کہ تم یہاں ٹھیرو۔ مجھے آگ نظر آئی ہے شاید میں وہاں سے (رستے کا) کچھ پتہ لاؤں یا آگ کا انگارہ لے آؤں تاکہ تم تاپو"
+}

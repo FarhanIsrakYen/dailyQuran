@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Ahqaf",
+    "surahNameArabic": "الأحقاف",
+    "surahNameArabicLong": "سورة الأحقاف",
+    "surahNameTranslation": "The Dunes",
+    "revelationPlace": "Mecca",
+    "totalAyah": 35,
+    "surahNo": 46,
+    "ayahNo": 32,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/46_32.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/046032.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/46_32.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/046032.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/46_32.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/046032.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/46_32.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/046032.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/46_32.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/046032.mp3"
+        }
+    },
+    "english": "And whoever does not respond to the caller of Allah will have no escape on earth, nor will they have any protectors against Him. It is they who are clearly astray.”",
+    "arabic1": "وَمَن لَّا يُجِبْ دَاعِىَ ٱللَّهِ فَلَيْسَ بِمُعْجِزٍ فِى ٱلْأَرْضِ وَلَيْسَ لَهُۥ مِن دُونِهِۦٓ أَوْلِيَآءُ ۚ أُو۟لَـٰٓئِكَ فِى ضَلَـٰلٍ مُّبِينٍ",
+    "arabic2": "ومن لا يجب داعي الله فليس بمعجز في الارض وليس له من دونه اولياء اولئك في ضلال مبين",
+    "bengali": "আর যে আল্লাহর দিকে আহবানকারীর ডাকে সাড়া দেবে না সে যমীনে তাকে অপারগকারী নয়। আর আল্লাহ ছাড়া তার কোন অভিভাবক নেই। এরাই স্পষ্ট বিভ্রান্তির মধ্যে রয়েছে।",
+    "urdu": "اور جو شخص خدا کی طرف بلانے والے کی بات قبول نہ کرے گا تو وہ زمین میں (خدا کو) عاجز نہیں کرسکے گا اور نہ اس کے سوا اس کے حمایتی ہوں گے۔ یہ لوگ صریح گمراہی میں ہیں"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 149,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/4_149.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/004149.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/4_149.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/004149.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/4_149.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/004149.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/4_149.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/004149.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/4_149.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/004149.mp3"
+        }
+    },
+    "english": "Whether you reveal or conceal a good or pardon an evil—surely Allah is Ever-Pardoning, Most Capable.",
+    "arabic1": "إِن تُبْدُوا۟ خَيْرًا أَوْ تُخْفُوهُ أَوْ تَعْفُوا۟ عَن سُوٓءٍ فَإِنَّ ٱللَّهَ كَانَ عَفُوًّا قَدِيرًا",
+    "arabic2": "ان تبدوا خيرا او تخفوه او تعفوا عن سوء فان الله كان عفوا قديرا",
+    "bengali": "যদি তোমরা ভালো কিছু প্রকাশ কর, কিংবা গোপন কর অথবা মন্দ ক্ষমা করে দাও, তবে নিশ্চয় আল্লাহ ক্ষমাশীল, ক্ষমতাবান।",
+    "urdu": "اگر تم لوگ بھلائی کھلم کھلا کرو گے یا چھپا کر یا برائی سے درگزر کرو گے تو خدا بھی معاف کرنے والا (اور) صاحب قدرت ہے"
+}

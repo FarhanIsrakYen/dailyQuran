@@ -1,0 +1,42 @@
+{
+    "surahName": "Saba",
+    "surahNameArabic": "سبإ",
+    "surahNameArabicLong": "سورة سَبَأ",
+    "surahNameTranslation": "Sheba",
+    "revelationPlace": "Mecca",
+    "totalAyah": 54,
+    "surahNo": 34,
+    "ayahNo": 54,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/34_54.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/034054.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/34_54.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/034054.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/34_54.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/034054.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/34_54.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/034054.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/34_54.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/034054.mp3"
+        }
+    },
+    "english": "They will be sealed off from whatever they desire, as was done to their counterparts before. Indeed, they were ˹all˺ in alarming doubt.",
+    "arabic1": "وَحِيلَ بَيْنَهُمْ وَبَيْنَ مَا يَشْتَهُونَ كَمَا فُعِلَ بِأَشْيَاعِهِم مِّن قَبْلُ ۚ إِنَّهُمْ كَانُوا۟ فِى شَكٍّ مُّرِيبٍۭ",
+    "arabic2": "وحيل بينهم وبين ما يشتهون كما فعل باشياعهم من قبل انهم كانوا في شك مريب",
+    "bengali": "আর তাদের ও তারা যা কামনা করত তার মধ্যে অন্তরাল করে দেয়া হবে, যেমন ইতঃপূর্বে তাদের সমগোত্রীয়দের ক্ষেত্রে করা হয়েছিল। নিশ্চয় তারা ছিল বিভ্রান্তিকর সন্দেহে পতিত। \n* যমীনে যা প্রবেশ করে তন্মধ্যে রয়েছে বৃষ্টির পানি, বীজ ইত্যাদি। আর তা থেকে বের হয় অঙ্কুর, উদ্ভিদ ইত্যাদি। আসমান থেকে নাযিল হয় রিযক ও তাকদীর এবং আসমানে উঠে ফেরেশতা, রূহ প্রভৃতি।",
+    "urdu": "اور ان میں اور ان کی خواہش کی چیزوں میں پردہ حائل کردیا گیا جیسا کہ پہلے ان کے ہم جنسوں سے کیا گیا وہ بھی الجھن میں ڈالنے والے شک میں پڑے ہوئے تھے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Qasas",
+    "surahNameArabic": "القصص",
+    "surahNameArabicLong": "سورة القصص",
+    "surahNameTranslation": "The Stories",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 28,
+    "ayahNo": 4,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/28_4.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/028004.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/28_4.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/028004.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/28_4.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/028004.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/28_4.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/028004.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/28_4.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/028004.mp3"
+        }
+    },
+    "english": "Indeed, Pharaoh ˹arrogantly˺ elevated himself in the land and divided its people into ˹subservient˺ groups, one of which he persecuted, slaughtering their sons and keeping their women. He was truly one of the corruptors.",
+    "arabic1": "إِنَّ فِرْعَوْنَ عَلَا فِى ٱلْأَرْضِ وَجَعَلَ أَهْلَهَا شِيَعًا يَسْتَضْعِفُ طَآئِفَةً مِّنْهُمْ يُذَبِّحُ أَبْنَآءَهُمْ وَيَسْتَحْىِۦ نِسَآءَهُمْ ۚ إِنَّهُۥ كَانَ مِنَ ٱلْمُفْسِدِينَ",
+    "arabic2": "ان فرعون علا في الارض وجعل اهلها شيعا يستضعف طائفة منهم يذبح ابناءهم ويستحيي نساءهم انه كان من المفسدين",
+    "bengali": "নিশ্চয় ফির‘আউন (মিশর) দেশে উদ্ধত হয়েছিল এবং তার অধিবাসীকে নানা দলে বিভক্ত করেছিল। তাদের একদলকে সে দুর্বল করে রেখেছিল, যাদের পুত্রদেরকে সে হত্যা করত আর কন্যাদেরকে বাঁচিয়ে রাখত। নিশ্চয় সে ছিল বিপর্যয় সৃষ্টিকারীদের অন্যতম।",
+    "urdu": "کہ فرعون نے ملک میں سر اُٹھا رکھا تھا اور وہاں کے باشندوں کو گروہ گروہ بنا رکھا تھا اُن میں سے ایک گروہ کو (یہاں تک) کمزور کر دیا تھا کہ اُن کے بیٹوں کو ذبح کر ڈالتا اور اُن کی لڑکیوں کو زندہ رہنے دیتا۔ بیشک وہ مفسدوں میں تھا"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Fussilat",
+    "surahNameArabic": "فصلت",
+    "surahNameArabicLong": "سورة فصلت",
+    "surahNameTranslation": "Explained in detail",
+    "revelationPlace": "Mecca",
+    "totalAyah": 54,
+    "surahNo": 41,
+    "ayahNo": 29,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/41_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/041029.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/41_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/041029.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/41_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/041029.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/41_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/041029.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/41_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/041029.mp3"
+        }
+    },
+    "english": "The disbelievers will ˹then˺ cry, “Our Lord! Show us those jinn and humans who led us astray: we will put them under our feet so that they will be among the lowest ˹in Hell˺.”",
+    "arabic1": "وَقَالَ ٱلَّذِينَ كَفَرُوا۟ رَبَّنَآ أَرِنَا ٱلَّذَيْنِ أَضَلَّانَا مِنَ ٱلْجِنِّ وَٱلْإِنسِ نَجْعَلْهُمَا تَحْتَ أَقْدَامِنَا لِيَكُونَا مِنَ ٱلْأَسْفَلِينَ",
+    "arabic2": "وقال الذين كفروا ربنا ارنا اللذين اضلانا من الجن والانس نجعلهما تحت اقدامنا ليكونا من الاسفلين",
+    "bengali": "আর কাফিররা বলবে, ‘হে আমাদের রব, জিন ও মানুষের মধ্যে যারা আমাদেরকে পথভ্রষ্ট করেছে তাদেরকে আমাদের দেখিয়ে দিন। আমরা তাদের উভয়কে আমাদের পায়ের নীচে রাখব, যাতে তারা নিকৃষ্টদের অন্তর্ভুক্ত হয়।",
+    "urdu": "اور کافر کہیں گے کہ اے ہمارے پروردگار جنوں اور انسانوں میں سے جن لوگوں نے ہم کو گمراہ کیا تھا ان کو ہمیں دکھا کہ ہم ان کو اپنے پاؤں کے تلے (روند) ڈالیں تاکہ وہ نہایت ذلیل ہوں"
+}

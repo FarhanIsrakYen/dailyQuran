@@ -1,0 +1,42 @@
+{
+    "surahName": "Ghafir",
+    "surahNameArabic": "غافر",
+    "surahNameArabicLong": "سورة غافر",
+    "surahNameTranslation": "The Forgiver",
+    "revelationPlace": "Mecca",
+    "totalAyah": 85,
+    "surahNo": 40,
+    "ayahNo": 64,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/40_64.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/040064.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/40_64.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/040064.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/40_64.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/040064.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/40_64.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/040064.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/40_64.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/040064.mp3"
+        }
+    },
+    "english": "It is Allah Who made the earth a place of settlement for you and the sky a canopy. He shaped you ˹in the womb˺, perfecting your form. And He has provided you with what is good and lawful. That is Allah—your Lord. So Blessed is Allah, Lord of all worlds.",
+    "arabic1": "ٱللَّهُ ٱلَّذِى جَعَلَ لَكُمُ ٱلْأَرْضَ قَرَارًا وَٱلسَّمَآءَ بِنَآءً وَصَوَّرَكُمْ فَأَحْسَنَ صُوَرَكُمْ وَرَزَقَكُم مِّنَ ٱلطَّيِّبَـٰتِ ۚ ذَٰلِكُمُ ٱللَّهُ رَبُّكُمْ ۖ فَتَبَارَكَ ٱللَّهُ رَبُّ ٱلْعَـٰلَمِينَ",
+    "arabic2": "الله الذي جعل لكم الارض قرارا والسماء بناء وصوركم فاحسن صوركم ورزقكم من الطيبات ذلكم الله ربكم فتبارك الله رب العالمين",
+    "bengali": "আল্লাহ, যিনি তোমাদের জন্য যমীনকে স্থিতিশীল করেছেন এবং আসমানকে করেছেন ছাদ। আর তিনি তোমাদেরকে আকৃতি দিয়েছেন, অতঃপর তোমাদের আকৃতিকে সুন্দর করেছেন এবং তিনি পবিত্র বস্তু থেকে তোমাদেরকে রিয্ক দান করেছেন। তিনিই আল্লাহ, তোমাদের রব। সুতরাং সৃষ্টিকুলের রব আল্লাহ কত বরকতময়;",
+    "urdu": "خدا ہی تو ہے جس نے زمین کو تمہارے لئے ٹھیرنے کی جگہ اور آسمان کو چھت بنایا اور تمہاری صورتیں بنائیں اور صورتیں بھی خوب بنائیں اور تمہیں پاکیزہ چیزیں کھانے کو دیں۔ یہی خدا تمہارا پروردگار ہے۔ پس خدائے پروردگار عالم بہت ہی بابرکت ہے"
+}

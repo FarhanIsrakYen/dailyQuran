@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 179,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_179.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002179.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_179.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002179.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_179.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002179.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_179.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002179.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_179.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002179.mp3"
+        }
+    },
+    "english": "There is ˹security of˺ life for you in ˹the law of˺ retaliation, O  people of reason, so that you may become mindful ˹of Allah˺.",
+    "arabic1": "وَلَكُمْ فِى ٱلْقِصَاصِ حَيَوٰةٌ يَـٰٓأُو۟لِى ٱلْأَلْبَـٰبِ لَعَلَّكُمْ تَتَّقُونَ",
+    "arabic2": "ولكم في القصاص حياة يا اولي الالباب لعلكم تتقون",
+    "bengali": "আর হে বিবেকসম্পন্নগণ, কিসাসে রয়েছে তোমাদের জন্য জীবন, আশা করা যায় তোমরা তাকওয়া অবলম্বন করবে।",
+    "urdu": "اور اے اہل عقل (حکم) قصاص میں (تمہاری) زندگانی ہے کہ تم (قتل و خونریزی سے) بچو"
+}

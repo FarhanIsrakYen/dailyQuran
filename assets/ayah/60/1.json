@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Mumtahana",
+    "surahNameArabic": "الممتحنة",
+    "surahNameArabicLong": "سورة الممتحنة",
+    "surahNameTranslation": "She that is to be examined",
+    "revelationPlace": "Madina",
+    "totalAyah": 13,
+    "surahNo": 60,
+    "ayahNo": 1,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/60_1.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/060001.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/60_1.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/060001.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/60_1.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/060001.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/60_1.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/060001.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/60_1.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/060001.mp3"
+        }
+    },
+    "english": "O believers! Do not take My enemies and yours as trusted allies, showing them affection even though they deny what has come to you of the truth. They drove the Messenger and yourselves out ˹of Mecca˺, simply for your belief in Allah, your Lord. If you ˹truly˺ emigrated to struggle in My cause and seek My pleasure, ˹then do not take them as allies,˺ disclosing secrets ˹of the believers˺ to the pagans out of affection for them, when I know best whatever you conceal and whatever you reveal. And whoever of you does this has truly strayed from the Right Way.",
+    "arabic1": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَتَّخِذُوا۟ عَدُوِّى وَعَدُوَّكُمْ أَوْلِيَآءَ تُلْقُونَ إِلَيْهِم بِٱلْمَوَدَّةِ وَقَدْ كَفَرُوا۟ بِمَا جَآءَكُم مِّنَ ٱلْحَقِّ يُخْرِجُونَ ٱلرَّسُولَ وَإِيَّاكُمْ ۙ أَن تُؤْمِنُوا۟ بِٱللَّهِ رَبِّكُمْ إِن كُنتُمْ خَرَجْتُمْ جِهَـٰدًا فِى سَبِيلِى وَٱبْتِغَآءَ مَرْضَاتِى ۚ تُسِرُّونَ إِلَيْهِم بِٱلْمَوَدَّةِ وَأَنَا۠ أَعْلَمُ بِمَآ أَخْفَيْتُمْ وَمَآ أَعْلَنتُمْ ۚ وَمَن يَفْعَلْهُ مِنكُمْ فَقَدْ ضَلَّ سَوَآءَ ٱلسَّبِيلِ",
+    "arabic2": "يا ايها الذين امنوا لا تتخذوا عدوي وعدوكم اولياء تلقون اليهم بالمودة وقد كفروا بما جاءكم من الحق يخرجون الرسول واياكم ان تؤمنوا بالله ربكم ان كنتم خرجتم جهادا في سبيلي وابتغاء مرضاتي تسرون اليهم بالمودة وانا اعلم بما اخفيتم وما اعلنتم ومن يفعله منكم فقد ضل سواء السبيل",
+    "bengali": "হে ঈমানদারগণ, তোমরা আমার ও তোমাদের শত্রুদেরকে বন্ধুরূপে গ্রহণ করে তাদের প্রতি ভালোবাসা প্রদর্শন করো না, অথচ তোমাদের কাছে যে সত্য এসেছে তা তারা অস্বীকার করেছে এবং রাসূলকে ও তোমাদেরকে বের করে দিয়েছে এজন্য যে, তোমরা তোমাদের রব আল্লাহর প্রতি ঈমান এনেছ। তোমরা যদি আমার পথে সংগ্রামে ও আমার সন্তুষ্টির সন্ধানে বের হও (তবে কাফিরদেরকে বন্ধুরূপে গ্রহণ করো না) তোমরা গোপনে তাদের সাথে বন্ধুত্ব প্রকাশ কর অথচ তোমরা যা গোপন কর এবং যা প্রকাশ কর তা আমি জানি। তোমাদের মধ্যে যে এমন করবে সে সরল পথ হতে বিচ্যুত হবে।",
+    "urdu": "مومنو! اگر تم میری راہ میں لڑنے اور میری خوشنودی طلب کرنے کے لئے (مکے سے) نکلے ہو تو میرے اور اپنے دشمنوں کو دوست نہ بناؤ۔ تم تو ان کو دوستی کے پیغام بھیجتے ہو اور وہ (دین) حق سے جو تمہارے پاس آیا ہے منکر ہیں۔ اور اس باعث سے کہ تم اپنے پروردگار خدا تعالیٰ پر ایمان لائے ہو پیغمبر کو اور تم کو جلاوطن کرتے ہیں۔ تم ان کی طرف پوشیدہ پوشیدہ دوستی کے پیغام بھیجتے ہو۔ اور جو کچھ تم مخفی طور پر اور جو علیٰ الاعلان کرتے ہو وہ مجھے معلوم ہے۔ اور جو کوئی تم میں سے ایسا کرے گا وہ سیدھے راستے سے بھٹک گیا"
+}

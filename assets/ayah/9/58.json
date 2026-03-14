@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 58,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/9_58.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/009058.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/9_58.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/009058.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/9_58.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/009058.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/9_58.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/009058.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/9_58.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/009058.mp3"
+        }
+    },
+    "english": "There are some of them who are critical of your distribution of alms ˹O Prophet˺. If they are given some of it they are pleased, but if not they are enraged.",
+    "arabic1": "وَمِنْهُم مَّن يَلْمِزُكَ فِى ٱلصَّدَقَـٰتِ فَإِنْ أُعْطُوا۟ مِنْهَا رَضُوا۟ وَإِن لَّمْ يُعْطَوْا۟ مِنْهَآ إِذَا هُمْ يَسْخَطُونَ",
+    "arabic2": "ومنهم من يلمزك في الصدقات فان اعطوا منها رضوا وان لم يعطوا منها اذا هم يسخطون",
+    "bengali": "আর তাদের মধ্যে কেউ আছে, যে সদাকা বিষয়ে তোমাকে দোষারোপ করে। তবে যদি তাদেরকে তা থেকে দেয়া হয়, তারা সন্তুষ্ট থাকে, আর যদি তা থেকে দেয়া না হয়, তখন তারা অসন্তুষ্ট হয়।",
+    "urdu": "اور ان میں سے بعض اسے بھی ہیں کہ (تقسیم) صدقات میں تم پر طعنہ زنی کرتے ہیں۔ اگر ان کو اس میں سے (خاطر خواہ) مل جائے تو خوش رہیں اور اگر (اس قدر) نہ ملے تو جھٹ خفا ہو جائیں"
+}

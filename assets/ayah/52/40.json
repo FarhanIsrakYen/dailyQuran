@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Tur",
+    "surahNameArabic": "الطور",
+    "surahNameArabicLong": "سورة الطور",
+    "surahNameTranslation": "The Mount",
+    "revelationPlace": "Mecca",
+    "totalAyah": 49,
+    "surahNo": 52,
+    "ayahNo": 40,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/52_40.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/052040.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/52_40.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/052040.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/52_40.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/052040.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/52_40.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/052040.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/52_40.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/052040.mp3"
+        }
+    },
+    "english": "Or are you ˹O Prophet˺ asking them for a reward ˹for the message˺ so that they are overburdened by debt?",
+    "arabic1": "أَمْ تَسْـَٔلُهُمْ أَجْرًا فَهُم مِّن مَّغْرَمٍ مُّثْقَلُونَ",
+    "arabic2": "ام تسالهم اجرا فهم من مغرم مثقلون",
+    "bengali": "তবে কি তুমি তাদের কাছে প্রতিদান চাও যে, তারা তা ভারী জরিমানা মনে করে?",
+    "urdu": "(اے پیغمبر) کیا تم ان سے صلہ مانگتے ہو کہ ان پر تاوان کا بوجھ پڑ رہا ہے"
+}

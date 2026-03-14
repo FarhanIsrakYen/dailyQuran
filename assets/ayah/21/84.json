@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Anbiyaa",
+    "surahNameArabic": "الأنبياء",
+    "surahNameArabicLong": "سورة الأنبياء",
+    "surahNameTranslation": "The Prophets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 112,
+    "surahNo": 21,
+    "ayahNo": 84,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/21_84.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/021084.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/21_84.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/021084.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/21_84.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/021084.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/21_84.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/021084.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/21_84.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/021084.mp3"
+        }
+    },
+    "english": "So We answered his prayer and removed his adversity, and gave him back his family, twice as many, as a mercy from Us and a lesson for the ˹devoted˺ worshippers.",
+    "arabic1": "فَٱسْتَجَبْنَا لَهُۥ فَكَشَفْنَا مَا بِهِۦ مِن ضُرٍّ ۖ وَءَاتَيْنَـٰهُ أَهْلَهُۥ وَمِثْلَهُم مَّعَهُمْ رَحْمَةً مِّنْ عِندِنَا وَذِكْرَىٰ لِلْعَـٰبِدِينَ",
+    "arabic2": "فاستجبنا له فكشفنا ما به من ضر واتيناه اهله ومثلهم معهم رحمة من عندنا وذكرى للعابدين",
+    "bengali": "তখন আমি তার ডাকে সাড়া দিলাম। আর তার যত দুঃখ-কষ্ট ছিল তা দূর করে দিলাম এবং তার পরিবার-পরিজন তাকে দিয়ে দিলাম। আর তাদের সাথে তাদের মত আরো দিলাম আমার পক্ষ থেকে রহমত এবং ইবাদাতকারীদের জন্য উপদেশস্বরূপ।",
+    "urdu": "تو ہم نے ان کی دعا قبول کرلی اور جو ان کو تکلیف تھی وہ دور کردی اور ان کو بال بچے بھی عطا فرمائے اور اپنی مہربانی کے ساتھ اتنے ہی اور (بخشے) اور عبادت کرنے والوں کے لئے (یہ) نصیحت ہے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Waaqia",
+    "surahNameArabic": "الواقعة",
+    "surahNameArabicLong": "سورة الواقعة",
+    "surahNameTranslation": "The Inevitable",
+    "revelationPlace": "Mecca",
+    "totalAyah": 96,
+    "surahNo": 56,
+    "ayahNo": 19,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/56_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/056019.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/56_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/056019.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/56_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/056019.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/56_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/056019.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/56_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/056019.mp3"
+        }
+    },
+    "english": "that will cause them neither headache nor intoxication.",
+    "arabic1": "لَّا يُصَدَّعُونَ عَنْهَا وَلَا يُنزِفُونَ",
+    "arabic2": "لا يصدعون عنها ولا ينزفون",
+    "bengali": "তা পানে না তাদের মাথা ব্যথা করবে, আর না তারা মাতাল হবে।",
+    "urdu": "اس سے نہ تو سر میں درد ہوگا اور نہ ان کی عقلیں زائل ہوں گی"
+}

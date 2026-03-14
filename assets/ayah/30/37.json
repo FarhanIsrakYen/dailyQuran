@@ -1,0 +1,42 @@
+{
+    "surahName": "Ar-Room",
+    "surahNameArabic": "الروم",
+    "surahNameArabicLong": "سورة الروم",
+    "surahNameTranslation": "The Romans",
+    "revelationPlace": "Mecca",
+    "totalAyah": 60,
+    "surahNo": 30,
+    "ayahNo": 37,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/30_37.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/030037.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/30_37.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/030037.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/30_37.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/030037.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/30_37.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/030037.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/30_37.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/030037.mp3"
+        }
+    },
+    "english": "Have they not seen that Allah gives abundant or limited provisions to whoever He wills? Surely in this are signs for people who believe.",
+    "arabic1": "أَوَلَمْ يَرَوْا۟ أَنَّ ٱللَّهَ يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ وَيَقْدِرُ ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍ لِّقَوْمٍ يُؤْمِنُونَ",
+    "arabic2": "اولم يروا ان الله يبسط الرزق لمن يشاء ويقدر ان في ذلك لايات لقوم يؤمنون",
+    "bengali": "তারা কি দেখেনি, নিশ্চয় আল্লাহ যার জন্য ইচ্ছা রিয্ক প্রশস্ত করেন এবং সঙ্কুচিত করেন। নিশ্চয় এতে নিদর্শনাবলী রয়েছে সেই কওমের জন্য, যারা ঈমান আনে।",
+    "urdu": "کیا اُنہوں نے نہیں دیکھا کہ خدا ہی جس کے لئے چاہتا ہے رزق فراخ کرتا ہے اور( جس کے لئے چاہتا ہے) تنگ کرتا ہے۔ بیشک اس میں ایمان لانے والوں کے لئے نشانیاں ہیں"
+}

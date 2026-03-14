@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Noor",
+    "surahNameArabic": "النور",
+    "surahNameArabicLong": "سورة النور",
+    "surahNameTranslation": "The Light",
+    "revelationPlace": "Madina",
+    "totalAyah": 64,
+    "surahNo": 24,
+    "ayahNo": 37,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/24_37.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/024037.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/24_37.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/024037.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/24_37.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/024037.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/24_37.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/024037.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/24_37.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/024037.mp3"
+        }
+    },
+    "english": "by men who are not distracted—either by buying or selling—from Allah’s remembrance, or performing prayer, or paying alms-tax. They fear a Day when hearts and eyes will tremble",
+    "arabic1": "رِجَالٌ لَّا تُلْهِيهِمْ تِجَـٰرَةٌ وَلَا بَيْعٌ عَن ذِكْرِ ٱللَّهِ وَإِقَامِ ٱلصَّلَوٰةِ وَإِيتَآءِ ٱلزَّكَوٰةِ ۙ يَخَافُونَ يَوْمًا تَتَقَلَّبُ فِيهِ ٱلْقُلُوبُ وَٱلْأَبْصَـٰرُ",
+    "arabic2": "رجال لا تلهيهم تجارة ولا بيع عن ذكر الله واقام الصلاة وايتاء الزكاة يخافون يوما تتقلب فيه القلوب والابصار",
+    "bengali": "সেসব লোক, যাদেরকে ব্যবসা-বাণিজ্য ও ক্রয়-বিক্রয় আল্লাহর যিক্র, সালাত কায়েম করা ও যাকাত প্রদান করা থেকে বিরত রাখে না। তারা সেদিনকে ভয় করে, যেদিন অন্তর ও দৃষ্টিসমূহ উল্টে যাবে।",
+    "urdu": "(یعنی ایسے) لوگ جن کو خدا کے ذکر اور نماز پڑھنے اور زکوٰة دینے سے نہ سوداگری غافل کرتی ہے نہ خرید وفروخت۔ وہ اس دن سے جب دل (خوف اور گھبراہٹ کے سبب) الٹ جائیں گے اور آنکھیں (اوپر کو چڑھ جائیں گی) ڈرتے ہیں"
+}

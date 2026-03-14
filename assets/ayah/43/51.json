@@ -1,0 +1,42 @@
+{
+    "surahName": "Az-Zukhruf",
+    "surahNameArabic": "الزخرف",
+    "surahNameArabicLong": "سورة الزخرف",
+    "surahNameTranslation": "Ornaments of gold",
+    "revelationPlace": "Mecca",
+    "totalAyah": 89,
+    "surahNo": 43,
+    "ayahNo": 51,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/43_51.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/043051.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/43_51.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/043051.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/43_51.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/043051.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/43_51.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/043051.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/43_51.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/043051.mp3"
+        }
+    },
+    "english": "And Pharaoh called out to his people, boasting, “O my people! Am I not sovereign over Egypt as well as ˹all˺ these streams flowing at my feet? Can you not see?",
+    "arabic1": "وَنَادَىٰ فِرْعَوْنُ فِى قَوْمِهِۦ قَالَ يَـٰقَوْمِ أَلَيْسَ لِى مُلْكُ مِصْرَ وَهَـٰذِهِ ٱلْأَنْهَـٰرُ تَجْرِى مِن تَحْتِىٓ ۖ أَفَلَا تُبْصِرُونَ",
+    "arabic2": "ونادى فرعون في قومه قال يا قوم اليس لي ملك مصر وهذه الانهار تجري من تحتي افلا تبصرون",
+    "bengali": "আর ফির‘আউন তার কওমের মধ্যে ঘোষণা দিয়ে বলল, ‘হে আমার কওম, মিসরের রাজত্ব কি আমার নয়? আর এ সব নদ-নদী কি আমার পাদদেশ দিয়ে প্রবাহিত হচ্ছে না, তোমরা কি দেখছ না’?",
+    "urdu": "اور فرعون نے اپنی قوم سے پکار کر کہا کہ اے قوم کیا مصر کی حکومت میرے ہاتھ میں نہیں ہے۔ اور یہ نہریں جو میرے (محلوں کے) نیچے بہہ رہی ہیں (میری نہیں ہیں) کیا تم دیکھتے نہیں"
+}

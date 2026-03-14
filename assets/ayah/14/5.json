@@ -1,0 +1,42 @@
+{
+    "surahName": "Ibrahim",
+    "surahNameArabic": "ابراهيم",
+    "surahNameArabicLong": "سورة ابراهيم",
+    "surahNameTranslation": "Abraham",
+    "revelationPlace": "Mecca",
+    "totalAyah": 52,
+    "surahNo": 14,
+    "ayahNo": 5,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/14_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/014005.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/14_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/014005.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/14_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/014005.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/14_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/014005.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/14_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/014005.mp3"
+        }
+    },
+    "english": "Indeed, We sent Moses with Our signs, ˹ordering him,˺ “Lead your people out of darkness and into light, and remind them of Allah’s days ˹of favour˺.” Surely in this are signs for whoever is steadfast, grateful.",
+    "arabic1": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَآ أَنْ أَخْرِجْ قَوْمَكَ مِنَ ٱلظُّلُمَـٰتِ إِلَى ٱلنُّورِ وَذَكِّرْهُم بِأَيَّىٰمِ ٱللَّهِ ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍ لِّكُلِّ صَبَّارٍ شَكُورٍ",
+    "arabic2": "ولقد ارسلنا موسى باياتنا ان اخرج قومك من الظلمات الى النور وذكرهم بايام الله ان في ذلك لايات لكل صبار شكور",
+    "bengali": "আর আমি মূসাকে আমার আয়াতসমূহ দিয়ে পাঠিয়েছি যে, ‘তুমি তোমার কওমকে অন্ধকার হতে আলোর দিকে বের করে আন এবং আল্লাহর দিবসসমূহ* তাদের স্মরণ করিয়ে দাও’। নিশ্চয় এতে প্রতিটি ধৈর্যশীল, কৃতজ্ঞ ব্যক্তির জন্য রয়েছে অসংখ্য নিদর্শন। \n* দিবসসমূহ দ্বারা উদ্দেশ্য ইতঃপূর্বের ঐতিহাসিক ঘটনাসমূহ।",
+    "urdu": "اور ہم نے موسیٰ کو اپنی نشانیاں دے کر بھیجا کہ اپنی قوم کو تاریکی سے نکال کر روشنی میں لے جاؤ۔ اور ان کو خدا کے دن یاد دلاؤ اس میں ان لوگوں کے لیے جو صابر وشاکر ہیں (قدرت خدا کی) نشانیاں ہیں"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 31,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/6_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/006031.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/6_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/006031.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/6_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/006031.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/6_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/006031.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/6_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/006031.mp3"
+        }
+    },
+    "english": "Losers indeed are those who deny the meeting with Allah until the Hour takes them by surprise, then they will cry, “Woe to us for having ignored this!” They will bear ˹the burden of˺ their sins on their backs. Evil indeed is their burden!",
+    "arabic1": "قَدْ خَسِرَ ٱلَّذِينَ كَذَّبُوا۟ بِلِقَآءِ ٱللَّهِ ۖ حَتَّىٰٓ إِذَا جَآءَتْهُمُ ٱلسَّاعَةُ بَغْتَةً قَالُوا۟ يَـٰحَسْرَتَنَا عَلَىٰ مَا فَرَّطْنَا فِيهَا وَهُمْ يَحْمِلُونَ أَوْزَارَهُمْ عَلَىٰ ظُهُورِهِمْ ۚ أَلَا سَآءَ مَا يَزِرُونَ",
+    "arabic2": "قد خسر الذين كذبوا بلقاء الله حتى اذا جاءتهم الساعة بغتة قالوا يا حسرتنا على ما فرطنا فيها وهم يحملون اوزارهم على ظهورهم الا ساء ما يزرون",
+    "bengali": "যারা আল্লাহর সাক্ষাৎ অস্বীকার করেছে তারা অবশ্যই ক্ষতিগ্রস্ত হয়েছে, এমনকি যখন হঠাৎ তাদের কাছে কিয়ামত এসে যাবে, তারা বলবে, ‘হায় আফসোস! সেখানে আমরা যে ত্রুটি করেছি তার উপর।’ তারা তাদের পাপসমূহ তাদের পিঠে বহন করবে; সাবধান! তারা যা বহন করবে তা কত নিকৃষ্ট!",
+    "urdu": "جن لوگوں نے خدا کے روبرو حاضر ہونے کو جھوٹ سمجھا وہ گھاٹے میں آگئے۔ یہاں تک کہ جب ان پر قیامت ناگہاں آموجود ہوگی تو بول اٹھیں گے کہ (ہائے) اس تقصیر پر افسوس ہے جو ہم نے قیامت کے بارے میں کی۔ اور وہ اپنے (اعمال کے) بوجھ اپنی پیٹھوں پر اٹھائے ہوئے ہوں گے۔ دیکھو جو بوجھ یہ اٹھا رہے ہیں بہت برا ہے"
+}

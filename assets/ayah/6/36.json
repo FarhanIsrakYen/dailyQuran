@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 36,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/6_36.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/006036.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/6_36.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/006036.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/6_36.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/006036.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/6_36.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/006036.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/6_36.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/006036.mp3"
+        }
+    },
+    "english": "Only the attentive will respond ˹to your call˺. As for the dead, Allah will raise them up, then to Him they will ˹all˺ be returned.",
+    "arabic1": "۞ إِنَّمَا يَسْتَجِيبُ ٱلَّذِينَ يَسْمَعُونَ ۘ وَٱلْمَوْتَىٰ يَبْعَثُهُمُ ٱللَّهُ ثُمَّ إِلَيْهِ يُرْجَعُونَ",
+    "arabic2": "انما يستجيب الذين يسمعون والموتى يبعثهم الله ثم اليه يرجعون",
+    "bengali": "তারাই সাড়া দেয় যারা শুনে। আর মৃতদেরকে আল্লাহ পুনরায় জীবিত করবেন। তারপর তার দিকেই প্রত্যাবর্তিত হবে।",
+    "urdu": "بات یہ ہے کہ (حق کو) قبول وہی کرتے ہیں جو سنتے بھی ہیں اور مردوں کو تو خدا (قیامت ہی کو) اٹھائے گا۔ پھر اسی کی طرف لوٹ کر جائیں گے"
+}

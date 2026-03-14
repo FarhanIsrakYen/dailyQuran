@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Ankaboot",
+    "surahNameArabic": "العنكبوت",
+    "surahNameArabicLong": "سورة العنكبوت",
+    "surahNameTranslation": "The Spider",
+    "revelationPlace": "Mecca",
+    "totalAyah": 69,
+    "surahNo": 29,
+    "ayahNo": 33,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/29_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/029033.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/29_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/029033.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/29_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/029033.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/29_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/029033.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/29_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/029033.mp3"
+        }
+    },
+    "english": "And when Our messenger-angels came to Lot, he was distressed and worried by their arrival. They reassured ˹him˺, “Do not fear, nor grieve. We will surely deliver you and your family—except your wife, who is one of the doomed.",
+    "arabic1": "وَلَمَّآ أَن جَآءَتْ رُسُلُنَا لُوطًا سِىٓءَ بِهِمْ وَضَاقَ بِهِمْ ذَرْعًا وَقَالُوا۟ لَا تَخَفْ وَلَا تَحْزَنْ ۖ إِنَّا مُنَجُّوكَ وَأَهْلَكَ إِلَّا ٱمْرَأَتَكَ كَانَتْ مِنَ ٱلْغَـٰبِرِينَ",
+    "arabic2": "ولما ان جاءت رسلنا لوطا سيء بهم وضاق بهم ذرعا وقالوا لا تخف ولا تحزن انا منجوك واهلك الا امراتك كانت من الغابرين",
+    "bengali": "আর যখন আমার ফেরেশতারা লূতের কাছে আসল তখন তাদের জন্য সে চিন্তিত হয়ে পড়ল এবং তাদের রক্ষায় নিজেকে অক্ষম মনে করল; আর তারা বলল, ‘ভয় পাবেন না এবং চিন্তিত হবেন না; আপনাকে ও আপনার পরিবারকে আমরা রক্ষা করব; তবে আপনার স্ত্রীকে নয়, সে ধ্বংসপ্রাপ্তদের একজন হবে’।",
+    "urdu": "اور جب ہمارے فرشتے لوط کے پاس آئے تو وہ اُن (کی وجہ) سے ناخوش اور تنگ دل ہوئے۔ فرشتوں نے کہا کچھ خوف نہ کیجئے۔ اور نہ رنج کیجئے ہم آپ کو اور آپ کے گھر والوں کو بچالیں گے مگر آپ کی بیوی کہ پیچھے رہنے والوں میں ہوگی"
+}

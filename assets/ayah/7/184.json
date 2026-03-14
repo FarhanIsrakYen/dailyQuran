@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 184,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/7_184.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/007184.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/7_184.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/007184.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/7_184.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/007184.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/7_184.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/007184.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/7_184.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/007184.mp3"
+        }
+    },
+    "english": "Have they not ever given it a thought? Their fellow man is not insane. He is only sent with a clear warning.",
+    "arabic1": "أَوَلَمْ يَتَفَكَّرُوا۟ ۗ مَا بِصَاحِبِهِم مِّن جِنَّةٍ ۚ إِنْ هُوَ إِلَّا نَذِيرٌ مُّبِينٌ",
+    "arabic2": "اولم يتفكروا ما بصاحبهم من جنة ان هو الا نذير مبين",
+    "bengali": "তারা কি চিন্তা করেনি যে, তাদের সঙ্গীর মধ্যে কোন মস্তিষ্ক বিকৃতি নেই; সে তো স্পষ্ট সতর্ককারী।",
+    "urdu": "کیا انہوں نے غور نہیں کیا کہ ان کے رفیق محمد (ﷺ) کو (کسی طرح کا بھی) جنون نہیں ہے۔ وہ تو ظاہر ظہور ڈر سنانے والے ہیں"
+}

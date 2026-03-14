@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 142,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/6_142.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/006142.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/6_142.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/006142.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/6_142.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/006142.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/6_142.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/006142.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/6_142.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/006142.mp3"
+        }
+    },
+    "english": "Some cattle are fit for labour, others are too small. Eat of what Allah has provided for you and do not follow Satan’s footsteps. Certainly, he is your sworn enemy.",
+    "arabic1": "وَمِنَ ٱلْأَنْعَـٰمِ حَمُولَةً وَفَرْشًا ۚ كُلُوا۟ مِمَّا رَزَقَكُمُ ٱللَّهُ وَلَا تَتَّبِعُوا۟ خُطُوَٰتِ ٱلشَّيْطَـٰنِ ۚ إِنَّهُۥ لَكُمْ عَدُوٌّ مُّبِينٌ",
+    "arabic2": "ومن الانعام حمولة وفرشا كلوا مما رزقكم الله ولا تتبعوا خطوات الشيطان انه لكم عدو مبين",
+    "bengali": "আর চতুষ্পদ জন্তু থেকে (কিছুকে সৃষ্টি করেছেন) বোঝা বহনকারী ও ক্ষুদ্রাকৃতির। তোমরা আহার কর তা থেকে, যা আল্লাহ তোমাদেরকে রিয্ক দিয়েছেন এবং শয়তানের পদাঙ্ক অনুসরণ করো না। নিশ্চয় সে তোমাদের জন্য স্পষ্ট শত্রু।",
+    "urdu": "اور چارپایوں میں بوجھ اٹھانے والے (یعنی بڑے بڑے) بھی پیدا کئے اور زمین سے لگے ہوئے (یعنی چھوٹے چھوٹے) بھی (پس) خدا کا دیا ہوا رزق کھاؤ اور شیطان کے قدموں پر نہ چلو وہ تمہارا صریح دشمن ہے"
+}

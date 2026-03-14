@@ -1,0 +1,42 @@
+{
+    "surahName": "Faatir",
+    "surahNameArabic": "فاطر",
+    "surahNameArabicLong": "سورة فاطر",
+    "surahNameTranslation": "The Originator",
+    "revelationPlace": "Mecca",
+    "totalAyah": 45,
+    "surahNo": 35,
+    "ayahNo": 25,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/35_25.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/035025.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/35_25.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/035025.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/35_25.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/035025.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/35_25.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/035025.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/35_25.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/035025.mp3"
+        }
+    },
+    "english": "If they deny you, so did those before them. Their messengers came to them with clear proofs, divine Books, and enlightening Scriptures.",
+    "arabic1": "وَإِن يُكَذِّبُوكَ فَقَدْ كَذَّبَ ٱلَّذِينَ مِن قَبْلِهِمْ جَآءَتْهُمْ رُسُلُهُم بِٱلْبَيِّنَـٰتِ وَبِٱلزُّبُرِ وَبِٱلْكِتَـٰبِ ٱلْمُنِيرِ",
+    "arabic2": "وان يكذبوك فقد كذب الذين من قبلهم جاءتهم رسلهم بالبينات وبالزبر وبالكتاب المنير",
+    "bengali": "আর তারা যদি তোমাকে মিথ্যাবাদী বলে তবে তাদের পূর্বে যারা ছিল তারাও মিথ্যাবাদী বলেছিল; তাদের নিকট স্পষ্ট প্রমাণাদি, গ্রন্থাবলী ও আলোকদীপ্ত কিতাবসহ রাসূলগণ এসেছিলেন।",
+    "urdu": "اور اگر یہ تمہاری تکذیب کریں تو جو لوگ ان سے پہلے تھے وہ بھی تکذیب کرچکے ہیں ان کے پاس ان کے پیغمبر نشانیاں اور صحیفے اور روشن کتابیں لے لے کر آتے رہے"
+}

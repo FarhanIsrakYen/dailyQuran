@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nahl",
+    "surahNameArabic": "النحل",
+    "surahNameArabicLong": "سورة النحل",
+    "surahNameTranslation": "The Bee",
+    "revelationPlace": "Mecca",
+    "totalAyah": 128,
+    "surahNo": 16,
+    "ayahNo": 81,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/16_81.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/016081.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/16_81.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/016081.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/16_81.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/016081.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/16_81.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/016081.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/16_81.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/016081.mp3"
+        }
+    },
+    "english": "And Allah has provided you shade out of what He created, and has given you shelter in the mountains. He has also provided you with clothes protecting you from the heat ˹and cold˺, and armour shielding you in battle. This is how He perfects His favour upon you, so perhaps you will ˹fully˺ submit ˹to Him˺.",
+    "arabic1": "وَٱللَّهُ جَعَلَ لَكُم مِّمَّا خَلَقَ ظِلَـٰلًا وَجَعَلَ لَكُم مِّنَ ٱلْجِبَالِ أَكْنَـٰنًا وَجَعَلَ لَكُمْ سَرَٰبِيلَ تَقِيكُمُ ٱلْحَرَّ وَسَرَٰبِيلَ تَقِيكُم بَأْسَكُمْ ۚ كَذَٰلِكَ يُتِمُّ نِعْمَتَهُۥ عَلَيْكُمْ لَعَلَّكُمْ تُسْلِمُونَ",
+    "arabic2": "والله جعل لكم مما خلق ظلالا وجعل لكم من الجبال اكنانا وجعل لكم سرابيل تقيكم الحر وسرابيل تقيكم باسكم كذلك يتم نعمته عليكم لعلكم تسلمون",
+    "bengali": "আর আল্লাহ যা সৃষ্টি করেছেন, তা থেকে তোমাদের জন্য ছায়ার ব্যবস্থা করেছেন এবং পাহাড় থেকে তোমাদের জন্য আশ্রয়স্থল বানিয়েছেন, আর ব্যবস্থা করেছেন পোশাকের, যা তোমাদেরকে গরম থেকে রক্ষা করে এবং বর্মেরও ব্যবস্থা করেছেন যা তোমাদেরকে রক্ষা করে তোমাদের যুদ্ধে। এভাবেই তিনি তোমাদের উপর তার নিআমতকে পূর্ণ করবেন, যাতে তোমরা অনুগত হও।",
+    "urdu": "اور خدا ہی نے تمہارے (آرام کے) لیے اپنی پیدا کی ہوئی چیزوں کے سائے بنائے اور پہاڑوں میں غاریں بنائیں اور کُرتے بنائے جو تم کو گرمی سے بچائیں۔ اور (ایسے) کُرتے (بھی) جو تم کو اسلحہ جنگ (کے ضرر) سے محفوظ رکھیں۔ اسی طرح خدا اپنا احسان تم پر پورا کرتا ہے تاکہ تم فرمانبردار بنو"
+}

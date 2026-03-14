@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 49,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/6_49.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/006049.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/6_49.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/006049.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/6_49.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/006049.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/6_49.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/006049.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/6_49.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/006049.mp3"
+        }
+    },
+    "english": "But those who deny Our signs will be afflicted with punishment for their rebelliousness.",
+    "arabic1": "وَٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَـٰتِنَا يَمَسُّهُمُ ٱلْعَذَابُ بِمَا كَانُوا۟ يَفْسُقُونَ",
+    "arabic2": "والذين كذبوا باياتنا يمسهم العذاب بما كانوا يفسقون",
+    "bengali": "আর যারা আমার আয়াতসমূহকে অস্বীকার করেছে তাদেরকে স্পর্শ করবে আযাব, এ কারণে যে, তারা নাফরমানী করত।",
+    "urdu": "اور جنہوں نے ہماری آیتوں کو جھٹلایا ان کی نافرمانیوں کے سبب انہیں عذاب ہوگا"
+}

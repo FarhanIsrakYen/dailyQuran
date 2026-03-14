@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 38,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/7_38.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/007038.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/7_38.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/007038.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/7_38.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/007038.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/7_38.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/007038.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/7_38.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/007038.mp3"
+        }
+    },
+    "english": "Allah will say, “Enter the Fire along with the ˹evil˺ groups of jinn and humans that preceded you.” Whenever a group enters Hell, it will curse the preceding one until they are all gathered inside, the followers will say about their leaders, “Our Lord! They have misled us, so multiply their torment in the Fire.” He will answer, “It has already been multiplied for all, but you do not know.”",
+    "arabic1": "قَالَ ٱدْخُلُوا۟ فِىٓ أُمَمٍ قَدْ خَلَتْ مِن قَبْلِكُم مِّنَ ٱلْجِنِّ وَٱلْإِنسِ فِى ٱلنَّارِ ۖ كُلَّمَا دَخَلَتْ أُمَّةٌ لَّعَنَتْ أُخْتَهَا ۖ حَتَّىٰٓ إِذَا ٱدَّارَكُوا۟ فِيهَا جَمِيعًا قَالَتْ أُخْرَىٰهُمْ لِأُولَىٰهُمْ رَبَّنَا هَـٰٓؤُلَآءِ أَضَلُّونَا فَـَٔاتِهِمْ عَذَابًا ضِعْفًا مِّنَ ٱلنَّارِ ۖ قَالَ لِكُلٍّ ضِعْفٌ وَلَـٰكِن لَّا تَعْلَمُونَ",
+    "arabic2": "قال ادخلوا في امم قد خلت من قبلكم من الجن والانس في النار كلما دخلت امة لعنت اختها حتى اذا اداركوا فيها جميعا قالت اخراهم لاولاهم ربنا هؤلاء اضلونا فاتهم عذابا ضعفا من النار قال لكل ضعف ولكن لا تعلمون",
+    "bengali": "তিনি বলবেন, ‘আগুনে প্রবেশ কর জিন ও মানুষের দলগুলোর সাথে, যারা তোমাদের পূর্বে গত হয়েছে’। যখনই একটি দল প্রবেশ করবে, তখন পূর্বের দলকে তারা লা‘নত করবে। অবশেষে যখন তারা সবাই তাতে একত্রিত হবে তখন তাদের পরবর্তী দলটি পূর্বের দল সম্পর্কে বলবে, ‘হে আমাদের রব, এরা আমাদেরকে পথভ্রষ্ট করেছে। তাই আপনি তাদেরকে আগুনের দ্বিগুণ আযাব দিন’। তিনি বলবেন, ‘সবার জন্য দ্বিগুণ, কিন্তু তোমরা জান না’।",
+    "urdu": "تو خدا فرمائے گا کہ جنّوں اور انسانوں کی جو جماعتیں تم سے پہلے ہو گزری ہیں ان کے ساتھ تم بھی داخل جہنم ہو جاؤ۔ جب ایک جماعت (وہاں) جا داخل ہو گئی تو اپنی (مذہبی) بہن (یعنی اپنے جیسی دوسری جماعت) پر لعنت کرے گی۔ یہاں تک کہ جب سب اس میں داخل ہو جائیں گے تو پچھلی جماعت پہلی کی نسبت کہے گی کہ اے پروردگار! ان ہی لوگوں نے ہم کو گمراہ کیا تھا تو ان کو آتش جہنم کا دگنا عذاب دے۔ خدا فرمائے گا کہ (تم) سب کو دگنا (عذاب دیا جائے گا) مگر تم نہیں جانتے"
+}

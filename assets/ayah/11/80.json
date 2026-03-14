@@ -1,0 +1,42 @@
+{
+    "surahName": "Hud",
+    "surahNameArabic": "هود",
+    "surahNameArabicLong": "سورة هود",
+    "surahNameTranslation": "Hud",
+    "revelationPlace": "Mecca",
+    "totalAyah": 123,
+    "surahNo": 11,
+    "ayahNo": 80,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/11_80.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/011080.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/11_80.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/011080.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/11_80.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/011080.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/11_80.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/011080.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/11_80.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/011080.mp3"
+        }
+    },
+    "english": "He responded, “If only I had the strength ˹to resist you˺ or could rely on a strong supporter.”",
+    "arabic1": "قَالَ لَوْ أَنَّ لِى بِكُمْ قُوَّةً أَوْ ءَاوِىٓ إِلَىٰ رُكْنٍ شَدِيدٍ",
+    "arabic2": "قال لو ان لي بكم قوة او اوي الى ركن شديد",
+    "bengali": "সে বলল, ‘তোমাদের প্রতিরোধে যদি আমার কোন শক্তি থাকত অথবা আমি কোন সুদৃঢ় স্তম্ভের আশ্রয় নিতে পারতাম’*! \n*‘সুদৃঢ় স্তম্ভ’ বলতে শক্তিশালী সৈন্যসামন্ত কিংবা কওম অথবা গোত্র বুঝানো হয়েছে।",
+    "urdu": "لوط نے کہا اے کاش مجھ میں تمہارے مقابلے کی طاقت ہوتی یا کسی مضبوط قلعے میں پناہ پکڑ سکتا"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Yusuf",
+    "surahNameArabic": "يوسف",
+    "surahNameArabicLong": "سورة يوسف",
+    "surahNameTranslation": "Joseph",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 12,
+    "ayahNo": 17,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/12_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/012017.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/12_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/012017.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/12_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/012017.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/12_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/012017.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/12_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/012017.mp3"
+        }
+    },
+    "english": "They cried, “Our father! We went racing and left Joseph with our belongings, and a wolf devoured him! But you will not believe us, no matter how truthful we are.”",
+    "arabic1": "قَالُوا۟ يَـٰٓأَبَانَآ إِنَّا ذَهَبْنَا نَسْتَبِقُ وَتَرَكْنَا يُوسُفَ عِندَ مَتَـٰعِنَا فَأَكَلَهُ ٱلذِّئْبُ ۖ وَمَآ أَنتَ بِمُؤْمِنٍ لَّنَا وَلَوْ كُنَّا صَـٰدِقِينَ",
+    "arabic2": "قالوا يا ابانا انا ذهبنا نستبق وتركنا يوسف عند متاعنا فاكله الذئب وما انت بمؤمن لنا ولو كنا صادقين",
+    "bengali": "তারা বলল, ‘হে আমাদের পিতা, আমরা প্রতিযোগিতা করতে গিয়েছিলাম আর ইউসুফকে রেখে গিয়েছিলাম আমাদের মালপত্রের নিকট, অতঃপর নেকড়ে তাকে খেয়ে ফেলেছে। আর আপনি আমাদেরকে বিশ্বাস করবেন না, যদিও আমরা সত্যবাদী হই’।",
+    "urdu": "(اور) کہنے لگے کہ اباجان ہم تو دوڑنے اور ایک دوسرے سے آگے نکلنے میں مصروف ہوگئے اور یوسف کو اپنے اسباب کے پاس چھوڑ گئے تو اسے بھیڑیا کھا گیا۔ اور آپ ہماری بات کو گو ہم سچ ہی کہتے ہوں باور نہیں کریں گے"
+}

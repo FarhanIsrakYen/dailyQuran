@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 28,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/9_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/009028.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/9_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/009028.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/9_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/009028.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/9_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/009028.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/9_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/009028.mp3"
+        }
+    },
+    "english": "O believers! Indeed, the polytheists are ˹spiritually˺ impure, so they should not approach the Sacred Mosque after this year. If you fear poverty, Allah will enrich you out of His bounty, if He wills. Surely, Allah is All-Knowing, All-Wise.",
+    "arabic1": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِنَّمَا ٱلْمُشْرِكُونَ نَجَسٌ فَلَا يَقْرَبُوا۟ ٱلْمَسْجِدَ ٱلْحَرَامَ بَعْدَ عَامِهِمْ هَـٰذَا ۚ وَإِنْ خِفْتُمْ عَيْلَةً فَسَوْفَ يُغْنِيكُمُ ٱللَّهُ مِن فَضْلِهِۦٓ إِن شَآءَ ۚ إِنَّ ٱللَّهَ عَلِيمٌ حَكِيمٌ",
+    "arabic2": "يا ايها الذين امنوا انما المشركون نجس فلا يقربوا المسجد الحرام بعد عامهم هذا وان خفتم عيلة فسوف يغنيكم الله من فضله ان شاء ان الله عليم حكيم",
+    "bengali": "হে ঈমানদারগণ, নিশ্চয় মুশরিকরা নাপাক, সুতরাং তারা যেন মসজিদুল হারামের নিকটবর্তী না হয় তাদের এ বছরের পর। আর যদি তোমরা দারিদ্র্যকে ভয় কর, তবে আল্লাহ চাইলে নিজ অনুগ্রহে তোমাদের অভাবমুক্ত করবেন। নিশ্চয়ই আল্লাহ মহাজ্ঞানী, প্রজ্ঞাময়।",
+    "urdu": "مومنو! مشرک تو پلید ہیں تو اس برس کے بعد وہ خانہٴ کعبہ کا پاس نہ جانے پائیں اور اگر تم کو مفلسی کا خوف ہو تو خدا چاہے گا تو تم کو اپنے فضل سے غنی کر دے گا۔ بےشک خدا سب کچھ جانتا (اور) حکمت والا ہے"
+}

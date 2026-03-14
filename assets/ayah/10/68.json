@@ -1,0 +1,42 @@
+{
+    "surahName": "Yunus",
+    "surahNameArabic": "يونس",
+    "surahNameArabicLong": "سورة يونس",
+    "surahNameTranslation": "Jonas",
+    "revelationPlace": "Mecca",
+    "totalAyah": 109,
+    "surahNo": 10,
+    "ayahNo": 68,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/10_68.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/010068.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/10_68.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/010068.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/10_68.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/010068.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/10_68.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/010068.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/10_68.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/010068.mp3"
+        }
+    },
+    "english": "They say, “Allah has offspring.” Glory be to Him! He is the Self-Sufficient. To Him belongs whatever is in the heavens and whatever is on the earth. You have no proof of this! Do you say about Allah what you do not know?",
+    "arabic1": "قَالُوا۟ ٱتَّخَذَ ٱللَّهُ وَلَدًا ۗ سُبْحَـٰنَهُۥ ۖ هُوَ ٱلْغَنِىُّ ۖ لَهُۥ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۚ إِنْ عِندَكُم مِّن سُلْطَـٰنٍۭ بِهَـٰذَآ ۚ أَتَقُولُونَ عَلَى ٱللَّهِ مَا لَا تَعْلَمُونَ",
+    "arabic2": "قالوا اتخذ الله ولدا سبحانه هو الغني له ما في السماوات وما في الارض ان عندكم من سلطان بهذا اتقولون على الله ما لا تعلمون",
+    "bengali": "তারা বলে, ‘আল্লাহ সন্তান গ্রহণ করেছেন’। তিনি পবিত্র মহান। তিনি অমুখাপেক্ষী। আসমানসমূহ ও যমীনে যা রয়েছে তা তাঁরই। তোমাদের কাছে এ ব্যাপারে কোন প্রমাণ নেই। তোমরা কি আল্লাহর উপর এমন কিছু বলছ, যা তোমরা জান না?",
+    "urdu": "(بعض لوگ) کہتے ہیں کہ خدا نے بیٹا بنا لیا ہے۔ اس کی ذات (اولاد سے) پاک ہے (اور) وہ بےنیاز ہے۔ جو کچھ آسمانوں میں ہے اور جو کچھ زمین میں ہے وہ سب اسی کا ہے (اے افتراء پردازو) تمہارے پاس اس (قول باطل) کی کوئی دلیل نہیں ہے۔ تم خدا کی نسبت ایسی بات کیوں کہتے ہو جو جانتے نہیں"
+}

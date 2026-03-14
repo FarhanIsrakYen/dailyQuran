@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 166,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_166.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002166.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_166.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002166.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_166.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002166.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_166.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002166.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_166.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002166.mp3"
+        }
+    },
+    "english": "˹Consider the Day˺ when those who misled others will disown their followers—when they face the torment—and the bonds that united them will be cut off.",
+    "arabic1": "إِذْ تَبَرَّأَ ٱلَّذِينَ ٱتُّبِعُوا۟ مِنَ ٱلَّذِينَ ٱتَّبَعُوا۟ وَرَأَوُا۟ ٱلْعَذَابَ وَتَقَطَّعَتْ بِهِمُ ٱلْأَسْبَابُ",
+    "arabic2": "اذ تبرا الذين اتبعوا من الذين اتبعوا وراوا العذاب وتقطعت بهم الاسباب",
+    "bengali": "যখন, যাদেরকে অনুসরণ করা হয়েছে, তারা অনুসারীদের থেকে আলাদা হয়ে যাবে এবং তারা আযাব দেখতে পাবে। আর তাদের সব সম্পর্ক ছিন্ন হয়ে যাবে।",
+    "urdu": "اس دن (کفر کے) پیشوا اپنے پیرووں سے بیزاری ظاہر کریں گے اور (دونوں) عذاب (الہیٰ) دیکھ لیں گے اور ان کے آپس کے تعلقات منقطع ہوجائیں گے"
+}

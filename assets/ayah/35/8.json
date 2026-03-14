@@ -1,0 +1,42 @@
+{
+    "surahName": "Faatir",
+    "surahNameArabic": "فاطر",
+    "surahNameArabicLong": "سورة فاطر",
+    "surahNameTranslation": "The Originator",
+    "revelationPlace": "Mecca",
+    "totalAyah": 45,
+    "surahNo": 35,
+    "ayahNo": 8,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/35_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/035008.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/35_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/035008.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/35_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/035008.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/35_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/035008.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/35_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/035008.mp3"
+        }
+    },
+    "english": "Are those whose evil-doing is made so appealing to them that they deem it good ˹like those who are rightly guided˺? ˹It is˺ certainly Allah ˹Who˺ leaves to stray whoever He wills, and guides whoever He wills. So do not grieve yourself to death over them ˹O Prophet˺. Surely Allah is All-Knowing of what they do.",
+    "arabic1": "أَفَمَن زُيِّنَ لَهُۥ سُوٓءُ عَمَلِهِۦ فَرَءَاهُ حَسَنًا ۖ فَإِنَّ ٱللَّهَ يُضِلُّ مَن يَشَآءُ وَيَهْدِى مَن يَشَآءُ ۖ فَلَا تَذْهَبْ نَفْسُكَ عَلَيْهِمْ حَسَرَٰتٍ ۚ إِنَّ ٱللَّهَ عَلِيمٌۢ بِمَا يَصْنَعُونَ",
+    "arabic2": "افمن زين له سوء عمله فراه حسنا فان الله يضل من يشاء ويهدي من يشاء فلا تذهب نفسك عليهم حسرات ان الله عليم بما يصنعون",
+    "bengali": "কাউকে যদি তার অসৎ কাজ সুশোভিত করে দেখানো হয় অতঃপর সে ওটাকে ভাল মনে করে, (সে কি ঐ ব্যক্তির সমান যে ভালকে ভাল এবং মন্দকে মন্দ দেখে?) কেননা আল্লাহ যাকে ইচ্ছা গোমরাহ করেন আর যাকে ইচ্ছা হিদায়াত দান করেন; অতএব তাদের জন্য আফসোস করে নিজে ধ্বংস হয়ো না। নিশ্চয় তারা যা করে আল্লাহ তা জানেন।",
+    "urdu": "بھلا جس شخص کو اس کے اعمال بد آراستہ کرکے دکھائے جائیں اور وہ ان کو عمدہ سمجھنے لگے تو (کیا وہ نیکوکار آدمی جیسا ہوسکتا ہے)۔ بےشک خدا جس کو چاہتا ہے گمراہ کرتا ہے اور جس کو چاہتا ہے ہدایت دیتا ہے۔ تو ان لوگوں پر افسوس کرکے تمہارا دم نہ نکل جائے۔ یہ جو کچھ کرتے ہیں خدا اس سے واقف ہے"
+}

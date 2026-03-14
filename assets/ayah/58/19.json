@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Mujaadila",
+    "surahNameArabic": "المجادلة",
+    "surahNameArabicLong": "سورة المجادلة",
+    "surahNameTranslation": "The Pleading Woman",
+    "revelationPlace": "Madina",
+    "totalAyah": 22,
+    "surahNo": 58,
+    "ayahNo": 19,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/58_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/058019.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/58_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/058019.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/58_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/058019.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/58_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/058019.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/58_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/058019.mp3"
+        }
+    },
+    "english": "Satan has taken hold of them, causing them to forget the remembrance of Allah. They are the party of Satan. Surely Satan’s party is bound to lose.",
+    "arabic1": "ٱسْتَحْوَذَ عَلَيْهِمُ ٱلشَّيْطَـٰنُ فَأَنسَىٰهُمْ ذِكْرَ ٱللَّهِ ۚ أُو۟لَـٰٓئِكَ حِزْبُ ٱلشَّيْطَـٰنِ ۚ أَلَآ إِنَّ حِزْبَ ٱلشَّيْطَـٰنِ هُمُ ٱلْخَـٰسِرُونَ",
+    "arabic2": "استحوذ عليهم الشيطان فانساهم ذكر الله اولئك حزب الشيطان الا ان حزب الشيطان هم الخاسرون",
+    "bengali": "শয়তান এদের ওপর চেপে বসেছে এবং তাদেরকে আল্লাহর যিকির ভুলিয়ে দিয়েছে। এরাই শয়তানের দল। জেনে রাখ, নিশ্চয় শয়তানের দল ক্ষতিগ্রস্ত।",
+    "urdu": "شیطان نے ان کو قابو میں کرلیا ہے۔ اور خدا کی یاد ان کو بھلا دی ہے۔ یہ (جماعت) شیطان کا لشکر ہے۔ اور سن رکھو کہ شیطان کا لشکر نقصان اٹھانے والا ہے"
+}

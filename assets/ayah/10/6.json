@@ -1,0 +1,42 @@
+{
+    "surahName": "Yunus",
+    "surahNameArabic": "يونس",
+    "surahNameArabicLong": "سورة يونس",
+    "surahNameTranslation": "Jonas",
+    "revelationPlace": "Mecca",
+    "totalAyah": 109,
+    "surahNo": 10,
+    "ayahNo": 6,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/10_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/010006.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/10_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/010006.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/10_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/010006.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/10_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/010006.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/10_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/010006.mp3"
+        }
+    },
+    "english": "Surely in the alternation of the day and the night, and in all that Allah has created in the heavens and the earth, there are truly signs for those mindful ˹of Him˺.",
+    "arabic1": "إِنَّ فِى ٱخْتِلَـٰفِ ٱلَّيْلِ وَٱلنَّهَارِ وَمَا خَلَقَ ٱللَّهُ فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ لَـَٔايَـٰتٍ لِّقَوْمٍ يَتَّقُونَ",
+    "arabic2": "ان في اختلاف الليل والنهار وما خلق الله في السماوات والارض لايات لقوم يتقون",
+    "bengali": "নিশ্চয় রাত ও দিবসের বিবর্তনে এবং আসমানসমূহ ও যমীনে যা আল্লাহ সৃষ্টি করেছেন, তাতে বহু নিদর্শন রয়েছে এমন কওমের জন্য, যারা তাকওয়া অবলম্বন করে।",
+    "urdu": "رات اور دن کے (ایک دوسرے کے پیچھے) آنے جانے میں اور جو چیزیں خدا نے آسمان اور زمین میں پیدا کی ہیں (سب میں) ڈرنے والوں کے لیے نشانیاں ہیں"
+}

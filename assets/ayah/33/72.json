@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Ahzaab",
+    "surahNameArabic": "الأحزاب",
+    "surahNameArabicLong": "سورة الأحزاب",
+    "surahNameTranslation": "The Clans",
+    "revelationPlace": "Madina",
+    "totalAyah": 73,
+    "surahNo": 33,
+    "ayahNo": 72,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/33_72.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/033072.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/33_72.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/033072.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/33_72.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/033072.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/33_72.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/033072.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/33_72.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/033072.mp3"
+        }
+    },
+    "english": "Indeed, We offered the trust to the heavens and the earth and the mountains, but they ˹all˺ declined to bear it, being fearful of it. But humanity assumed it, ˹for˺ they are truly wrongful ˹to themselves˺ and ignorant ˹of the consequences˺",
+    "arabic1": "إِنَّا عَرَضْنَا ٱلْأَمَانَةَ عَلَى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَٱلْجِبَالِ فَأَبَيْنَ أَن يَحْمِلْنَهَا وَأَشْفَقْنَ مِنْهَا وَحَمَلَهَا ٱلْإِنسَـٰنُ ۖ إِنَّهُۥ كَانَ ظَلُومًا جَهُولًا",
+    "arabic2": "انا عرضنا الامانة على السماوات والارض والجبال فابين ان يحملنها واشفقن منها وحملها الانسان انه كان ظلوما جهولا",
+    "bengali": "নিশ্চয় আমি আসমানসমূহ, যমীন ও পর্বতমালার প্রতি এ আমানত পেশ করেছি, অতঃপর তারা তা বহন করতে অস্বীকার করেছে এবং এতে ভীত হয়েছে। আর মানুষ তা বহন করেছে। নিশ্চয় সে ছিল অতিশয় যালিম, একান্তই অজ্ঞ।",
+    "urdu": "ہم نے (بار) امانت کو آسمانوں اور زمین پر پیش کیا تو انہوں نے اس کے اٹھانے سے انکار کیا اور اس سے ڈر گئے۔ اور انسان نے اس کو اٹھا لیا۔ بےشک وہ ظالم اور جاہل تھا"
+}

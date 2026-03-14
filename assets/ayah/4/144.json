@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 144,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/4_144.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/004144.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/4_144.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/004144.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/4_144.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/004144.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/4_144.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/004144.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/4_144.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/004144.mp3"
+        }
+    },
+    "english": "O believers! Do not take disbelievers as allies instead of the believers. Would you like to give Allah solid proof against yourselves?",
+    "arabic1": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَتَّخِذُوا۟ ٱلْكَـٰفِرِينَ أَوْلِيَآءَ مِن دُونِ ٱلْمُؤْمِنِينَ ۚ أَتُرِيدُونَ أَن تَجْعَلُوا۟ لِلَّهِ عَلَيْكُمْ سُلْطَـٰنًا مُّبِينًا",
+    "arabic2": "يا ايها الذين امنوا لا تتخذوا الكافرين اولياء من دون المؤمنين اتريدون ان تجعلوا لله عليكم سلطانا مبينا",
+    "bengali": "হে মুমিনগণ, তোমরা মুমিনগণ ছাড়া কাফিরদেরকে বন্ধুরূপে গ্রহণ করো না। তোমরা কি আল্লাহর জন্য তোমাদের বিপক্ষে কোন স্পষ্ট দলীল সাব্যস্ত করতে চাও?",
+    "urdu": "اے اہل ایمان! مومنوں کے سوا کافروں کو دوست نہ بناؤ کیا تم چاہتے ہو کہ اپنے اوپر خدا کا صریح الزام لو؟"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Lail",
+    "surahNameArabic": "الليل",
+    "surahNameArabicLong": "سورة الليل",
+    "surahNameTranslation": "The Night",
+    "revelationPlace": "Mecca",
+    "totalAyah": 21,
+    "surahNo": 92,
+    "ayahNo": 10,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/92_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/092010.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/92_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/092010.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/92_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/092010.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/92_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/092010.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/92_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/092010.mp3"
+        }
+    },
+    "english": "We will facilitate for them the path of hardship.",
+    "arabic1": "فَسَنُيَسِّرُهُۥ لِلْعُسْرَىٰ",
+    "arabic2": "فسنيسره للعسرى",
+    "bengali": "আমি তার জন্য কঠিন পথে চলা সুগম করে দেব।",
+    "urdu": "اسے سختی میں پہنچائیں گے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Talaaq",
+    "surahNameArabic": "الطلاق",
+    "surahNameArabicLong": "سورة الطلاق",
+    "surahNameTranslation": "Divorce",
+    "revelationPlace": "Madina",
+    "totalAyah": 12,
+    "surahNo": 65,
+    "ayahNo": 4,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/65_4.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/065004.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/65_4.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/065004.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/65_4.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/065004.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/65_4.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/065004.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/65_4.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/065004.mp3"
+        }
+    },
+    "english": "As for your women past the age of menstruation, in case you do not know, their waiting period is three months, and those who have not menstruated as well. As for those who are pregnant, their waiting period ends with delivery. And whoever is mindful of Allah, He will make their matters easy for them.",
+    "arabic1": "وَٱلَّـٰٓـِٔى يَئِسْنَ مِنَ ٱلْمَحِيضِ مِن نِّسَآئِكُمْ إِنِ ٱرْتَبْتُمْ فَعِدَّتُهُنَّ ثَلَـٰثَةُ أَشْهُرٍ وَٱلَّـٰٓـِٔى لَمْ يَحِضْنَ ۚ وَأُو۟لَـٰتُ ٱلْأَحْمَالِ أَجَلُهُنَّ أَن يَضَعْنَ حَمْلَهُنَّ ۚ وَمَن يَتَّقِ ٱللَّهَ يَجْعَل لَّهُۥ مِنْ أَمْرِهِۦ يُسْرًا",
+    "arabic2": "واللائي يئسن من المحيض من نسائكم ان ارتبتم فعدتهن ثلاثة اشهر واللائي لم يحضن واولات الاحمال اجلهن ان يضعن حملهن ومن يتق الله يجعل له من امره يسرا",
+    "bengali": "তোমাদের স্ত্রীদের মধ্যে যারা ঋতুবর্তী হওয়ার কাল অতিক্রম করে গেছে, তাদের ইদ্দত সম্পর্কে তোমরা যদি সংশয়ে থাক এবং যারা এখনও ঋতুর বয়সে পৌঁছেনি তাদের ইদ্দতকালও হবে তিন মাস। আর গর্ভধারিনীদের ইদ্দতকাল সন্তান প্রসব পর্যন্ত। যে আল্লাহকে ভয় করে, তিনি তার জন্য তার কাজকে সহজ করে দেন।",
+    "urdu": "اور تمہاری (مطلقہ) عورتیں جو حیض سے ناامید ہوچکی ہوں اگر تم کو (ان کی عدت کے بارے میں) شبہ ہو تو ان کی عدت تین مہینے ہے اور جن کو ابھی حیض نہیں آنے لگا (ان کی عدت بھی یہی ہے) اور حمل والی عورتوں کی عدت وضع حمل (یعنی بچّہ جننے) تک ہے۔ اور جو خدا سے ڈرے گا خدا اس کے کام میں سہولت پیدا کردے گا"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 109,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/9_109.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/009109.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/9_109.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/009109.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/9_109.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/009109.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/9_109.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/009109.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/9_109.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/009109.mp3"
+        }
+    },
+    "english": "Which is better: those who laid the foundation of their building on the fear and pleasure of Allah, or those who did so on the edge of a crumbling cliff that tumbled down with them into the Fire of Hell? And Allah does not guide the wrongdoing people.",
+    "arabic1": "أَفَمَنْ أَسَّسَ بُنْيَـٰنَهُۥ عَلَىٰ تَقْوَىٰ مِنَ ٱللَّهِ وَرِضْوَٰنٍ خَيْرٌ أَم مَّنْ أَسَّسَ بُنْيَـٰنَهُۥ عَلَىٰ شَفَا جُرُفٍ هَارٍ فَٱنْهَارَ بِهِۦ فِى نَارِ جَهَنَّمَ ۗ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلظَّـٰلِمِينَ",
+    "arabic2": "افمن اسس بنيانه على تقوى من الله ورضوان خير ام من اسس بنيانه على شفا جرف هار فانهار به في نار جهنم والله لا يهدي القوم الظالمين",
+    "bengali": "যে তার গৃহের ভিত্তি আল্লাহর তাকওয়া ও সন্তুষ্টির উপর প্রতিষ্ঠা করল, সে কি উত্তম না ঐ ব্যক্তি যে তার গৃহের ভিত্তি প্রতিষ্ঠা করেছে এক গর্তের পতনোন্মুখ কিনারায়? অতঃপর তাকে নিয়ে তা ধসে পড়ল জাহান্নামের আগুনে। আর আল্লাহ যালিম কওমকে হিদায়াত দেন না।",
+    "urdu": "بھلا جس شخص نے اپنی عمارت کی بنیاد خدا کے خوف اور اس کی رضامندی پر رکھی وہ اچھا ہے یا وہ جس نے اپنی عمارت کی بنیاد گر جانے والی کھائی کے کنارے پر رکھی کہ وہ اس کو دوزخ کی آگ میں لے گری اور خدا ظالموں کو ہدایت نہیں دیتا"
+}

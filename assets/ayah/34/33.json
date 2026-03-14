@@ -1,0 +1,42 @@
+{
+    "surahName": "Saba",
+    "surahNameArabic": "سبإ",
+    "surahNameArabicLong": "سورة سَبَأ",
+    "surahNameTranslation": "Sheba",
+    "revelationPlace": "Mecca",
+    "totalAyah": 54,
+    "surahNo": 34,
+    "ayahNo": 33,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/34_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/034033.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/34_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/034033.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/34_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/034033.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/34_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/034033.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/34_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/034033.mp3"
+        }
+    },
+    "english": "The lowly will say to the arrogant, “No! It was your plotting by day and night—when you ordered us to disbelieve in Allah and to set up equals with Him.” They will ˹all˺ hide ˹their˺ remorse when they see the torment. And We will put shackles around the necks of the disbelievers. Will they be rewarded except for what they used to do?",
+    "arabic1": "وَقَالَ ٱلَّذِينَ ٱسْتُضْعِفُوا۟ لِلَّذِينَ ٱسْتَكْبَرُوا۟ بَلْ مَكْرُ ٱلَّيْلِ وَٱلنَّهَارِ إِذْ تَأْمُرُونَنَآ أَن نَّكْفُرَ بِٱللَّهِ وَنَجْعَلَ لَهُۥٓ أَندَادًا ۚ وَأَسَرُّوا۟ ٱلنَّدَامَةَ لَمَّا رَأَوُا۟ ٱلْعَذَابَ وَجَعَلْنَا ٱلْأَغْلَـٰلَ فِىٓ أَعْنَاقِ ٱلَّذِينَ كَفَرُوا۟ ۚ هَلْ يُجْزَوْنَ إِلَّا مَا كَانُوا۟ يَعْمَلُونَ",
+    "arabic2": "وقال الذين استضعفوا للذين استكبروا بل مكر الليل والنهار اذ تامروننا ان نكفر بالله ونجعل له اندادا واسروا الندامة لما راوا العذاب وجعلنا الاغلال في اعناق الذين كفروا هل يجزون الا ما كانوا يعملون",
+    "bengali": "আর যাদেরকে দুর্বল করে রাখা হয়েছিল তারা, যারা অহঙ্কারী ছিল তাদেরকে বলবে, ‘বরং এ ছিল তোমাদের দিন-রাতের চক্রান্ত, যখন তোমরা আমাদেরকে আদেশ দিয়েছিলে যেন আমরা আল্লাহকে অস্বীকার করি এবং তাঁর সমকক্ষ স্থির করি’। আর তারা যখন আযাব দেখবে তখন তারা অনুতাপ গোপন করবে। আর আমি কাফিরদের গলায় শৃঙ্খল পরিয়ে দেব। তারা যা করত কেবল তারই প্রতিফল তাদেরকে দেয়া হবে।",
+    "urdu": "اور کمزور لوگ بڑے لوگوں سے کہیں گے (نہیں) بلکہ (تمہاری) رات دن کی چالوں نے (ہمیں روک رکھا تھا) جب تم ہم سے کہتے تھے کہ ہم خدا سے کفر کریں اور اس کا شریک بنائیں۔ اور جب وہ عذاب کو دیکھیں گے تو دل میں پشیمان ہوں گے۔ اور ہم کافروں کی گردنوں میں طوق ڈال دیں گے۔ بس جو عمل وہ کرتے تھے ان ہی کا ان کو بدلہ ملے گا"
+}

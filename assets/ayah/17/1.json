@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 1,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/17_1.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/017001.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/17_1.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/017001.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/17_1.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/017001.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/17_1.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/017001.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/17_1.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/017001.mp3"
+        }
+    },
+    "english": "Glory be to the One Who took His servant ˹Muḥammad˺ by night from the Sacred Mosque to the Farthest Mosque whose surroundings We have blessed, so that We may show him some of Our signs. Indeed, He alone is the All-Hearing, All-Seeing.",
+    "arabic1": "سُبْحَـٰنَ ٱلَّذِىٓ أَسْرَىٰ بِعَبْدِهِۦ لَيْلًا مِّنَ ٱلْمَسْجِدِ ٱلْحَرَامِ إِلَى ٱلْمَسْجِدِ ٱلْأَقْصَا ٱلَّذِى بَـٰرَكْنَا حَوْلَهُۥ لِنُرِيَهُۥ مِنْ ءَايَـٰتِنَآ ۚ إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلْبَصِيرُ",
+    "arabic2": "سبحان الذي اسرى بعبده ليلا من المسجد الحرام الى المسجد الاقصى الذي باركنا حوله لنريه من اياتنا انه هو السميع البصير",
+    "bengali": "পবিত্র মহান সে সত্তা, যিনি তাঁর বান্দাকে রাতে নিয়ে গিয়েছেন আল মাসজিদুল হারাম থেকে আল মাসজিদুল আকসা* পর্যন্ত, যার আশপাশে আমি বরকত দিয়েছি, যেন আমি তাকে আমার কিছু নিদর্শন দেখাতে পারি। তিনিই সর্বশ্রোতা, সর্বদ্রষ্টা। \n* ফিলিস্তীনে অবস্থিত বাইতুল মাকদিস, যা মুসলমানদের প্রথম কিবলা ছিল।",
+    "urdu": "وہ (ذات) پاک ہے جو ایک رات اپنے بندے کو مسجدالحرام یعنی (خانہٴ کعبہ) سے مسجد اقصیٰ (یعنی بیت المقدس) تک جس کے گردا گرد ہم نے برکتیں رکھی ہیں لے گیا تاکہ ہم اسے اپنی (قدرت کی) نشانیاں دکھائیں۔ بےشک وہ سننے والا (اور) دیکھنے والا ہے"
+}

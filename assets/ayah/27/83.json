@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Naml",
+    "surahNameArabic": "النمل",
+    "surahNameArabicLong": "سورة النمل",
+    "surahNameTranslation": "The Ant",
+    "revelationPlace": "Mecca",
+    "totalAyah": 93,
+    "surahNo": 27,
+    "ayahNo": 83,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/27_83.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/027083.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/27_83.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/027083.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/27_83.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/027083.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/27_83.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/027083.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/27_83.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/027083.mp3"
+        }
+    },
+    "english": "˹Watch for˺ the Day We will gather from every faith-community a group of those who denied Our revelations, and they will be driven in ranks.",
+    "arabic1": "وَيَوْمَ نَحْشُرُ مِن كُلِّ أُمَّةٍ فَوْجًا مِّمَّن يُكَذِّبُ بِـَٔايَـٰتِنَا فَهُمْ يُوزَعُونَ",
+    "arabic2": "ويوم نحشر من كل امة فوجا ممن يكذب باياتنا فهم يوزعون",
+    "bengali": "আর স্মরণ কর সেদিনের কথা, যেদিন প্রত্যেক জাতির মধ্য থেকে যারা আমার আয়াতসমূহকে অস্বীকার করত তাদেরকে আমি দলে দলে সমবেত করব। অতঃপর তাদেরকে হাঁকিয়ে নিয়ে যাওয়া হবে।",
+    "urdu": "اور جس روز ہم ہر اُمت میں سے اس گروہ کو جمع کریں گے جو ہماری آیتوں کی تکذیب کرتے تھے تو اُن کی جماعت بندی کی جائے گی"
+}

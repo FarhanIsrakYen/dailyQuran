@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Noor",
+    "surahNameArabic": "النور",
+    "surahNameArabicLong": "سورة النور",
+    "surahNameTranslation": "The Light",
+    "revelationPlace": "Madina",
+    "totalAyah": 64,
+    "surahNo": 24,
+    "ayahNo": 22,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/24_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/024022.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/24_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/024022.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/24_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/024022.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/24_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/024022.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/24_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/024022.mp3"
+        }
+    },
+    "english": "Do not let the people of virtue and affluence among you swear to suspend donations to their relatives, the needy, and the emigrants in the cause of Allah. Let them pardon and forgive. Do you not love to be forgiven by Allah? And Allah is All-Forgiving, Most Merciful.",
+    "arabic1": "وَلَا يَأْتَلِ أُو۟لُوا۟ ٱلْفَضْلِ مِنكُمْ وَٱلسَّعَةِ أَن يُؤْتُوٓا۟ أُو۟لِى ٱلْقُرْبَىٰ وَٱلْمَسَـٰكِينَ وَٱلْمُهَـٰجِرِينَ فِى سَبِيلِ ٱللَّهِ ۖ وَلْيَعْفُوا۟ وَلْيَصْفَحُوٓا۟ ۗ أَلَا تُحِبُّونَ أَن يَغْفِرَ ٱللَّهُ لَكُمْ ۗ وَٱللَّهُ غَفُورٌ رَّحِيمٌ",
+    "arabic2": "ولا ياتل اولو الفضل منكم والسعة ان يؤتوا اولي القربى والمساكين والمهاجرين في سبيل الله وليعفوا وليصفحوا الا تحبون ان يغفر الله لكم والله غفور رحيم",
+    "bengali": "আর তোমাদের মধ্যে যারা মর্যাদা ও প্রাচুর্যের অধিকারী, তারা যেন এমন কসম না করে যে, তারা নিকটাত্মীয়দের, মিসকীনদের ও আল্লাহর পথে হিজরতকারীদের কিছুই দেবে না। আর তারা যেন তাদের ক্ষমা করে এবং তাদের দোষত্রুটি উপেক্ষা করে। তোমরা কি পছন্দ কর না যে, আল্লাহ তোমাদের ক্ষমা করে দেন? আর আল্লাহ বড়ই ক্ষমাশীল, পরম দয়ালু।",
+    "urdu": "اور جو لوگ تم میں صاحب فضل (اور صاحب) وسعت ہیں، وہ اس بات کی قسم نہ کھائیں کہ رشتہ داروں اور محتاجوں اور وطن چھوڑ جانے والوں کو کچھ خرچ پات نہیں دیں گے۔ ان کو چاہیئے کہ معاف کردیں اور درگزر کریں۔ کیا تم پسند نہیں کرتے کہ خدا تم کو بخش دے؟ اور خدا تو بخشنے والا مہربان ہے"
+}

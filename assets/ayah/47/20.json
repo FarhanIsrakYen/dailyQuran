@@ -1,0 +1,42 @@
+{
+    "surahName": "Muhammad",
+    "surahNameArabic": "محمد",
+    "surahNameArabicLong": "سورة محمد",
+    "surahNameTranslation": "Muhammad",
+    "revelationPlace": "Madina",
+    "totalAyah": 38,
+    "surahNo": 47,
+    "ayahNo": 20,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/47_20.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/047020.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/47_20.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/047020.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/47_20.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/047020.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/47_20.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/047020.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/47_20.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/047020.mp3"
+        }
+    },
+    "english": "And the believers say, “If only a sûrah was revealed ˹allowing self-defence˺!” Yet when a precise sûrah is revealed, in which fighting is ˹explicitly˺ mentioned, you see those with sickness in their hearts staring at you like someone in the throes of death. It would have been better for them",
+    "arabic1": "وَيَقُولُ ٱلَّذِينَ ءَامَنُوا۟ لَوْلَا نُزِّلَتْ سُورَةٌ ۖ فَإِذَآ أُنزِلَتْ سُورَةٌ مُّحْكَمَةٌ وَذُكِرَ فِيهَا ٱلْقِتَالُ ۙ رَأَيْتَ ٱلَّذِينَ فِى قُلُوبِهِم مَّرَضٌ يَنظُرُونَ إِلَيْكَ نَظَرَ ٱلْمَغْشِىِّ عَلَيْهِ مِنَ ٱلْمَوْتِ ۖ فَأَوْلَىٰ لَهُمْ",
+    "arabic2": "ويقول الذين امنوا لولا نزلت سورة فاذا انزلت سورة محكمة وذكر فيها القتال رايت الذين في قلوبهم مرض ينظرون اليك نظر المغشي عليه من الموت فاولى لهم",
+    "bengali": "আর যারা ঈমান এনেছে তারা বলে, ‘কেন একটি সূরা নাযিল করা হয়নি?’ অতঃপর যখন দ্ব্যর্থহীন কোন সুস্পষ্ট সূরা নাযিল করা হয় এবং তাতে যুদ্ধের উল্লেখ থাকে, তখন তুমি দেখবে যাদের অন্তরে ব্যাধি রয়েছে তারা তোমার দিকে মৃত্যুভয়ে মূর্ছিত ব্যক্তির দৃষ্টিতে তাকাচ্ছে। সুতরাং ধ্বংস তাদের জন্য।",
+    "urdu": "اور مومن لوگ کہتے ہیں کہ (جہاد کی) کوئی سورت کیوں نازل نہیں ہوتی؟ لیکن جب کوئی صاف معنوں کی سورت نازل ہو اور اس میں جہاد کا بیان ہو تو جن لوگوں کے دلوں میں (نفاق کا) مرض ہے تم ان کو دیکھو کہ تمہاری طرف اس طرح دیکھنے لگیں جس طرح کسی پر موت کی بےہوشی (طاری) ہو رہی ہو۔ سو ان کے لئے خرابی ہے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Hud",
+    "surahNameArabic": "هود",
+    "surahNameArabicLong": "سورة هود",
+    "surahNameTranslation": "Hud",
+    "revelationPlace": "Mecca",
+    "totalAyah": 123,
+    "surahNo": 11,
+    "ayahNo": 98,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/11_98.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/011098.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/11_98.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/011098.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/11_98.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/011098.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/11_98.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/011098.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/11_98.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/011098.mp3"
+        }
+    },
+    "english": "He will be before his people on the Day of Judgment and will lead them into the Fire. What an evil place to be led into!",
+    "arabic1": "يَقْدُمُ قَوْمَهُۥ يَوْمَ ٱلْقِيَـٰمَةِ فَأَوْرَدَهُمُ ٱلنَّارَ ۖ وَبِئْسَ ٱلْوِرْدُ ٱلْمَوْرُودُ",
+    "arabic2": "يقدم قومه يوم القيامة فاوردهم النار وبئس الورد المورود",
+    "bengali": "কিয়ামত দিবসে সে তার কওমের অগ্রভাগে থাকবে এবং তাদেরকে আগুনে উপনীত করে দেবে। যেখানে তারা উপনীত হবে সেটা উপনীত হওয়ার কতইনা নিকৃষ্ট স্থান!",
+    "urdu": "وہ قیامت کے دن اپنی قوم کے آگے آگے چلے گا اور ان کو دوزخ میں جا اُتارے گا اور جس مقام پر وہ اُتارے جائیں گے وہ برا ہے"
+}

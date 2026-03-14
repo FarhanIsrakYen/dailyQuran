@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 51,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_51.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002051.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_51.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002051.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_51.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002051.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_51.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002051.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_51.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002051.mp3"
+        }
+    },
+    "english": "And ˹remember˺ when We appointed forty nights for Moses, then you worshipped the calf in his absence, acting wrongfully.",
+    "arabic1": "وَإِذْ وَٰعَدْنَا مُوسَىٰٓ أَرْبَعِينَ لَيْلَةً ثُمَّ ٱتَّخَذْتُمُ ٱلْعِجْلَ مِنۢ بَعْدِهِۦ وَأَنتُمْ ظَـٰلِمُونَ",
+    "arabic2": "واذ واعدنا موسى اربعين ليلة ثم اتخذتم العجل من بعده وانتم ظالمون",
+    "bengali": "আর যখন আমি মূসাকে চল্লিশ রাতের ওয়াদা দিয়েছিলাম অতঃপর তোমরা তার যাওয়ার পর বাছুরকে (উপাস্যরূপে) গ্রহণ করেছিলে, আর তোমরা ছিলে যালিম।",
+    "urdu": "اور جب ہم نے موسیٰ سے چالیس رات کا وعدہ کیا تو تم نے ان کے پیچھے بچھڑے کو (معبود) مقرر کر لیا اور تم ظلم کر رہے تھے"
+}

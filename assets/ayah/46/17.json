@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Ahqaf",
+    "surahNameArabic": "الأحقاف",
+    "surahNameArabicLong": "سورة الأحقاف",
+    "surahNameTranslation": "The Dunes",
+    "revelationPlace": "Mecca",
+    "totalAyah": 35,
+    "surahNo": 46,
+    "ayahNo": 17,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/46_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/046017.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/46_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/046017.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/46_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/046017.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/46_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/046017.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/46_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/046017.mp3"
+        }
+    },
+    "english": "But some scold their parents, “Enough with you! Are you warning me that I will be brought forth ˹from the grave˺, while many generations had already perished before me ˹for good˺?” The parents cry to Allah for help, ˹and warn their child,˺ “Pity you. Have faith! Surely Allah’s promise is true.” But the deniers insist, “This is nothing but ancient fables.”",
+    "arabic1": "وَٱلَّذِى قَالَ لِوَٰلِدَيْهِ أُفٍّ لَّكُمَآ أَتَعِدَانِنِىٓ أَنْ أُخْرَجَ وَقَدْ خَلَتِ ٱلْقُرُونُ مِن قَبْلِى وَهُمَا يَسْتَغِيثَانِ ٱللَّهَ وَيْلَكَ ءَامِنْ إِنَّ وَعْدَ ٱللَّهِ حَقٌّ فَيَقُولُ مَا هَـٰذَآ إِلَّآ أَسَـٰطِيرُ ٱلْأَوَّلِينَ",
+    "arabic2": "والذي قال لوالديه اف لكما اتعدانني ان اخرج وقد خلت القرون من قبلي وهما يستغيثان الله ويلك امن ان وعد الله حق فيقول ما هذا الا اساطير الاولين",
+    "bengali": "আর যে ব্যক্তি তার মাতা-পিতাকে বলে, ‘তোমাদের জন্য আফসোস’! তোমরা কি আমাকে এই প্রতিশ্রুতি দাও যে, আমি পুনরুত্থিত হব’ অথচ আমার পূর্বে অনেক প্রজন্ম গত হয়ে গেছে’? আর তারা দু’জন আল্লাহর কাছে ফরিয়াদ করে বলে, ‘দুর্ভোগ তোমার জন্য! তুমি ঈমান আন। নিশ্চয় আল্লাহর ওয়াদা সত্য’। তখন সে বলে, ‘এটা কেবল অতীতকালের কল্পকাহিনী ছাড়া আর কিছু নয়’।",
+    "urdu": "اور جس شخص نے اپنے ماں باپ سے کہا کہ اُف اُف! تم مجھے یہ بتاتے ہو کہ میں (زمین سے) نکالا جاؤں گا حالانکہ بہت سے لوگ مجھ سے پہلے گزر چکے ہیں۔ اور وہ دونوں خدا کی جناب میں فریاد کرتے (ہوئے کہتے) تھے کہ کم بخت ایمان لا۔ خدا کا وعدہ تو سچا ہے۔ تو کہنے لگا یہ تو پہلے لوگوں کی کہانیاں ہیں"
+}

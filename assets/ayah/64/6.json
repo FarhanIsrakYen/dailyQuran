@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Taghaabun",
+    "surahNameArabic": "التغابن",
+    "surahNameArabicLong": "سورة التغابن",
+    "surahNameTranslation": "Mutual Disillusion",
+    "revelationPlace": "Madina",
+    "totalAyah": 18,
+    "surahNo": 64,
+    "ayahNo": 6,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/64_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/064006.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/64_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/064006.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/64_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/064006.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/64_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/064006.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/64_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/064006.mp3"
+        }
+    },
+    "english": "That was because their messengers used to come to them with clear proofs, but they said ˹mockingly˺, “How can humans be our guides?” So they persisted in disbelief and turned away. And Allah was not in need ˹of their faith˺. For Allah is Self-Sufficient, Praiseworthy.",
+    "arabic1": "ذَٰلِكَ بِأَنَّهُۥ كَانَت تَّأْتِيهِمْ رُسُلُهُم بِٱلْبَيِّنَـٰتِ فَقَالُوٓا۟ أَبَشَرٌ يَهْدُونَنَا فَكَفَرُوا۟ وَتَوَلَّوا۟ ۚ وَّٱسْتَغْنَى ٱللَّهُ ۚ وَٱللَّهُ غَنِىٌّ حَمِيدٌ",
+    "arabic2": "ذلك بانه كانت تاتيهم رسلهم بالبينات فقالوا ابشر يهدوننا فكفروا وتولوا واستغنى الله والله غني حميد",
+    "bengali": "এটি এ জন্য যে, তাদের রাসূলগণ তাদের নিকট সুস্পষ্ট নিদর্শনাবলী নিয়ে আসত, অথচ তারা বলত, মানুষই কি আমাদের পথ প্রদর্শন করবে? অতঃপর তারা কুফরী করল এবং মুখ ফিরিয়ে নিল। আর আল্লাহ বে-পরওয়াই দেখালেন এবং আল্লাহ অভাবমুক্ত পরম, প্রশংসিত।",
+    "urdu": "یہ اس لئے کہ ان کے پاس پیغمبر کھلی نشانیاں لے کر آئے تو یہ کہتے کہ کیا آدمی ہمارے ہادی بنتے ہیں؟ تو انہوں نے (ان کو) نہ مانا اور منہ پھیر لیا اور خدا نے بھی بےپروائی کی۔ اور خدا بےپروا (اور) سزاوار حمد (وثنا) ہے"
+}

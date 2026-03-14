@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Qasas",
+    "surahNameArabic": "القصص",
+    "surahNameArabicLong": "سورة القصص",
+    "surahNameTranslation": "The Stories",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 28,
+    "ayahNo": 79,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/28_79.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/028079.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/28_79.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/028079.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/28_79.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/028079.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/28_79.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/028079.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/28_79.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/028079.mp3"
+        }
+    },
+    "english": "Then he came out before his people in all his glamour. Those who desired the life of this world wished, “If only we could have something like what Korah has been given. He is truly a man of great fortune!”",
+    "arabic1": "فَخَرَجَ عَلَىٰ قَوْمِهِۦ فِى زِينَتِهِۦ ۖ قَالَ ٱلَّذِينَ يُرِيدُونَ ٱلْحَيَوٰةَ ٱلدُّنْيَا يَـٰلَيْتَ لَنَا مِثْلَ مَآ أُوتِىَ قَـٰرُونُ إِنَّهُۥ لَذُو حَظٍّ عَظِيمٍ",
+    "arabic2": "فخرج على قومه في زينته قال الذين يريدون الحياة الدنيا يا ليت لنا مثل ما اوتي قارون انه لذو حظ عظيم",
+    "bengali": "অতঃপর সে তার কওমের সামনে জাঁকজমকের সাথে বের হল। যারা দুনিয়ার জীবন চাইত তারা বলল, ‘আহা! কারূনকে যেমন দেয়া হয়েছে আমাদেরও যদি তেমন থাকত! নিশ্চয় সে বিরাট সম্পদশালী।’",
+    "urdu": "تو (ایک روز) قارون (بڑی) آرائش (اور ٹھاٹھ) سے اپنی قوم کے سامنے نکلا۔ جو لوگ دنیا کی زندگی کے طالب تھے کہنے لگے کہ جیسا (مال ومتاع) قارون کو ملا ہے کاش ایسا ہی ہمیں بھی ملے۔ وہ تو بڑا ہی صاحب نصیب ہے"
+}

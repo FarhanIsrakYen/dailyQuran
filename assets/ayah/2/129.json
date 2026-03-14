@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 129,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_129.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002129.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_129.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002129.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_129.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002129.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_129.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002129.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_129.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002129.mp3"
+        }
+    },
+    "english": "Our Lord! Raise from among them a messenger who will recite to them Your revelations, teach them the Book and wisdom, and purify them. Indeed, You ˹alone˺ are the Almighty, All-Wise.”",
+    "arabic1": "رَبَّنَا وَٱبْعَثْ فِيهِمْ رَسُولًا مِّنْهُمْ يَتْلُوا۟ عَلَيْهِمْ ءَايَـٰتِكَ وَيُعَلِّمُهُمُ ٱلْكِتَـٰبَ وَٱلْحِكْمَةَ وَيُزَكِّيهِمْ ۚ إِنَّكَ أَنتَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+    "arabic2": "ربنا وابعث فيهم رسولا منهم يتلو عليهم اياتك ويعلمهم الكتاب والحكمة ويزكيهم انك انت العزيز الحكيم",
+    "bengali": "‘হে আমাদের রব, তাদের মধ্যে তাদের থেকে একজন রাসূল প্রেরণ করুন, যে তাদের প্রতি আপনার আয়াতসমূহ তিলাওয়াত করবে এবং তাদেরকে কিতাব ও হিকমত শিক্ষা দিবে আর তাদেরকে পবিত্র করবে। নিশ্চয় আপনি পরাক্রমশালী, প্রজ্ঞাময়’।",
+    "urdu": "اے پروردگار، ان (لوگوں) میں انہیں میں سے ایک پیغمبر مبعوث کیجیو جو ان کو تیری آیتیں پڑھ پڑھ کر سنایا کرے اور کتاب اور دانائی سکھایا کرے اور ان (کے دلوں) کو پاک صاف کیا کرے۔ بےشک تو غالب اور صاحبِ حکمت ہے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nahl",
+    "surahNameArabic": "النحل",
+    "surahNameArabicLong": "سورة النحل",
+    "surahNameTranslation": "The Bee",
+    "revelationPlace": "Mecca",
+    "totalAyah": 128,
+    "surahNo": 16,
+    "ayahNo": 2,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/16_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/016002.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/16_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/016002.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/16_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/016002.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/16_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/016002.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/16_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/016002.mp3"
+        }
+    },
+    "english": "He sends down the angels with revelation by His command to whoever He wills of His servants, ˹stating:˺ “Warn ˹humanity˺ that there is no god ˹worthy of worship˺ except Me, so be mindful of Me ˹alone˺.”",
+    "arabic1": "يُنَزِّلُ ٱلْمَلَـٰٓئِكَةَ بِٱلرُّوحِ مِنْ أَمْرِهِۦ عَلَىٰ مَن يَشَآءُ مِنْ عِبَادِهِۦٓ أَنْ أَنذِرُوٓا۟ أَنَّهُۥ لَآ إِلَـٰهَ إِلَّآ أَنَا۠ فَٱتَّقُونِ",
+    "arabic2": "ينزل الملائكة بالروح من امره على من يشاء من عباده ان انذروا انه لا اله الا انا فاتقون",
+    "bengali": "তিনি ফেরেশতাদের আপন নির্দেশে ওহী* দিয়ে নাযিল করেন তার বান্দাদের মধ্যে যাকে ইচ্ছা তার প্রতি; যেন তোমরা সতর্ক কর যে, আমি ছাড়া কোন ইলাহ নেই। অতএব, তোমরা আমাকে ভয় কর। \n* রূপ শব্দের অর্থ আত্মা, ওহীকে রূহ বলা হয় এ কারণে যে, ওহীর মাধ্যমেই মানুষের অন্তর জীবন লাভ করে।",
+    "urdu": "وہی فرشتوں کو پیغام دے کر اپنے حکم سے اپنے بندوں میں سے جس کے پاس چاہتا ہے بھیجتا ہے کہ (لوگوں کو) بتادو کہ میرے سوا کوئی معبود نہیں تو مجھی سے ڈرو"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 65,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/7_65.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/007065.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/7_65.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/007065.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/7_65.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/007065.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/7_65.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/007065.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/7_65.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/007065.mp3"
+        }
+    },
+    "english": "And to the people of ’Âd We sent their brother Hûd. He said, “O my people! Worship Allah—you have no other god except Him. Will you not then fear Him?”",
+    "arabic1": "۞ وَإِلَىٰ عَادٍ أَخَاهُمْ هُودًا ۗ قَالَ يَـٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ مَا لَكُم مِّنْ إِلَـٰهٍ غَيْرُهُۥٓ ۚ أَفَلَا تَتَّقُونَ",
+    "arabic2": "والى عاد اخاهم هودا قال يا قوم اعبدوا الله ما لكم من اله غيره افلا تتقون",
+    "bengali": "আর (প্রেরণ করলাম) আদ জাতির নিকট তাদের ভাই হূদকে। সে বলল, ‘হে আমার কওম, তোমরা আল্লাহর ইবাদাত কর। তিনি ছাড়া তোমাদের কোন (সত্য) ইলাহ নেই। তোমরা কি তাকওয়া অবলম্বন করবে না’?",
+    "urdu": "اور (اسی طرح) قوم عاد کی طرف ان کے بھائی ہود کو بھیجا۔ انہوں نے کہا کہ بھائیو خدا ہی کی عبادت کرو۔ اس کے سوا تمہارا کوئی معبود نہیں۔ کیا تم ڈرتے نہیں؟"
+}

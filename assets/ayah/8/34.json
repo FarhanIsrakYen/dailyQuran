@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Anfaal",
+    "surahNameArabic": "الأنفال",
+    "surahNameArabicLong": "سورة الأنفال",
+    "surahNameTranslation": "The Spoils of War",
+    "revelationPlace": "Madina",
+    "totalAyah": 75,
+    "surahNo": 8,
+    "ayahNo": 34,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/8_34.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/008034.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/8_34.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/008034.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/8_34.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/008034.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/8_34.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/008034.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/8_34.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/008034.mp3"
+        }
+    },
+    "english": "And why should Allah not punish them while they hinder pilgrims from the Sacred Mosque, claiming to be its rightful guardians? None has the right to guardianship except those mindful ˹of Allah˺, but most pagans do not know.",
+    "arabic1": "وَمَا لَهُمْ أَلَّا يُعَذِّبَهُمُ ٱللَّهُ وَهُمْ يَصُدُّونَ عَنِ ٱلْمَسْجِدِ ٱلْحَرَامِ وَمَا كَانُوٓا۟ أَوْلِيَآءَهُۥٓ ۚ إِنْ أَوْلِيَآؤُهُۥٓ إِلَّا ٱلْمُتَّقُونَ وَلَـٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ",
+    "arabic2": "وما لهم الا يعذبهم الله وهم يصدون عن المسجد الحرام وما كانوا اولياءه ان اولياؤه الا المتقون ولكن اكثرهم لا يعلمون",
+    "bengali": "আর তাদের কী আছে যে, আল্লাহ তাদেরকে আযাব দেবেন না? অথচ তারা মসজিদুল হারাম থেকে বাধা প্রদান করে, আর তারা এর অভিভাবকও নয়। তার অভিভাবক তো শুধু মুত্তাকীগণ; কিন্তু তাদের অধিকাংশ জানে না।",
+    "urdu": "اور (اب) ان کے لیے کون سی وجہ ہے کہ وہ انہیں عذاب نہ دے جب کہ وہ مسجد محترم (میں نماز پڑھنے) سے روکتے ہیں اور وہ اس مسجد کے متولی بھی نہیں۔ اس کے متولی تو صرف پرہیزگار ہیں۔ لیکن ان میں اکثر نہیں جانتے"
+}

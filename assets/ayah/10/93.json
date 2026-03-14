@@ -1,0 +1,42 @@
+{
+    "surahName": "Yunus",
+    "surahNameArabic": "يونس",
+    "surahNameArabicLong": "سورة يونس",
+    "surahNameTranslation": "Jonas",
+    "revelationPlace": "Mecca",
+    "totalAyah": 109,
+    "surahNo": 10,
+    "ayahNo": 93,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/10_93.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/010093.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/10_93.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/010093.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/10_93.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/010093.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/10_93.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/010093.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/10_93.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/010093.mp3"
+        }
+    },
+    "english": "Indeed, We settled the Children of Israel in a blessed land, and granted them good, lawful provisions. They did not differ until knowledge came to them. Surely your Lord will judge between them on the Day of Judgment regarding their differences.",
+    "arabic1": "وَلَقَدْ بَوَّأْنَا بَنِىٓ إِسْرَٰٓءِيلَ مُبَوَّأَ صِدْقٍ وَرَزَقْنَـٰهُم مِّنَ ٱلطَّيِّبَـٰتِ فَمَا ٱخْتَلَفُوا۟ حَتَّىٰ جَآءَهُمُ ٱلْعِلْمُ ۚ إِنَّ رَبَّكَ يَقْضِى بَيْنَهُمْ يَوْمَ ٱلْقِيَـٰمَةِ فِيمَا كَانُوا۟ فِيهِ يَخْتَلِفُونَ",
+    "arabic2": "ولقد بوانا بني اسرائيل مبوا صدق ورزقناهم من الطيبات فما اختلفوا حتى جاءهم العلم ان ربك يقضي بينهم يوم القيامة فيما كانوا فيه يختلفون",
+    "bengali": "আর অবশ্যই আমি বনী ইসরাঈলকে উত্তম বাসভূমিতে আবাস দিলাম এবং তাদেরকে উত্তম রিয্ক দিলাম। অতঃপর তারা মতবিরোধ করেনি, যতক্ষণ না তাদের নিকট জ্ঞান এল। নিশ্চয় তোমার রব কিয়ামতের দিন সে বিষয়ে ফয়সালা করবেন যা নিয়ে তারা মতবিরোধ করত।",
+    "urdu": "اور ہم نے بنی اسرائیل کو رہنے کو عمدہ جگہ دی اور کھانے کو پاکیزہ چیزیں عطا کیں لیکن وہ باوجود علم ہونے کے اختلاف کرتے رہے۔ بےشک جن باتوں میں وہ اختلاف کرتے رہے ہیں تمہارا پروردگار قیامت کے دن ان میں ان باتوں کا فیصلہ کردے گا"
+}

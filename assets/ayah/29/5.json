@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Ankaboot",
+    "surahNameArabic": "العنكبوت",
+    "surahNameArabicLong": "سورة العنكبوت",
+    "surahNameTranslation": "The Spider",
+    "revelationPlace": "Mecca",
+    "totalAyah": 69,
+    "surahNo": 29,
+    "ayahNo": 5,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/29_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/029005.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/29_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/029005.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/29_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/029005.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/29_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/029005.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/29_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/029005.mp3"
+        }
+    },
+    "english": "Whoever hopes for the meeting with Allah, ˹let them know that˺ Allah’s appointed time is sure to come. He is the All-Hearing, All-Knowing.",
+    "arabic1": "مَن كَانَ يَرْجُوا۟ لِقَآءَ ٱللَّهِ فَإِنَّ أَجَلَ ٱللَّهِ لَـَٔاتٍ ۚ وَهُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+    "arabic2": "من كان يرجو لقاء الله فان اجل الله لات وهو السميع العليم",
+    "bengali": "যে আল্লাহর সাক্ষাৎ কামনা করে (সে জেনে রাখুক) অতঃপর নিশ্চয় আল্লাহর নির্ধারিত কাল আসবে। আর তিনি সর্বশ্রোতা, সর্বজ্ঞানী।",
+    "urdu": "جو شخص خدا کی ملاقات کی اُمید رکھتا ہو خدا کا (مقرر کیا ہوا) وقت ضرور آنے والا ہے۔ اور وہ سننے والا اور جاننے والا ہے"
+}

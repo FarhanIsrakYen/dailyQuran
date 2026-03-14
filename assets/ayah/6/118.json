@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 118,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/6_118.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/006118.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/6_118.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/006118.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/6_118.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/006118.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/6_118.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/006118.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/6_118.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/006118.mp3"
+        }
+    },
+    "english": "So eat only of what is slaughtered in Allah’s Name if you truly believe in His revelations.",
+    "arabic1": "فَكُلُوا۟ مِمَّا ذُكِرَ ٱسْمُ ٱللَّهِ عَلَيْهِ إِن كُنتُم بِـَٔايَـٰتِهِۦ مُؤْمِنِينَ",
+    "arabic2": "فكلوا مما ذكر اسم الله عليه ان كنتم باياته مؤمنين",
+    "bengali": "সুতরাং তোমরা আহার কর তা থেকে, যার উপর আল্লাহর নাম নেয়া হয়েছে, যদি তোমরা তাঁর আয়াতসমূহের ব্যাপারে বিশ্বাসী হও।",
+    "urdu": "تو جس چیز پر (ذبح کے وقت) خدا کا نام لیا جائے اگر تم اس کی آیتوں پر ایمان رکھتے ہو تو اسے کھا لیا کرو"
+}

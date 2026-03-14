@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 53,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/6_53.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/006053.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/6_53.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/006053.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/6_53.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/006053.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/6_53.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/006053.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/6_53.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/006053.mp3"
+        }
+    },
+    "english": "In this way We have tested some by means of others, so those ˹disbelievers˺ may say, “Has Allah favoured these ˹poor believers˺ out of all of us?” Does Allah not best recognize the grateful?",
+    "arabic1": "وَكَذَٰلِكَ فَتَنَّا بَعْضَهُم بِبَعْضٍ لِّيَقُولُوٓا۟ أَهَـٰٓؤُلَآءِ مَنَّ ٱللَّهُ عَلَيْهِم مِّنۢ بَيْنِنَآ ۗ أَلَيْسَ ٱللَّهُ بِأَعْلَمَ بِٱلشَّـٰكِرِينَ",
+    "arabic2": "وكذلك فتنا بعضهم ببعض ليقولوا اهؤلاء من الله عليهم من بيننا اليس الله باعلم بالشاكرين",
+    "bengali": "আর এভাবেই আমি এককে অন্যের দ্বারা পরীক্ষা করেছি, যাতে তারা বলে, ‘এরাই কি, আমাদের মধ্য থেকে যাদের উপর আল্লাহ অনুগ্রহ করেছেন? আল্লাহ কি কৃতজ্ঞদের ব্যাপারে পূর্ণ জ্ঞাত নয়?",
+    "urdu": "اور اسی طرح ہم نے بعض لوگوں کی بعض سے آزمائش کی ہے کہ (جو دولتمند ہیں وہ غریبوں کی نسبت) کہتے ہیں کیا یہی لوگ ہیں جن پر خدا نے ہم میں سے فضل کیا ہے (خدا نے فرمایا) بھلا خدا شکر کرنے والوں سے واقف نہیں؟"
+}

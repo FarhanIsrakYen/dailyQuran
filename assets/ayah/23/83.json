@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Muminoon",
+    "surahNameArabic": "المؤمنون",
+    "surahNameArabicLong": "سورة المؤمنون",
+    "surahNameTranslation": "The Believers",
+    "revelationPlace": "Mecca",
+    "totalAyah": 118,
+    "surahNo": 23,
+    "ayahNo": 83,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/23_83.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/023083.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/23_83.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/023083.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/23_83.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/023083.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/23_83.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/023083.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/23_83.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/023083.mp3"
+        }
+    },
+    "english": "We have already been promised this, as well as our forefathers earlier. This is nothing but ancient fables!”",
+    "arabic1": "لَقَدْ وُعِدْنَا نَحْنُ وَءَابَآؤُنَا هَـٰذَا مِن قَبْلُ إِنْ هَـٰذَآ إِلَّآ أَسَـٰطِيرُ ٱلْأَوَّلِينَ",
+    "arabic2": "لقد وعدنا نحن واباؤنا هذا من قبل ان هذا الا اساطير الاولين",
+    "bengali": "অবশ্যই আমাদেরকে ও ইতঃপূর্বে আমাদের পিতৃপুরুষদেরকে এই ওয়াদা দেয়া হয়েছিল। এসব কেবল পুরান কালের উপাখ্যান ছাড়া আর কিছু না।",
+    "urdu": "یہ وعدہ ہم سے اور ہم سے پہلے ہمارے باپ دادا سے بھی ہوتا چلا آیا ہے (اجی) یہ تو صرف اگلے لوگوں کی کہانیاں ہیں"
+}

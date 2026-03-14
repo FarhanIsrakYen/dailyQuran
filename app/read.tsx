@@ -5,8 +5,10 @@ import {
 } from 'react-native';
 import { useAudioPlayer, useAudioPlayerStatus, setAudioModeAsync } from 'expo-audio';
 import { storage, Progress, QuranPlan } from '../utils/storage';
-import { AYAH_API } from '../utils/planBuilder';
+import { getAyahData } from '../utils/ayahDataResolver';
+import * as Network from 'expo-network';
 import sajdahData from '../assets/sajdah.json';
+import { ThemeType, COLORS } from '../utils/colors';
 
 interface AyahData {
     surahName: string;
@@ -32,9 +34,10 @@ const RECITERS: Record<string, string> = {
 interface Props {
     day: number;
     onBack: () => void;
+    theme: ThemeType;
 }
 
-export default function Read({ day, onBack }: Props) {
+export default function Read({ day, onBack, theme }: Props) {
     const [plan, setPlan] = useState<QuranPlan | null>(null);
     const [progress, setProgress] = useState<Progress | null>(null);
     const [ayahData, setAyahData] = useState<AyahData | null>(null);
@@ -101,20 +104,34 @@ export default function Read({ day, onBack }: Props) {
         setLoading(true);
         setAudioUrl(null); // clear old audio while loading
         try {
-            const res = await fetch(AYAH_API(surah, ayah));
-            const data: AyahData = await res.json();
+            const data: AyahData = getAyahData(surah, ayah);
+            if (!data) throw new Error('Not found');
             setAyahData(data);
             // Set audio URL for the current reciter immediately
             const url = data.audio?.[selectedReciter]?.url ?? null;
             setAudioUrl(url);
         } catch {
-            Alert.alert('Error', 'Failed to load ayah. Check your connection.');
+            Alert.alert('Error', 'Failed to load ayah.');
         } finally {
             setLoading(false);
         }
     };
 
-    const handleReciterChange = (key: string) => {
+    const checkConnection = async () => {
+        const state = await Network.getNetworkStateAsync();
+        if (!state.isConnected || !state.isInternetReachable) {
+            Alert.alert(
+                'Internet Connection Required',
+                'Please turn on your internet connection to play or change audio reciters.',
+                [{ text: 'OK' }]
+            );
+            return false;
+        }
+        return true;
+    };
+
+    const handleReciterChange = async (key: string) => {
+        if (!(await checkConnection())) return;
         // Stop current playback, switch reciter, swap audio source via replace()
         if (playerStatus.playing) player.pause();
         setSelectedReciter(key);
@@ -126,8 +143,11 @@ export default function Read({ day, onBack }: Props) {
         }
     };
 
-    const handlePlayToggle = () => {
+    const handlePlayToggle = async () => {
         if (!audioUrl) return;
+        if (!playerStatus.playing) {
+            if (!(await checkConnection())) return;
+        }
         if (playerStatus.playing) {
             player.pause();
         } else {
@@ -179,10 +199,13 @@ export default function Read({ day, onBack }: Props) {
         await fetchAyah(nextS, nextA);
     };
 
+    const themeColors = COLORS[theme];
+    const isDark = theme === 'dark';
+
     if (loading || !ayahData) {
         return (
-            <View style={styles.center}>
-                <ActivityIndicator size="large" color="#C9A96E" />
+            <View style={[styles.center, { backgroundColor: themeColors.background }]}>
+                <ActivityIndicator size="large" color={themeColors.accent} />
             </View>
         );
     }
@@ -195,84 +218,92 @@ export default function Read({ day, onBack }: Props) {
     );
 
     return (
-        <View style={styles.container}>
+        <View style={[styles.container, { backgroundColor: themeColors.background }]}>
             <View style={styles.topBar}>
                 <TouchableOpacity onPress={onBack} style={styles.backBtn}>
-                    <Text style={styles.backText}>← Back</Text>
+                    <Text style={[styles.backText, { color: themeColors.subtext }]}>← Back</Text>
                 </TouchableOpacity>
-                <Text style={styles.dayLabel}>Day {day}</Text>
-                <Text style={styles.progressLabel}>{ayahsDoneToday}/{dayTotalAyah}</Text>
+                <Text style={[styles.dayLabel, { color: themeColors.text }]}>Day {day}</Text>
+                <Text style={[styles.progressLabel, { color: themeColors.subtext }]}>{ayahsDoneToday}/{dayTotalAyah}</Text>
             </View>
 
-            <View style={styles.progressBar}>
-                <View style={[styles.progressFill, { width: `${progressPercent}%` as any }]} />
+            <View style={[styles.progressBar, { backgroundColor: themeColors.progressBg }]}>
+                <View style={[styles.progressFill, { backgroundColor: themeColors.accent, width: `${progressPercent}%` as any }]} />
             </View>
 
             <ScrollView contentContainerStyle={styles.scroll}>
                 <View style={styles.surahHeader}>
-                    <Text style={styles.surahArabic}>{ayahData.surahNameArabic}</Text>
-                    <Text style={styles.surahName}>{ayahData.surahName}</Text>
-                    <Text style={styles.surahTranslation}>{ayahData.surahNameTranslation}</Text>
-                    <View style={styles.ayahBadge}>
-                        <Text style={styles.ayahBadgeText}>{ayahData.surahNo}:{ayahData.ayahNo}</Text>
+                    <Text style={[styles.surahArabic, { color: themeColors.accent }]}>{ayahData.surahNameArabic}</Text>
+                    <Text style={[styles.surahName, { color: themeColors.text }]}>{ayahData.surahName}</Text>
+                    <Text style={[styles.surahTranslation, { color: themeColors.subtext }]}>{ayahData.surahNameTranslation}</Text>
+                    <View style={[styles.ayahBadge, { backgroundColor: themeColors.card, borderColor: themeColors.border }]}>
+                        <Text style={[styles.ayahBadgeText, { color: themeColors.subtext }]}>{ayahData.surahNo}:{ayahData.ayahNo}</Text>
                     </View>
                 </View>
 
                 {isSajdahAyah && (
-                    <View style={styles.sajdahContainer}>
-                        <Text style={styles.sajdahTitle}>۩ {sajdahData.sajdah.arabic} ۩</Text>
+                    <View style={[styles.sajdahContainer, { backgroundColor: themeColors.sajdahBg, borderColor: themeColors.accent }]}>
+                        <Text style={[styles.sajdahTitle, { color: themeColors.accent }]}>۩ {sajdahData.sajdah.arabic} ۩</Text>
                         <View style={styles.sajdahLangs}>
-                            <Text style={styles.sajdahLangText}>{sajdahData.sajdah.english}</Text>
-                            <Text style={styles.sajdahSeparator}>•</Text>
-                            <Text style={styles.sajdahLangText}>{sajdahData.sajdah.urdu}</Text>
-                            <Text style={styles.sajdahSeparator}>•</Text>
-                            <Text style={styles.sajdahLangText}>{sajdahData.sajdah.hindi}</Text>
-                            <Text style={styles.sajdahSeparator}>•</Text>
-                            <Text style={styles.sajdahLangText}>{sajdahData.sajdah.bangla}</Text>
+                            <Text style={[styles.sajdahLangText, { color: themeColors.text }]}>{sajdahData.sajdah.english}</Text>
+                            <Text style={[styles.sajdahSeparator, { color: themeColors.subtext }]}>•</Text>
+                            <Text style={[styles.sajdahLangText, { color: themeColors.text }]}>{sajdahData.sajdah.urdu}</Text>
+                            <Text style={[styles.sajdahSeparator, { color: themeColors.subtext }]}>•</Text>
+                            <Text style={[styles.sajdahLangText, { color: themeColors.text }]}>{sajdahData.sajdah.hindi}</Text>
+                            <Text style={[styles.sajdahSeparator, { color: themeColors.subtext }]}>•</Text>
+                            <Text style={[styles.sajdahLangText, { color: themeColors.text }]}>{sajdahData.sajdah.bangla}</Text>
                         </View>
                     </View>
                 )}
 
-                <View style={styles.arabicContainer}>
-                    <Text style={styles.arabicText}>{ayahData.arabic1}</Text>
+                <View style={[styles.arabicContainer, { backgroundColor: themeColors.arabicBg, borderColor: themeColors.border }]}>
+                    <Text style={[styles.arabicText, { color: themeColors.text }]}>{ayahData.arabic1}</Text>
                 </View>
 
-                <Text style={styles.englishText}>{ayahData.english}</Text>
+                <Text style={[styles.englishText, { color: themeColors.subtext }]}>{ayahData.english}</Text>
                 {ayahData.bengali && (
-                    <Text style={styles.bengaliText}>{ayahData.bengali}</Text>
+                    <Text style={[styles.bengaliText, { color: themeColors.bengali }]}>{ayahData.bengali}</Text>
                 )}
 
-                <View style={styles.audioSection}>
-                    <Text style={styles.audioLabel}>Listen</Text>
+                <View style={[styles.audioSection, { backgroundColor: themeColors.arabicBg, borderColor: themeColors.border }]}>
+                    <Text style={[styles.audioLabel, { color: themeColors.subtext }]}>Listen</Text>
                     <ScrollView horizontal showsHorizontalScrollIndicator={false} style={styles.reciters}>
                         {Object.keys(RECITERS).map(key => (
                             <TouchableOpacity
                                 key={key}
-                                style={[styles.reciterBtn, selectedReciter === key && styles.reciterBtnActive]}
+                                style={[
+                                    styles.reciterBtn, 
+                                    { backgroundColor: themeColors.card, borderColor: themeColors.border },
+                                    selectedReciter === key && (isDark ? styles.reciterBtnActiveDark : styles.reciterBtnActiveLight)
+                                ]}
                                 onPress={() => handleReciterChange(key)}
                             >
-                                <Text style={[styles.reciterText, selectedReciter === key && styles.reciterTextActive]}>
+                                <Text style={[
+                                    styles.reciterText, 
+                                    { color: themeColors.subtext },
+                                    selectedReciter === key && styles.reciterTextActive
+                                ]}>
                                     {RECITERS[key]}
                                 </Text>
                             </TouchableOpacity>
                         ))}
                     </ScrollView>
                     <TouchableOpacity
-                        style={styles.playBtn}
+                        style={[styles.playBtn, { backgroundColor: themeColors.accent }]}
                         onPress={handlePlayToggle}
                         disabled={!audioUrl || playerStatus.isBuffering}
                     >
                         {playerStatus.isBuffering
-                            ? <ActivityIndicator color="#0D1B2A" />
-                            : <Text style={styles.playBtnText}>{isPlaying ? '⏹ Stop' : '▶ Play'}</Text>
+                            ? <ActivityIndicator color={themeColors.background} />
+                            : <Text style={[styles.playBtnText, { color: themeColors.nextBtnText }]}>{isPlaying ? '⏹ Stop' : '▶ Play'}</Text>
                         }
                     </TouchableOpacity>
                 </View>
             </ScrollView>
 
-            <View style={styles.footer}>
-                <TouchableOpacity style={styles.nextBtn} onPress={handleNext}>
-                    <Text style={styles.nextBtnText}>
+            <View style={[styles.footer, { backgroundColor: themeColors.background, borderTopColor: themeColors.border }]}>
+                <TouchableOpacity style={[styles.nextBtn, { backgroundColor: themeColors.accent }]} onPress={handleNext}>
+                    <Text style={[styles.nextBtnText, { color: themeColors.nextBtnText }]}>
                         {currentSurah === dayEndSurah && currentAyah === dayEndAyah
                             ? '✓ Complete Day'
                             : 'Next Ayah →'}
@@ -348,10 +379,11 @@ const styles = StyleSheet.create({
     reciters: { marginBottom: 16 },
     reciterBtn: {
         paddingHorizontal: 14, paddingVertical: 8, borderRadius: 20,
-        backgroundColor: '#132030', marginRight: 8, borderWidth: 1, borderColor: '#1E3348',
+        marginRight: 8, borderWidth: 1,
     },
-    reciterBtnActive: { backgroundColor: '#1A2D1A', borderColor: '#C9A96E' },
-    reciterText: { fontSize: 12, color: '#5A7A9A' },
+    reciterBtnActiveDark: { backgroundColor: '#1A2D1A', borderColor: '#C9A96E' },
+    reciterBtnActiveLight: { backgroundColor: '#F0F9F4', borderColor: '#C9A96E' },
+    reciterText: { fontSize: 12 },
     reciterTextActive: { color: '#C9A96E' },
     playBtn: { backgroundColor: '#C9A96E', borderRadius: 12, padding: 14, alignItems: 'center' },
     playBtnText: { color: '#0D1B2A', fontSize: 16, fontWeight: '700' },

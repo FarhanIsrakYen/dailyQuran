@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Jaathiya",
+    "surahNameArabic": "الجاثية",
+    "surahNameArabicLong": "سورة الجاثية",
+    "surahNameTranslation": "Crouching",
+    "revelationPlace": "Mecca",
+    "totalAyah": 37,
+    "surahNo": 45,
+    "ayahNo": 34,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/45_34.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/045034.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/45_34.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/045034.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/45_34.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/045034.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/45_34.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/045034.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/45_34.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/045034.mp3"
+        }
+    },
+    "english": "It will be said, “This Day We will neglect you as you neglected the meeting of this Day of yours! Your home will be the Fire, and you will have no helpers.",
+    "arabic1": "وَقِيلَ ٱلْيَوْمَ نَنسَىٰكُمْ كَمَا نَسِيتُمْ لِقَآءَ يَوْمِكُمْ هَـٰذَا وَمَأْوَىٰكُمُ ٱلنَّارُ وَمَا لَكُم مِّن نَّـٰصِرِينَ",
+    "arabic2": "وقيل اليوم ننساكم كما نسيتم لقاء يومكم هذا وماواكم النار وما لكم من ناصرين",
+    "bengali": "আর বলা হবে, ‘আজ আমি তোমাদেরকে ছেড়ে যাব যেমন তোমরা তোমাদের এ দিনের সাক্ষাতের বিষয়টি ছেড়ে গিয়েছিলে। আর তোমাদের নিবাস হবে জাহান্নাম এবং তোমাদের কোন সাহায্যকারীও থাকবে না’।",
+    "urdu": "اور کہا جائے گا کہ جس طرح تم نے اس دن کے آنے کو بھلا رکھا تھا۔ اسی طرح آج ہم تمہیں بھلا دیں گے اور تمہارا ٹھکانا دوزخ ہے اور کوئی تمہارا مددگار نہیں"
+}

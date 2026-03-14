@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Jaathiya",
+    "surahNameArabic": "الجاثية",
+    "surahNameArabicLong": "سورة الجاثية",
+    "surahNameTranslation": "Crouching",
+    "revelationPlace": "Mecca",
+    "totalAyah": 37,
+    "surahNo": 45,
+    "ayahNo": 18,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/45_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/045018.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/45_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/045018.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/45_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/045018.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/45_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/045018.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/45_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/045018.mp3"
+        }
+    },
+    "english": "Now We have set you ˹O Prophet˺ on the ˹clear˺ Way of faith. So follow it, and do not follow the desires of those who do not know ˹the truth˺.",
+    "arabic1": "ثُمَّ جَعَلْنَـٰكَ عَلَىٰ شَرِيعَةٍ مِّنَ ٱلْأَمْرِ فَٱتَّبِعْهَا وَلَا تَتَّبِعْ أَهْوَآءَ ٱلَّذِينَ لَا يَعْلَمُونَ",
+    "arabic2": "ثم جعلناك على شريعة من الامر فاتبعها ولا تتبع اهواء الذين لا يعلمون",
+    "bengali": "তারপর আমি তোমাকে দীনের এক বিশেষ বিধানের উপর প্রতিষ্ঠিত করেছি। সুতরাং তুমি তার অনুসরণ কর এবং যারা জানে না তাদের খেয়াল- খুশীর অনুসরণ করো না।",
+    "urdu": "پھر ہم نے تم کو دین کے کھلے رستے پر (قائم) کر دیا تو اسی (رستے) پر چلے چلو اور نادانوں کی خواہشوں کے پیچھے نہ چلنا"
+}

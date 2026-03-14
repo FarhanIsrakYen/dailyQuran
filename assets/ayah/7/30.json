@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 30,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/7_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/007030.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/7_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/007030.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/7_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/007030.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/7_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/007030.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/7_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/007030.mp3"
+        }
+    },
+    "english": "He has guided some, while others are destined to stray. They have taken devils as their masters instead of Allah—thinking they are ˹rightly˺ guided.",
+    "arabic1": "فَرِيقًا هَدَىٰ وَفَرِيقًا حَقَّ عَلَيْهِمُ ٱلضَّلَـٰلَةُ ۗ إِنَّهُمُ ٱتَّخَذُوا۟ ٱلشَّيَـٰطِينَ أَوْلِيَآءَ مِن دُونِ ٱللَّهِ وَيَحْسَبُونَ أَنَّهُم مُّهْتَدُونَ",
+    "arabic2": "فريقا هدى وفريقا حق عليهم الضلالة انهم اتخذوا الشياطين اولياء من دون الله ويحسبون انهم مهتدون",
+    "bengali": "এক দলকে তিনি হিদায়াত দিয়েছেন এবং আরেক দলের উপর পথভ্রষ্টতা সাব্যস্ত হয়েছে। নিশ্চয় তারা শয়তানদেরকে আল্লাহ ছাড়া অভিভাবকরূপে গ্রহণ করেছে। আর তারা মনে করে যে, নিশ্চয় তারা হিদায়াতপ্রাপ্ত।",
+    "urdu": "ایک فریق کو تو اس نے ہدایت دی اور ایک فریق پر گمراہی ثابت ہوچکی۔ ان لوگوں نے خدا کو چھوڑ کر شیطانوں کو رفیق بنا لیا اور سمجھتے (یہ) ہیں کہ ہدایت یاب ہیں"
+}

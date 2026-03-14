@@ -1,0 +1,42 @@
+{
+    "surahName": "Az-Zumar",
+    "surahNameArabic": "الزمر",
+    "surahNameArabicLong": "سورة الزمر",
+    "surahNameTranslation": "The Groups",
+    "revelationPlace": "Mecca",
+    "totalAyah": 75,
+    "surahNo": 39,
+    "ayahNo": 43,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/39_43.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/039043.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/39_43.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/039043.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/39_43.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/039043.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/39_43.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/039043.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/39_43.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/039043.mp3"
+        }
+    },
+    "english": "Or have they taken others besides Allah as intercessors? Say, ˹O Prophet,˺ “˹Would they do so,˺ even though those ˹idols˺ have neither authority nor intelligence?”",
+    "arabic1": "أَمِ ٱتَّخَذُوا۟ مِن دُونِ ٱللَّهِ شُفَعَآءَ ۚ قُلْ أَوَلَوْ كَانُوا۟ لَا يَمْلِكُونَ شَيْـًٔا وَلَا يَعْقِلُونَ",
+    "arabic2": "ام اتخذوا من دون الله شفعاء قل اولو كانوا لا يملكون شيئا ولا يعقلون",
+    "bengali": "তবে কি তারা আল্লাহ ছাড়া অন্যদেরকে সুপারিশকারী বানিয়েছে? বল, ‘তারা কোন কিছুর মালিক না হলেও এবং তারা না বুঝলেও’?",
+    "urdu": "کیا انہوں نے خدا کے سوا اور سفارشی بنالئے ہیں۔ کہو کہ خواہ وہ کسی چیز کا بھی اختیار نہ رکھتے ہوں اور نہ (کچھ) سمجھتے ہی ہوں"
+}

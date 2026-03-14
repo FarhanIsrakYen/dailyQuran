@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nahl",
+    "surahNameArabic": "النحل",
+    "surahNameArabicLong": "سورة النحل",
+    "surahNameTranslation": "The Bee",
+    "revelationPlace": "Mecca",
+    "totalAyah": 128,
+    "surahNo": 16,
+    "ayahNo": 34,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/16_34.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/016034.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/16_34.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/016034.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/16_34.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/016034.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/16_34.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/016034.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/16_34.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/016034.mp3"
+        }
+    },
+    "english": "Then the evil ˹consequences˺ of their deeds overtook them, and they were overwhelmed by what they used to ridicule.",
+    "arabic1": "فَأَصَابَهُمْ سَيِّـَٔاتُ مَا عَمِلُوا۟ وَحَاقَ بِهِم مَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+    "arabic2": "فاصابهم سيئات ما عملوا وحاق بهم ما كانوا به يستهزئون",
+    "bengali": "সুতরাং তারা যা করেছে, তার খারাপ পরিণতি তাদেরকে আক্রান্ত করেছে এবং তারা যা নিয়ে উপহাস করত, তা তাদেরকে ঘিরে ফেলেছে।",
+    "urdu": "تو ان کو ان کے اعمال کے برے بدلے ملے اور جس چیز کے ساتھ وہ ٹھٹھے کیا کرتے تھے اس نے ان کو (ہر طرف سے) گھیر لیا"
+}

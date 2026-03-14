@@ -1,0 +1,42 @@
+{
+    "surahName": "Az-Zumar",
+    "surahNameArabic": "الزمر",
+    "surahNameArabicLong": "سورة الزمر",
+    "surahNameTranslation": "The Groups",
+    "revelationPlace": "Mecca",
+    "totalAyah": 75,
+    "surahNo": 39,
+    "ayahNo": 4,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/39_4.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/039004.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/39_4.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/039004.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/39_4.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/039004.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/39_4.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/039004.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/39_4.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/039004.mp3"
+        }
+    },
+    "english": "Had it been Allah’s Will to have offspring, He could have chosen whatever He willed of His creation. Glory be to Him! He is Allah—the One, the Supreme.",
+    "arabic1": "لَّوْ أَرَادَ ٱللَّهُ أَن يَتَّخِذَ وَلَدًا لَّٱصْطَفَىٰ مِمَّا يَخْلُقُ مَا يَشَآءُ ۚ سُبْحَـٰنَهُۥ ۖ هُوَ ٱللَّهُ ٱلْوَٰحِدُ ٱلْقَهَّارُ",
+    "arabic2": "لو اراد الله ان يتخذ ولدا لاصطفى مما يخلق ما يشاء سبحانه هو الله الواحد القهار",
+    "bengali": "আল্লাহ যদি সন্তান গ্রহণ করতে চাইতেন, তাহলে তিনি যা সৃষ্টি করেছেন তা থেকে যাকে ইচ্ছা বেছে নিতেন; কিন্তু তিনি পবিত্র মহান। তিনিই আল্লাহ, তিনি এক, প্রবল পরাক্রান্ত।",
+    "urdu": "اگر خدا کسی کو اپنا بیٹا بنانا چاہتا تو اپنی مخلوق میں سے جس کو چاہتا انتخاب کرلیتا۔ وہ پاک ہے وہی تو خدا یکتا (اور) غالب ہے"
+}

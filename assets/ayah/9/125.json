@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 125,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/9_125.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/009125.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/9_125.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/009125.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/9_125.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/009125.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/9_125.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/009125.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/9_125.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/009125.mp3"
+        }
+    },
+    "english": "But as for those with sickness in their hearts, it has increased them only in wickedness upon their wickedness, and they die as disbelievers.",
+    "arabic1": "وَأَمَّا ٱلَّذِينَ فِى قُلُوبِهِم مَّرَضٌ فَزَادَتْهُمْ رِجْسًا إِلَىٰ رِجْسِهِمْ وَمَاتُوا۟ وَهُمْ كَـٰفِرُونَ",
+    "arabic2": "واما الذين في قلوبهم مرض فزادتهم رجسا الى رجسهم وماتوا وهم كافرون",
+    "bengali": "আর যাদের অন্তরে ব্যাধি রয়েছে, এটি তাদের অপবিত্রতার সাথে অপবিত্রতা বৃদ্ধি করে এবং তারা মারা যায় কাফির অবস্থায়।",
+    "urdu": "اور جن کے دلوں میں مرض ہے، ان کے حق میں خبث پر خبث زیادہ کیا اور وہ مرے بھی تو کافر کے کافر"
+}

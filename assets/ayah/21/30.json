@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Anbiyaa",
+    "surahNameArabic": "الأنبياء",
+    "surahNameArabicLong": "سورة الأنبياء",
+    "surahNameTranslation": "The Prophets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 112,
+    "surahNo": 21,
+    "ayahNo": 30,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/21_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/021030.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/21_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/021030.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/21_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/021030.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/21_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/021030.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/21_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/021030.mp3"
+        }
+    },
+    "english": "Do the disbelievers not realize that the heavens and earth were ˹once˺ one mass then We split them apart? And We created from water every living thing. Will they not then believe?",
+    "arabic1": "أَوَلَمْ يَرَ ٱلَّذِينَ كَفَرُوٓا۟ أَنَّ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ كَانَتَا رَتْقًا فَفَتَقْنَـٰهُمَا ۖ وَجَعَلْنَا مِنَ ٱلْمَآءِ كُلَّ شَىْءٍ حَىٍّ ۖ أَفَلَا يُؤْمِنُونَ",
+    "arabic2": "اولم ير الذين كفروا ان السماوات والارض كانتا رتقا ففتقناهما وجعلنا من الماء كل شيء حي افلا يؤمنون",
+    "bengali": "যারা কুফরী করে তারা কি ভেবে দেখে না যে, আসমানসমূহ ও যমীন ওতপ্রোতভাবে মিশে ছিল*, অতঃপর আমি উভয়কে পৃথক করে দিলাম, আর আমি সকল প্রাণবান জিনিসকে পানি থেকে সৃষ্টি করলাম। তবুও কি তারা ঈমান আনবে না? \n* আধুনিক জ্যোতির্বিজ্ঞানীদের মতে আদিতে আকাশ, সূর্য, নক্ষত্র ও পৃথিবী ইত্যাদি পৃথক সত্তায় ছিল না; বরং সবকিছুই ওতপ্রোতভাবে মিশে ছিল। তখন মহাবিশ্ব ছিল অসংখ্য গ্যাসীয় কণার সমষ্টি। পরবর্তীকালে মহাবিস্ফোরণের মাধ্যমে নক্ষত্র, সূর্য, পৃথিবী ও গ্রহসমূহ সৃষ্টি হয়। এটিই বিগ ব্যাং বা মহাবিস্ফোরণ থিওরী।",
+    "urdu": "کیا کافروں نے نہیں دیکھا کہ آسمان اور زمین دونوں ملے ہوئے تھے تو ہم نے جدا جدا کردیا۔ اور تمام جاندار چیزیں ہم نے پانی سے بنائیں۔ پھر یہ لوگ ایمان کیوں نہیں لاتے؟"
+}

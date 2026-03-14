@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Qalam",
+    "surahNameArabic": "القلم",
+    "surahNameArabicLong": "سورة القلم",
+    "surahNameTranslation": "The Pen",
+    "revelationPlace": "Mecca",
+    "totalAyah": 52,
+    "surahNo": 68,
+    "ayahNo": 28,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/68_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/068028.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/68_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/068028.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/68_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/068028.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/68_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/068028.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/68_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/068028.mp3"
+        }
+    },
+    "english": "The most sensible of them said, “Did I not urge you to say, ‘Allah willing.’?”",
+    "arabic1": "قَالَ أَوْسَطُهُمْ أَلَمْ أَقُل لَّكُمْ لَوْلَا تُسَبِّحُونَ",
+    "arabic2": "قال اوسطهم الم اقل لكم لولا تسبحون",
+    "bengali": "তাদের মধ্যে সবচেয়ে ভাল ব্যক্তিটি বলল, ‘আমি কি তোমাদেরকে বলিনি যে, তোমরা কেন (আল্লাহর) তাসবীহ পাঠ করছ না’?",
+    "urdu": "ایک جو اُن میں فرزانہ تھا بولا کہ کیا میں نے تم سے نہیں کہا تھا کہ تم تسبیح کیوں نہیں کرتے؟"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Yusuf",
+    "surahNameArabic": "يوسف",
+    "surahNameArabicLong": "سورة يوسف",
+    "surahNameTranslation": "Joseph",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 12,
+    "ayahNo": 81,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/12_81.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/012081.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/12_81.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/012081.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/12_81.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/012081.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/12_81.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/012081.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/12_81.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/012081.mp3"
+        }
+    },
+    "english": "Return to your father and say, ‘O our father! Your son committed theft. We testify only to what we know. We could not guard against the unforeseen.",
+    "arabic1": "ٱرْجِعُوٓا۟ إِلَىٰٓ أَبِيكُمْ فَقُولُوا۟ يَـٰٓأَبَانَآ إِنَّ ٱبْنَكَ سَرَقَ وَمَا شَهِدْنَآ إِلَّا بِمَا عَلِمْنَا وَمَا كُنَّا لِلْغَيْبِ حَـٰفِظِينَ",
+    "arabic2": "ارجعوا الى ابيكم فقولوا يا ابانا ان ابنك سرق وما شهدنا الا بما علمنا وما كنا للغيب حافظين",
+    "bengali": "‘তোমরা তোমাদের পিতার নিকট ফিরে যাও এবং বল, হে আমাদের পিতা, আপনার ছেলে তো চুরি করেছে, আর আমরা যা জানি তাঁরই সাক্ষ্য দিয়েছি এবং আমরা গায়েব সংরক্ষণকারী নই’।",
+    "urdu": "تم سب والد صاحب کے پاس واپس جاؤ اور کہو کہ ابا آپ کے صاحبزادے نے (وہاں جا کر) چوری کی۔ اور ہم نے اپنی دانست کے مطابق آپ سے (اس کے لے آنے کا) عہد کیا تھا مگر ہم غیب کی باتوں کو جاننے اور یاد رکھنے والے تو نہیں تھے"
+}

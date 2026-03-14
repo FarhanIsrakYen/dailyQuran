@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 94,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/17_94.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/017094.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/17_94.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/017094.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/17_94.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/017094.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/17_94.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/017094.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/17_94.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/017094.mp3"
+        }
+    },
+    "english": "And nothing has prevented people from believing when guidance comes to them except their protest: “Has Allah sent a human as a messenger?”",
+    "arabic1": "وَمَا مَنَعَ ٱلنَّاسَ أَن يُؤْمِنُوٓا۟ إِذْ جَآءَهُمُ ٱلْهُدَىٰٓ إِلَّآ أَن قَالُوٓا۟ أَبَعَثَ ٱللَّهُ بَشَرًا رَّسُولًا",
+    "arabic2": "وما منع الناس ان يؤمنوا اذ جاءهم الهدى الا ان قالوا ابعث الله بشرا رسولا",
+    "bengali": "আর যখন মানুষের নিকট হিদায়াত আসে তখন তাদের ঈমান আনতে বাধা দেয় তাদের এ কথা যে, ‘আল্লাহ কি মানুষকে রাসূল হিসেবে পাঠিয়েছেন’?",
+    "urdu": "اور جب لوگوں کے پاس ہدایت آگئی تو ان کو ایمان لانے سے اس کے سوا کوئی چیز مانع نہ ہوئی کہ کہنے لگے کہ کیا خدا نے آدمی کو پیغمبر کرکے بھیجا ہے"
+}

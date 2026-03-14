@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 203,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/7_203.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/007203.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/7_203.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/007203.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/7_203.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/007203.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/7_203.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/007203.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/7_203.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/007203.mp3"
+        }
+    },
+    "english": "If you ˹O Prophet˺ do not bring them a sign ˹which they demanded˺, they ask, “Why do you not make it yourself?” Say, “I only follow what is revealed to me from my Lord. This ˹Quran˺ is an insight from your Lord—a guide and a mercy for those who believe.”",
+    "arabic1": "وَإِذَا لَمْ تَأْتِهِم بِـَٔايَةٍ قَالُوا۟ لَوْلَا ٱجْتَبَيْتَهَا ۚ قُلْ إِنَّمَآ أَتَّبِعُ مَا يُوحَىٰٓ إِلَىَّ مِن رَّبِّى ۚ هَـٰذَا بَصَآئِرُ مِن رَّبِّكُمْ وَهُدًى وَرَحْمَةٌ لِّقَوْمٍ يُؤْمِنُونَ",
+    "arabic2": "واذا لم تاتهم باية قالوا لولا اجتبيتها قل انما اتبع ما يوحى الي من ربي هذا بصائر من ربكم وهدى ورحمة لقوم يؤمنون",
+    "bengali": "আর যখন তুমি তাদের নিকট কোন আয়াত নিয়ে না আস, তখন তারা বলে, ‘তুমি কেন নিজেই তা বানিয়ে নাও না?’ বল, ‘আমিতো তারই অনুসরণ করি, যা আমার কাছে আমার রবের পক্ষ থেকে ওহীরূপে প্রেরণ করা হয়। এটি তোমাদের রবের পক্ষ থেকে স্পষ্ট প্রমাণ। আর তা হিদায়াত ও রহমত সে কওমের জন্য যারা ঈমান আনে’।",
+    "urdu": "اور جب تم ان کے پاس (کچھ دنوں تک) کوئی آیت نہیں لاتے تو کہتے ہیں کہ تم نے (اپنی طرف سے) کیوں نہیں بنالی۔ کہہ دو کہ میں تو اسی کی پیروی کرتا ہوں جو میرے پروردگار کی طرف سے میرے پاس آتا ہے۔ یہ قرآن تمہارے پروردگار کی جانب سے دانش وبصیرت اور مومنوں کے لیے ہدایت اور رحمت ہے"
+}

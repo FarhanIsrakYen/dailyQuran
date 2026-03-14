@@ -1,0 +1,42 @@
+{
+    "surahName": "Luqman",
+    "surahNameArabic": "لقمان",
+    "surahNameArabicLong": "سورة لقمان",
+    "surahNameTranslation": "Luqman",
+    "revelationPlace": "Mecca",
+    "totalAyah": 34,
+    "surahNo": 31,
+    "ayahNo": 10,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/31_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/031010.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/31_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/031010.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/31_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/031010.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/31_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/031010.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/31_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/031010.mp3"
+        }
+    },
+    "english": "He created the heavens without pillars—as you can see—and placed firm mountains upon the earth so it does not shake with you, and scattered throughout it all types of creatures. And We send down rain from the sky, causing every type of fine plant to grow on earth.",
+    "arabic1": "خَلَقَ ٱلسَّمَـٰوَٰتِ بِغَيْرِ عَمَدٍ تَرَوْنَهَا ۖ وَأَلْقَىٰ فِى ٱلْأَرْضِ رَوَٰسِىَ أَن تَمِيدَ بِكُمْ وَبَثَّ فِيهَا مِن كُلِّ دَآبَّةٍ ۚ وَأَنزَلْنَا مِنَ ٱلسَّمَآءِ مَآءً فَأَنۢبَتْنَا فِيهَا مِن كُلِّ زَوْجٍ كَرِيمٍ",
+    "arabic2": "خلق السماوات بغير عمد ترونها والقى في الارض رواسي ان تميد بكم وبث فيها من كل دابة وانزلنا من السماء ماء فانبتنا فيها من كل زوج كريم",
+    "bengali": "তিনি খুঁটি ছাড়া আসমানসমূহ সৃষ্টি করেছেন, যা তোমরা দেখছ, আর যমীনে স্থাপন করেছেন সুদৃঢ় পাহাড়, যাতে তা তোমাদেরকে নিয়ে হেলে না পড়ে, আর তাতে ছড়িয়ে দিয়েছেন প্রত্যেক প্রকারের প্রাণী; আর আসমান থেকে আমি পানি পাঠাই। অতঃপর তাতে আমি জোড়ায় জোড়ায় কল্যাণকর উদ্ভিদ জন্মাই।",
+    "urdu": "اُسی نے آسمانوں کو ستونوں کے بغیر پیدا کیا جیسا کہ تم دیکھتے ہو اور زمین پر پہاڑ (بنا کر) رکھ دیئے تاکہ تم کو ہلا ہلا نہ دے اور اس میں ہر طرح کے جانور پھیلا دیئے۔ اور ہم ہی نے آسمانوں سے پانی نازل کیا پھر (اُس سے) اس میں ہر قسم کی نفیس چیزیں اُگائیں"
+}

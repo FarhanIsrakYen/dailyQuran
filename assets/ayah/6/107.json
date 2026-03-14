@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 107,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/6_107.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/006107.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/6_107.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/006107.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/6_107.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/006107.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/6_107.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/006107.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/6_107.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/006107.mp3"
+        }
+    },
+    "english": "Had Allah willed, they would not have been polytheists. We have not appointed you as their keeper, nor are you their maintainer.",
+    "arabic1": "وَلَوْ شَآءَ ٱللَّهُ مَآ أَشْرَكُوا۟ ۗ وَمَا جَعَلْنَـٰكَ عَلَيْهِمْ حَفِيظًا ۖ وَمَآ أَنتَ عَلَيْهِم بِوَكِيلٍ",
+    "arabic2": "ولو شاء الله ما اشركوا وما جعلناك عليهم حفيظا وما انت عليهم بوكيل",
+    "bengali": "আর যদি আল্লাহ চাইতেন, তারা শির্‌ক করত না এবং আমি তোমাকে তাদের উপর হিফাযতকারী বানাইনি। আর তুমি তাদের উপর তত্ত্বাবধায়ক নও।",
+    "urdu": "اور اگر خدا چاہتا تو یہ لوگ شرک نہ کرتے۔ اور (اے پیغمبر!) ہم نے تم کو ان پر نگہبان مقرر نہیں کیا۔ اور نہ تم ان کے داروغہ ہو"
+}

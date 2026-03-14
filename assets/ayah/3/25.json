@@ -1,0 +1,42 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 25,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/3_25.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/003025.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/3_25.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/003025.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/3_25.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/003025.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/3_25.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/003025.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/3_25.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/003025.mp3"
+        }
+    },
+    "english": "But how ˹horrible˺ will it be when We gather them together on the Day about which there is no doubt—when every soul will be paid in full for what it has done, and none will be wronged!",
+    "arabic1": "فَكَيْفَ إِذَا جَمَعْنَـٰهُمْ لِيَوْمٍ لَّا رَيْبَ فِيهِ وَوُفِّيَتْ كُلُّ نَفْسٍ مَّا كَسَبَتْ وَهُمْ لَا يُظْلَمُونَ",
+    "arabic2": "فكيف اذا جمعناهم ليوم لا ريب فيه ووفيت كل نفس ما كسبت وهم لا يظلمون",
+    "bengali": "সুতরাং কী অবস্থা হবে? যখন আমি তাদেরকে এমন দিনে সমবেত করব, যাতে কোন সন্দেহ নেই। আর প্রত্যেককে তার কৃতকর্মের প্রতিদান পূর্ণভাবে দেয়া হবে এবং তাদেরকে যুলম করা হবে না।",
+    "urdu": "تو اس وقت کیا حال ہوگا جب ہم ان کو جمع کریں گے (یعنی) اس روز جس (کے آنے) میں کچھ بھی شک نہیں اور ہر نفس اپنے اعمال کا پورا پورا بدلہ پائے گا اور ان پر ظلم نہیں کیا جائے گا"
+}

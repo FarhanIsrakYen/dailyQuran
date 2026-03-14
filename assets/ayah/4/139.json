@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 139,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/4_139.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/004139.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/4_139.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/004139.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/4_139.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/004139.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/4_139.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/004139.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/4_139.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/004139.mp3"
+        }
+    },
+    "english": "who choose disbelievers as allies instead of the believers. Do they seek honour and power through that company? Surely all honour and power belongs to Allah.",
+    "arabic1": "ٱلَّذِينَ يَتَّخِذُونَ ٱلْكَـٰفِرِينَ أَوْلِيَآءَ مِن دُونِ ٱلْمُؤْمِنِينَ ۚ أَيَبْتَغُونَ عِندَهُمُ ٱلْعِزَّةَ فَإِنَّ ٱلْعِزَّةَ لِلَّهِ جَمِيعًا",
+    "arabic2": "الذين يتخذون الكافرين اولياء من دون المؤمنين ايبتغون عندهم العزة فان العزة لله جميعا",
+    "bengali": "যারা মুমিনদের পরিবর্তে কাফিরদেরকে বন্ধুরূপে গ্রহণ করে, তারা কি তাদের কাছে সম্মান চায়? অথচ যাবতীয় সম্মান আল্লাহর।",
+    "urdu": "جو مومنوں کو چھوڑ کر کافروں کو دوست بناتے ہیں۔ کیا یہ ان کے ہاں عزت حاصل کرنا چاہتے ہیں تو عزت تو سب خدا ہی کی ہے"
+}

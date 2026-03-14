@@ -1,0 +1,42 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 64,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/3_64.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/003064.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/3_64.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/003064.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/3_64.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/003064.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/3_64.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/003064.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/3_64.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/003064.mp3"
+        }
+    },
+    "english": "Say, ˹O Prophet,˺ “O People of the Book! Let us come to common terms: that we will worship none but Allah, associate none with Him, nor take one another as lords instead of Allah.” But if they turn away, then say, “Bear witness that we have submitted ˹to Allah alone˺.”",
+    "arabic1": "قُلْ يَـٰٓأَهْلَ ٱلْكِتَـٰبِ تَعَالَوْا۟ إِلَىٰ كَلِمَةٍ سَوَآءٍۭ بَيْنَنَا وَبَيْنَكُمْ أَلَّا نَعْبُدَ إِلَّا ٱللَّهَ وَلَا نُشْرِكَ بِهِۦ شَيْـًٔا وَلَا يَتَّخِذَ بَعْضُنَا بَعْضًا أَرْبَابًا مِّن دُونِ ٱللَّهِ ۚ فَإِن تَوَلَّوْا۟ فَقُولُوا۟ ٱشْهَدُوا۟ بِأَنَّا مُسْلِمُونَ",
+    "arabic2": "قل يا اهل الكتاب تعالوا الى كلمة سواء بيننا وبينكم الا نعبد الا الله ولا نشرك به شيئا ولا يتخذ بعضنا بعضا اربابا من دون الله فان تولوا فقولوا اشهدوا بانا مسلمون",
+    "bengali": "বল, ‘হে কিতাবীগণ, তোমরা এমন কথার দিকে আস, যেটি আমাদের মধ্যে ও তোমাদের মধ্যে সমান যে, আমরা একমাত্র আল্লাহ ছাড়া কারো ইবাদাত না করি। আর তার সাথে কোন কিছুকে শরীক না করি এবং আমাদের কেউ কাউকে আল্লাহ ছাড়া রব হিসাবে গ্রহণ না করি’। তারপর যদি তারা বিমুখ হয় তবে বল, ‘তোমরা সাক্ষী থাক যে, নিশ্চয় আমরা মুসলিম’।",
+    "urdu": "کہہ دو کہ اے اہل کتاب جو بات ہمارے اور تمہارے دونوں کے درمیان یکساں (تسلیم کی گئی) ہے اس کی طرف آؤ وہ یہ کہ خدا کے سوا ہم کسی کی عبادت نہ کریں اور اس کے ساتھ کسی چیز کو شریک نہ بنائیں اور ہم میں سے کوئی کسی کو خدا کے سوا اپنا کار ساز نہ سمجھے اگر یہ لوگ (اس بات کو) نہ مانیں تو (ان سے) کہہ دو کہ تم گواہ رہو کہ ہم (خدا کے) فرماں بردار ہیں"
+}

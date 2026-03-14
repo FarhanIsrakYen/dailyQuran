@@ -1,0 +1,42 @@
+{
+    "surahName": "Yusuf",
+    "surahNameArabic": "يوسف",
+    "surahNameArabicLong": "سورة يوسف",
+    "surahNameTranslation": "Joseph",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 12,
+    "ayahNo": 62,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/12_62.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/012062.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/12_62.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/012062.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/12_62.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/012062.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/12_62.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/012062.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/12_62.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/012062.mp3"
+        }
+    },
+    "english": "Joseph ordered his servants to put his brothers’ money back into their saddlebags so that they would find it when they returned to their family and perhaps they would come back.",
+    "arabic1": "وَقَالَ لِفِتْيَـٰنِهِ ٱجْعَلُوا۟ بِضَـٰعَتَهُمْ فِى رِحَالِهِمْ لَعَلَّهُمْ يَعْرِفُونَهَآ إِذَا ٱنقَلَبُوٓا۟ إِلَىٰٓ أَهْلِهِمْ لَعَلَّهُمْ يَرْجِعُونَ",
+    "arabic2": "وقال لفتيانه اجعلوا بضاعتهم في رحالهم لعلهم يعرفونها اذا انقلبوا الى اهلهم لعلهم يرجعون",
+    "bengali": "আর সে তার যুবক কর্মচারীদেরকে বলল, ‘তাদের পণ্যমূল্য তাদের মালপত্রের মধ্যে রেখে দাও, যাতে পরিবারের নিকট ফিরে গিয়ে তারা তা চিনতে পারে। আশা করি তারা ফিরে আসবে’।",
+    "urdu": "(اور یوسف نے) اپنے خدام سے کہا کہ ان کا سرمایہ (یعنی غلّے کی قیمت) ان کے شلیتوں میں رکھ دو عجب نہیں کہ جب یہ اپنے اہل وعیال میں جائیں تو اسے پہچان لیں (اور) عجب نہیں کہ پھر یہاں آئیں"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 114,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/9_114.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/009114.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/9_114.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/009114.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/9_114.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/009114.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/9_114.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/009114.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/9_114.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/009114.mp3"
+        }
+    },
+    "english": "As for Abraham’s prayer for his father’s forgiveness, it was only in fulfilment of a promise he had made to him. But when it became clear to Abraham that his father was an enemy of Allah, he broke ties with him. Abraham was truly tender-hearted, forbearing.",
+    "arabic1": "وَمَا كَانَ ٱسْتِغْفَارُ إِبْرَٰهِيمَ لِأَبِيهِ إِلَّا عَن مَّوْعِدَةٍ وَعَدَهَآ إِيَّاهُ فَلَمَّا تَبَيَّنَ لَهُۥٓ أَنَّهُۥ عَدُوٌّ لِّلَّهِ تَبَرَّأَ مِنْهُ ۚ إِنَّ إِبْرَٰهِيمَ لَأَوَّٰهٌ حَلِيمٌ",
+    "arabic2": "وما كان استغفار ابراهيم لابيه الا عن موعدة وعدها اياه فلما تبين له انه عدو لله تبرا منه ان ابراهيم لاواه حليم",
+    "bengali": "নিজ পিতার জন্য ইবরাহীমের ক্ষমা প্রার্থনা তো ছিল একটি ওয়াদার কারণে, যে ওয়াদা সে তাকে দিয়েছিল। অতঃপর যখন তার নিকট স্পষ্ট হয়ে গেল যে, নিশ্চয় সে আল্লাহর শত্রু, সে তার সাথে সম্পর্ক ছিন্ন করল। নিশ্চয় ইবরাহীম ছিল অধিক প্রার্থনাকারী ও সহনশীল।",
+    "urdu": "اور ابراہیم کا اپنے باپ کے لیے بخشش مانگنا تو ایک وعدے کا سبب تھا جو وہ اس سے کر چکے تھے۔ لیکن جب ان کو معلوم ہوگیا کہ وہ خدا کا دشمن ہے تو اس سے بیزار ہوگئے۔ کچھ شک نہیں کہ ابراہیم بڑے نرم دل اور متحمل تھے"
+}

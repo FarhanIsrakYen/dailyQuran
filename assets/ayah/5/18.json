@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Maaida",
+    "surahNameArabic": "المائدة",
+    "surahNameArabicLong": "سورة المائدة",
+    "surahNameTranslation": "The Table",
+    "revelationPlace": "Madina",
+    "totalAyah": 120,
+    "surahNo": 5,
+    "ayahNo": 18,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/5_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/005018.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/5_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/005018.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/5_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/005018.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/5_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/005018.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/5_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/005018.mp3"
+        }
+    },
+    "english": "The Jews and the Christians each say, “We are the children of Allah and His most beloved!” Say, ˹O Prophet,˺ “Why then does He punish you for your sins? No! You are only humans like others of His Own making. He forgives whoever He wills and punishes whoever He wills. To Allah ˹alone˺ belongs the kingdom of the heavens and the earth and everything in between. And to Him is the final return.”",
+    "arabic1": "وَقَالَتِ ٱلْيَهُودُ وَٱلنَّصَـٰرَىٰ نَحْنُ أَبْنَـٰٓؤُا۟ ٱللَّهِ وَأَحِبَّـٰٓؤُهُۥ ۚ قُلْ فَلِمَ يُعَذِّبُكُم بِذُنُوبِكُم ۖ بَلْ أَنتُم بَشَرٌ مِّمَّنْ خَلَقَ ۚ يَغْفِرُ لِمَن يَشَآءُ وَيُعَذِّبُ مَن يَشَآءُ ۚ وَلِلَّهِ مُلْكُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَا ۖ وَإِلَيْهِ ٱلْمَصِيرُ",
+    "arabic2": "وقالت اليهود والنصارى نحن ابناء الله واحباؤه قل فلم يعذبكم بذنوبكم بل انتم بشر ممن خلق يغفر لمن يشاء ويعذب من يشاء ولله ملك السماوات والارض وما بينهما واليه المصير",
+    "bengali": "ইয়াহূদী ও নাসারারা বলে, ‘আমরা আল্লাহর পুত্র ও তার প্রিয়জন’। বল, ‘তবে কেন তিনি তোমাদেরকে তোমাদের পাপের কারণে আযাব দেন? বরং তোমরা তাদের অন্তর্ভুক্ত মানুষ, যাদেরকে তিনি সৃষ্টি করেছেন। তিনি যাকে ইচ্ছা তাকে ক্ষমা করেন এবং যাকে ইচ্ছা আযাব দেন। আর আসমানসমূহ ও যমীন এবং তাদের মধ্যবর্তী যা আছে তার সার্বভৌমত্ব আল্লাহর এবং তাঁরই নিকট প্রত্যাবর্তন’।",
+    "urdu": "اور یہود اور نصاریٰ کہتے ہیں کہ ہم خدا کے بیٹے اور اس کے پیارے ہیں کہو کہ پھر وہ تمہاری بداعمالیوں کے سبب تمھیں عذاب کیوں دیتا ہے (نہیں) بلکہ تم اس کی مخلوقات میں (دوسروں کی طرح کے) انسان ہو وہ جسے چاہے بخشے اور جسے چاہے عذاب دے اور آسمان زمین اور جو کچھ ان دونوں میں ہے سب پر خدا ہی کی حکومت ہے اور (سب کو) اسی کی طرف لوٹ کر جانا ہے"
+}

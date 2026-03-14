@@ -1,0 +1,42 @@
+{
+    "surahName": "Hud",
+    "surahNameArabic": "هود",
+    "surahNameArabicLong": "سورة هود",
+    "surahNameTranslation": "Hud",
+    "revelationPlace": "Mecca",
+    "totalAyah": 123,
+    "surahNo": 11,
+    "ayahNo": 13,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/11_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/011013.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/11_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/011013.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/11_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/011013.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/11_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/011013.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/11_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/011013.mp3"
+        }
+    },
+    "english": "Or do they say, “He has fabricated this ˹Quran˺!”? Say, ˹O Prophet,˺ “Produce ten fabricated sûrahs like it and seek help from whoever you can—other than Allah—if what you say is true!”",
+    "arabic1": "أَمْ يَقُولُونَ ٱفْتَرَىٰهُ ۖ قُلْ فَأْتُوا۟ بِعَشْرِ سُوَرٍ مِّثْلِهِۦ مُفْتَرَيَـٰتٍ وَٱدْعُوا۟ مَنِ ٱسْتَطَعْتُم مِّن دُونِ ٱللَّهِ إِن كُنتُمْ صَـٰدِقِينَ",
+    "arabic2": "ام يقولون افتراه قل فاتوا بعشر سور مثله مفتريات وادعوا من استطعتم من دون الله ان كنتم صادقين",
+    "bengali": "নাকি তারা বলে, ‘সে এটা রটনা করেছে’? বল, ‘তাহলে তোমরা এর অনুরূপ দশটি সূরা বানিয়ে নিয়ে আস এবং আল্লাহ ছাড়া যাকে পার ডেকে আন, যদি তোমরা সত্যবাদী হও’।",
+    "urdu": "یہ کیا کہتے ہیں کہ اس نے قرآن ازخود بنا لیا ہے؟ کہہ دو کہ اگر سچے ہو تو تم بھی ایسی دس سورتیں بنا لاؤ اور خدا کے سوا جس جس کو بلاسکتے ہو، بلا بھی لو"
+}

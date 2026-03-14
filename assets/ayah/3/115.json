@@ -1,0 +1,42 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 115,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/3_115.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/003115.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/3_115.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/003115.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/3_115.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/003115.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/3_115.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/003115.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/3_115.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/003115.mp3"
+        }
+    },
+    "english": "They will never be denied the reward for any good they have done. And Allah has ˹perfect˺ knowledge of those mindful ˹of Him˺.",
+    "arabic1": "وَمَا يَفْعَلُوا۟ مِنْ خَيْرٍ فَلَن يُكْفَرُوهُ ۗ وَٱللَّهُ عَلِيمٌۢ بِٱلْمُتَّقِينَ",
+    "arabic2": "وما يفعلوا من خير فلن يكفروه والله عليم بالمتقين",
+    "bengali": "আর তারা যে ভাল কাজ করে, তা কখনো অস্বীকার করা হবে না। আর আল্লাহ মুত্তাকীদের সম্পর্কে সম্যক জ্ঞাত।",
+    "urdu": "اور یہ جس طرح کی نیکی کریں گے اس کی ناقدری نہیں کی جائے گی اور خدا پرہیزگاروں کو خوب جانتا ہے"
+}

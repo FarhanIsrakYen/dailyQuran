@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 40,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/7_40.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/007040.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/7_40.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/007040.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/7_40.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/007040.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/7_40.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/007040.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/7_40.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/007040.mp3"
+        }
+    },
+    "english": "Surely those who receive our revelations with denial and arrogance, the gates of heaven will not be opened for them, nor will they enter Paradise until a camel passes through the eye of a needle. This is how We reward the wicked.",
+    "arabic1": "إِنَّ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَـٰتِنَا وَٱسْتَكْبَرُوا۟ عَنْهَا لَا تُفَتَّحُ لَهُمْ أَبْوَٰبُ ٱلسَّمَآءِ وَلَا يَدْخُلُونَ ٱلْجَنَّةَ حَتَّىٰ يَلِجَ ٱلْجَمَلُ فِى سَمِّ ٱلْخِيَاطِ ۚ وَكَذَٰلِكَ نَجْزِى ٱلْمُجْرِمِينَ",
+    "arabic2": "ان الذين كذبوا باياتنا واستكبروا عنها لا تفتح لهم ابواب السماء ولا يدخلون الجنة حتى يلج الجمل في سم الخياط وكذلك نجزي المجرمين",
+    "bengali": "নিশ্চয় যারা আমার আয়াতসমূহকে অস্বীকার করেছে এবং তার ব্যাপারে অহঙ্কার করেছে, তাদের জন্য আসমানের দরজাসমূহ খোলা হবে না এবং তারা জান্নাতে প্রবেশ করবে না, যতক্ষণ না উট সূঁচের ছিদ্রতে প্রবেশ করে।* আর এভাবেই আমি অপরাধীদেরকে প্রতিদান দেই। \n* এ দ্বারা তাদের জান্নাতে প্রবেশ করা অসম্ভব বুঝানো হয়েছে।",
+    "urdu": "جن لوگوں نے ہماری آیتوں کو جھٹلایا اور ان سے سرتابی کی۔ ان کے لیے نہ آسمان کے دروازے کھولے جائیں گے اور نہ وہ بہشت میں داخل ہوں گے۔ یہاں تک کہ اونٹ سوئی کے ناکے میں سے نہ نکل جائے اور گنہگاروں کو ہم ایسی ہی سزا دیا کرتے ہیں"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Saad",
+    "surahNameArabic": "ص",
+    "surahNameArabicLong": "سورة ص",
+    "surahNameTranslation": "The letter Saad",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 38,
+    "ayahNo": 26,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/38_26.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/038026.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/38_26.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/038026.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/38_26.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/038026.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/38_26.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/038026.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/38_26.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/038026.mp3"
+        }
+    },
+    "english": "˹We instructed him:˺ “O David! We have surely made you an authority in the land, so judge between people with truth. And do not follow ˹your˺ desires or they will lead you astray from Allah’s Way. Surely those who go astray from Allah’s Way will suffer a severe punishment for neglecting the Day of Reckoning.”",
+    "arabic1": "يَـٰدَاوُۥدُ إِنَّا جَعَلْنَـٰكَ خَلِيفَةً فِى ٱلْأَرْضِ فَٱحْكُم بَيْنَ ٱلنَّاسِ بِٱلْحَقِّ وَلَا تَتَّبِعِ ٱلْهَوَىٰ فَيُضِلَّكَ عَن سَبِيلِ ٱللَّهِ ۚ إِنَّ ٱلَّذِينَ يَضِلُّونَ عَن سَبِيلِ ٱللَّهِ لَهُمْ عَذَابٌ شَدِيدٌۢ بِمَا نَسُوا۟ يَوْمَ ٱلْحِسَابِ",
+    "arabic2": "يا داوود انا جعلناك خليفة في الارض فاحكم بين الناس بالحق ولا تتبع الهوى فيضلك عن سبيل الله ان الذين يضلون عن سبيل الله لهم عذاب شديد بما نسوا يوم الحساب",
+    "bengali": "(হে দাঊদ), নিশ্চয় আমি তোমাকে যমীনে খলীফা বানিয়েছি, অতএব তুমি মানুষের মধ্যে ন্যায়বিচার কর আর প্রবৃত্তির অনুসরণ করো না, কেননা তা তোমাকে আল্লাহর পথ থেকে বিচ্যুত করবে। নিশ্চয় যারা আল্লাহর পথ থেকে বিচ্যুত হয় তাদের জন্য কঠিন আযাব রয়েছে। কারণ তারা হিসাব দিবসকে ভুলে গিয়েছিল।",
+    "urdu": "اے داؤد ہم نے تم کو زمین میں بادشاہ بنایا ہے تو لوگوں میں انصاف کے فیصلے کیا کرو اور خواہش کی پیروی نہ کرنا کہ وہ تمہیں خدا کے رستے سے بھٹکا دے گی۔ جو لوگ خدا کے رستے سے بھٹکتے ہیں ان کے لئے سخت عذاب (تیار) ہے کہ انہوں نے حساب کے دن کو بھلا دیا"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Mumtahana",
+    "surahNameArabic": "الممتحنة",
+    "surahNameArabicLong": "سورة الممتحنة",
+    "surahNameTranslation": "She that is to be examined",
+    "revelationPlace": "Madina",
+    "totalAyah": 13,
+    "surahNo": 60,
+    "ayahNo": 8,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/60_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/060008.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/60_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/060008.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/60_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/060008.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/60_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/060008.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/60_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/060008.mp3"
+        }
+    },
+    "english": "Allah does not forbid you from dealing kindly and fairly with those who have neither fought nor driven you out of your homes. Surely Allah loves those who are fair.",
+    "arabic1": "لَّا يَنْهَىٰكُمُ ٱللَّهُ عَنِ ٱلَّذِينَ لَمْ يُقَـٰتِلُوكُمْ فِى ٱلدِّينِ وَلَمْ يُخْرِجُوكُم مِّن دِيَـٰرِكُمْ أَن تَبَرُّوهُمْ وَتُقْسِطُوٓا۟ إِلَيْهِمْ ۚ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُقْسِطِينَ",
+    "arabic2": "لا ينهاكم الله عن الذين لم يقاتلوكم في الدين ولم يخرجوكم من دياركم ان تبروهم وتقسطوا اليهم ان الله يحب المقسطين",
+    "bengali": "দীনের ব্যাপারে যারা তোমাদের বিরুদ্ধে যুদ্ধ করেনি এবং তোমাদেরকে তোমাদের বাড়ি-ঘর থেকে বের করে দেয়নি, তাদের প্রতি সদয় ব্যবহার করতে এবং তাদের প্রতি ন্যায়বিচার করতে আল্লাহ তোমাদেরকে নিষেধ করছেন না। নিশ্চয় আল্লাহ ন্যায় পরায়ণদেরকে ভালবাসেন।",
+    "urdu": "جن لوگوں نے تم سے دین کے بارے میں جنگ نہیں کی اور نہ تم کو تمہارے گھروں سے نکالا ان کے ساتھ بھلائی اور انصاف کا سلوک کرنے سے خدا تم کو منع نہیں کرتا۔ خدا تو انصاف کرنے والوں کو دوست رکھتا ہے"
+}

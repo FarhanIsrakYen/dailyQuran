@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Furqaan",
+    "surahNameArabic": "الفرقان",
+    "surahNameArabicLong": "سورة الفرقان",
+    "surahNameTranslation": "The Criterion",
+    "revelationPlace": "Mecca",
+    "totalAyah": 77,
+    "surahNo": 25,
+    "ayahNo": 75,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/25_75.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/025075.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/25_75.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/025075.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/25_75.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/025075.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/25_75.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/025075.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/25_75.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/025075.mp3"
+        }
+    },
+    "english": "It is they who will be rewarded with ˹elevated˺ mansions ˹in Paradise˺ for their perseverance, and will be received with salutations and ˹greetings of˺ peace",
+    "arabic1": "أُو۟لَـٰٓئِكَ يُجْزَوْنَ ٱلْغُرْفَةَ بِمَا صَبَرُوا۟ وَيُلَقَّوْنَ فِيهَا تَحِيَّةً وَسَلَـٰمًا",
+    "arabic2": "اولئك يجزون الغرفة بما صبروا ويلقون فيها تحية وسلاما",
+    "bengali": "তারাই, যাদেরকে [জান্নাতে] সুউচ্চ কক্ষ প্রতিদান হিসাবে দেয়া হবে যেহেতু তারা সবর করেছিল সেজন্য। আর তাদের সেখানে অভ্যর্থনা করা হবে অভিবাদন ও সালাম দ্বারা।",
+    "urdu": "ان (صفات کے) لوگوں کو ان کے صبر کے بدلے اونچے اونچے محل دیئے جائیں گے۔ اور وہاں فرشتے ان سے دعا وسلام کے ساتھ ملاقات کریں گے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Najm",
+    "surahNameArabic": "النجم",
+    "surahNameArabicLong": "سورة النجم",
+    "surahNameTranslation": "The Star",
+    "revelationPlace": "Mecca",
+    "totalAyah": 62,
+    "surahNo": 53,
+    "ayahNo": 14,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/53_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/053014.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/53_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/053014.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/53_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/053014.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/53_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/053014.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/53_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/053014.mp3"
+        }
+    },
+    "english": "at the Lote Tree of the most extreme limit ˹in the seventh heaven˺—",
+    "arabic1": "عِندَ سِدْرَةِ ٱلْمُنتَهَىٰ",
+    "arabic2": "عند سدرة المنتهى",
+    "bengali": "সিদরাতুল মুনতাহার* নিকট। \n* সিদরাতুল মুনতাহা হল সপ্তম আকাশে আরশের ডান দিকে একটি কুল জাতীয় বৃক্ষ, সকল সৃষ্টির জ্ঞানের সীমার শেষ প্রান্ত। তারপর কি আছে, একমাত্র আল্লাহই জানেন।",
+    "urdu": "پرلی حد کی بیری کے پاس"
+}

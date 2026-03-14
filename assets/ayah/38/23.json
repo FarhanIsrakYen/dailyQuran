@@ -1,0 +1,42 @@
+{
+    "surahName": "Saad",
+    "surahNameArabic": "ص",
+    "surahNameArabicLong": "سورة ص",
+    "surahNameTranslation": "The letter Saad",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 38,
+    "ayahNo": 23,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/38_23.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/038023.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/38_23.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/038023.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/38_23.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/038023.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/38_23.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/038023.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/38_23.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/038023.mp3"
+        }
+    },
+    "english": "This is my brother. He has ninety-nine sheep while I have ˹only˺ one. ˹Still˺ he asked me to give it up to him, overwhelming me with ˹his˺ argument.”",
+    "arabic1": "إِنَّ هَـٰذَآ أَخِى لَهُۥ تِسْعٌ وَتِسْعُونَ نَعْجَةً وَلِىَ نَعْجَةٌ وَٰحِدَةٌ فَقَالَ أَكْفِلْنِيهَا وَعَزَّنِى فِى ٱلْخِطَابِ",
+    "arabic2": "ان هذا اخي له تسع وتسعون نعجة ولي نعجة واحدة فقال اكفلنيها وعزني في الخطاب",
+    "bengali": "‘নিশ্চয় এ আমার ভাই। তার নিরানব্বইটি ভেড়ী আছে, আর আমার আছে মাত্র একটা ভেড়ী। তবুও সে বলে, ‘এ ভেড়ীটিও আমার তত্ত্বাবধানে দিয়ে দাও’, আর তর্কে সে আমার উপর প্রাধান্য বিস্তার করেছে’।",
+    "urdu": "(کیفیت یہ ہے کہ) یہ میرا بھائی ہے اس کے (ہاں) ننانوے دنبیاں ہیں اور میرے (پاس) ایک دُنبی ہے۔ یہ کہتا ہے کہ یہ بھی میرے حوالے کردے اور گفتگو میں مجھ پر زبردستی کرتا ہے"
+}

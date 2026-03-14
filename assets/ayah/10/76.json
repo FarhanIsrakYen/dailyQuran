@@ -1,0 +1,42 @@
+{
+    "surahName": "Yunus",
+    "surahNameArabic": "يونس",
+    "surahNameArabicLong": "سورة يونس",
+    "surahNameTranslation": "Jonas",
+    "revelationPlace": "Mecca",
+    "totalAyah": 109,
+    "surahNo": 10,
+    "ayahNo": 76,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/10_76.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/010076.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/10_76.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/010076.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/10_76.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/010076.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/10_76.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/010076.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/10_76.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/010076.mp3"
+        }
+    },
+    "english": "When the truth came to them from Us, they said, “This is certainly pure magic!”",
+    "arabic1": "فَلَمَّا جَآءَهُمُ ٱلْحَقُّ مِنْ عِندِنَا قَالُوٓا۟ إِنَّ هَـٰذَا لَسِحْرٌ مُّبِينٌ",
+    "arabic2": "فلما جاءهم الحق من عندنا قالوا ان هذا لسحر مبين",
+    "bengali": "অতঃপর যখন তাদের কাছে আমার পক্ষ থেকে সত্য এল, তারা বলল, ‘নিশ্চয় এটি সুস্পষ্ট যাদু’।",
+    "urdu": "تو جب ان کے پاس ہمارے ہاں سے حق آیا تو کہنے لگے کہ یہ تو صریح جادو ہے"
+}

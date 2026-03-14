@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Naml",
+    "surahNameArabic": "النمل",
+    "surahNameArabicLong": "سورة النمل",
+    "surahNameTranslation": "The Ant",
+    "revelationPlace": "Mecca",
+    "totalAyah": 93,
+    "surahNo": 27,
+    "ayahNo": 44,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/27_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/027044.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/27_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/027044.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/27_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/027044.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/27_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/027044.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/27_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/027044.mp3"
+        }
+    },
+    "english": "Then she was told, “Enter the palace.” But when she saw the hall, she thought it was a body of water, so she bared her legs. Solomon said. “It is just a palace paved with crystal.” ˹At last˺ she declared, “My Lord! I have certainly wronged my soul. Now I ˹fully˺ submit myself along with Solomon to Allah, the Lord of all worlds.”",
+    "arabic1": "قِيلَ لَهَا ٱدْخُلِى ٱلصَّرْحَ ۖ فَلَمَّا رَأَتْهُ حَسِبَتْهُ لُجَّةً وَكَشَفَتْ عَن سَاقَيْهَا ۚ قَالَ إِنَّهُۥ صَرْحٌ مُّمَرَّدٌ مِّن قَوَارِيرَ ۗ قَالَتْ رَبِّ إِنِّى ظَلَمْتُ نَفْسِى وَأَسْلَمْتُ مَعَ سُلَيْمَـٰنَ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ",
+    "arabic2": "قيل لها ادخلي الصرح فلما راته حسبته لجة وكشفت عن ساقيها قال انه صرح ممرد من قوارير قالت رب اني ظلمت نفسي واسلمت مع سليمان لله رب العالمين",
+    "bengali": "তাকে বলা হল, ‘প্রাসাদটিতে প্রবেশ কর’। অতঃপর যখন সে তা দেখল, সে তাকে এক গভীর জলাশয় ধারণা করল, এবং তার পায়ের গোছাদ্বয় অনাবৃত করল। সুলাইমান বলল, ‘এটি আসলে স্বচ্ছ কাঁচ-নির্মিত প্রাসাদ’। সে বলল, ‘হে আমার রব, নিশ্চয় আমি আমার নিজের প্রতি যুলম করেছি। আমি সুলাইমানের সাথে সৃষ্টিকুলের রব আল্লাহর নিকট আত্মসমর্পণ করলাম’।",
+    "urdu": "(پھر) اس سے کہا گیا کہ محل میں چلیے، جب اس نے اس (کے فرش) کو دیکھا تو اسے پانی کا حوض سمجھا اور (کپڑا اٹھا کر) اپنی پنڈلیاں کھول دیں۔ سلیمان نے کہا یہ ایسا محل ہے جس میں (نیچے بھی) شیشے جڑے ہوئے ہیں۔ وہ بول اٹھی کہ پروردگار میں اپنے آپ پر ظلم کرتی رہی تھی اور (اب) میں سلیمان کے ہاتھ پر خدائے رب العالمین پر ایمان لاتی ہوں"
+}

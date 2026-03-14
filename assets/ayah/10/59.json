@@ -1,0 +1,42 @@
+{
+    "surahName": "Yunus",
+    "surahNameArabic": "يونس",
+    "surahNameArabicLong": "سورة يونس",
+    "surahNameTranslation": "Jonas",
+    "revelationPlace": "Mecca",
+    "totalAyah": 109,
+    "surahNo": 10,
+    "ayahNo": 59,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/10_59.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/010059.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/10_59.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/010059.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/10_59.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/010059.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/10_59.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/010059.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/10_59.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/010059.mp3"
+        }
+    },
+    "english": "Ask ˹the pagans, O  Prophet˺, “Have you seen that which Allah has sent down for you as a provision, of which you have made some lawful and some unlawful?” Say, “Has Allah given you authorization, or are you fabricating lies against Allah?”",
+    "arabic1": "قُلْ أَرَءَيْتُم مَّآ أَنزَلَ ٱللَّهُ لَكُم مِّن رِّزْقٍ فَجَعَلْتُم مِّنْهُ حَرَامًا وَحَلَـٰلًا قُلْ ءَآللَّهُ أَذِنَ لَكُمْ ۖ أَمْ عَلَى ٱللَّهِ تَفْتَرُونَ",
+    "arabic2": "قل ارايتم ما انزل الله لكم من رزق فجعلتم منه حراما وحلالا قل الله اذن لكم ام على الله تفترون",
+    "bengali": "বল, ‘তোমরা কি ভেবে দেখেছ, আল্লাহ তোমাদের জন্য যে রিয্ক নাযিল করেছেন, পরে তোমরা তার কিছু বানিয়েছ হারাম ও হালাল’। বল, ‘আল্লাহ কি তোমাদেরকে অনুমতি দিয়েছেন, নাকি আল্লাহর উপর তোমরা মিথ্যা রটাচ্ছ’?",
+    "urdu": "کہو کہ بھلا دیکھو تو خدا نے تمھارے لئے جو رزق نازل فرمایا تو تم نے اس میں سے (بعض کو) حرام ٹھہرایا اور (بعض کو) حلال (ان سے) پوچھو کیا خدا نے تم کو اس کا حکم دیا ہے یا تم خدا پر افتراء کرتے ہو"
+}

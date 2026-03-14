@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 29,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/9_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/009029.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/9_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/009029.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/9_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/009029.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/9_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/009029.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/9_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/009029.mp3"
+        }
+    },
+    "english": "Fight those who do not believe in Allah and the Last Day, nor comply with what Allah and His Messenger have forbidden, nor embrace the religion of truth from among those who were given the Scripture, until they pay the tax, willingly submitting, fully humbled.",
+    "arabic1": "قَـٰتِلُوا۟ ٱلَّذِينَ لَا يُؤْمِنُونَ بِٱللَّهِ وَلَا بِٱلْيَوْمِ ٱلْـَٔاخِرِ وَلَا يُحَرِّمُونَ مَا حَرَّمَ ٱللَّهُ وَرَسُولُهُۥ وَلَا يَدِينُونَ دِينَ ٱلْحَقِّ مِنَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ حَتَّىٰ يُعْطُوا۟ ٱلْجِزْيَةَ عَن يَدٍ وَهُمْ صَـٰغِرُونَ",
+    "arabic2": "قاتلوا الذين لا يؤمنون بالله ولا باليوم الاخر ولا يحرمون ما حرم الله ورسوله ولا يدينون دين الحق من الذين اوتوا الكتاب حتى يعطوا الجزية عن يد وهم صاغرون",
+    "bengali": "তোমরা লড়াই কর আহলে কিতাবের সে সব লোকের সাথে যারা আল্লাহ ও শেষ দিবসে ঈমান রাখে না এবং আল্লাহ ও তাঁর রাসূল যা হারাম করেছেন তা হারাম মনে করে না, আর সত্য দীন গ্রহণ করে না, যতক্ষণ না তারা স্বহস্তে নত হয়ে জিয্য়া দেয়।",
+    "urdu": "جو اہل کتاب میں سے خدا پر ایمان نہیں لاتے اور نہ روز آخرت پر (یقین رکھتے ہیں) اور نہ ان چیزوں کو حرام سمجھتے ہیں جو خدا اور اس کے رسول نے حرام کی ہیں اور نہ دین حق کو قبول کرتے ہیں ان سے جنگ کرو یہاں تک کہ ذلیل ہوکر اپنے ہاتھ سے جزیہ دیں"
+}

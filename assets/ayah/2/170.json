@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 170,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_170.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002170.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_170.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002170.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_170.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002170.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_170.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002170.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_170.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002170.mp3"
+        }
+    },
+    "english": "When it is said to them, “Follow what Allah has revealed,” they reply, “No! We ˹only˺ follow what we found our forefathers practicing.” ˹Would they still do so,˺ even if their forefathers had ˹absolutely˺ no understanding or guidance?",
+    "arabic1": "وَإِذَا قِيلَ لَهُمُ ٱتَّبِعُوا۟ مَآ أَنزَلَ ٱللَّهُ قَالُوا۟ بَلْ نَتَّبِعُ مَآ أَلْفَيْنَا عَلَيْهِ ءَابَآءَنَآ ۗ أَوَلَوْ كَانَ ءَابَآؤُهُمْ لَا يَعْقِلُونَ شَيْـًٔا وَلَا يَهْتَدُونَ",
+    "arabic2": "واذا قيل لهم اتبعوا ما انزل الله قالوا بل نتبع ما الفينا عليه اباءنا اولو كان اباؤهم لا يعقلون شيئا ولا يهتدون",
+    "bengali": "আর যখন তাদেরকে বলা হয়, ‘তোমরা অনুসরণ কর, যা আল্লাহ নাযিল করেছেন’, তারা বলে, ‘বরং আমরা অনুসরণ করব আমাদের পিতৃ-পুরুষদেরকে যার উপর পেয়েছি’। যদি তাদের পিতৃ-পুরুষরা কিছু না বুঝে এবং হিদায়াতপ্রাপ্ত না হয়, তাহলেও কি?",
+    "urdu": "اور جب ان لوگوں سے کہا جاتا ہے کہ جو (کتاب) خدا نے نازل فرمائی ہے اس کی پیروی کرو تو کہتے ہیں (نہیں) بلکہ ہم تو اسی چیز کی پیروی کریں گے جس پر ہم نے اپنے باپ دادا کو پایا۔ بھلا اگرچہ ان کے باپ دادا نہ کچھ سمجھتے ہوں اورنہ سیدھے رستے پر ہوں (تب بھی وہ انہیں کی تقلید کئے جائیں گے)"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Naml",
+    "surahNameArabic": "النمل",
+    "surahNameArabicLong": "سورة النمل",
+    "surahNameTranslation": "The Ant",
+    "revelationPlace": "Mecca",
+    "totalAyah": 93,
+    "surahNo": 27,
+    "ayahNo": 80,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/27_80.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/027080.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/27_80.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/027080.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/27_80.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/027080.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/27_80.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/027080.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/27_80.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/027080.mp3"
+        }
+    },
+    "english": "You certainly cannot make the dead hear ˹the truth˺. Nor can you make the deaf hear the call when they turn their backs and walk away.",
+    "arabic1": "إِنَّكَ لَا تُسْمِعُ ٱلْمَوْتَىٰ وَلَا تُسْمِعُ ٱلصُّمَّ ٱلدُّعَآءَ إِذَا وَلَّوْا۟ مُدْبِرِينَ",
+    "arabic2": "انك لا تسمع الموتى ولا تسمع الصم الدعاء اذا ولوا مدبرين",
+    "bengali": "নিশ্চয় তুমি মৃতকে শোনাতে পারবে না, আর তুমি বধিরকে আহবান শোনাতে পারবে না, যখন তারা পিঠ দেখিয়ে চলে যায়।",
+    "urdu": "کچھ شک نہیں کہ تم مردوں کو (بات) نہیں سنا سکتے اور نہ بہروں کو جب کہ وہ پیٹھ پھیر کر پھر جائیں آواز سنا سکتے ہو"
+}

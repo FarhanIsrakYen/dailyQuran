@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Maaida",
+    "surahNameArabic": "المائدة",
+    "surahNameArabicLong": "سورة المائدة",
+    "surahNameTranslation": "The Table",
+    "revelationPlace": "Madina",
+    "totalAyah": 120,
+    "surahNo": 5,
+    "ayahNo": 60,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/5_60.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/005060.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/5_60.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/005060.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/5_60.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/005060.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/5_60.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/005060.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/5_60.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/005060.mp3"
+        }
+    },
+    "english": "Say, ˹O Prophet,˺ “Shall I inform you of those who deserve a worse punishment from Allah ˹than the rebellious˺? It is those who earned Allah’s condemnation and displeasure—some being reduced to apes and pigs and worshippers of false gods. These are far worse in rank and farther astray from the Right Way.”",
+    "arabic1": "قُلْ هَلْ أُنَبِّئُكُم بِشَرٍّ مِّن ذَٰلِكَ مَثُوبَةً عِندَ ٱللَّهِ ۚ مَن لَّعَنَهُ ٱللَّهُ وَغَضِبَ عَلَيْهِ وَجَعَلَ مِنْهُمُ ٱلْقِرَدَةَ وَٱلْخَنَازِيرَ وَعَبَدَ ٱلطَّـٰغُوتَ ۚ أُو۟لَـٰٓئِكَ شَرٌّ مَّكَانًا وَأَضَلُّ عَن سَوَآءِ ٱلسَّبِيلِ",
+    "arabic2": "قل هل انبئكم بشر من ذلك مثوبة عند الله من لعنه الله وغضب عليه وجعل منهم القردة والخنازير وعبد الطاغوت اولئك شر مكانا واضل عن سواء السبيل",
+    "bengali": "বল, ‘আমি কি তোমাদেরকে আল্লাহর নিকট পরিণতির বিচারে এর চেয়ে মন্দ কিছুর সংবাদ দেব? যাকে আল্লাহ লা‘নত দিয়েছেন এবং যার উপর তিনি ক্রোধান্বিত হয়েছেন? আর যাদের মধ্য থেকে বাঁদর ও শূকর বানিয়েছেন এবং তারা তাগূতের উপাসনা করেছে। তারাই অবস্থানে মন্দ এবং সোজা পথ থেকে সর্বাধিক বিচ্যুত’।",
+    "urdu": "کہو کہ میں تمہیں بتاؤں کہ خدا کے ہاں اس سے بھی بدتر جزا پانے والے کون ہیں؟ وہ لوگ ہیں جن پر خدا نے لعنت کی اور جن پر وہ غضبناک ہوا اور (جن کو) ان میں سے بندر اور سور بنا دیا اور جنہوں نے شیطان کی پرستش کی ایسے لوگوں کا برا ٹھکانہ ہے اور وہ سیدھے رستے سے بہت دور ہیں"
+}

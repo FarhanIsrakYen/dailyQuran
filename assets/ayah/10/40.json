@@ -1,0 +1,42 @@
+{
+    "surahName": "Yunus",
+    "surahNameArabic": "يونس",
+    "surahNameArabicLong": "سورة يونس",
+    "surahNameTranslation": "Jonas",
+    "revelationPlace": "Mecca",
+    "totalAyah": 109,
+    "surahNo": 10,
+    "ayahNo": 40,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/10_40.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/010040.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/10_40.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/010040.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/10_40.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/010040.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/10_40.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/010040.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/10_40.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/010040.mp3"
+        }
+    },
+    "english": "Some of them will ˹eventually˺ believe in it; others will not. And your Lord knows best the corruptors.",
+    "arabic1": "وَمِنْهُم مَّن يُؤْمِنُ بِهِۦ وَمِنْهُم مَّن لَّا يُؤْمِنُ بِهِۦ ۚ وَرَبُّكَ أَعْلَمُ بِٱلْمُفْسِدِينَ",
+    "arabic2": "ومنهم من يؤمن به ومنهم من لا يؤمن به وربك اعلم بالمفسدين",
+    "bengali": "আর তাদের মধ্যে কেউ এর প্রতি ঈমান আনে এবং কেউ তাতে ঈমান আনে না। আর তোমার রব ফাসাদকারীদের ব্যাপারে অধিক জ্ঞাত।",
+    "urdu": "اور ان میں سے کچھ تو ایسے ہیں کہ اس پر ایمان لے آتے ہیں اور کچھ ایسے ہیں کہ ایمان نہیں لاتے۔ اور تمھارا پروردگار شریروں سے خوب واقف ہے"
+}

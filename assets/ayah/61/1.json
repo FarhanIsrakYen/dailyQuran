@@ -1,0 +1,42 @@
+{
+    "surahName": "As-Saff",
+    "surahNameArabic": "الصف",
+    "surahNameArabicLong": "سورة الصف",
+    "surahNameTranslation": "The Ranks",
+    "revelationPlace": "Madina",
+    "totalAyah": 14,
+    "surahNo": 61,
+    "ayahNo": 1,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/61_1.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/061001.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/61_1.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/061001.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/61_1.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/061001.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/61_1.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/061001.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/61_1.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/061001.mp3"
+        }
+    },
+    "english": "Whatever is in the heavens and whatever is on the earth glorifies Allah. For He ˹alone˺ is the Almighty, All-Wise.",
+    "arabic1": "سَبَّحَ لِلَّهِ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۖ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+    "arabic2": "سبح لله ما في السماوات وما في الارض وهو العزيز الحكيم",
+    "bengali": "আসমানসমূহে যা কিছু আছে ও যমীনে যা কিছু আছে, সবই আল্লাহর তাসবীহ পাঠ করছে। আর তিনি মহাপরাক্রমশালী, প্রজ্ঞাময়।",
+    "urdu": "جو چیز آسمانوں میں ہے اور زمین میں ہے سب خدا کی تنزیہ کرتی ہے اور وہ غالب حکمت والا ہے"
+}

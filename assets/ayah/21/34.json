@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Anbiyaa",
+    "surahNameArabic": "الأنبياء",
+    "surahNameArabicLong": "سورة الأنبياء",
+    "surahNameTranslation": "The Prophets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 112,
+    "surahNo": 21,
+    "ayahNo": 34,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/21_34.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/021034.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/21_34.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/021034.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/21_34.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/021034.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/21_34.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/021034.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/21_34.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/021034.mp3"
+        }
+    },
+    "english": "We have not granted immortality to any human before you ˹O Prophet˺: so if you die, will they live forever?",
+    "arabic1": "وَمَا جَعَلْنَا لِبَشَرٍ مِّن قَبْلِكَ ٱلْخُلْدَ ۖ أَفَإِي۟ن مِّتَّ فَهُمُ ٱلْخَـٰلِدُونَ",
+    "arabic2": "وما جعلنا لبشر من قبلك الخلد افان مت فهم الخالدون",
+    "bengali": "আর তোমার পূর্বে কোন মানুষকে আমি স্থায়ী জীবন দান করিনি; সুতরাং তোমার মৃত্যু হলে তারা কি অনন্ত জীবনসম্পন্ন হয়ে থাকবে ?",
+    "urdu": "اور (اے پیغمبر) ہم نے تم سے پہلے کسی آدمی کو بقائے دوام نہیں بخشا۔ بھلا اگر تم مرجاؤ تو کیا یہ لوگ ہمیشہ رہیں گے"
+}

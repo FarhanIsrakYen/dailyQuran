@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Ahzaab",
+    "surahNameArabic": "الأحزاب",
+    "surahNameArabicLong": "سورة الأحزاب",
+    "surahNameTranslation": "The Clans",
+    "revelationPlace": "Madina",
+    "totalAyah": 73,
+    "surahNo": 33,
+    "ayahNo": 24,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/33_24.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/033024.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/33_24.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/033024.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/33_24.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/033024.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/33_24.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/033024.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/33_24.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/033024.mp3"
+        }
+    },
+    "english": "˹It all happened˺ so Allah may reward the faithful for their faithfulness, and punish the hypocrites if He wills or turn to them ˹in mercy˺. Surely Allah is All-Forgiving, Most Merciful.",
+    "arabic1": "لِّيَجْزِىَ ٱللَّهُ ٱلصَّـٰدِقِينَ بِصِدْقِهِمْ وَيُعَذِّبَ ٱلْمُنَـٰفِقِينَ إِن شَآءَ أَوْ يَتُوبَ عَلَيْهِمْ ۚ إِنَّ ٱللَّهَ كَانَ غَفُورًا رَّحِيمًا",
+    "arabic2": "ليجزي الله الصادقين بصدقهم ويعذب المنافقين ان شاء او يتوب عليهم ان الله كان غفورا رحيما",
+    "bengali": "যাতে আল্লাহ সত্যবাদীদেরকে তাদের সত্যবাদিতার জন্য পুরস্কৃত করতে পারেন এবং তিনি চাইলে মুনাফিকদের আযাব দিতে পারেন অথবা তাদের ক্ষমা করে দিতে পারেন। নিশ্চয় আল্লাহ পরম ক্ষমাশীল, পরম দয়ালু।",
+    "urdu": "تاکہ خدا سچّوں کو اُن کی سچائی کا بدلہ دے اور منافقوں کو چاہے تو عذاب دے اور (چاہے) تو اُن پر مہربانی کرے۔ بےشک خدا بخشنے والا مہربان ہے"
+}

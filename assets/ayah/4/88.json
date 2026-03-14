@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 88,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/4_88.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/004088.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/4_88.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/004088.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/4_88.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/004088.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/4_88.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/004088.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/4_88.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/004088.mp3"
+        }
+    },
+    "english": "Why are you ˹believers˺ divided into two groups regarding the hypocrites while Allah allowed them to regress ˹to disbelief˺ because of their misdeeds? Do you wish to guide those left by Allah to stray? And whoever Allah leaves to stray, you will never find for them a way.",
+    "arabic1": "۞ فَمَا لَكُمْ فِى ٱلْمُنَـٰفِقِينَ فِئَتَيْنِ وَٱللَّهُ أَرْكَسَهُم بِمَا كَسَبُوٓا۟ ۚ أَتُرِيدُونَ أَن تَهْدُوا۟ مَنْ أَضَلَّ ٱللَّهُ ۖ وَمَن يُضْلِلِ ٱللَّهُ فَلَن تَجِدَ لَهُۥ سَبِيلًا",
+    "arabic2": "فما لكم في المنافقين فئتين والله اركسهم بما كسبوا اتريدون ان تهدوا من اضل الله ومن يضلل الله فلن تجد له سبيلا",
+    "bengali": "সুতরাং মুনাফিকদের ব্যাপারে তোমাদের কী হল যে, তোমরা দু’ দল হয়ে গেলে? অথচ আল্লাহ তারা যা কামাই করেছে তার জন্য তাদেরকে পূর্বাবস্থায় ফিরিয়ে দিয়েছেন। আল্লাহ যাকে পথভ্রষ্ট করেছেন তোমরা কি তাকে হিদায়াত করতে চাও? আর আল্লাহ যাকে পথভ্রষ্ট করেন তুমি কখনো তার জন্য কোন পথ পাবে না।",
+    "urdu": "تو کیا سبب ہے کہ تم منافقوں کے بارے میں دو گروہ ہو رہے ہو حالانکہ خدا نے ان کو ان کے کرتوتوں کے سبب اوندھا کردیا ہے کیا تم چاہتے ہو کہ جس شخص کو خدا نے گمراہ کردیا ہے اس کو رستے پر لے آؤ اور جس شخص کو خدا گمراہ کردے تو اس کے لئے کبھی بھی رستہ نہیں پاؤ گے"
+}

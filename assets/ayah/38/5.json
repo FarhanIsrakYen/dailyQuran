@@ -1,0 +1,42 @@
+{
+    "surahName": "Saad",
+    "surahNameArabic": "ص",
+    "surahNameArabicLong": "سورة ص",
+    "surahNameTranslation": "The letter Saad",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 38,
+    "ayahNo": 5,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/38_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/038005.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/38_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/038005.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/38_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/038005.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/38_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/038005.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/38_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/038005.mp3"
+        }
+    },
+    "english": "Has he reduced ˹all˺ the gods to One God? Indeed, this is something totally astonishing.”",
+    "arabic1": "أَجَعَلَ ٱلْـَٔالِهَةَ إِلَـٰهًا وَٰحِدًا ۖ إِنَّ هَـٰذَا لَشَىْءٌ عُجَابٌ",
+    "arabic2": "اجعل الالهة الها واحدا ان هذا لشيء عجاب",
+    "bengali": "‘সে কি সকল উপাস্যকে এক ইলাহ বানিয়ে নিয়েছে? নিশ্চয় এ তো এক আশ্চর্য বিষয়’!",
+    "urdu": "کیا اس نے اتنے معبودوں کی جگہ ایک ہی معبود بنا دیا۔ یہ تو بڑی عجیب بات ہے"
+}

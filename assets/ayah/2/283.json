@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 283,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_283.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002283.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_283.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002283.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_283.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002283.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_283.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002283.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_283.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002283.mp3"
+        }
+    },
+    "english": "If you are on a journey and a scribe cannot be found, then a security can be taken. If you trust one another, then ˹there is no need for a security, but˺ the debtor should honour this trust ˹by repaying the debt˺—and let them fear Allah, their Lord. And do not conceal the testimony, for whoever conceals it, their hearts are indeed sinful. And Allah ˹fully˺ knows what you do.",
+    "arabic1": "۞ وَإِن كُنتُمْ عَلَىٰ سَفَرٍ وَلَمْ تَجِدُوا۟ كَاتِبًا فَرِهَـٰنٌ مَّقْبُوضَةٌ ۖ فَإِنْ أَمِنَ بَعْضُكُم بَعْضًا فَلْيُؤَدِّ ٱلَّذِى ٱؤْتُمِنَ أَمَـٰنَتَهُۥ وَلْيَتَّقِ ٱللَّهَ رَبَّهُۥ ۗ وَلَا تَكْتُمُوا۟ ٱلشَّهَـٰدَةَ ۚ وَمَن يَكْتُمْهَا فَإِنَّهُۥٓ ءَاثِمٌ قَلْبُهُۥ ۗ وَٱللَّهُ بِمَا تَعْمَلُونَ عَلِيمٌ",
+    "arabic2": "وان كنتم على سفر ولم تجدوا كاتبا فرهان مقبوضة فان امن بعضكم بعضا فليؤد الذي اؤتمن امانته وليتق الله ربه ولا تكتموا الشهادة ومن يكتمها فانه اثم قلبه والله بما تعملون عليم",
+    "bengali": "আর যদি তোমরা সফরে থাক এবং কোন লেখক না পাও, তাহলে হস্তান্তরিত বন্ধক রাখবে। আর যদি তোমরা একে অপরকে বিশ্বস্ত মনে কর, তবে যাকে বিশ্বস্ত মনে করা হয়, সে যেন স্বীয় আমানত আদায় করে এবং নিজ রব আল্লাহর তাকওয়া অবলম্বন করে। আর তোমরা সাক্ষ্য গোপন করো না এবং যে কেউ তা গোপন করে, অবশ্যই তার অন্তর পাপী। আর তোমরা যা আমল কর, আল্লাহ সে ব্যাপারে সবিশেষ অবহিত।",
+    "urdu": "اور اگر تم سفر پر ہواور (دستاویز) لکھنے والا مل نہ سکے تو (کوئی چیز) رہن یا قبضہ رکھ کر (قرض لے لو) اور اگر کوئی کسی کو امین سمجھے (یعنی رہن کے بغیر قرض دیدے) تو امانتدار کو چاہیئے کہ صاحب امانت کی امانت ادا کردے اور خدا سے جو اس کا پروردگار ہے ڈرے۔اور (دیکھنا) شہادت کو مت چھپانا۔ جو اس کو چھپائے گا وہ دل کا گنہگار ہوگا۔ اور خدا تمہارے سب کاموں سے واقف ہے"
+}

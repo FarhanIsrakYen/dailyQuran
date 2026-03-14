@@ -1,0 +1,42 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 102,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/3_102.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/003102.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/3_102.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/003102.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/3_102.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/003102.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/3_102.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/003102.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/3_102.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/003102.mp3"
+        }
+    },
+    "english": "O believers! Be mindful of Allah in the way He deserves, and do not die except in ˹a state of full˺ submission ˹to Him˺.",
+    "arabic1": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱتَّقُوا۟ ٱللَّهَ حَقَّ تُقَاتِهِۦ وَلَا تَمُوتُنَّ إِلَّا وَأَنتُم مُّسْلِمُونَ",
+    "arabic2": "يا ايها الذين امنوا اتقوا الله حق تقاته ولا تموتن الا وانتم مسلمون",
+    "bengali": "হে মুমিনগণ, তোমরা আল্লাহকে ভয় কর, যথাযথ ভয়। আর তোমরা মুসলমান হওয়া ছাড়া মারা যেও না।",
+    "urdu": "مومنو! خدا سے ڈرو جیسا کہ اس سے ڈرنے کا حق ہے اور مرنا تو مسلمان ہی مرنا"
+}

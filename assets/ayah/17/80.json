@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 80,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/17_80.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/017080.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/17_80.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/017080.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/17_80.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/017080.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/17_80.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/017080.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/17_80.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/017080.mp3"
+        }
+    },
+    "english": "And say, “My Lord! Grant me an honourable entrance and an honourable exit and give me a supporting authority from Yourself.”",
+    "arabic1": "وَقُل رَّبِّ أَدْخِلْنِى مُدْخَلَ صِدْقٍ وَأَخْرِجْنِى مُخْرَجَ صِدْقٍ وَٱجْعَل لِّى مِن لَّدُنكَ سُلْطَـٰنًا نَّصِيرًا",
+    "arabic2": "وقل رب ادخلني مدخل صدق واخرجني مخرج صدق واجعل لي من لدنك سلطانا نصيرا",
+    "bengali": "আর বল, ‘হে আমার রব, আমাকে প্রবেশ করাও উত্তমভাবে এবং বের কর উত্তমভাবে*। আর তোমার পক্ষ থেকে আমাকে সাহায্যকারী শক্তি দান কর’। \n* উত্তমভাবে প্রবেশ করাও অর্থাৎ সসম্মানে ও মর্যাদার সাথে মদীনায় প্রবেশ করাও এবং বের কর উত্তমভাবে অর্থাৎ মক্কা থেকে বের কর বিজয়ী বেশে। তাফসীরে শাওকানী।",
+    "urdu": "اور کہو کہ اے پروردگار مجھے (مدینے میں) اچھی طرح داخل کیجیو اور (مکے سے) اچھی طرح نکالیو۔ اور اپنے ہاں سے زور وقوت کو میرا مددگار بنائیو"
+}

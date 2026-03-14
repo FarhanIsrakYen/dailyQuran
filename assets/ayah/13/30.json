@@ -1,0 +1,42 @@
+{
+    "surahName": "Ar-Ra'd",
+    "surahNameArabic": "الرعد",
+    "surahNameArabicLong": "سورة الرعد",
+    "surahNameTranslation": "The Thunder",
+    "revelationPlace": "Madina",
+    "totalAyah": 43,
+    "surahNo": 13,
+    "ayahNo": 30,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/13_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/013030.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/13_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/013030.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/13_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/013030.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/13_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/013030.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/13_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/013030.mp3"
+        }
+    },
+    "english": "And so We have sent you ˹O Prophet˺ to a community, like ˹We did with˺ earlier communities, so that you may recite to them what We have revealed to you. Yet they deny the Most Compassionate. Say, “He is my Lord! There is no god ˹worthy of worship˺ except Him. In Him I put my trust, and to Him I turn ˹in repentance˺.”",
+    "arabic1": "كَذَٰلِكَ أَرْسَلْنَـٰكَ فِىٓ أُمَّةٍ قَدْ خَلَتْ مِن قَبْلِهَآ أُمَمٌ لِّتَتْلُوَا۟ عَلَيْهِمُ ٱلَّذِىٓ أَوْحَيْنَآ إِلَيْكَ وَهُمْ يَكْفُرُونَ بِٱلرَّحْمَـٰنِ ۚ قُلْ هُوَ رَبِّى لَآ إِلَـٰهَ إِلَّا هُوَ عَلَيْهِ تَوَكَّلْتُ وَإِلَيْهِ مَتَابِ",
+    "arabic2": "كذلك ارسلناك في امة قد خلت من قبلها امم لتتلو عليهم الذي اوحينا اليك وهم يكفرون بالرحمن قل هو ربي لا اله الا هو عليه توكلت واليه متاب",
+    "bengali": "এমনিভাবে আমি তোমাকে পাঠিয়েছি এমন এক জাতির নিকট, যার পূর্বে অনেক জাতি গত হয়েছে, যেন আমি তোমার প্রতি যে ওহী প্রেরণ করেছি, তা তাদের নিকট তিলাওয়াত কর। অথচ তারা রহমানকে অস্বীকার করে। বল, ‘তিনি আমার রব, তিনি ছাড়া আর কোন (সত্য) ইলাহ নেই, তাঁরই উপর আমি তাওয়াক্কুল করেছি এবং তাঁরই দিকে আমার প্রত্যাবর্তন’।",
+    "urdu": "(جس طرح ہم اور پیغمبر بھیجتے رہے ہیں) اسی طرح (اے محمدﷺ) ہم نے تم کو اس امت میں جس سے پہلے بہت سی امتیں گزر چکی ہیں بھیجا ہے تاکہ تم ان کو وہ (کتاب) جو ہم نے تمہاری طرف بھیجی ہے پڑھ کر سنا دو اور یہ لوگ رحمٰن کو نہیں مانتے۔ کہہ دو وہی تو میرا پروردگار ہے اس کے سوا کوئی معبود نہیں۔ میں اسی پر بھروسہ رکھتا ہوں اور اسی کی طرف رجوع کرتا ہوں"
+}

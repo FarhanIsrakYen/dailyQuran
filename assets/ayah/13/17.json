@@ -1,0 +1,42 @@
+{
+    "surahName": "Ar-Ra'd",
+    "surahNameArabic": "الرعد",
+    "surahNameArabicLong": "سورة الرعد",
+    "surahNameTranslation": "The Thunder",
+    "revelationPlace": "Madina",
+    "totalAyah": 43,
+    "surahNo": 13,
+    "ayahNo": 17,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/13_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/013017.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/13_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/013017.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/13_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/013017.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/13_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/013017.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/13_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/013017.mp3"
+        }
+    },
+    "english": "He sends down rain from the sky, causing the valleys to flow, each according to its capacity. The currents then carry along rising foam, similar to the slag produced from metal that people melt in the fire for ornaments or tools. This is how Allah compares truth to falsehood. The ˹worthless˺ residue is then cast away, but what benefits people remains on the earth. This is how Allah sets forth parables.",
+    "arabic1": "أَنزَلَ مِنَ ٱلسَّمَآءِ مَآءً فَسَالَتْ أَوْدِيَةٌۢ بِقَدَرِهَا فَٱحْتَمَلَ ٱلسَّيْلُ زَبَدًا رَّابِيًا ۚ وَمِمَّا يُوقِدُونَ عَلَيْهِ فِى ٱلنَّارِ ٱبْتِغَآءَ حِلْيَةٍ أَوْ مَتَـٰعٍ زَبَدٌ مِّثْلُهُۥ ۚ كَذَٰلِكَ يَضْرِبُ ٱللَّهُ ٱلْحَقَّ وَٱلْبَـٰطِلَ ۚ فَأَمَّا ٱلزَّبَدُ فَيَذْهَبُ جُفَآءً ۖ وَأَمَّا مَا يَنفَعُ ٱلنَّاسَ فَيَمْكُثُ فِى ٱلْأَرْضِ ۚ كَذَٰلِكَ يَضْرِبُ ٱللَّهُ ٱلْأَمْثَالَ",
+    "arabic2": "انزل من السماء ماء فسالت اودية بقدرها فاحتمل السيل زبدا رابيا ومما يوقدون عليه في النار ابتغاء حلية او متاع زبد مثله كذلك يضرب الله الحق والباطل فاما الزبد فيذهب جفاء واما ما ينفع الناس فيمكث في الارض كذلك يضرب الله الامثال",
+    "bengali": "তিনি আকাশ থেকে বৃষ্টি বর্ষণ করেন, এতে উপত্যকাগুলো তাদের পরিমাণ অনুসারে প্লাবিত হয়, ফলে প্লাবন উপরস্থিত ফেনা বহন করে নিয়ে যায়। আর অলংকার ও তৈজসপত্র তৈরীর উদ্দেশ্যে তারা আগুনে যা কিছু উত্তপ্ত করে তাতেও অনুরূপ ফেনা হয়। এমনিভাবে আল্লাহ হক ও বাতিলের দৃষ্টান্ত দেন। অতঃপর ফেনাগুলো নিঃশেষ হয়ে যায়, আর যা মানুষের উপকার করে, তা যমীনে থেকে যায়। এমনিভাবেই আল্লাহ দৃষ্টান্তসমূহ পেশ করে থাকেন।",
+    "urdu": "اسی نے آسمان سے مینہ برسایا پھر اس سے اپنے اپنے اندازے کے مطابق نالے بہہ نکلے پھر نالے پر پھولا ہوا جھاگ آگیا۔ اور جس چیز کو زیور یا کوئی اور سامان بنانے کے لیے آگ میں تپاتے ہیں اس میں بھی ایسا ہی جھاگ ہوتا ہے۔ اس طرح خدا حق اور باطل کی مثال بیان فرماتا ہے۔ سو جھاگ تو سوکھ کر زائل ہو جاتا ہے۔ اور (پانی) جو لوگوں کو فائدہ پہنچاتا ہے وہ زمین میں ٹھہرا رہتا ہے۔ اس طرح خدا (صحیح اور غلط کی) مثالیں بیان فرماتا ہے (تاکہ تم سمجھو)"
+}

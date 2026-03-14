@@ -1,0 +1,42 @@
+{
+    "surahName": "Ibrahim",
+    "surahNameArabic": "ابراهيم",
+    "surahNameArabicLong": "سورة ابراهيم",
+    "surahNameTranslation": "Abraham",
+    "revelationPlace": "Mecca",
+    "totalAyah": 52,
+    "surahNo": 14,
+    "ayahNo": 21,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/14_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/014021.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/14_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/014021.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/14_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/014021.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/14_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/014021.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/14_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/014021.mp3"
+        }
+    },
+    "english": "They will all appear before Allah, and the lowly ˹followers˺ will appeal to the arrogant ˹leaders˺, “We were your ˹dedicated˺ followers, so will you ˹then˺ protect us from Allah’s torment in any way?” They will reply, “Had Allah guided us, we would have guided you. ˹Now˺ it is all the same for us whether we suffer patiently or impatiently, there is no escape for us.”",
+    "arabic1": "وَبَرَزُوا۟ لِلَّهِ جَمِيعًا فَقَالَ ٱلضُّعَفَـٰٓؤُا۟ لِلَّذِينَ ٱسْتَكْبَرُوٓا۟ إِنَّا كُنَّا لَكُمْ تَبَعًا فَهَلْ أَنتُم مُّغْنُونَ عَنَّا مِنْ عَذَابِ ٱللَّهِ مِن شَىْءٍ ۚ قَالُوا۟ لَوْ هَدَىٰنَا ٱللَّهُ لَهَدَيْنَـٰكُمْ ۖ سَوَآءٌ عَلَيْنَآ أَجَزِعْنَآ أَمْ صَبَرْنَا مَا لَنَا مِن مَّحِيصٍ",
+    "arabic2": "وبرزوا لله جميعا فقال الضعفاء للذين استكبروا انا كنا لكم تبعا فهل انتم مغنون عنا من عذاب الله من شيء قالوا لو هدانا الله لهديناكم سواء علينا اجزعنا ام صبرنا ما لنا من محيص",
+    "bengali": "আর তারা সবাই আল্লাহর সামনে হাজির হবে, অতঃপর যারা অহঙ্কার করেছে দুর্বলরা তাদেরকে বলবে, ‘নিশ্চয় আমরা তোমাদের অনুসারী ছিলাম। সুতরাং তোমরা কি আল্লাহর আযাবের মোকাবেলায় আমাদের কোন উপকারে আসবে’? তারা বলবে, ‘যদি আল্লাহ আমাদের হিদায়াত করতেন, তাহলে আমরাও তোমাদের হিদায়াত করতাম, এখন আমরা অস্থির হই কিংবা সবর করি, উভয় অবস্থাই আমাদের জন্য সমান, আমাদের পালানোর কোন জায়গা নেই’।",
+    "urdu": "اور (قیامت کے دن) سب لوگ خدا کے سامنے کھڑے ہوں گے تو ضعیف (العقل متبع اپنے رؤسائے) متکبرین سے کہیں گے کہ ہم تو تمہارے پیرو تھے۔ کیا تم خدا کا کچھ عذاب ہم پر سے دفع کرسکتے ہو۔ وہ کہیں گے کہ اگر خدا ہم کو ہدایت کرتا تو ہم تم کو ہدایت کرتے۔ اب ہم گھبرائیں یا ضد کریں ہمارے حق میں برابر ہے۔ کوئی جگہ (گریز اور) رہائی کی ہمارے لیے نہیں ہے"
+}

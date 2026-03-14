@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nahl",
+    "surahNameArabic": "النحل",
+    "surahNameArabicLong": "سورة النحل",
+    "surahNameTranslation": "The Bee",
+    "revelationPlace": "Mecca",
+    "totalAyah": 128,
+    "surahNo": 16,
+    "ayahNo": 41,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/16_41.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/016041.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/16_41.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/016041.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/16_41.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/016041.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/16_41.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/016041.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/16_41.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/016041.mp3"
+        }
+    },
+    "english": "As for those who emigrated in ˹the cause of˺ Allah after being persecuted, We will surely bless them with a good home in this world. But the reward of the Hereafter is far better, if only they knew.",
+    "arabic1": "وَٱلَّذِينَ هَاجَرُوا۟ فِى ٱللَّهِ مِنۢ بَعْدِ مَا ظُلِمُوا۟ لَنُبَوِّئَنَّهُمْ فِى ٱلدُّنْيَا حَسَنَةً ۖ وَلَأَجْرُ ٱلْـَٔاخِرَةِ أَكْبَرُ ۚ لَوْ كَانُوا۟ يَعْلَمُونَ",
+    "arabic2": "والذين هاجروا في الله من بعد ما ظلموا لنبوئنهم في الدنيا حسنة ولاجر الاخرة اكبر لو كانوا يعلمون",
+    "bengali": "আর যারা হিজরত করেছে আল্লাহর রাস্তায় অত্যাচারিত হওয়ার পর, আমি অবশ্যই তাদেরকে দুনিয়াতে উত্তম আবাস দান করব। আর আখিরাতের প্রতিদান তো বিশাল, যদি তারা জানত।",
+    "urdu": "اور جن لوگوں نے ظلم سہنے کے بعد خدا کے لیے وطن چھوڑا ہم ان کو دنیا میں اچھا ٹھکانا دیں گے۔ اور آخرت کا اجر تو بہت بڑا ہے۔ کاش وہ (اسے) جانتے"
+}

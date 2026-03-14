@@ -1,0 +1,42 @@
+{
+    "surahName": "Ad-Dhuhaa",
+    "surahNameArabic": "الضحى",
+    "surahNameArabicLong": "سورة الضحى",
+    "surahNameTranslation": "The Morning Hours",
+    "revelationPlace": "Mecca",
+    "totalAyah": 11,
+    "surahNo": 93,
+    "ayahNo": 9,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/93_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/093009.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/93_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/093009.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/93_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/093009.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/93_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/093009.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/93_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/093009.mp3"
+        }
+    },
+    "english": "So do not oppress the orphan",
+    "arabic1": "فَأَمَّا ٱلْيَتِيمَ فَلَا تَقْهَرْ",
+    "arabic2": "فاما اليتيم فلا تقهر",
+    "bengali": "সুতরাং তুমি ইয়াতীমের প্রতি কঠোর হয়ো না।",
+    "urdu": "تو تم بھی یتیم پر ستم نہ کرنا"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 141,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/4_141.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/004141.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/4_141.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/004141.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/4_141.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/004141.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/4_141.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/004141.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/4_141.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/004141.mp3"
+        }
+    },
+    "english": "˹The hypocrites are˺ those who wait to see what happens to you. So if Allah grants you victory, they say ˹to you˺, “Were we not on your side?” But if the disbelievers have a share ˹of victory˺, they say ˹to them˺, “Did we not have the advantage over you, yet we protected you from the believers?” Allah will judge between ˹all of˺ you on the Day of Judgment. And Allah will never grant the disbelievers a way over the believers.",
+    "arabic1": "ٱلَّذِينَ يَتَرَبَّصُونَ بِكُمْ فَإِن كَانَ لَكُمْ فَتْحٌ مِّنَ ٱللَّهِ قَالُوٓا۟ أَلَمْ نَكُن مَّعَكُمْ وَإِن كَانَ لِلْكَـٰفِرِينَ نَصِيبٌ قَالُوٓا۟ أَلَمْ نَسْتَحْوِذْ عَلَيْكُمْ وَنَمْنَعْكُم مِّنَ ٱلْمُؤْمِنِينَ ۚ فَٱللَّهُ يَحْكُمُ بَيْنَكُمْ يَوْمَ ٱلْقِيَـٰمَةِ ۗ وَلَن يَجْعَلَ ٱللَّهُ لِلْكَـٰفِرِينَ عَلَى ٱلْمُؤْمِنِينَ سَبِيلًا",
+    "arabic2": "الذين يتربصون بكم فان كان لكم فتح من الله قالوا الم نكن معكم وان كان للكافرين نصيب قالوا الم نستحوذ عليكم ونمنعكم من المؤمنين فالله يحكم بينكم يوم القيامة ولن يجعل الله للكافرين على المؤمنين سبيلا",
+    "bengali": "যারা তোমাদের ব্যাপারে (অকল্যাণের) অপেক্ষায় থাকে, অতঃপর আল্লাহর পক্ষ থেকে যদি তোমাদের বিজয় হয় তবে তারা বলে, ‘আমরা কি তোমাদের সাথে ছিলাম না’? আর যদি কাফিরদের আংশিক বিজয় হয়, তবে তারা বলে, ‘আমরা কি তোমাদের উপর কর্তৃত্ব করিনি এবং মুমিনদের কবল থেকে তোমাদেরকে রক্ষা করিনি’? সুতরাং আল্লাহ কিয়ামতের দিন তোমাদের মধ্যে বিচার করবেন। আর আল্লাহ কখনো মুমিনদের বিপক্ষে কাফিরদের জন্য পথ রাখবেন না।",
+    "urdu": "جو تم کو دیکھتے رہتے ہیں اگر خدا کی طرف سے تم کو فتح ملے تو کہتے ہیں کیا ہم تمہارے ساتھ نہ تھے۔ اور اگر کافروں کو (فتح) نصیب ہو تو (ان سے) کہتے ہیں کیا ہم تم پر غالب نہیں تھے اور تم کو مسلمانوں (کے ہاتھ) سے بچایا نہیں۔ تو خدا تم میں قیامت کے دن فیصلہ کردے گا۔ اور خدا کافروں کو مومنوں پر ہرگز غلبہ نہیں دے گا"
+}

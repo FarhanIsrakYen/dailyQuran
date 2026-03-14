@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 97,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/17_97.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/017097.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/17_97.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/017097.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/17_97.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/017097.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/17_97.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/017097.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/17_97.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/017097.mp3"
+        }
+    },
+    "english": "Whoever Allah guides is truly guided. And whoever He leaves to stray, you will find no guardians for them besides Him. And We will drag them on their faces on the Day of Judgment—deaf, dumb, and blind. Hell will be their home. Whenever it dies down, We will flare it up for them.",
+    "arabic1": "وَمَن يَهْدِ ٱللَّهُ فَهُوَ ٱلْمُهْتَدِ ۖ وَمَن يُضْلِلْ فَلَن تَجِدَ لَهُمْ أَوْلِيَآءَ مِن دُونِهِۦ ۖ وَنَحْشُرُهُمْ يَوْمَ ٱلْقِيَـٰمَةِ عَلَىٰ وُجُوهِهِمْ عُمْيًا وَبُكْمًا وَصُمًّا ۖ مَّأْوَىٰهُمْ جَهَنَّمُ ۖ كُلَّمَا خَبَتْ زِدْنَـٰهُمْ سَعِيرًا",
+    "arabic2": "ومن يهد الله فهو المهتد ومن يضلل فلن تجد لهم اولياء من دونه ونحشرهم يوم القيامة على وجوههم عميا وبكما وصما ماواهم جهنم كلما خبت زدناهم سعيرا",
+    "bengali": "আর আল্লাহ যাকে হিদায়াত দান করেন সে-ই হিদায়াতপ্রাপ্ত এবং যাকে তিনি পথহারা করেন তুমি কখনো তাদের জন্য তাঁকে ছাড়া অভিভাবক পাবে না। আর আমি কিয়ামতের দিনে তাদেরকে একত্র করব উপুড় করে, অন্ধ, মূক ও বধির অবস্থায়। তাদের আশ্রয়স্থল জাহান্নাম; যখনই তা নিস্তেজ হবে তখনই আমি তাদের জন্য আগুন বাড়িয়ে দেব।",
+    "urdu": "اور جس شخص کو خدا ہدایت دے وہی ہدایت یاب ہے۔ اور جن کو گمراہ کرے تو تم خدا کے سوا اُن کے رفیق نہیں پاؤ گے۔ اور ہم اُن کو قیامت کے دن اوندھے منہ اندھے گونگے اور بہرے (بنا کر) اٹھائیں گے۔ اور ان کا ٹھکانہ دوزخ ہے۔ جب (اس کی آگ) بجھنے کو ہوگی تو ہم ان کو (عذاب دینے کے لئے) اور بھڑکا دیں گے"
+}

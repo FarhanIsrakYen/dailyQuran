@@ -1,0 +1,42 @@
+{
+    "surahName": "Ibrahim",
+    "surahNameArabic": "ابراهيم",
+    "surahNameArabicLong": "سورة ابراهيم",
+    "surahNameTranslation": "Abraham",
+    "revelationPlace": "Mecca",
+    "totalAyah": 52,
+    "surahNo": 14,
+    "ayahNo": 24,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/14_24.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/014024.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/14_24.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/014024.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/14_24.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/014024.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/14_24.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/014024.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/14_24.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/014024.mp3"
+        }
+    },
+    "english": "Do you not see how Allah compares a good word to a good tree? Its root is firm and its branches reach the sky",
+    "arabic1": "أَلَمْ تَرَ كَيْفَ ضَرَبَ ٱللَّهُ مَثَلًا كَلِمَةً طَيِّبَةً كَشَجَرَةٍ طَيِّبَةٍ أَصْلُهَا ثَابِتٌ وَفَرْعُهَا فِى ٱلسَّمَآءِ",
+    "arabic2": "الم تر كيف ضرب الله مثلا كلمة طيبة كشجرة طيبة اصلها ثابت وفرعها في السماء",
+    "bengali": "তুমি কি দেখ না, আল্লাহ কীভাবে উপমা পেশ করেছেন? কালিমা তাইয়েবা, যা একটি ভাল বৃক্ষের ন্যায়, যার মূল সুস্থির আর শাখা-প্রশাখা আকাশে।",
+    "urdu": "کیا تم نے نہیں دیکھا کہ خدا نے پاک بات کی کیسی مثال بیان فرمائی ہے (وہ ایسی ہے) جیسے پاکیزہ درخت جس کی جڑ مضبوط (یعنی زمین کو پکڑے ہوئے) ہو اور شاخیں آسمان میں"
+}

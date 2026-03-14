@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Kahf",
+    "surahNameArabic": "الكهف",
+    "surahNameArabicLong": "سورة الكهف",
+    "surahNameTranslation": "The Cave",
+    "revelationPlace": "Mecca",
+    "totalAyah": 110,
+    "surahNo": 18,
+    "ayahNo": 53,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/18_53.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/018053.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/18_53.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/018053.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/18_53.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/018053.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/18_53.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/018053.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/18_53.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/018053.mp3"
+        }
+    },
+    "english": "The wicked will see the Fire and realize that they are bound to fall into it, and will find no way to avoid it.",
+    "arabic1": "وَرَءَا ٱلْمُجْرِمُونَ ٱلنَّارَ فَظَنُّوٓا۟ أَنَّهُم مُّوَاقِعُوهَا وَلَمْ يَجِدُوا۟ عَنْهَا مَصْرِفًا",
+    "arabic2": "وراى المجرمون النار فظنوا انهم مواقعوها ولم يجدوا عنها مصرفا",
+    "bengali": "আর অপরাধীরা আগুন দেখবে, অতঃপর তারা নিশ্চিতরূপে জানতে পারবে যে, নিশ্চয় তারা তাতে নিপতিত হবে এবং তারা তা থেকে বাঁচার কোন পথ খুঁজে পাবে না।",
+    "urdu": "اور گنہگار لوگ دوزخ کو دیکھیں گے تو یقین کرلیں گے کہ وہ اس میں پڑنے والے ہیں۔ اور اس سے بچنے کا کوئی رستہ نہ پائیں گے"
+}

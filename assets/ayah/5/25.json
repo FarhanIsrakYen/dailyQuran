@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Maaida",
+    "surahNameArabic": "المائدة",
+    "surahNameArabicLong": "سورة المائدة",
+    "surahNameTranslation": "The Table",
+    "revelationPlace": "Madina",
+    "totalAyah": 120,
+    "surahNo": 5,
+    "ayahNo": 25,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/5_25.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/005025.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/5_25.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/005025.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/5_25.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/005025.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/5_25.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/005025.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/5_25.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/005025.mp3"
+        }
+    },
+    "english": "Moses pleaded, “My Lord! I have no control over anyone except myself and my brother. So set us apart from the rebellious people.”",
+    "arabic1": "قَالَ رَبِّ إِنِّى لَآ أَمْلِكُ إِلَّا نَفْسِى وَأَخِى ۖ فَٱفْرُقْ بَيْنَنَا وَبَيْنَ ٱلْقَوْمِ ٱلْفَـٰسِقِينَ",
+    "arabic2": "قال رب اني لا املك الا نفسي واخي فافرق بيننا وبين القوم الفاسقين",
+    "bengali": "সে বলল, ‘হে আমার রব, আমি আমার ও আমার ভাই ছাড়া কারো উপরে অধিকার রাখি না। সুতরাং আপনি আমাদের ও ফাসিক কওমের মধ্যে বিচ্ছেদ করে দিন।",
+    "urdu": "موسیٰ نے (خدا سے) التجا کی کہ پروردگار میں اپنے اور اپنے بھائی کے سوا اور کسی پر اختیار نہیں رکھتا تو ہم میں اور ان نافرمان لوگوں میں جدائی کردے"
+}

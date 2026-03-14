@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Maaida",
+    "surahNameArabic": "المائدة",
+    "surahNameArabicLong": "سورة المائدة",
+    "surahNameTranslation": "The Table",
+    "revelationPlace": "Madina",
+    "totalAyah": 120,
+    "surahNo": 5,
+    "ayahNo": 109,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/5_109.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/005109.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/5_109.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/005109.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/5_109.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/005109.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/5_109.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/005109.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/5_109.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/005109.mp3"
+        }
+    },
+    "english": "˹Consider˺ the Day Allah will gather the messengers and say, “What response did you receive?” They will reply, “We have no knowledge ˹compared to You˺! You ˹alone˺ are indeed the Knower of all unseen.”",
+    "arabic1": "۞ يَوْمَ يَجْمَعُ ٱللَّهُ ٱلرُّسُلَ فَيَقُولُ مَاذَآ أُجِبْتُمْ ۖ قَالُوا۟ لَا عِلْمَ لَنَآ ۖ إِنَّكَ أَنتَ عَلَّـٰمُ ٱلْغُيُوبِ",
+    "arabic2": "يوم يجمع الله الرسل فيقول ماذا اجبتم قالوا لا علم لنا انك انت علام الغيوب",
+    "bengali": "(স্মরণ কর) যেদিন আল্লাহ রাসূলগণকে একত্র করবেন, অতঃপর বলবেন, ‘তোমাদেরকে কী জবাব দেয়া হয়েছিল’? তারা বলবে, ‘আমাদের কোন ইলম নেই, নিশ্চয় আপনি গায়েবী বিষয়সমূহের সর্বজ্ঞানী’।",
+    "urdu": "(وہ دن یاد رکھنے کے لائق ہے) جس دن خدا پیغمبروں کو جمع کرے گا پھر ان سے پوچھے گا کہ تمہیں کیا جواب ملا تھا وہ عرض کریں گے کہ ہمیں کچھ معلوم نہیں توہی غیب کی باتوں سے واقف ہے"
+}

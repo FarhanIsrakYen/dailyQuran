@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Hajj",
+    "surahNameArabic": "الحج",
+    "surahNameArabicLong": "سورة الحج",
+    "surahNameTranslation": "The Pilgrimage",
+    "revelationPlace": "Madina",
+    "totalAyah": 78,
+    "surahNo": 22,
+    "ayahNo": 71,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/22_71.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/022071.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/22_71.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/022071.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/22_71.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/022071.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/22_71.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/022071.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/22_71.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/022071.mp3"
+        }
+    },
+    "english": "Yet they worship besides Allah that for which He has sent down no authority, and of which they have no knowledge. The wrongdoers will have no helper.",
+    "arabic1": "وَيَعْبُدُونَ مِن دُونِ ٱللَّهِ مَا لَمْ يُنَزِّلْ بِهِۦ سُلْطَـٰنًا وَمَا لَيْسَ لَهُم بِهِۦ عِلْمٌ ۗ وَمَا لِلظَّـٰلِمِينَ مِن نَّصِيرٍ",
+    "arabic2": "ويعبدون من دون الله ما لم ينزل به سلطانا وما ليس لهم به علم وما للظالمين من نصير",
+    "bengali": "আর তারা আল্লাহর পরিবর্তে এমন কিছুর ইবাদাত করে, যে সম্পর্কে তিনি কোন প্রমাণ নাযিল করেননি এবং যে ব্যাপারে তাদেরও কোন জ্ঞান নেই। আর যালিমদের কোন সাহায্যকারী নেই।",
+    "urdu": "اور (یہ لوگ) خدا کے سوا ایسی چیزوں کی عبادت کرتے ہیں جن کی اس نے کوئی سند نازل نہیں فرمائی اور نہ ان کے پاس اس کی کوئی دلیل ہے۔ اور ظالموں کا کوئی بھی مددگار نہیں ہوگا"
+}

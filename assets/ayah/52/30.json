@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Tur",
+    "surahNameArabic": "الطور",
+    "surahNameArabicLong": "سورة الطور",
+    "surahNameTranslation": "The Mount",
+    "revelationPlace": "Mecca",
+    "totalAyah": 49,
+    "surahNo": 52,
+    "ayahNo": 30,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/52_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/052030.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/52_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/052030.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/52_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/052030.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/52_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/052030.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/52_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/052030.mp3"
+        }
+    },
+    "english": "Or do they say, “˹He is˺ a poet, for whom we ˹eagerly˺ await an ill-fate!”?",
+    "arabic1": "أَمْ يَقُولُونَ شَاعِرٌ نَّتَرَبَّصُ بِهِۦ رَيْبَ ٱلْمَنُونِ",
+    "arabic2": "ام يقولون شاعر نتربص به ريب المنون",
+    "bengali": "তারা কি বলছে, ‘সে (মুহাম্মাদ) একজন কবি? আমরা তার মৃত্যুর প্রতীক্ষা করছি।’",
+    "urdu": "کیا کافر کہتے ہیں کہ یہ شاعر ہے (اور) ہم اس کے حق میں زمانے کے حوادث کا انتظار کر رہے ہیں"
+}

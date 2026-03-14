@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Kahf",
+    "surahNameArabic": "الكهف",
+    "surahNameArabicLong": "سورة الكهف",
+    "surahNameTranslation": "The Cave",
+    "revelationPlace": "Mecca",
+    "totalAyah": 110,
+    "surahNo": 18,
+    "ayahNo": 16,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/18_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/018016.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/18_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/018016.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/18_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/018016.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/18_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/018016.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/18_16.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/018016.mp3"
+        }
+    },
+    "english": "Since you have distanced yourselves from them and what they worship besides Allah, take refuge in the cave. Your Lord will extend His mercy to you and accommodate you in your ordeal.”",
+    "arabic1": "وَإِذِ ٱعْتَزَلْتُمُوهُمْ وَمَا يَعْبُدُونَ إِلَّا ٱللَّهَ فَأْوُۥٓا۟ إِلَى ٱلْكَهْفِ يَنشُرْ لَكُمْ رَبُّكُم مِّن رَّحْمَتِهِۦ وَيُهَيِّئْ لَكُم مِّنْ أَمْرِكُم مِّرْفَقًا",
+    "arabic2": "واذ اعتزلتموهم وما يعبدون الا الله فاووا الى الكهف ينشر لكم ربكم من رحمته ويهيئ لكم من امركم مرفقا",
+    "bengali": "আর যখন তোমরা তাদের থেকে আলাদা হয়েছ এবং আল্লাহ ছাড়া যাদের তারা উপাসনা করে তাদের থেকেও, তখন গুহায় আশ্রয় নাও। তাহলে তোমাদের রব তোমাদের জন্য তার রহমত উন্মুক্ত করে দেবেন এবং তোমাদের জন্য তোমাদের জীবনোপকরণের বিষয়টি সহজ করে দেবেন।",
+    "urdu": "اور جب تم نے ان (مشرکوں) سے اور جن کی یہ خدا کے سوا عبادت کرتے ہیں ان سے کنارہ کرلیا ہے تو غار میں چل رہو تمہارا پروردگار تمہارے لئے اپنی رحمت وسیع کردے گا اور تمہارے کاموں میں آسانی (کے سامان) مہیا کرے گا"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Hud",
+    "surahNameArabic": "هود",
+    "surahNameArabicLong": "سورة هود",
+    "surahNameTranslation": "Hud",
+    "revelationPlace": "Mecca",
+    "totalAyah": 123,
+    "surahNo": 11,
+    "ayahNo": 47,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/11_47.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/011047.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/11_47.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/011047.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/11_47.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/011047.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/11_47.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/011047.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/11_47.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/011047.mp3"
+        }
+    },
+    "english": "Noah pleaded, “My Lord, I seek refuge in You from asking You about what I have no knowledge of, and unless You forgive me and have mercy on me, I will be one of the losers.”",
+    "arabic1": "قَالَ رَبِّ إِنِّىٓ أَعُوذُ بِكَ أَنْ أَسْـَٔلَكَ مَا لَيْسَ لِى بِهِۦ عِلْمٌ ۖ وَإِلَّا تَغْفِرْ لِى وَتَرْحَمْنِىٓ أَكُن مِّنَ ٱلْخَـٰسِرِينَ",
+    "arabic2": "قال رب اني اعوذ بك ان اسالك ما ليس لي به علم والا تغفر لي وترحمني اكن من الخاسرين",
+    "bengali": "সে বলল, ‘হে আমার রব, যে বিষয়ে আমার জ্ঞান নেই তা চাওয়া থেকে আমি অবশ্যই আপনার আশ্রয় চাই। আর যদি আপনি আমাকে মাফ না করেন এবং আমার প্রতি দয়া না করেন, তবে আমি ক্ষতিগ্রস্তদের অন্তর্ভুক্ত হয়ে যাব’।",
+    "urdu": "نوح نے کہا پروردگار میں تجھ سے پناہ مانگتا ہوں کہ ایسی چیز کا تجھ سے سوال کروں جس کی حقیقت مجھے معلوم نہیں۔ اور اگر تو مجھے نہیں بخشے گا اور مجھ پر رحم نہیں کرے گا تو میں تباہ ہوجاؤں گا"
+}

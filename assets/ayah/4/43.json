@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 43,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/4_43.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/004043.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/4_43.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/004043.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/4_43.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/004043.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/4_43.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/004043.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/4_43.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/004043.mp3"
+        }
+    },
+    "english": "O believers! Do not approach prayer while intoxicated until you are aware of what you say, nor in a state of ˹full˺ impurity—unless you merely pass through ˹the mosque˺—until you have bathed. But if you are ill, on a journey, or have relieved yourselves, or been intimate with your wives and cannot find water, then purify yourselves with clean earth, wiping your faces and hands. And Allah is Ever-Pardoning, All-Forgiving.",
+    "arabic1": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَقْرَبُوا۟ ٱلصَّلَوٰةَ وَأَنتُمْ سُكَـٰرَىٰ حَتَّىٰ تَعْلَمُوا۟ مَا تَقُولُونَ وَلَا جُنُبًا إِلَّا عَابِرِى سَبِيلٍ حَتَّىٰ تَغْتَسِلُوا۟ ۚ وَإِن كُنتُم مَّرْضَىٰٓ أَوْ عَلَىٰ سَفَرٍ أَوْ جَآءَ أَحَدٌ مِّنكُم مِّنَ ٱلْغَآئِطِ أَوْ لَـٰمَسْتُمُ ٱلنِّسَآءَ فَلَمْ تَجِدُوا۟ مَآءً فَتَيَمَّمُوا۟ صَعِيدًا طَيِّبًا فَٱمْسَحُوا۟ بِوُجُوهِكُمْ وَأَيْدِيكُمْ ۗ إِنَّ ٱللَّهَ كَانَ عَفُوًّا غَفُورًا",
+    "arabic2": "يا ايها الذين امنوا لا تقربوا الصلاة وانتم سكارى حتى تعلموا ما تقولون ولا جنبا الا عابري سبيل حتى تغتسلوا وان كنتم مرضى او على سفر او جاء احد منكم من الغائط او لامستم النساء فلم تجدوا ماء فتيمموا صعيدا طيبا فامسحوا بوجوهكم وايديكم ان الله كان عفوا غفورا",
+    "bengali": "হে মুমিনগণ, নেশাগ্রস্ত অবস্থায় তোমরা সালাতের নিকটবর্তী হয়ো না, যতক্ষণ না তোমরা বুঝতে পার যা তোমরা বল এবং অপবিত্র অবস্থায়ও না, যতক্ষণ না তোমরা গোসল কর, তবে যদি তোমরা পথ অতিক্রমকারী হও*। আর যদি তোমরা অসুস্থ হও বা সফরে থাক অথবা তোমাদের কেউ প্রস্রাব-পায়খানা থেকে আসে কিংবা তোমরা স্ত্রী সম্ভোগ কর, তবে যদি পানি না পাও তাহলে পবিত্র মাটিতে তায়াম্মুম কর** । সুতরাং তোমাদের মুখমন্ডল ও হাত মাসেহ কর। নিশ্চয় আল্লাহ মার্জনাকারী, ক্ষমাশীল। \n* তাহলে তার কথা ভিন্ন, সে গোসল না করেও শুধু তায়াম্মুম করে নামায পড়তে পারবে। কেউ কেউ বলেছেন, এখানে সালাত অর্থ সালাত আদায়স্থল। তাহলে অর্থ হবে, তোমরা অপবিত্র অবস্থায় সালাত আদায়স্থল তথা মসজিদে যেতে পারবে না। তবে পথ অতিক্রমের উদ্দেশ্যে যাওয়া যাবে। (যুবদাতুত-তাফসীর)।",
+    "urdu": "مومنو! جب تم نشے کی حالت میں ہو تو جب تک (ان الفاظ کو) جو منہ سے کہو سمجھنے (نہ) لگو نماز کے پاس نہ جاؤ اور جنابت کی حالت میں بھی (نماز کے پاس نہ جاؤ) جب تک کہ غسل (نہ) کرلو ہاں اگر بحالت سفر رستے چلے جارہے ہو اور پانی نہ ملنے کے سبب غسل نہ کرسکو تو تیمم کرکے نماز پڑھ لو) اور اگر تم بیمار ہو سفر میں ہو یا تم میں سے کوئی بیت الخلاء سے ہو کر آیا ہو یا تم عورتوں سے ہم بستر ہوئے ہو اور تمہیں پانی نہ ملے تو پاک مٹی لو اور منہ اور ہاتھوں پر مسح (کرکے تیمم) کرلو بےشک خدا معاف کرنے والا اور بخشنے والا ہے"
+}

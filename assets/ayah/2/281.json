@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 281,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_281.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002281.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_281.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002281.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_281.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002281.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_281.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002281.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_281.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002281.mp3"
+        }
+    },
+    "english": "Be mindful of the Day when you will ˹all˺ be returned to Allah, then every soul will be paid in full for what it has done, and none will be wronged.",
+    "arabic1": "وَٱتَّقُوا۟ يَوْمًا تُرْجَعُونَ فِيهِ إِلَى ٱللَّهِ ۖ ثُمَّ تُوَفَّىٰ كُلُّ نَفْسٍ مَّا كَسَبَتْ وَهُمْ لَا يُظْلَمُونَ",
+    "arabic2": "واتقوا يوما ترجعون فيه الى الله ثم توفى كل نفس ما كسبت وهم لا يظلمون",
+    "bengali": "আর তোমরা সে দিনের ভয় কর, যে দিন তোমাদেরকে আল্লাহর দিকে ফিরিয়ে নেয়া হবে। অতঃপর প্রত্যেক ব্যক্তিকে সে যা উপার্জন করেছে, তা পুরোপুরি দেয়া হবে। আর তাদের যুলম করা হবে না।",
+    "urdu": "اور اس دن سے ڈرو جب کہ تم خدا کے حضور میں لوٹ کر جاؤ گے اور ہر شخص اپنے اعمال کا پورا پورا بدلہ پائے گا۔ اور کسی کا کچھ نقصان نہ ہوگا"
+}

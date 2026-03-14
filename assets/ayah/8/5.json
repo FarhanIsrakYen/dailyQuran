@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Anfaal",
+    "surahNameArabic": "الأنفال",
+    "surahNameArabicLong": "سورة الأنفال",
+    "surahNameTranslation": "The Spoils of War",
+    "revelationPlace": "Madina",
+    "totalAyah": 75,
+    "surahNo": 8,
+    "ayahNo": 5,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/8_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/008005.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/8_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/008005.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/8_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/008005.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/8_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/008005.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/8_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/008005.mp3"
+        }
+    },
+    "english": "Similarly, when your Lord brought you ˹O Prophet˺ out of your home for a just cause, a group of believers was totally against it.",
+    "arabic1": "كَمَآ أَخْرَجَكَ رَبُّكَ مِنۢ بَيْتِكَ بِٱلْحَقِّ وَإِنَّ فَرِيقًا مِّنَ ٱلْمُؤْمِنِينَ لَكَـٰرِهُونَ",
+    "arabic2": "كما اخرجك ربك من بيتك بالحق وان فريقا من المؤمنين لكارهون",
+    "bengali": "(এটা এমন) যেভাবে তোমার রব তোমাকে নিজ ঘর থেকে বের করেছেন যথাযথভাবে এবং নিশ্চয় মুমিনদের একটি দল তা অপছন্দ করছিল।",
+    "urdu": "(ان لوگوں کو اپنے گھروں سے اسی طرح نکلنا چاہیئے تھا) جس طرح تمہارے پروردگار نے تم کو تدبیر کے ساتھ اپنے گھر سے نکالا اور (اس وقت) مومنوں ایک جماعت ناخوش تھی"
+}

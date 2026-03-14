@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Anfaal",
+    "surahNameArabic": "الأنفال",
+    "surahNameArabicLong": "سورة الأنفال",
+    "surahNameTranslation": "The Spoils of War",
+    "revelationPlace": "Madina",
+    "totalAyah": 75,
+    "surahNo": 8,
+    "ayahNo": 11,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/8_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/008011.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/8_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/008011.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/8_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/008011.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/8_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/008011.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/8_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/008011.mp3"
+        }
+    },
+    "english": "˹Remember˺ when He caused drowsiness to overcome you, giving you serenity. And He sent down rain from the sky to purify you, free you from Satan’s whispers, strengthen your hearts, and make ˹your˺ steps firm.",
+    "arabic1": "إِذْ يُغَشِّيكُمُ ٱلنُّعَاسَ أَمَنَةً مِّنْهُ وَيُنَزِّلُ عَلَيْكُم مِّنَ ٱلسَّمَآءِ مَآءً لِّيُطَهِّرَكُم بِهِۦ وَيُذْهِبَ عَنكُمْ رِجْزَ ٱلشَّيْطَـٰنِ وَلِيَرْبِطَ عَلَىٰ قُلُوبِكُمْ وَيُثَبِّتَ بِهِ ٱلْأَقْدَامَ",
+    "arabic2": "اذ يغشيكم النعاس امنة منه وينزل عليكم من السماء ماء ليطهركم به ويذهب عنكم رجز الشيطان وليربط على قلوبكم ويثبت به الاقدام",
+    "bengali": "স্মরণ কর, যখন তিনি তোমাদেরকে তন্দ্রায় আচ্ছন্ন করেন তাঁর পক্ষ থেকে নিরাপত্তাস্বরূপ এবং আকাশ থেকে তোমাদের উপর বৃষ্টি বর্ষণ করেন, আর যাতে এর মাধ্যমে তিনি তোমাদেরকে পবিত্র করেন, আর তোমাদের থেকে শয়তানের কুমন্ত্রণা দূর করেন, তোমাদের অন্তরসমূহ দৃঢ় রাখেন এবং এর মাধ্যমে তোমাদের পা-সমূহ স্থির রাখেন।",
+    "urdu": "جب اس نے (تمہاری) تسکین کے لیے اپنی طرف سے تمہیں نیند (کی چادر) اُڑھا دی اور تم پر آسمان سے پانی برسادیا تاکہ تم کو اس سے (نہلا کر) پاک کر دے اور شیطانی نجاست کو تم سے دور کردے۔ اور اس لیے بھی کہ تمہارے دلوں کو مضبوط کردے اور اس سے تمہارے پاؤں جمائے رکھے"
+}

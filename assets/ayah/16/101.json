@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nahl",
+    "surahNameArabic": "النحل",
+    "surahNameArabicLong": "سورة النحل",
+    "surahNameTranslation": "The Bee",
+    "revelationPlace": "Mecca",
+    "totalAyah": 128,
+    "surahNo": 16,
+    "ayahNo": 101,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/16_101.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/016101.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/16_101.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/016101.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/16_101.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/016101.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/16_101.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/016101.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/16_101.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/016101.mp3"
+        }
+    },
+    "english": "When We replace a verse with another—and Allah knows best what He reveals—they say, “You ˹Muḥammad˺ are just a fabricator.” In fact, most of them do not know.",
+    "arabic1": "وَإِذَا بَدَّلْنَآ ءَايَةً مَّكَانَ ءَايَةٍ ۙ وَٱللَّهُ أَعْلَمُ بِمَا يُنَزِّلُ قَالُوٓا۟ إِنَّمَآ أَنتَ مُفْتَرٍۭ ۚ بَلْ أَكْثَرُهُمْ لَا يَعْلَمُونَ",
+    "arabic2": "واذا بدلنا اية مكان اية والله اعلم بما ينزل قالوا انما انت مفتر بل اكثرهم لا يعلمون",
+    "bengali": "আর যখন আমি একটি আয়াতের স্থানে পরিবর্তন করে আরেকটি আয়াত দেই- আল্লাহ ভাল জানেন সে সম্পর্কে, যা তিনি নাযিল করেন- তখন তারা বলে, তুমি তো কেবল মিথ্যা রটনাকারী; রবং তাদের অধিকাংশই জানে না।",
+    "urdu": "اور جب ہم کوئی آیت کسی آیت کی جگہ بدل دیتے ہیں۔ اور خدا جو کچھ نازل فرماتا ہے اسے خوب جانتا ہے تو (کافر) کہتے ہیں کہ تم یونہی اپنی طرف سے بنا لاتے ہو۔ حقیقت یہ ہے کہ ان میں اکثر نادان ہیں"
+}

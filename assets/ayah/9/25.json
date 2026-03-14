@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 25,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/9_25.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/009025.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/9_25.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/009025.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/9_25.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/009025.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/9_25.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/009025.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/9_25.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/009025.mp3"
+        }
+    },
+    "english": "Indeed Allah has given you ˹believers˺ victory on many battlefields, even at the Battle of Ḥunain when you took pride in your great numbers, but they proved of no advantage to you. The earth, despite its vastness, seemed to close in on you, then you turned back in retreat.",
+    "arabic1": "لَقَدْ نَصَرَكُمُ ٱللَّهُ فِى مَوَاطِنَ كَثِيرَةٍ ۙ وَيَوْمَ حُنَيْنٍ ۙ إِذْ أَعْجَبَتْكُمْ كَثْرَتُكُمْ فَلَمْ تُغْنِ عَنكُمْ شَيْـًٔا وَضَاقَتْ عَلَيْكُمُ ٱلْأَرْضُ بِمَا رَحُبَتْ ثُمَّ وَلَّيْتُم مُّدْبِرِينَ",
+    "arabic2": "لقد نصركم الله في مواطن كثيرة ويوم حنين اذ اعجبتكم كثرتكم فلم تغن عنكم شيئا وضاقت عليكم الارض بما رحبت ثم وليتم مدبرين",
+    "bengali": "অবশ্যই আল্লাহ তোমাদেরকে সাহায্য করেছেন বহু জায়গায় এবং হুনাইনের দিনে, যখন তোমাদের সংখ্যাধিক্য তোমাদেরকে উৎফুল্ল করেছিল, অথচ তা তোমাদের কোন কাজে আসেনি। আর যমীন প্রশস্ত হওয়া সত্ত্বেও তোমাদের উপর সংকীর্ণ হয়ে গিয়েছিল। অতঃপর তোমরা পৃষ্ঠ প্রদর্শন করে পলায়ন করেছিলে।",
+    "urdu": "خدا نے بہت سے موقعوں پر تم کو مدد دی ہے اور (جنگ) حنین کے دن۔ جب تم کو اپنی (جماعت کی) کثرت پر غرّہ تھا تو وہ تمہارے کچھ بھی کام نہ آئی۔ اور زمین باوجود (اتنی بڑی) فراخی کے تم پر تنگ ہوگئی پھر تم پیٹھ پھیر کر پھر گئے"
+}

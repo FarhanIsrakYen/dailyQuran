@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Anbiyaa",
+    "surahNameArabic": "الأنبياء",
+    "surahNameArabicLong": "سورة الأنبياء",
+    "surahNameTranslation": "The Prophets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 112,
+    "surahNo": 21,
+    "ayahNo": 31,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/21_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/021031.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/21_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/021031.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/21_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/021031.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/21_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/021031.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/21_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/021031.mp3"
+        }
+    },
+    "english": "And We have placed firm mountains upon the earth so it does not shake with them, and made in it broad pathways so they may find their way.",
+    "arabic1": "وَجَعَلْنَا فِى ٱلْأَرْضِ رَوَٰسِىَ أَن تَمِيدَ بِهِمْ وَجَعَلْنَا فِيهَا فِجَاجًا سُبُلًا لَّعَلَّهُمْ يَهْتَدُونَ",
+    "arabic2": "وجعلنا في الارض رواسي ان تميد بهم وجعلنا فيها فجاجا سبلا لعلهم يهتدون",
+    "bengali": "আর আমি যমীনে সৃষ্টি করেছি সুদৃঢ় পর্বত, যেন তা পর্বতসমূহ নিয়ে একদিকে হেলে না পড়ে*, আর আমি তাতে তৈরী করেছি প্রশস্ত রাস্তা, যেন তারা চলতে পারে। \n* আধুনিক ভূ-তত্ত্ববিদগণ বলেন, পৃথিবীর অভ্যন্তরস্থ উত্তপ্ত গলিত পদার্থের তাপ ছড়ানোর কারণে পৃথিবীর পৃষ্ঠদেশ সঙ্কুচিত হয়ে তাতে ভাঁজ সৃষ্টি হয় এবং তার উপরের অংশই হল পর্বত। পর্বতমালা পৃথিবী-পৃষ্ঠের ভারসাম্য রক্ষা করে।",
+    "urdu": "اور ہم نے زمین میں پہاڑ بنائے تاکہ لوگوں (کے بوجھ) سے ہلنے (اور جھکنے) نہ لگے اور اس میں کشادہ راستے بنائے تاکہ لوگ ان پر چلیں"
+}

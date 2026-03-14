@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nahl",
+    "surahNameArabic": "النحل",
+    "surahNameArabicLong": "سورة النحل",
+    "surahNameTranslation": "The Bee",
+    "revelationPlace": "Mecca",
+    "totalAyah": 128,
+    "surahNo": 16,
+    "ayahNo": 35,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/16_35.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/016035.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/16_35.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/016035.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/16_35.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/016035.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/16_35.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/016035.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/16_35.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/016035.mp3"
+        }
+    },
+    "english": "The polytheists argue, “Had Allah willed, neither we nor our forefathers would have worshipped anything other than Him, nor prohibited anything without His command.” So did those before them. Is not the messengers’ duty only to deliver ˹the message˺ clearly?",
+    "arabic1": "وَقَالَ ٱلَّذِينَ أَشْرَكُوا۟ لَوْ شَآءَ ٱللَّهُ مَا عَبَدْنَا مِن دُونِهِۦ مِن شَىْءٍ نَّحْنُ وَلَآ ءَابَآؤُنَا وَلَا حَرَّمْنَا مِن دُونِهِۦ مِن شَىْءٍ ۚ كَذَٰلِكَ فَعَلَ ٱلَّذِينَ مِن قَبْلِهِمْ ۚ فَهَلْ عَلَى ٱلرُّسُلِ إِلَّا ٱلْبَلَـٰغُ ٱلْمُبِينُ",
+    "arabic2": "وقال الذين اشركوا لو شاء الله ما عبدنا من دونه من شيء نحن ولا اباؤنا ولا حرمنا من دونه من شيء كذلك فعل الذين من قبلهم فهل على الرسل الا البلاغ المبين",
+    "bengali": "আর যারা শিরক করেছে, তারা বলল, যদি আল্লাহ চাইতেন তবে আমরা তাকে ছাড়া কোন কিছুর ইবাদাত করতাম না এবং আমাদের পিতৃপুরুষরাও না। আর তার বিপরীতে তো আমরা কোন কিছু হারাম করতাম না। এমনিই করেছে, যারা তাদের পূর্বে ছিল। সুতরাং স্পষ্টভাবে পৌঁছে দেয়া ছাড়া রাসূলদের কি কোন কর্তব্য আছে?",
+    "urdu": "اور مشرک کہتے ہیں کہ اگر خدا چاہتا تو نہ ہم ہی اس کے سوا کسی چیز کو پوجتے اور نہ ہمارے بڑے ہی (پوجتے) اور نہ اس کے (فرمان کے) بغیر ہم کسی چیز کو حرام ٹھہراتے۔ (اے پیغمبر) اسی طرح ان سے اگلے لوگوں نے کیا تھا۔ تو پیغمبروں کے ذمے (خدا کے احکام کو) کھول کر سنا دینے کے سوا اور کچھ نہیں"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Kahf",
+    "surahNameArabic": "الكهف",
+    "surahNameArabicLong": "سورة الكهف",
+    "surahNameTranslation": "The Cave",
+    "revelationPlace": "Mecca",
+    "totalAyah": 110,
+    "surahNo": 18,
+    "ayahNo": 74,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/18_74.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/018074.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/18_74.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/018074.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/18_74.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/018074.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/18_74.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/018074.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/18_74.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/018074.mp3"
+        }
+    },
+    "english": "So they proceeded until they came across a boy, and the man killed him. Moses protested, “Have you killed an innocent soul, who killed no one? You have certainly done a horrible thing.”",
+    "arabic1": "فَٱنطَلَقَا حَتَّىٰٓ إِذَا لَقِيَا غُلَـٰمًا فَقَتَلَهُۥ قَالَ أَقَتَلْتَ نَفْسًا زَكِيَّةًۢ بِغَيْرِ نَفْسٍ لَّقَدْ جِئْتَ شَيْـًٔا نُّكْرًا",
+    "arabic2": "فانطلقا حتى اذا لقيا غلاما فقتله قال اقتلت نفسا زكية بغير نفس لقد جئت شيئا نكرا",
+    "bengali": "অতঃপর তারা চলতে লাগল। অবশেষে যখন তারা এক বালকের সাক্ষাৎ পেল, তখন সে তাকে হত্যা করল। সে বলল, ‘আপনি নিষ্পাপ ব্যক্তিকে হত্যা করলেন, যে কাউকে হত্যা করেনি? আপনি তো খুবই মন্দ কাজ করলেন’।",
+    "urdu": "پھر دونوں چلے۔ یہاں تک کہ (رستے میں) ایک لڑکا ملا تو (خضر نے) اُسے مار ڈالا۔ (موسیٰ نے) کہا کہ آپ نے ایک بےگناہ شخص کو ناحق بغیر قصاص کے مار ڈالا۔ (یہ تو) آپ نے بری بات کی"
+}

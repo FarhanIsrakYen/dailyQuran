@@ -1,0 +1,42 @@
+{
+    "surahName": "Ash-Shu'araa",
+    "surahNameArabic": "الشعراء",
+    "surahNameArabicLong": "سورة الشعراء",
+    "surahNameTranslation": "The Poets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 227,
+    "surahNo": 26,
+    "ayahNo": 194,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/26_194.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/026194.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/26_194.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/026194.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/26_194.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/026194.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/26_194.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/026194.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/26_194.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/026194.mp3"
+        }
+    },
+    "english": "into your heart ˹O Prophet˺—so that you may be one of the warners—",
+    "arabic1": "عَلَىٰ قَلْبِكَ لِتَكُونَ مِنَ ٱلْمُنذِرِينَ",
+    "arabic2": "على قلبك لتكون من المنذرين",
+    "bengali": "তোমার হৃদয়ে, যাতে তুমি সতর্ককারীদের অন্তর্ভুক্ত হও।",
+    "urdu": "(یعنی اس نے) تمہارے دل پر (القا) کیا ہے تاکہ (لوگوں کو) نصیحت کرتے رہو"
+}

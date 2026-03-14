@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 88,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/17_88.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/017088.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/17_88.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/017088.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/17_88.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/017088.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/17_88.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/017088.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/17_88.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/017088.mp3"
+        }
+    },
+    "english": "Say, ˹O Prophet,˺ “If ˹all˺ humans and jinn were to come together to produce the equivalent of this Quran, they could not produce its equal, no matter how they supported each other.”",
+    "arabic1": "قُل لَّئِنِ ٱجْتَمَعَتِ ٱلْإِنسُ وَٱلْجِنُّ عَلَىٰٓ أَن يَأْتُوا۟ بِمِثْلِ هَـٰذَا ٱلْقُرْءَانِ لَا يَأْتُونَ بِمِثْلِهِۦ وَلَوْ كَانَ بَعْضُهُمْ لِبَعْضٍ ظَهِيرًا",
+    "arabic2": "قل لئن اجتمعت الانس والجن على ان ياتوا بمثل هذا القران لا ياتون بمثله ولو كان بعضهم لبعض ظهيرا",
+    "bengali": "বল, ‘যদি মানুষ ও জিন এ কুরআনের অনুরূপ হাযির করার জন্য একত্রিত হয়, তবুও তারা এর অনুরূপ হাযির করতে পারবে না যদিও তারা একে অপরের সাহায্যকারী হয়’।",
+    "urdu": "کہہ دو کہ اگر انسان اور جن اس بات پر مجتمع ہوں کہ اس قرآن جیسا بنا لائیں تو اس جیسا نہ لاسکیں گے اگرچہ وہ ایک دوسرے کو مددگار ہوں"
+}

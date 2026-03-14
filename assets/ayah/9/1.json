@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 1,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/9_1.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/009001.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/9_1.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/009001.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/9_1.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/009001.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/9_1.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/009001.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/9_1.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/009001.mp3"
+        }
+    },
+    "english": "˹This is˺ a discharge from all obligations, by Allah and His Messenger, to the polytheists you ˹believers˺ have entered into treaties with:",
+    "arabic1": "بَرَآءَةٌ مِّنَ ٱللَّهِ وَرَسُولِهِۦٓ إِلَى ٱلَّذِينَ عَـٰهَدتُّم مِّنَ ٱلْمُشْرِكِينَ",
+    "arabic2": "براءة من الله ورسوله الى الذين عاهدتم من المشركين",
+    "bengali": "আল্লাহ ও তাঁর রাসূলের পক্ষ থেকে সম্পর্কচ্ছেদের ঘোষণা সে সব লোকের প্রতি মুশরিকদের মধ্য থেকে যাদের সাথে তোমরা চুক্তিবদ্ধ হয়েছিলে। \n*সাধারণ নিয়ম অনুসারে অন্য সূরা হতে পৃথক করার জন্য সূরার প্রথমে ‘বিসমিল্লাহ’ লিপিবদ্ধ করার কথা। কিন্তু এই সূরায় রাসূল সাল্লাল্লাহু ‘আলাইহি ওয়া সাল্লাম উহা লিখেননি এবং এই সূরা কোন্ সূরার অংশ তাও বলেননি। সুতরাং মাসহাফ-ই উসমানীতেও (তৃতীয় খলীফা উসমান (রাঃ) কর্তৃক প্রকাশিত কুরআন) এর প্ররাম্ভে ‘বিসমিল্লাহ’ লিখা হয়নি। সূরা আনফালের পূর্বে অবতীর্ণ হওয়ায় উহা এর পূর্বে সন্নিবিষ্ট হয়েছে। সূরাটি আনফালের সাথে পঠিত হলে এর পূর্বে ‘বিসমিল্লাহ’ পাঠ করতে হয়না, অন্যথায় পাঠ করতে হয়। সূরাটির আর একটি নাম ‘বারাআ’। (ইসলামিক ফাউন্ডেশন, বাংলাদেশ কর্তৃক প্রকাশিত তরজমা কুরআনুল কারীম দ্রষ্টব্য)",
+    "urdu": "(اے اہل اسلام اب) خدا اور اس کے رسول کی طرف سے مشرکوں سے جن سے تم نے عہد کر رکھا تھا بیزاری (اور جنگ کی تیاری) ہے"
+}

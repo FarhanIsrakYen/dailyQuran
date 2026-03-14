@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Hajj",
+    "surahNameArabic": "الحج",
+    "surahNameArabicLong": "سورة الحج",
+    "surahNameTranslation": "The Pilgrimage",
+    "revelationPlace": "Madina",
+    "totalAyah": 78,
+    "surahNo": 22,
+    "ayahNo": 62,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/22_62.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/022062.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/22_62.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/022062.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/22_62.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/022062.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/22_62.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/022062.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/22_62.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/022062.mp3"
+        }
+    },
+    "english": "That is because Allah ˹alone˺ is the Truth and what they invoke besides Him is falsehood, and Allah ˹alone˺ is truly the Most High, All-Great.",
+    "arabic1": "ذَٰلِكَ بِأَنَّ ٱللَّهَ هُوَ ٱلْحَقُّ وَأَنَّ مَا يَدْعُونَ مِن دُونِهِۦ هُوَ ٱلْبَـٰطِلُ وَأَنَّ ٱللَّهَ هُوَ ٱلْعَلِىُّ ٱلْكَبِيرُ",
+    "arabic2": "ذلك بان الله هو الحق وان ما يدعون من دونه هو الباطل وان الله هو العلي الكبير",
+    "bengali": "আর এটা এজন্য যে, নিশ্চয় আল্লাহই সত্য এবং তারা তাঁর পরিবর্তে যাকে ডাকে, অবশ্যই তা বাতিল। আর নিশ্চয় আল্লাহ তো সমুচ্চ, সুমহান।",
+    "urdu": "یہ اس لئے کہ خدا ہی برحق ہے اور جس چیز کو (کافر) خدا کے سوا پکارتے ہیں وہ باطل ہے اور اس لئے خدا رفیع الشان اور بڑا ہے"
+}

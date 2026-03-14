@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 76,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_76.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002076.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_76.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002076.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_76.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002076.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_76.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002076.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_76.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002076.mp3"
+        }
+    },
+    "english": "When they meet the believers they say, “We believe.” But in private they say ˹to each other˺, “Will you disclose to the believers the knowledge Allah has revealed to you, so that they may use it against you before your Lord? Do you not understand?”",
+    "arabic1": "وَإِذَا لَقُوا۟ ٱلَّذِينَ ءَامَنُوا۟ قَالُوٓا۟ ءَامَنَّا وَإِذَا خَلَا بَعْضُهُمْ إِلَىٰ بَعْضٍ قَالُوٓا۟ أَتُحَدِّثُونَهُم بِمَا فَتَحَ ٱللَّهُ عَلَيْكُمْ لِيُحَآجُّوكُم بِهِۦ عِندَ رَبِّكُمْ ۚ أَفَلَا تَعْقِلُونَ",
+    "arabic2": "واذا لقوا الذين امنوا قالوا امنا واذا خلا بعضهم الى بعض قالوا اتحدثونهم بما فتح الله عليكم ليحاجوكم به عند ربكم افلا تعقلون",
+    "bengali": "আর যখন তারা মুমিনদের সাথে সাক্ষাৎ করে তখন বলে, ‘আমরা ঈমান এনেছি’। আর যখন একে অপরের সাথে একান্তে মিলিত হয় তখন বলে, ‘তোমরা কি তাদের সাথে সে কথা আলোচনা কর, যা আল্লাহ তোমাদের উপর উম্মুক্ত করেছেন, যাতে তারা এর মাধ্যমে তোমাদের রবের নিকট তোমাদের বিরুদ্ধে দলীল পেশ করবে? তবে কি তোমরা বুঝ না’?",
+    "urdu": "اور یہ لوگ جب مومنوں سے ملتے ہیں تو کہتے ہیں، ہم ایمان لے آئے ہیں۔ اور جب آپس میں ایک دوسرے سے ملتے ہیں تو کہتے ہیں، جو بات خدا نے تم پر ظاہر فرمائی ہے، وہ تم ان کو اس لیے بتائے دیتے ہو کہ (قیامت کے دن) اسی کے حوالے سے تمہارے پروردگار کے سامنے تم کو الزام دیں۔ کیا تم سمجھتے نہیں؟"
+}

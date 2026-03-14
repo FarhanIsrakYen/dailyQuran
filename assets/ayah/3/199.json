@@ -1,0 +1,42 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 199,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/3_199.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/003199.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/3_199.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/003199.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/3_199.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/003199.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/3_199.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/003199.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/3_199.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/003199.mp3"
+        }
+    },
+    "english": "Indeed, there are some among the People of the Book who truly believe in Allah and what has been revealed to you ˹believers˺ and what was revealed to them. They humble themselves before Allah—never trading Allah’s revelations for a fleeting gain. Their reward is with their Lord. Surely Allah is swift in reckoning.",
+    "arabic1": "وَإِنَّ مِنْ أَهْلِ ٱلْكِتَـٰبِ لَمَن يُؤْمِنُ بِٱللَّهِ وَمَآ أُنزِلَ إِلَيْكُمْ وَمَآ أُنزِلَ إِلَيْهِمْ خَـٰشِعِينَ لِلَّهِ لَا يَشْتَرُونَ بِـَٔايَـٰتِ ٱللَّهِ ثَمَنًا قَلِيلًا ۗ أُو۟لَـٰٓئِكَ لَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ ۗ إِنَّ ٱللَّهَ سَرِيعُ ٱلْحِسَابِ",
+    "arabic2": "وان من اهل الكتاب لمن يؤمن بالله وما انزل اليكم وما انزل اليهم خاشعين لله لا يشترون بايات الله ثمنا قليلا اولئك لهم اجرهم عند ربهم ان الله سريع الحساب",
+    "bengali": "আর নিশ্চয় আহলে কিতাবদের মধ্যে এমন লোক রয়েছে, যে আল্লাহর জন্য বিনীত হয়ে ঈমান আনে আল্লাহর প্রতি এবং যা নাযিল করা হয়েছে তোমাদের প্রতি, আর যা নাযিল করা হয়েছে তাদের প্রতি। তারা আল্লাহর আয়াতসমূহ স্বল্পমূল্যের বিনিময়ে বিক্রয় করে না। তাদের জন্য রয়েছে তাদের রবের নিকট পুরস্কার। নিশ্চয় আল্লাহ অতি দ্রুত হিসাব গ্রহণকারী।",
+    "urdu": "اور بعض اہلِ کتاب ایسے بھی ہیں جو خدا پر اور اس (کتاب) پر جو تم پر نازل ہوئی اور اس پر جو ان پر نازل ہوئی ایمان رکھتے ہیں اور خدا کے آگے عاجزی کرتے ہیں اور خدا کی آیتوں کے بدلے تھوڑی سی قیمت نہیں لیتے یہی لوگ ہیں جن کا صلہ ان کے پروردگار کے ہاں تیار ہے اور خدا جلد حساب لینے والا ہے"
+}

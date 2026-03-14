@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 84,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/6_84.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/006084.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/6_84.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/006084.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/6_84.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/006084.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/6_84.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/006084.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/6_84.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/006084.mp3"
+        }
+    },
+    "english": "And We blessed him with Isaac and Jacob. We guided them all as We previously guided Noah and those among his descendants: David, Solomon, Job, Joseph, Moses, and Aaron. This is how We reward the good-doers.",
+    "arabic1": "وَوَهَبْنَا لَهُۥٓ إِسْحَـٰقَ وَيَعْقُوبَ ۚ كُلًّا هَدَيْنَا ۚ وَنُوحًا هَدَيْنَا مِن قَبْلُ ۖ وَمِن ذُرِّيَّتِهِۦ دَاوُۥدَ وَسُلَيْمَـٰنَ وَأَيُّوبَ وَيُوسُفَ وَمُوسَىٰ وَهَـٰرُونَ ۚ وَكَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ",
+    "arabic2": "ووهبنا له اسحاق ويعقوب كلا هدينا ونوحا هدينا من قبل ومن ذريته داوود وسليمان وايوب ويوسف وموسى وهارون وكذلك نجزي المحسنين",
+    "bengali": "আর আমি তাকে দান করেছি ইসহাক ও ইয়াকূবকে। প্রত্যেককে আমি হিদায়াত দিয়েছি এবং নূহকে পূর্বে হিদায়াত দিয়েছি। আর তার সন্তানদের মধ্য থেকে দাঊদ, সুলাইমান, আইয়ুব, ইউসুফ, মূসা ও হারূনকে। আর আমি এভাবেই সৎকর্মশীলদেরকে প্রতিদান দেই।",
+    "urdu": "اور ہم نے ان کو اسحاق اور یعقوب بخشے۔ (اور) سب کو ہدایت دی۔ اور پہلے نوح کو بھی ہدایت دی تھی اور ان کی اولاد میں سے داؤد اور سلیمان اور ایوب اور یوسف اور موسیٰ اور ہارون کو بھی۔ اور ہم نیک لوگوں کو ایسا ہی بدلا دیا کرتے ہیں"
+}

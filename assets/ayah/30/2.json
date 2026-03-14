@@ -1,0 +1,42 @@
+{
+    "surahName": "Ar-Room",
+    "surahNameArabic": "الروم",
+    "surahNameArabicLong": "سورة الروم",
+    "surahNameTranslation": "The Romans",
+    "revelationPlace": "Mecca",
+    "totalAyah": 60,
+    "surahNo": 30,
+    "ayahNo": 2,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/30_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/030002.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/30_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/030002.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/30_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/030002.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/30_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/030002.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/30_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/030002.mp3"
+        }
+    },
+    "english": "The Romans have been defeated",
+    "arabic1": "غُلِبَتِ ٱلرُّومُ",
+    "arabic2": "غلبت الروم",
+    "bengali": "রোমানরা পরাজিত হয়েছে।* \n* ৩৯৫ খৃস্টাব্দে রোমক সাম্রাজ্য থেকে পৃথক হয়ে বায়যানটাইন নামে যে সাম্রাজ্যটি পরিচিত হয়েছিল, এখানে الرومবলতে তাকে বুঝানো হয়েছে। সিরিয়া ও প্যালেস্টাইন এ সাম্রাজ্যের অধীন ছিল।",
+    "urdu": "(اہلِ ) روم مغلوب ہوگئے"
+}

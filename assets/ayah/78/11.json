@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Naba",
+    "surahNameArabic": "النبإ",
+    "surahNameArabicLong": "سورة النبأ",
+    "surahNameTranslation": "The Announcement",
+    "revelationPlace": "Mecca",
+    "totalAyah": 40,
+    "surahNo": 78,
+    "ayahNo": 11,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/78_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/078011.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/78_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/078011.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/78_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/078011.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/78_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/078011.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/78_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/078011.mp3"
+        }
+    },
+    "english": "and made the day for livelihood",
+    "arabic1": "وَجَعَلْنَا ٱلنَّهَارَ مَعَاشًا",
+    "arabic2": "وجعلنا النهار معاشا",
+    "bengali": "আর আমি দিনকে করেছি জীবিকার্জনের সময়।",
+    "urdu": "اور دن کو معاش (کا وقت) قرار دیا"
+}

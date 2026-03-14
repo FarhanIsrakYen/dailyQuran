@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 247,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_247.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002247.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_247.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002247.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_247.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002247.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_247.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002247.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_247.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002247.mp3"
+        }
+    },
+    "english": "Their prophet told them, “Allah has appointed Saul to be your king.” They protested, “How can he be our king when some of us are more deserving of kingship than he, and he has not been blessed with vast riches?” He replied, “Allah has chosen him over you and blessed him with knowledge and stature. Allah grants kingship to whoever He wills. And Allah is All-Bountiful, All-Knowing.”",
+    "arabic1": "وَقَالَ لَهُمْ نَبِيُّهُمْ إِنَّ ٱللَّهَ قَدْ بَعَثَ لَكُمْ طَالُوتَ مَلِكًا ۚ قَالُوٓا۟ أَنَّىٰ يَكُونُ لَهُ ٱلْمُلْكُ عَلَيْنَا وَنَحْنُ أَحَقُّ بِٱلْمُلْكِ مِنْهُ وَلَمْ يُؤْتَ سَعَةً مِّنَ ٱلْمَالِ ۚ قَالَ إِنَّ ٱللَّهَ ٱصْطَفَىٰهُ عَلَيْكُمْ وَزَادَهُۥ بَسْطَةً فِى ٱلْعِلْمِ وَٱلْجِسْمِ ۖ وَٱللَّهُ يُؤْتِى مُلْكَهُۥ مَن يَشَآءُ ۚ وَٱللَّهُ وَٰسِعٌ عَلِيمٌ",
+    "arabic2": "وقال لهم نبيهم ان الله قد بعث لكم طالوت ملكا قالوا انى يكون له الملك علينا ونحن احق بالملك منه ولم يؤت سعة من المال قال ان الله اصطفاه عليكم وزاده بسطة في العلم والجسم والله يؤتي ملكه من يشاء والله واسع عليم",
+    "bengali": "আর তাদেরকে তাদের নবী বলল, নিশ্চয় আল্লাহ তোমাদের জন্য তালূতকে রাজারূপে পাঠিয়েছেন। তারা বলল, ‘আমাদের উপর কীভাবে তার রাজত্ব হবে, অথচ আমরা তার চেয়ে রাজত্বের অধিক হকদার? আর তাকে সম্পদের প্রাচুর্যও দেয়া হয়নি’। সে বলল, ‘নিশ্চয় আল্লাহ তাকে তোমাদের উপর মনোনীত করেছেন এবং তাকে জ্ঞানে ও দেহে অনেক বাড়িয়ে দিয়েছেন। আর আল্লাহ যাকে চান, তাকে তাঁর রাজত্ব দেন। আর আল্লাহ প্রাচুর্যময়, সর্বজ্ঞ’।",
+    "urdu": "اور پیغمبر نے ان سے (یہ بھی) کہا کہ خدا نے تم پر طالوت کو بادشاہ مقرر فرمایا ہے۔ وہ بولے کہ اسے ہم پر بادشاہی کا حق کیونکر ہوسکتا ہےبادشاہی کے مستحق تو ہم ہیں اور اس کے پاس تو بہت سی دولت بھی نہیں۔ پیغمبر نے کہا کہ خدا نےاس کو تم پر فضیلت دی ہے اور (بادشاہی کے لئے) منتخب فرمایا ہے اس نے اسے علم بھی بہت سا بخشا ہے اور تن و توش بھی (بڑا عطا کیا ہے) اور خدا (کو اختیار ہے) جسے چاہے بادشاہی بخشے۔ وہ بڑا کشائش والا اور دانا ہے"
+}

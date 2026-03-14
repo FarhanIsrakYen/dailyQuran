@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 87,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/4_87.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/004087.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/4_87.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/004087.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/4_87.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/004087.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/4_87.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/004087.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/4_87.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/004087.mp3"
+        }
+    },
+    "english": "Allah, there is no god ˹worthy of worship˺ except Him. He will certainly gather ˹all of˺ you together on the Day of Judgment—about which there is no doubt. And whose word is more truthful than Allah’s?",
+    "arabic1": "ٱللَّهُ لَآ إِلَـٰهَ إِلَّا هُوَ ۚ لَيَجْمَعَنَّكُمْ إِلَىٰ يَوْمِ ٱلْقِيَـٰمَةِ لَا رَيْبَ فِيهِ ۗ وَمَنْ أَصْدَقُ مِنَ ٱللَّهِ حَدِيثًا",
+    "arabic2": "الله لا اله الا هو ليجمعنكم الى يوم القيامة لا ريب فيه ومن اصدق من الله حديثا",
+    "bengali": "আল্লাহ, তিনি ছাড়া কোন (সত্য) ইলাহ নেই। অবশ্যই তিনি তোমাদেরকে একত্র করবেন কিয়ামতের দিনে। এতে কোন সন্দেহ নেই। আর কথায় আল্লাহর চেয়ে অধিক সত্যবাদী কে?",
+    "urdu": "خدا (وہ معبود برحق ہے کہ) اس کے سوا کوئی عبادت کے لائق نہیں وہ قیامت کے دن تم سب کو ضرور جمع کرے گا اور خدا سے بڑھ کر بات کا سچا کون ہے؟"
+}

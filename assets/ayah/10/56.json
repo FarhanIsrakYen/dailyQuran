@@ -1,0 +1,42 @@
+{
+    "surahName": "Yunus",
+    "surahNameArabic": "يونس",
+    "surahNameArabicLong": "سورة يونس",
+    "surahNameTranslation": "Jonas",
+    "revelationPlace": "Mecca",
+    "totalAyah": 109,
+    "surahNo": 10,
+    "ayahNo": 56,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/10_56.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/010056.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/10_56.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/010056.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/10_56.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/010056.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/10_56.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/010056.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/10_56.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/010056.mp3"
+        }
+    },
+    "english": "He ˹is the One Who˺ gives life and causes death, and to Him you will ˹all˺ be returned.",
+    "arabic1": "هُوَ يُحْىِۦ وَيُمِيتُ وَإِلَيْهِ تُرْجَعُونَ",
+    "arabic2": "هو يحيي ويميت واليه ترجعون",
+    "bengali": "তিনিই জীবন দান করেন এবং মৃত্যু ঘটান এবং তাঁর কাছেই তোমাদের প্রত্যাবর্তন হবে।",
+    "urdu": "وہی جان بخشتا اور (وہی) موت دیتا ہے اور تم لوگ اسی کی طرف لوٹ کر جاؤ گے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 122,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/3_122.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/003122.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/3_122.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/003122.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/3_122.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/003122.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/3_122.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/003122.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/3_122.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/003122.mp3"
+        }
+    },
+    "english": "˹Remember˺ when two groups among you ˹believers˺ were about to cower, then Allah reassured them. So in Allah let the believers put their trust.",
+    "arabic1": "إِذْ هَمَّت طَّآئِفَتَانِ مِنكُمْ أَن تَفْشَلَا وَٱللَّهُ وَلِيُّهُمَا ۗ وَعَلَى ٱللَّهِ فَلْيَتَوَكَّلِ ٱلْمُؤْمِنُونَ",
+    "arabic2": "اذ همت طائفتان منكم ان تفشلا والله وليهما وعلى الله فليتوكل المؤمنون",
+    "bengali": "যখন তোমাদের মধ্য থেকে দু’দল* পিছু হটার ইচ্ছা করল, অথচ আল্লাহ তাদের উভয়ের অভিভাবক। আর আল্লাহর উপরই যেন মুমিনগণ তাওয়াক্কুল করে। \n*উহুদ যুদ্ধের সময় মুনাফিক সর্দার আবদুল্লাহ ইবনে উবাইয়ের সাথে তিনশত জন সৈন্য যুদ্ধের ময়দান থেকে ফেরৎ চলে যায়। এদের দেখাদেখি বনু সালামা ও বনূ হারেছার লোকেরাও চলে যেতে চেয়েছিল। কিন্তু আল্লাহর রহমতে তারা যায়নি।",
+    "urdu": "اس وقت تم میں سے دو جماعتوں نے جی چھوڑ دینا چاہا مگر خدا ان کا مددگار تھا اور مومنوں کو خدا ہی پر بھروسہ رکھنا چاہیئے"
+}

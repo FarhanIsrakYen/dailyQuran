@@ -5,6 +5,7 @@ import {
 } from 'react-native';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import { storage, QuranPlan, Progress } from '../utils/storage';
+import { ThemeType, COLORS } from '../utils/colors';
 import SearchAyah from './search';
 import Read from './read';
 type DayStatus = 'completed' | 'current' | 'missed' | 'locked';
@@ -22,9 +23,11 @@ function formatDate(iso: string) {
 
 interface Props {
     onReset: () => void;
+    theme: ThemeType;
+    onToggleTheme: () => void;
 }
 
-export default function Home({ onReset }: Props) {
+export default function Home({ onReset, theme, onToggleTheme }: Props) {
     const [plan, setPlan] = useState<QuranPlan | null>(null);
     const [progress, setProgress] = useState<Progress | null>(null);
     const [currentActiveDay, setCurrentActiveDay] = useState(1);
@@ -103,6 +106,7 @@ export default function Home({ onReset }: Props) {
             <Read
                 day={readingDay}
                 onBack={() => { setReadingDay(null); load(); }}
+                theme={theme}
             />
         );
     }
@@ -111,9 +115,13 @@ export default function Home({ onReset }: Props) {
         return (
             <SearchAyah
                 onBack={() => setIsSearching(false)}
+                theme={theme}
             />
         );
     }
+
+    const themeColors = COLORS[theme];
+    const isDark = theme === 'dark';
 
     const completedCount = progress.completedDays.length;
     const missedCount = progress.missedDays.filter(d => !progress.completedDays.includes(d)).length;
@@ -124,15 +132,18 @@ export default function Home({ onReset }: Props) {
     const currentDayStatus = getDayStatus(currentActiveDay, progress, currentActiveDay);
 
     return (
-        <View style={styles.container}>
+        <View style={[styles.container, { backgroundColor: themeColors.background }]}>
             <View style={styles.header}>
                 <View>
-                    <Text style={styles.title}>My Journey</Text>
-                    <Text style={styles.subtitle}>Started {formatDate(plan.createdAt)}</Text>
+                    <Text style={[styles.title, { color: themeColors.text }]}>My Journey</Text>
+                    <Text style={[styles.subtitle, { color: themeColors.subtext }]}>Started {formatDate(plan.createdAt)}</Text>
                 </View>
                 <View style={styles.headerActions}>
+                    <TouchableOpacity onPress={onToggleTheme} style={styles.themeBtn}>
+                        <Text style={styles.themeText}>{isDark ? '☀️' : '🌙'}</Text>
+                    </TouchableOpacity>
                     <TouchableOpacity onPress={() => setIsSearching(true)} style={styles.searchBtn}>
-                        <Text style={styles.searchText}>🔍 Search</Text>
+                        <Text style={[styles.searchText, { color: themeColors.accent }]}>🔍 Search</Text>
                     </TouchableOpacity>
                     <TouchableOpacity onPress={handleReset} style={styles.resetBtn}>
                         <Text style={styles.resetText}>🗑 Reset</Text>
@@ -142,52 +153,58 @@ export default function Home({ onReset }: Props) {
 
             <ScrollView
                 style={styles.scroll}
-                refreshControl={<RefreshControl refreshing={refreshing} onRefresh={onRefresh} tintColor="#C9A96E" />}
+                refreshControl={<RefreshControl refreshing={refreshing} onRefresh={onRefresh} tintColor={themeColors.accent} />}
             >
                 {/* Plan summary */}
-                <View style={styles.planCard}>
+                <View style={[styles.planCard, { backgroundColor: themeColors.card, borderColor: themeColors.border }]}>
                     <View style={styles.planRow}>
                         <View style={styles.planItem}>
-                            <Text style={styles.planNum}>{plan.totalDays}</Text>
-                            <Text style={styles.planLabel}>Total Days</Text>
+                            <Text style={[styles.planNum, { color: themeColors.accent }]}>{plan.totalDays}</Text>
+                            <Text style={[styles.planLabel, { color: themeColors.subtext }]}>Total Days</Text>
                         </View>
-                        <View style={styles.planDivider} />
+                        <View style={[styles.planDivider, { backgroundColor: themeColors.border }]} />
                         <View style={styles.planItem}>
-                            <Text style={styles.planNum}>{plan.totalAyah.toLocaleString()}</Text>
-                            <Text style={styles.planLabel}>Total Ayahs</Text>
+                            <Text style={[styles.planNum, { color: themeColors.accent }]}>{plan.totalAyah.toLocaleString()}</Text>
+                            <Text style={[styles.planLabel, { color: themeColors.subtext }]}>Total Ayahs</Text>
                         </View>
-                        <View style={styles.planDivider} />
+                        <View style={[styles.planDivider, { backgroundColor: themeColors.border }]} />
                         <View style={styles.planItem}>
-                            <Text style={styles.planNum}>~{plan.days[0]?.ayahCount ?? 0}</Text>
-                            <Text style={styles.planLabel}>Ayahs/Day</Text>
+                            <Text style={[styles.planNum, { color: themeColors.accent }]}>~{plan.days[0]?.ayahCount ?? 0}</Text>
+                            <Text style={[styles.planLabel, { color: themeColors.subtext }]}>Ayahs/Day</Text>
                         </View>
                     </View>
-                    <View style={styles.progressBar}>
-                        <View style={[styles.progressFill, { width: `${percent}%` as any }]} />
+                    <View style={[styles.progressBar, { backgroundColor: themeColors.background }]}>
+                        <View style={[styles.progressFill, { backgroundColor: themeColors.accent, width: `${percent}%` as any }]} />
                     </View>
                     <View style={styles.progressStats}>
-                        <Text style={styles.progressText}>{completedCount}/{plan.totalDays} days done</Text>
-                        <Text style={styles.progressPct}>{percent}%</Text>
+                        <Text style={[styles.progressText, { color: themeColors.subtext }]}>{completedCount}/{plan.totalDays} days done</Text>
+                        <Text style={[styles.progressPct, { color: themeColors.accent }]}>{percent}%</Text>
                     </View>
                 </View>
 
                 {/* Current day */}
                 {currentDayPlan && completedCount < plan.totalDays && (
                     <TouchableOpacity
-                        style={styles.currentCard}
+                        style={[
+                            styles.currentCard, 
+                            { 
+                                backgroundColor: isDark ? '#0A1E14' : '#F0F9F4', 
+                                borderColor: themeColors.accent 
+                            }
+                        ]}
                         onPress={() => handleDayPress(currentActiveDay, currentDayStatus)}
                         activeOpacity={0.8}
                     >
                         <View style={styles.currentLeft}>
-                            <Text style={styles.currentLabel}>
+                            <Text style={[styles.currentLabel, { color: themeColors.accent }]}>
                                 {currentDayStatus === 'missed' ? '⚠️ Recover' : '▶ Today'}
                             </Text>
-                            <Text style={styles.currentDay}>Day {currentActiveDay}</Text>
-                            <Text style={styles.currentMeta}>
+                            <Text style={[styles.currentDay, { color: themeColors.text }]}>Day {currentActiveDay}</Text>
+                            <Text style={[styles.currentMeta, { color: isDark ? '#5A8A5A' : '#4F7942' }]}>
                                 {currentDayPlan.ayahCount} ayahs · Surah {currentDayPlan.startSurah}:{currentDayPlan.startAyah} → {currentDayPlan.endSurah}:{currentDayPlan.endAyah}
                             </Text>
                         </View>
-                        <Text style={styles.currentArrow}>→</Text>
+                        <Text style={[styles.currentArrow, { color: themeColors.accent }]}>→</Text>
                     </TouchableOpacity>
                 )}
 
@@ -199,29 +216,37 @@ export default function Home({ onReset }: Props) {
                 )}
 
                 {missedCount > 0 && (
-                    <View style={styles.warningBanner}>
+                    <View style={[
+                        styles.warningBanner, 
+                        { backgroundColor: isDark ? '#2A1A0D' : '#FEF8F2', borderLeftColor: '#E8A035' }
+                    ]}>
                         <Text style={styles.warningText}>
                             ⚠️ {missedCount} missed day{missedCount > 1 ? 's' : ''} — complete them before moving forward
                         </Text>
                     </View>
                 )}
 
-                <Text style={styles.gridLabel}>All Days</Text>
+                <Text style={[styles.gridLabel, { color: themeColors.subtext }]}>All Days</Text>
                 <View style={styles.grid}>
                     {plan.days.map(dayPlan => {
                         const status = getDayStatus(dayPlan.day, progress, currentActiveDay);
+                        const themedCardStyle = getThemedCardStyle(status, isDark, themeColors);
+                        const themedNumStyle = getThemedNumStyle(status, themeColors);
+                        const themedLabelStyle = getThemedLabelStyle(status, themeColors);
+                        const themedAyahStyle = getThemedAyahStyle(status, isDark, themeColors);
+
                         return (
                             <TouchableOpacity
                                 key={dayPlan.day}
-                                style={[styles.dayCard, cardStyle[status]]}
+                                style={[styles.dayCard, themedCardStyle]}
                                 onPress={() => handleDayPress(dayPlan.day, status)}
                                 activeOpacity={0.75}
                             >
-                                <Text style={[styles.dayNum, dayNumStyle[status]]}>
+                                <Text style={[styles.dayNum, themedNumStyle]}>
                                     {status === 'completed' ? '✓' : dayPlan.day}
                                 </Text>
-                                <Text style={[styles.dayLabel, dayLabelStyle[status]]}>Day {dayPlan.day}</Text>
-                                <Text style={[styles.dayAyahs, dayAyahStyle[status]]}>{dayPlan.ayahCount}</Text>
+                                <Text style={[styles.dayLabel, themedLabelStyle]}>Day {dayPlan.day}</Text>
+                                <Text style={[styles.dayAyahs, themedAyahStyle]}>{dayPlan.ayahCount}</Text>
                             </TouchableOpacity>
                         );
                     })}
@@ -231,29 +256,40 @@ export default function Home({ onReset }: Props) {
     );
 }
 
-const cardStyle: Record<string, object> = {
-    completed: { backgroundColor: '#0E2010', borderColor: '#2A5A2A' },
-    current: { backgroundColor: '#1A2D1A', borderColor: '#C9A96E' },
-    missed: { backgroundColor: '#2A1A0D', borderColor: '#E8A035' },
-    locked: { backgroundColor: '#0F1A24', borderColor: '#132030' },
+const getThemedCardStyle = (status: DayStatus, isDark: boolean, colors: any) => {
+    switch (status) {
+        case 'completed': return { backgroundColor: isDark ? '#0E2010' : '#E8F5E9', borderColor: isDark ? '#2A5A2A' : '#C8E6C9' };
+        case 'current': return { backgroundColor: isDark ? '#1A2D1A' : '#F0F9F4', borderColor: colors.accent };
+        case 'missed': return { backgroundColor: isDark ? '#2A1A0D' : '#FEF8F2', borderColor: '#E8A035' };
+        default: return { backgroundColor: isDark ? '#0F1A24' : '#F5F7F9', borderColor: colors.border };
+    }
 };
-const dayNumStyle: Record<string, object> = {
-    completed: { color: '#4CAF50', fontSize: 16 },
-    current: { color: '#C9A96E' },
-    missed: { color: '#E8A035' },
-    locked: { color: '#2A3D50' },
+
+const getThemedNumStyle = (status: DayStatus, colors: any) => {
+    switch (status) {
+        case 'completed': return { color: '#4CAF50', fontSize: 16 };
+        case 'current': return { color: colors.accent };
+        case 'missed': return { color: '#E8A035' };
+        default: return { color: colors.subtext };
+    }
 };
-const dayLabelStyle: Record<string, object> = {
-    completed: { color: '#4CAF50' },
-    current: { color: '#C9A96E' },
-    missed: { color: '#E8A035' },
-    locked: { color: '#2A3D50' },
+
+const getThemedLabelStyle = (status: DayStatus, colors: any) => {
+    switch (status) {
+        case 'completed': return { color: '#4CAF50' };
+        case 'current': return { color: colors.accent };
+        case 'missed': return { color: '#E8A035' };
+        default: return { color: colors.subtext };
+    }
 };
-const dayAyahStyle: Record<string, object> = {
-    completed: { color: '#2A5A2A' },
-    current: { color: '#8A7A5A' },
-    missed: { color: '#6A4A20' },
-    locked: { color: '#1E3348' },
+
+const getThemedAyahStyle = (status: DayStatus, isDark: boolean, colors: any) => {
+    switch (status) {
+        case 'completed': return { color: isDark ? '#2A5A2A' : '#81C784' };
+        case 'current': return { color: isDark ? '#8A7A5A' : '#B09A6A' };
+        case 'missed': return { color: isDark ? '#6A4A20' : '#D0A060' };
+        default: return { color: isDark ? '#1E3348' : '#D0DAE2' };
+    }
 };
 
 const styles = StyleSheet.create({
@@ -265,6 +301,8 @@ const styles = StyleSheet.create({
     title: { fontSize: 28, color: '#EAE0D0', fontWeight: '300' },
     subtitle: { fontSize: 12, color: '#5A7A9A', marginTop: 2 },
     headerActions: { flexDirection: 'row', alignItems: 'center', gap: 12 },
+    themeBtn: { padding: 4, marginRight: 4 },
+    themeText: { fontSize: 18 },
     searchBtn: { paddingVertical: 8, paddingHorizontal: 4 },
     searchText: { color: '#C9A96E', fontSize: 13, fontWeight: '600' },
     resetBtn: { paddingVertical: 8, paddingHorizontal: 4 },

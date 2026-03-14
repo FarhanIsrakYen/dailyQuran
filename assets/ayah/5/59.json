@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Maaida",
+    "surahNameArabic": "المائدة",
+    "surahNameArabicLong": "سورة المائدة",
+    "surahNameTranslation": "The Table",
+    "revelationPlace": "Madina",
+    "totalAyah": 120,
+    "surahNo": 5,
+    "ayahNo": 59,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/5_59.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/005059.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/5_59.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/005059.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/5_59.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/005059.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/5_59.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/005059.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/5_59.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/005059.mp3"
+        }
+    },
+    "english": "Say, ˹O Prophet,˺ “O People of the Book! Do you resent us only because we believe in Allah and what has been revealed to us and what was revealed before—while most of you are rebellious?”",
+    "arabic1": "قُلْ يَـٰٓأَهْلَ ٱلْكِتَـٰبِ هَلْ تَنقِمُونَ مِنَّآ إِلَّآ أَنْ ءَامَنَّا بِٱللَّهِ وَمَآ أُنزِلَ إِلَيْنَا وَمَآ أُنزِلَ مِن قَبْلُ وَأَنَّ أَكْثَرَكُمْ فَـٰسِقُونَ",
+    "arabic2": "قل يا اهل الكتاب هل تنقمون منا الا ان امنا بالله وما انزل الينا وما انزل من قبل وان اكثركم فاسقون",
+    "bengali": "বল, ‘হে কিতাবীরা, কেবল এ কারণে কি তোমরা আমাদের প্রতি বিদ্বেষ পোষণ কর যে, আমরা ঈমান এনেছি আল্লাহর প্রতি এবং যা আমাদের প্রতি নাযিল হয়েছে এবং পূর্বে নাযিল হয়েছে তার প্রতি? আর নিশ্চয় তোমাদের অধিকাংশ ফাসিক।’",
+    "urdu": "کہو کہ اے اہل کتاب! تم ہم میں برائی ہی کیا دیکھتے ہو سوا اس کے کہ ہم خدا پر اور جو (کتاب) ہم پر نازل ہوئی اس پر اور جو (کتابیں) پہلے نازل ہوئیں ان پر ایمان لائے ہیں اور تم میں اکثر بدکردار ہیں"
+}

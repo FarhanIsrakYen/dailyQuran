@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Maaida",
+    "surahNameArabic": "المائدة",
+    "surahNameArabicLong": "سورة المائدة",
+    "surahNameTranslation": "The Table",
+    "revelationPlace": "Madina",
+    "totalAyah": 120,
+    "surahNo": 5,
+    "ayahNo": 33,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/5_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/005033.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/5_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/005033.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/5_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/005033.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/5_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/005033.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/5_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/005033.mp3"
+        }
+    },
+    "english": "Indeed, the penalty for those who wage war against Allah and His Messenger and spread mischief in the land is death, crucifixion, cutting off their hands and feet on opposite sides, or exile from the land. This ˹penalty˺ is a disgrace for them in this world, and they will suffer a tremendous punishment in the Hereafter.",
+    "arabic1": "إِنَّمَا جَزَٰٓؤُا۟ ٱلَّذِينَ يُحَارِبُونَ ٱللَّهَ وَرَسُولَهُۥ وَيَسْعَوْنَ فِى ٱلْأَرْضِ فَسَادًا أَن يُقَتَّلُوٓا۟ أَوْ يُصَلَّبُوٓا۟ أَوْ تُقَطَّعَ أَيْدِيهِمْ وَأَرْجُلُهُم مِّنْ خِلَـٰفٍ أَوْ يُنفَوْا۟ مِنَ ٱلْأَرْضِ ۚ ذَٰلِكَ لَهُمْ خِزْىٌ فِى ٱلدُّنْيَا ۖ وَلَهُمْ فِى ٱلْـَٔاخِرَةِ عَذَابٌ عَظِيمٌ",
+    "arabic2": "انما جزاء الذين يحاربون الله ورسوله ويسعون في الارض فسادا ان يقتلوا او يصلبوا او تقطع ايديهم وارجلهم من خلاف او ينفوا من الارض ذلك لهم خزي في الدنيا ولهم في الاخرة عذاب عظيم",
+    "bengali": "যারা আল্লাহ ও তাঁর রাসূলের বিরুদ্ধে যুদ্ধ করে এবং যমীনে ফাসাদ করে বেড়ায়, তাদের আযাব কেবল এই যে, তাদেরকে হত্যা করা হবে অথবা শূলে চড়ানো হবে কিংবা বিপরীত দিক থেকে তাদের হাত ও পা কেটে ফেলা হবে অথবা তাদেরকে দেশ থেকে বের করে দেয়া হবে। এটি তাদের জন্য দুনিয়ায় লাঞ্ছনা এবং তাদের জন্য আখিরাতে রয়েছে মহাআযাব।",
+    "urdu": "جو لوگ خدا اور اس کے رسول سے لڑائی کریں اور ملک میں فساد کرنے کو دوڑتے پھریں ان کی یہی سزا ہے کہ قتل کر دیئے جائیں یا سولی چڑھا دیئے جائیں یا ان کے ایک ایک طرف کے ہاتھ اور ایک ایک طرف کے پاؤں کاٹ دیئے جائیں یا ملک سے نکال دیئے جائیں یہ تو دنیا میں ان کی رسوائی ہے اور آخرت میں ان کے لیے بڑا (بھاری) عذاب تیار ہے"
+}

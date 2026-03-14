@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 106,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_106.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002106.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_106.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002106.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_106.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002106.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_106.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002106.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_106.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002106.mp3"
+        }
+    },
+    "english": "If We ever abrogate a verse or cause it to be forgotten, We replace it with a better or similar one. Do you not know that Allah is Most Capable of everything?",
+    "arabic1": "۞ مَا نَنسَخْ مِنْ ءَايَةٍ أَوْ نُنسِهَا نَأْتِ بِخَيْرٍ مِّنْهَآ أَوْ مِثْلِهَآ ۗ أَلَمْ تَعْلَمْ أَنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+    "arabic2": "ما ننسخ من اية او ننسها نات بخير منها او مثلها الم تعلم ان الله على كل شيء قدير",
+    "bengali": "আমি যে আয়াত রহিত করি কিংবা ভুলিয়ে দেই, তার চেয়ে উত্তম কিংবা তার মত আনয়ন করি। তুমি কি জান না যে, আল্লাহ সব কিছুর উপর ক্ষমতাবান।",
+    "urdu": "ہم جس آیت کو منسوخ کر دیتے یا اسے فراموش کرا دیتے ہیں تو اس سے بہتر یا ویسی ہی اور آیت بھیج دیتے ہیں۔ کیا تم نہیں جانتے کہ خدا ہر بات پر قادر ہے"
+}

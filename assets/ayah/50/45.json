@@ -1,0 +1,42 @@
+{
+    "surahName": "Qaaf",
+    "surahNameArabic": "ق",
+    "surahNameArabicLong": "سورة ق",
+    "surahNameTranslation": "The letter Qaaf",
+    "revelationPlace": "Mecca",
+    "totalAyah": 45,
+    "surahNo": 50,
+    "ayahNo": 45,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/50_45.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/050045.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/50_45.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/050045.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/50_45.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/050045.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/50_45.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/050045.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/50_45.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/050045.mp3"
+        }
+    },
+    "english": "We know best what they say. And you ˹O Prophet˺ are not ˹there˺ to compel them ˹to believe˺. So remind with the Quran ˹only˺ those who fear My warning.",
+    "arabic1": "نَّحْنُ أَعْلَمُ بِمَا يَقُولُونَ ۖ وَمَآ أَنتَ عَلَيْهِم بِجَبَّارٍ ۖ فَذَكِّرْ بِٱلْقُرْءَانِ مَن يَخَافُ وَعِيدِ",
+    "arabic2": "نحن اعلم بما يقولون وما انت عليهم بجبار فذكر بالقران من يخاف وعيد",
+    "bengali": "এরা যা বলে আমি তা সবচেয়ে ভাল জানি। আর তুমি তাদের উপর কোন জোর- জবরদস্তিকারী নও। সুতরাং যে আমার ধমককে ভয় করে তাকে কুরআনের সাহায্যে উপদেশ দাও।",
+    "urdu": "یہ لوگ جو کچھ کہتے ہیں ہمیں خوب معلوم ہے اور تم ان پر زبردستی کرنے والے نہیں ہو۔ پس جو ہمارے (عذاب کی) وعید سے ڈرے اس کو قرآن سے نصیحت کرتے رہو"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Ankaboot",
+    "surahNameArabic": "العنكبوت",
+    "surahNameArabicLong": "سورة العنكبوت",
+    "surahNameTranslation": "The Spider",
+    "revelationPlace": "Mecca",
+    "totalAyah": 69,
+    "surahNo": 29,
+    "ayahNo": 3,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/29_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/029003.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/29_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/029003.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/29_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/029003.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/29_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/029003.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/29_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/029003.mp3"
+        }
+    },
+    "english": "We certainly tested those before them. And ˹in this way˺ Allah will clearly distinguish between those who are truthful and those who are liars.",
+    "arabic1": "وَلَقَدْ فَتَنَّا ٱلَّذِينَ مِن قَبْلِهِمْ ۖ فَلَيَعْلَمَنَّ ٱللَّهُ ٱلَّذِينَ صَدَقُوا۟ وَلَيَعْلَمَنَّ ٱلْكَـٰذِبِينَ",
+    "arabic2": "ولقد فتنا الذين من قبلهم فليعلمن الله الذين صدقوا وليعلمن الكاذبين",
+    "bengali": "আর আমি তো তাদের পূর্ববর্তীদের পরীক্ষা করেছি। ফলে আল্লাহ অবশ্যই জেনে নেবেন, কারা সত্য বলে এবং অবশ্যই তিনি জেনে নেবেন, কারা মিথ্যাবাদী।",
+    "urdu": "اور جو لوگ اُن سے پہلے ہو چکے ہیں ہم نے اُن کو بھی آزمایا تھا (اور ان کو بھی آزمائیں گے) سو خدا اُن کو ضرور معلوم کریں گے جو (اپنے ایمان میں) سچے ہیں اور اُن کو بھی جو جھوٹے ہیں"
+}

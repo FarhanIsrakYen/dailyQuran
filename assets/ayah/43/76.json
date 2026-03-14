@@ -1,0 +1,42 @@
+{
+    "surahName": "Az-Zukhruf",
+    "surahNameArabic": "الزخرف",
+    "surahNameArabicLong": "سورة الزخرف",
+    "surahNameTranslation": "Ornaments of gold",
+    "revelationPlace": "Mecca",
+    "totalAyah": 89,
+    "surahNo": 43,
+    "ayahNo": 76,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/43_76.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/043076.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/43_76.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/043076.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/43_76.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/043076.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/43_76.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/043076.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/43_76.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/043076.mp3"
+        }
+    },
+    "english": "We did not wrong them, but it was they who were the wrongdoers.",
+    "arabic1": "وَمَا ظَلَمْنَـٰهُمْ وَلَـٰكِن كَانُوا۟ هُمُ ٱلظَّـٰلِمِينَ",
+    "arabic2": "وما ظلمناهم ولكن كانوا هم الظالمين",
+    "bengali": "আর আমি তাদের উপর যুলম করিনি; কিন্তু তারাই ছিল যালিম।",
+    "urdu": "اور ہم نے ان پر ظلم نہیں کیا۔ بلکہ وہی (اپنے آپ پر) ظلم کرتے تھے"
+}

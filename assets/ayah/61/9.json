@@ -1,0 +1,42 @@
+{
+    "surahName": "As-Saff",
+    "surahNameArabic": "الصف",
+    "surahNameArabicLong": "سورة الصف",
+    "surahNameTranslation": "The Ranks",
+    "revelationPlace": "Madina",
+    "totalAyah": 14,
+    "surahNo": 61,
+    "ayahNo": 9,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/61_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/061009.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/61_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/061009.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/61_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/061009.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/61_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/061009.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/61_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/061009.mp3"
+        }
+    },
+    "english": "He is the One Who has sent His Messenger with ˹true˺ guidance and the religion of truth, making it prevail over all others, even to the dismay of the polytheists.",
+    "arabic1": "هُوَ ٱلَّذِىٓ أَرْسَلَ رَسُولَهُۥ بِٱلْهُدَىٰ وَدِينِ ٱلْحَقِّ لِيُظْهِرَهُۥ عَلَى ٱلدِّينِ كُلِّهِۦ وَلَوْ كَرِهَ ٱلْمُشْرِكُونَ",
+    "arabic2": "هو الذي ارسل رسوله بالهدى ودين الحق ليظهره على الدين كله ولو كره المشركون",
+    "bengali": "তিনিই তাঁর রাসূলকে হিদায়াত ও সত্যদ্বীন দিয়ে প্রেরণ করেছেন, যাতে তিনি সকল দ্বীনের উপর তা বিজয়ী করে দেন। যদিও মুশরিকরা তা অপছন্দ করে।",
+    "urdu": "وہی تو ہے جس نے اپنے پیغمبر کو ہدایت اور دین حق دے کر بھیجا تاکہ اسے اور سب دینوں پر غالب کرے خواہ مشرکوں کو برا ہی لگے"
+}

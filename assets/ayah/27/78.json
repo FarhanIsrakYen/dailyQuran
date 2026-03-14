@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Naml",
+    "surahNameArabic": "النمل",
+    "surahNameArabicLong": "سورة النمل",
+    "surahNameTranslation": "The Ant",
+    "revelationPlace": "Mecca",
+    "totalAyah": 93,
+    "surahNo": 27,
+    "ayahNo": 78,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/27_78.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/027078.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/27_78.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/027078.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/27_78.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/027078.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/27_78.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/027078.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/27_78.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/027078.mp3"
+        }
+    },
+    "english": "Your Lord will certainly judge between them by His justice, for He is the Almighty, All-Knowing.",
+    "arabic1": "إِنَّ رَبَّكَ يَقْضِى بَيْنَهُم بِحُكْمِهِۦ ۚ وَهُوَ ٱلْعَزِيزُ ٱلْعَلِيمُ",
+    "arabic2": "ان ربك يقضي بينهم بحكمه وهو العزيز العليم",
+    "bengali": "নিশ্চয় তোমার রব নিজের বিচার-প্রজ্ঞা দ্বারা তাদের মধ্যে ফয়সালা করে দেবেন; আর তিনি মহাপরাক্রমশালী, সর্বজ্ঞ।",
+    "urdu": "تمہارا پروردگار (قیامت کے روز) اُن میں اپنے حکم سے فیصلہ کر دے گا اور وہ غالب (اور) علم والا ہے"
+}

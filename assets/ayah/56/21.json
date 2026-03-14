@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Waaqia",
+    "surahNameArabic": "الواقعة",
+    "surahNameArabicLong": "سورة الواقعة",
+    "surahNameTranslation": "The Inevitable",
+    "revelationPlace": "Mecca",
+    "totalAyah": 96,
+    "surahNo": 56,
+    "ayahNo": 21,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/56_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/056021.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/56_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/056021.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/56_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/056021.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/56_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/056021.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/56_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/056021.mp3"
+        }
+    },
+    "english": "and meat from any bird they desire.",
+    "arabic1": "وَلَحْمِ طَيْرٍ مِّمَّا يَشْتَهُونَ",
+    "arabic2": "ولحم طير مما يشتهون",
+    "bengali": "আর পাখির গোশ্‌ত নিয়ে, যা তারা কামনা করবে।",
+    "urdu": "اور پرندوں کا گوشت جس قسم کا ان کا جی چاہے"
+}

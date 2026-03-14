@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 83,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/4_83.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/004083.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/4_83.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/004083.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/4_83.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/004083.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/4_83.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/004083.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/4_83.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/004083.mp3"
+        }
+    },
+    "english": "And when they hear news of security or fear, they publicize it. Had they referred it to the Messenger or their authorities, those with sound judgment among them would have validated it. Had it not been for Allah’s grace and mercy, you would have followed Satan—except for a few.",
+    "arabic1": "وَإِذَا جَآءَهُمْ أَمْرٌ مِّنَ ٱلْأَمْنِ أَوِ ٱلْخَوْفِ أَذَاعُوا۟ بِهِۦ ۖ وَلَوْ رَدُّوهُ إِلَى ٱلرَّسُولِ وَإِلَىٰٓ أُو۟لِى ٱلْأَمْرِ مِنْهُمْ لَعَلِمَهُ ٱلَّذِينَ يَسْتَنۢبِطُونَهُۥ مِنْهُمْ ۗ وَلَوْلَا فَضْلُ ٱللَّهِ عَلَيْكُمْ وَرَحْمَتُهُۥ لَٱتَّبَعْتُمُ ٱلشَّيْطَـٰنَ إِلَّا قَلِيلًا",
+    "arabic2": "واذا جاءهم امر من الامن او الخوف اذاعوا به ولو ردوه الى الرسول والى اولي الامر منهم لعلمه الذين يستنبطونه منهم ولولا فضل الله عليكم ورحمته لاتبعتم الشيطان الا قليلا",
+    "bengali": "আর যখন তাদের কাছে শান্তি কিংবা ভীতিজনক কোন বিষয় আসে, তখন তারা তা প্রচার করে। আর যদি তারা সেটি রাসূলের কাছে এবং তাদের কর্তৃত্বের অধিকারীদের কাছে পৌঁছে দিত, তাহলে অবশ্যই তাদের মধ্যে যারা তা উদ্ভাবন করে তারা তা জানত। আর যদি তোমাদের উপর আল্লাহর অনুগ্রহ ও তাঁর রহমত না হত, তবে অবশ্যই অল্প কয়েকজন ছাড়া তোমরা শয়তানের অনুসরণ করতে।",
+    "urdu": "اور جب ان کے پاس امن یا خوف کی کوئی خبر پہنچتی ہے تو اس کو مشہور کردیتے ہیں اور اگر اس کو پیغمبر اور اپنے سرداروں کے پاس پہنچاتے تو تحقیق کرنے والے اس کی تحقیق کر لیتے اور اگر تم پر خدا کا فضل اور اس کی مہربانی نہ ہوتی تو چند اشخاص کے سوا سب شیطان کے پیرو ہوجاتے"
+}

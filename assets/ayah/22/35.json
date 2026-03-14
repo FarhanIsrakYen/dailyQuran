@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Hajj",
+    "surahNameArabic": "الحج",
+    "surahNameArabicLong": "سورة الحج",
+    "surahNameTranslation": "The Pilgrimage",
+    "revelationPlace": "Madina",
+    "totalAyah": 78,
+    "surahNo": 22,
+    "ayahNo": 35,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/22_35.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/022035.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/22_35.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/022035.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/22_35.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/022035.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/22_35.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/022035.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/22_35.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/022035.mp3"
+        }
+    },
+    "english": "those whose hearts tremble at the remembrance of Allah, who patiently endure whatever may befall them, and who establish prayer and donate from what We have provided for them.",
+    "arabic1": "ٱلَّذِينَ إِذَا ذُكِرَ ٱللَّهُ وَجِلَتْ قُلُوبُهُمْ وَٱلصَّـٰبِرِينَ عَلَىٰ مَآ أَصَابَهُمْ وَٱلْمُقِيمِى ٱلصَّلَوٰةِ وَمِمَّا رَزَقْنَـٰهُمْ يُنفِقُونَ",
+    "arabic2": "الذين اذا ذكر الله وجلت قلوبهم والصابرين على ما اصابهم والمقيمي الصلاة ومما رزقناهم ينفقون",
+    "bengali": "যাদের কাছে আল্লাহর কথা উল্লেখ করা হলে তাদের অন্তর কেঁপে ওঠে, যারা তাদের বিপদ-আপদে ধৈর্যধারণ করে, যারা সালাত কায়েম করে এবং আমি তাদেরকে যে রিয্ক দিয়েছি তা থেকে ব্যয় করে।",
+    "urdu": "یہ وہ لوگ ہیں کہ جب خدا کا نام لیا جاتا ہے تو ان کے دل ڈر جاتے ہیں اور جب ان پر مصیبت پڑتی ہے تو صبر کرتے ہیں اور نماز آداب سے پڑھتے ہیں اور جو (مال) ہم نے ان کو عطا فرمایا ہے (اس میں سے) (نیک کاموں میں) خرچ کرتے ہیں"
+}

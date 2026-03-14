@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Hijr",
+    "surahNameArabic": "الحجر",
+    "surahNameArabicLong": "سورة الحجر",
+    "surahNameTranslation": "The Rock",
+    "revelationPlace": "Mecca",
+    "totalAyah": 99,
+    "surahNo": 15,
+    "ayahNo": 6,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/15_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/015006.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/15_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/015006.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/15_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/015006.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/15_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/015006.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/15_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/015006.mp3"
+        }
+    },
+    "english": "They say, “O you to whom the Reminder is revealed! You must be insane!",
+    "arabic1": "وَقَالُوا۟ يَـٰٓأَيُّهَا ٱلَّذِى نُزِّلَ عَلَيْهِ ٱلذِّكْرُ إِنَّكَ لَمَجْنُونٌ",
+    "arabic2": "وقالوا يا ايها الذي نزل عليه الذكر انك لمجنون",
+    "bengali": "আর তারা বলল, ‘হে ঐ ব্যক্তি, যার উপর কুরআন নাযিল করা হয়েছে, তুমি তো নিশ্চিত পাগল’।",
+    "urdu": "اور کفار کہتے ہیں کہ اے شخص جس پر نصیحت (کی کتاب) نازل ہوئی ہے تُو تو دیوانہ ہے"
+}

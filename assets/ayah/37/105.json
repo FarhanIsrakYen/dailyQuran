@@ -1,0 +1,42 @@
+{
+    "surahName": "As-Saaffaat",
+    "surahNameArabic": "الصافات",
+    "surahNameArabicLong": "سورة الصافات",
+    "surahNameTranslation": "Those drawn up in Ranks",
+    "revelationPlace": "Mecca",
+    "totalAyah": 182,
+    "surahNo": 37,
+    "ayahNo": 105,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/37_105.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/037105.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/37_105.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/037105.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/37_105.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/037105.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/37_105.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/037105.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/37_105.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/037105.mp3"
+        }
+    },
+    "english": "You have already fulfilled the vision.” Indeed, this is how We reward the good-doers.",
+    "arabic1": "قَدْ صَدَّقْتَ ٱلرُّءْيَآ ۚ إِنَّا كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ",
+    "arabic2": "قد صدقت الرؤيا انا كذلك نجزي المحسنين",
+    "bengali": "‘তুমি তো স্বপ্নকে সত্যে পরিণত করেছ। নিশ্চয় আমি এভাবেই সৎকর্মশীলদের পুরস্কৃত করে থাকি’।",
+    "urdu": "تم نے خواب کو سچا کر دکھایا۔ ہم نیکوکاروں کو ایسا ہی بدلہ دیا کرتے ہیں"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Saba",
+    "surahNameArabic": "سبإ",
+    "surahNameArabicLong": "سورة سَبَأ",
+    "surahNameTranslation": "Sheba",
+    "revelationPlace": "Mecca",
+    "totalAyah": 54,
+    "surahNo": 34,
+    "ayahNo": 46,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/34_46.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/034046.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/34_46.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/034046.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/34_46.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/034046.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/34_46.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/034046.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/34_46.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/034046.mp3"
+        }
+    },
+    "english": "Say, ˹O Prophet,˺ “I advise you to do ˹only˺ one thing: stand up for ˹the sake of˺ Allah—individually or in pairs—then reflect. Your fellow man is not insane. He is only a warner to you before ˹the coming of˺ a severe punishment.”",
+    "arabic1": "۞ قُلْ إِنَّمَآ أَعِظُكُم بِوَٰحِدَةٍ ۖ أَن تَقُومُوا۟ لِلَّهِ مَثْنَىٰ وَفُرَٰدَىٰ ثُمَّ تَتَفَكَّرُوا۟ ۚ مَا بِصَاحِبِكُم مِّن جِنَّةٍ ۚ إِنْ هُوَ إِلَّا نَذِيرٌ لَّكُم بَيْنَ يَدَىْ عَذَابٍ شَدِيدٍ",
+    "arabic2": "قل انما اعظكم بواحدة ان تقوموا لله مثنى وفرادى ثم تتفكروا ما بصاحبكم من جنة ان هو الا نذير لكم بين يدي عذاب شديد",
+    "bengali": "বল, ‘আমি তো তোমাদেরকে একটি বিষয়ে উপদেশ দিচ্ছি, তোমরা আল্লাহর উদ্দেশ্যে দু’জন অথবা এক একজন করে দাঁড়িয়ে যাও, অতঃপর চিন্তা করে দেখ, তোমাদের সাথীর মধ্যে কোন পাগলামী নেই। সে তো আসন্ন কঠোর আযাব সম্পর্কে তোমাদের একজন সতর্ককারী বৈ কিছু নয়।’",
+    "urdu": "کہہ دو کہ میں تمہیں صرف ایک بات کی نصیحت کرتا ہوں کہ تم خدا کے لئے دو دو اور اکیلے اکیلے کھڑے ہوجاؤ پھر غور کرو۔ تمہارے رفیق کو سودا نہیں وہ تم کو عذاب سخت (کے آنے) سے پہلے صرف ڈرانے والے ہیں"
+}

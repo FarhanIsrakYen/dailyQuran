@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Anfaal",
+    "surahNameArabic": "الأنفال",
+    "surahNameArabicLong": "سورة الأنفال",
+    "surahNameTranslation": "The Spoils of War",
+    "revelationPlace": "Madina",
+    "totalAyah": 75,
+    "surahNo": 8,
+    "ayahNo": 9,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/8_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/008009.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/8_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/008009.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/8_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/008009.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/8_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/008009.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/8_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/008009.mp3"
+        }
+    },
+    "english": "˹Remember˺ when you cried out to your Lord for help, He answered, “I will reinforce you with a thousand angels—followed by many others.”",
+    "arabic1": "إِذْ تَسْتَغِيثُونَ رَبَّكُمْ فَٱسْتَجَابَ لَكُمْ أَنِّى مُمِدُّكُم بِأَلْفٍ مِّنَ ٱلْمَلَـٰٓئِكَةِ مُرْدِفِينَ",
+    "arabic2": "اذ تستغيثون ربكم فاستجاب لكم اني ممدكم بالف من الملائكة مردفين",
+    "bengali": "আর স্মরণ কর, যখন তোমরা তোমাদের রবের নিকট ফরিয়াদ করছিলে, তখন তিনি তোমাদের ডাকে সাড়া দিয়েছিলেন যে, ‘নিশ্চয় আমি তোমাদেরকে পর পর আগমনকারী এক হাজার ফেরেশতা দ্বারা সাহায্য করছি’।",
+    "urdu": "جب تم اپنے پروردگار سے فریاد کرتے تھے تو اس نے تمہاری دعا قبول کرلی (اور فرمایا) کہ (تسلی رکھو) ہم ہزار فرشتوں سے جو ایک دوسرے کے پیچھے آتے جائیں گے تمہاری مدد کریں گے"
+}

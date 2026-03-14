@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Hujuraat",
+    "surahNameArabic": "الحجرات",
+    "surahNameArabicLong": "سورة الحجرات",
+    "surahNameTranslation": "The Inner Apartments",
+    "revelationPlace": "Madina",
+    "totalAyah": 18,
+    "surahNo": 49,
+    "ayahNo": 2,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/49_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/049002.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/49_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/049002.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/49_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/049002.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/49_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/049002.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/49_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/049002.mp3"
+        }
+    },
+    "english": "O believers! Do not raise your voices above the voice of the Prophet, nor speak loudly to him as you do to one another, or your deeds will become void while you are unaware.",
+    "arabic1": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَرْفَعُوٓا۟ أَصْوَٰتَكُمْ فَوْقَ صَوْتِ ٱلنَّبِىِّ وَلَا تَجْهَرُوا۟ لَهُۥ بِٱلْقَوْلِ كَجَهْرِ بَعْضِكُمْ لِبَعْضٍ أَن تَحْبَطَ أَعْمَـٰلُكُمْ وَأَنتُمْ لَا تَشْعُرُونَ",
+    "arabic2": "يا ايها الذين امنوا لا ترفعوا اصواتكم فوق صوت النبي ولا تجهروا له بالقول كجهر بعضكم لبعض ان تحبط اعمالكم وانتم لا تشعرون",
+    "bengali": "হে ঈমানদারগণ, তোমরা নবীর আওয়াজের উপর তোমাদের আওয়াজ উঁচু করো না এবং তোমরা নিজেরা পরস্পর যেমন উচ্চস্বরে কথা বল, তাঁর সাথে সেরকম উচ্চস্বরে কথা বলো না। এ আশঙ্কায় যে তোমাদের সকল আমল-নিষ্ফল হয়ে যাবে অথচ তোমরা উপলব্ধিও করতে পারবে না।",
+    "urdu": "اے اہل ایمان! اپنی آوازیں پیغمبر کی آواز سے اونچی نہ کرو اور جس طرح آپس میں ایک دوسرے سے زور سے بولتے ہو (اس طرح) ان کے روبرو زور سے نہ بولا کرو (ایسا نہ ہو) کہ تمہارے اعمال ضائع ہوجائیں اور تم کو خبر بھی نہ ہو"
+}

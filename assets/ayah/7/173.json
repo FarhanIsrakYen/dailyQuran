@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 173,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/7_173.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/007173.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/7_173.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/007173.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/7_173.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/007173.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/7_173.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/007173.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/7_173.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/007173.mp3"
+        }
+    },
+    "english": "Nor say, ‘It was our forefathers who had associated others ˹with Allah in worship˺ and we, as their descendants, followed in their footsteps. Will you then destroy us for the falsehood they invented?’”",
+    "arabic1": "أَوْ تَقُولُوٓا۟ إِنَّمَآ أَشْرَكَ ءَابَآؤُنَا مِن قَبْلُ وَكُنَّا ذُرِّيَّةً مِّنۢ بَعْدِهِمْ ۖ أَفَتُهْلِكُنَا بِمَا فَعَلَ ٱلْمُبْطِلُونَ",
+    "arabic2": "او تقولوا انما اشرك اباؤنا من قبل وكنا ذرية من بعدهم افتهلكنا بما فعل المبطلون",
+    "bengali": "অথবা তোমরা যাতে বলতে না পার, ‘আমাদের পিতৃ-পুরুষরাই পূর্বে শির্ক করেছে, আর আমরা ছিলাম তাদের পরবর্তী বংশধর। সুতরাং বাতিলপন্থিরা যা করেছে, তার কারণে আপনি কি আমাদেরকে ধ্বংস করবেন’?",
+    "urdu": "یا یہ (نہ) کہو کہ شرک تو پہلے ہمارے بڑوں نے کیا تھا۔ اور ہم تو ان کی اولاد تھے (جو) ان کے بعد (پیدا ہوئے)۔ تو کیا جو کام اہل باطل کرتے رہے اس کے بدلے تو ہمیں ہلاک کرتا ہے"
+}

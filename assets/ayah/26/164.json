@@ -1,0 +1,42 @@
+{
+    "surahName": "Ash-Shu'araa",
+    "surahNameArabic": "الشعراء",
+    "surahNameArabicLong": "سورة الشعراء",
+    "surahNameTranslation": "The Poets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 227,
+    "surahNo": 26,
+    "ayahNo": 164,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/26_164.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/026164.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/26_164.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/026164.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/26_164.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/026164.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/26_164.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/026164.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/26_164.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/026164.mp3"
+        }
+    },
+    "english": "I do not ask you for any reward for this ˹message˺. My reward is only from the Lord of all worlds.",
+    "arabic1": "وَمَآ أَسْـَٔلُكُمْ عَلَيْهِ مِنْ أَجْرٍ ۖ إِنْ أَجْرِىَ إِلَّا عَلَىٰ رَبِّ ٱلْعَـٰلَمِينَ",
+    "arabic2": "وما اسالكم عليه من اجر ان اجري الا على رب العالمين",
+    "bengali": "‘আর আমি এর উপর তোমাদের নিকট কোন প্রতিদান চাই না। আমার প্রতিদান কেবল সৃষ্টিকুলের রবের নিকট’।",
+    "urdu": "اور میں تم سے اس (کام) کا بدلہ نہیں مانگتا۔ میرا بدلہ (خدائے) رب العالمین کے ذمے ہے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Qamar",
+    "surahNameArabic": "القمر",
+    "surahNameArabicLong": "سورة القمر",
+    "surahNameTranslation": "The Moon",
+    "revelationPlace": "Mecca",
+    "totalAyah": 55,
+    "surahNo": 54,
+    "ayahNo": 2,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/54_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/054002.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/54_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/054002.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/54_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/054002.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/54_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/054002.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/54_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/054002.mp3"
+        }
+    },
+    "english": "Yet, whenever they see a sign, they turn away, saying, “Same old magic!”",
+    "arabic1": "وَإِن يَرَوْا۟ ءَايَةً يُعْرِضُوا۟ وَيَقُولُوا۟ سِحْرٌ مُّسْتَمِرٌّ",
+    "arabic2": "وان يروا اية يعرضوا ويقولوا سحر مستمر",
+    "bengali": "আর তারা কোন নিদর্শন দেখলে মুখ ফিরিয়ে নেয় এবং বলে, ‘চলমান যাদু’।",
+    "urdu": "اور اگر (کافر) کوئی نشانی دیکھتے ہیں تو منہ پھیر لیتے ہیں اور کہتے ہیں کہ یہ ایک ہمیشہ کا جادو ہے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Ankaboot",
+    "surahNameArabic": "العنكبوت",
+    "surahNameArabicLong": "سورة العنكبوت",
+    "surahNameTranslation": "The Spider",
+    "revelationPlace": "Mecca",
+    "totalAyah": 69,
+    "surahNo": 29,
+    "ayahNo": 13,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/29_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/029013.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/29_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/029013.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/29_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/029013.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/29_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/029013.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/29_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/029013.mp3"
+        }
+    },
+    "english": "Yet they will certainly ˹be made to˺ carry their own burdens, as well as other burdens along with their own. And they will surely be questioned on Judgment Day about what they used to fabricate.",
+    "arabic1": "وَلَيَحْمِلُنَّ أَثْقَالَهُمْ وَأَثْقَالًا مَّعَ أَثْقَالِهِمْ ۖ وَلَيُسْـَٔلُنَّ يَوْمَ ٱلْقِيَـٰمَةِ عَمَّا كَانُوا۟ يَفْتَرُونَ",
+    "arabic2": "وليحملن اثقالهم واثقالا مع اثقالهم وليسالن يوم القيامة عما كانوا يفترون",
+    "bengali": "আর অবশ্যই তারা বহন করবে তাদের বোঝা এবং তাদের বোঝার সাথে আরো কিছু বোঝা। আর তারা কিয়ামতের দিন অবশ্যই জিজ্ঞাসিত হবে সে সম্পর্কে, যা তারা মিথ্যা বানাত।",
+    "urdu": "اور یہ اپنے بوجھ بھی اُٹھائیں گے اور اپنے بوجھوں کے ساتھ اور (لوگوں کے) بوجھ بھی۔ اور جو بہتان یہ باندھتے رہے قیامت کے دن اُن کی اُن سے ضرور پرسش ہوگی"
+}

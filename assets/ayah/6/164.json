@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 164,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/6_164.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/006164.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/6_164.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/006164.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/6_164.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/006164.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/6_164.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/006164.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/6_164.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/006164.mp3"
+        }
+    },
+    "english": "Say, ˹O Prophet,˺ “Should I seek a lord other than Allah while He is the Lord of everything?” No one will reap except what they sow. No soul burdened with sin will bear the burden of another. Then to your Lord is your return, and He will inform you of your differences.",
+    "arabic1": "قُلْ أَغَيْرَ ٱللَّهِ أَبْغِى رَبًّا وَهُوَ رَبُّ كُلِّ شَىْءٍ ۚ وَلَا تَكْسِبُ كُلُّ نَفْسٍ إِلَّا عَلَيْهَا ۚ وَلَا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ ۚ ثُمَّ إِلَىٰ رَبِّكُم مَّرْجِعُكُمْ فَيُنَبِّئُكُم بِمَا كُنتُمْ فِيهِ تَخْتَلِفُونَ",
+    "arabic2": "قل اغير الله ابغي ربا وهو رب كل شيء ولا تكسب كل نفس الا عليها ولا تزر وازرة وزر اخرى ثم الى ربكم مرجعكم فينبئكم بما كنتم فيه تختلفون",
+    "bengali": "বল, ‘আমি কি আল্লাহ ছাড়া অন্য কোন রব অনুসন্ধান করব’ অথচ তিনি সব কিছুর রব’? আর প্রতিটি ব্যক্তি যা অর্জন করে, তা শুধু তারই উপর বর্তায় আর কোন ভারবহনকারী অন্যের ভার বহন করবে না। অতঃপর তোমাদের রবের নিকটই তোমাদের প্রত্যাবর্তনস্থল। সুতরাং তিনি তোমাদেরকে সেই সংবাদ দেবেন, যাতে তোমরা মতবিরোধ করতে।",
+    "urdu": "کہو کیا میں خدا کے سوا اور پروردگار تلاش کروں اور وہی تو ہر چیز کا مالک ہے اور جو کوئی (برا) کام کرتا ہے تو اس کا ضرر اسی کو ہوتا ہے اور کوئی شخص کسی (کے گناہ) کا بوجھ نہیں اٹھائے گا پھر تم سب کو اپنے پروردگار کی طرف لوٹ کا جانا ہے تو جن جن باتوں میں تم اختلاف کیا کرتے تھے وہ تم کو بتائے گا"
+}

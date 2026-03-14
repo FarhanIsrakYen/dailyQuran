@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Furqaan",
+    "surahNameArabic": "الفرقان",
+    "surahNameArabicLong": "سورة الفرقان",
+    "surahNameTranslation": "The Criterion",
+    "revelationPlace": "Mecca",
+    "totalAyah": 77,
+    "surahNo": 25,
+    "ayahNo": 55,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/25_55.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/025055.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/25_55.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/025055.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/25_55.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/025055.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/25_55.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/025055.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/25_55.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/025055.mp3"
+        }
+    },
+    "english": "Yet they worship besides Allah what can neither benefit nor harm them. And the disbeliever always collaborates against their Lord.",
+    "arabic1": "وَيَعْبُدُونَ مِن دُونِ ٱللَّهِ مَا لَا يَنفَعُهُمْ وَلَا يَضُرُّهُمْ ۗ وَكَانَ ٱلْكَافِرُ عَلَىٰ رَبِّهِۦ ظَهِيرًا",
+    "arabic2": "ويعبدون من دون الله ما لا ينفعهم ولا يضرهم وكان الكافر على ربه ظهيرا",
+    "bengali": "আর তারা আল্লাহর পরিবর্তে এমন কিছুর ইবাদাত করে, যা তাদের কোন উপকারও করতে পারে না এবং তাদের কোন ক্ষতিও করতে পারে না। আর কাফির তো তার রবের বিরুদ্ধে সাহায্যকারী।",
+    "urdu": "اور یہ لوگ خدا کو چھوڑ کر ایسی چیز کی پرستش کر تے ہیں جو نہ ان کو فائدہ پہنچا سکے اور نہ ضرر۔ اور کافر اپنے پروردگار کی مخالفت میں بڑا زور مارتا ہے"
+}

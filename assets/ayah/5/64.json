@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Maaida",
+    "surahNameArabic": "المائدة",
+    "surahNameArabicLong": "سورة المائدة",
+    "surahNameTranslation": "The Table",
+    "revelationPlace": "Madina",
+    "totalAyah": 120,
+    "surahNo": 5,
+    "ayahNo": 64,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/5_64.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/005064.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/5_64.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/005064.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/5_64.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/005064.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/5_64.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/005064.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/5_64.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/005064.mp3"
+        }
+    },
+    "english": "˹Some among˺ the Jews said, “Allah is tight-fisted.” May their fists be tied and they be condemned for what they said. Rather, He is open-handed, giving freely as He pleases. That which has been revealed to you ˹O Prophet˺ from your Lord will only cause many of them to increase in wickedness and disbelief. We have stirred among them hostility and hatred until the Day of Judgment. Whenever they kindle the fire of war, Allah puts it out. And they strive to spread corruption in the land. And Allah does not like corruptors.",
+    "arabic1": "وَقَالَتِ ٱلْيَهُودُ يَدُ ٱللَّهِ مَغْلُولَةٌ ۚ غُلَّتْ أَيْدِيهِمْ وَلُعِنُوا۟ بِمَا قَالُوا۟ ۘ بَلْ يَدَاهُ مَبْسُوطَتَانِ يُنفِقُ كَيْفَ يَشَآءُ ۚ وَلَيَزِيدَنَّ كَثِيرًا مِّنْهُم مَّآ أُنزِلَ إِلَيْكَ مِن رَّبِّكَ طُغْيَـٰنًا وَكُفْرًا ۚ وَأَلْقَيْنَا بَيْنَهُمُ ٱلْعَدَٰوَةَ وَٱلْبَغْضَآءَ إِلَىٰ يَوْمِ ٱلْقِيَـٰمَةِ ۚ كُلَّمَآ أَوْقَدُوا۟ نَارًا لِّلْحَرْبِ أَطْفَأَهَا ٱللَّهُ ۚ وَيَسْعَوْنَ فِى ٱلْأَرْضِ فَسَادًا ۚ وَٱللَّهُ لَا يُحِبُّ ٱلْمُفْسِدِينَ",
+    "arabic2": "وقالت اليهود يد الله مغلولة غلت ايديهم ولعنوا بما قالوا بل يداه مبسوطتان ينفق كيف يشاء وليزيدن كثيرا منهم ما انزل اليك من ربك طغيانا وكفرا والقينا بينهم العداوة والبغضاء الى يوم القيامة كلما اوقدوا نارا للحرب اطفاها الله ويسعون في الارض فسادا والله لا يحب المفسدين",
+    "bengali": "আর ইয়াহূদীরা বলে, ‘আল্লাহর হাত বাঁধা’। তাদের হাতই বেঁধে দেয়া হয়েছে এবং তারা যা বলেছে, তার জন্য তারা লা‘নতগ্রস্ত হয়েছে। বরং তার দু’হাত প্রসারিত। যেভাবে ইচ্ছা তিনি দান করেন এবং তোমার উপর তোমার রবের পক্ষ থেকে যা নাযিল করা হয়েছে তা তাদের অনেকের অবাধ্যতা ও কুফরী বাড়িয়েই দিচ্ছে। আর আমি তাদের মধ্যে কিয়ামতের দিন পর্যন্ত শত্রুতা ও ঘৃণা ঢেলে দিয়েছি। যখনই তারা যুদ্ধের আগুন প্রজ্বলিত করে, আল্লাহ তা নিভিয়ে দেন। আর তারা যমীনে ফাসাদ করে বেড়ায় এবং আল্লাহ ফাসাদকারীদের ভালবাসেন না।",
+    "urdu": "اور یہود کہتے ہیں کہ خدا کا ہاتھ (گردن سے) بندھا ہوا ہے (یعنی الله بخیل ہے) انہیں کے ہاتھ باندھے جائیں اور ایسا کہنے کے سبب ان پر لعنت ہو (اس کا ہاتھ بندھا ہوا نہیں) بلکہ اس کے دونوں ہاتھ کھلے ہیں وہ جس طرح (اور جتنا) چاہتا ہے خرچ کرتا ہے اور (اے محمد) یہ (کتاب) جو تمہارے پروردگار کی طرف سے تم پر نازل ہوئی اس سے ان میں سے اکثر کی شرارت اور انکار اور بڑھے گا اور ہم نے ان کے باہم عداوت اور بغض قیامت تک کے لیے ڈال دیا ہے یہ جب لڑائی کے لیے آگ جلاتے ہیں خدا اس کو بجھا دیتا ہے اور یہ ملک میں فساد کے لیے دوڑے پھرتے ہیں اور خدا فساد کرنے والوں کو دوست نہیں رکھتا"
+}

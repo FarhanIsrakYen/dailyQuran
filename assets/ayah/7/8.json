@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 8,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/7_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/007008.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/7_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/007008.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/7_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/007008.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/7_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/007008.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/7_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/007008.mp3"
+        }
+    },
+    "english": "The weighing on that Day will be just. As for those whose scale will be heavy ˹with good deeds˺, ˹only˺ they will be successful.",
+    "arabic1": "وَٱلْوَزْنُ يَوْمَئِذٍ ٱلْحَقُّ ۚ فَمَن ثَقُلَتْ مَوَٰزِينُهُۥ فَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ",
+    "arabic2": "والوزن يومئذ الحق فمن ثقلت موازينه فاولئك هم المفلحون",
+    "bengali": "আর সেদিন পরিমাপ হবে যথাযথ। সুতরাং যাদের পাল্লা ভারি হবে তারাই হবে সফলকাম।",
+    "urdu": "اور اس روز (اعمال کا) تلنا برحق ہے تو جن لوگوں کے (عملوں کے) وزن بھاری ہوں گے وہ تو نجات پانے والے ہیں"
+}

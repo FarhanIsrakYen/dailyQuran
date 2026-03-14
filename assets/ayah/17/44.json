@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 44,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/17_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/017044.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/17_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/017044.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/17_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/017044.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/17_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/017044.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/17_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/017044.mp3"
+        }
+    },
+    "english": "The seven heavens, the earth, and all those in them glorify Him. There is not a single thing that does not glorify His praises—but you ˹simply˺ cannot comprehend their glorification. He is indeed Most Forbearing, All-Forgiving.",
+    "arabic1": "تُسَبِّحُ لَهُ ٱلسَّمَـٰوَٰتُ ٱلسَّبْعُ وَٱلْأَرْضُ وَمَن فِيهِنَّ ۚ وَإِن مِّن شَىْءٍ إِلَّا يُسَبِّحُ بِحَمْدِهِۦ وَلَـٰكِن لَّا تَفْقَهُونَ تَسْبِيحَهُمْ ۗ إِنَّهُۥ كَانَ حَلِيمًا غَفُورًا",
+    "arabic2": "تسبح له السماوات السبع والارض ومن فيهن وان من شيء الا يسبح بحمده ولكن لا تفقهون تسبيحهم انه كان حليما غفورا",
+    "bengali": "সাত আসমান ও যমীন এবং এগুলোর মধ্যে যা কিছু আছে সব কিছু তাঁর তাসবীহ পাঠ করে এবং এমন কিছু নেই যা তাঁর প্রসংশায় তাসবীহ পাঠ করে না; কিন্তু তাদের তাসবীহ তোমরা বুঝ না। নিশ্চয় তিনি সহনশীল, ক্ষমাপরায়ণ।",
+    "urdu": "ساتوں آسمان اور زمین اور جو لوگ ان میں ہیں سب اسی کی تسبیح کرتے ہیں۔ اور (مخلوقات میں سے) کوئی چیز نہیں مگر اس کی تعریف کے ساتھ تسبیح کرتی ہے۔ لیکن تم ان کی تسبیح کو نہیں سمجھتے۔ بےشک وہ بردبار (اور) غفار ہے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Faatir",
+    "surahNameArabic": "فاطر",
+    "surahNameArabicLong": "سورة فاطر",
+    "surahNameTranslation": "The Originator",
+    "revelationPlace": "Mecca",
+    "totalAyah": 45,
+    "surahNo": 35,
+    "ayahNo": 13,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/35_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/035013.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/35_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/035013.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/35_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/035013.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/35_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/035013.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/35_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/035013.mp3"
+        }
+    },
+    "english": "He merges the night into the day and the day into the night, and has subjected the sun and the moon, each orbiting for an appointed term. That is Allah—your Lord! All authority belongs to Him. But those ˹idols˺ you invoke besides Him do not possess even the skin of a date stone.",
+    "arabic1": "يُولِجُ ٱلَّيْلَ فِى ٱلنَّهَارِ وَيُولِجُ ٱلنَّهَارَ فِى ٱلَّيْلِ وَسَخَّرَ ٱلشَّمْسَ وَٱلْقَمَرَ كُلٌّ يَجْرِى لِأَجَلٍ مُّسَمًّى ۚ ذَٰلِكُمُ ٱللَّهُ رَبُّكُمْ لَهُ ٱلْمُلْكُ ۚ وَٱلَّذِينَ تَدْعُونَ مِن دُونِهِۦ مَا يَمْلِكُونَ مِن قِطْمِيرٍ",
+    "arabic2": "يولج الليل في النهار ويولج النهار في الليل وسخر الشمس والقمر كل يجري لاجل مسمى ذلكم الله ربكم له الملك والذين تدعون من دونه ما يملكون من قطمير",
+    "bengali": "তিনি রাতকে দিনের মধ্যে প্রবেশ করান এবং দিনকে রাতের মধ্যে প্রবেশ করান আর তিনিই সূর্য ও চাঁদকে বশীভূত করে দিয়েছেন; প্রত্যেকে পরিভ্রমণ করছে একটি নির্দিষ্ট কাল পর্যন্ত। তিনি আল্লাহ, তোমাদের রব; সমস্ত কর্তৃত্ব তাঁরই, আর আল্লাহকে ছাড়া যাদেরকে তোমরা ডাকো তারা খেজুরের আঁটির আবরণেরও মালিক নয়।",
+    "urdu": "وہی رات کو دن میں داخل کرتا اور (وہی) دن کو رات میں داخل کرتا ہے اور اسی نے سورج اور چاند کو کام میں لگا دیا ہے۔ ہر ایک ایک وقت مقرر تک چل رہا ہے۔ یہی خدا تمہارا پروردگار ہے اسی کی بادشاہی ہے۔ اور جن لوگوں کو تم اس کے سوا پکارتے ہو وہ کھجور کی گٹھلی کے چھلکے کے برابر بھی تو (کسی چیز کے) مالک نہیں"
+}

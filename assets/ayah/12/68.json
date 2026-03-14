@@ -1,0 +1,42 @@
+{
+    "surahName": "Yusuf",
+    "surahNameArabic": "يوسف",
+    "surahNameArabicLong": "سورة يوسف",
+    "surahNameTranslation": "Joseph",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 12,
+    "ayahNo": 68,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/12_68.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/012068.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/12_68.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/012068.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/12_68.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/012068.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/12_68.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/012068.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/12_68.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/012068.mp3"
+        }
+    },
+    "english": "Then when they entered as their father had instructed them, this did not help them against ˹the Will of˺ Allah whatsoever. It was just a desire in Jacob’s heart which he satisfied. He was truly blessed with ˹great˺ knowledge because of what We had taught him, but most people have no knowledge.",
+    "arabic1": "وَلَمَّا دَخَلُوا۟ مِنْ حَيْثُ أَمَرَهُمْ أَبُوهُم مَّا كَانَ يُغْنِى عَنْهُم مِّنَ ٱللَّهِ مِن شَىْءٍ إِلَّا حَاجَةً فِى نَفْسِ يَعْقُوبَ قَضَىٰهَا ۚ وَإِنَّهُۥ لَذُو عِلْمٍ لِّمَا عَلَّمْنَـٰهُ وَلَـٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ",
+    "arabic2": "ولما دخلوا من حيث امرهم ابوهم ما كان يغني عنهم من الله من شيء الا حاجة في نفس يعقوب قضاها وانه لذو علم لما علمناه ولكن اكثر الناس لا يعلمون",
+    "bengali": "আর যখন তারা প্রবেশ করল, যেভাবে তাদের পিতা তাদেরকে আদেশ করেছিল, তা আল্লাহর হুকুমের বিপরীতে তাদের কোন উপকারে আসেনি, তবে তা ছিল ইয়া‘কূবের মনের একটি ইচ্ছা, যা সে ব্যক্ত করেছিল। আর সে ছিল জ্ঞানী, কারণ আমি তাকে শিখিয়েছিলাম। কিন্তু অধিকাংশ মানুষ জানে না।",
+    "urdu": "اور جب وہ ان ان مقامات سے داخل ہوئے جہاں جہاں سے (داخل ہونے کے لیے) باپ نے ان سے کہا تھا تو وہ تدبیر خدا کے حکم کو ذرا بھی نہیں ٹال سکتی تھی ہاں وہ یعقوب کے دل کی خواہش تھی جو انہوں نے پوری کی تھی۔ اور بےشک وہ صاحبِ علم تھے کیونکہ ہم نے ان کو علم سکھایا تھا لیکن اکثر لوگ نہیں جانتے"
+}

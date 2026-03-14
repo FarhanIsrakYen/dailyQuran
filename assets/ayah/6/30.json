@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 30,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/6_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/006030.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/6_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/006030.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/6_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/006030.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/6_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/006030.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/6_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/006030.mp3"
+        }
+    },
+    "english": "But if only you could see when they will be detained before their Lord! He will ask ˹them˺, “Is this ˹Hereafter˺ not the truth?” They will cry, “Absolutely, by our Lord!” He will say, “Then taste the punishment for your disbelief.”",
+    "arabic1": "وَلَوْ تَرَىٰٓ إِذْ وُقِفُوا۟ عَلَىٰ رَبِّهِمْ ۚ قَالَ أَلَيْسَ هَـٰذَا بِٱلْحَقِّ ۚ قَالُوا۟ بَلَىٰ وَرَبِّنَا ۚ قَالَ فَذُوقُوا۟ ٱلْعَذَابَ بِمَا كُنتُمْ تَكْفُرُونَ",
+    "arabic2": "ولو ترى اذ وقفوا على ربهم قال اليس هذا بالحق قالوا بلى وربنا قال فذوقوا العذاب بما كنتم تكفرون",
+    "bengali": "আর যদি তুমি দেখতে যখন তাদেরকে দাঁড় করানো হবে তাদের রবের সামনে এবং তিনি বলবেন ‘এটা কি সত্য নয়’? তারা বলবে, ‘হ্যাঁ, আমাদের রবের কসম!’ তিনি বলবেন, ‘সুতরাং তোমরা যে কুফরী করতে তার কারণে আযাব আস্বাদন কর।’",
+    "urdu": "اور کاش تم (ان کو اس وقت) دیکھو جب یہ اپنے پروردگار کےسامنے کھڑے کئے جائیں گے اور وہ فرمائےگا کیا یہ (دوبارہ زندہ ہونا) برحق نہیں تو کہیں گے کیوں نہیں پروردگار کی قسم (بالکل برحق ہے)خدا فرمائے گا اب کفر کے بدلے (جو دنیا میں کرتے تھے) عذاب (کے مزے) چکھو"
+}

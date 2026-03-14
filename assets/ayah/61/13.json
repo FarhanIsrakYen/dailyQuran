@@ -1,0 +1,42 @@
+{
+    "surahName": "As-Saff",
+    "surahNameArabic": "الصف",
+    "surahNameArabicLong": "سورة الصف",
+    "surahNameTranslation": "The Ranks",
+    "revelationPlace": "Madina",
+    "totalAyah": 14,
+    "surahNo": 61,
+    "ayahNo": 13,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/61_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/061013.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/61_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/061013.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/61_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/061013.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/61_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/061013.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/61_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/061013.mp3"
+        }
+    },
+    "english": "˹He will also give you˺ another favour that you long for: help from Allah and an imminent victory. ˹So˺ give good news ˹O Prophet˺ to the believers.",
+    "arabic1": "وَأُخْرَىٰ تُحِبُّونَهَا ۖ نَصْرٌ مِّنَ ٱللَّهِ وَفَتْحٌ قَرِيبٌ ۗ وَبَشِّرِ ٱلْمُؤْمِنِينَ",
+    "arabic2": "واخرى تحبونها نصر من الله وفتح قريب وبشر المؤمنين",
+    "bengali": "এবং আরো একটি (অর্জন) যা তোমরা খুব পছন্দ কর। (অর্থাৎ) আল্লাহর পক্ষ থেকে সাহায্য ও নিকটবর্তী বিজয়। আর মুমিনদেরকে তুমি সুসংবাদ দাও।",
+    "urdu": "اور ایک اور چیز جس کو تم بہت چاہتے ہو (یعنی تمہیں) خدا کی طرف سے مدد (نصیب ہوگی) اور فتح عنقریب ہوگی اور مومنوں کو (اس کی) خوشخبری سنا دو"
+}

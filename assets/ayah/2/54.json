@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 54,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_54.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002054.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_54.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002054.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_54.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002054.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_54.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002054.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_54.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002054.mp3"
+        }
+    },
+    "english": "And ˹remember˺ when Moses said to his people, “O my people! Surely you have wronged yourselves by worshipping the calf, so turn in repentance to your Creator and execute ˹the calf-worshippers among˺ yourselves. That is best for you in the sight of your Creator.” Then He accepted your repentance. Surely He is the Accepter of Repentance, Most Merciful.",
+    "arabic1": "وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِۦ يَـٰقَوْمِ إِنَّكُمْ ظَلَمْتُمْ أَنفُسَكُم بِٱتِّخَاذِكُمُ ٱلْعِجْلَ فَتُوبُوٓا۟ إِلَىٰ بَارِئِكُمْ فَٱقْتُلُوٓا۟ أَنفُسَكُمْ ذَٰلِكُمْ خَيْرٌ لَّكُمْ عِندَ بَارِئِكُمْ فَتَابَ عَلَيْكُمْ ۚ إِنَّهُۥ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+    "arabic2": "واذ قال موسى لقومه يا قوم انكم ظلمتم انفسكم باتخاذكم العجل فتوبوا الى بارئكم فاقتلوا انفسكم ذلكم خير لكم عند بارئكم فتاب عليكم انه هو التواب الرحيم",
+    "bengali": "আর যখন মূসা তার কওমকে বলেছিল, ‘হে আমার কওম, নিশ্চয় তোমরা বাছুরকে (উপাস্যরূপে) গ্রহণ করে নিজদের উপর যুলম করেছ। সুতরাং তোমরা তোমাদের সৃষ্টিকর্তার কাছে তাওবা কর। অতঃপর তোমরা নিজদেরকে হত্যা কর। এটি তোমাদের জন্য তোমাদের সৃষ্টিকর্তার নিকট উত্তম। অতঃপর আল্লাহ তোমাদের তাওবা কবূল করলেন। নিশ্চয় তিনি তাওবা কবূলকারী, পরম দয়ালু।",
+    "urdu": "اور جب موسیٰ نے اپنی قوم کے لوگوں سے کہا کہ بھائیو، تم نے بچھڑے کو (معبود) ٹھہرانے میں (بڑا) ظلم کیا ہے، تو اپنے پیدا کرنے والے کے آگے توبہ کرو اور اپنے تئیں ہلاک کر ڈالو۔ تمہارے خالق کے نزدیک تمہارے حق میں یہی بہتر ہے۔ پھر اس نے تمہارا قصور معاف کر دیا۔ وہ بے شک معاف کرنے والا (اور) صاحبِ رحم ہے"
+}

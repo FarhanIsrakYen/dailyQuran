@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 149,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/6_149.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/006149.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/6_149.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/006149.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/6_149.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/006149.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/6_149.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/006149.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/6_149.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/006149.mp3"
+        }
+    },
+    "english": "Say, “Allah has the most conclusive argument. Had it been His Will, He would have easily imposed guidance upon all of you.”",
+    "arabic1": "قُلْ فَلِلَّهِ ٱلْحُجَّةُ ٱلْبَـٰلِغَةُ ۖ فَلَوْ شَآءَ لَهَدَىٰكُمْ أَجْمَعِينَ",
+    "arabic2": "قل فلله الحجة البالغة فلو شاء لهداكم اجمعين",
+    "bengali": "বল, ‘চূড়ান্ত প্রমাণ আল্লাহরই। সুতরাং যদি তিনি চান, অবশ্যই তোমাদের সবাইকে হিদায়াত দেবেন।’",
+    "urdu": "کہہ دو کہ خدا ہی کی حجت غالب ہے اگر وہ چاہتا تو تم سب کو ہدایت دے دیتا"
+}

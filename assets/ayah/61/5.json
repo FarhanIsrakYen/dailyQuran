@@ -1,0 +1,42 @@
+{
+    "surahName": "As-Saff",
+    "surahNameArabic": "الصف",
+    "surahNameArabicLong": "سورة الصف",
+    "surahNameTranslation": "The Ranks",
+    "revelationPlace": "Madina",
+    "totalAyah": 14,
+    "surahNo": 61,
+    "ayahNo": 5,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/61_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/061005.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/61_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/061005.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/61_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/061005.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/61_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/061005.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/61_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/061005.mp3"
+        }
+    },
+    "english": "˹Remember, O  Prophet,˺ when Moses said to his people, “O my people! Why do you hurt me when you already know I am Allah’s messenger to you?” So when they ˹persistently˺ deviated, Allah caused their hearts to deviate. For Allah does not guide the rebellious people.",
+    "arabic1": "وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِۦ يَـٰقَوْمِ لِمَ تُؤْذُونَنِى وَقَد تَّعْلَمُونَ أَنِّى رَسُولُ ٱللَّهِ إِلَيْكُمْ ۖ فَلَمَّا زَاغُوٓا۟ أَزَاغَ ٱللَّهُ قُلُوبَهُمْ ۚ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلْفَـٰسِقِينَ",
+    "arabic2": "واذ قال موسى لقومه يا قوم لم تؤذونني وقد تعلمون اني رسول الله اليكم فلما زاغوا ازاغ الله قلوبهم والله لا يهدي القوم الفاسقين",
+    "bengali": "আর মূসা যখন তার সম্প্রদায়কে বলেছিল, ‘হে আমার সম্প্রদায়, তোমরা আমাকে কেন কষ্ট দিচ্ছ, অথচ তোমরা নিশ্চয় জান যে, আমি অবশ্যই তোমাদের নিকট আল্লাহর রাসূল’। অতঃপর তারা যখন বাঁকাপথ অবলম্বন করল, তখন আল্লাহ তাদের হৃদয়গুলোকে বাঁকা করে দিলেন। আর আল্লাহ পাপাচারী সম্প্রদায়কে হিদায়াত করেন না।",
+    "urdu": "اور وہ وقت یاد کرنے کے لائق ہے جب موسیٰ نے اپنی قوم سے کہا کہ اے قوم! تم مجھے کیوں ایذا دیتے ہو حالانکہ تم جانتے ہو کہ میں تمہارے پاس خدا کا بھیجا ہوا آیا ہوں۔ تو جب ان لوگوں نے کج روی کی خدا نے بھی ان کے دل ٹیڑھے کردیئے۔ اور خدا نافرمانوں کو ہدایت نہیں دیتا"
+}

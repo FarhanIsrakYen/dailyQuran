@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 39,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/9_39.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/009039.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/9_39.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/009039.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/9_39.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/009039.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/9_39.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/009039.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/9_39.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/009039.mp3"
+        }
+    },
+    "english": "If you do not march forth, He will afflict you with a painful torment and replace you with other people. You are not harming Him in the least. And Allah is Most Capable of everything.",
+    "arabic1": "إِلَّا تَنفِرُوا۟ يُعَذِّبْكُمْ عَذَابًا أَلِيمًا وَيَسْتَبْدِلْ قَوْمًا غَيْرَكُمْ وَلَا تَضُرُّوهُ شَيْـًٔا ۗ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+    "arabic2": "الا تنفروا يعذبكم عذابا اليما ويستبدل قوما غيركم ولا تضروه شيئا والله على كل شيء قدير",
+    "bengali": "যদি তোমরা (যুদ্ধে) বের না হও, তিনি তোমাদের বেদনাদায়ক আযাব দেবেন এবং তোমাদের পরিবর্তে অন্য এক কওমকে আনয়ন করবেন, আর তোমরা তাঁর কিছুমাত্র ক্ষতি করতে পারবে না। আর আল্লাহ সব কিছুর উপর ক্ষমতাবান।",
+    "urdu": "اور اگر تم نہ نکلو گے تو خدا تم کو بڑی تکلیف کا عذاب دے گا۔ اور تمہاری جگہ اور لوگ پیدا کر دے گا (جو خدا کے پورے فرمانبردار ہوں گے) اور تم اس کو کچھ نقصان نہ پہنچا سکو گے اور خدا ہر چیز پر قدرت رکھتا ہے"
+}

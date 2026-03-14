@@ -1,0 +1,42 @@
+{
+    "surahName": "Muhammad",
+    "surahNameArabic": "محمد",
+    "surahNameArabicLong": "سورة محمد",
+    "surahNameTranslation": "Muhammad",
+    "revelationPlace": "Madina",
+    "totalAyah": 38,
+    "surahNo": 47,
+    "ayahNo": 11,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/47_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/047011.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/47_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/047011.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/47_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/047011.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/47_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/047011.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/47_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/047011.mp3"
+        }
+    },
+    "english": "This is because Allah is the Patron of the believers while the disbelievers have no patron.",
+    "arabic1": "ذَٰلِكَ بِأَنَّ ٱللَّهَ مَوْلَى ٱلَّذِينَ ءَامَنُوا۟ وَأَنَّ ٱلْكَـٰفِرِينَ لَا مَوْلَىٰ لَهُمْ",
+    "arabic2": "ذلك بان الله مولى الذين امنوا وان الكافرين لا مولى لهم",
+    "bengali": "তা এজন্য যে, নিশ্চয় আল্লাহ মুমিনদের অভিভাবক। আর নিশ্চয় কাফিরদের কোন অভিভাবক নেই।",
+    "urdu": "یہ اس لئے کہ جو مومن ہیں ان کا خدا کارساز ہے اور کافروں کا کوئی کارساز نہیں"
+}

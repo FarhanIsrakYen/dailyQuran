@@ -1,0 +1,42 @@
+{
+    "surahName": "Yunus",
+    "surahNameArabic": "يونس",
+    "surahNameArabicLong": "سورة يونس",
+    "surahNameTranslation": "Jonas",
+    "revelationPlace": "Mecca",
+    "totalAyah": 109,
+    "surahNo": 10,
+    "ayahNo": 82,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/10_82.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/010082.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/10_82.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/010082.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/10_82.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/010082.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/10_82.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/010082.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/10_82.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/010082.mp3"
+        }
+    },
+    "english": "And Allah establishes the truth by His Words—even to the dismay of the wicked.”",
+    "arabic1": "وَيُحِقُّ ٱللَّهُ ٱلْحَقَّ بِكَلِمَـٰتِهِۦ وَلَوْ كَرِهَ ٱلْمُجْرِمُونَ",
+    "arabic2": "ويحق الله الحق بكلماته ولو كره المجرمون",
+    "bengali": "আর আল্লাহ তাঁর বাণীসমূহের মাধ্যমে সত্যকে প্রতিষ্ঠিত করেন, যদিও অপরাধীরা তা অপছন্দ করে।",
+    "urdu": "اور خدا اپنے حکم سے سچ کو سچ ہی کردے گا اگرچہ گنہگار برا ہی مانیں"
+}

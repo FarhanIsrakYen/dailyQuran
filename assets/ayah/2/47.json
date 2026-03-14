@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 47,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_47.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002047.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_47.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002047.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_47.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002047.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_47.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002047.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_47.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002047.mp3"
+        }
+    },
+    "english": "O Children of Israel! Remember ˹all˺ the favours I granted you and how I honoured you above the others.",
+    "arabic1": "يَـٰبَنِىٓ إِسْرَٰٓءِيلَ ٱذْكُرُوا۟ نِعْمَتِىَ ٱلَّتِىٓ أَنْعَمْتُ عَلَيْكُمْ وَأَنِّى فَضَّلْتُكُمْ عَلَى ٱلْعَـٰلَمِينَ",
+    "arabic2": "يا بني اسرائيل اذكروا نعمتي التي انعمت عليكم واني فضلتكم على العالمين",
+    "bengali": "হে বনী ইসরাঈল, তোমরা আমার নিআমতকে স্মরণ কর, যে নিআমত আমি তোমাদেরকে দিয়েছি এবং নিশ্চয় আমি তোমাদেরকে বিশ্ববাসীর উপর শ্রেষ্ঠত্ব দিয়েছি।",
+    "urdu": "اے یعقوب کی اولاد! میرے وہ احسان یاد کرو، جو میں نے تم پر کئے تھے اور یہ کہ میں نے تم کو جہان کے لوگوں پر فضیلت بخشی تھی"
+}

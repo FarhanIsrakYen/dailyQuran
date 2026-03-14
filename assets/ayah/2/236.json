@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 236,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_236.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002236.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_236.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002236.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_236.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002236.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_236.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002236.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_236.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002236.mp3"
+        }
+    },
+    "english": "There is no blame if you divorce women before the marriage is consummated or the dowry is settled. But give them a ˹suitable˺ compensation—the rich according to his means and the poor according to his. A reasonable compensation is an obligation on the good-doers.",
+    "arabic1": "لَّا جُنَاحَ عَلَيْكُمْ إِن طَلَّقْتُمُ ٱلنِّسَآءَ مَا لَمْ تَمَسُّوهُنَّ أَوْ تَفْرِضُوا۟ لَهُنَّ فَرِيضَةً ۚ وَمَتِّعُوهُنَّ عَلَى ٱلْمُوسِعِ قَدَرُهُۥ وَعَلَى ٱلْمُقْتِرِ قَدَرُهُۥ مَتَـٰعًۢا بِٱلْمَعْرُوفِ ۖ حَقًّا عَلَى ٱلْمُحْسِنِينَ",
+    "arabic2": "لا جناح عليكم ان طلقتم النساء ما لم تمسوهن او تفرضوا لهن فريضة ومتعوهن على الموسع قدره وعلى المقتر قدره متاعا بالمعروف حقا على المحسنين",
+    "bengali": "তোমাদের কোন অপরাধ নেই যদি তোমরা স্ত্রীদেরকে তালাক দাও এমন অবস্থায় যে, তোমরা তাদেরকে স্পর্শ করনি কিংবা তাদের জন্য কোন মোহর নির্ধারণ করনি। আর উত্তমভাবে তাদেরকে ভোগ-উপকরণ দিয়ে দাও, ধনীর উপর তার সাধ্যানুসারে এবং সংকটাপন্নের উপর তার সাধ্যানুসারে। সুকর্মশীলদের উপর এটি আবশ্যক।",
+    "urdu": "اور اگر تم عورتوں کو ان کے پاس جانے یا ان کا مہر مقرر کرنے سے پہلے طلاق دے دو تو تم پر کچھ گناہ نہیں۔ ہاں ان کو دستور کے مطابق کچھ خرچ ضرور دو (یعنی) مقدور والا اپنے مقدور کے مطابق دے اور تنگدست اپنی حیثیت کے مطابق۔ نیک لوگوں پر یہ ایک طرح کا حق ہے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Nooh",
+    "surahNameArabic": "نوح",
+    "surahNameArabicLong": "سورة نوح",
+    "surahNameTranslation": "Noah",
+    "revelationPlace": "Mecca",
+    "totalAyah": 28,
+    "surahNo": 71,
+    "ayahNo": 18,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/71_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/071018.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/71_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/071018.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/71_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/071018.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/71_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/071018.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/71_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/071018.mp3"
+        }
+    },
+    "english": "Then He will return you to it, and then simply bring you forth ˹again˺.",
+    "arabic1": "ثُمَّ يُعِيدُكُمْ فِيهَا وَيُخْرِجُكُمْ إِخْرَاجًا",
+    "arabic2": "ثم يعيدكم فيها ويخرجكم اخراجا",
+    "bengali": "‘তারপর তিনি তোমাদেরকে তাতে ফিরিয়ে নেবেন এবং নিশ্চিতভাবে তোমাদেরকে পুনরুত্থিত করবেন’।",
+    "urdu": "پھر اسی میں تمہیں لوٹا دے گا اور (اسی سے) تم کو نکال کھڑا کرے گا"
+}

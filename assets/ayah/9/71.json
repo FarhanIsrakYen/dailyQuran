@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 71,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/9_71.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/009071.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/9_71.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/009071.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/9_71.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/009071.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/9_71.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/009071.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/9_71.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/009071.mp3"
+        }
+    },
+    "english": "The believers, both men and women, are guardians of one another. They encourage good and forbid evil, establish prayer and pay alms-tax, and obey Allah and His Messenger. It is they who will be shown Allah’s mercy. Surely Allah is Almighty, All-Wise.",
+    "arabic1": "وَٱلْمُؤْمِنُونَ وَٱلْمُؤْمِنَـٰتُ بَعْضُهُمْ أَوْلِيَآءُ بَعْضٍ ۚ يَأْمُرُونَ بِٱلْمَعْرُوفِ وَيَنْهَوْنَ عَنِ ٱلْمُنكَرِ وَيُقِيمُونَ ٱلصَّلَوٰةَ وَيُؤْتُونَ ٱلزَّكَوٰةَ وَيُطِيعُونَ ٱللَّهَ وَرَسُولَهُۥٓ ۚ أُو۟لَـٰٓئِكَ سَيَرْحَمُهُمُ ٱللَّهُ ۗ إِنَّ ٱللَّهَ عَزِيزٌ حَكِيمٌ",
+    "arabic2": "والمؤمنون والمؤمنات بعضهم اولياء بعض يامرون بالمعروف وينهون عن المنكر ويقيمون الصلاة ويؤتون الزكاة ويطيعون الله ورسوله اولئك سيرحمهم الله ان الله عزيز حكيم",
+    "bengali": "আর মুমিন পুরুষ ও মুমিন নারীরা একে অপরের বন্ধু, তারা ভাল কাজের আদেশ দেয় আর অন্যায় কাজ থেকে নিষেধ করে, আর তারা সালাত কায়িম করে, যাকাত প্রদান করে এবং আল্লাহ ও তাঁর রাসূলের আনুগত্য করে। এদেরকে আল্লাহ শীঘ্রই দয়া করবেন, নিশ্চয় আল্লাহ পরাক্রমশালী, প্রজ্ঞাময়।",
+    "urdu": "اور مومن مرد اور مومن عورتیں ایک دوسرے کے دوست ہیں کہ اچھے کام کرنے کو کہتے ہیں اور بری باتوں سے منع کرتے اور نماز پڑھتے اور زکوٰة دیتے اور خدا اور اس کے رسول کی اطاعت کرتے ہیں۔ یہی لوگ ہیں جن پر خدا رحم کرے گا۔ بےشک خدا غالب حکمت والا ہے"
+}

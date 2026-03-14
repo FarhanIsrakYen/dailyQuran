@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Anfaal",
+    "surahNameArabic": "الأنفال",
+    "surahNameArabicLong": "سورة الأنفال",
+    "surahNameTranslation": "The Spoils of War",
+    "revelationPlace": "Madina",
+    "totalAyah": 75,
+    "surahNo": 8,
+    "ayahNo": 70,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/8_70.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/008070.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/8_70.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/008070.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/8_70.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/008070.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/8_70.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/008070.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/8_70.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/008070.mp3"
+        }
+    },
+    "english": "O Prophet! Tell the captives in your custody, “If Allah finds goodness in your hearts, He will give you better than what has been taken from you, and forgive you. For Allah is All-Forgiving, Most Merciful.”",
+    "arabic1": "يَـٰٓأَيُّهَا ٱلنَّبِىُّ قُل لِّمَن فِىٓ أَيْدِيكُم مِّنَ ٱلْأَسْرَىٰٓ إِن يَعْلَمِ ٱللَّهُ فِى قُلُوبِكُمْ خَيْرًا يُؤْتِكُمْ خَيْرًا مِّمَّآ أُخِذَ مِنكُمْ وَيَغْفِرْ لَكُمْ ۗ وَٱللَّهُ غَفُورٌ رَّحِيمٌ",
+    "arabic2": "يا ايها النبي قل لمن في ايديكم من الاسرى ان يعلم الله في قلوبكم خيرا يؤتكم خيرا مما اخذ منكم ويغفر لكم والله غفور رحيم",
+    "bengali": "হে নবী, তোমাদের হাতে যে সব যুদ্ধবন্দি আছে, তাদেরকে বল, ‘যদি আল্লাহ তোমাদের অন্তরসমূহে কোন কল্যাণ আছে বলে জানেন, তাহলে তোমাদের থেকে যা নেয়া হয়েছে, তার চেয়ে উত্তম কিছু দেবেন এবং তোমাদেরকে ক্ষমা করবেন, আর আল্লাহ্ ক্ষমাশীল, পরম দয়ালু’।",
+    "urdu": "اے پیغمبر جو قیدی تمہارے ہاتھ میں (گرفتار) ہیں ان سے کہہ دو کہ اگر خدا تمہارے دلوں میں نیکی معلوم کرے گا تو جو (مال) تم سے چھن گیا ہے اس سے بہتر تمہیں عنایت فرمائے گا اور تمہارے گناہ بھی معاف کر دے گا اور خدا بخشنے والا مہربان ہے"
+}

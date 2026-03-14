@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 53,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/17_53.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/017053.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/17_53.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/017053.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/17_53.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/017053.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/17_53.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/017053.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/17_53.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/017053.mp3"
+        }
+    },
+    "english": "Tell My ˹believing˺ servants to say only what is best. Satan certainly seeks to sow discord among them. Satan is indeed a sworn enemy to humankind.",
+    "arabic1": "وَقُل لِّعِبَادِى يَقُولُوا۟ ٱلَّتِى هِىَ أَحْسَنُ ۚ إِنَّ ٱلشَّيْطَـٰنَ يَنزَغُ بَيْنَهُمْ ۚ إِنَّ ٱلشَّيْطَـٰنَ كَانَ لِلْإِنسَـٰنِ عَدُوًّا مُّبِينًا",
+    "arabic2": "وقل لعبادي يقولوا التي هي احسن ان الشيطان ينزغ بينهم ان الشيطان كان للانسان عدوا مبينا",
+    "bengali": "আর আমার বান্দাদেরকে বল, তারা যেন এমন কথা বলে, যা অতি সুন্দর। নিশ্চয় শয়তান তাদের মধ্যে বৈরিতা সৃষ্টি করে; নিশ্চয় শয়তান মানুষের স্পষ্ট শত্রু।",
+    "urdu": "اور میرے بندوں سے کہہ دو کہ (لوگوں سے) ایسی باتیں کہا کریں جو بہت پسندیدہ ہوں۔ کیونکہ شیطان (بری باتوں سے) ان میں فساد ڈلوا دیتا ہے۔ کچھ شک نہیں کہ شیطان انسان کا کھلا دشمن ہے"
+}

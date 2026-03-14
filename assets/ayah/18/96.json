@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Kahf",
+    "surahNameArabic": "الكهف",
+    "surahNameArabicLong": "سورة الكهف",
+    "surahNameTranslation": "The Cave",
+    "revelationPlace": "Mecca",
+    "totalAyah": 110,
+    "surahNo": 18,
+    "ayahNo": 96,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/18_96.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/018096.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/18_96.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/018096.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/18_96.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/018096.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/18_96.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/018096.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/18_96.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/018096.mp3"
+        }
+    },
+    "english": "Bring me blocks of iron!” Then, when he had filled up ˹the gap˺ between the two mountains, he ordered, “Blow!” When the iron became red hot, he said, “Bring me molten copper to pour over it.”",
+    "arabic1": "ءَاتُونِى زُبَرَ ٱلْحَدِيدِ ۖ حَتَّىٰٓ إِذَا سَاوَىٰ بَيْنَ ٱلصَّدَفَيْنِ قَالَ ٱنفُخُوا۟ ۖ حَتَّىٰٓ إِذَا جَعَلَهُۥ نَارًا قَالَ ءَاتُونِىٓ أُفْرِغْ عَلَيْهِ قِطْرًا",
+    "arabic2": "اتوني زبر الحديد حتى اذا ساوى بين الصدفين قال انفخوا حتى اذا جعله نارا قال اتوني افرغ عليه قطرا",
+    "bengali": "‘তোমরা আমাকে লোহার পাত এনে দাও’। অবশেষে যখন সে দু’পাহাড়ের মধ্যবর্তী জায়গা সমান করে দিল, তখন সে বলল, ‘তোমরা ফুঁক দিতে থাক’। অতঃপর যখন সে তা আগুনে পরিণত করল, তখন বলল, ‘তোমরা আমাকে কিছু তামা দাও, আমি তা এর উপর ঢেলে দেই’।",
+    "urdu": "تو تم لوہے کے (بڑے بڑے) تختے لاؤ (چنانچہ کام جاری کردیا گیا) یہاں تک کہ جب اس نے دونوں پہاڑوں کے درمیان (کا حصہ) برابر کر دیا۔ اور کہا کہ (اب اسے) دھونکو۔ یہاں تک کہ جب اس کو (دھونک دھونک) کر آگ کر دیا تو کہا کہ (اب) میرے پاس تانبہ لاؤ اس پر پگھلا کر ڈال دوں"
+}

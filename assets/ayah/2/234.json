@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 234,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_234.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002234.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_234.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002234.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_234.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002234.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_234.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002234.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_234.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002234.mp3"
+        }
+    },
+    "english": "As for those of you who die and leave widows behind, let them observe a waiting period of four months and ten days. When they have reached the end of this period, then you are not accountable for what they decide for themselves in a reasonable manner. And Allah is All-Aware of what you do.",
+    "arabic1": "وَٱلَّذِينَ يُتَوَفَّوْنَ مِنكُمْ وَيَذَرُونَ أَزْوَٰجًا يَتَرَبَّصْنَ بِأَنفُسِهِنَّ أَرْبَعَةَ أَشْهُرٍ وَعَشْرًا ۖ فَإِذَا بَلَغْنَ أَجَلَهُنَّ فَلَا جُنَاحَ عَلَيْكُمْ فِيمَا فَعَلْنَ فِىٓ أَنفُسِهِنَّ بِٱلْمَعْرُوفِ ۗ وَٱللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌ",
+    "arabic2": "والذين يتوفون منكم ويذرون ازواجا يتربصن بانفسهن اربعة اشهر وعشرا فاذا بلغن اجلهن فلا جناح عليكم فيما فعلن في انفسهن بالمعروف والله بما تعملون خبير",
+    "bengali": "আর তোমাদের মধ্য থেকে যারা মারা যাবে এবং স্ত্রীদেরকে রেখে যাবে, তাদের স্ত্রীগণ চার মাস দশ দিন অপেক্ষায় থাকবে। অতঃপর যখন তারা ইদ্দতকাল পূর্ণ করবে, তখন তারা নিজদের ব্যাপারে বিধি মোতাবেক যা করবে, সে ব্যাপারে তোমাদের কোন পাপ নেই। আর তোমরা যা কর, সে ব্যাপারে আল্লাহ সম্যক অবগত।",
+    "urdu": "اور جو لوگ تم میں سے مرجائیں اور عورتیں چھوڑ جائیں تو عورتیں چار مہینے دس دن اپنے آپ کو روکے رہیں۔ اور جب (یہ) عدت پوری کرچکیں اور اپنے حق میں پسندیدہ کام (یعنی نکاح) کرلیں تو ان پر کچھ گناہ نہیں۔ اور خدا تمہارے سب کاموں سے واقف ہے"
+}

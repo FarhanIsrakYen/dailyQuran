@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Kahf",
+    "surahNameArabic": "الكهف",
+    "surahNameArabicLong": "سورة الكهف",
+    "surahNameTranslation": "The Cave",
+    "revelationPlace": "Mecca",
+    "totalAyah": 110,
+    "surahNo": 18,
+    "ayahNo": 36,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/18_36.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/018036.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/18_36.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/018036.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/18_36.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/018036.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/18_36.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/018036.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/18_36.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/018036.mp3"
+        }
+    },
+    "english": "nor do I think the Hour will ˹ever˺ come. And if in fact I am returned to my Lord, I will definitely get a far better outcome than ˹all˺ this.”",
+    "arabic1": "وَمَآ أَظُنُّ ٱلسَّاعَةَ قَآئِمَةً وَلَئِن رُّدِدتُّ إِلَىٰ رَبِّى لَأَجِدَنَّ خَيْرًا مِّنْهَا مُنقَلَبًا",
+    "arabic2": "وما اظن الساعة قائمة ولئن رددت الى ربي لاجدن خيرا منها منقلبا",
+    "bengali": "‘আর আমি মনে করি না যে, কিয়ামত সংঘটিত হবে। আর আমাকে যদি ফিরিয়ে নেয়া হয় আমার রবের কাছে, তবে নিশ্চয় আমি এর চেয়ে উত্তম প্রত্যাবর্তনস্থল পাব’।",
+    "urdu": "اور نہ خیال کرتا ہوں کہ قیامت برپا ہو۔ اور اگر میں اپنے پروردگار کی طرف لوٹایا بھی جاؤں تو (وہاں) ضرور اس سے اچھی جگہ پاؤں گا"
+}

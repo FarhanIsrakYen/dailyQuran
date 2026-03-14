@@ -1,0 +1,42 @@
+{
+    "surahName": "Taa-Haa",
+    "surahNameArabic": "طه",
+    "surahNameArabicLong": "سورة طه",
+    "surahNameTranslation": "Taa-Haa",
+    "revelationPlace": "Mecca",
+    "totalAyah": 135,
+    "surahNo": 20,
+    "ayahNo": 116,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/20_116.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/020116.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/20_116.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/020116.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/20_116.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/020116.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/20_116.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/020116.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/20_116.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/020116.mp3"
+        }
+    },
+    "english": "And ˹remember˺ when We said to the angels, “Prostrate before Adam,” so they all did—but not Iblîs, who refused ˹arrogantly˺.",
+    "arabic1": "وَإِذْ قُلْنَا لِلْمَلَـٰٓئِكَةِ ٱسْجُدُوا۟ لِـَٔادَمَ فَسَجَدُوٓا۟ إِلَّآ إِبْلِيسَ أَبَىٰ",
+    "arabic2": "واذ قلنا للملائكة اسجدوا لادم فسجدوا الا ابليس ابى",
+    "bengali": "আর স্মরণ কর, যখন আমি ফেরেশতাদেরকে বললাম, ‘তোমরা আদমকে সিজদা কর,’ তখন ইবলীস ছাড়া সকলেই সিজদা করল; সে অমান্য করল।",
+    "urdu": "اور جب ہم نے فرشتوں سے کہا کہ آدم کے آگے سجدہ کرو تو سب سجدے میں گر پڑے مگر ابلیس نے انکار کیا"
+}

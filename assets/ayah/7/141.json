@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 141,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/7_141.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/007141.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/7_141.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/007141.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/7_141.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/007141.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/7_141.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/007141.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/7_141.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/007141.mp3"
+        }
+    },
+    "english": "And ˹remember˺ when We rescued you from the people of Pharaoh, who afflicted you with dreadful torment—killing your sons and keeping your women. That was a severe test from your Lord.",
+    "arabic1": "وَإِذْ أَنجَيْنَـٰكُم مِّنْ ءَالِ فِرْعَوْنَ يَسُومُونَكُمْ سُوٓءَ ٱلْعَذَابِ ۖ يُقَتِّلُونَ أَبْنَآءَكُمْ وَيَسْتَحْيُونَ نِسَآءَكُمْ ۚ وَفِى ذَٰلِكُم بَلَآءٌ مِّن رَّبِّكُمْ عَظِيمٌ",
+    "arabic2": "واذ انجيناكم من ال فرعون يسومونكم سوء العذاب يقتلون ابناءكم ويستحيون نساءكم وفي ذلكم بلاء من ربكم عظيم",
+    "bengali": "আর স্মরণ কর, যখন আমি ফির‘আউনের লোকদের থেকে তোমাদেরকে রক্ষা করলাম, যারা তোমাদের নিকৃষ্ট শাস্তি দিত। যারা তোমাদের ছেলেদের হত্যা করত এবং নারীদের জীবিত রাখত। এতে ছিল তোমাদের রবের পক্ষ থেকে এক মহাপরীক্ষা।",
+    "urdu": "(اور ہمارے ان احسانوں کو یاد کرو) جب ہم نے تم کو فرعونیوں (کے ہاتھ) سے نجات بخشی وہ لوگ تم کو بڑا دکھ دیتے تھے۔ تمہارے بیٹوں کو قتل کر ڈالتے تھے اور بیٹیوں کو زندہ رہنے دیتے تھے۔ اور اس میں تمہارے پروردگار کی طرف سے سخت آزمائش تھی"
+}

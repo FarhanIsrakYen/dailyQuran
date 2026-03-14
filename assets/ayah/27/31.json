@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Naml",
+    "surahNameArabic": "النمل",
+    "surahNameArabicLong": "سورة النمل",
+    "surahNameTranslation": "The Ant",
+    "revelationPlace": "Mecca",
+    "totalAyah": 93,
+    "surahNo": 27,
+    "ayahNo": 31,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/27_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/027031.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/27_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/027031.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/27_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/027031.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/27_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/027031.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/27_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/027031.mp3"
+        }
+    },
+    "english": "Do not be arrogant with me, but come to me, fully submitting ˹to Allah˺.’”",
+    "arabic1": "أَلَّا تَعْلُوا۟ عَلَىَّ وَأْتُونِى مُسْلِمِينَ",
+    "arabic2": "الا تعلوا علي واتوني مسلمين",
+    "bengali": "'যাতে তোমরা আমার প্রতি উদ্ধত না হও এবং অনুগত হয়ে আমার কাছে আস'।",
+    "urdu": "(بعد اس کے یہ) کہ مجھے سرکشی نہ کرو اور مطیع ومنقاد ہو کر میرے پاس چلے آؤ"
+}

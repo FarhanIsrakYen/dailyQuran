@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Kahf",
+    "surahNameArabic": "الكهف",
+    "surahNameArabicLong": "سورة الكهف",
+    "surahNameTranslation": "The Cave",
+    "revelationPlace": "Mecca",
+    "totalAyah": 110,
+    "surahNo": 18,
+    "ayahNo": 18,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/18_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/018018.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/18_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/018018.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/18_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/018018.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/18_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/018018.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/18_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/018018.mp3"
+        }
+    },
+    "english": "And you would have thought they were awake, though they were asleep. We turned them over, to the right and left, while their dog stretched his forelegs at the entrance. Had you looked at them, you would have certainly fled away from them, filled with horror.",
+    "arabic1": "وَتَحْسَبُهُمْ أَيْقَاظًا وَهُمْ رُقُودٌ ۚ وَنُقَلِّبُهُمْ ذَاتَ ٱلْيَمِينِ وَذَاتَ ٱلشِّمَالِ ۖ وَكَلْبُهُم بَـٰسِطٌ ذِرَاعَيْهِ بِٱلْوَصِيدِ ۚ لَوِ ٱطَّلَعْتَ عَلَيْهِمْ لَوَلَّيْتَ مِنْهُمْ فِرَارًا وَلَمُلِئْتَ مِنْهُمْ رُعْبًا",
+    "arabic2": "وتحسبهم ايقاظا وهم رقود ونقلبهم ذات اليمين وذات الشمال وكلبهم باسط ذراعيه بالوصيد لو اطلعت عليهم لوليت منهم فرارا ولملئت منهم رعبا",
+    "bengali": "তুমি তাদেরকে মনে করতে জাগ্রত, অথচ তারা ছিল ঘুমন্ত, আমি তাদেরকে পাশ পরিবর্তন করাচ্ছি ডানে ও বামে এবং তাদের কুকুরটি আঙিনায় তার সামনের দু’পা বাড়িয়ে আছে। যদি তুমি তাদেরকে উঁকি মেরে দেখতে, তবে নিশ্চয় তাদের থেকে পেছনে ফিরে পালিয়ে যেতে এবং অবশ্যই তাদের কারণে ভীষণ ভীত হতে।",
+    "urdu": "اور تم ان کو خیال کرو کہ جاگ رہے ہیں حالانکہ وہ سوتے ہیں۔ اور ہم ان کو دائیں اور بائیں کروٹ بدلاتے تھے۔ اور ان کا کتا چوکھٹ پر دونوں ہاتھ پھیلائے ہوئے تھا۔ اگر تم ان کو جھانک کر دیکھتے تو پیٹھ پھیر کر بھاگ جاتے اور ان سے دہشت میں آجاتے"
+}

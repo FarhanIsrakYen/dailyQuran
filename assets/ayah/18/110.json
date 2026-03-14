@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Kahf",
+    "surahNameArabic": "الكهف",
+    "surahNameArabicLong": "سورة الكهف",
+    "surahNameTranslation": "The Cave",
+    "revelationPlace": "Mecca",
+    "totalAyah": 110,
+    "surahNo": 18,
+    "ayahNo": 110,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/18_110.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/018110.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/18_110.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/018110.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/18_110.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/018110.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/18_110.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/018110.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/18_110.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/018110.mp3"
+        }
+    },
+    "english": "Say, ˹O Prophet,˺ “I am only a man like you, ˹but˺ it has been revealed to me that your God is only One God. So whoever hopes for the meeting with their Lord, let them do good deeds and associate none in the worship of their Lord.”",
+    "arabic1": "قُلْ إِنَّمَآ أَنَا۠ بَشَرٌ مِّثْلُكُمْ يُوحَىٰٓ إِلَىَّ أَنَّمَآ إِلَـٰهُكُمْ إِلَـٰهٌ وَٰحِدٌ ۖ فَمَن كَانَ يَرْجُوا۟ لِقَآءَ رَبِّهِۦ فَلْيَعْمَلْ عَمَلًا صَـٰلِحًا وَلَا يُشْرِكْ بِعِبَادَةِ رَبِّهِۦٓ أَحَدًۢا",
+    "arabic2": "قل انما انا بشر مثلكم يوحى الي انما الهكم اله واحد فمن كان يرجو لقاء ربه فليعمل عملا صالحا ولا يشرك بعبادة ربه احدا",
+    "bengali": "বল, ‘আমি তোমাদের মতই একজন মানুষ। আমার নিকট ওহী প্রেরণ করা হয় যে, তোমাদের ইলাহই এক ইলাহ। সুতরাং যে তার রবের সাক্ষাৎ কামনা করে, সে যেন সৎকর্ম করে এবং তার রবের ইবাদাতে কাউকে শরীক না করে’।",
+    "urdu": "کہہ دو کہ میں تمہاری کا ایک بشر ہوں۔ (البتہ) میری طرف وحی آتی ہے کہ تمہارا معبود (وہی) ایک معبود ہے۔ تو جو شخص اپنے پروردگار سے ملنے کی امید رکھے چاہیئے کہ عمل نیک کرے اور اپنے پروردگار کی عبادت میں کسی کو شریک نہ بنائے"
+}

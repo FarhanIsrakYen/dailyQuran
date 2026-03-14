@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Tahrim",
+    "surahNameArabic": "التحريم",
+    "surahNameArabicLong": "سورة التحريم",
+    "surahNameTranslation": "The Prohibition",
+    "revelationPlace": "Madina",
+    "totalAyah": 12,
+    "surahNo": 66,
+    "ayahNo": 11,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/66_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/066011.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/66_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/066011.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/66_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/066011.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/66_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/066011.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/66_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/066011.mp3"
+        }
+    },
+    "english": "And Allah sets forth an example for the believers: the wife of Pharaoh, who prayed, “My Lord! Build me a house in Paradise near You, deliver me from Pharaoh and his ˹evil˺ doing, and save me from the wrongdoing people.”",
+    "arabic1": "وَضَرَبَ ٱللَّهُ مَثَلًا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+    "arabic2": "وضرب الله مثلا للذين امنوا امرات فرعون اذ قالت رب ابن لي عندك بيتا في الجنة ونجني من فرعون وعمله ونجني من القوم الظالمين",
+    "bengali": "আর যারা ঈমান আনে তাদের জন্য আল্লাহ ফির‘আউনের স্ত্রীর উদাহরণ পেশ করেন, যখন সে বলেছিল, ‘হে আমার রব, আপনার কাছে আমার জন্য জান্নাতে একটি বাড়ি নির্মাণ করুন এবং আমাকে ফির‘আউন ও তার কর্ম হতে নাজাত দিন, আর আমাকে নাজাত দিন যালিম সম্প্রদায় হতে।",
+    "urdu": "اور مومنوں کے لئے (ایک) مثال (تو) فرعون کی بیوی کی بیان فرمائی کہ اس نے خدا سے التجا کی کہ اے میرے پروردگار میرے لئے بہشت میں اپنے پاس ایک گھر بنا اور مجھے فرعون اور اس کے اعمال (زشت مآل) سے نجات بخش اور ظالم لوگوں کے ہاتھ سے مجھ کو مخلصی عطا فرما"
+}

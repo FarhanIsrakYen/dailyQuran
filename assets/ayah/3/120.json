@@ -1,0 +1,42 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 120,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/3_120.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/003120.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/3_120.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/003120.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/3_120.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/003120.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/3_120.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/003120.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/3_120.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/003120.mp3"
+        }
+    },
+    "english": "When you ˹believers˺ are touched with good, they grieve; but when you are afflicted with evil, they rejoice. ˹Yet,˺ if you are patient and mindful ˹of Allah˺, their schemes will not harm you in the least. Surely Allah is Fully Aware of what they do.",
+    "arabic1": "إِن تَمْسَسْكُمْ حَسَنَةٌ تَسُؤْهُمْ وَإِن تُصِبْكُمْ سَيِّئَةٌ يَفْرَحُوا۟ بِهَا ۖ وَإِن تَصْبِرُوا۟ وَتَتَّقُوا۟ لَا يَضُرُّكُمْ كَيْدُهُمْ شَيْـًٔا ۗ إِنَّ ٱللَّهَ بِمَا يَعْمَلُونَ مُحِيطٌ",
+    "arabic2": "ان تمسسكم حسنة تسؤهم وان تصبكم سيئة يفرحوا بها وان تصبروا وتتقوا لا يضركم كيدهم شيئا ان الله بما يعملون محيط",
+    "bengali": "যদি তোমাদেরকে কোন কল্যাণ স্পর্শ করে, তখন তাদের কষ্ট হয়। আর যদি তোমাদেরকে মন্দ স্পর্শ করে, তখন তারা তাতে খুশি হয়। আর যদি তোমরা ধৈর্য ধর এবং তাকওয়া অবলম্বন কর, তাহলে তাদের ষড়যন্ত্র তোমাদের কিছু ক্ষতি করবে না। নিশ্চয় আল্লাহ তারা যা করে, তা পরিবেষ্টনকারী।",
+    "urdu": "اگر تمہیں آسودگی حاصل ہو تو ان کو بری لگتی ہے اور اگر رنج پہنچے تو خوش ہوتے ہیں اور اگر تم تکلیفوں کی برداشت اور (ان سے) کنارہ کشی کرتے رہو گے تو ان کا فریب تمھیں کچھ بھی نقصان نہ پہنچا سکے گا یہ جو کچھ کرتے ہیں خدا اس پر احاطہ کیے ہوئے ہے"
+}

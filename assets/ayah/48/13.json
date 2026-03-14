@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Fath",
+    "surahNameArabic": "الفتح",
+    "surahNameArabicLong": "سورة الفتح",
+    "surahNameTranslation": "The Victory",
+    "revelationPlace": "Madina",
+    "totalAyah": 29,
+    "surahNo": 48,
+    "ayahNo": 13,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/48_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/048013.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/48_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/048013.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/48_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/048013.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/48_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/048013.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/48_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/048013.mp3"
+        }
+    },
+    "english": "And whoever does not believe in Allah and His Messenger, then We surely have prepared for the disbelievers a blazing Fire.",
+    "arabic1": "وَمَن لَّمْ يُؤْمِنۢ بِٱللَّهِ وَرَسُولِهِۦ فَإِنَّآ أَعْتَدْنَا لِلْكَـٰفِرِينَ سَعِيرًا",
+    "arabic2": "ومن لم يؤمن بالله ورسوله فانا اعتدنا للكافرين سعيرا",
+    "bengali": "আর যে কেউ আল্লাহ ও তাঁর রাসূলের উপর ঈমান আনে না তবে নিশ্চয় আমি কাফিরদের জন্য প্রস্তুত করেছি জ্বলন্ত আগুন।",
+    "urdu": "اور جو شخص خدا پر اور اس کے پیغمبر پر ایمان نہ لائے تو ہم نے (ایسے) کافروں کے لئے آگ تیار کر رکھی ہے"
+}

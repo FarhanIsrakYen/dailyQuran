@@ -1,0 +1,42 @@
+{
+    "surahName": "Az-Zukhruf",
+    "surahNameArabic": "الزخرف",
+    "surahNameArabicLong": "سورة الزخرف",
+    "surahNameTranslation": "Ornaments of gold",
+    "revelationPlace": "Mecca",
+    "totalAyah": 89,
+    "surahNo": 43,
+    "ayahNo": 25,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/43_25.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/043025.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/43_25.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/043025.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/43_25.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/043025.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/43_25.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/043025.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/43_25.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/043025.mp3"
+        }
+    },
+    "english": "So We inflicted punishment upon them. See then what was the fate of the deniers!",
+    "arabic1": "فَٱنتَقَمْنَا مِنْهُمْ ۖ فَٱنظُرْ كَيْفَ كَانَ عَـٰقِبَةُ ٱلْمُكَذِّبِينَ",
+    "arabic2": "فانتقمنا منهم فانظر كيف كان عاقبة المكذبين",
+    "bengali": "ফলে আমি তাদের থেকে প্রতিশোধ নিলাম। অতএব দেখ, মিথ্যারোপকারীদের পরিণতি কেমন হয়েছিল?",
+    "urdu": "تو ہم نے ان سے انتقام لیا سو دیکھ لو کہ جھٹلانے والوں کا انجام کیسا ہوا"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Anbiyaa",
+    "surahNameArabic": "الأنبياء",
+    "surahNameArabicLong": "سورة الأنبياء",
+    "surahNameTranslation": "The Prophets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 112,
+    "surahNo": 21,
+    "ayahNo": 65,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/21_65.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/021065.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/21_65.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/021065.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/21_65.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/021065.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/21_65.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/021065.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/21_65.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/021065.mp3"
+        }
+    },
+    "english": "Then they ˹quickly˺ regressed to their ˹original˺ mind-set, ˹arguing,˺ “You already know that those ˹idols˺ cannot talk.”",
+    "arabic1": "ثُمَّ نُكِسُوا۟ عَلَىٰ رُءُوسِهِمْ لَقَدْ عَلِمْتَ مَا هَـٰٓؤُلَآءِ يَنطِقُونَ",
+    "arabic2": "ثم نكسوا على رءوسهم لقد علمت ما هؤلاء ينطقون",
+    "bengali": "অতঃপর তাদের মাথা অবনত হয়ে গেল এবং বলল, ‘তুমি তো জানই যে, এরা কথা বলতে পারে না’।",
+    "urdu": "پھر (شرمندہ ہو کر) سر نیچا کرلیا (اس پر بھی ابراہیم سے کہنے لگے کہ) تم جانتے ہو یہ بولتے نہیں"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Kahf",
+    "surahNameArabic": "الكهف",
+    "surahNameArabicLong": "سورة الكهف",
+    "surahNameTranslation": "The Cave",
+    "revelationPlace": "Mecca",
+    "totalAyah": 110,
+    "surahNo": 18,
+    "ayahNo": 5,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/18_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/018005.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/18_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/018005.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/18_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/018005.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/18_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/018005.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/18_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/018005.mp3"
+        }
+    },
+    "english": "They have no knowledge of this, nor did their forefathers. What a terrible claim that comes out of their mouths! They say nothing but lies.",
+    "arabic1": "مَّا لَهُم بِهِۦ مِنْ عِلْمٍ وَلَا لِـَٔابَآئِهِمْ ۚ كَبُرَتْ كَلِمَةً تَخْرُجُ مِنْ أَفْوَٰهِهِمْ ۚ إِن يَقُولُونَ إِلَّا كَذِبًا",
+    "arabic2": "ما لهم به من علم ولا لابائهم كبرت كلمة تخرج من افواههم ان يقولون الا كذبا",
+    "bengali": "এ ব্যাপারে তাদের কোন জ্ঞান নেই এবং তাদের পিতৃপুরুষদেরও না। বড় মারাত্মক কথা, যা তাদের মুখ থেকে বের হয়। মিথ্যা ছাড়া তারা কিছুই বলে না!",
+    "urdu": "ان کو اس بات کا کچھ بھی علم نہیں اور نہ ان کے باپ دادا ہی کو تھا۔ (یہ) بڑی سخت بات ہے جو ان کے منہ سے نکلتی ہے (اور کچھ شک نہیں) کہ یہ جو کہتے ہیں محض جھوٹ ہے"
+}

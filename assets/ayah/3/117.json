@@ -1,0 +1,42 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 117,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/3_117.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/003117.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/3_117.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/003117.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/3_117.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/003117.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/3_117.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/003117.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/3_117.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/003117.mp3"
+        }
+    },
+    "english": "The good they do in this worldly life is like the harvest of an evil people struck by a bitter wind, destroying it ˹completely˺. Allah never wronged them, but they wronged themselves.",
+    "arabic1": "مَثَلُ مَا يُنفِقُونَ فِى هَـٰذِهِ ٱلْحَيَوٰةِ ٱلدُّنْيَا كَمَثَلِ رِيحٍ فِيهَا صِرٌّ أَصَابَتْ حَرْثَ قَوْمٍ ظَلَمُوٓا۟ أَنفُسَهُمْ فَأَهْلَكَتْهُ ۚ وَمَا ظَلَمَهُمُ ٱللَّهُ وَلَـٰكِنْ أَنفُسَهُمْ يَظْلِمُونَ",
+    "arabic2": "مثل ما ينفقون في هذه الحياة الدنيا كمثل ريح فيها صر اصابت حرث قوم ظلموا انفسهم فاهلكته وما ظلمهم الله ولكن انفسهم يظلمون",
+    "bengali": "তারা দুনিয়ার জীবনে যা ব্যয় করে, তার উপমা সেই বাতাসের ন্যায়, যাতে রয়েছে প্রচন্ড ঠান্ডা, যা পৌঁছে এমন কওমের শস্যক্ষেতে, যারা নিজদের উপর যুলম করেছিল। অতঃপর তা শস্যক্ষেতকে ধ্বংস করে দেয়। আর আল্লাহ তাদের উপর যুলম করেননি, বরং তারা নিজেরাই নিজদের উপর যুলম করে।",
+    "urdu": "یہ جو مال دنیا کی زندگی میں خرچ کرتے ہیں اس کی مثال ہوا کی سی ہے جس میں سخت سردی ہو اور وہ ایسے لوگوں کی کھیتی پر جو اپنے آپ پر ظلم کرتے تھے چلے اور اسے تباہ کر دے اور خدا نے ان پر کچھ ظلم نہیں کیا بلکہ یہ خود اپنے اوپر ظلم کر رہے ہیں"
+}

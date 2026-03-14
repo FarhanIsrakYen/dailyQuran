@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nahl",
+    "surahNameArabic": "النحل",
+    "surahNameArabicLong": "سورة النحل",
+    "surahNameTranslation": "The Bee",
+    "revelationPlace": "Mecca",
+    "totalAyah": 128,
+    "surahNo": 16,
+    "ayahNo": 76,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/16_76.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/016076.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/16_76.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/016076.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/16_76.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/016076.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/16_76.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/016076.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/16_76.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/016076.mp3"
+        }
+    },
+    "english": "And Allah sets forth a parable of two men: one of them is dumb, incapable of anything. He is a burden on his master. Wherever he is sent, he brings no good. Can such a person be equal to the one who commands justice and is on the Straight Path?",
+    "arabic1": "وَضَرَبَ ٱللَّهُ مَثَلًا رَّجُلَيْنِ أَحَدُهُمَآ أَبْكَمُ لَا يَقْدِرُ عَلَىٰ شَىْءٍ وَهُوَ كَلٌّ عَلَىٰ مَوْلَىٰهُ أَيْنَمَا يُوَجِّههُّ لَا يَأْتِ بِخَيْرٍ ۖ هَلْ يَسْتَوِى هُوَ وَمَن يَأْمُرُ بِٱلْعَدْلِ ۙ وَهُوَ عَلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ",
+    "arabic2": "وضرب الله مثلا رجلين احدهما ابكم لا يقدر على شيء وهو كل على مولاه اينما يوجهه لا يات بخير هل يستوي هو ومن يامر بالعدل وهو على صراط مستقيم",
+    "bengali": "আর আল্লাহ উপমা পেশ করেছেন, দু’জন ব্যক্তি, তাদের একজন বোবা, যে কোন কিছুর উপর ক্ষমতা রাখে না এবং সে তার অভিভাবকের উপর বোঝা। তাকে যেখানেই পাঠানো হয়, কোন কল্যাণ বয়ে আনতে পারে না। সে আর ঐ ব্যক্তি কি সমান, যে ন্যায়ের আদেশ করে এবং রয়েছে সরল পথের উপর?",
+    "urdu": "اور خدا ایک اور مثال بیان فرماتا ہے کہ دو آدمی ہیں ایک اُن میں سے گونگا (اور دوسرے کی ملک) ہے (بےاختیار وناتوان) کہ کسی چیز پر قدرت نہیں رکھتا۔ اور اپنے مالک کو دوبھر ہو رہا ہے وہ جہاں اُسے بھیجتا ہے (خیر سے کبھی) بھلائی نہیں لاتا۔ کیا ایسا (گونگا بہرا) اور وہ شخص جو (سنتا بولتا اور) لوگوں کو انصاف کرنے کا حکم دیتا ہے اور خود سیدھے راستے پر چل رہا ہے دونوں برابر ہیں؟"
+}

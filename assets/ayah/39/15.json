@@ -1,0 +1,42 @@
+{
+    "surahName": "Az-Zumar",
+    "surahNameArabic": "الزمر",
+    "surahNameArabicLong": "سورة الزمر",
+    "surahNameTranslation": "The Groups",
+    "revelationPlace": "Mecca",
+    "totalAyah": 75,
+    "surahNo": 39,
+    "ayahNo": 15,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/39_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/039015.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/39_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/039015.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/39_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/039015.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/39_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/039015.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/39_15.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/039015.mp3"
+        }
+    },
+    "english": "Worship then whatever ˹gods˺ you want instead of Him.” Say, “The ˹true˺ losers are those who will lose themselves and their families on Judgment Day. That is indeed the clearest loss.”",
+    "arabic1": "فَٱعْبُدُوا۟ مَا شِئْتُم مِّن دُونِهِۦ ۗ قُلْ إِنَّ ٱلْخَـٰسِرِينَ ٱلَّذِينَ خَسِرُوٓا۟ أَنفُسَهُمْ وَأَهْلِيهِمْ يَوْمَ ٱلْقِيَـٰمَةِ ۗ أَلَا ذَٰلِكَ هُوَ ٱلْخُسْرَانُ ٱلْمُبِينُ",
+    "arabic2": "فاعبدوا ما شئتم من دونه قل ان الخاسرين الذين خسروا انفسهم واهليهم يوم القيامة الا ذلك هو الخسران المبين",
+    "bengali": "‘অতএব তাঁকে বাদ দিয়ে অন্য যা কিছুর ইচ্ছা তোমরা ‘ইবাদাত কর’। বল, ‘নিশ্চয় তারা ক্ষতিগ্রস্ত যারা কিয়ামত দিবসে নিজদেরকে ও তাদের পরিবারবর্গকে ক্ষতিগ্রস্ত পাবে। জেনে রেখ, এটাই স্পষ্ট ক্ষতি’।",
+    "urdu": "تو تم اس کے سوا جس کی چاہو پرستش کرو۔ کہہ دو کہ نقصان اٹھانے والے وہی لوگ ہیں جنہوں نے قیامت کے دن اپنے آپ کو اور اپنے گھر والوں کو نقصان میں ڈالا۔ دیکھو یہی صریح نقصان ہے"
+}

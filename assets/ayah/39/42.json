@@ -1,0 +1,42 @@
+{
+    "surahName": "Az-Zumar",
+    "surahNameArabic": "الزمر",
+    "surahNameArabicLong": "سورة الزمر",
+    "surahNameTranslation": "The Groups",
+    "revelationPlace": "Mecca",
+    "totalAyah": 75,
+    "surahNo": 39,
+    "ayahNo": 42,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/39_42.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/039042.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/39_42.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/039042.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/39_42.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/039042.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/39_42.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/039042.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/39_42.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/039042.mp3"
+        }
+    },
+    "english": "˹It is˺ Allah ˹Who˺ calls back the souls ˹of people˺ upon their death as well as ˹the souls˺ of the living during their sleep. Then He keeps those for whom He has ordained death, and releases the others until ˹their˺ appointed time. Surely in this are signs for people who reflect.",
+    "arabic1": "ٱللَّهُ يَتَوَفَّى ٱلْأَنفُسَ حِينَ مَوْتِهَا وَٱلَّتِى لَمْ تَمُتْ فِى مَنَامِهَا ۖ فَيُمْسِكُ ٱلَّتِى قَضَىٰ عَلَيْهَا ٱلْمَوْتَ وَيُرْسِلُ ٱلْأُخْرَىٰٓ إِلَىٰٓ أَجَلٍ مُّسَمًّى ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍ لِّقَوْمٍ يَتَفَكَّرُونَ",
+    "arabic2": "الله يتوفى الانفس حين موتها والتي لم تمت في منامها فيمسك التي قضى عليها الموت ويرسل الاخرى الى اجل مسمى ان في ذلك لايات لقوم يتفكرون",
+    "bengali": "আল্লাহ জীবসমূহের প্রাণ হরণ করেন তাদের মৃত্যুর সময় এবং যারা মরেনি তাদের নিদ্রার সময়। তারপর যার জন্য তিনি মৃত্যুর ফয়সালা করেন তার প্রাণ তিনি রেখে দেন এবং অন্যগুলো ফিরিয়ে দেন একটি নির্দিষ্ট সময় পর্যন্ত। নিশ্চয় এতে চিন্তাশীল কওমের জন্য অনেক নিদর্শন রয়েছে।",
+    "urdu": "خدا لوگوں کے مرنے کے وقت ان کی روحیں قبض کرلیتا ہے اور جو مرے نہیں (ان کی روحیں) سوتے میں (قبض کرلیتا ہے) پھر جن پر موت کا حکم کرچکتا ہے ان کو روک رکھتا ہے اور باقی روحوں کو ایک وقت مقرر تک کے لئے چھوڑ دیتا ہے۔ جو لوگ فکر کرتے ہیں ان کے لئے اس میں نشانیاں ہیں"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Maaida",
+    "surahNameArabic": "المائدة",
+    "surahNameArabicLong": "سورة المائدة",
+    "surahNameTranslation": "The Table",
+    "revelationPlace": "Madina",
+    "totalAyah": 120,
+    "surahNo": 5,
+    "ayahNo": 1,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/5_1.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/005001.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/5_1.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/005001.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/5_1.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/005001.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/5_1.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/005001.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/5_1.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/005001.mp3"
+        }
+    },
+    "english": "O believers! Honour your obligations. All grazing livestock has been made lawful to you—except what is hereby announced to you and hunting while on pilgrimage. Indeed, Allah commands what He wills.",
+    "arabic1": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ أَوْفُوا۟ بِٱلْعُقُودِ ۚ أُحِلَّتْ لَكُم بَهِيمَةُ ٱلْأَنْعَـٰمِ إِلَّا مَا يُتْلَىٰ عَلَيْكُمْ غَيْرَ مُحِلِّى ٱلصَّيْدِ وَأَنتُمْ حُرُمٌ ۗ إِنَّ ٱللَّهَ يَحْكُمُ مَا يُرِيدُ",
+    "arabic2": "يا ايها الذين امنوا اوفوا بالعقود احلت لكم بهيمة الانعام الا ما يتلى عليكم غير محلي الصيد وانتم حرم ان الله يحكم ما يريد",
+    "bengali": "হে মুমিনগণ, তোমরা অঙ্গীকারসমূহ পূর্ণ কর। তোমাদের জন্য গৃহপালিত চতুস্পদ জন্তু হালাল করা হয়েছে, তোমাদের নিকট যা বর্ণনা করা হচ্ছে তা ছাড়া। তবে ইহরাম অবস্থায় শিকারকে হালাল করবে না। নিশ্চয় আল্লাহ যা ইচ্ছা বিধান দেন।",
+    "urdu": "اے ایمان والو! اپنے اقراروں کو پورا کرو۔ تمہارے لیے چارپائے جانور (جو چرنے والے ہیں) حلال کر دیئے گئے ہیں۔ بجز ان کے جو تمہیں پڑھ کر سنائے جاتے ہیں مگر احرام (حج) میں شکار کو حلال نہ جاننا۔ خدا جیسا چاہتا ہے حکم دیتا ہے"
+}

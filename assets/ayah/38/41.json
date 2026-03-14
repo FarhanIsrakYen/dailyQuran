@@ -1,0 +1,42 @@
+{
+    "surahName": "Saad",
+    "surahNameArabic": "ص",
+    "surahNameArabicLong": "سورة ص",
+    "surahNameTranslation": "The letter Saad",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 38,
+    "ayahNo": 41,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/38_41.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/038041.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/38_41.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/038041.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/38_41.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/038041.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/38_41.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/038041.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/38_41.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/038041.mp3"
+        }
+    },
+    "english": "And remember Our servant Job, when he cried out to his Lord, “Satan has afflicted me with distress and suffering.”",
+    "arabic1": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍ وَعَذَابٍ",
+    "arabic2": "واذكر عبدنا ايوب اذ نادى ربه اني مسني الشيطان بنصب وعذاب",
+    "bengali": "আর স্মরণ কর আমার বান্দা আইউবকে, যখন সে তার রবকে ডেকে বলেছিল, ‘শয়তান তো আমাকে কষ্ট ও আযাবের ছোঁয়া দিয়েছে’।",
+    "urdu": "اور ہمارے بندے ایوب کو یاد کرو جب انہوں نے اپنے رب کو پکارا کہ (بار الہٰا) شیطان نے مجھ کو ایذا اور تکلیف دے رکھی ہے"
+}

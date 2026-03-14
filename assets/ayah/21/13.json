@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Anbiyaa",
+    "surahNameArabic": "الأنبياء",
+    "surahNameArabicLong": "سورة الأنبياء",
+    "surahNameTranslation": "The Prophets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 112,
+    "surahNo": 21,
+    "ayahNo": 13,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/21_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/021013.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/21_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/021013.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/21_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/021013.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/21_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/021013.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/21_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/021013.mp3"
+        }
+    },
+    "english": "˹They were told,˺ “Do not run away! Return to your luxuries and your homes, so you may be questioned ˹about your fate˺.”",
+    "arabic1": "لَا تَرْكُضُوا۟ وَٱرْجِعُوٓا۟ إِلَىٰ مَآ أُتْرِفْتُمْ فِيهِ وَمَسَـٰكِنِكُمْ لَعَلَّكُمْ تُسْـَٔلُونَ",
+    "arabic2": "لا تركضوا وارجعوا الى ما اترفتم فيه ومساكنكم لعلكم تسالون",
+    "bengali": "(তাদেরকে বলা হল) ‘পলায়ন করো না, বরং তোমাদের ভোগ-বিলাসিতায় এবং ঘরবাড়িতে ফিরে যাও, যেন তোমাদেরকে জিজ্ঞাসা করা হয়’।",
+    "urdu": "مت بھاگو اور جن (نعمتوں) میں تم عیش وآسائش کرتے تھے ان کی اور اپنے گھروں کی طرف لوٹ جاؤ۔ شاید تم سے (اس بارے میں) دریافت کیا جائے"
+}

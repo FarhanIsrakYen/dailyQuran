@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Furqaan",
+    "surahNameArabic": "الفرقان",
+    "surahNameArabicLong": "سورة الفرقان",
+    "surahNameTranslation": "The Criterion",
+    "revelationPlace": "Mecca",
+    "totalAyah": 77,
+    "surahNo": 25,
+    "ayahNo": 17,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/25_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/025017.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/25_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/025017.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/25_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/025017.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/25_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/025017.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/25_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/025017.mp3"
+        }
+    },
+    "english": "˹Watch for˺ the Day He will gather them along with what they used to worship besides Allah, and ask ˹the objects of worship˺, “Was it you who misled these servants of Mine, or did they stray from the Way ˹on their own˺?”",
+    "arabic1": "وَيَوْمَ يَحْشُرُهُمْ وَمَا يَعْبُدُونَ مِن دُونِ ٱللَّهِ فَيَقُولُ ءَأَنتُمْ أَضْلَلْتُمْ عِبَادِى هَـٰٓؤُلَآءِ أَمْ هُمْ ضَلُّوا۟ ٱلسَّبِيلَ",
+    "arabic2": "ويوم يحشرهم وما يعبدون من دون الله فيقول اانتم اضللتم عبادي هؤلاء ام هم ضلوا السبيل",
+    "bengali": "আর সেদিন তাদেরকে এবং আল্লাহ ছাড়া যা কিছুর উপাসনা তারা করত সবাইকে তিনি একত্র করবেন, তারপর বলবেন, ‘তোমরা কি আমার এই বান্দাদেরকে পথভ্রষ্ট করেছ’ না তারা নিজেরাই পথভ্রষ্ট হয়েছে?’",
+    "urdu": "اور جس دن (خدا) ان کو اور اُن کو جنہیں یہ خدا کے سوا پوجتے ہیں جمع کرے گا تو فرمائے گا کیا تم نے میرے ان بندوں کو گمراہ کیا تھا یا یہ خود گمراہ ہوگئے تھے"
+}

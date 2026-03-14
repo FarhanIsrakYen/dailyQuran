@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 70,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/9_70.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/009070.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/9_70.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/009070.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/9_70.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/009070.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/9_70.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/009070.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/9_70.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/009070.mp3"
+        }
+    },
+    "english": "Have they not received the stories of those ˹destroyed˺ before them: the people of Noah, ’Âd, and Thamûd, the people of Abraham, the residents of Midian, and the overturned cities ˹of Lot˺? Their messengers came to them with clear proofs. Allah would have never wronged them, but it was they who wronged themselves.",
+    "arabic1": "أَلَمْ يَأْتِهِمْ نَبَأُ ٱلَّذِينَ مِن قَبْلِهِمْ قَوْمِ نُوحٍ وَعَادٍ وَثَمُودَ وَقَوْمِ إِبْرَٰهِيمَ وَأَصْحَـٰبِ مَدْيَنَ وَٱلْمُؤْتَفِكَـٰتِ ۚ أَتَتْهُمْ رُسُلُهُم بِٱلْبَيِّنَـٰتِ ۖ فَمَا كَانَ ٱللَّهُ لِيَظْلِمَهُمْ وَلَـٰكِن كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ",
+    "arabic2": "الم ياتهم نبا الذين من قبلهم قوم نوح وعاد وثمود وقوم ابراهيم واصحاب مدين والمؤتفكات اتتهم رسلهم بالبينات فما كان الله ليظلمهم ولكن كانوا انفسهم يظلمون",
+    "bengali": "তাদের কাছে কি তাদের পূর্বের লোকদের সংবাদ পৌঁছেনি, নূহের কওম, আদ, সামূদ, ইবরাহীমের কওম, মাদায়েনবাসী ও বিধ্বস্ত নগরীর? তাদের কাছে তাদের রাসূলগণ প্রমাণসমূহ নিয়ে উপস্থিত হয়েছে। অতএব আল্লাহ তাদের উপর যুলম করার নন, বরং তারাই তাদের নিজদের উপর যুলম করছিল।",
+    "urdu": "کیا ان کو ان لوگوں (کے حالات) کی خبر نہیں پہنچی جو ان سے پہلے تھے (یعنی) نوح اور عاد اور ثمود کی قوم۔ اور ابراہیم کی قوم اور مدین والے اور الٹی ہوئی بستیوں والے۔ ان کے پاس پیغمبر نشانیاں لے لے کر آئے۔ اور خدا تو ایسا نہ تھا کہ ان پر ظلم کرتا لیکن وہی اپنے آپ پر ظلم کرتے تھے"
+}

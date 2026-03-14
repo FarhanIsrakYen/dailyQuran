@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 1,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/6_1.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/006001.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/6_1.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/006001.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/6_1.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/006001.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/6_1.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/006001.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/6_1.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/006001.mp3"
+        }
+    },
+    "english": "All praise is for Allah Who created the heavens and the earth and made darkness and light. Yet the disbelievers set up equals to their Lord ˹in worship˺.",
+    "arabic1": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ وَجَعَلَ ٱلظُّلُمَـٰتِ وَٱلنُّورَ ۖ ثُمَّ ٱلَّذِينَ كَفَرُوا۟ بِرَبِّهِمْ يَعْدِلُونَ",
+    "arabic2": "الحمد لله الذي خلق السماوات والارض وجعل الظلمات والنور ثم الذين كفروا بربهم يعدلون",
+    "bengali": "সকল প্রশংসা আল্লাহর জন্য যিনি সৃষ্টি করেছেন আসমান ও যমীন এবং সৃষ্টি করেছেন অন্ধকার ও আলো। তারপর কাফিররা তাদের রবের সমতুল্য স্থির করে।",
+    "urdu": "ہر طرح کی تعریف خدا ہی کو سزاوار ہے جس نے آسمانوں اور زمین کو پیدا کیا اور اندھیرا اور روشنی بنائی پھر بھی کافر (اور چیزوں کو) خدا کے برابر ٹھیراتے ہیں"
+}

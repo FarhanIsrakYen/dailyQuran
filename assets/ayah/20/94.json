@@ -1,0 +1,42 @@
+{
+    "surahName": "Taa-Haa",
+    "surahNameArabic": "طه",
+    "surahNameArabicLong": "سورة طه",
+    "surahNameTranslation": "Taa-Haa",
+    "revelationPlace": "Mecca",
+    "totalAyah": 135,
+    "surahNo": 20,
+    "ayahNo": 94,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/20_94.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/020094.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/20_94.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/020094.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/20_94.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/020094.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/20_94.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/020094.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/20_94.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/020094.mp3"
+        }
+    },
+    "english": "Aaron pleaded, “O son of my mother! Do not seize me by my beard or ˹the hair of˺ my head. I really feared that you would say, ‘You have caused division among the Children of Israel, and did not observe my word.’”",
+    "arabic1": "قَالَ يَبْنَؤُمَّ لَا تَأْخُذْ بِلِحْيَتِى وَلَا بِرَأْسِىٓ ۖ إِنِّى خَشِيتُ أَن تَقُولَ فَرَّقْتَ بَيْنَ بَنِىٓ إِسْرَٰٓءِيلَ وَلَمْ تَرْقُبْ قَوْلِى",
+    "arabic2": "قال يا ابن ام لا تاخذ بلحيتي ولا براسي اني خشيت ان تقول فرقت بين بني اسرائيل ولم ترقب قولي",
+    "bengali": "সে বলল, ‘হে আমার সহোদর! আমার দাড়িও ধরো না, মাথার চুলও ধরো না। আমি আশংকা করেছিলাম যে, তুমি বলবে, তুমি বনী ইসরাঈলের মধ্যে বিভেদ সৃষ্টি করেছ এবং আমার কথা রক্ষা করনি’।",
+    "urdu": "کہنے لگے کہ بھائی میری ڈاڑھی اور سر (کے بالوں) کو نہ پکڑیئے۔ میں تو اس سے ڈرا کہ آپ یہ نہ کہیں کہ تم نے بنی اسرائیل میں تفرقہ ڈال دیا اور میری بات کو ملحوظ نہ رکھا"
+}

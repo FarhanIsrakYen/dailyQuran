@@ -1,0 +1,42 @@
+{
+    "surahName": "Ar-Ra'd",
+    "surahNameArabic": "الرعد",
+    "surahNameArabicLong": "سورة الرعد",
+    "surahNameTranslation": "The Thunder",
+    "revelationPlace": "Madina",
+    "totalAyah": 43,
+    "surahNo": 13,
+    "ayahNo": 41,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/13_41.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/013041.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/13_41.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/013041.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/13_41.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/013041.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/13_41.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/013041.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/13_41.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/013041.mp3"
+        }
+    },
+    "english": "Do they not see that We gradually reduce their land from its borders? Allah decides—none can reverse His decision. And He is swift in reckoning.",
+    "arabic1": "أَوَلَمْ يَرَوْا۟ أَنَّا نَأْتِى ٱلْأَرْضَ نَنقُصُهَا مِنْ أَطْرَافِهَا ۚ وَٱللَّهُ يَحْكُمُ لَا مُعَقِّبَ لِحُكْمِهِۦ ۚ وَهُوَ سَرِيعُ ٱلْحِسَابِ",
+    "arabic2": "اولم يروا انا ناتي الارض ننقصها من اطرافها والله يحكم لا معقب لحكمه وهو سريع الحساب",
+    "bengali": "তারা কি দেখে না, আমি যমীনকে চতুর্দিক থেকে সংকীর্ণ করে আনছি। আর আল্লাহই হুকুম করেন এবং তাঁর হুকুম প্রত্যাখ্যান করার কেউ নেই এবং তিনিই দ্রুত হিসাব গ্রহণকারী।",
+    "urdu": "کیا انہوں نے نہیں دیکھا کہ ہم زمین کو اس کے کناروں سے گھٹاتے چلے آتے ہیں۔ اور خدا (جیسا چاہتا ہے) حکم کرتا ہے کوئی اس کے حکم کا رد کرنے والا نہیں۔ اور وہ جلد حساب لینے والا ہے"
+}

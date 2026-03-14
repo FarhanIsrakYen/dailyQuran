@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Tahrim",
+    "surahNameArabic": "التحريم",
+    "surahNameArabicLong": "سورة التحريم",
+    "surahNameTranslation": "The Prohibition",
+    "revelationPlace": "Madina",
+    "totalAyah": 12,
+    "surahNo": 66,
+    "ayahNo": 9,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/66_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/066009.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/66_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/066009.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/66_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/066009.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/66_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/066009.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/66_9.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/066009.mp3"
+        }
+    },
+    "english": "O Prophet! Struggle against the disbelievers and the hypocrites, and be firm with them. Hell will be their home. What an evil destination!",
+    "arabic1": "يَـٰٓأَيُّهَا ٱلنَّبِىُّ جَـٰهِدِ ٱلْكُفَّارَ وَٱلْمُنَـٰفِقِينَ وَٱغْلُظْ عَلَيْهِمْ ۚ وَمَأْوَىٰهُمْ جَهَنَّمُ ۖ وَبِئْسَ ٱلْمَصِيرُ",
+    "arabic2": "يا ايها النبي جاهد الكفار والمنافقين واغلظ عليهم وماواهم جهنم وبئس المصير",
+    "bengali": "‘হে নবী, কাফির ও মুনাফিকদের বিরুদ্ধে জিহাদ কর এবং তাদের ব্যাপারে কঠোর হও; আর তাদের আশ্রয়স্থল হবে জাহান্নাম এবং তা কত নিকৃষ্ট গন্তব্যস্থল!",
+    "urdu": "اے پیغمبر! کافروں اور منافقوں سے لڑو اور ان پر سختی کرو۔ ان کا ٹھکانا دوزخ ہے۔ اور وہ بہت بری جگہ ہے"
+}

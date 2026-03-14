@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Kahf",
+    "surahNameArabic": "الكهف",
+    "surahNameArabicLong": "سورة الكهف",
+    "surahNameTranslation": "The Cave",
+    "revelationPlace": "Mecca",
+    "totalAyah": 110,
+    "surahNo": 18,
+    "ayahNo": 76,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/18_76.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/018076.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/18_76.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/018076.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/18_76.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/018076.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/18_76.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/018076.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/18_76.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/018076.mp3"
+        }
+    },
+    "english": "Moses replied, “If I ever question you about anything after this, then do not keep me in your company, for by then I would have given you enough of an excuse.”",
+    "arabic1": "قَالَ إِن سَأَلْتُكَ عَن شَىْءٍۭ بَعْدَهَا فَلَا تُصَـٰحِبْنِى ۖ قَدْ بَلَغْتَ مِن لَّدُنِّى عُذْرًا",
+    "arabic2": "قال ان سالتك عن شيء بعدها فلا تصاحبني قد بلغت من لدني عذرا",
+    "bengali": "মূসা বলল, ‘এরপর যদি আমি আপনাকে আর কোন বিষয়ে প্রশ্ন করি, তাহলে আপনি আমাকে আর আপনার সাথে রাখবেন না। আমার পক্ষ থেকে আপনি ওযর পেয়ে গেছেন’।",
+    "urdu": "انہوں نے کہا کہ اگر میں اس کے بعد (پھر) کوئی بات پوچھوں (یعنی اعتراض کروں) تو مجھے اپنے ساتھ نہ رکھیئے گا کہ آپ میری طرف سے عذر (کے قبول کرنے میں غایت) کو پہنچ گئے"
+}

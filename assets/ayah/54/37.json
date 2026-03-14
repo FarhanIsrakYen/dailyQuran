@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Qamar",
+    "surahNameArabic": "القمر",
+    "surahNameArabicLong": "سورة القمر",
+    "surahNameTranslation": "The Moon",
+    "revelationPlace": "Mecca",
+    "totalAyah": 55,
+    "surahNo": 54,
+    "ayahNo": 37,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/54_37.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/054037.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/54_37.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/054037.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/54_37.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/054037.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/54_37.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/054037.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/54_37.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/054037.mp3"
+        }
+    },
+    "english": "And they even demanded his angel-guests from him, so We blinded their eyes. ˹And they were told,˺ “Taste then My punishment and warnings!”",
+    "arabic1": "وَلَقَدْ رَٰوَدُوهُ عَن ضَيْفِهِۦ فَطَمَسْنَآ أَعْيُنَهُمْ فَذُوقُوا۟ عَذَابِى وَنُذُرِ",
+    "arabic2": "ولقد راودوه عن ضيفه فطمسنا اعينهم فذوقوا عذابي ونذر",
+    "bengali": "আর তারা তার কাছে তার মেহমানদেরকে (অসদুদ্দেশ্যে) দাবী করল। তখন আমি তাদের চোখগুলোকে অন্ধ করে দিলাম। (আর বললাম) আমার আযাব ও সাবধানবাণীর পরিণাম আস্বাদন কর।",
+    "urdu": "اور ان سے ان کے مہمانوں کو لے لینا چاہا تو ہم نے ان کی آنکھیں مٹا دیں سو (اب) میرے عذاب اور ڈرانے کے مزے چکھو"
+}

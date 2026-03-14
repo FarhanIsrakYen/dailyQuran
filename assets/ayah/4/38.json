@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 38,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/4_38.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/004038.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/4_38.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/004038.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/4_38.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/004038.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/4_38.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/004038.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/4_38.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/004038.mp3"
+        }
+    },
+    "english": "Likewise for those who spend their wealth to show off and do not believe in Allah or the Last Day. And whoever takes Satan as an associate—what an evil associate they have!",
+    "arabic1": "وَٱلَّذِينَ يُنفِقُونَ أَمْوَٰلَهُمْ رِئَآءَ ٱلنَّاسِ وَلَا يُؤْمِنُونَ بِٱللَّهِ وَلَا بِٱلْيَوْمِ ٱلْـَٔاخِرِ ۗ وَمَن يَكُنِ ٱلشَّيْطَـٰنُ لَهُۥ قَرِينًا فَسَآءَ قَرِينًا",
+    "arabic2": "والذين ينفقون اموالهم رئاء الناس ولا يؤمنون بالله ولا باليوم الاخر ومن يكن الشيطان له قرينا فساء قرينا",
+    "bengali": "আর যারা নিজ ধন-সম্পদ লোক দেখানোর উদ্দেশ্যে ব্যয় করে এবং ঈমান আনে না আল্লাহর প্রতি এবং না শেষ দিনের প্রতি। আর শয়তান যার সঙ্গী হয়, সঙ্গী হিসেবে কতইনা নিকৃষ্ট সে!",
+    "urdu": "اور خرچ بھی کریں تو (خدا کے لئے نہیں بلکہ) لوگوں کے دکھانے کو اور ایمان نہ خدا پر لائیں اور نہ روز آخرت پر (ایسے لوگوں کو ساتھی شیطان ہے) اور جس کا ساتھی شیطان ہوا تو (کچھ شک نہیں کہ) وہ برا ساتھی ہے"
+}

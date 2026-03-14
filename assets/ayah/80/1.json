@@ -1,0 +1,42 @@
+{
+    "surahName": "Abasa",
+    "surahNameArabic": "عبس",
+    "surahNameArabicLong": "سورة عبس",
+    "surahNameTranslation": "He frowned",
+    "revelationPlace": "Mecca",
+    "totalAyah": 42,
+    "surahNo": 80,
+    "ayahNo": 1,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/80_1.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/080001.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/80_1.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/080001.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/80_1.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/080001.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/80_1.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/080001.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/80_1.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/080001.mp3"
+        }
+    },
+    "english": "He frowned and turned ˹his attention˺ away",
+    "arabic1": "عَبَسَ وَتَوَلَّىٰٓ",
+    "arabic2": "عبس وتولى",
+    "bengali": "সে* ভ্রকুঞ্চিত করল এবং মুখ ফিরিয়ে নিল। \n*মুহাম্মাদ (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম)।",
+    "urdu": "(محمد مصطفٰےﷺ) ترش رُو ہوئے اور منہ پھیر بیٹھے"
+}

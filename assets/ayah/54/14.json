@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Qamar",
+    "surahNameArabic": "القمر",
+    "surahNameArabicLong": "سورة القمر",
+    "surahNameTranslation": "The Moon",
+    "revelationPlace": "Mecca",
+    "totalAyah": 55,
+    "surahNo": 54,
+    "ayahNo": 14,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/54_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/054014.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/54_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/054014.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/54_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/054014.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/54_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/054014.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/54_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/054014.mp3"
+        }
+    },
+    "english": "sailing under Our ˹watchful˺ Eyes—a ˹fair˺ punishment on behalf of the one ˹they˺ denied.",
+    "arabic1": "تَجْرِى بِأَعْيُنِنَا جَزَآءً لِّمَن كَانَ كُفِرَ",
+    "arabic2": "تجري باعيننا جزاء لمن كان كفر",
+    "bengali": "যা আমার চাক্ষুস তত্ত্বাবধানে চলত, তার জন্য পুরস্কারস্বরূপ, যাকে প্রত্যাখ্যান করা হয়েছিল।",
+    "urdu": "وہ ہماری آنکھوں کے سامنے چلتی تھی۔ (یہ سب کچھ) اس شخص کے انتقام کے لئے (کیا گیا) جس کو کافر مانتے نہ تھے"
+}

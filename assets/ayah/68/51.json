@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Qalam",
+    "surahNameArabic": "القلم",
+    "surahNameArabicLong": "سورة القلم",
+    "surahNameTranslation": "The Pen",
+    "revelationPlace": "Mecca",
+    "totalAyah": 52,
+    "surahNo": 68,
+    "ayahNo": 51,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/68_51.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/068051.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/68_51.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/068051.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/68_51.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/068051.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/68_51.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/068051.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/68_51.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/068051.mp3"
+        }
+    },
+    "english": "The disbelievers would almost cut you down with their eyes when they hear ˹you recite˺ the Reminder, and say, “He is certainly a madman.”",
+    "arabic1": "وَإِن يَكَادُ ٱلَّذِينَ كَفَرُوا۟ لَيُزْلِقُونَكَ بِأَبْصَـٰرِهِمْ لَمَّا سَمِعُوا۟ ٱلذِّكْرَ وَيَقُولُونَ إِنَّهُۥ لَمَجْنُونٌ",
+    "arabic2": "وان يكاد الذين كفروا ليزلقونك بابصارهم لما سمعوا الذكر ويقولون انه لمجنون",
+    "bengali": "আর কাফিররা যখন উপদেশবাণী শুনে তখন তারা যেন তাদের দৃষ্টি দ্বারা তোমাকে আছড়ে ফেলবে, আর তারা বলে, ‘এ তো এক পাগল’।",
+    "urdu": "اور کافر جب (یہ) نصیحت (کی کتاب) سنتے ہیں تو یوں لگتے ہیں کہ تم کو اپنی نگاہوں سے پھسلا دیں گے اور کہتے یہ تو دیوانہ ہے"
+}

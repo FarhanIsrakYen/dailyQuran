@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 266,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_266.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002266.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_266.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002266.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_266.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002266.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_266.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002266.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_266.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002266.mp3"
+        }
+    },
+    "english": "Would any of you wish to have a garden with palm trees, grapevines, and all kinds of fruits with rivers flowing underneath and as they grow very old with dependent children, a fiery whirlwind hits the garden, burning it all up? This is how Allah makes His revelations clear to you, so perhaps you will reflect.",
+    "arabic1": "أَيَوَدُّ أَحَدُكُمْ أَن تَكُونَ لَهُۥ جَنَّةٌ مِّن نَّخِيلٍ وَأَعْنَابٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ لَهُۥ فِيهَا مِن كُلِّ ٱلثَّمَرَٰتِ وَأَصَابَهُ ٱلْكِبَرُ وَلَهُۥ ذُرِّيَّةٌ ضُعَفَآءُ فَأَصَابَهَآ إِعْصَارٌ فِيهِ نَارٌ فَٱحْتَرَقَتْ ۗ كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ لَكُمُ ٱلْـَٔايَـٰتِ لَعَلَّكُمْ تَتَفَكَّرُونَ",
+    "arabic2": "ايود احدكم ان تكون له جنة من نخيل واعناب تجري من تحتها الانهار له فيها من كل الثمرات واصابه الكبر وله ذرية ضعفاء فاصابها اعصار فيه نار فاحترقت كذلك يبين الله لكم الايات لعلكم تتفكرون",
+    "bengali": "তোমাদের কেউ কি কামনা করে, তার জন্য আঙ্গুর ও খেজুরের এমন একটি বাগান থাকবে, যার তলদেশ দিয়ে প্রবাহিত হবে নদ-নদী, সেখানে তার জন্য থাকবে সব ধরনের ফল-ফলাদি, আর বার্ধক্য তাকে আক্রান্ত করবে এবং তার জন্য থাকবে দুর্বল সন্তান-সন্ততি। অতঃপর বাগানটিতে আঘাত হানল ঘূর্ণিঝড়, যাতে রয়েছে আগুন, ফলে সেটি জ্বলে গেল? এভাবেই আল্লাহ তোমাদের জন্য আয়াতসমূহ বিশদভাবে বর্ণনা করেন, যাতে তোমরা চিন্তা কর।",
+    "urdu": "بھلا تم میں کوئی یہ چاہتا ہے کہ اس کا کھجوروں اور انگوروں کا باغ ہو جس میں نہریں بہہ رہی ہوں اور اس میں اس کے لئے ہر قسم کے میوے موجود ہوں اور اسے بڑھاپا آپکڑے اور اس کے ننھے ننھے بچے بھی ہوں۔ تو (ناگہاں) اس باغ پر آگ کا بھرا ہوا بگولا چلے اور وہ جل کر (راکھ کا ڈھیر ہو) جائے۔ اس طرح خدا تم سے اپنی آیتیں کھول کھول کر بیان فرماتا ہے تاکہ تم سوچو (اور سمجھو)"
+}

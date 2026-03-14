@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Ankaboot",
+    "surahNameArabic": "العنكبوت",
+    "surahNameArabicLong": "سورة العنكبوت",
+    "surahNameTranslation": "The Spider",
+    "revelationPlace": "Mecca",
+    "totalAyah": 69,
+    "surahNo": 29,
+    "ayahNo": 62,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/29_62.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/029062.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/29_62.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/029062.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/29_62.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/029062.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/29_62.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/029062.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/29_62.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/029062.mp3"
+        }
+    },
+    "english": "Allah gives abundant or limited provisions to whoever He wills of His servants. Surely Allah has ˹full˺ knowledge of everything.",
+    "arabic1": "ٱللَّهُ يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ مِنْ عِبَادِهِۦ وَيَقْدِرُ لَهُۥٓ ۚ إِنَّ ٱللَّهَ بِكُلِّ شَىْءٍ عَلِيمٌ",
+    "arabic2": "الله يبسط الرزق لمن يشاء من عباده ويقدر له ان الله بكل شيء عليم",
+    "bengali": "আল্লাহ তাঁর বান্দাদের মধ্যে যার জন্য ইচ্ছা করেন রিয্ক প্রশস্ত করে দেন এবং যার জন্য ইচ্ছা সীমিত করে দেন। নিশ্চয় আল্লাহ সকল বিষয়ে সম্যক অবগত।",
+    "urdu": "خدا ہی اپنے بندوں میں سے جس کے لئے چاہتا ہے روزی فراخ کر دیتا ہے اور جس کے لئے چاہتا ہے تنگ کر دیتا ہے بیشک خدا ہر چیز سے واقف ہے"
+}

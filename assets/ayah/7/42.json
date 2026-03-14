@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 42,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/7_42.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/007042.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/7_42.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/007042.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/7_42.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/007042.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/7_42.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/007042.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/7_42.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/007042.mp3"
+        }
+    },
+    "english": "As for those who believe and do good—We never require of any soul more than what it can afford—it is they who will be the residents of Paradise. They will be there forever.",
+    "arabic1": "وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ لَا نُكَلِّفُ نَفْسًا إِلَّا وُسْعَهَآ أُو۟لَـٰٓئِكَ أَصْحَـٰبُ ٱلْجَنَّةِ ۖ هُمْ فِيهَا خَـٰلِدُونَ",
+    "arabic2": "والذين امنوا وعملوا الصالحات لا نكلف نفسا الا وسعها اولئك اصحاب الجنة هم فيها خالدون",
+    "bengali": "আর যারা ঈমান এনেছে ও সৎকাজ করেছে, আমি কোন ব্যক্তিকে তার সাধ্যের বাইরে দায়িত্ব অর্পণ করি না। তারাই জান্নাতের অধিবাসী। তারা সেখানে হবে স্থায়ী।",
+    "urdu": "اور جو لوگ ایمان لائے اور عمل نیک کرتے رہے اور ہم (عملوں کے لیے) کسی شخص کو اس کی طاقت سے زیادہ تکلیف نہیں دیتے۔ ایسے ہی لوگ اہل بہشت ہیں (کہ) اس میں ہمیشہ رہیں گے"
+}

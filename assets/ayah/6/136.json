@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 136,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/6_136.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/006136.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/6_136.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/006136.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/6_136.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/006136.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/6_136.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/006136.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/6_136.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/006136.mp3"
+        }
+    },
+    "english": "The pagans set aside for Allah a share of the crops and cattle He created, saying, “This ˹portion˺ is for Allah,” so they claim, “and this ˹one˺ for our associate-gods.” Yet the portion of their associate-gods is not shared with Allah while Allah’s portion is shared with their associate-gods. What unfair judgment!",
+    "arabic1": "وَجَعَلُوا۟ لِلَّهِ مِمَّا ذَرَأَ مِنَ ٱلْحَرْثِ وَٱلْأَنْعَـٰمِ نَصِيبًا فَقَالُوا۟ هَـٰذَا لِلَّهِ بِزَعْمِهِمْ وَهَـٰذَا لِشُرَكَآئِنَا ۖ فَمَا كَانَ لِشُرَكَآئِهِمْ فَلَا يَصِلُ إِلَى ٱللَّهِ ۖ وَمَا كَانَ لِلَّهِ فَهُوَ يَصِلُ إِلَىٰ شُرَكَآئِهِمْ ۗ سَآءَ مَا يَحْكُمُونَ",
+    "arabic2": "وجعلوا لله مما ذرا من الحرث والانعام نصيبا فقالوا هذا لله بزعمهم وهذا لشركائنا فما كان لشركائهم فلا يصل الى الله وما كان لله فهو يصل الى شركائهم ساء ما يحكمون",
+    "bengali": "আর আল্লাহ যে শস্য ও চতুষ্পদ জন্তু সৃষ্টি করেছেন, সেখান থেকে তারা আল্লাহর জন্য একটি অংশ নির্ধারণ করে। অতঃপর তাদের ধারণা অনুসারে তারা বলে, ‘এটি আল্লাহর জন্য এবং এটি আমাদের শরীকদের জন্য।’ অতঃপর যা তাদের শরীকদের জন্য, তা আল্লাহর নিকট পৌঁছে না, আর যা আল্লাহর জন্য তা তাদের শরীকদের নিকট পৌঁছে যায়। তারা যে ফয়সালা করে, তা কতই না মন্দ !",
+    "urdu": "اور (یہ لوگ) خدا ہی کی پیدا کی ہوئی چیزوں یعنی کھیتی اور چوپایوں میں خدا کا بھی ایک حصہ مقرر کرتے ہیں اور اپنے خیال (باطل) سے کہتے ہیں کہ یہ (حصہ) تو خدا کا اور یہ ہمارے شریکوں (یعنی بتوں) کا تو جو حصہ ان کے شریکوں کا ہوتا ہے وہ تو خدا کی طرف نہیں جا سکتا اور جو حصہ خدا کا ہوتا ہے وہ ان کے شریکوں کی طرف جا سکتا ہے یہ کیسا برا انصاف ہے"
+}

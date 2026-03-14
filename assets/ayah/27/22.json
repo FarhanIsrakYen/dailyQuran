@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Naml",
+    "surahNameArabic": "النمل",
+    "surahNameArabicLong": "سورة النمل",
+    "surahNameTranslation": "The Ant",
+    "revelationPlace": "Mecca",
+    "totalAyah": 93,
+    "surahNo": 27,
+    "ayahNo": 22,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/27_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/027022.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/27_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/027022.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/27_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/027022.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/27_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/027022.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/27_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/027022.mp3"
+        }
+    },
+    "english": "It was not long before the bird came and said, “I have found out something you do not know. I have just come to you from Sheba with sure news.",
+    "arabic1": "فَمَكَثَ غَيْرَ بَعِيدٍ فَقَالَ أَحَطتُ بِمَا لَمْ تُحِطْ بِهِۦ وَجِئْتُكَ مِن سَبَإٍۭ بِنَبَإٍ يَقِينٍ",
+    "arabic2": "فمكث غير بعيد فقال احطت بما لم تحط به وجئتك من سبا بنبا يقين",
+    "bengali": "তারপর অনতিবিলম্বে হুদহুদ এসে বলল, ‘আমি যা অবগত হয়েছি আপনি তা অবগত নন, আমি সাবা থেকে আপনার জন্য নিশ্চিত খবর নিয়ে এসেছি’।",
+    "urdu": "ابھی تھوڑی ہی دیر ہوئی تھی کہ ہُدہُد آ موجود ہوا اور کہنے لگا کہ مجھے ایک ایسی چیز معلوم ہوئی ہے جس کی آپ کو خبر نہیں اور میں آپ کے پاس (شہر) سبا سے ایک سچی خبر لے کر آیا ہوں"
+}

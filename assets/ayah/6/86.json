@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 86,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/6_86.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/006086.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/6_86.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/006086.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/6_86.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/006086.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/6_86.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/006086.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/6_86.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/006086.mp3"
+        }
+    },
+    "english": "˹We also guided˺ Ishmael, Elisha, Jonah, and Lot, favouring each over other people ˹of their time˺.",
+    "arabic1": "وَإِسْمَـٰعِيلَ وَٱلْيَسَعَ وَيُونُسَ وَلُوطًا ۚ وَكُلًّا فَضَّلْنَا عَلَى ٱلْعَـٰلَمِينَ",
+    "arabic2": "واسماعيل واليسع ويونس ولوطا وكلا فضلنا على العالمين",
+    "bengali": "আর ইসমাঈল, আল ইয়াসা‘, ইউনুস ও লূতকে। প্রত্যেককে আমি সৃষ্টিকুলের উপর শ্রেষ্ঠত্ব দান করেছি।",
+    "urdu": "اور اسمٰعیل اور الیسع اور یونس اور لوط کو بھی۔ اور ان سب کو جہان کے لوگوں پر فضلیت بخشی تھی"
+}

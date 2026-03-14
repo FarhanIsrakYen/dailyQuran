@@ -1,0 +1,42 @@
+{
+    "surahName": "Fussilat",
+    "surahNameArabic": "فصلت",
+    "surahNameArabicLong": "سورة فصلت",
+    "surahNameTranslation": "Explained in detail",
+    "revelationPlace": "Mecca",
+    "totalAyah": 54,
+    "surahNo": 41,
+    "ayahNo": 6,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/41_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/041006.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/41_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/041006.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/41_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/041006.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/41_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/041006.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/41_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/041006.mp3"
+        }
+    },
+    "english": "Say, ˹O Prophet,˺ “I am only a man like you, ˹but˺ it has been revealed to me that your God is only One God. So take the Straight Way towards Him, and seek His forgiveness. And woe to the polytheists—",
+    "arabic1": "قُلْ إِنَّمَآ أَنَا۠ بَشَرٌ مِّثْلُكُمْ يُوحَىٰٓ إِلَىَّ أَنَّمَآ إِلَـٰهُكُمْ إِلَـٰهٌ وَٰحِدٌ فَٱسْتَقِيمُوٓا۟ إِلَيْهِ وَٱسْتَغْفِرُوهُ ۗ وَوَيْلٌ لِّلْمُشْرِكِينَ",
+    "arabic2": "قل انما انا بشر مثلكم يوحى الي انما الهكم اله واحد فاستقيموا اليه واستغفروه وويل للمشركين",
+    "bengali": "বল, ‘আমি কেবল তোমাদের মত একজন মানুষ। আমার কাছে ওহী পাঠানো হয় যে, তোমাদের ইলাহ কেবলমাত্র এক ইলাহ। অতএব তোমরা তাঁর পথে দৃঢ়ভাবে অটল থাক এবং তাঁর কাছে ক্ষমা চাও’। আর মুশরিকদের জন্য ধ্বংস,",
+    "urdu": "کہہ دو کہ میں بھی آدمی ہوں جیسے تم۔ (ہاں) مجھ پر یہ وحی آتی ہے کہ تمہارا معبود خدائے واحد ہے تو سیدھے اسی کی طرف (متوجہ) رہو اور اسی سے مغفرت مانگو اور مشرکوں پر افسوس ہے"
+}

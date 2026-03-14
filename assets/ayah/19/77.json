@@ -1,0 +1,42 @@
+{
+    "surahName": "Maryam",
+    "surahNameArabic": "مريم",
+    "surahNameArabicLong": "سورة مريم",
+    "surahNameTranslation": "Mary",
+    "revelationPlace": "Mecca",
+    "totalAyah": 98,
+    "surahNo": 19,
+    "ayahNo": 77,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/19_77.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/019077.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/19_77.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/019077.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/19_77.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/019077.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/19_77.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/019077.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/19_77.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/019077.mp3"
+        }
+    },
+    "english": "Have you seen ˹O Prophet˺ the one who rejects Our revelations yet boasts, “I will definitely be granted ˹plenty of˺ wealth and children ˹if there is an afterlife˺.”?",
+    "arabic1": "أَفَرَءَيْتَ ٱلَّذِى كَفَرَ بِـَٔايَـٰتِنَا وَقَالَ لَأُوتَيَنَّ مَالًا وَوَلَدًا",
+    "arabic2": "افرايت الذي كفر باياتنا وقال لاوتين مالا وولدا",
+    "bengali": "তুমি কি সেই ব্যক্তিকে দেখেছ* যে আমার আয়াতসমূহ অস্বীকার করে এবং বলে, ‘আমাকে অবশ্যই ধন-সম্পদ ও সন্তান-সন্ততি দেয়া হবে।’ \n* উল্লিখিত আয়াত ক’টি ‘আস ইবন ওয়ায়েল সম্পর্কে নাযিল হয়। তাঁর কাছে খাববাব ইবনুল আরাত (রা.)এর কিছু ঋণ পাওনা ছিল। তা চাইতে গেলে সে তা প্রত্যাখ্যান করে বলে,‘আমি যখন মারা যাব, অতঃপর আবার জীবিত হব তখন তুমি আমার কাছে এসো। তখনো আমাকে সন্তান-সন্ততি দেয়া হবে। সেখান থেকে তোমার ঋণ পরিশোধ করব’।",
+    "urdu": "بھلا تم نے اس شخص کو دیکھا جس نے ہماری آیتوں سے کفر کیا اور کہنے لگا کہ (اگر میں ازسرنو زندہ ہوا بھی تو یہی) مال اور اولاد مجھے (وہاں) ملے گا"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 104,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/6_104.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/006104.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/6_104.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/006104.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/6_104.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/006104.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/6_104.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/006104.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/6_104.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/006104.mp3"
+        }
+    },
+    "english": "Indeed, there have come to you insights from your Lord. So whoever chooses to see, it is for their own good. But whoever chooses to be blind, it is to their own loss. And I am not a keeper over you.",
+    "arabic1": "قَدْ جَآءَكُم بَصَآئِرُ مِن رَّبِّكُمْ ۖ فَمَنْ أَبْصَرَ فَلِنَفْسِهِۦ ۖ وَمَنْ عَمِىَ فَعَلَيْهَا ۚ وَمَآ أَنَا۠ عَلَيْكُم بِحَفِيظٍ",
+    "arabic2": "قد جاءكم بصائر من ربكم فمن ابصر فلنفسه ومن عمي فعليها وما انا عليكم بحفيظ",
+    "bengali": "নিশ্চয় তোমাদের কাছে চাক্ষুষ নিদর্শনাবলী এসেছে তোমাদের রবের পক্ষ থেকে। অতএব যে চক্ষুষ্মান হবে, তবে সে তার নিজের জন্যই হবে। আর যে অন্ধ সাজবে, তবে তা তার উপরই (বর্তাবে)। আর আমি তোমাদের উপর সংরক্ষক নই।",
+    "urdu": "(اے محمدﷺ! ان سے کہہ دو کہ) تمہارے (پاس) پروردگار کی طرف سے (روشن) دلیلیں پہنچ چکی ہیں تو جس نے (ان کو آنکھ کھول کر) دیکھا اس نے اپنا بھلا کیا اور جو اندھا بنا رہا اس نے اپنے حق میں برا کیا۔ اور میں تمہارا نگہبان نہیں ہوں"
+}

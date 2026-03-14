@@ -1,0 +1,42 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 13,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/3_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/003013.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/3_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/003013.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/3_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/003013.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/3_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/003013.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/3_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/003013.mp3"
+        }
+    },
+    "english": "Indeed, there was a sign for you in the two armies that met in battle—one fighting for the cause of Allah and the other in denial. The believers saw their enemy twice their number. But Allah supports with His victory whoever He wills. Surely in this is a lesson for people of insight.",
+    "arabic1": "قَدْ كَانَ لَكُمْ ءَايَةٌ فِى فِئَتَيْنِ ٱلْتَقَتَا ۖ فِئَةٌ تُقَـٰتِلُ فِى سَبِيلِ ٱللَّهِ وَأُخْرَىٰ كَافِرَةٌ يَرَوْنَهُم مِّثْلَيْهِمْ رَأْىَ ٱلْعَيْنِ ۚ وَٱللَّهُ يُؤَيِّدُ بِنَصْرِهِۦ مَن يَشَآءُ ۗ إِنَّ فِى ذَٰلِكَ لَعِبْرَةً لِّأُو۟لِى ٱلْأَبْصَـٰرِ",
+    "arabic2": "قد كان لكم اية في فئتين التقتا فئة تقاتل في سبيل الله واخرى كافرة يرونهم مثليهم راي العين والله يؤيد بنصره من يشاء ان في ذلك لعبرة لاولي الابصار",
+    "bengali": "নিশ্চয় তোমাদের জন্য নিদর্শন রয়েছে দু’টি দলের মধ্যে, যারা পরস্পর মুখোমুখি হয়েছিল। একটি দল লড়াই করছিল আল্লাহর পথে এবং অপর দলটি কাফির। তারা বাহ্যিক দৃষ্টিতে তাদেরকে ওদের দ্বিগুণ দেখছিল। আর আল্লাহ নিজ সাহায্য দ্বারা যাকে চান শক্তিশালী করেন। নিশ্চয় এতে রয়েছে চক্ষুষ্মানদের জন্য শিক্ষা।",
+    "urdu": "تمہارے لیے دو گروہوں میں جو (جنگ بدر کے دن) آپس میں بھڑ گئے (قدرت خدا کی عظیم الشان) نشانی تھی ایک گروہ (مسلمانوں کا تھا وہ) خدا کی راہ میں لڑ رہا تھا اور دوسرا گروہ (کافروں کا تھا وہ) ان کو اپنی آنکھوں سے اپنے سے دگنا مشاہدہ کر رہا تھا اور خدا اپنی نصرت سے جس کو چاہتا ہے مدد دیتا ہے جو اہل بصارت ہیں ان کے لیے اس (واقعے) میں بڑی عبرت ہے"
+}

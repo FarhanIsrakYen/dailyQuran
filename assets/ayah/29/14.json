@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Ankaboot",
+    "surahNameArabic": "العنكبوت",
+    "surahNameArabicLong": "سورة العنكبوت",
+    "surahNameTranslation": "The Spider",
+    "revelationPlace": "Mecca",
+    "totalAyah": 69,
+    "surahNo": 29,
+    "ayahNo": 14,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/29_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/029014.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/29_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/029014.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/29_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/029014.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/29_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/029014.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/29_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/029014.mp3"
+        }
+    },
+    "english": "Indeed, We sent Noah to his people, and he remained among them for a thousand years, less fifty. Then the Flood overtook them, while they persisted in wrongdoing.",
+    "arabic1": "وَلَقَدْ أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِۦ فَلَبِثَ فِيهِمْ أَلْفَ سَنَةٍ إِلَّا خَمْسِينَ عَامًا فَأَخَذَهُمُ ٱلطُّوفَانُ وَهُمْ ظَـٰلِمُونَ",
+    "arabic2": "ولقد ارسلنا نوحا الى قومه فلبث فيهم الف سنة الا خمسين عاما فاخذهم الطوفان وهم ظالمون",
+    "bengali": "আর আমি অবশ্যই নূহকে তার কওমের নিকট প্রেরণ করেছিলাম। সে তাদের মধ্যে পঞ্চাশ কম এক হাজার বছর অবস্থান করেছিল। অতঃপর মহা-প্লাবন তাদের গ্রাস করল, এমতাবস্থায় যে তারা ছিল যালিম।",
+    "urdu": "اور ہم نے نوحؑ کو اُن کی قوم کی طرف بھیجا تو وہ ان میں پچاس برس کم ہزار برس رہے پھر اُن کو طوفان (کے عذاب) نے آپکڑا۔ اور وہ ظالم تھے"
+}

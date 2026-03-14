@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 141,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/6_141.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/006141.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/6_141.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/006141.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/6_141.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/006141.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/6_141.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/006141.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/6_141.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/006141.mp3"
+        }
+    },
+    "english": "He is the One Who produces gardens—both cultivated and wild—and palm trees, crops of different flavours, olives, and pomegranates—similar ˹in shape˺, but dissimilar ˹in taste˺. Eat of the fruit they bear and pay the dues at harvest, but do not waste. Surely He does not like the wasteful.",
+    "arabic1": "۞ وَهُوَ ٱلَّذِىٓ أَنشَأَ جَنَّـٰتٍ مَّعْرُوشَـٰتٍ وَغَيْرَ مَعْرُوشَـٰتٍ وَٱلنَّخْلَ وَٱلزَّرْعَ مُخْتَلِفًا أُكُلُهُۥ وَٱلزَّيْتُونَ وَٱلرُّمَّانَ مُتَشَـٰبِهًا وَغَيْرَ مُتَشَـٰبِهٍ ۚ كُلُوا۟ مِن ثَمَرِهِۦٓ إِذَآ أَثْمَرَ وَءَاتُوا۟ حَقَّهُۥ يَوْمَ حَصَادِهِۦ ۖ وَلَا تُسْرِفُوٓا۟ ۚ إِنَّهُۥ لَا يُحِبُّ ٱلْمُسْرِفِينَ",
+    "arabic2": "وهو الذي انشا جنات معروشات وغير معروشات والنخل والزرع مختلفا اكله والزيتون والرمان متشابها وغير متشابه كلوا من ثمره اذا اثمر واتوا حقه يوم حصاده ولا تسرفوا انه لا يحب المسرفين",
+    "bengali": "আর তিনিই সৃষ্টি করেছেন এমন বাগানসমূহ যার কিছু মাচায় তোলা হয় আর কিছু তোলা হয় না* এবং খেজুর গাছ ও শস্য, যার স্বাদ বিভিন্ন রকম, যায়তুন ও আনার যার কিছু দেখতে একরকম, আর কিছু ভিন্ন রকম। তোমরা তার ফল থেকে আহার কর, যখন তা ফলদান করে এবং ফল কাটার দিনেই তার হক দিয়ে দাও। আর অপচয় করো না। নিশ্চয়ই তিনি অপচয়কারীদেরকে ভালবাসেন না।\n* معروشات এর অর্থ ঐ সমস্ত লতাগুল্ম, যেগুলোকে পরিচর্যার উদ্দেশ্যে মাচায় উঠিয়ে দেয়া হয়। আর غيرمعروشات এর অর্থ হচ্ছে যে গাছ মাচায় উঠানোর প্রয়োজন হয় না; বরং স্বীয় কান্ডের উপর তা বেড়ে উঠে।",
+    "urdu": "اور خدا ہی تو ہے جس نے باغ پیدا کئے چھتریوں پر چڑھائے ہوئے بھی اور جو چھتریوں پر نہیں چڑھائے ہوئے وہ بھی اور کھجور اور کھیتی جن کے طرح طرح کے پھل ہوتے ہیں اور زیتون اور انار جو (بعض باتوں میں) ایک دوسرے سے ملتے ہیں جب یہ چیزیں پھلیں تو ان کے پھل کھاؤ اور جس دن (پھل توڑو اور کھیتی) کاٹو تو خدا کا حق بھی اس میں سے ادا کرو اور بےجا نہ اڑاؤ کہ خدا بیجا اڑانے والوں کو دوست نہیں رکھتا"
+}

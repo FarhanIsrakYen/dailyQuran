@@ -1,0 +1,42 @@
+{
+    "surahName": "Ash-Shura",
+    "surahNameArabic": "الشورى",
+    "surahNameArabicLong": "سورة الشورى",
+    "surahNameTranslation": "Consultation",
+    "revelationPlace": "Mecca",
+    "totalAyah": 53,
+    "surahNo": 42,
+    "ayahNo": 6,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/42_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/042006.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/42_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/042006.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/42_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/042006.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/42_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/042006.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/42_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/042006.mp3"
+        }
+    },
+    "english": "As for those who take other protectors besides Him, Allah is Watchful over them. And you ˹O Prophet˺ are not a keeper over them.",
+    "arabic1": "وَٱلَّذِينَ ٱتَّخَذُوا۟ مِن دُونِهِۦٓ أَوْلِيَآءَ ٱللَّهُ حَفِيظٌ عَلَيْهِمْ وَمَآ أَنتَ عَلَيْهِم بِوَكِيلٍ",
+    "arabic2": "والذين اتخذوا من دونه اولياء الله حفيظ عليهم وما انت عليهم بوكيل",
+    "bengali": "আর যারা তাঁর পরিবর্তে অন্যদেরকে অভিভাবকরূপে গ্রহণ করে, আল্লাহ তাদের প্রতি সম্যক দৃষ্টিদাতা এবং তুমি তাদের কর্মবিধায়ক নও।",
+    "urdu": "اور جن لوگوں نے اس کے سوا کارساز بنا رکھے ہیں وہ خدا کو یاد ہیں۔ اور تم ان پر داروغہ نہیں ہو"
+}

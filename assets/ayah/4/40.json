@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 40,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/4_40.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/004040.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/4_40.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/004040.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/4_40.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/004040.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/4_40.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/004040.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/4_40.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/004040.mp3"
+        }
+    },
+    "english": "Indeed, Allah never wrongs ˹anyone˺—even by an atom’s weight. And if it is a good deed, He will multiply it many times over and will give a great reward out of His grace.",
+    "arabic1": "إِنَّ ٱللَّهَ لَا يَظْلِمُ مِثْقَالَ ذَرَّةٍ ۖ وَإِن تَكُ حَسَنَةً يُضَـٰعِفْهَا وَيُؤْتِ مِن لَّدُنْهُ أَجْرًا عَظِيمًا",
+    "arabic2": "ان الله لا يظلم مثقال ذرة وان تك حسنة يضاعفها ويؤت من لدنه اجرا عظيما",
+    "bengali": "নিশ্চয় আল্লাহ অণু পরিমাণও যুলম করেন না। আর যদি সেটি ভাল কাজ হয়, তিনি তাকে দ্বিগুণ করে দেন এবং তাঁর পক্ষ থেকে মহা প্রতিদান প্রদান করেন।",
+    "urdu": "خدا کسی کی ذرا بھی حق تلفی نہیں کرتا اور اگر نیکی (کی) ہوگی تو اس کو دوچند کردے گا اور اپنے ہاں سے اجرعظیم بخشے گا"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 3,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/6_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/006003.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/6_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/006003.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/6_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/006003.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/6_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/006003.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/6_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/006003.mp3"
+        }
+    },
+    "english": "He is the Only True God in the heavens and the earth. He knows whatever you conceal and whatever you reveal, and knows whatever you do.",
+    "arabic1": "وَهُوَ ٱللَّهُ فِى ٱلسَّمَـٰوَٰتِ وَفِى ٱلْأَرْضِ ۖ يَعْلَمُ سِرَّكُمْ وَجَهْرَكُمْ وَيَعْلَمُ مَا تَكْسِبُونَ",
+    "arabic2": "وهو الله في السماوات وفي الارض يعلم سركم وجهركم ويعلم ما تكسبون",
+    "bengali": "আর আসমানসমূহ ও যমীনে তিনিই আল্লাহ, তিনি জানেন তোমাদের গোপন ও প্রকাশ্য এবং জানেন যা তোমরা অর্জন কর।",
+    "urdu": "اور آسمانوں اور زمین میں وہی (ایک) خدا ہے تمہاری پوشیدہ اور ظاہر سب باتیں جانتا ہے اور تم جو عمل کرتے ہو سب سے واقف ہے"
+}

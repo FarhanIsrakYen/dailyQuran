@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Anbiyaa",
+    "surahNameArabic": "الأنبياء",
+    "surahNameArabicLong": "سورة الأنبياء",
+    "surahNameTranslation": "The Prophets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 112,
+    "surahNo": 21,
+    "ayahNo": 25,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/21_25.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/021025.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/21_25.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/021025.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/21_25.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/021025.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/21_25.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/021025.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/21_25.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/021025.mp3"
+        }
+    },
+    "english": "We never sent a messenger before you ˹O Prophet˺ without revealing to him: “There is no god ˹worthy of worship˺ except Me, so worship Me ˹alone˺.”",
+    "arabic1": "وَمَآ أَرْسَلْنَا مِن قَبْلِكَ مِن رَّسُولٍ إِلَّا نُوحِىٓ إِلَيْهِ أَنَّهُۥ لَآ إِلَـٰهَ إِلَّآ أَنَا۠ فَٱعْبُدُونِ",
+    "arabic2": "وما ارسلنا من قبلك من رسول الا نوحي اليه انه لا اله الا انا فاعبدون",
+    "bengali": "আর তোমার পূর্বে এমন কোন রাসূল আমি পাঠাইনি যার প্রতি আমি এই ওহী নাযিল করিনি যে, ‘আমি ছাড়া কোন (সত্য) ইলাহ নেই; সুতরাং তোমরা আমার ইবাদাত কর।’",
+    "urdu": "اور جو پیغمبر ہم نےتم سے پہلے بھیجے ان کی طرف یہی وحی بھیجی کہ میرے سوا کوئی معبود نہیں تو میری ہی عبادت کرو"
+}

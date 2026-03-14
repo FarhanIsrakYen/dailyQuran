@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Noor",
+    "surahNameArabic": "النور",
+    "surahNameArabicLong": "سورة النور",
+    "surahNameTranslation": "The Light",
+    "revelationPlace": "Madina",
+    "totalAyah": 64,
+    "surahNo": 24,
+    "ayahNo": 1,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/24_1.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/024001.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/24_1.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/024001.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/24_1.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/024001.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/24_1.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/024001.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/24_1.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/024001.mp3"
+        }
+    },
+    "english": "˹This is˺ a sûrah which We have revealed and made ˹its rulings˺ obligatory, and revealed in it clear commandments so that you may be mindful.",
+    "arabic1": "سُورَةٌ أَنزَلْنَـٰهَا وَفَرَضْنَـٰهَا وَأَنزَلْنَا فِيهَآ ءَايَـٰتٍۭ بَيِّنَـٰتٍ لَّعَلَّكُمْ تَذَكَّرُونَ",
+    "arabic2": "سورة انزلناها وفرضناها وانزلنا فيها ايات بينات لعلكم تذكرون",
+    "bengali": "এটি একটি সূরা, যা আমি নাযিল করেছি এবং এটাকে অবশ্য পালনীয় করেছি। আর আমি এতে সুস্পষ্ট আয়াতসমূহ নাযিল করেছি, যাতে তোমরা উপদেশ গ্রহণ কর।",
+    "urdu": "یہ (ایک) سورت ہے جس کو ہم نے نازل کیا اور اس (کے احکام) کو فرض کر دیا، اور اس میں واضح المطالب آیتیں نازل کیں تاکہ تم یاد رکھو"
+}

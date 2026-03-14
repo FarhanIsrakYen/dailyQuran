@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Qasas",
+    "surahNameArabic": "القصص",
+    "surahNameArabicLong": "سورة القصص",
+    "surahNameTranslation": "The Stories",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 28,
+    "ayahNo": 37,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/28_37.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/028037.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/28_37.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/028037.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/28_37.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/028037.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/28_37.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/028037.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/28_37.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/028037.mp3"
+        }
+    },
+    "english": "Moses responded, “My Lord knows best who has come with ˹true˺ guidance from Him and will fare best in the end. Indeed, the wrongdoers will never succeed.”",
+    "arabic1": "وَقَالَ مُوسَىٰ رَبِّىٓ أَعْلَمُ بِمَن جَآءَ بِٱلْهُدَىٰ مِنْ عِندِهِۦ وَمَن تَكُونُ لَهُۥ عَـٰقِبَةُ ٱلدَّارِ ۖ إِنَّهُۥ لَا يُفْلِحُ ٱلظَّـٰلِمُونَ",
+    "arabic2": "وقال موسى ربي اعلم بمن جاء بالهدى من عنده ومن تكون له عاقبة الدار انه لا يفلح الظالمون",
+    "bengali": "আর মূসা বলল, ‘আমার রব সম্যক অবগত আছেন, কে তাঁর কাছ থেকে হিদায়াত নিয়ে এসেছে এবং আখিরাতে কার পরিণাম শুভ হবে। নিশ্চয় যালিমরা সফল হবে না’।",
+    "urdu": "اور موسٰی نے کہا کہ میرا پروردگار اس شخص کو خوب جانتا ہے جو اس کی طرف سے حق لےکر آیا ہے اور جس کے لئے عاقبت کا گھر (یعنی بہشت) ہے۔ بیشک ظالم نجات نہیں پائیں گے"
+}

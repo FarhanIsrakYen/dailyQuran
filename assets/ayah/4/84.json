@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 84,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/4_84.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/004084.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/4_84.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/004084.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/4_84.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/004084.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/4_84.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/004084.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/4_84.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/004084.mp3"
+        }
+    },
+    "english": "So fight in the cause of Allah ˹O Prophet˺. You are accountable for none but yourself. And motivate the believers ˹to fight˺, so perhaps Allah will curb the disbelievers’ might. And Allah is far superior in might and in punishment.",
+    "arabic1": "فَقَـٰتِلْ فِى سَبِيلِ ٱللَّهِ لَا تُكَلَّفُ إِلَّا نَفْسَكَ ۚ وَحَرِّضِ ٱلْمُؤْمِنِينَ ۖ عَسَى ٱللَّهُ أَن يَكُفَّ بَأْسَ ٱلَّذِينَ كَفَرُوا۟ ۚ وَٱللَّهُ أَشَدُّ بَأْسًا وَأَشَدُّ تَنكِيلًا",
+    "arabic2": "فقاتل في سبيل الله لا تكلف الا نفسك وحرض المؤمنين عسى الله ان يكف باس الذين كفروا والله اشد باسا واشد تنكيلا",
+    "bengali": "অতএব তুমি আল্লাহর রাস্তায় লড়াই কর। তুমি শুধু তোমার নিজের ব্যাপারে দায়িত্বপ্রাপ্ত এবং মুমিনদেরকে উদ্বুদ্ধ কর। আশা করা যায় আল্লাহ অচিরেই কাফিরদের শক্তি প্রতিহত করবেন। আর আল্লাহ শক্তিতে প্রবলতর এবং শাস্তিদানে কঠোরতর।",
+    "urdu": "تو (اے محمدﷺ) تم خدا کی راہ میں لڑو تم اپنے سوا کسی کے ذمہ دار نہیں اور مومنوں کو بھی ترغیب دو قریب ہے کہ خدا کافروں کی لڑائی کو بند کردے اور خدا لڑائی کے اعتبار سے بہت سخت ہے اور سزا کے لحاظ سے بھی بہت سخت ہے"
+}

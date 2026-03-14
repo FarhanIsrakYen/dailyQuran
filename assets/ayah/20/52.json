@@ -1,0 +1,42 @@
+{
+    "surahName": "Taa-Haa",
+    "surahNameArabic": "طه",
+    "surahNameArabicLong": "سورة طه",
+    "surahNameTranslation": "Taa-Haa",
+    "revelationPlace": "Mecca",
+    "totalAyah": 135,
+    "surahNo": 20,
+    "ayahNo": 52,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/20_52.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/020052.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/20_52.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/020052.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/20_52.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/020052.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/20_52.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/020052.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/20_52.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/020052.mp3"
+        }
+    },
+    "english": "He replied, “That knowledge is with my Lord in a Record. My Lord neither falters nor forgets ˹anything˺.”",
+    "arabic1": "قَالَ عِلْمُهَا عِندَ رَبِّى فِى كِتَـٰبٍ ۖ لَّا يَضِلُّ رَبِّى وَلَا يَنسَى",
+    "arabic2": "قال علمها عند ربي في كتاب لا يضل ربي ولا ينسى",
+    "bengali": "মূসা বলল, ‘এর জ্ঞান আমার রবের নিকট কিতাবে আছে। আমার রব বিভ্রান্ত হন না এবং ভুলেও যান না’।",
+    "urdu": "کہا کہ ان کا علم میرے پروردگار کو ہے (جو) کتاب میں (لکھا ہوا ہے)۔ میرا پروردگار نہ چوکتا ہے نہ بھولتا ہے"
+}

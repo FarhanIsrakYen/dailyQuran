@@ -1,0 +1,42 @@
+{
+    "surahName": "Ar-Room",
+    "surahNameArabic": "الروم",
+    "surahNameArabicLong": "سورة الروم",
+    "surahNameTranslation": "The Romans",
+    "revelationPlace": "Mecca",
+    "totalAyah": 60,
+    "surahNo": 30,
+    "ayahNo": 50,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/30_50.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/030050.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/30_50.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/030050.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/30_50.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/030050.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/30_50.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/030050.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/30_50.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/030050.mp3"
+        }
+    },
+    "english": "See then the impact of Allah’s mercy: how He gives life to the earth after its death! Surely That ˹same God˺ can raise the dead. For He is Most Capable of everything.",
+    "arabic1": "فَٱنظُرْ إِلَىٰٓ ءَاثَـٰرِ رَحْمَتِ ٱللَّهِ كَيْفَ يُحْىِ ٱلْأَرْضَ بَعْدَ مَوْتِهَآ ۚ إِنَّ ذَٰلِكَ لَمُحْىِ ٱلْمَوْتَىٰ ۖ وَهُوَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+    "arabic2": "فانظر الى اثار رحمت الله كيف يحيي الارض بعد موتها ان ذلك لمحيي الموتى وهو على كل شيء قدير",
+    "bengali": "অতএব তুমি আল্লাহর রহমতের চি‎হ্নসমূহের প্রতি দৃষ্টি দাও। কিভাবে তিনি যমীনের মৃত্যুর পর তা জীবিত করেন। নিশ্চয় এভাবেই তিনি মৃতকে জীবিত করেন এবং তিনি সব কিছুর উপর সর্বশক্তিমান।",
+    "urdu": "تو (اے دیکھنے والے) خدا کی رحمت کی نشانیوں کی طرف دیکھ کہ وہ کس طرح زمین کو اس کے مرنے کے بعد زندہ کرتا ہے۔ بیشک وہ مردوں کو زندہ کرنے والا ہے۔ اور وہ ہر چیز پر قادر ہے"
+}

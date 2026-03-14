@@ -1,0 +1,42 @@
+{
+    "surahName": "Taa-Haa",
+    "surahNameArabic": "طه",
+    "surahNameArabicLong": "سورة طه",
+    "surahNameTranslation": "Taa-Haa",
+    "revelationPlace": "Mecca",
+    "totalAyah": 135,
+    "surahNo": 20,
+    "ayahNo": 49,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/20_49.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/020049.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/20_49.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/020049.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/20_49.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/020049.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/20_49.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/020049.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/20_49.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/020049.mp3"
+        }
+    },
+    "english": "Pharaoh asked, “Who then is the Lord of you two, O  Moses?”",
+    "arabic1": "قَالَ فَمَن رَّبُّكُمَا يَـٰمُوسَىٰ",
+    "arabic2": "قال فمن ربكما يا موسى",
+    "bengali": "ফির‘আউন বলল, ‘হে মূসা, তাহলে কে তোমাদের রব’?",
+    "urdu": "(غرض موسیٰ اور ہارون فرعون کے پاس گئے) اس نے کہا کہ موسیٰ تمہارا پروردگار کون ہے؟"
+}

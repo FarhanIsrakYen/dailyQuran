@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Muddaththir",
+    "surahNameArabic": "المدثر",
+    "surahNameArabicLong": "سورة المدثر",
+    "surahNameTranslation": "The Cloaked One",
+    "revelationPlace": "Mecca",
+    "totalAyah": 56,
+    "surahNo": 74,
+    "ayahNo": 52,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/74_52.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/074052.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/74_52.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/074052.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/74_52.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/074052.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/74_52.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/074052.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/74_52.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/074052.mp3"
+        }
+    },
+    "english": "In fact, each one of them wishes to be given a ˹personal˺ letter ˹from Allah˺ for all ˹to read˺.",
+    "arabic1": "بَلْ يُرِيدُ كُلُّ ٱمْرِئٍ مِّنْهُمْ أَن يُؤْتَىٰ صُحُفًا مُّنَشَّرَةً",
+    "arabic2": "بل يريد كل امرئ منهم ان يؤتى صحفا منشرة",
+    "bengali": "বরং তাদের মধ্যকার প্রত্যেক ব্যক্তিই কামনা করে যে তাকে উন্মুক্ত গ্রন্থ প্রদান করা হোক।",
+    "urdu": "اصل یہ ہے کہ ان میں سے ہر شخص یہ چاہتا ہے کہ اس کے پاس کھلی ہوئی کتاب آئے"
+}

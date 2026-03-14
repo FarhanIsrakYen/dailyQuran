@@ -1,0 +1,42 @@
+{
+    "surahName": "Yunus",
+    "surahNameArabic": "يونس",
+    "surahNameArabicLong": "سورة يونس",
+    "surahNameTranslation": "Jonas",
+    "revelationPlace": "Mecca",
+    "totalAyah": 109,
+    "surahNo": 10,
+    "ayahNo": 2,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/10_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/010002.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/10_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/010002.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/10_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/010002.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/10_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/010002.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/10_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/010002.mp3"
+        }
+    },
+    "english": "Is it astonishing to people that We have sent revelation to a man from among themselves, ˹instructing him,˺ “Warn humanity and give good news to the believers that they will have an honourable status with their Lord.”? Yet the disbelievers said, “Indeed, this ˹man˺ is clearly a magician!”",
+    "arabic1": "أَكَانَ لِلنَّاسِ عَجَبًا أَنْ أَوْحَيْنَآ إِلَىٰ رَجُلٍ مِّنْهُمْ أَنْ أَنذِرِ ٱلنَّاسَ وَبَشِّرِ ٱلَّذِينَ ءَامَنُوٓا۟ أَنَّ لَهُمْ قَدَمَ صِدْقٍ عِندَ رَبِّهِمْ ۗ قَالَ ٱلْكَـٰفِرُونَ إِنَّ هَـٰذَا لَسَـٰحِرٌ مُّبِينٌ",
+    "arabic2": "اكان للناس عجبا ان اوحينا الى رجل منهم ان انذر الناس وبشر الذين امنوا ان لهم قدم صدق عند ربهم قال الكافرون ان هذا لساحر مبين",
+    "bengali": "এটা কি মানুষের জন্য আশ্চর্যের বিষয় যে, আমি তাদের মধ্য থেকে এক ব্যক্তির নিকট ওহী প্রেরণ করেছি যে, তুমি মানুষকে সতর্ক কর এবং মুমিনদেরকে সুসংবাদ প্রদান কর যে, তাদের রবের নিকট তাদের জন্য রয়েছে উচ্চ মর্যাদা। কাফিররা বলে, ‘এ তো স্পষ্ট যাদুকর’।",
+    "urdu": "کیا لوگوں کو تعجب ہوا کہ ہم نے ان ہی میں سے ایک مرد کو حکم بھیجا کہ لوگوں کو ڈر سنا دو۔ اور ایمان لانے والوں کو خوشخبری دے دو کہ ان کے پروردگار کے ہاں ان کا سچا درجہ ہے۔ (ایسے شخص کی نسبت) کافر کہتے ہیں کہ یہ صریح جادوگر ہے"
+}

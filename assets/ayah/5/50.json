@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Maaida",
+    "surahNameArabic": "المائدة",
+    "surahNameArabicLong": "سورة المائدة",
+    "surahNameTranslation": "The Table",
+    "revelationPlace": "Madina",
+    "totalAyah": 120,
+    "surahNo": 5,
+    "ayahNo": 50,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/5_50.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/005050.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/5_50.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/005050.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/5_50.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/005050.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/5_50.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/005050.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/5_50.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/005050.mp3"
+        }
+    },
+    "english": "Is it the judgment of ˹pre-Islamic˺ ignorance they seek? Who could be a better judge than Allah for people of sure faith?",
+    "arabic1": "أَفَحُكْمَ ٱلْجَـٰهِلِيَّةِ يَبْغُونَ ۚ وَمَنْ أَحْسَنُ مِنَ ٱللَّهِ حُكْمًا لِّقَوْمٍ يُوقِنُونَ",
+    "arabic2": "افحكم الجاهلية يبغون ومن احسن من الله حكما لقوم يوقنون",
+    "bengali": "তারা কি তবে জাহিলিয়্যাতের বিধান চায়? আর নিশ্চিত বিশ্বাসী কওমের জন্য বিধান প্রদানে আল্লাহর চেয়ে কে অধিক উত্তম?",
+    "urdu": "کیا یہ زمانہٴ جاہلیت کے حکم کے خواہش مند ہیں؟ اور جو یقین رکھتے ہیں ان کے لیے خدا سے اچھا حکم کس کا ہے؟"
+}

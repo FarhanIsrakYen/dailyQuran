@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nahl",
+    "surahNameArabic": "النحل",
+    "surahNameArabicLong": "سورة النحل",
+    "surahNameTranslation": "The Bee",
+    "revelationPlace": "Mecca",
+    "totalAyah": 128,
+    "surahNo": 16,
+    "ayahNo": 36,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/16_36.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/016036.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/16_36.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/016036.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/16_36.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/016036.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/16_36.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/016036.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/16_36.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/016036.mp3"
+        }
+    },
+    "english": "We surely sent a messenger to every community, saying, “Worship Allah and shun false gods.” But some of them were guided by Allah, while others were destined to stray. So travel throughout the land and see the fate of the deniers!",
+    "arabic1": "وَلَقَدْ بَعَثْنَا فِى كُلِّ أُمَّةٍ رَّسُولًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ وَٱجْتَنِبُوا۟ ٱلطَّـٰغُوتَ ۖ فَمِنْهُم مَّنْ هَدَى ٱللَّهُ وَمِنْهُم مَّنْ حَقَّتْ عَلَيْهِ ٱلضَّلَـٰلَةُ ۚ فَسِيرُوا۟ فِى ٱلْأَرْضِ فَٱنظُرُوا۟ كَيْفَ كَانَ عَـٰقِبَةُ ٱلْمُكَذِّبِينَ",
+    "arabic2": "ولقد بعثنا في كل امة رسولا ان اعبدوا الله واجتنبوا الطاغوت فمنهم من هدى الله ومنهم من حقت عليه الضلالة فسيروا في الارض فانظروا كيف كان عاقبة المكذبين",
+    "bengali": "আর আমি অবশ্যই প্রত্যেক জাতিতে একজন রাসূল প্রেরণ করেছি যে, তোমরা আল্লাহর ইবাদাত কর এবং পরিহার কর তাগূতকে। অতঃপর তাদের মধ্য থেকে আল্লাহ কাউকে হিদায়াত দিয়েছেন এবং তাদের মধ্য থেকে কারো উপর পথভ্রষ্টতা সাব্যস্ত হয়েছে। সুতরাং তোমরা যমীনে ভ্রমণ কর অতঃপর দেখ, অস্বীকারকারীদের পরিণতি কীরূপ হয়েছে।",
+    "urdu": "اور ہم نے ہر جماعت میں پیغمبر بھیجا کہ خدا ہی کی عبادت کرو اور بتوں (کی پرستش) سے اجتناب کرو۔ تو ان میں بعض ایسے ہیں جن کو خدا نے ہدایت دی اور بعض ایسے ہیں جن پر گمراہی ثابت ہوئی۔ سو زمین پر چل پھر کر دیکھ لو کہ جھٹلانے والوں کا انجام کیسا ہوا"
+}

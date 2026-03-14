@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Maaida",
+    "surahNameArabic": "المائدة",
+    "surahNameArabicLong": "سورة المائدة",
+    "surahNameTranslation": "The Table",
+    "revelationPlace": "Madina",
+    "totalAyah": 120,
+    "surahNo": 5,
+    "ayahNo": 113,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/5_113.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/005113.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/5_113.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/005113.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/5_113.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/005113.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/5_113.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/005113.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/5_113.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/005113.mp3"
+        }
+    },
+    "english": "They said, “We ˹only˺ wish to eat from it to reassure our hearts, to verify you are indeed truthful to us, and to become its witnesses.”",
+    "arabic1": "قَالُوا۟ نُرِيدُ أَن نَّأْكُلَ مِنْهَا وَتَطْمَئِنَّ قُلُوبُنَا وَنَعْلَمَ أَن قَدْ صَدَقْتَنَا وَنَكُونَ عَلَيْهَا مِنَ ٱلشَّـٰهِدِينَ",
+    "arabic2": "قالوا نريد ان ناكل منها وتطمئن قلوبنا ونعلم ان قد صدقتنا ونكون عليها من الشاهدين",
+    "bengali": "তারা বলল, ‘আমরা তা থেকে খেতে চাই। আর আমাদের হৃদয় প্রশান্ত হবে এবং আমরা জানব যে, তুমি আমাদেরকে সত্যই বলেছ, আর আমরা এ ব্যাপারে সাক্ষীদের অন্তর্ভুক্ত হব।’",
+    "urdu": "وہ بولے کہ ہماری یہ خواہش ہے کہ ہم اس میں سے کھائیں اور ہمارے دل تسلی پائیں اور ہم جان لیں کہ تم نے ہم سے سچ کہا ہے اور ہم اس (خوان کے نزول) پر گواہ رہیں"
+}

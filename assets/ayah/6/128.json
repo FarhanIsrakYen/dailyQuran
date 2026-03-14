@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 128,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/6_128.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/006128.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/6_128.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/006128.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/6_128.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/006128.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/6_128.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/006128.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/6_128.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/006128.mp3"
+        }
+    },
+    "english": "˹Consider˺ the Day He will gather them ˹all˺ together and say, “O assembly of jinn! You misled humans in great numbers.” And their human associates will say, “Our Lord! We benefited from each other’s company, but now we have reached the term which You appointed for us.” ˹Then˺ He will say, “The Fire is your home, yours to stay in forever, except whoever Allah wills to spare.” Surely your Lord is All-Wise, All-Knowing.",
+    "arabic1": "وَيَوْمَ يَحْشُرُهُمْ جَمِيعًا يَـٰمَعْشَرَ ٱلْجِنِّ قَدِ ٱسْتَكْثَرْتُم مِّنَ ٱلْإِنسِ ۖ وَقَالَ أَوْلِيَآؤُهُم مِّنَ ٱلْإِنسِ رَبَّنَا ٱسْتَمْتَعَ بَعْضُنَا بِبَعْضٍ وَبَلَغْنَآ أَجَلَنَا ٱلَّذِىٓ أَجَّلْتَ لَنَا ۚ قَالَ ٱلنَّارُ مَثْوَىٰكُمْ خَـٰلِدِينَ فِيهَآ إِلَّا مَا شَآءَ ٱللَّهُ ۗ إِنَّ رَبَّكَ حَكِيمٌ عَلِيمٌ",
+    "arabic2": "ويوم يحشرهم جميعا يا معشر الجن قد استكثرتم من الانس وقال اولياؤهم من الانس ربنا استمتع بعضنا ببعض وبلغنا اجلنا الذي اجلت لنا قال النار مثواكم خالدين فيها الا ما شاء الله ان ربك حكيم عليم",
+    "bengali": "আর যেদিন আল্লাহ তাদের সবাইকে সমবেত করবেন। সেদিন বলবেন, ‘হে জিনের দল, মানুষের অনেককে তোমরা বিভ্রান্ত করেছিলে’ এবং মানুষদের মধ্য থেকে তাদের অভিভাবকরা বলবে, ‘হে আমাদের রব, আমরা একে অপরের দ্বারা লাভবান হয়েছি এবং আমরা সে সময়ে উপনীত হয়েছি, যা আপনি আমাদের জন্য নির্ধারণ করে দিয়েছেন’। তিনি বলবেন, ‘আগুন তোমাদের ঠিকানা, তোমরা সেখানে স্থায়ী হবে। তবে আল্লাহ যা চান (তা ভিন্ন)’। নিশ্চয় তোমার রব প্রজ্ঞাময়, সর্বজ্ঞ।",
+    "urdu": "اور جس دن وہ سب (جنّ وانس) کو جمع کرے گا (اور فرمائے گا کہ) اے گروہ جنّات تم نے انسانوں سے بہت (فائدے) حاصل کئے تو جو انسانوں میں ان کے دوستدار ہوں گے وہ کہیں گے کہ پروردگار ہم ایک دوسرے سے فائدہ اٹھاتے رہے اور (آخر) اس وقت کو پہنچ گئے جو تو نے ہمارے لیے مقرر کیا تھا خدا فرمائے گا (اب) تمہارا ٹھکانہ دوزخ ہے ہمیشہ اس میں (جلتے) رہو گے مگر جو خدا چاہے بےشک تمہارا پروردگار دانا اور خبردار ہے"
+}

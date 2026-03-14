@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 99,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/17_99.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/017099.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/17_99.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/017099.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/17_99.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/017099.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/17_99.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/017099.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/17_99.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/017099.mp3"
+        }
+    },
+    "english": "Have they not realized that Allah, Who created the heavens and the earth, can ˹easily˺ re-create them? He has ˹already˺ set for them a time, about which there is no doubt. But the wrongdoers persist in denial.",
+    "arabic1": "۞ أَوَلَمْ يَرَوْا۟ أَنَّ ٱللَّهَ ٱلَّذِى خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ قَادِرٌ عَلَىٰٓ أَن يَخْلُقَ مِثْلَهُمْ وَجَعَلَ لَهُمْ أَجَلًا لَّا رَيْبَ فِيهِ فَأَبَى ٱلظَّـٰلِمُونَ إِلَّا كُفُورًا",
+    "arabic2": "اولم يروا ان الله الذي خلق السماوات والارض قادر على ان يخلق مثلهم وجعل لهم اجلا لا ريب فيه فابى الظالمون الا كفورا",
+    "bengali": "তারা কি দেখে না যে, আল্লাহ আসমানসমূহ ও যমীন সৃষ্টি করেছেন, তিনি তাদের অনুরূপ সৃষ্টি করতে সক্ষম? আর তিনি তাদের জন্য একটি সময় নির্ধারণ করেছেন যাতে কোন সন্দেহ নেই। কিন্তু যালিমরা কুফরী না করে থাকেনি।",
+    "urdu": "کیا انہوں نے نہیں دیکھا کہ خدا جس نے آسمانوں اور زمین کو پیدا کیا ہے اس بات پر قادر ہے کہ ان جیسے (لوگ) پیدا کردے۔ اور اس نے ان کے لئے ایک وقت مقرر کر دیا ہے جس میں کچھ بھی شک نہیں۔ تو ظالموں نے انکار کرنے کے سوا (اسے) قبول نہ کیا"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 172,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/7_172.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/007172.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/7_172.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/007172.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/7_172.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/007172.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/7_172.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/007172.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/7_172.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/007172.mp3"
+        }
+    },
+    "english": "And ˹remember˺ when your Lord brought forth from the loins of the children of Adam their descendants and had them testify regarding themselves. ˹Allah asked,˺ “Am I not your Lord?” They replied, “Yes, You are! We testify.” ˹He cautioned,˺ “Now you have no right to say on Judgment Day, ‘We were not aware of this.’",
+    "arabic1": "وَإِذْ أَخَذَ رَبُّكَ مِنۢ بَنِىٓ ءَادَمَ مِن ظُهُورِهِمْ ذُرِّيَّتَهُمْ وَأَشْهَدَهُمْ عَلَىٰٓ أَنفُسِهِمْ أَلَسْتُ بِرَبِّكُمْ ۖ قَالُوا۟ بَلَىٰ ۛ شَهِدْنَآ ۛ أَن تَقُولُوا۟ يَوْمَ ٱلْقِيَـٰمَةِ إِنَّا كُنَّا عَنْ هَـٰذَا غَـٰفِلِينَ",
+    "arabic2": "واذ اخذ ربك من بني ادم من ظهورهم ذريتهم واشهدهم على انفسهم الست بربكم قالوا بلى شهدنا ان تقولوا يوم القيامة انا كنا عن هذا غافلين",
+    "bengali": "আর স্মরণ কর, যখন তোমার রব বনী-আদমের পৃষ্ঠদেশ হতে তাদের বংশধরকে বের করলেন এবং তাদেরকে তাদের নিজদের উপর সাক্ষী করলেন যে, ‘আমি কি তোমাদের রব নই’? তারা বলল, ‘হ্যাঁ, আমরা সাক্ষ্য দিলাম।’ যাতে কিয়ামতের দিন তোমরা বলতে না পার যে, নিশ্চয় আমরা এ বিষয়ে অনবহিত ছিলাম।",
+    "urdu": "اور جب تمہارے پروردگار نے بنی آدم سے یعنی ان کی پیٹھوں سے ان کی اولاد نکالی تو ان سے خود ان کے مقابلے میں اقرار کرا لیا (یعنی ان سے پوچھا کہ) کیا تمہارا پروردگار نہیں ہوں۔ وہ کہنے لگے کیوں نہیں ہم گواہ ہیں (کہ تو ہمارا پروردگار ہے)۔ یہ اقرار اس لیے کرایا تھا کہ قیامت کے دن (کہیں یوں نہ) کہنے لگو کہ ہم کو تو اس کی خبر ہی نہ تھی"
+}

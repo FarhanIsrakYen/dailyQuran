@@ -1,0 +1,42 @@
+{
+    "surahName": "Az-Zukhruf",
+    "surahNameArabic": "الزخرف",
+    "surahNameArabicLong": "سورة الزخرف",
+    "surahNameTranslation": "Ornaments of gold",
+    "revelationPlace": "Mecca",
+    "totalAyah": 89,
+    "surahNo": 43,
+    "ayahNo": 13,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/43_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/043013.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/43_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/043013.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/43_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/043013.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/43_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/043013.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/43_13.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/043013.mp3"
+        }
+    },
+    "english": "so that you may sit firmly on their backs, and remember your Lord’s blessings once you are settled on them, saying, “Glory be to the One Who has subjected these for us, for we could have never done so ˹on our own˺.",
+    "arabic1": "لِتَسْتَوُۥا۟ عَلَىٰ ظُهُورِهِۦ ثُمَّ تَذْكُرُوا۟ نِعْمَةَ رَبِّكُمْ إِذَا ٱسْتَوَيْتُمْ عَلَيْهِ وَتَقُولُوا۟ سُبْحَـٰنَ ٱلَّذِى سَخَّرَ لَنَا هَـٰذَا وَمَا كُنَّا لَهُۥ مُقْرِنِينَ",
+    "arabic2": "لتستووا على ظهوره ثم تذكروا نعمة ربكم اذا استويتم عليه وتقولوا سبحان الذي سخر لنا هذا وما كنا له مقرنين",
+    "bengali": "যাতে তোমরা এর পিঠে স্থির থাকতে পার তারপর তোমাদের রবের অনুগ্রহ স্মরণ করবে, যখন তোমরা এর উপর স্থির হয়ে বসবে আর বলবে, ‘পবিত্র-মহান সেই সত্তা যিনি এগুলোকে আমাদের বশীভূত করে দিয়েছেন। আর আমরা এগুলোকে নিয়ন্ত্রণ করতে সক্ষম ছিলাম না’।",
+    "urdu": "تاکہ تم ان کی پیٹھ پر چڑھ بیٹھو اور جب اس پر بیٹھ جاؤ پھر اپنے پروردگار کے احسان کو یاد کرو اور کہو کہ وہ (ذات) پاک ہے جس نے اس کو ہمارے زیر فرمان کر دیا اور ہم میں طاقت نہ تھی کہ اس کو بس میں کرلیتے"
+}

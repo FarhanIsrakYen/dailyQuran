@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Hajj",
+    "surahNameArabic": "الحج",
+    "surahNameArabicLong": "سورة الحج",
+    "surahNameTranslation": "The Pilgrimage",
+    "revelationPlace": "Madina",
+    "totalAyah": 78,
+    "surahNo": 22,
+    "ayahNo": 3,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/22_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/022003.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/22_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/022003.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/22_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/022003.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/22_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/022003.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/22_3.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/022003.mp3"
+        }
+    },
+    "english": "˹Still˺ there are some who dispute about Allah without knowledge, and follow every rebellious devil.",
+    "arabic1": "وَمِنَ ٱلنَّاسِ مَن يُجَـٰدِلُ فِى ٱللَّهِ بِغَيْرِ عِلْمٍ وَيَتَّبِعُ كُلَّ شَيْطَـٰنٍ مَّرِيدٍ",
+    "arabic2": "ومن الناس من يجادل في الله بغير علم ويتبع كل شيطان مريد",
+    "bengali": "মানুষের মধ্যে কতক আল্লাহ সম্পর্কে তর্ক-বিতর্ক করে না জেনে এবং সে অনুসরণ করে প্রত্যেক বিদ্রোহী শয়তানের।",
+    "urdu": "اور بعض لوگ ایسے ہیں جو خدا (کی شان) میں علم (ودانش) کے بغیر جھگڑتے اور ہر شیطان سرکش کی پیروی کرتے ہیں"
+}

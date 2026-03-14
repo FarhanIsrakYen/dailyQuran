@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 124,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/9_124.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/009124.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/9_124.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/009124.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/9_124.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/009124.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/9_124.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/009124.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/9_124.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/009124.mp3"
+        }
+    },
+    "english": "Whenever a sûrah is revealed, some of them ask ˹mockingly˺, “Which of you has this increased in faith?” As for the believers, it has increased them in faith and they rejoice.",
+    "arabic1": "وَإِذَا مَآ أُنزِلَتْ سُورَةٌ فَمِنْهُم مَّن يَقُولُ أَيُّكُمْ زَادَتْهُ هَـٰذِهِۦٓ إِيمَـٰنًا ۚ فَأَمَّا ٱلَّذِينَ ءَامَنُوا۟ فَزَادَتْهُمْ إِيمَـٰنًا وَهُمْ يَسْتَبْشِرُونَ",
+    "arabic2": "واذا ما انزلت سورة فمنهم من يقول ايكم زادته هذه ايمانا فاما الذين امنوا فزادتهم ايمانا وهم يستبشرون",
+    "bengali": "আর যখনই কোন সূরা নাযিল করা হয়, তখন তাদের কেউ কেউ বলে, ‘এটি তোমাদের কার ঈমান বৃদ্ধি করল’? অতএব যারা মুমিন, নিশ্চয় তা তাদের ঈমান বৃদ্ধি করেছে এবং তারা আনন্দিত হয়।",
+    "urdu": "اور جب کوئی سورت نازل ہوتی ہے تو بعض منافق (استہزاء کرتے اور) پوچھتے کہ اس سورت نے تم میں سے کس کا ایمان زیادہ کیا ہے۔ سو جو ایمان والے ہیں ان کا ایمان تو زیادہ کیا اور وہ خوش ہوتے ہیں"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Ash-Shura",
+    "surahNameArabic": "الشورى",
+    "surahNameArabicLong": "سورة الشورى",
+    "surahNameTranslation": "Consultation",
+    "revelationPlace": "Mecca",
+    "totalAyah": 53,
+    "surahNo": 42,
+    "ayahNo": 22,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/42_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/042022.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/42_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/042022.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/42_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/042022.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/42_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/042022.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/42_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/042022.mp3"
+        }
+    },
+    "english": "You will see the wrongdoers fearful ˹of the punishment˺ for what they committed but it will be inevitable for them, whereas those who believe and do good will be in the lush Gardens of Paradise. They will have whatever they desire from their Lord. That is ˹truly˺ the greatest bounty.",
+    "arabic1": "تَرَى ٱلظَّـٰلِمِينَ مُشْفِقِينَ مِمَّا كَسَبُوا۟ وَهُوَ وَاقِعٌۢ بِهِمْ ۗ وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ فِى رَوْضَاتِ ٱلْجَنَّاتِ ۖ لَهُم مَّا يَشَآءُونَ عِندَ رَبِّهِمْ ۚ ذَٰلِكَ هُوَ ٱلْفَضْلُ ٱلْكَبِيرُ",
+    "arabic2": "ترى الظالمين مشفقين مما كسبوا وهو واقع بهم والذين امنوا وعملوا الصالحات في روضات الجنات لهم ما يشاءون عند ربهم ذلك هو الفضل الكبير",
+    "bengali": "তুমি যালিমদেরকে তাদের কৃত কর্মের জন্য ভীত-সন্ত্রস্ত দেখতে পাবে। অথচ তা (তাদের কর্মের শাস্তি) তাদের উপর পতিত হবেই। আর যারা ঈমান আনে ও সৎকর্ম করে তারা জান্নাতের উদ্যানসমূহে থাকবে। তারা যা চাইবে, তাদের রবের নিকট তাদের জন্য তাই থাকবে। এটাই তো মহাঅনুগ্রহ।",
+    "urdu": "تم دیکھو گے کہ ظالم اپنے اعمال (کے وبال) سے ڈر رہے ہوں گے اور وہ ان پر پڑے گا۔ اور جو لوگ ایمان لائے اور نیک عمل کرتے رہے وہ بہشت کے باغوں میں ہوں گے۔ وہ جو کچھ چاہیں گے ان کے لیے ان کے پروردگار کے پاس (موجود) ہوگا۔ یہی بڑا فضل ہے"
+}

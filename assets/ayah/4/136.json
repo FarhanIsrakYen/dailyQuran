@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 136,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/4_136.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/004136.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/4_136.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/004136.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/4_136.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/004136.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/4_136.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/004136.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/4_136.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/004136.mp3"
+        }
+    },
+    "english": "O believers! Have faith in Allah, His Messenger, the Book He has revealed to His Messenger, and the Scriptures He revealed before. Indeed, whoever denies Allah, His angels, His Books, His messengers, and the Last Day has clearly gone far astray.",
+    "arabic1": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ ءَامِنُوا۟ بِٱللَّهِ وَرَسُولِهِۦ وَٱلْكِتَـٰبِ ٱلَّذِى نَزَّلَ عَلَىٰ رَسُولِهِۦ وَٱلْكِتَـٰبِ ٱلَّذِىٓ أَنزَلَ مِن قَبْلُ ۚ وَمَن يَكْفُرْ بِٱللَّهِ وَمَلَـٰٓئِكَتِهِۦ وَكُتُبِهِۦ وَرُسُلِهِۦ وَٱلْيَوْمِ ٱلْـَٔاخِرِ فَقَدْ ضَلَّ ضَلَـٰلًۢا بَعِيدًا",
+    "arabic2": "يا ايها الذين امنوا امنوا بالله ورسوله والكتاب الذي نزل على رسوله والكتاب الذي انزل من قبل ومن يكفر بالله وملائكته وكتبه ورسله واليوم الاخر فقد ضل ضلالا بعيدا",
+    "bengali": "হে মুমিনগণ, তোমরা ঈমান আন আল্লাহর প্রতি, তাঁর রাসূলের প্রতি এবং সে কিতাবের প্রতি যা তিনি তাঁর রাসূলের উপর নাযিল করেছেন এবং সে কিতাবের প্রতি যা তিনি পূর্বে নাযিল করেছেন। আর যে আল্লাহ, তাঁর ফেরেশতাগণ, তাঁর কিতাবসমূহ, তাঁর রাসূলগণ এবং শেষ দিনকে অস্বীকার করবে, সে ঘোর বিভ্রান্তিতে বিভ্রান্ত হবে।",
+    "urdu": "مومنو! خدا پر اور اس کے رسول پر اور جو کتاب اس نے اپنی پیغمبر (آخرالزماں) پر نازل کی ہے اور جو کتابیں اس سے پہلے نازل کی تھیں سب پر ایمان لاؤ۔ اور جو شخص خدا اور اس کے فرشتوں اور اس کی کتابوں اور اس کے پیغمبروں اور روزقیامت سے انکار کرے وہ رستے سے بھٹک کر دور جا پڑا"
+}

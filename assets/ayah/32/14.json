@@ -1,0 +1,42 @@
+{
+    "surahName": "As-Sajda",
+    "surahNameArabic": "السجدة",
+    "surahNameArabicLong": "سورة السجدة",
+    "surahNameTranslation": "The Prostration",
+    "revelationPlace": "Mecca",
+    "totalAyah": 30,
+    "surahNo": 32,
+    "ayahNo": 14,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/32_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/032014.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/32_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/032014.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/32_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/032014.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/32_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/032014.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/32_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/032014.mp3"
+        }
+    },
+    "english": "So taste ˹the punishment˺ for neglecting the meeting of this Day of yours. We ˹too˺ will certainly neglect you. And taste the torment of eternity for what you used to do!",
+    "arabic1": "فَذُوقُوا۟ بِمَا نَسِيتُمْ لِقَآءَ يَوْمِكُمْ هَـٰذَآ إِنَّا نَسِينَـٰكُمْ ۖ وَذُوقُوا۟ عَذَابَ ٱلْخُلْدِ بِمَا كُنتُمْ تَعْمَلُونَ",
+    "arabic2": "فذوقوا بما نسيتم لقاء يومكم هذا انا نسيناكم وذوقوا عذاب الخلد بما كنتم تعملون",
+    "bengali": "কাজেই তোমরা তোমাদের এই দিনের সাক্ষাতকে যে ভুলে গিয়েছিলে, তার স্বাদ তোমরা আস্বাদন কর। নিশ্চয় আমি তোমাদেরকে ভুলে গিয়েছি, আর তোমরা যা করতে, তার জন্য তোমরা স্থায়ী আযাব ভোগ কর।",
+    "urdu": "سو (اب آگ کے) مزے چکھو اس لئے کہ تم نے اُس دن کے آنے کو بھلا رکھا تھا (آج) ہم بھی تمہیں بھلا دیں گے اور جو کام تم کرتے تھے اُن کی سزا میں ہمیشہ کے عذاب کے مزے چکھتے رہو"
+}

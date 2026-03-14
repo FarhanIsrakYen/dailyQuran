@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Furqaan",
+    "surahNameArabic": "الفرقان",
+    "surahNameArabicLong": "سورة الفرقان",
+    "surahNameTranslation": "The Criterion",
+    "revelationPlace": "Mecca",
+    "totalAyah": 77,
+    "surahNo": 25,
+    "ayahNo": 68,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/25_68.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/025068.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/25_68.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/025068.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/25_68.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/025068.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/25_68.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/025068.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/25_68.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/025068.mp3"
+        }
+    },
+    "english": "˹They are˺ those who do not invoke any other god besides Allah, nor take a ˹human˺ life—made sacred by Allah—except with ˹legal˺ right, nor commit fornication. And whoever does ˹any of˺ this will face the penalty.",
+    "arabic1": "وَٱلَّذِينَ لَا يَدْعُونَ مَعَ ٱللَّهِ إِلَـٰهًا ءَاخَرَ وَلَا يَقْتُلُونَ ٱلنَّفْسَ ٱلَّتِى حَرَّمَ ٱللَّهُ إِلَّا بِٱلْحَقِّ وَلَا يَزْنُونَ ۚ وَمَن يَفْعَلْ ذَٰلِكَ يَلْقَ أَثَامًا",
+    "arabic2": "والذين لا يدعون مع الله الها اخر ولا يقتلون النفس التي حرم الله الا بالحق ولا يزنون ومن يفعل ذلك يلق اثاما",
+    "bengali": "আর যারা আল্লাহর সাথে অন্য ইলাহকে ডাকে না এবং যারা আল্লাহ যে নাফসকে হত্যা করা নিষেধ করেছেন যথার্থ কারণ ছাড়া তাকে হত্যা করে না। আর যারা ব্যভিচার করে না। আর যে তা করবে সে আযাবপ্রাপ্ত হবে।",
+    "urdu": "اور وہ جو خدا کے ساتھ کسی اور معبود کو نہیں پکارتے اور جن جاندار کو مار ڈالنا خدا نے حرام کیا ہے اس کو قتل نہیں کرتے مگر جائز طریق پر (یعنی شریعت کے مطابق) اور بدکاری نہیں کرتے۔ اور جو یہ کام کرے گا سخت گناہ میں مبتلا ہوگا"
+}

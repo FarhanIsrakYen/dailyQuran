@@ -1,0 +1,42 @@
+{
+    "surahName": "Yunus",
+    "surahNameArabic": "يونس",
+    "surahNameArabicLong": "سورة يونس",
+    "surahNameTranslation": "Jonas",
+    "revelationPlace": "Mecca",
+    "totalAyah": 109,
+    "surahNo": 10,
+    "ayahNo": 55,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/10_55.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/010055.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/10_55.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/010055.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/10_55.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/010055.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/10_55.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/010055.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/10_55.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/010055.mp3"
+        }
+    },
+    "english": "Surely to Allah belongs whatever is in the heavens and the earth. Surely Allah’s promise is ˹always˺ true, but most of them do not know.",
+    "arabic1": "أَلَآ إِنَّ لِلَّهِ مَا فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۗ أَلَآ إِنَّ وَعْدَ ٱللَّهِ حَقٌّ وَلَـٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ",
+    "arabic2": "الا ان لله ما في السماوات والارض الا ان وعد الله حق ولكن اكثرهم لا يعلمون",
+    "bengali": "জেনে রাখ, নিশ্চয় আসমানসমূহ ও যমীনে যা আছে, তা আল্লাহরই। জেনে রাখ, নিশ্চয় আল্লাহর ওয়াদা সত্য, কিন্তু তাদের অধিকাংশই জানে না।",
+    "urdu": "سن رکھو جو کچھ آسمانوں اور زمینوں میں ہے سب خدا ہی کا ہے۔ اور یہ بھی سن رکھو کہ خدا کا وعدہ سچا ہے لیکن اکثر لوگ نہیں جانتے"
+}

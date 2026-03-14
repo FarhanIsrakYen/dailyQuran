@@ -1,0 +1,42 @@
+{
+    "surahName": "Maryam",
+    "surahNameArabic": "مريم",
+    "surahNameArabicLong": "سورة مريم",
+    "surahNameTranslation": "Mary",
+    "revelationPlace": "Mecca",
+    "totalAyah": 98,
+    "surahNo": 19,
+    "ayahNo": 67,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/19_67.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/019067.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/19_67.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/019067.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/19_67.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/019067.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/19_67.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/019067.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/19_67.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/019067.mp3"
+        }
+    },
+    "english": "Do ˹such˺ people not remember that We created them before, when they were nothing?",
+    "arabic1": "أَوَلَا يَذْكُرُ ٱلْإِنسَـٰنُ أَنَّا خَلَقْنَـٰهُ مِن قَبْلُ وَلَمْ يَكُ شَيْـًٔا",
+    "arabic2": "اولا يذكر الانسان انا خلقناه من قبل ولم يك شيئا",
+    "bengali": "মানুষ কি স্মরণ করে না যে, আমি তাকে পূর্বে সৃষ্টি করেছি অথচ সে কিছুই ছিল না?",
+    "urdu": "کیا (ایسا) انسان یاد نہیں کرتا کہ ہم نے اس کو پہلے بھی پیدا کیا تھا اور وہ کچھ بھی چیز نہ تھا"
+}

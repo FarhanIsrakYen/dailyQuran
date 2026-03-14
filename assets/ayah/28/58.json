@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Qasas",
+    "surahNameArabic": "القصص",
+    "surahNameArabicLong": "سورة القصص",
+    "surahNameTranslation": "The Stories",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 28,
+    "ayahNo": 58,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/28_58.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/028058.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/28_58.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/028058.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/28_58.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/028058.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/28_58.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/028058.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/28_58.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/028058.mp3"
+        }
+    },
+    "english": "˹Imagine˺ how many societies We have destroyed that had been spoiled by their ˹comfortable˺ living! Those are their residences, never inhabited after them except passingly. And We ˹alone˺ were the Successor.",
+    "arabic1": "وَكَمْ أَهْلَكْنَا مِن قَرْيَةٍۭ بَطِرَتْ مَعِيشَتَهَا ۖ فَتِلْكَ مَسَـٰكِنُهُمْ لَمْ تُسْكَن مِّنۢ بَعْدِهِمْ إِلَّا قَلِيلًا ۖ وَكُنَّا نَحْنُ ٱلْوَٰرِثِينَ",
+    "arabic2": "وكم اهلكنا من قرية بطرت معيشتها فتلك مساكنهم لم تسكن من بعدهم الا قليلا وكنا نحن الوارثين",
+    "bengali": "আর আমি কত জনপদকে ধ্বংস করেছি, যার বাসিন্দারা তাদের জীবন উপকরণ নিয়ে দম্ভ করত! এগুলো তো তাদের বাসস্থান। তাদের পরে (এখানে) সামান্যই বসবাস করা হয়েছে। আর আমিই চূড়ান্ত মালিকানার ওয়ারিস।",
+    "urdu": "اور ہم نے بہت سی بستیوں کو ہلاک کر ڈالا جو اپنی (فراخی) معیشت میں اترا رہے تھے۔ سو یہ اُن کے مکانات ہیں جو اُن کے بعد آباد ہی نہیں ہوئے مگر بہت کم۔ اور اُن کے پیچھے ہم ہی اُن کے وارث ہوئے"
+}

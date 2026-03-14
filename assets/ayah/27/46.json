@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Naml",
+    "surahNameArabic": "النمل",
+    "surahNameArabicLong": "سورة النمل",
+    "surahNameTranslation": "The Ant",
+    "revelationPlace": "Mecca",
+    "totalAyah": 93,
+    "surahNo": 27,
+    "ayahNo": 46,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/27_46.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/027046.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/27_46.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/027046.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/27_46.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/027046.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/27_46.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/027046.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/27_46.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/027046.mp3"
+        }
+    },
+    "english": "He urged ˹the disbelieving group˺, “O my people! Why do you ˹seek to˺ hasten the torment rather than grace? If only you sought Allah’s forgiveness so you may be shown mercy!”",
+    "arabic1": "قَالَ يَـٰقَوْمِ لِمَ تَسْتَعْجِلُونَ بِٱلسَّيِّئَةِ قَبْلَ ٱلْحَسَنَةِ ۖ لَوْلَا تَسْتَغْفِرُونَ ٱللَّهَ لَعَلَّكُمْ تُرْحَمُونَ",
+    "arabic2": "قال يا قوم لم تستعجلون بالسيئة قبل الحسنة لولا تستغفرون الله لعلكم ترحمون",
+    "bengali": "সে বলল, ‘হে আমার কওম, তোমরা কল্যাণের পূর্বে কেন অকল্যাণকে তরান্বিত করতে চাইছ? কেন তোমরা আল্লাহর কাছে ক্ষমা প্রার্থনা করছ না যেন তোমাদেরকে রহমত করা হয়’?",
+    "urdu": "صالح نے کہا کہ بھائیو تم بھلائی سے پہلے برائی کے لئے کیوں جلدی کرتے ہو (اور) خدا سے بخشش کیوں نہیں مانگتے تاکہ تم پر رحم کیا جائے"
+}

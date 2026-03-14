@@ -1,0 +1,42 @@
+{
+    "surahName": "Maryam",
+    "surahNameArabic": "مريم",
+    "surahNameArabicLong": "سورة مريم",
+    "surahNameTranslation": "Mary",
+    "revelationPlace": "Mecca",
+    "totalAyah": 98,
+    "surahNo": 19,
+    "ayahNo": 60,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/19_60.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/019060.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/19_60.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/019060.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/19_60.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/019060.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/19_60.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/019060.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/19_60.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/019060.mp3"
+        }
+    },
+    "english": "As for those who repent, believe, and do good, it is they who will be admitted into Paradise, never being denied any reward.",
+    "arabic1": "إِلَّا مَن تَابَ وَءَامَنَ وَعَمِلَ صَـٰلِحًا فَأُو۟لَـٰٓئِكَ يَدْخُلُونَ ٱلْجَنَّةَ وَلَا يُظْلَمُونَ شَيْـًٔا",
+    "arabic2": "الا من تاب وامن وعمل صالحا فاولئك يدخلون الجنة ولا يظلمون شيئا",
+    "bengali": "তবে তারা নয় যারা তাওবা করেছে, ঈমান এনেছে এবং সৎকর্ম করেছে; তারাই জান্নাতে প্রবেশ করবে এবং তাদের প্রতি কোন যুলম করা হবে না।",
+    "urdu": "ہاں جس نے توبہ کی اور ایمان لایا اور عمل نیک کئے تو اسے لوگ بہشت میں داخل ہوں گے اور ان کا ذرا نقصان نہ کیا جائے گا"
+}

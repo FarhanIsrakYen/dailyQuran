@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Ma'aarij",
+    "surahNameArabic": "المعارج",
+    "surahNameArabicLong": "سورة المعارج",
+    "surahNameTranslation": "The Ascending Stairways",
+    "revelationPlace": "Mecca",
+    "totalAyah": 44,
+    "surahNo": 70,
+    "ayahNo": 17,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/70_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/070017.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/70_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/070017.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/70_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/070017.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/70_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/070017.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/70_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/070017.mp3"
+        }
+    },
+    "english": "It will summon whoever turned their backs ˹on Allah˺ and turned away ˹from the truth˺",
+    "arabic1": "تَدْعُوا۟ مَنْ أَدْبَرَ وَتَوَلَّىٰ",
+    "arabic2": "تدعو من ادبر وتولى",
+    "bengali": "জাহান্নাম তাকে ডাকবে যে পৃষ্ঠ প্রদর্শন করেছিল এবং মুখ ফিরিয়ে নিয়েছিল ।",
+    "urdu": "ان لوگوں کو اپنی طرف بلائے گی جنہوں نے (دین حق سے) اعراض کیا"
+}

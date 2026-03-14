@@ -1,0 +1,42 @@
+{
+    "surahName": "Hud",
+    "surahNameArabic": "هود",
+    "surahNameArabicLong": "سورة هود",
+    "surahNameTranslation": "Hud",
+    "revelationPlace": "Mecca",
+    "totalAyah": 123,
+    "surahNo": 11,
+    "ayahNo": 31,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/11_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/011031.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/11_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/011031.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/11_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/011031.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/11_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/011031.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/11_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/011031.mp3"
+        }
+    },
+    "english": "I do not say to you that I possess Allah’s treasuries or know the unseen, nor do I claim to be an angel, nor do I say that Allah will never grant goodness to those you look down upon. Allah knows best what is ˹hidden˺ within them. ˹If I did,˺ then I would truly be one of the wrongdoers.”",
+    "arabic1": "وَلَآ أَقُولُ لَكُمْ عِندِى خَزَآئِنُ ٱللَّهِ وَلَآ أَعْلَمُ ٱلْغَيْبَ وَلَآ أَقُولُ إِنِّى مَلَكٌ وَلَآ أَقُولُ لِلَّذِينَ تَزْدَرِىٓ أَعْيُنُكُمْ لَن يُؤْتِيَهُمُ ٱللَّهُ خَيْرًا ۖ ٱللَّهُ أَعْلَمُ بِمَا فِىٓ أَنفُسِهِمْ ۖ إِنِّىٓ إِذًا لَّمِنَ ٱلظَّـٰلِمِينَ",
+    "arabic2": "ولا اقول لكم عندي خزائن الله ولا اعلم الغيب ولا اقول اني ملك ولا اقول للذين تزدري اعينكم لن يؤتيهم الله خيرا الله اعلم بما في انفسهم اني اذا لمن الظالمين",
+    "bengali": "‘আর আমি তোমাদের বলছি না যে, ‘আমার কাছে আল্লাহর ভান্ডারসমূহ আছে’ এবং আমি গায়েব জানি না আর আমি এও বলছি না যে, ‘আমি ফেরেশতা’। তোমাদের চোখে যারা হীন, তাদের সম্পর্কে আমি বলছি না যে, ‘আল্লাহ তাদেরকে কখনো কোন কল্যাণ দান করবেন না’। তাদের অন্তরে যা আছে, সে সম্পর্কে আল্লাহ অধিক অবগত। (যদি এরূপ উক্তি করি) তাহলে নিশ্চয় আমি যালিমদের অন্তর্ভুক্ত হব’।",
+    "urdu": "میں نہ تم سے یہ کہتا ہوں کہ میرے پاس خدا کے خزانے ہیں اور نہ یہ کہ میں غیب جانتا ہوں اور نہ یہ کہتا ہوں کہ میں فرشتہ ہوں اور نہ ان لوگوں کی نسبت جن کو تم حقارت کی نظر سے دیکھتے ہو یہ کہتا ہوں کہ خدا ان کو بھلائی (یعنی اعمال کی جزائے نیک) نہیں دے گا جو ان کے دلوں میں ہے اسے خدا خوب جانتا ہے۔ اگر میں ایسا کہوں تو بےانصافوں میں ہوں"
+}

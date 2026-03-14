@@ -1,0 +1,42 @@
+{
+    "surahName": "Saad",
+    "surahNameArabic": "ص",
+    "surahNameArabicLong": "سورة ص",
+    "surahNameTranslation": "The letter Saad",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 38,
+    "ayahNo": 8,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/38_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/038008.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/38_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/038008.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/38_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/038008.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/38_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/038008.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/38_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/038008.mp3"
+        }
+    },
+    "english": "Has the Reminder been revealed ˹only˺ to him out of ˹all of˺ us?” In fact, they are ˹only˺ in doubt of My ˹revealed˺ Reminder. In fact, ˹they do so because˺ they have not yet tasted My punishment.",
+    "arabic1": "أَءُنزِلَ عَلَيْهِ ٱلذِّكْرُ مِنۢ بَيْنِنَا ۚ بَلْ هُمْ فِى شَكٍّ مِّن ذِكْرِى ۖ بَل لَّمَّا يَذُوقُوا۟ عَذَابِ",
+    "arabic2": "اانزل عليه الذكر من بيننا بل هم في شك من ذكري بل لما يذوقوا عذاب",
+    "bengali": "‘আমাদের মধ্য থেকে তার উপরই কি কুরআন নাযিল করা হল’? বরং তারা আমার কুরআনের ব্যাপারে সন্দেহে রয়েছে। বরং তারা এখনও আমার আযাব আস্বাদন করেনি।",
+    "urdu": "کیا ہم سب میں سے اسی پر نصیحت (کی کتاب) اُتری ہے؟ (نہیں) بلکہ یہ میری نصیحت کی کتاب سے شک میں ہیں۔ بلکہ انہوں نے ابھی میرے عذاب کا مزہ نہیں چکھا"
+}

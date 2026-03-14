@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Furqaan",
+    "surahNameArabic": "الفرقان",
+    "surahNameArabicLong": "سورة الفرقان",
+    "surahNameTranslation": "The Criterion",
+    "revelationPlace": "Mecca",
+    "totalAyah": 77,
+    "surahNo": 25,
+    "ayahNo": 19,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/25_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/025019.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/25_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/025019.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/25_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/025019.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/25_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/025019.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/25_19.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/025019.mp3"
+        }
+    },
+    "english": "˹The doomed will be told˺, “Your gods have clearly denied your claims. So now you can neither ward off ˹the punishment˺ nor get any help.” And whoever of you does wrong, We will make them taste a horrible punishment.",
+    "arabic1": "فَقَدْ كَذَّبُوكُم بِمَا تَقُولُونَ فَمَا تَسْتَطِيعُونَ صَرْفًا وَلَا نَصْرًا ۚ وَمَن يَظْلِم مِّنكُمْ نُذِقْهُ عَذَابًا كَبِيرًا",
+    "arabic2": "فقد كذبوكم بما تقولون فما تستطيعون صرفا ولا نصرا ومن يظلم منكم نذقه عذابا كبيرا",
+    "bengali": "অতঃপর তোমরা যা বল তারা তা মিথ্যা বলেছে। অতএব তোমরা আযাব ফেরাতে পারবে না এবং কোন সাহায্যও করতে পারবে না। আর তোমাদের মধ্যে যে যুলম করবে তাকে আমি মহাআযাব আস্বাদন করাব।’",
+    "urdu": "تو (کافرو) انہوں نے تو تم کو تمہاری بات میں جھٹلا دیا۔ پس (اب) تم (عذاب کو) نہ پھیر سکتے ہو۔ نہ (کسی سے) مدد لے سکتے ہو۔ اور جو شخص تم میں سے ظلم کرے گا ہم اس کو بڑے عذاب کا مزا چکھائیں گے"
+}

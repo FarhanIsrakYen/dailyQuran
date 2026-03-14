@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 41,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/4_41.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/004041.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/4_41.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/004041.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/4_41.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/004041.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/4_41.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/004041.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/4_41.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/004041.mp3"
+        }
+    },
+    "english": "So how will it be when We bring a witness from every faith-community and bring you ˹O Prophet˺ as a witness against yours?",
+    "arabic1": "فَكَيْفَ إِذَا جِئْنَا مِن كُلِّ أُمَّةٍۭ بِشَهِيدٍ وَجِئْنَا بِكَ عَلَىٰ هَـٰٓؤُلَآءِ شَهِيدًا",
+    "arabic2": "فكيف اذا جئنا من كل امة بشهيد وجئنا بك على هؤلاء شهيدا",
+    "bengali": "অতএব কেমন হবে যখন আমি প্রত্যেক উম্মত থেকে একজন সাক্ষী উপস্থিত করব এবং তোমাকে উপস্থিত করব তাদের উপর সাক্ষীরূপে?",
+    "urdu": "بھلا اس دن کا کیا حال ہوگا جب ہم ہر امت میں سے احوال بتائے والے کو بلائیں گے اور تم کو ان لوگوں کا حال (بتانے کو) گواہ طلب کریں گے"
+}

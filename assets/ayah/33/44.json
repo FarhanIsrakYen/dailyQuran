@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Ahzaab",
+    "surahNameArabic": "الأحزاب",
+    "surahNameArabicLong": "سورة الأحزاب",
+    "surahNameTranslation": "The Clans",
+    "revelationPlace": "Madina",
+    "totalAyah": 73,
+    "surahNo": 33,
+    "ayahNo": 44,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/33_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/033044.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/33_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/033044.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/33_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/033044.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/33_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/033044.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/33_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/033044.mp3"
+        }
+    },
+    "english": "Their greeting on the Day they meet Him will be, “Peace!” And He has prepared for them an honourable reward.",
+    "arabic1": "تَحِيَّتُهُمْ يَوْمَ يَلْقَوْنَهُۥ سَلَـٰمٌ ۚ وَأَعَدَّ لَهُمْ أَجْرًا كَرِيمًا",
+    "arabic2": "تحيتهم يوم يلقونه سلام واعد لهم اجرا كريما",
+    "bengali": "যেদিন তারা তাঁর সাথে সাক্ষাৎ করবে সেদিন তাদের অভিবাদন হবে: ‘সালাম’। আর তিনি তাদের জন্য প্রস্তুত রেখেছেন সম্মানজনক প্রতিদান।",
+    "urdu": "جس روز وہ اس سے ملیں گے ان کا تحفہ (خدا کی طرف سے) سلام ہوگا اور اس نے ان کے لئے بڑا ثواب تیار کر رکھا ہے"
+}

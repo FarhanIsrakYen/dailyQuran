@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Furqaan",
+    "surahNameArabic": "الفرقان",
+    "surahNameArabicLong": "سورة الفرقان",
+    "surahNameTranslation": "The Criterion",
+    "revelationPlace": "Mecca",
+    "totalAyah": 77,
+    "surahNo": 25,
+    "ayahNo": 63,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/25_63.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/025063.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/25_63.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/025063.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/25_63.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/025063.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/25_63.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/025063.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/25_63.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/025063.mp3"
+        }
+    },
+    "english": "The ˹true˺ servants of the Most Compassionate are those who walk on the earth humbly, and when the foolish address them ˹improperly˺, they only respond with peace.",
+    "arabic1": "وَعِبَادُ ٱلرَّحْمَـٰنِ ٱلَّذِينَ يَمْشُونَ عَلَى ٱلْأَرْضِ هَوْنًا وَإِذَا خَاطَبَهُمُ ٱلْجَـٰهِلُونَ قَالُوا۟ سَلَـٰمًا",
+    "arabic2": "وعباد الرحمن الذين يمشون على الارض هونا واذا خاطبهم الجاهلون قالوا سلاما",
+    "bengali": "আর রহমানের বান্দা তারাই যারা পৃথিবীতে নম্রভাবে চলাফেরা করে এবং অজ্ঞ লোকেরা যখন তাদেরকে সম্বোধন করে তখন তারা বলে ‘সালাম’।",
+    "urdu": "اور خدا کے بندے تو وہ ہیں جو زمین پر آہستگی سے چلتے ہیں اور جب جاہل لوگ ان سے (جاہلانہ) گفتگو کرتے ہیں تو سلام کہتے ہیں"
+}

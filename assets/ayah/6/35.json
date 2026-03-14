@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 35,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/6_35.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/006035.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/6_35.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/006035.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/6_35.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/006035.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/6_35.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/006035.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/6_35.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/006035.mp3"
+        }
+    },
+    "english": "If you find their denial unbearable, then build—if you can—a tunnel through the earth or stairs to the sky to bring them a ˹more compelling˺ sign. Had Allah so willed, He could have guided them all. So do not be one of those ignorant ˹of this fact˺.",
+    "arabic1": "وَإِن كَانَ كَبُرَ عَلَيْكَ إِعْرَاضُهُمْ فَإِنِ ٱسْتَطَعْتَ أَن تَبْتَغِىَ نَفَقًا فِى ٱلْأَرْضِ أَوْ سُلَّمًا فِى ٱلسَّمَآءِ فَتَأْتِيَهُم بِـَٔايَةٍ ۚ وَلَوْ شَآءَ ٱللَّهُ لَجَمَعَهُمْ عَلَى ٱلْهُدَىٰ ۚ فَلَا تَكُونَنَّ مِنَ ٱلْجَـٰهِلِينَ",
+    "arabic2": "وان كان كبر عليك اعراضهم فان استطعت ان تبتغي نفقا في الارض او سلما في السماء فتاتيهم باية ولو شاء الله لجمعهم على الهدى فلا تكونن من الجاهلين",
+    "bengali": "আর যদি তাদের উপেক্ষা তোমার উপর কঠিন মনে হয়, তাহলে যদি তুমি পার যমীনে কোন সুড়ঙ্গ অথবা আসমানে কোন সিঁড়ি অনুসন্ধান করতে, অতঃপর তাদের কাছে কোন নিদর্শন নিয়ে আসতে (তবে কর)। যদি আল্লাহ চাইতেন তিনি অবশ্যই তাদেরকে হিদায়াতের উপর একত্র করতেন। সুতরাং তুমি কখনো মূর্খদের অন্তর্ভুক্ত হয়ো না।",
+    "urdu": "اور اگر ان کی روگردانی تم پر شاق گزرتی ہے تو اگر طاقت ہو تو زمین میں کوئی سرنگ ڈھونڈ نکالو یا آسمان میں سیڑھی (تلاش کرو) پھر ان کے پاس کوئی معجزہ لاؤ۔ اور اگر خدا چاہتا تو سب کو ہدایت پر جمع کردیتا پس تم ہرگز نادانوں میں نہ ہونا"
+}

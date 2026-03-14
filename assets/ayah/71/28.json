@@ -1,0 +1,42 @@
+{
+    "surahName": "Nooh",
+    "surahNameArabic": "نوح",
+    "surahNameArabicLong": "سورة نوح",
+    "surahNameTranslation": "Noah",
+    "revelationPlace": "Mecca",
+    "totalAyah": 28,
+    "surahNo": 71,
+    "ayahNo": 28,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/71_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/071028.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/71_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/071028.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/71_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/071028.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/71_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/071028.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/71_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/071028.mp3"
+        }
+    },
+    "english": "My Lord! Forgive me, my parents, and whoever enters my house in faith, and ˹all˺ believing men and women. And increase the wrongdoers only in destruction.”",
+    "arabic1": "رَّبِّ ٱغْفِرْ لِى وَلِوَٰلِدَىَّ وَلِمَن دَخَلَ بَيْتِىَ مُؤْمِنًا وَلِلْمُؤْمِنِينَ وَٱلْمُؤْمِنَـٰتِ وَلَا تَزِدِ ٱلظَّـٰلِمِينَ إِلَّا تَبَارًۢا",
+    "arabic2": "رب اغفر لي ولوالدي ولمن دخل بيتي مؤمنا وللمؤمنين والمؤمنات ولا تزد الظالمين الا تبارا",
+    "bengali": "‘হে আমার রব! আমাকে, আমার পিতা-মাতাকে, যে আমার ঘরে ঈমানদার হয়ে প্রবেশ করবে তাকে এবং মুমিন নারী-পুরুষকে ক্ষমা করুন এবং ধ্বংস ছাড়া আপনি যালিমদের আর কিছুই বাড়িয়ে দেবেন না।’",
+    "urdu": "اے میرے پروردگار مجھ کو اور میرے ماں باپ کو اور جو ایمان لا کر میرے گھر میں آئے اس کو اور تمام ایمان والے مردوں اور ایمان والی عورتوں کو معاف فرما اور ظالم لوگوں کے لئے اور زیادہ تباہی بڑھا"
+}

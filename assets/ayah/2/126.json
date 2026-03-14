@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 126,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_126.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002126.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_126.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002126.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_126.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002126.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_126.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002126.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_126.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002126.mp3"
+        }
+    },
+    "english": "And ˹remember˺ when Abraham said, “My Lord, make this city ˹of Mecca˺ secure and provide fruits to its people—those among them who believe in Allah and the Last Day.” He answered, “As for those who disbelieve, I will let them enjoy themselves for a little while, then I will condemn them to the torment of the Fire. What an evil destination!”",
+    "arabic1": "وَإِذْ قَالَ إِبْرَٰهِـۧمُ رَبِّ ٱجْعَلْ هَـٰذَا بَلَدًا ءَامِنًا وَٱرْزُقْ أَهْلَهُۥ مِنَ ٱلثَّمَرَٰتِ مَنْ ءَامَنَ مِنْهُم بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ ۖ قَالَ وَمَن كَفَرَ فَأُمَتِّعُهُۥ قَلِيلًا ثُمَّ أَضْطَرُّهُۥٓ إِلَىٰ عَذَابِ ٱلنَّارِ ۖ وَبِئْسَ ٱلْمَصِيرُ",
+    "arabic2": "واذ قال ابراهيم رب اجعل هذا بلدا امنا وارزق اهله من الثمرات من امن منهم بالله واليوم الاخر قال ومن كفر فامتعه قليلا ثم اضطره الى عذاب النار وبئس المصير",
+    "bengali": "আর স্মরণ কর, যখন ইবরাহীম বলল, ‘হে আমার রব, আপনি একে নিরাপদ নগরী বানান এবং এর অধিবাসীদেরকে ফল-মুলের রিয্ক দিন যারা আল্লাহ ও শেষ দিনের প্রতি ঈমান এনেছে’। তিনি বললেন, ‘যে কুফরী করবে, তাকে আমি স্বল্প ভোগোপকরণ দিব। অতঃপর তাকে আগুনের আযাবে প্রবেশ করতে বাধ্য করব। আর তা কত মন্দ পরিণতি’।",
+    "urdu": "اور جب ابراہیم نے دعا کی کہ اے پروردگار، اس جگہ کو امن کا شہر بنا اور اس کے رہنے والوں میں سے جو خدا پر اور روزِ آخرت پر ایمان لائیں، ان کے کھانے کو میوے عطا کر، تو خدا نے فرمایا کہ جو کافر ہوگا، میں اس کو بھی کسی قدر متمتع کروں گا، (مگر) پھر اس کو (عذاب) دوزخ کے (بھگتنے کے) لیے ناچار کردوں گا، اور وہ بری جگہ ہے"
+}

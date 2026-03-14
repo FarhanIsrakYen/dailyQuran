@@ -1,0 +1,42 @@
+{
+    "surahName": "Hud",
+    "surahNameArabic": "هود",
+    "surahNameArabicLong": "سورة هود",
+    "surahNameTranslation": "Hud",
+    "revelationPlace": "Mecca",
+    "totalAyah": 123,
+    "surahNo": 11,
+    "ayahNo": 73,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/11_73.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/011073.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/11_73.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/011073.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/11_73.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/011073.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/11_73.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/011073.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/11_73.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/011073.mp3"
+        }
+    },
+    "english": "They responded, “Are you astonished by Allah’s decree? May Allah’s mercy and blessings be upon you, O  people of this house. Indeed, He is Praiseworthy, All-Glorious.”",
+    "arabic1": "قَالُوٓا۟ أَتَعْجَبِينَ مِنْ أَمْرِ ٱللَّهِ ۖ رَحْمَتُ ٱللَّهِ وَبَرَكَـٰتُهُۥ عَلَيْكُمْ أَهْلَ ٱلْبَيْتِ ۚ إِنَّهُۥ حَمِيدٌ مَّجِيدٌ",
+    "arabic2": "قالوا اتعجبين من امر الله رحمت الله وبركاته عليكم اهل البيت انه حميد مجيد",
+    "bengali": "তারা বলল, ‘আল্লাহর সিদ্ধান্তে তুমি আশ্চর্য হচ্ছ? হে নবী পরিবার, তোমাদের উপর আল্লাহর রহমত ও তাঁর বরকত। নিশ্চয় তিনি প্রশংসিত সম্মানিত’।",
+    "urdu": "انہوں نے کہا کیا تم خدا کی قدرت سے تعجب کرتی ہو؟ اے اہل بیت تم پر خدا کی رحمت اور اس کی برکتیں ہیں۔ وہ سزاوار تعریف اور بزرگوار ہے"
+}

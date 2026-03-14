@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Furqaan",
+    "surahNameArabic": "الفرقان",
+    "surahNameArabicLong": "سورة الفرقان",
+    "surahNameTranslation": "The Criterion",
+    "revelationPlace": "Mecca",
+    "totalAyah": 77,
+    "surahNo": 25,
+    "ayahNo": 60,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/25_60.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/025060.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/25_60.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/025060.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/25_60.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/025060.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/25_60.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/025060.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/25_60.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/025060.mp3"
+        }
+    },
+    "english": "When it is said to them, “Prostrate to the Most Compassionate,” they ask ˹in disgust˺, “What is ‘the Most Compassionate’? Will we prostrate to whatever you order us to?” And it only drives them farther away.",
+    "arabic1": "وَإِذَا قِيلَ لَهُمُ ٱسْجُدُوا۟ لِلرَّحْمَـٰنِ قَالُوا۟ وَمَا ٱلرَّحْمَـٰنُ أَنَسْجُدُ لِمَا تَأْمُرُنَا وَزَادَهُمْ نُفُورًا ۩",
+    "arabic2": "واذا قيل لهم اسجدوا للرحمن قالوا وما الرحمن انسجد لما تامرنا وزادهم نفورا",
+    "bengali": "আর যখন তাদেরকে বলা হয়, তোমরা ‘রহমান’ কে সিজদা কর, তখন তারা বলে, রহমান কী আবার? তুমি আমাদেরকে আদেশ করলেই কি আমরা সিজদা করব? আর এটা তাদের পলায়নপরতাই বৃদ্ধি করে।[সাজদাহ]",
+    "urdu": "اور جب ان (کفار) سے کہا جاتا ہے کہ رحمٰن کو سجدہ کرو تو کہتے ہیں رحمٰن کیا؟ کیا جس کے لئے تم ہم سے کہتے ہو ہم اس کے آگے سجدہ کریں اور اس سے بدکتے ہیں"
+}

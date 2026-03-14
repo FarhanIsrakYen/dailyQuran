@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 82,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/7_82.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/007082.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/7_82.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/007082.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/7_82.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/007082.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/7_82.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/007082.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/7_82.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/007082.mp3"
+        }
+    },
+    "english": "But his people’s only response was to say, “Expel them from your land! They are a people who wish to remain chaste!”",
+    "arabic1": "وَمَا كَانَ جَوَابَ قَوْمِهِۦٓ إِلَّآ أَن قَالُوٓا۟ أَخْرِجُوهُم مِّن قَرْيَتِكُمْ ۖ إِنَّهُمْ أُنَاسٌ يَتَطَهَّرُونَ",
+    "arabic2": "وما كان جواب قومه الا ان قالوا اخرجوهم من قريتكم انهم اناس يتطهرون",
+    "bengali": "আর তার কওমের উত্তর কেবল এই ছিল যে, তারা বলল, ‘তাদেরকে তোমরা তোমাদের জনপদ থেকে বের করে দাও। নিশ্চয় তারা এমন লোক, যারা অতি পবিত্র হতে চায়’।",
+    "urdu": "تو ان سے اس کا جواب کچھ نہ بن پڑا اور بولے تو یہ بولے کہ ان لوگوں (یعنی لوط اور اس کے گھر والوں) کو اپنے گاؤں سے نکال دو (کہ) یہ لوگ پاک بننا چاہتے ہیں"
+}

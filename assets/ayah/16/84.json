@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nahl",
+    "surahNameArabic": "النحل",
+    "surahNameArabicLong": "سورة النحل",
+    "surahNameTranslation": "The Bee",
+    "revelationPlace": "Mecca",
+    "totalAyah": 128,
+    "surahNo": 16,
+    "ayahNo": 84,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/16_84.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/016084.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/16_84.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/016084.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/16_84.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/016084.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/16_84.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/016084.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/16_84.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/016084.mp3"
+        }
+    },
+    "english": "˹Consider, O  Prophet,˺ the Day We will call ˹a prophet as˺ a witness from every faith-community. Then the disbelievers will neither be allowed to plead nor appease ˹their Lord˺.",
+    "arabic1": "وَيَوْمَ نَبْعَثُ مِن كُلِّ أُمَّةٍ شَهِيدًا ثُمَّ لَا يُؤْذَنُ لِلَّذِينَ كَفَرُوا۟ وَلَا هُمْ يُسْتَعْتَبُونَ",
+    "arabic2": "ويوم نبعث من كل امة شهيدا ثم لا يؤذن للذين كفروا ولا هم يستعتبون",
+    "bengali": "আর স্মরণ কর, যেদিন আমি প্রত্যেক উম্মত থেকে সাক্ষী উত্থিত করব। তারপর যারা কুফরী করেছে, তাদেরকে (ওযর পেশের) অনুমতি দেয়া হবে না এবং (আল্লাহকে) সন্তুষ্ট করতেও তাদেরকে বলা হবে না।",
+    "urdu": "اور جس دن ہم ہر اُمت میں سے گواہ (یعنی پیغمبر) کھڑا کریں گے تو نہ تو کفار کو (بولنے کی) اجازت ملے گی اور نہ اُن کے عذر قبول کئے جائیں گے"
+}

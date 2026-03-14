@@ -1,0 +1,42 @@
+{
+    "surahName": "Yusuf",
+    "surahNameArabic": "يوسف",
+    "surahNameArabicLong": "سورة يوسف",
+    "surahNameTranslation": "Joseph",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 12,
+    "ayahNo": 5,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/12_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/012005.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/12_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/012005.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/12_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/012005.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/12_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/012005.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/12_5.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/012005.mp3"
+        }
+    },
+    "english": "He replied, “O my dear son! Do not relate your vision to your brothers, or they will devise a plot against you. Surely Satan is a sworn enemy to humankind.",
+    "arabic1": "قَالَ يَـٰبُنَىَّ لَا تَقْصُصْ رُءْيَاكَ عَلَىٰٓ إِخْوَتِكَ فَيَكِيدُوا۟ لَكَ كَيْدًا ۖ إِنَّ ٱلشَّيْطَـٰنَ لِلْإِنسَـٰنِ عَدُوٌّ مُّبِينٌ",
+    "arabic2": "قال يا بني لا تقصص رؤياك على اخوتك فيكيدوا لك كيدا ان الشيطان للانسان عدو مبين",
+    "bengali": "সে বলল, ‘হে আমার পুত্র, তুমি তোমার ভাইদের নিকট তোমার স্বপ্নের বর্ণনা দিও না, তাহলে তারা তোমার বিরুদ্ধে গভীর ষড়যন্ত্র করবে। নিশ্চয় শয়তান মানুষের প্রকাশ্য দুশমন’।",
+    "urdu": "انہوں نے کہا کہ بیٹا اپنے خواب کا ذکر اپنے بھائیوں سے نہ کرنا نہیں تو وہ تمہارے حق میں کوئی فریب کی چال چلیں گے۔ کچھ شک نہیں کہ شیطان انسان کا کھلا دشمن ہے"
+}

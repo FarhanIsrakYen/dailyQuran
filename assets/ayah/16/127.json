@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nahl",
+    "surahNameArabic": "النحل",
+    "surahNameArabicLong": "سورة النحل",
+    "surahNameTranslation": "The Bee",
+    "revelationPlace": "Mecca",
+    "totalAyah": 128,
+    "surahNo": 16,
+    "ayahNo": 127,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/16_127.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/016127.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/16_127.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/016127.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/16_127.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/016127.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/16_127.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/016127.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/16_127.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/016127.mp3"
+        }
+    },
+    "english": "Be patient ˹O Prophet˺, for your patience is only with Allah’s help. Do not grieve over those ˹who disbelieve˺, nor be distressed by their schemes.",
+    "arabic1": "وَٱصْبِرْ وَمَا صَبْرُكَ إِلَّا بِٱللَّهِ ۚ وَلَا تَحْزَنْ عَلَيْهِمْ وَلَا تَكُ فِى ضَيْقٍ مِّمَّا يَمْكُرُونَ",
+    "arabic2": "واصبر وما صبرك الا بالله ولا تحزن عليهم ولا تك في ضيق مما يمكرون",
+    "bengali": "আর তুমি সবর কর। তোমার সবর তো শুধু আল্লাহর তাওফীকেই। তারা যেসব ষড়যন্ত্র করছে তুমি সে বিষয়ে সংকীর্ণমনা হয়ো না।",
+    "urdu": "اور صبر ہی کرو اور تمہارا صبر بھی خدا ہی کی مدد سے ہے اور ان کے بارے میں غم نہ کرو اور جو یہ بداندیشی کرتے ہیں اس سے تنگدل نہ ہو"
+}

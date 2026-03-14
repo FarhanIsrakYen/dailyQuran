@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nahl",
+    "surahNameArabic": "النحل",
+    "surahNameArabicLong": "سورة النحل",
+    "surahNameTranslation": "The Bee",
+    "revelationPlace": "Mecca",
+    "totalAyah": 128,
+    "surahNo": 16,
+    "ayahNo": 60,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/16_60.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/016060.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/16_60.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/016060.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/16_60.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/016060.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/16_60.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/016060.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/16_60.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/016060.mp3"
+        }
+    },
+    "english": "To those who disbelieve in the Hereafter belong all evil qualities, whereas to Allah belong the finest attributes. And He is the Almighty, All-Wise.",
+    "arabic1": "لِلَّذِينَ لَا يُؤْمِنُونَ بِٱلْـَٔاخِرَةِ مَثَلُ ٱلسَّوْءِ ۖ وَلِلَّهِ ٱلْمَثَلُ ٱلْأَعْلَىٰ ۚ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+    "arabic2": "للذين لا يؤمنون بالاخرة مثل السوء ولله المثل الاعلى وهو العزيز الحكيم",
+    "bengali": "যারা আখিরাতে বিশ্বাস করে না, তাদের জন্য মন্দ উদাহরণ এবং আল্লাহর জন্য রয়েছে মহান উদাহরণ। আর তিনিই পরাক্রমশালী, মহাজ্ঞানী।",
+    "urdu": "جو لوگ آخرت پر ایمان نہیں رکھتے ان ہی کے لیے بری باتیں (شایان) ہیں۔ اور خدا کو صفت اعلیٰ (زیب دیتی ہے) اور وہ غالب حکمت والا ہے"
+}

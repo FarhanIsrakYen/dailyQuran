@@ -1,0 +1,42 @@
+{
+    "surahName": "Yunus",
+    "surahNameArabic": "يونس",
+    "surahNameArabicLong": "سورة يونس",
+    "surahNameTranslation": "Jonas",
+    "revelationPlace": "Mecca",
+    "totalAyah": 109,
+    "surahNo": 10,
+    "ayahNo": 101,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/10_101.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/010101.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/10_101.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/010101.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/10_101.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/010101.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/10_101.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/010101.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/10_101.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/010101.mp3"
+        }
+    },
+    "english": "Say, ˹O Prophet,˺ “Consider all that is in the heavens and the earth!” Yet neither signs nor warners are of any benefit to those who refuse to believe.",
+    "arabic1": "قُلِ ٱنظُرُوا۟ مَاذَا فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ وَمَا تُغْنِى ٱلْـَٔايَـٰتُ وَٱلنُّذُرُ عَن قَوْمٍ لَّا يُؤْمِنُونَ",
+    "arabic2": "قل انظروا ماذا في السماوات والارض وما تغني الايات والنذر عن قوم لا يؤمنون",
+    "bengali": "বল, ‘আসমানসমূহ ও যমীনে কী আছে তা তাকিয়ে দেখ। আর নিদর্শনসমূহ ও সতর্ককারীগণ এমন কওমের কাজে আসে না, যারা ঈমান আনে না’।",
+    "urdu": "(ان کفار سے) کہو دیکھو تو زمین اور آسمانوں میں کیا کچھ ہے۔ مگر جو لوگ ایمان نہیں رکھتے ان کی نشانیاں اور ڈرواے کچھ کام نہیں آتے"
+}

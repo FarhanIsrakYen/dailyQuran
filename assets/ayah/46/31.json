@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Ahqaf",
+    "surahNameArabic": "الأحقاف",
+    "surahNameArabicLong": "سورة الأحقاف",
+    "surahNameTranslation": "The Dunes",
+    "revelationPlace": "Mecca",
+    "totalAyah": 35,
+    "surahNo": 46,
+    "ayahNo": 31,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/46_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/046031.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/46_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/046031.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/46_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/046031.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/46_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/046031.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/46_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/046031.mp3"
+        }
+    },
+    "english": "O  our fellow jinn! Respond to the caller of Allah and believe in him, He will forgive your sins and protect you from a painful punishment.",
+    "arabic1": "يَـٰقَوْمَنَآ أَجِيبُوا۟ دَاعِىَ ٱللَّهِ وَءَامِنُوا۟ بِهِۦ يَغْفِرْ لَكُم مِّن ذُنُوبِكُمْ وَيُجِرْكُم مِّنْ عَذَابٍ أَلِيمٍ",
+    "arabic2": "يا قومنا اجيبوا داعي الله وامنوا به يغفر لكم من ذنوبكم ويجركم من عذاب اليم",
+    "bengali": "‘হে আমাদের কওম, আল্লাহর দিকে আহবানকারীর প্রতি সাড়া দাও এবং তার প্রতি ঈমান আন, আল্লাহ তোমাদের পাপসমূহ ক্ষমা করবেন। আর তোমাদেরকে যন্ত্রণাদায়ক আযাব থেকে রক্ষা করবেন’।",
+    "urdu": "اے قوم! خدا کی طرف بلانے والے کی بات قبول کرو اور اس پر ایمان لاؤ۔ خدا تمہارے گناہ بخش دے گا اور تمہیں دکھ دینے والے عذاب سے پناہ میں رکھے گا"
+}

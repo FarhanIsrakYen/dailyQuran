@@ -1,0 +1,42 @@
+{
+    "surahName": "As-Saff",
+    "surahNameArabic": "الصف",
+    "surahNameArabicLong": "سورة الصف",
+    "surahNameTranslation": "The Ranks",
+    "revelationPlace": "Madina",
+    "totalAyah": 14,
+    "surahNo": 61,
+    "ayahNo": 11,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/61_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/061011.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/61_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/061011.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/61_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/061011.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/61_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/061011.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/61_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/061011.mp3"
+        }
+    },
+    "english": "˹It is to˺ have faith in Allah and His Messenger, and strive in the cause of Allah with your wealth and your lives. That is best for you, if only you knew.",
+    "arabic1": "تُؤْمِنُونَ بِٱللَّهِ وَرَسُولِهِۦ وَتُجَـٰهِدُونَ فِى سَبِيلِ ٱللَّهِ بِأَمْوَٰلِكُمْ وَأَنفُسِكُمْ ۚ ذَٰلِكُمْ خَيْرٌ لَّكُمْ إِن كُنتُمْ تَعْلَمُونَ",
+    "arabic2": "تؤمنون بالله ورسوله وتجاهدون في سبيل الله باموالكم وانفسكم ذلكم خير لكم ان كنتم تعلمون",
+    "bengali": "তোমরা আল্লাহর প্রতি ও তাঁর রাসূলের প্রতি ঈমান আনবে এবং তোমরা তোমাদের ধন-সম্পদ ও জীবন দিয়ে আল্লাহর পথে জিহাদ করবে। এটাই তোমাদের জন্য কল্যাণকর, যদি তোমরা জানতে।",
+    "urdu": "(وہ یہ کہ) خدا پر اور اس کے رسولﷺ پر ایمان لاؤ اور خدا کی راہ میں اپنے مال اور جان سے جہاد کرو۔ اگر سمجھو تو یہ تمہارے حق میں بہتر ہے"
+}

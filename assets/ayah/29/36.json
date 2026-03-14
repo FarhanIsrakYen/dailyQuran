@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Ankaboot",
+    "surahNameArabic": "العنكبوت",
+    "surahNameArabicLong": "سورة العنكبوت",
+    "surahNameTranslation": "The Spider",
+    "revelationPlace": "Mecca",
+    "totalAyah": 69,
+    "surahNo": 29,
+    "ayahNo": 36,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/29_36.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/029036.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/29_36.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/029036.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/29_36.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/029036.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/29_36.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/029036.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/29_36.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/029036.mp3"
+        }
+    },
+    "english": "And to the people of Midian ˹We sent˺ their brother Shu’aib. He said, “O my people! Worship Allah, and hope for ˹the reward of˺ the Last Day. And do not go about spreading corruption in the land.”",
+    "arabic1": "وَإِلَىٰ مَدْيَنَ أَخَاهُمْ شُعَيْبًا فَقَالَ يَـٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ وَٱرْجُوا۟ ٱلْيَوْمَ ٱلْـَٔاخِرَ وَلَا تَعْثَوْا۟ فِى ٱلْأَرْضِ مُفْسِدِينَ",
+    "arabic2": "والى مدين اخاهم شعيبا فقال يا قوم اعبدوا الله وارجوا اليوم الاخر ولا تعثوا في الارض مفسدين",
+    "bengali": "আর মাদইয়ানবাসীর কাছে পাঠিয়েছিলাম তাদের ভাই শু‘আইবকে; অতঃপর সে বলল, ‘হে আমার কওম, তোমরা আল্লাহর ইবাদাত কর, শেষ দিবসের আশা কর এবং যমীনে ফাসাদ সৃষ্টি করে বেড়িও না।",
+    "urdu": "اور مدین کی طرف اُن کے بھائی شعیب کو (بھیجا) تو اُنہوں نے کہا (اے قوم) خدا کی عبادت کرو اور پچھلے دن کے آنے کی اُمید رکھو اور ملک میں فساد نہ مچاؤ"
+}

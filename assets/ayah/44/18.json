@@ -1,0 +1,42 @@
+{
+    "surahName": "Ad-Dukhaan",
+    "surahNameArabic": "الدخان",
+    "surahNameArabicLong": "سورة الدخان",
+    "surahNameTranslation": "The Smoke",
+    "revelationPlace": "Mecca",
+    "totalAyah": 59,
+    "surahNo": 44,
+    "ayahNo": 18,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/44_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/044018.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/44_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/044018.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/44_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/044018.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/44_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/044018.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/44_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/044018.mp3"
+        }
+    },
+    "english": "˹proclaiming,˺ “Hand over the servants of Allah to me. I am truly a trustworthy messenger to you.",
+    "arabic1": "أَنْ أَدُّوٓا۟ إِلَىَّ عِبَادَ ٱللَّهِ ۖ إِنِّى لَكُمْ رَسُولٌ أَمِينٌ",
+    "arabic2": "ان ادوا الي عباد الله اني لكم رسول امين",
+    "bengali": "(সে বলেছিল) ‘আল্লাহর বান্দাদেরকে আমার কাছে ফিরিয়ে দাও; নিশ্চয় আমি তোমাদের জন্য এক বিশ্বস্ত রাসূল।’",
+    "urdu": "(جنہوں نے) یہ (کہا) کہ خدا کے بندوں (یعنی بنی اسرائیل) کو میرے حوالے کردو میں تمہارا امانت دار پیغمبر ہوں"
+}

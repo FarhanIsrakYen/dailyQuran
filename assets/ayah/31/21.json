@@ -1,0 +1,42 @@
+{
+    "surahName": "Luqman",
+    "surahNameArabic": "لقمان",
+    "surahNameArabicLong": "سورة لقمان",
+    "surahNameTranslation": "Luqman",
+    "revelationPlace": "Mecca",
+    "totalAyah": 34,
+    "surahNo": 31,
+    "ayahNo": 21,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/31_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/031021.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/31_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/031021.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/31_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/031021.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/31_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/031021.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/31_21.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/031021.mp3"
+        }
+    },
+    "english": "When it is said to them, “Follow what Allah has revealed,” they reply, “No! We ˹only˺ follow what we found our forefathers practicing.” ˹Would they still do so˺ even if Satan is inviting them to the torment of the Blaze?",
+    "arabic1": "وَإِذَا قِيلَ لَهُمُ ٱتَّبِعُوا۟ مَآ أَنزَلَ ٱللَّهُ قَالُوا۟ بَلْ نَتَّبِعُ مَا وَجَدْنَا عَلَيْهِ ءَابَآءَنَآ ۚ أَوَلَوْ كَانَ ٱلشَّيْطَـٰنُ يَدْعُوهُمْ إِلَىٰ عَذَابِ ٱلسَّعِيرِ",
+    "arabic2": "واذا قيل لهم اتبعوا ما انزل الله قالوا بل نتبع ما وجدنا عليه اباءنا اولو كان الشيطان يدعوهم الى عذاب السعير",
+    "bengali": "আর যখন তাদেরকে বলা হয়, ‘আল্লাহ যা নাযিল করেছেন তোমরা তার অনুসরণ কর’ তখন তারা বলে, ‘বরং আমরা তার অনুসরণ করব যার ওপর আমাদের পিতৃপুরুষদেরকে পেয়েছি।’ শয়তান তাদেরকে প্রজ্বলিত আযাবের দিকে আহবান করলেও কি (তারা পিতৃপুরুষদেরকে অনুসরণ করবে)?",
+    "urdu": "اور جب اُن سے کہا جاتا ہے کہ جو (کتاب) خدا نے نازل فرمائی ہے اُس کی پیروی کرو۔ تو کہتے ہیں کہ ہم تو اسی کی پیروی کریں گے جس پر اپنے باپ دادا کو پایا۔ بھلا اگرچہ شیطان ان کو دوزخ کے عذاب کی طرف بلاتا ہو (تب بھی؟)"
+}

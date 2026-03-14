@@ -1,0 +1,42 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 126,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/3_126.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/003126.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/3_126.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/003126.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/3_126.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/003126.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/3_126.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/003126.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/3_126.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/003126.mp3"
+        }
+    },
+    "english": "Allah ordained this ˹reinforcement˺ only as good news for you and reassurance for your hearts. And victory comes only from Allah—the Almighty, All-Wise—",
+    "arabic1": "وَمَا جَعَلَهُ ٱللَّهُ إِلَّا بُشْرَىٰ لَكُمْ وَلِتَطْمَئِنَّ قُلُوبُكُم بِهِۦ ۗ وَمَا ٱلنَّصْرُ إِلَّا مِنْ عِندِ ٱللَّهِ ٱلْعَزِيزِ ٱلْحَكِيمِ",
+    "arabic2": "وما جعله الله الا بشرى لكم ولتطمئن قلوبكم به وما النصر الا من عند الله العزيز الحكيم",
+    "bengali": "আর আল্লাহ তোমাদের জন্য তা কেবল সুসংবাদস্বরূপ নির্ধারণ করেছেন এবং যাতে তোমাদের অন্তরসমূহ এর দ্বারা প্রশান্ত হয়। আর সাহায্য কেবল পরাক্রমশালী প্রজ্ঞাময় আল্লাহর পক্ষ থেকে।",
+    "urdu": "اور اس مدد کو خدا نے تمھارے لیے (ذریعہٴ) بشارت بنایا یعنی اس لیے کہ تمہارے دلوں کو اس سے تسلی حاصل ہو ورنہ مدد تو خدا ہی کی ہے جو غالب (اور) حکمت والا ہے"
+}

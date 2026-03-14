@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Maaida",
+    "surahNameArabic": "المائدة",
+    "surahNameArabicLong": "سورة المائدة",
+    "surahNameTranslation": "The Table",
+    "revelationPlace": "Madina",
+    "totalAyah": 120,
+    "surahNo": 5,
+    "ayahNo": 115,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/5_115.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/005115.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/5_115.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/005115.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/5_115.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/005115.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/5_115.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/005115.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/5_115.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/005115.mp3"
+        }
+    },
+    "english": "Allah answered, “I am sending it down to you. But whoever among you denies afterwards will be subjected to a torment I have never inflicted on anyone of My creation.”",
+    "arabic1": "قَالَ ٱللَّهُ إِنِّى مُنَزِّلُهَا عَلَيْكُمْ ۖ فَمَن يَكْفُرْ بَعْدُ مِنكُمْ فَإِنِّىٓ أُعَذِّبُهُۥ عَذَابًا لَّآ أُعَذِّبُهُۥٓ أَحَدًا مِّنَ ٱلْعَـٰلَمِينَ",
+    "arabic2": "قال الله اني منزلها عليكم فمن يكفر بعد منكم فاني اعذبه عذابا لا اعذبه احدا من العالمين",
+    "bengali": "আল্লাহ বললেন, ‘নিশ্চয় আমি তোমাদের প্রতি তা নাযিল করব; কিন্তু এরপর তোমাদের মধ্যে যে কুফরী করবে তাকে নিশ্চয় আমি এমন আযাব দেব, যে আযাব সৃষ্টিকুলের কাউকে দেব না।’",
+    "urdu": "خدا نے فرمایا میں تم پر ضرور خوان نازل فرماؤں گا لیکن جو اس کے بعد تم میں سے کفر کرے گا اسے ایسا عذاب دوں گا کہ اہل عالم میں کسی کو ایسا عذاب نہ دوں گا"
+}

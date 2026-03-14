@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Ahqaf",
+    "surahNameArabic": "الأحقاف",
+    "surahNameArabicLong": "سورة الأحقاف",
+    "surahNameTranslation": "The Dunes",
+    "revelationPlace": "Mecca",
+    "totalAyah": 35,
+    "surahNo": 46,
+    "ayahNo": 12,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/46_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/046012.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/46_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/046012.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/46_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/046012.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/46_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/046012.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/46_12.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/046012.mp3"
+        }
+    },
+    "english": "And before this ˹Quran˺ the Book of Moses was ˹revealed as˺ a guide and mercy. And this Book is a confirmation, in the Arabic tongue, to warn those who do wrong, and as good news to those who do good.",
+    "arabic1": "وَمِن قَبْلِهِۦ كِتَـٰبُ مُوسَىٰٓ إِمَامًا وَرَحْمَةً ۚ وَهَـٰذَا كِتَـٰبٌ مُّصَدِّقٌ لِّسَانًا عَرَبِيًّا لِّيُنذِرَ ٱلَّذِينَ ظَلَمُوا۟ وَبُشْرَىٰ لِلْمُحْسِنِينَ",
+    "arabic2": "ومن قبله كتاب موسى اماما ورحمة وهذا كتاب مصدق لسانا عربيا لينذر الذين ظلموا وبشرى للمحسنين",
+    "bengali": "আর এর পূর্বে এসেছিল মূসার কিতাব পথপ্রদর্শক ও রহমতস্বরূপ। আর এটি তার সত্যায়নকারী কিতাব, আরবী ভাষায়; যাতে এটা যালিমদেরকে সতর্ক করতে পারে এবং তা ইনসাফকারীদের জন্য এক সুসংবাদ।",
+    "urdu": "اور اس سے پہلے موسیٰ کی کتاب تھی (لوگوں کے لئے) رہنما اور رحمت۔ اور یہ کتاب عربی زبان میں ہے اسی کی تصدیق کرنے والی تاکہ ظالموں کو ڈرائے۔ اور نیکوکاروں کو خوشخبری سنائے"
+}

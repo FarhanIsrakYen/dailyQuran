@@ -1,0 +1,42 @@
+{
+    "surahName": "Saad",
+    "surahNameArabic": "ص",
+    "surahNameArabicLong": "سورة ص",
+    "surahNameTranslation": "The letter Saad",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 38,
+    "ayahNo": 22,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/38_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/038022.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/38_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/038022.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/38_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/038022.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/38_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/038022.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/38_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/038022.mp3"
+        }
+    },
+    "english": "When they came into David’s presence, he was startled by them. They said, “Have no fear. ˹We are merely˺ two in a dispute: one of us has wronged the other. So judge between us with truth—do not go beyond ˹it˺—and guide us to the right way.",
+    "arabic1": "إِذْ دَخَلُوا۟ عَلَىٰ دَاوُۥدَ فَفَزِعَ مِنْهُمْ ۖ قَالُوا۟ لَا تَخَفْ ۖ خَصْمَانِ بَغَىٰ بَعْضُنَا عَلَىٰ بَعْضٍ فَٱحْكُم بَيْنَنَا بِٱلْحَقِّ وَلَا تُشْطِطْ وَٱهْدِنَآ إِلَىٰ سَوَآءِ ٱلصِّرَٰطِ",
+    "arabic2": "اذ دخلوا على داوود ففزع منهم قالوا لا تخف خصمان بغى بعضنا على بعض فاحكم بيننا بالحق ولا تشطط واهدنا الى سواء الصراط",
+    "bengali": "যখন তারা দাঊদের কাছে প্রবেশ করল, তখন সে তাদের ভয় পেয়ে গেল। তারা বলল ‘আপনি ভয় করবেন না, আমরা বিবদমান দু’পক্ষ। আমাদের একে অন্যের উপর সীমালঙ্ঘন করেছে। অতএব আপনি আমাদের মধ্যে ন্যায়বিচার করুন, অবিচার করবেন না। আর আমাদেরকে সরল পথের নির্দেশনা দিন’।",
+    "urdu": "جس وقت وہ داؤد کے پاس آئے تو وہ ان سے گھبرا گئے انہوں نے کہا کہ خوف نہ کیجیئے۔ ہم دونوں کا ایک مقدمہ ہے کہ ہم میں سے ایک نے دوسرے پر زیادتی کی ہے تو آپ ہم میں انصاف کا فیصلہ کر دیجیئے اور بےانصافی نہ کیجیئے گا اور ہم کو سیدھا رستہ دکھا دیجیئے"
+}

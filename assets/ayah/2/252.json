@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 252,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_252.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002252.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_252.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002252.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_252.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002252.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_252.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002252.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_252.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002252.mp3"
+        }
+    },
+    "english": "These are Allah’s revelations which We recite to you ˹O Prophet˺ in truth. And you are truly one of the messengers.",
+    "arabic1": "تِلْكَ ءَايَـٰتُ ٱللَّهِ نَتْلُوهَا عَلَيْكَ بِٱلْحَقِّ ۚ وَإِنَّكَ لَمِنَ ٱلْمُرْسَلِينَ",
+    "arabic2": "تلك ايات الله نتلوها عليك بالحق وانك لمن المرسلين",
+    "bengali": "এগুলো আল্লাহর আয়াত, যা আমি তোমার উপর যথাযথভাবে তিলাওয়াত করি। আর নিশ্চয় তুমি রাসূলগণের অন্তর্ভুক্ত।",
+    "urdu": "یہ خدا کی آیتیں ہیں جو ہم تم کو سچائی کے ساتھ پڑھ کر سناتے ہیں (اور اے محمدﷺ) تم بلاشبہ پیغمبروں میں سے ہو"
+}

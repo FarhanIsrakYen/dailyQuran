@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Maaida",
+    "surahNameArabic": "المائدة",
+    "surahNameArabicLong": "سورة المائدة",
+    "surahNameTranslation": "The Table",
+    "revelationPlace": "Madina",
+    "totalAyah": 120,
+    "surahNo": 5,
+    "ayahNo": 11,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/5_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/005011.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/5_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/005011.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/5_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/005011.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/5_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/005011.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/5_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/005011.mp3"
+        }
+    },
+    "english": "O believers! Remember Allah’s favour upon you: when a people sought to harm you, but He held their hands back from you. Be mindful of Allah. And in Allah let the believers put their trust.",
+    "arabic1": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱذْكُرُوا۟ نِعْمَتَ ٱللَّهِ عَلَيْكُمْ إِذْ هَمَّ قَوْمٌ أَن يَبْسُطُوٓا۟ إِلَيْكُمْ أَيْدِيَهُمْ فَكَفَّ أَيْدِيَهُمْ عَنكُمْ ۖ وَٱتَّقُوا۟ ٱللَّهَ ۚ وَعَلَى ٱللَّهِ فَلْيَتَوَكَّلِ ٱلْمُؤْمِنُونَ",
+    "arabic2": "يا ايها الذين امنوا اذكروا نعمت الله عليكم اذ هم قوم ان يبسطوا اليكم ايديهم فكف ايديهم عنكم واتقوا الله وعلى الله فليتوكل المؤمنون",
+    "bengali": "হে মুমিনগণ, তোমরা স্মরণ কর তোমাদের উপর আল্লাহর নিআমত, যখন একটি কওম তোমাদের প্রতি তাদের হাত প্রসারিত করতে মনস্থ করল; কিন্তু তিনি তাদের হাতকে তোমাদের থেকে নিবৃত্ত রাখলেন। আর তোমরা আল্লাহকে ভয় কর এবং আল্লাহর উপরই মুমিনরা যেন তাওয়াক্কুল করে।",
+    "urdu": "اے ایمان والو! خدا نے جو تم پر احسان کیا ہے اس کو یاد کرو۔ جب ایک جماعت نے ارادہ کیا کہ تم پر دست درازی کریں تو اس نے ان کے ہاتھ روک دیئے اور خدا سے ڈرتے رہوں اور مومنو کو خدا ہی پر بھروسہ رکھنا چاہیئے"
+}

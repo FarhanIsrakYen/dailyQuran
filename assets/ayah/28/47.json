@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Qasas",
+    "surahNameArabic": "القصص",
+    "surahNameArabicLong": "سورة القصص",
+    "surahNameTranslation": "The Stories",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 28,
+    "ayahNo": 47,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/28_47.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/028047.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/28_47.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/028047.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/28_47.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/028047.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/28_47.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/028047.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/28_47.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/028047.mp3"
+        }
+    },
+    "english": "Also so they would not say, if struck by an affliction for what their hands have done: “Our Lord! If only You had sent us a messenger, we would have followed Your revelations and become believers.”",
+    "arabic1": "وَلَوْلَآ أَن تُصِيبَهُم مُّصِيبَةٌۢ بِمَا قَدَّمَتْ أَيْدِيهِمْ فَيَقُولُوا۟ رَبَّنَا لَوْلَآ أَرْسَلْتَ إِلَيْنَا رَسُولًا فَنَتَّبِعَ ءَايَـٰتِكَ وَنَكُونَ مِنَ ٱلْمُؤْمِنِينَ",
+    "arabic2": "ولولا ان تصيبهم مصيبة بما قدمت ايديهم فيقولوا ربنا لولا ارسلت الينا رسولا فنتبع اياتك ونكون من المؤمنين",
+    "bengali": "তাদের কৃতকর্মের কারণে তাদের উপর কোন বিপদ আসলে তারা যাতে বলতে না পারে, ‘হে আমাদের রব, আপনি আমাদের কাছে কোন রাসূল পাঠালেন না কেন? তাহলে আমরা আপনার আয়াতসমূহ অনুসরণ করতাম আর আমরা মুমিনদের অন্তর্ভুর্ক্ত হতাম’।",
+    "urdu": "اور (اے پیغمبر ہم نے تو کو اس لئے بھیجا ہے کہ) ایسا نہ ہو کہ اگر ان (اعمال) کے سبب جو اُن کے ہاتھ آگے بھیج چکے ہیں ان پر کوئی مصیبت واقع ہو تو یہ کہنے لگیں کہ اے پروردگار تو نے ہماری طرف کوئی پیغمبر کیوں نہ بھیجا کہ ہم تیری آیتوں کی پیروی کرنے اور ایمان لانے والوں میں ہوتے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 33,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/7_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/007033.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/7_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/007033.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/7_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/007033.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/7_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/007033.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/7_33.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/007033.mp3"
+        }
+    },
+    "english": "Say, “My Lord has only forbidden open and secret indecencies, sinfulness, unjust aggression, associating ˹others˺ with Allah ˹in worship˺—a practice He has never authorized—and attributing to Allah what you do not know.”",
+    "arabic1": "قُلْ إِنَّمَا حَرَّمَ رَبِّىَ ٱلْفَوَٰحِشَ مَا ظَهَرَ مِنْهَا وَمَا بَطَنَ وَٱلْإِثْمَ وَٱلْبَغْىَ بِغَيْرِ ٱلْحَقِّ وَأَن تُشْرِكُوا۟ بِٱللَّهِ مَا لَمْ يُنَزِّلْ بِهِۦ سُلْطَـٰنًا وَأَن تَقُولُوا۟ عَلَى ٱللَّهِ مَا لَا تَعْلَمُونَ",
+    "arabic2": "قل انما حرم ربي الفواحش ما ظهر منها وما بطن والاثم والبغي بغير الحق وان تشركوا بالله ما لم ينزل به سلطانا وان تقولوا على الله ما لا تعلمون",
+    "bengali": "বল,‘আমার রব তো হারাম করেছেন অশ্লীল কাজ- যা প্রকাশ পায় এবং যা গোপন থাকে, আর পাপ ও অন্যায়ভাবে সীমালঙ্ঘন এবং আল্লাহর সাথে তোমাদের শরীক করা, যে ব্যাপারে আল্লাহ কোন প্রমাণ অবতীর্ণ করেননি এবং আল্লাহর উাপরে এমন কিছু বলা যা তোমরা জান না’।",
+    "urdu": "کہہ دو کہ میرے پروردگار نے تو بےحیائی کی باتوں کو ظاہر ہوں یا پوشیدہ اور گناہ کو اور ناحق زیادتی کرنے کو حرام کیا ہے۔ اور اس کو بھی کہ تم کسی کو خدا کا شریک بناؤ جس کی اس نے کوئی سند نازل نہیں کی اور اس کو بھی کہ خدا کے بارے میں ایسی باتیں کہو جن کا تمہیں کچھ علم نہیں"
+}

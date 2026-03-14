@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 248,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_248.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002248.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_248.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002248.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_248.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002248.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_248.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002248.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_248.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002248.mp3"
+        }
+    },
+    "english": "Their prophet further told them, “The sign of Saul’s kingship is that the Ark will come to you—containing reassurance from your Lord and relics of the family of Moses and the family of Aaron, which will be carried by the angels. Surely in this is a sign for you, if you ˹truly˺ believe.”",
+    "arabic1": "وَقَالَ لَهُمْ نَبِيُّهُمْ إِنَّ ءَايَةَ مُلْكِهِۦٓ أَن يَأْتِيَكُمُ ٱلتَّابُوتُ فِيهِ سَكِينَةٌ مِّن رَّبِّكُمْ وَبَقِيَّةٌ مِّمَّا تَرَكَ ءَالُ مُوسَىٰ وَءَالُ هَـٰرُونَ تَحْمِلُهُ ٱلْمَلَـٰٓئِكَةُ ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَةً لَّكُمْ إِن كُنتُم مُّؤْمِنِينَ",
+    "arabic2": "وقال لهم نبيهم ان اية ملكه ان ياتيكم التابوت فيه سكينة من ربكم وبقية مما ترك ال موسى وال هارون تحمله الملائكة ان في ذلك لاية لكم ان كنتم مؤمنين",
+    "bengali": "আর তাদেরকে তাদের নবী বলল, নিশ্চয় তার রাজত্বের নিদর্শন এই যে, তোমাদের নিকট তাবূত* আসবে, যাতে থাকবে তোমাদের রবের পক্ষ থেকে প্রশান্তি এবং মূসার পরিবার ও হারূনের পরিবার যা রেখে গিয়েছে তার অবশিষ্ট, যা বহন করে আনবে ফেরেশতাগণ। নিশ্চয় তাতে রয়েছে তোমাদের জন্য নিদর্শন, যদি তোমরা মুমিন হও। \n*অর্থ সিন্দুক। এতে বনী ইসরাঈলের কিছু নিদর্শন ছিল। তাই তারা এটিকে পবিত্র মনে করত এবং যুদ্ধের সময় সামনে রাখত।",
+    "urdu": "اور پیغمبر نے ان سے کہا کہ ان کی بادشاہی کی نشانی یہ ہے کہ تمہارے پاس ایک صندوق آئے گا جس کو فرشتے اٹھائے ہوئے ہوں گے اس میں تمہارے پروردگار کی طرف سے تسلی (بخشنے والی چیز) ہوگی اور کچھ اور چیزیں بھی ہوں گی جو موسیٰ اور ہارون چھوڑ گئے تھے۔ اگر تم ایمان رکھتے ہو تو یہ تمہارے لئے ایک بڑی نشانی ہے"
+}

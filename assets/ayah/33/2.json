@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Ahzaab",
+    "surahNameArabic": "الأحزاب",
+    "surahNameArabicLong": "سورة الأحزاب",
+    "surahNameTranslation": "The Clans",
+    "revelationPlace": "Madina",
+    "totalAyah": 73,
+    "surahNo": 33,
+    "ayahNo": 2,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/33_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/033002.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/33_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/033002.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/33_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/033002.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/33_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/033002.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/33_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/033002.mp3"
+        }
+    },
+    "english": "Follow what is revealed to you from your Lord. Surely Allah is All-Aware of what you ˹all˺ do.",
+    "arabic1": "وَٱتَّبِعْ مَا يُوحَىٰٓ إِلَيْكَ مِن رَّبِّكَ ۚ إِنَّ ٱللَّهَ كَانَ بِمَا تَعْمَلُونَ خَبِيرًا",
+    "arabic2": "واتبع ما يوحى اليك من ربك ان الله كان بما تعملون خبيرا",
+    "bengali": "আর তোমার রবের কাছ থেকে তোমার প্রতি যা ওহী করা হয় তুমি তার অনুসরণ কর। নিশ্চয় তোমরা যা কর সে সম্পর্কে আল্লাহ সম্যক অবহিত।",
+    "urdu": "اور جو (کتاب) تم کو تمہارے پروردگار کی طرف سے وحی کی جاتی ہے اُسی کی پیروی کئے جانا۔ بےشک خدا تمہارے سب عملوں سے خبردار ہے"
+}

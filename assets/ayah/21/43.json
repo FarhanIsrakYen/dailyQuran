@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Anbiyaa",
+    "surahNameArabic": "الأنبياء",
+    "surahNameArabicLong": "سورة الأنبياء",
+    "surahNameTranslation": "The Prophets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 112,
+    "surahNo": 21,
+    "ayahNo": 43,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/21_43.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/021043.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/21_43.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/021043.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/21_43.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/021043.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/21_43.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/021043.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/21_43.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/021043.mp3"
+        }
+    },
+    "english": "Or do they have gods—other than Us—that can protect them? They cannot ˹even˺ protect themselves, nor will they be aided against Us.",
+    "arabic1": "أَمْ لَهُمْ ءَالِهَةٌ تَمْنَعُهُم مِّن دُونِنَا ۚ لَا يَسْتَطِيعُونَ نَصْرَ أَنفُسِهِمْ وَلَا هُم مِّنَّا يُصْحَبُونَ",
+    "arabic2": "ام لهم الهة تمنعهم من دوننا لا يستطيعون نصر انفسهم ولا هم منا يصحبون",
+    "bengali": "আমি ছাড়া তাদের কি এমন কোন দেব-দেবী আছে যারা তাদেরকে রক্ষা করতে পারে? তারা তো নিজদেরকেই সাহায্য করতে সক্ষম নয় এবং আমার বিরুদ্ধে তারা কোন সঙ্গীও পাবে না।* \n* يصحبون এর অর্থ-তারা সঙ্গী পাবে না। ইবন আববাস (রাঃ) বলেন, এখানে এর অর্থ হল يجارون অর্থাৎ আল্লাহর শাস্তি হতে মুক্তি পেতে তাদেরকে সাহায্য করবে এমন কাউকে তারা পাবে না।",
+    "urdu": "کیا ہمارے سوا ان کے اور معبود ہیں کہ ان کو (مصائب سے) بچاسکیں۔ وہ آپ اپنی مدد تو کر ہی نہیں سکتے اور نہ ہم سے پناہ ہی دیئے جائیں گے"
+}

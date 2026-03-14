@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Qasas",
+    "surahNameArabic": "القصص",
+    "surahNameArabicLong": "سورة القصص",
+    "surahNameTranslation": "The Stories",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 28,
+    "ayahNo": 81,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/28_81.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/028081.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/28_81.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/028081.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/28_81.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/028081.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/28_81.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/028081.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/28_81.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/028081.mp3"
+        }
+    },
+    "english": "Then We caused the earth to swallow him up, along with his home. There was no one to help him against Allah, nor could he even help himself.",
+    "arabic1": "فَخَسَفْنَا بِهِۦ وَبِدَارِهِ ٱلْأَرْضَ فَمَا كَانَ لَهُۥ مِن فِئَةٍ يَنصُرُونَهُۥ مِن دُونِ ٱللَّهِ وَمَا كَانَ مِنَ ٱلْمُنتَصِرِينَ",
+    "arabic2": "فخسفنا به وبداره الارض فما كان له من فئة ينصرونه من دون الله وما كان من المنتصرين",
+    "bengali": "অতঃপর আমি কারূন ও তার প্রাসাদকে মাটিতে দাবিয়ে দিলাম। তখন তার জন্য এমন কোন দল ছিল না, যে আল্লাহর মোকাবিলায় তাকে সাহায্য করতে পারত এবং সে নিজেও নিজেকে সাহায্য করতে সক্ষম ছিল না।",
+    "urdu": "پس ہم نے قارون کو اور اس کے گھر کو زمین میں دھنسا دیا تو خدا کے سوا کوئی جماعت اس کی مددگار نہ ہوسکی۔ اور نہ وہ بدلہ لے سکا"
+}

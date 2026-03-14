@@ -1,0 +1,42 @@
+{
+    "surahName": "Maryam",
+    "surahNameArabic": "مريم",
+    "surahNameArabicLong": "سورة مريم",
+    "surahNameTranslation": "Mary",
+    "revelationPlace": "Mecca",
+    "totalAyah": 98,
+    "surahNo": 19,
+    "ayahNo": 11,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/19_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/019011.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/19_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/019011.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/19_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/019011.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/19_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/019011.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/19_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/019011.mp3"
+        }
+    },
+    "english": "So he came out to his people from the sanctuary, signalling to them to glorify ˹Allah˺ morning and evening.",
+    "arabic1": "فَخَرَجَ عَلَىٰ قَوْمِهِۦ مِنَ ٱلْمِحْرَابِ فَأَوْحَىٰٓ إِلَيْهِمْ أَن سَبِّحُوا۟ بُكْرَةً وَعَشِيًّا",
+    "arabic2": "فخرج على قومه من المحراب فاوحى اليهم ان سبحوا بكرة وعشيا",
+    "bengali": "অতঃপর সে মিহরাব হতে বেরিয়ে তার লোকদের সামনে আসল এবং ইশারায় তাদেরকে বলল যে, ‘তোমরা সকাল ও সন্ধ্যায় তাসবীহ পাঠ কর’।",
+    "urdu": "پھر وہ (عبادت کے) حجرے سے نکل کر اپنی قوم کے پاس آئے تو ان سے اشارے سے کہا کہ صبح وشام (خدا کو) یاد کرتے رہو"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Ahzaab",
+    "surahNameArabic": "الأحزاب",
+    "surahNameArabicLong": "سورة الأحزاب",
+    "surahNameTranslation": "The Clans",
+    "revelationPlace": "Madina",
+    "totalAyah": 73,
+    "surahNo": 33,
+    "ayahNo": 36,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/33_36.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/033036.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/33_36.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/033036.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/33_36.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/033036.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/33_36.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/033036.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/33_36.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/033036.mp3"
+        }
+    },
+    "english": "It is not for a believing man or woman—when Allah and His Messenger decree a matter—to have any other choice in that matter. Indeed, whoever disobeys Allah and His Messenger has clearly gone ˹far˺ astray.",
+    "arabic1": "وَمَا كَانَ لِمُؤْمِنٍ وَلَا مُؤْمِنَةٍ إِذَا قَضَى ٱللَّهُ وَرَسُولُهُۥٓ أَمْرًا أَن يَكُونَ لَهُمُ ٱلْخِيَرَةُ مِنْ أَمْرِهِمْ ۗ وَمَن يَعْصِ ٱللَّهَ وَرَسُولَهُۥ فَقَدْ ضَلَّ ضَلَـٰلًا مُّبِينًا",
+    "arabic2": "وما كان لمؤمن ولا مؤمنة اذا قضى الله ورسوله امرا ان يكون لهم الخيرة من امرهم ومن يعص الله ورسوله فقد ضل ضلالا مبينا",
+    "bengali": "আর আল্লাহ ও তাঁর রাসূল কোন নির্দেশ দিলে কোন মুমিন পুরুষ ও নারীর জন্য নিজদের ব্যাপারে অন্য কিছু এখতিয়ার করার অধিকার থাকে না; আর যে আল্লাহ ও তাঁর রাসূলকে অমান্য করল সে স্পষ্টই পথভ্রষ্ট হবে।",
+    "urdu": "اور کسی مومن مرد اور مومن عورت کو حق نہیں ہے کہ جب خدا اور اس کا رسول کوئی امر مقرر کردیں تو وہ اس کام میں اپنا بھی کچھ اختیار سمجھیں۔ اور جو کوئی خدا اور اس کے رسول کی نافرمانی کرے وہ صریح گمراہ ہوگیا"
+}

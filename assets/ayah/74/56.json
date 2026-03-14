@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Muddaththir",
+    "surahNameArabic": "المدثر",
+    "surahNameArabicLong": "سورة المدثر",
+    "surahNameTranslation": "The Cloaked One",
+    "revelationPlace": "Mecca",
+    "totalAyah": 56,
+    "surahNo": 74,
+    "ayahNo": 56,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/74_56.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/074056.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/74_56.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/074056.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/74_56.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/074056.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/74_56.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/074056.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/74_56.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/074056.mp3"
+        }
+    },
+    "english": "But they cannot do so unless Allah wills. He ˹alone˺ is worthy to be feared and entitled to forgive.",
+    "arabic1": "وَمَا يَذْكُرُونَ إِلَّآ أَن يَشَآءَ ٱللَّهُ ۚ هُوَ أَهْلُ ٱلتَّقْوَىٰ وَأَهْلُ ٱلْمَغْفِرَةِ",
+    "arabic2": "وما يذكرون الا ان يشاء الله هو اهل التقوى واهل المغفرة",
+    "bengali": "আল্লাহর ইচ্ছা ছাড়া কেউ উপদেশ গ্রহণ করতে পারে না। তিনিই ভয়ের যোগ্য এবং ক্ষমার অধিকারী।",
+    "urdu": "اور یاد بھی تب ہی رکھیں گے جب خدا چاہے۔ وہی ڈرنے کے لائق اور بخشش کا مالک ہے"
+}

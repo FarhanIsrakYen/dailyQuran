@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Maaida",
+    "surahNameArabic": "المائدة",
+    "surahNameArabicLong": "سورة المائدة",
+    "surahNameTranslation": "The Table",
+    "revelationPlace": "Madina",
+    "totalAyah": 120,
+    "surahNo": 5,
+    "ayahNo": 45,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/5_45.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/005045.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/5_45.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/005045.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/5_45.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/005045.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/5_45.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/005045.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/5_45.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/005045.mp3"
+        }
+    },
+    "english": "We ordained for them in the Torah, “A life for a life, an eye for an eye, a nose for a nose, an ear for an ear, a tooth for a tooth—and for wounds equal retaliation.” But whoever waives it charitably, it will be atonement for them. And those who do not judge by what Allah has revealed are ˹truly˺ the wrongdoers.",
+    "arabic1": "وَكَتَبْنَا عَلَيْهِمْ فِيهَآ أَنَّ ٱلنَّفْسَ بِٱلنَّفْسِ وَٱلْعَيْنَ بِٱلْعَيْنِ وَٱلْأَنفَ بِٱلْأَنفِ وَٱلْأُذُنَ بِٱلْأُذُنِ وَٱلسِّنَّ بِٱلسِّنِّ وَٱلْجُرُوحَ قِصَاصٌ ۚ فَمَن تَصَدَّقَ بِهِۦ فَهُوَ كَفَّارَةٌ لَّهُۥ ۚ وَمَن لَّمْ يَحْكُم بِمَآ أَنزَلَ ٱللَّهُ فَأُو۟لَـٰٓئِكَ هُمُ ٱلظَّـٰلِمُونَ",
+    "arabic2": "وكتبنا عليهم فيها ان النفس بالنفس والعين بالعين والانف بالانف والاذن بالاذن والسن بالسن والجروح قصاص فمن تصدق به فهو كفارة له ومن لم يحكم بما انزل الله فاولئك هم الظالمون",
+    "bengali": "আর আমি এতে তাদের উপর অবধারিত করেছি যে, প্রাণের বিনিময়ে প্রাণ, চোখের বিনিময়ে চোখ, নাকের বিনিময়ে নাক, কানের বিনিময়ে কান ও দাঁতের বিনিময়ে দাঁত এবং জখমের বিনিময়ে সমপরিমাণ জখম। অতঃপর যে তা ক্ষমা করে দেবে, তার জন্য তা কাফ্ফারা হবে। আর আল্লাহ যা নাযিল করেছেন, তার মাধ্যমে যারা ফয়সালা করবে না, তারাই যালিম।",
+    "urdu": "اور ہم نے ان لوگوں کے لیے تورات میں یہ حکم لکھ دیا تھا کہ جان کے بدلے جان اور آنکھ کے بدلے آنکھ اور ناک کے بدلے ناک اور کان کے بدلے کان اور دانت کے بدلے دانت اور سب زخموں کا اسی طرح بدلہ ہے لیکن جو شخص بدلہ معاف کر دے وہ اس کے لیے کفارہ ہوگا اور جو خدا کے نازل فرمائے ہوئے احکام کے مطابق حکم نہ دے تو ایسے ہی لوگ بےانصاف ہیں"
+}

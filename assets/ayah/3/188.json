@@ -1,0 +1,42 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 188,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/3_188.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/003188.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/3_188.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/003188.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/3_188.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/003188.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/3_188.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/003188.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/3_188.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/003188.mp3"
+        }
+    },
+    "english": "Do not let those who rejoice in their misdeeds and love to take credit for what they have not done think they will escape torment. They will suffer a painful punishment.",
+    "arabic1": "لَا تَحْسَبَنَّ ٱلَّذِينَ يَفْرَحُونَ بِمَآ أَتَوا۟ وَّيُحِبُّونَ أَن يُحْمَدُوا۟ بِمَا لَمْ يَفْعَلُوا۟ فَلَا تَحْسَبَنَّهُم بِمَفَازَةٍ مِّنَ ٱلْعَذَابِ ۖ وَلَهُمْ عَذَابٌ أَلِيمٌ",
+    "arabic2": "لا تحسبن الذين يفرحون بما اتوا ويحبون ان يحمدوا بما لم يفعلوا فلا تحسبنهم بمفازة من العذاب ولهم عذاب اليم",
+    "bengali": "যারা তাদের কৃতকর্মের প্রতি খুশী হয় এবং যা তারা করেনি তা নিয়ে প্রশংসিত হতে পছন্দ করে, তুমি তাদেরকে আযাব থেকে মুক্ত মনে করো না। আর তাদের জন্যই রয়েছে যন্ত্রণাদায়ক আযাব।",
+    "urdu": "جو لوگ اپنے (ناپسند) کاموں سے خوش ہوتے ہیں اور پسندیدہ کام) جو کرتے نہیں ان کے لئے چاہتے ہیں کہ ان ک تعریف کی جائے ان کی نسبت خیال نہ کرنا کہ وہ عذاب سے رستگار ہوجائیں گے۔ اور انہیں درد دینے والا عذاب ہوگا"
+}

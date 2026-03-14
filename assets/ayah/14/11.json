@@ -1,0 +1,42 @@
+{
+    "surahName": "Ibrahim",
+    "surahNameArabic": "ابراهيم",
+    "surahNameArabicLong": "سورة ابراهيم",
+    "surahNameTranslation": "Abraham",
+    "revelationPlace": "Mecca",
+    "totalAyah": 52,
+    "surahNo": 14,
+    "ayahNo": 11,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/14_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/014011.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/14_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/014011.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/14_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/014011.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/14_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/014011.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/14_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/014011.mp3"
+        }
+    },
+    "english": "Their messengers said to them, “We are ˹indeed˺ only humans like you, but Allah favours whoever He chooses of His servants. It is not for us to bring you any proof without Allah’s permission. And in Allah let the believers put their trust.",
+    "arabic1": "قَالَتْ لَهُمْ رُسُلُهُمْ إِن نَّحْنُ إِلَّا بَشَرٌ مِّثْلُكُمْ وَلَـٰكِنَّ ٱللَّهَ يَمُنُّ عَلَىٰ مَن يَشَآءُ مِنْ عِبَادِهِۦ ۖ وَمَا كَانَ لَنَآ أَن نَّأْتِيَكُم بِسُلْطَـٰنٍ إِلَّا بِإِذْنِ ٱللَّهِ ۚ وَعَلَى ٱللَّهِ فَلْيَتَوَكَّلِ ٱلْمُؤْمِنُونَ",
+    "arabic2": "قالت لهم رسلهم ان نحن الا بشر مثلكم ولكن الله يمن على من يشاء من عباده وما كان لنا ان ناتيكم بسلطان الا باذن الله وعلى الله فليتوكل المؤمنون",
+    "bengali": "তাদেরকে তাদের রাসূলগণ বলল, ‘আমরা তো কেবল তোমাদের মতই মানুষ, কিন্তু আল্লাহ তার বান্দাদের মধ্যে যাকে ইচ্ছা অনুগ্রহ করেন। আর আল্লাহর অনুমতি ছাড়া তোমাদের কাছে প্রমাণ নিয়ে আসার সাধ্য আমাদের নেই। আর কেবল আল্লাহর উপরই মুমিনদের তাওয়াক্কুল করা উচিত’।",
+    "urdu": "پیغمبروں نے ان سے کہا کہ ہاں ہم تمہارے ہی جیسے آدمی ہیں۔ لیکن خدا اپنے بندوں میں سے جس کو چاہتا ہے (نبوت کا) احسان کرتا ہے اور ہمارے اختیار کی بات نہیں کہ ہم خدا کے حکم کے بغیر تم کو (تمہاری فرمائش کے مطابق) معجزہ دکھائیں اور خدا ہی پر مومنوں کو بھروسہ رکھنا چاہیئے"
+}

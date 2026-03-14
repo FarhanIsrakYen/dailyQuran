@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Insaan",
+    "surahNameArabic": "الانسان",
+    "surahNameArabicLong": "سورة الانسان",
+    "surahNameTranslation": "Man",
+    "revelationPlace": "Madina",
+    "totalAyah": 31,
+    "surahNo": 76,
+    "ayahNo": 11,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/76_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/076011.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/76_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/076011.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/76_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/076011.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/76_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/076011.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/76_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/076011.mp3"
+        }
+    },
+    "english": "So Allah will deliver them from the horror of that Day, and grant them radiance and joy",
+    "arabic1": "فَوَقَىٰهُمُ ٱللَّهُ شَرَّ ذَٰلِكَ ٱلْيَوْمِ وَلَقَّىٰهُمْ نَضْرَةً وَسُرُورًا",
+    "arabic2": "فوقاهم الله شر ذلك اليوم ولقاهم نضرة وسرورا",
+    "bengali": "সুতরাং সেই দিবসের অকল্যাণ থেকে আল্লাহ তাদের রক্ষা করলেন এবং তাদের প্রদান করলেন উজ্জ্বলতা ও উৎফুল্লতা।",
+    "urdu": "تو خدا ان کو اس دن کی سختی سے بچالے گا اور تازگی اور خوش دلی عنایت فرمائے گا"
+}

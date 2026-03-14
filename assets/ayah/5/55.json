@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Maaida",
+    "surahNameArabic": "المائدة",
+    "surahNameArabicLong": "سورة المائدة",
+    "surahNameTranslation": "The Table",
+    "revelationPlace": "Madina",
+    "totalAyah": 120,
+    "surahNo": 5,
+    "ayahNo": 55,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/5_55.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/005055.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/5_55.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/005055.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/5_55.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/005055.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/5_55.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/005055.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/5_55.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/005055.mp3"
+        }
+    },
+    "english": "Your only guardians are Allah, His Messenger, and fellow believers—who establish prayer and pay alms-tax with humility.",
+    "arabic1": "إِنَّمَا وَلِيُّكُمُ ٱللَّهُ وَرَسُولُهُۥ وَٱلَّذِينَ ءَامَنُوا۟ ٱلَّذِينَ يُقِيمُونَ ٱلصَّلَوٰةَ وَيُؤْتُونَ ٱلزَّكَوٰةَ وَهُمْ رَٰكِعُونَ",
+    "arabic2": "انما وليكم الله ورسوله والذين امنوا الذين يقيمون الصلاة ويؤتون الزكاة وهم راكعون",
+    "bengali": "তোমাদের বন্ধু কেবল আল্লাহ, তাঁর রাসূল ও মুমিনগণ, যারা সালাত কায়েম করে এবং যাকাত প্রদান করে বিনীত হয়ে।",
+    "urdu": "تمہارے دوست تو خدا اور اس کے پیغمبر اور مومن لوگ ہی ہیں جو نماز پڑھتے اور زکوٰة دیتے اور (خدا کے آگے) جھکتے ہیں"
+}

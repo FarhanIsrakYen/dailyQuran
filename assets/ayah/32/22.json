@@ -1,0 +1,42 @@
+{
+    "surahName": "As-Sajda",
+    "surahNameArabic": "السجدة",
+    "surahNameArabicLong": "سورة السجدة",
+    "surahNameTranslation": "The Prostration",
+    "revelationPlace": "Mecca",
+    "totalAyah": 30,
+    "surahNo": 32,
+    "ayahNo": 22,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/32_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/032022.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/32_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/032022.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/32_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/032022.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/32_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/032022.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/32_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/032022.mp3"
+        }
+    },
+    "english": "And who does more wrong than the one who is reminded of Allah’s revelations then turns away from them? We will surely inflict punishment upon the wicked.",
+    "arabic1": "وَمَنْ أَظْلَمُ مِمَّن ذُكِّرَ بِـَٔايَـٰتِ رَبِّهِۦ ثُمَّ أَعْرَضَ عَنْهَآ ۚ إِنَّا مِنَ ٱلْمُجْرِمِينَ مُنتَقِمُونَ",
+    "arabic2": "ومن اظلم ممن ذكر بايات ربه ثم اعرض عنها انا من المجرمين منتقمون",
+    "bengali": "আর তার চেয়ে বড় যালিম আর কে, যাকে স্বীয় রবের আয়াতসমূহের মাধ্যমে উপদেশ দেয়ার পর তা থেকে মুখ ফিরিয়ে নেয়। নিশ্চয় আমি অপরাধীদের কাছ থেকে প্রতিশোধ গ্রহণকারী।",
+    "urdu": "اور اس شخص سے بڑھ کر ظالم کون جس کو اس کے پروردگار کی آیتوں سے نصیحت کی جائے تو وہ اُن سے منہ پھیر لے۔ ہم گنہگاروں سے ضرور بدلہ لینے والے ہیں"
+}

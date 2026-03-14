@@ -1,0 +1,42 @@
+{
+    "surahName": "Taa-Haa",
+    "surahNameArabic": "طه",
+    "surahNameArabicLong": "سورة طه",
+    "surahNameTranslation": "Taa-Haa",
+    "revelationPlace": "Mecca",
+    "totalAyah": 135,
+    "surahNo": 20,
+    "ayahNo": 2,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/20_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/020002.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/20_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/020002.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/20_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/020002.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/20_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/020002.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/20_2.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/020002.mp3"
+        }
+    },
+    "english": "We have not revealed the Quran to you ˹O Prophet˺ to cause you distress",
+    "arabic1": "مَآ أَنزَلْنَا عَلَيْكَ ٱلْقُرْءَانَ لِتَشْقَىٰٓ",
+    "arabic2": "ما انزلنا عليك القران لتشقى",
+    "bengali": "আমি তোমার প্রতি আল-কুরআন এজন্য নাযিল করিনি যে, তুমি দুর্ভোগ পোহাবে",
+    "urdu": "(اے محمدﷺ) ہم نے تم پر قرآن اس لئے نازل نہیں کیا کہ تم مشقت میں پڑ جاؤ"
+}

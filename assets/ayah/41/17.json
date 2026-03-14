@@ -1,0 +1,42 @@
+{
+    "surahName": "Fussilat",
+    "surahNameArabic": "فصلت",
+    "surahNameArabicLong": "سورة فصلت",
+    "surahNameTranslation": "Explained in detail",
+    "revelationPlace": "Mecca",
+    "totalAyah": 54,
+    "surahNo": 41,
+    "ayahNo": 17,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/41_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/041017.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/41_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/041017.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/41_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/041017.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/41_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/041017.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/41_17.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/041017.mp3"
+        }
+    },
+    "english": "As for Thamûd, We showed them guidance, but they preferred blindness over guidance. So the blast of a disgracing punishment overtook them for what they used to commit.",
+    "arabic1": "وَأَمَّا ثَمُودُ فَهَدَيْنَـٰهُمْ فَٱسْتَحَبُّوا۟ ٱلْعَمَىٰ عَلَى ٱلْهُدَىٰ فَأَخَذَتْهُمْ صَـٰعِقَةُ ٱلْعَذَابِ ٱلْهُونِ بِمَا كَانُوا۟ يَكْسِبُونَ",
+    "arabic2": "واما ثمود فهديناهم فاستحبوا العمى على الهدى فاخذتهم صاعقة العذاب الهون بما كانوا يكسبون",
+    "bengali": "আর সামূদ সম্প্রদায়, আমি তাদেরকে সঠিক পথের নির্দেশনা দিয়েছিলাম; কিন্তু তারা সঠিক পথে চলার পরিবর্তে অন্ধ পথে চলাই পছন্দ করেছিল। ফলে তাদের অর্জনের কারণেই লাঞ্ছনাদায়ক আযাবের বজ্রাঘাত তাদেরকে পাকড়াও করল।",
+    "urdu": "اور جو ثمود تھے ان کو ہم نے سیدھا رستہ دکھا دیا تھا مگر انہوں نے ہدایت کے مقابلے میں اندھا دھند رہنا پسند کیا تو ان کے اعمال کی سزا میں کڑک نے ان کو آپکڑا۔ اور وہ ذلت کا عذاب تھا"
+}

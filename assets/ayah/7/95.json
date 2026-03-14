@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 95,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/7_95.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/007095.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/7_95.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/007095.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/7_95.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/007095.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/7_95.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/007095.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/7_95.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/007095.mp3"
+        }
+    },
+    "english": "Then We changed their adversity to prosperity until they flourished and argued ˹falsely˺, “Our forefathers ˹too˺ had been visited by adversity and prosperity.” So We seized them by surprise, while they were unaware.",
+    "arabic1": "ثُمَّ بَدَّلْنَا مَكَانَ ٱلسَّيِّئَةِ ٱلْحَسَنَةَ حَتَّىٰ عَفَوا۟ وَّقَالُوا۟ قَدْ مَسَّ ءَابَآءَنَا ٱلضَّرَّآءُ وَٱلسَّرَّآءُ فَأَخَذْنَـٰهُم بَغْتَةً وَهُمْ لَا يَشْعُرُونَ",
+    "arabic2": "ثم بدلنا مكان السيئة الحسنة حتى عفوا وقالوا قد مس اباءنا الضراء والسراء فاخذناهم بغتة وهم لا يشعرون",
+    "bengali": "তারপর আমি মন্দ অবস্থাকে ভাল অবস্থা দ্বারা বদলে দিয়েছি। অবশেষে তারা প্রাচুর্য লাভ করেছে এবং বলেছে, ‘আমাদের বাপ-দাদাদেরকেও দুর্দশা ও আনন্দ স্পর্শ করেছে।’ অতঃপর আমি তাদেরকে হঠাৎ পাকড়াও করেছি এমনভাবে যে, তারা উপলব্ধিও করতে পারেনি।",
+    "urdu": "پھر ہم نے تکلیف کو آسودگی سے بدل دیا یہاں تک کہ (مال واولاد میں) زیادہ ہوگئے تو کہنے لگے کہ اس طرح کا رنج وراحت ہمارے بڑوں کو بھی پہنچتا رہا ہے تو ہم نے ان کو ناگہاں پکڑلیا اور وہ (اپنے حال میں) بےخبر تھے"
+}

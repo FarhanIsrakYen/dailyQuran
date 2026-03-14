@@ -1,0 +1,42 @@
+{
+    "surahName": "Saad",
+    "surahNameArabic": "ص",
+    "surahNameArabicLong": "سورة ص",
+    "surahNameTranslation": "The letter Saad",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 38,
+    "ayahNo": 60,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/38_60.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/038060.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/38_60.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/038060.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/38_60.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/038060.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/38_60.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/038060.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/38_60.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/038060.mp3"
+        }
+    },
+    "english": "The followers will respond, “No! You are not welcome! You brought this upon us. What an evil place for settlement!”",
+    "arabic1": "قَالُوا۟ بَلْ أَنتُمْ لَا مَرْحَبًۢا بِكُمْ ۖ أَنتُمْ قَدَّمْتُمُوهُ لَنَا ۖ فَبِئْسَ ٱلْقَرَارُ",
+    "arabic2": "قالوا بل انتم لا مرحبا بكم انتم قدمتموه لنا فبئس القرار",
+    "bengali": "অনুসারীরা বলবে, ‘বরং তোমরাও, তোমাদের জন্যও তো নেই কোন অভিনন্দন। তোমরাই আমাদের জন্য এ বিপদ এনেছ। অতএব কতই না নিকৃষ্ট এ আবাসস্থল’!",
+    "urdu": "کہیں گے بلکہ تم ہی کو خوشی نہ ہو۔ تم ہی تو یہ (بلا) ہمارے سامنے لائے سو (یہ) برا ٹھکانا ہے"
+}

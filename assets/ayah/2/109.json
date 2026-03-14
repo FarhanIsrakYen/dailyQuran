@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 109,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_109.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002109.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_109.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002109.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_109.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002109.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_109.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002109.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_109.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002109.mp3"
+        }
+    },
+    "english": "Many among the People of the Book wish they could turn you ˹believers˺ back to disbelief because of their envy, after the truth has been made clear to them. Pardon and bear with them until Allah delivers His decision. Surely Allah is Most Capable of everything.",
+    "arabic1": "وَدَّ كَثِيرٌ مِّنْ أَهْلِ ٱلْكِتَـٰبِ لَوْ يَرُدُّونَكُم مِّنۢ بَعْدِ إِيمَـٰنِكُمْ كُفَّارًا حَسَدًا مِّنْ عِندِ أَنفُسِهِم مِّنۢ بَعْدِ مَا تَبَيَّنَ لَهُمُ ٱلْحَقُّ ۖ فَٱعْفُوا۟ وَٱصْفَحُوا۟ حَتَّىٰ يَأْتِىَ ٱللَّهُ بِأَمْرِهِۦٓ ۗ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+    "arabic2": "ود كثير من اهل الكتاب لو يردونكم من بعد ايمانكم كفارا حسدا من عند انفسهم من بعد ما تبين لهم الحق فاعفوا واصفحوا حتى ياتي الله بامره ان الله على كل شيء قدير",
+    "bengali": "আহলে কিতাবের অনেকেই চায়, যদি তারা তোমাদেরকে ঈমান আনার পর কাফির অবস্থায় ফিরিয়ে নিতে পারত! সত্য স্পষ্ট হওয়ার পর তাদের পক্ষ থেকে হিংসাবশত (তারা এরূপ করে থাকে)। সুতরাং তোমরা ক্ষমা কর এবং এড়িয়ে চল, যতক্ষণ না আল্লাহ তাঁর নির্দেশ দেন। নিশ্চয় আল্লাহ সব কিছুর উপর ক্ষমতাবান।",
+    "urdu": "بہت سے اہل کتاب اپنے دل کی جلن سے یہ چاہتے ہیں کہ ایمان لا چکنے کے بعد تم کو پھر کافر بنا دیں۔ حالانکہ ان پر حق ظاہر ہو چکا ہے۔ تو تم معاف کردو اور درگزر کرو۔ یہاں تک کہ خدا اپنا (دوسرا) حکم بھیجے۔ بے شک خدا ہر بات پر قادر ہے"
+}

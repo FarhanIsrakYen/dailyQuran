@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Lail",
+    "surahNameArabic": "الليل",
+    "surahNameArabicLong": "سورة الليل",
+    "surahNameTranslation": "The Night",
+    "revelationPlace": "Mecca",
+    "totalAyah": 21,
+    "surahNo": 92,
+    "ayahNo": 11,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/92_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/092011.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/92_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/092011.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/92_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/092011.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/92_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/092011.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/92_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/092011.mp3"
+        }
+    },
+    "english": "And their wealth will be of no benefit to them when they tumble ˹into Hell˺.",
+    "arabic1": "وَمَا يُغْنِى عَنْهُ مَالُهُۥٓ إِذَا تَرَدَّىٰٓ",
+    "arabic2": "وما يغني عنه ماله اذا تردى",
+    "bengali": "আর তার সম্পদ তার কোন কাজে আসবে না, যখন সে অধঃপতিত হবে।",
+    "urdu": "اور جب وہ (دوزخ کے گڑھے میں) گرے گا تو اس کا مال اس کے کچھ کام نہ آئے گا"
+}

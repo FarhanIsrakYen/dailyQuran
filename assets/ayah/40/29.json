@@ -1,0 +1,42 @@
+{
+    "surahName": "Ghafir",
+    "surahNameArabic": "غافر",
+    "surahNameArabicLong": "سورة غافر",
+    "surahNameTranslation": "The Forgiver",
+    "revelationPlace": "Mecca",
+    "totalAyah": 85,
+    "surahNo": 40,
+    "ayahNo": 29,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/40_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/040029.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/40_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/040029.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/40_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/040029.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/40_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/040029.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/40_29.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/040029.mp3"
+        }
+    },
+    "english": "O  my people! Authority belongs to you today, reigning supreme in the land. But who would help us against the torment of Allah, if it were to befall us?” Pharaoh assured ˹his people˺, “I am telling you only what I believe, and I am leading you only to the way of guidance.”",
+    "arabic1": "يَـٰقَوْمِ لَكُمُ ٱلْمُلْكُ ٱلْيَوْمَ ظَـٰهِرِينَ فِى ٱلْأَرْضِ فَمَن يَنصُرُنَا مِنۢ بَأْسِ ٱللَّهِ إِن جَآءَنَا ۚ قَالَ فِرْعَوْنُ مَآ أُرِيكُمْ إِلَّا مَآ أَرَىٰ وَمَآ أَهْدِيكُمْ إِلَّا سَبِيلَ ٱلرَّشَادِ",
+    "arabic2": "يا قوم لكم الملك اليوم ظاهرين في الارض فمن ينصرنا من باس الله ان جاءنا قال فرعون ما اريكم الا ما ارى وما اهديكم الا سبيل الرشاد",
+    "bengali": "‘হে আমার কওম, আজ তোমাদের রাজত্ব; যমীনে তোমরাই কর্তৃত্বশীল; কিন্তু আল্লাহর আযাব আসলে কে আমাদেরকে সাহায্য করবে’? ফির‘আউন বলল, ‘যা আমি সঠিক মনে করি তা-ই আমি তোমাদেরকে দেখাই আর আমি তোমাদেরকে কেবল সঠিক পথই দেখাই’।",
+    "urdu": "اے قوم آج تمہاری ہی بادشاہت ہے اور تم ہی ملک میں غالب ہو۔ (لیکن) اگر ہم پر خدا کا عذاب آگیا تو (اس کے دور کرنے کے لئے) ہماری مدد کون کرے گا۔ فرعون نے کہا کہ میں تمہیں وہی بات سُجھاتا ہوں جو مجھے سوجھی ہے اور وہی راہ بتاتا ہوں جس میں بھلائی ہے"
+}

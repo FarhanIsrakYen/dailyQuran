@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 89,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/4_89.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/004089.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/4_89.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/004089.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/4_89.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/004089.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/4_89.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/004089.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/4_89.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/004089.mp3"
+        }
+    },
+    "english": "They wish you would disbelieve as they have disbelieved, so you may all be alike. So do not take them as allies unless they emigrate in the cause of Allah. But if they turn away, then seize them and kill them wherever you find them, and do not take any of them as allies or helpers",
+    "arabic1": "وَدُّوا۟ لَوْ تَكْفُرُونَ كَمَا كَفَرُوا۟ فَتَكُونُونَ سَوَآءً ۖ فَلَا تَتَّخِذُوا۟ مِنْهُمْ أَوْلِيَآءَ حَتَّىٰ يُهَاجِرُوا۟ فِى سَبِيلِ ٱللَّهِ ۚ فَإِن تَوَلَّوْا۟ فَخُذُوهُمْ وَٱقْتُلُوهُمْ حَيْثُ وَجَدتُّمُوهُمْ ۖ وَلَا تَتَّخِذُوا۟ مِنْهُمْ وَلِيًّا وَلَا نَصِيرًا",
+    "arabic2": "ودوا لو تكفرون كما كفروا فتكونون سواء فلا تتخذوا منهم اولياء حتى يهاجروا في سبيل الله فان تولوا فخذوهم واقتلوهم حيث وجدتموهم ولا تتخذوا منهم وليا ولا نصيرا",
+    "bengali": "তারা কামনা করে, যদি তোমরা কুফরী করতে যেভাবে তারা কুফরী করেছে। অতঃপর তোমরা সমান হয়ে যেতে। সুতরাং আল্লাহর রাস্তায় হিজরত না করা পর্যন্ত তাদের মধ্য থেকে কাউকে তোমরা বন্ধুরূপে গ্রহণ করো না। অতএব তারা যদি মুখ ফিরিয়ে নেয় তাহলে তাদেরকে পাকড়াও কর এবং তাদেরকে যেখানে পাও হত্যা কর। আর তাদের কাউকে অভিভাবকরূপে গ্রহণ করো না এবং না সাহায্যকারীরূপে।",
+    "urdu": "وہ تو یہی چاہتے ہیں کہ جس طرح وہ خود کافر ہیں (اسی طرح) تم بھی کافر ہو کر (سب) برابر ہوجاؤ تو جب تک وہ خدا کی راہ میں وطن نہ چھوڑ جائیں ان میں سے کسی کو دوست نہ بنانا اگر (ترک وطن کو) قبول نہ کریں تو ان کو پکڑ لو اور جہاں پاؤ قتل کردو اور ان میں سے کسی کو اپنا رفیق اور مددگار نہ بناؤ"
+}

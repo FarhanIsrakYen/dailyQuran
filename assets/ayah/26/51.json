@@ -1,0 +1,42 @@
+{
+    "surahName": "Ash-Shu'araa",
+    "surahNameArabic": "الشعراء",
+    "surahNameArabicLong": "سورة الشعراء",
+    "surahNameTranslation": "The Poets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 227,
+    "surahNo": 26,
+    "ayahNo": 51,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/26_51.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/026051.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/26_51.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/026051.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/26_51.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/026051.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/26_51.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/026051.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/26_51.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/026051.mp3"
+        }
+    },
+    "english": "We really hope that our Lord will forgive our sins, as we are the first to believe.”",
+    "arabic1": "إِنَّا نَطْمَعُ أَن يَغْفِرَ لَنَا رَبُّنَا خَطَـٰيَـٰنَآ أَن كُنَّآ أَوَّلَ ٱلْمُؤْمِنِينَ",
+    "arabic2": "انا نطمع ان يغفر لنا ربنا خطايانا ان كنا اول المؤمنين",
+    "bengali": "‘আমরা আশা করি যে, আমাদের রব আমাদের অপরাধসমূহ ক্ষমা করে দেবেন, কারণ আমরা মুমিনদের মধ্যে প্রথম।’",
+    "urdu": "ہمیں امید ہے کہ ہمارا پروردگار ہمارے گناہ بخش دے گا۔ اس لئے کہ ہم اول ایمان لانے والوں میں ہیں"
+}

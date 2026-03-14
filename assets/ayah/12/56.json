@@ -1,0 +1,42 @@
+{
+    "surahName": "Yusuf",
+    "surahNameArabic": "يوسف",
+    "surahNameArabicLong": "سورة يوسف",
+    "surahNameTranslation": "Joseph",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 12,
+    "ayahNo": 56,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/12_56.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/012056.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/12_56.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/012056.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/12_56.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/012056.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/12_56.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/012056.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/12_56.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/012056.mp3"
+        }
+    },
+    "english": "This is how We established Joseph in the land to settle wherever he pleased. We shower Our mercy on whoever We will, and We never discount the reward of the good-doers.",
+    "arabic1": "وَكَذَٰلِكَ مَكَّنَّا لِيُوسُفَ فِى ٱلْأَرْضِ يَتَبَوَّأُ مِنْهَا حَيْثُ يَشَآءُ ۚ نُصِيبُ بِرَحْمَتِنَا مَن نَّشَآءُ ۖ وَلَا نُضِيعُ أَجْرَ ٱلْمُحْسِنِينَ",
+    "arabic2": "وكذلك مكنا ليوسف في الارض يتبوا منها حيث يشاء نصيب برحمتنا من نشاء ولا نضيع اجر المحسنين",
+    "bengali": "আর এমনিভাবে আমি ইউসুফকে যমীনে কর্তৃত্ব প্রদান করেছি, সে তার যেখানে ইচ্ছা অবস্থান করতে পারত। আমি যাকে ইচ্ছা স্বীয় রহমত দান করি, আর আমি সৎকর্মশীলদের প্রতিদান বিনষ্ট করি না।",
+    "urdu": "اس طرح ہم نے یوسف کو ملک (مصر) میں جگہ دی اور وہ اس ملک میں جہاں چاہتے تھے رہتے تھے۔ ہم اپنی رحمت جس پر چاہتے ہیں کرتے ہیں اور نیکوکاروں کے اجر کو ضائع نہیں کرتے"
+}

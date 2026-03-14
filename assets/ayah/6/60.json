@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 60,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/6_60.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/006060.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/6_60.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/006060.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/6_60.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/006060.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/6_60.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/006060.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/6_60.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/006060.mp3"
+        }
+    },
+    "english": "He is the One Who calls back your souls by night and knows what you do by day, then revives you daily to complete your appointed term. To Him is your ˹ultimate˺ return, then He will inform you of what you used to do.",
+    "arabic1": "وَهُوَ ٱلَّذِى يَتَوَفَّىٰكُم بِٱلَّيْلِ وَيَعْلَمُ مَا جَرَحْتُم بِٱلنَّهَارِ ثُمَّ يَبْعَثُكُمْ فِيهِ لِيُقْضَىٰٓ أَجَلٌ مُّسَمًّى ۖ ثُمَّ إِلَيْهِ مَرْجِعُكُمْ ثُمَّ يُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ",
+    "arabic2": "وهو الذي يتوفاكم بالليل ويعلم ما جرحتم بالنهار ثم يبعثكم فيه ليقضى اجل مسمى ثم اليه مرجعكم ثم ينبئكم بما كنتم تعملون",
+    "bengali": "আর তিনিই রাতে তোমাদেরকে মৃত্যু দেন এবং দিনে তোমরা যা কামাই কর তিনি তা জানেন। তারপর তিনি তোমাদেরকে দিনে পুনরায় জাগিয়ে তুলেন, যাতে নির্দিষ্ট মেয়াদ পূর্ণ করা হয়। তারপর তাঁর দিকেই তোমাদের প্রত্যাবর্তন। তারপর তোমরা যা করতে তিনি তোমাদেরকে সে বিষয়ে অবহিত করবেন।",
+    "urdu": "اور وہی تو ہے جو رات کو (سونے کی حالت میں) تمہاری روح قبض کرلیتا ہے اور جو کچھ تم دن میں کرتے ہو اس سے خبر رکھتا ہے پھر تمہیں دن کو اٹھا دیتا ہے تاکہ (یہی سلسلہ جاری رکھ کر زندگی کی) معین مدت پوری کردی جائے پھر تم (سب) کو اسی کی طرف لوٹ کر جانا ہے (اس روز) وہ تم کو تمہارے عمل جو تم کرتے ہو (ایک ایک کرکے) بتائے گا"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Az-Zumar",
+    "surahNameArabic": "الزمر",
+    "surahNameArabicLong": "سورة الزمر",
+    "surahNameTranslation": "The Groups",
+    "revelationPlace": "Mecca",
+    "totalAyah": 75,
+    "surahNo": 39,
+    "ayahNo": 58,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/39_58.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/039058.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/39_58.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/039058.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/39_58.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/039058.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/39_58.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/039058.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/39_58.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/039058.mp3"
+        }
+    },
+    "english": "Or say, upon seeing the torment, ‘If only I had a second chance, I would have been one of the good-doers.’",
+    "arabic1": "أَوْ تَقُولَ حِينَ تَرَى ٱلْعَذَابَ لَوْ أَنَّ لِى كَرَّةً فَأَكُونَ مِنَ ٱلْمُحْسِنِينَ",
+    "arabic2": "او تقول حين ترى العذاب لو ان لي كرة فاكون من المحسنين",
+    "bengali": "অথবা আযাব প্রত্যক্ষ করার সময় যাতে কাউকে একথাও বলতে না হয়, ‘যদি একবার ফিরে যাওয়ার সুযোগ আমার হত, তাহলে আমি মুমিনদের অন্তর্ভুক্ত হতাম’।",
+    "urdu": "یا جب عذاب دیکھ لے تو کہنے لگے کہ اگر مجھے پھر ایک دفعہ دنیا میں جانا ہو تو میں نیکوکاروں میں ہو جاؤں"
+}

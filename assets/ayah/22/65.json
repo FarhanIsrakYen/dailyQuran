@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Hajj",
+    "surahNameArabic": "الحج",
+    "surahNameArabicLong": "سورة الحج",
+    "surahNameTranslation": "The Pilgrimage",
+    "revelationPlace": "Madina",
+    "totalAyah": 78,
+    "surahNo": 22,
+    "ayahNo": 65,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/22_65.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/022065.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/22_65.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/022065.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/22_65.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/022065.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/22_65.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/022065.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/22_65.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/022065.mp3"
+        }
+    },
+    "english": "Do you not see that Allah has subjected to you whatever is in the earth as well as the ships ˹that˺ sail through the sea by His command? He keeps the sky from falling down on the earth except by His permission. Surely Allah is Ever Gracious and Most Merciful to humanity.",
+    "arabic1": "أَلَمْ تَرَ أَنَّ ٱللَّهَ سَخَّرَ لَكُم مَّا فِى ٱلْأَرْضِ وَٱلْفُلْكَ تَجْرِى فِى ٱلْبَحْرِ بِأَمْرِهِۦ وَيُمْسِكُ ٱلسَّمَآءَ أَن تَقَعَ عَلَى ٱلْأَرْضِ إِلَّا بِإِذْنِهِۦٓ ۗ إِنَّ ٱللَّهَ بِٱلنَّاسِ لَرَءُوفٌ رَّحِيمٌ",
+    "arabic2": "الم تر ان الله سخر لكم ما في الارض والفلك تجري في البحر بامره ويمسك السماء ان تقع على الارض الا باذنه ان الله بالناس لرءوف رحيم",
+    "bengali": "তুমি কি লক্ষ্য কর না যে, যমীনে যা কিছু আছে এবং নৌযানগুলো যা তাঁরই নির্দেশে সমুদ্রে বিচরণ করে সবই আল্লাহ তোমাদের জন্য অনুগত করে দিয়েছেন। আর তিনিই আসমানকে আটকিয়ে রেখেছেন, যাতে তাঁর অনুমতি ছাড়া তা যমীনের উপর পড়ে না যায়। নিশ্চয় আল্লাহ মানুষের প্রতি বড়ই করুণাময়, পরম দয়ালু।",
+    "urdu": "کیا تم نہیں دیکھتے کہ جتنی چیزیں زمین میں ہیں (سب) خدا نے تمہارے زیرفرمان کر رکھی ہیں اور کشتیاں (بھی) جو اسی کے حکم سے دریا میں چلتی ہیں۔ اور وہ آسمان کو تھامے رہتا ہے کہ زمین پر (نہ) گڑ پڑے مگر اس کے حکم سے۔ بےشک خدا لوگوں پر نہایت شفقت کرنے والا مہربان ہے"
+}

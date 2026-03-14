@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Ahqaf",
+    "surahNameArabic": "الأحقاف",
+    "surahNameArabicLong": "سورة الأحقاف",
+    "surahNameTranslation": "The Dunes",
+    "revelationPlace": "Mecca",
+    "totalAyah": 35,
+    "surahNo": 46,
+    "ayahNo": 30,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/46_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/046030.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/46_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/046030.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/46_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/046030.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/46_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/046030.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/46_30.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/046030.mp3"
+        }
+    },
+    "english": "They declared, “O our fellow jinn! We have truly heard a scripture revealed after Moses, confirming what came before it. It guides to the truth and the Straight Way.",
+    "arabic1": "قَالُوا۟ يَـٰقَوْمَنَآ إِنَّا سَمِعْنَا كِتَـٰبًا أُنزِلَ مِنۢ بَعْدِ مُوسَىٰ مُصَدِّقًا لِّمَا بَيْنَ يَدَيْهِ يَهْدِىٓ إِلَى ٱلْحَقِّ وَإِلَىٰ طَرِيقٍ مُّسْتَقِيمٍ",
+    "arabic2": "قالوا يا قومنا انا سمعنا كتابا انزل من بعد موسى مصدقا لما بين يديه يهدي الى الحق والى طريق مستقيم",
+    "bengali": "তারা বলল, ‘হে আমাদের কওম, আমরা তো এক কিতাবের বাণী শুনেছি, যা মূসার পরে নাযিল করা হয়েছে। যা পূর্ববর্তী কিতাবকে সত্যায়ন করে আর সত্য ও সরল পথের প্রতি হিদায়াত করে’।",
+    "urdu": "کہنے لگے کہ اے قوم! ہم نے ایک کتاب سنی ہے جو موسیٰ کے بعد نازل ہوئی ہے۔ جو (کتابیں) اس سے پہلے (نازل ہوئی) ہیں ان کی تصدیق کرتی ہے (اور) سچا (دین) اور سیدھا رستہ بتاتی ہے"
+}

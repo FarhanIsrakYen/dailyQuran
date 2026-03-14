@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 111,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_111.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002111.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_111.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002111.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_111.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002111.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_111.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002111.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_111.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002111.mp3"
+        }
+    },
+    "english": "The Jews and Christians each claim that none will enter Paradise except those of their own faith. These are their desires. Reply, ˹O Prophet,˺ “Show ˹me˺ your proof if what you say is true.”",
+    "arabic1": "وَقَالُوا۟ لَن يَدْخُلَ ٱلْجَنَّةَ إِلَّا مَن كَانَ هُودًا أَوْ نَصَـٰرَىٰ ۗ تِلْكَ أَمَانِيُّهُمْ ۗ قُلْ هَاتُوا۟ بُرْهَـٰنَكُمْ إِن كُنتُمْ صَـٰدِقِينَ",
+    "arabic2": "وقالوا لن يدخل الجنة الا من كان هودا او نصارى تلك امانيهم قل هاتوا برهانكم ان كنتم صادقين",
+    "bengali": "আর তারা বলে, ইয়াহূদী কিংবা নাসারা ছাড়া অন্য কেউ জান্নাতে প্রবেশ করবে না। এটা তাদের মিথ্যা আশা। বল, ‘তোমরা তোমাদের প্রমাণ নিয়ে আস, যদি তোমরা সত্যবাদী হয়ে থাক’।",
+    "urdu": "اور (یہودی اور عیسائی) کہتے ہیں کہ یہودیوں اور عیسائیوں کے سوا کوئی بہشت میں نہیں جانے کا۔ یہ ان لوگوں کے خیالاتِ باطل ہیں۔ (اے پیغمبر ان سے) کہہ دو کہ اگر سچے ہو تو دلیل پیش کرو"
+}

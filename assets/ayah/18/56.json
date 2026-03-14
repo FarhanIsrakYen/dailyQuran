@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Kahf",
+    "surahNameArabic": "الكهف",
+    "surahNameArabicLong": "سورة الكهف",
+    "surahNameTranslation": "The Cave",
+    "revelationPlace": "Mecca",
+    "totalAyah": 110,
+    "surahNo": 18,
+    "ayahNo": 56,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/18_56.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/018056.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/18_56.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/018056.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/18_56.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/018056.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/18_56.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/018056.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/18_56.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/018056.mp3"
+        }
+    },
+    "english": "We do not send the messengers except as deliverers of good news and warners. But the disbelievers argue in falsehood, ˹hoping˺ to discredit the truth with it, and make a mockery of My revelations and warnings.",
+    "arabic1": "وَمَا نُرْسِلُ ٱلْمُرْسَلِينَ إِلَّا مُبَشِّرِينَ وَمُنذِرِينَ ۚ وَيُجَـٰدِلُ ٱلَّذِينَ كَفَرُوا۟ بِٱلْبَـٰطِلِ لِيُدْحِضُوا۟ بِهِ ٱلْحَقَّ ۖ وَٱتَّخَذُوٓا۟ ءَايَـٰتِى وَمَآ أُنذِرُوا۟ هُزُوًا",
+    "arabic2": "وما نرسل المرسلين الا مبشرين ومنذرين ويجادل الذين كفروا بالباطل ليدحضوا به الحق واتخذوا اياتي وما انذروا هزوا",
+    "bengali": "আর আমি তো রাসূলদেরকে সুসংবাদদাতা ও সতর্ককারীরূপেই পাঠিয়েছি এবং যারা কুফরী করেছে তারা বাতিল দ্বারা তর্ক করে, যাতে তার মাধ্যমে সত্যকে মিটিয়ে দিতে পারে। আর তারা আমার আয়াতসমূহকে এবং যা দিয়ে তাদেরকে সতর্ক করা হয়েছে, তাকে উপহাস হিসেবে গ্রহণ করে।",
+    "urdu": "اور ہم جو پیغمبروں کو بھیجا کرتے ہیں تو صرف اس لئے کہ (لوگوں کو خدا کی نعمتوں کی) خوشخبریاں سنائیں اور (عذاب سے) ڈرائیں۔ اور جو کافر ہیں وہ باطل کی (سند) سے جھگڑا کرتے ہیں تاکہ اس سے حق کو پھسلا دیں اور انہوں نے ہماری آیتوں کو اور جس چیز سے ان کو ڈرایا جاتا ہے ہنسی بنا لیا"
+}

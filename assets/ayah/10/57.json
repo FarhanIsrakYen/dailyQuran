@@ -1,0 +1,42 @@
+{
+    "surahName": "Yunus",
+    "surahNameArabic": "يونس",
+    "surahNameArabicLong": "سورة يونس",
+    "surahNameTranslation": "Jonas",
+    "revelationPlace": "Mecca",
+    "totalAyah": 109,
+    "surahNo": 10,
+    "ayahNo": 57,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/10_57.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/010057.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/10_57.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/010057.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/10_57.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/010057.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/10_57.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/010057.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/10_57.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/010057.mp3"
+        }
+    },
+    "english": "O humanity! Indeed, there has come to you a warning from your Lord, a cure for what is in the hearts, a guide, and a mercy for the believers.",
+    "arabic1": "يَـٰٓأَيُّهَا ٱلنَّاسُ قَدْ جَآءَتْكُم مَّوْعِظَةٌ مِّن رَّبِّكُمْ وَشِفَآءٌ لِّمَا فِى ٱلصُّدُورِ وَهُدًى وَرَحْمَةٌ لِّلْمُؤْمِنِينَ",
+    "arabic2": "يا ايها الناس قد جاءتكم موعظة من ربكم وشفاء لما في الصدور وهدى ورحمة للمؤمنين",
+    "bengali": "হে মানুষ, তোমাদের রবের পক্ষ থেকে তোমাদের কাছে এসেছে উপদেশ এবং অন্তরসমূহে যা থাকে তার শিফা, আর মুমিনদের জন্য হিদায়াত ও রহমত।",
+    "urdu": "لوگو تمہارے پروردگار کی طرف سے نصیحت اور دلوں کی بیماریوں کی شفا۔ اور مومنوں کے لیے ہدایت اور رحمت آپہنچی ہے"
+}

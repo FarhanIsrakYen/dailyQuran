@@ -1,0 +1,42 @@
+{
+    "surahName": "Ghafir",
+    "surahNameArabic": "غافر",
+    "surahNameArabicLong": "سورة غافر",
+    "surahNameTranslation": "The Forgiver",
+    "revelationPlace": "Mecca",
+    "totalAyah": 85,
+    "surahNo": 40,
+    "ayahNo": 74,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/40_74.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/040074.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/40_74.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/040074.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/40_74.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/040074.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/40_74.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/040074.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/40_74.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/040074.mp3"
+        }
+    },
+    "english": "with Allah?” They will cry, “They have ˹all˺ failed us. In fact, we did not invoke anything ˹real˺ before.” This is how Allah leaves the disbelievers to stray.",
+    "arabic1": "مِن دُونِ ٱللَّهِ ۖ قَالُوا۟ ضَلُّوا۟ عَنَّا بَل لَّمْ نَكُن نَّدْعُوا۟ مِن قَبْلُ شَيْـًٔا ۚ كَذَٰلِكَ يُضِلُّ ٱللَّهُ ٱلْكَـٰفِرِينَ",
+    "arabic2": "من دون الله قالوا ضلوا عنا بل لم نكن ندعو من قبل شيئا كذلك يضل الله الكافرين",
+    "bengali": "আল্লাহ ছাড়া’? তারা বলবে, ‘তারা তো আমাদের কাছ থেকে উধাও হয়ে গেছে’, বরং এর পূর্বে আমরা কোন কিছুকে আহবান করিনি’। এভাবেই আল্লাহ কাফিরদেরকে পথভ্রষ্ট করেন।",
+    "urdu": "(یعنی غیر خدا) کہیں گے وہ تو ہم سے جاتے رہے بلکہ ہم تو پہلے کسی چیز کو پکارتے ہی نہیں تھے۔ اسی طرح خدا کافروں کو گمراہ کرتا ہے"
+}

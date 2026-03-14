@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 79,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_79.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002079.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_79.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002079.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_79.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002079.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_79.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002079.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_79.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002079.mp3"
+        }
+    },
+    "english": "So woe to those who distort the Scripture with their own hands then say, “This is from Allah”—seeking a fleeting gain! So woe to them for what their hands have written, and woe to them for what they have earned.",
+    "arabic1": "فَوَيْلٌ لِّلَّذِينَ يَكْتُبُونَ ٱلْكِتَـٰبَ بِأَيْدِيهِمْ ثُمَّ يَقُولُونَ هَـٰذَا مِنْ عِندِ ٱللَّهِ لِيَشْتَرُوا۟ بِهِۦ ثَمَنًا قَلِيلًا ۖ فَوَيْلٌ لَّهُم مِّمَّا كَتَبَتْ أَيْدِيهِمْ وَوَيْلٌ لَّهُم مِّمَّا يَكْسِبُونَ",
+    "arabic2": "فويل للذين يكتبون الكتاب بايديهم ثم يقولون هذا من عند الله ليشتروا به ثمنا قليلا فويل لهم مما كتبت ايديهم وويل لهم مما يكسبون",
+    "bengali": "সুতরাং ধ্বংস তাদের জন্য যারা নিজ হাতে কিতাব লিখে। তারপর বলে, ‘এটি আল্লাহর পক্ষ থেকে’, যাতে তা তুচ্ছ মূল্যে বিক্রি করতে পারে। সুতরাং তাদের হাত যা লিখেছে তার পরিণামে তাদের জন্য ধ্বংস, আর তারা যা উপার্জন করেছে তার কারণেও তাদের জন্য ধ্বংস।",
+    "urdu": "تو ان لوگوں پر افسوس ہے جو اپنے ہاتھ سے تو کتاب لکھتے ہیں اور کہتے یہ ہیں کہ یہ خدا کے پاس سے (آئی) ہے، تاکہ اس کے عوض تھوڑی سے قیمت (یعنی دنیوی منفعت) حاصل کریں۔ ان پر افسوس ہے، اس لیے کہ (بےاصل باتیں) اپنے ہاتھ سے لکھتے ہیں اور (پھر) ان پر افسوس ہے، اس لیے کہ ایسے کام کرتے ہیں"
+}

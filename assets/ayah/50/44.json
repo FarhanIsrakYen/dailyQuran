@@ -1,0 +1,42 @@
+{
+    "surahName": "Qaaf",
+    "surahNameArabic": "ق",
+    "surahNameArabicLong": "سورة ق",
+    "surahNameTranslation": "The letter Qaaf",
+    "revelationPlace": "Mecca",
+    "totalAyah": 45,
+    "surahNo": 50,
+    "ayahNo": 44,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/50_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/050044.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/50_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/050044.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/50_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/050044.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/50_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/050044.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/50_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/050044.mp3"
+        }
+    },
+    "english": "˹Beware of˺ the Day the earth will split open, letting them rush forth. That will be an easy gathering for Us.",
+    "arabic1": "يَوْمَ تَشَقَّقُ ٱلْأَرْضُ عَنْهُمْ سِرَاعًا ۚ ذَٰلِكَ حَشْرٌ عَلَيْنَا يَسِيرٌ",
+    "arabic2": "يوم تشقق الارض عنهم سراعا ذلك حشر علينا يسير",
+    "bengali": "সেদিন তাদের থেকে যমীন বিদীর্ণ হবে এবং লোকেরা দিগ্বিদিক্ ছুটাছুটি করতে থাকবে। এটি এমন এক সমাবেশ যা আমার পক্ষে অতীব সহজ।",
+    "urdu": "اس دن زمین ان پر سے پھٹ جائے گی اور وہ جھٹ پٹ نکل کھڑے ہوں گے۔ یہ جمع کرنا ہمیں آسان ہے"
+}

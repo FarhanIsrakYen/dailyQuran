@@ -1,0 +1,42 @@
+{
+    "surahName": "Fussilat",
+    "surahNameArabic": "فصلت",
+    "surahNameArabicLong": "سورة فصلت",
+    "surahNameTranslation": "Explained in detail",
+    "revelationPlace": "Mecca",
+    "totalAyah": 54,
+    "surahNo": 41,
+    "ayahNo": 45,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/41_45.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/041045.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/41_45.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/041045.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/41_45.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/041045.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/41_45.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/041045.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/41_45.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/041045.mp3"
+        }
+    },
+    "english": "Indeed, We had given Moses the Scripture, but differences arose regarding it. Had it not been for a prior decree from your Lord, their differences would have been settled ˹at once˺. They are truly in alarming doubt about it.",
+    "arabic1": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ فَٱخْتُلِفَ فِيهِ ۗ وَلَوْلَا كَلِمَةٌ سَبَقَتْ مِن رَّبِّكَ لَقُضِىَ بَيْنَهُمْ ۚ وَإِنَّهُمْ لَفِى شَكٍّ مِّنْهُ مُرِيبٍ",
+    "arabic2": "ولقد اتينا موسى الكتاب فاختلف فيه ولولا كلمة سبقت من ربك لقضي بينهم وانهم لفي شك منه مريب",
+    "bengali": "আর অবশ্যই আমি মূসাকে কিতাব দিয়েছিলাম। অতঃপর তাতে মতভেদ করা হয়। আর যদি তোমার রবের পক্ষ থেকে একটি বাণী পূর্বেই না হত, তবে এদের মধ্যে ফয়সালা হয়ে যেত। আর এরা নিশ্চয় সে সম্পর্কে বিভ্রান্তিকর সংশয়েই লিপ্ত রয়েছে।",
+    "urdu": "اور ہم نے موسیٰ کو کتاب دی تو اس میں اختلاف کیا گیا۔ اور اگر تمہارے پروردگار کی طرف سے ایک بات پہلے نہ ٹھہر چکی ہوتی تو ان میں فیصلہ کردیا جاتا۔ اور یہ اس (قرآن) سے شک میں الجھ رہے ہیں"
+}

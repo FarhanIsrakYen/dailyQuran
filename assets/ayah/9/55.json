@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 55,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/9_55.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/009055.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/9_55.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/009055.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/9_55.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/009055.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/9_55.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/009055.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/9_55.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/009055.mp3"
+        }
+    },
+    "english": "So let neither their wealth nor children impress you ˹O Prophet˺. Allah only intends to torment them through these things in this worldly life, then their souls will depart while they are disbelievers.",
+    "arabic1": "فَلَا تُعْجِبْكَ أَمْوَٰلُهُمْ وَلَآ أَوْلَـٰدُهُمْ ۚ إِنَّمَا يُرِيدُ ٱللَّهُ لِيُعَذِّبَهُم بِهَا فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا وَتَزْهَقَ أَنفُسُهُمْ وَهُمْ كَـٰفِرُونَ",
+    "arabic2": "فلا تعجبك اموالهم ولا اولادهم انما يريد الله ليعذبهم بها في الحياة الدنيا وتزهق انفسهم وهم كافرون",
+    "bengali": "অতএব তোমাকে যেন মুগ্ধ না করে তাদের ধন-সম্পদ এবং সন্তানাদি, আল্লাহ এর দ্বারা কেবল তাদের আযাব দিতে চান দুনিয়ার জীবনে এবং তাদের জান বের হবে কাফির অবস্থায়।",
+    "urdu": "تم ان کے مال اور اولاد سے تعجب نہ کرنا۔ خدا چاہتا ہے کہ ان چیزوں سے دنیا کی زندگی میں ان کو عذاب دے اور (جب) ان کی جان نکلے تو (اس وقت بھی) وہ کافر ہی ہوں"
+}

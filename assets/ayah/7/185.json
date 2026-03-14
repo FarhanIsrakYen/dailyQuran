@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 185,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/7_185.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/007185.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/7_185.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/007185.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/7_185.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/007185.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/7_185.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/007185.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/7_185.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/007185.mp3"
+        }
+    },
+    "english": "Have they ever reflected on the wonders of the heavens and the earth, and everything Allah has created, and that perhaps their end is near? So what message after this ˹Quran˺ would they believe in?",
+    "arabic1": "أَوَلَمْ يَنظُرُوا۟ فِى مَلَكُوتِ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَمَا خَلَقَ ٱللَّهُ مِن شَىْءٍ وَأَنْ عَسَىٰٓ أَن يَكُونَ قَدِ ٱقْتَرَبَ أَجَلُهُمْ ۖ فَبِأَىِّ حَدِيثٍۭ بَعْدَهُۥ يُؤْمِنُونَ",
+    "arabic2": "اولم ينظروا في ملكوت السماوات والارض وما خلق الله من شيء وان عسى ان يكون قد اقترب اجلهم فباي حديث بعده يؤمنون",
+    "bengali": "তারা কি দৃষ্টিপাত করেনি আসমানসমূহ ও যমীনের রাজত্বে এবং আল্লাহ যা কিছু সৃষ্টি করেছেন তার প্রতি? আর (এর প্রতি যে) হয়তো তাদের নির্দিষ্ট সময় নিকটে এসে গিয়েছে? সুতরাং তারা এরপর আর কোন্ কথার প্রতি ঈমান আনবে?",
+    "urdu": "کیا انہوں نے آسمان اور زمین کی بادشاہت میں جو چیزیں خدا نے پیدا کی ہیں ان پر نظر نہیں کی اور اس بات پر (خیال نہیں کیا) کہ عجب نہیں ان (کی موت) کا وقت نزدیک پہنچ گیا ہو۔ تو اس کے بعد وہ اور کس بات پر ایمان لائیں گے"
+}

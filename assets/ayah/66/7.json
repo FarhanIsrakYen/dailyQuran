@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Tahrim",
+    "surahNameArabic": "التحريم",
+    "surahNameArabicLong": "سورة التحريم",
+    "surahNameTranslation": "The Prohibition",
+    "revelationPlace": "Madina",
+    "totalAyah": 12,
+    "surahNo": 66,
+    "ayahNo": 7,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/66_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/066007.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/66_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/066007.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/66_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/066007.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/66_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/066007.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/66_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/066007.mp3"
+        }
+    },
+    "english": "˹The deniers will then be told,˺ “O disbelievers! Make no excuses this Day! You are only rewarded for what you used to do.”",
+    "arabic1": "يَـٰٓأَيُّهَا ٱلَّذِينَ كَفَرُوا۟ لَا تَعْتَذِرُوا۟ ٱلْيَوْمَ ۖ إِنَّمَا تُجْزَوْنَ مَا كُنتُمْ تَعْمَلُونَ",
+    "arabic2": "يا ايها الذين كفروا لا تعتذروا اليوم انما تجزون ما كنتم تعملون",
+    "bengali": "হে কাফিরগণ, আজ তোমরা ওজর পেশ করো না; তোমরা যে ‘আমল করতে তার প্রতিফলই তোমাদেরকে দেয়া হচ্ছে।",
+    "urdu": "کافرو! آج بہانے مت بناؤ۔ جو عمل تم کیا کرتے ہو ان ہی کا تم کو بدلہ دیا جائے گا"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Ar-Room",
+    "surahNameArabic": "الروم",
+    "surahNameArabicLong": "سورة الروم",
+    "surahNameTranslation": "The Romans",
+    "revelationPlace": "Mecca",
+    "totalAyah": 60,
+    "surahNo": 30,
+    "ayahNo": 45,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/30_45.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/030045.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/30_45.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/030045.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/30_45.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/030045.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/30_45.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/030045.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/30_45.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/030045.mp3"
+        }
+    },
+    "english": "so that He may ˹generously˺ reward those who believe and do good, out of His grace. He truly does not like the disbelievers.",
+    "arabic1": "لِيَجْزِىَ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ مِن فَضْلِهِۦٓ ۚ إِنَّهُۥ لَا يُحِبُّ ٱلْكَـٰفِرِينَ",
+    "arabic2": "ليجزي الذين امنوا وعملوا الصالحات من فضله انه لا يحب الكافرين",
+    "bengali": "যেন তিনি স্বীয় অনুগ্রহে প্রতিদান দেন, যারা ঈমান আনে এবং সৎকাজ করে তাদেরকে। নিশ্চয় তিনি কাফিরদের ভালবাসেন না।",
+    "urdu": "جو لوگ ایمان لائے اور نیک عمل کرتے رہے اُن کو خدا اپنے فضل سے بدلہ دے گا۔ بیشک وہ کافروں کو دوست نہیں رکھتا"
+}

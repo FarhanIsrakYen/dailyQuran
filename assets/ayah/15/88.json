@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Hijr",
+    "surahNameArabic": "الحجر",
+    "surahNameArabicLong": "سورة الحجر",
+    "surahNameTranslation": "The Rock",
+    "revelationPlace": "Mecca",
+    "totalAyah": 99,
+    "surahNo": 15,
+    "ayahNo": 88,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/15_88.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/015088.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/15_88.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/015088.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/15_88.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/015088.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/15_88.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/015088.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/15_88.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/015088.mp3"
+        }
+    },
+    "english": "Do not let your eyes crave the ˹fleeting˺ pleasures We have provided for some of the disbelievers, nor grieve for them. And be gracious to the believers.",
+    "arabic1": "لَا تَمُدَّنَّ عَيْنَيْكَ إِلَىٰ مَا مَتَّعْنَا بِهِۦٓ أَزْوَٰجًا مِّنْهُمْ وَلَا تَحْزَنْ عَلَيْهِمْ وَٱخْفِضْ جَنَاحَكَ لِلْمُؤْمِنِينَ",
+    "arabic2": "لا تمدن عينيك الى ما متعنا به ازواجا منهم ولا تحزن عليهم واخفض جناحك للمؤمنين",
+    "bengali": "আমি তাদের কিছু শ্রেণীকে যে ভোগ-উপকরণ দিয়েছি, তার প্রতি তুমি দু’চোখ প্রসারিত করো না। আর তাদের জন্য দুঃখিত হয়ো না এবং মুমিনদের জন্য তোমার বাহু অবনত কর।",
+    "urdu": "اور ہم نے کفار کی کئی جماعتوں کو جو (فوائد دنیاوی سے) متمتع کیا ہے تم ان کی طرف (رغبت سے) آنکھ اٹھا کر نہ دیکھنا اور نہ ان کے حال پر تاسف کرنا اور مومنوں سے خاطر اور تواضع سے پیش آنا"
+}

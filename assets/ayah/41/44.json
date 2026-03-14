@@ -1,0 +1,42 @@
+{
+    "surahName": "Fussilat",
+    "surahNameArabic": "فصلت",
+    "surahNameArabicLong": "سورة فصلت",
+    "surahNameTranslation": "Explained in detail",
+    "revelationPlace": "Mecca",
+    "totalAyah": 54,
+    "surahNo": 41,
+    "ayahNo": 44,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/41_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/041044.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/41_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/041044.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/41_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/041044.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/41_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/041044.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/41_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/041044.mp3"
+        }
+    },
+    "english": "Had We revealed it as a non-Arabic Quran, they would have certainly argued, “If only its verses were made clear ˹in our language˺. What! A non-Arabic revelation for an Arab audience!” Say, ˹O Prophet,˺ “It is a guide and a healing to the believers. As for those who disbelieve, there is deafness in their ears and blindness to it ˹in their hearts˺. It is as if they are being called from a faraway place.”",
+    "arabic1": "وَلَوْ جَعَلْنَـٰهُ قُرْءَانًا أَعْجَمِيًّا لَّقَالُوا۟ لَوْلَا فُصِّلَتْ ءَايَـٰتُهُۥٓ ۖ ءَا۬عْجَمِىٌّ وَعَرَبِىٌّ ۗ قُلْ هُوَ لِلَّذِينَ ءَامَنُوا۟ هُدًى وَشِفَآءٌ ۖ وَٱلَّذِينَ لَا يُؤْمِنُونَ فِىٓ ءَاذَانِهِمْ وَقْرٌ وَهُوَ عَلَيْهِمْ عَمًى ۚ أُو۟لَـٰٓئِكَ يُنَادَوْنَ مِن مَّكَانٍۭ بَعِيدٍ",
+    "arabic2": "ولو جعلناه قرانا اعجميا لقالوا لولا فصلت اياته ااعجمي وعربي قل هو للذين امنوا هدى وشفاء والذين لا يؤمنون في اذانهم وقر وهو عليهم عمى اولئك ينادون من مكان بعيد",
+    "bengali": "আর আমি যদি এটাকে অনারবী ভাষার কুরআন বানাতাম তবে তারা নিশ্চিতভাবেই বলত, ‘এর আয়াতসমূহ বিশদভাষায় বর্ণিত হয়নি কেন’? এটি অনারবী ভাষায় আর রাসূল আরবী ভাষী! বল, ‘এটি মুমিনদের জন্য হিদায়াত ও প্রতিষেধক। আর যারা ঈমান আনে না তাদের কানে রয়েছে বধিরতা আর কুরআন তাদের জন্য হবে অন্ধত্ব। তাদেরকেই ডাকা হবে দূরবর্তী স্থান থেকে।",
+    "urdu": "اور اگر ہم اس قرآن کو غیر زبان عرب میں (نازل) کرتے تو یہ لوگ کہتے کہ اس کی آیتیں (ہماری زبان میں) کیوں کھول کر بیان نہیں کی گئیں۔ کیا (خوب کہ قرآن تو) عجمی اور (مخاطب) عربی۔ کہہ دو کہ جو ایمان لاتے ہیں ان کے لئے (یہ) ہدایت اور شفا ہے۔ اور جو ایمان نہیں لاتے ان کے کانوں میں گرانی (یعنی بہراپن) ہے اور یہ ان کے حق میں (موجب) نابینائی ہے۔ گرانی کے سبب ان کو (گویا) دور جگہ سے آواز دی جاتی ہے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 153,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/4_153.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/004153.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/4_153.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/004153.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/4_153.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/004153.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/4_153.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/004153.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/4_153.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/004153.mp3"
+        }
+    },
+    "english": "The People of the Book demand that you ˹O Prophet˺ bring down for them a revelation in writing from heaven. They demanded what is even greater than this from Moses, saying, “Make Allah visible to us!” So a thunderbolt struck them for their wrongdoing. Then they took the calf for worship after receiving clear signs. Still We forgave them for that ˹after their repentance˺ and gave Moses compelling proof.",
+    "arabic1": "يَسْـَٔلُكَ أَهْلُ ٱلْكِتَـٰبِ أَن تُنَزِّلَ عَلَيْهِمْ كِتَـٰبًا مِّنَ ٱلسَّمَآءِ ۚ فَقَدْ سَأَلُوا۟ مُوسَىٰٓ أَكْبَرَ مِن ذَٰلِكَ فَقَالُوٓا۟ أَرِنَا ٱللَّهَ جَهْرَةً فَأَخَذَتْهُمُ ٱلصَّـٰعِقَةُ بِظُلْمِهِمْ ۚ ثُمَّ ٱتَّخَذُوا۟ ٱلْعِجْلَ مِنۢ بَعْدِ مَا جَآءَتْهُمُ ٱلْبَيِّنَـٰتُ فَعَفَوْنَا عَن ذَٰلِكَ ۚ وَءَاتَيْنَا مُوسَىٰ سُلْطَـٰنًا مُّبِينًا",
+    "arabic2": "يسالك اهل الكتاب ان تنزل عليهم كتابا من السماء فقد سالوا موسى اكبر من ذلك فقالوا ارنا الله جهرة فاخذتهم الصاعقة بظلمهم ثم اتخذوا العجل من بعد ما جاءتهم البينات فعفونا عن ذلك واتينا موسى سلطانا مبينا",
+    "bengali": "কিতাবীগণ তোমার নিকট চায় যে, আসমান থেকে তুমি তাদের উপর একটি কিতাব নাযিল কর। অথচ তারা মূসার কাছে এর চেয়ে বড় কিছু চেয়েছিল, যখন তারা বলেছিল, ‘আমাদেরকে সামনাসামনি আল্লাহকে দেখাও’। ফলে তাদেরকে তাদের অন্যায়ের কারণে বজ্র পাকড়াও করেছিল। অতঃপর তারা বাছুরকে (উপাস্যরূপে) গ্রহণ করল, তাদের নিকট স্পষ্ট প্রমাণসমূহ আসার পরও। তারপর আমি তা ক্ষমা করে দিয়েছিলাম এবং মূসাকে দিয়েছিলাম সুস্পষ্ট প্রমাণ।",
+    "urdu": "(اے محمدﷺ) اہل کتاب تم سے درخواست کرتے ہیں کہ تم ان پر ایک (لکھی ہوئی) کتاب آسمان سے اتار لاؤ تو یہ موسیٰ سے اس سے بھی بڑی بڑی درخواستیں کرچکے ہیں (ان سے) کہتے تھے ہمیں خدا ظاہر (یعنی آنکھوں سے) دکھا دو سو ان کے گناہ کی وجہ سے ان کو بجلی نے آپکڑا۔ پھر کھلی نشانیاں آئے پیچھے بچھڑے کو (معبود) بنا بیٹھے تو اس سے بھی ہم نے درگزر کی۔ اور موسیٰ کو صریح غلبہ دیا"
+}

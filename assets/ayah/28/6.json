@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Qasas",
+    "surahNameArabic": "القصص",
+    "surahNameArabicLong": "سورة القصص",
+    "surahNameTranslation": "The Stories",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 28,
+    "ayahNo": 6,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/28_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/028006.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/28_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/028006.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/28_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/028006.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/28_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/028006.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/28_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/028006.mp3"
+        }
+    },
+    "english": "and to establish them in the land; and through them show Pharaoh, Hamân, and their soldiers ˹the fulfilment of˺ what they feared.",
+    "arabic1": "وَنُمَكِّنَ لَهُمْ فِى ٱلْأَرْضِ وَنُرِىَ فِرْعَوْنَ وَهَـٰمَـٰنَ وَجُنُودَهُمَا مِنْهُم مَّا كَانُوا۟ يَحْذَرُونَ",
+    "arabic2": "ونمكن لهم في الارض ونري فرعون وهامان وجنودهما منهم ما كانوا يحذرون",
+    "bengali": "আর যমীনে তাদেরকে ক্ষমতায় অধিষ্ঠিত করতে এবং ফির‘আউন, হামান ও তাদের সৈন্যদেরকে দেখিয়ে দিতে, যা তারা তাদের কাছ থেকে আশঙ্কা করছিল।",
+    "urdu": "اور ملک میں ان کو قدرت دیں اور فرعون اور ہامان اور اُن کے لشکر کو وہ چیزیں دکھا دیں جس سے وہ ڈرتے تھے"
+}

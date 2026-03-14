@@ -1,0 +1,42 @@
+{
+    "surahName": "Hud",
+    "surahNameArabic": "هود",
+    "surahNameArabicLong": "سورة هود",
+    "surahNameTranslation": "Hud",
+    "revelationPlace": "Mecca",
+    "totalAyah": 123,
+    "surahNo": 11,
+    "ayahNo": 88,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/11_88.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/011088.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/11_88.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/011088.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/11_88.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/011088.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/11_88.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/011088.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/11_88.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/011088.mp3"
+        }
+    },
+    "english": "He said, “O my people! Consider if I stand on a clear proof from my Lord and He has blessed me with a good provision from Him. I do not want to do what I am forbidding you from. I only intend reform to the best of my ability. My success comes only through Allah. In Him I trust and to Him I turn.",
+    "arabic1": "قَالَ يَـٰقَوْمِ أَرَءَيْتُمْ إِن كُنتُ عَلَىٰ بَيِّنَةٍ مِّن رَّبِّى وَرَزَقَنِى مِنْهُ رِزْقًا حَسَنًا ۚ وَمَآ أُرِيدُ أَنْ أُخَالِفَكُمْ إِلَىٰ مَآ أَنْهَىٰكُمْ عَنْهُ ۚ إِنْ أُرِيدُ إِلَّا ٱلْإِصْلَـٰحَ مَا ٱسْتَطَعْتُ ۚ وَمَا تَوْفِيقِىٓ إِلَّا بِٱللَّهِ ۚ عَلَيْهِ تَوَكَّلْتُ وَإِلَيْهِ أُنِيبُ",
+    "arabic2": "قال يا قوم ارايتم ان كنت على بينة من ربي ورزقني منه رزقا حسنا وما اريد ان اخالفكم الى ما انهاكم عنه ان اريد الا الاصلاح ما استطعت وما توفيقي الا بالله عليه توكلت واليه انيب",
+    "bengali": "সে বলল, ‘হে আমার কওম, তোমরা কী মনে কর, আমি যদি আমার রবের পক্ষ থেকে স্পষ্ট প্রমাণের উপর থাকি এবং তিনি আমাকে তাঁর পক্ষ থেকে উত্তম রিয্ক দান করে থাকেন (তাহলে কী করে আমি আমার দায়িত্ব পরিত্যাগ করব)! যে কাজ থেকে আমি তোমাদেরকে নিষেধ করছি, তোমাদের বিরোধিতা করে সে কাজটি আমি করতে চাই না। আমি আমার সাধ্যমত সংশোধন চাই। আল্লাহর সহায়তা ছাড়া আমার কোন তওফীক নেই। আমি তাঁরই উপর তাওয়াক্কুল করেছি এবং তাঁরই কাছে ফিরে যাই’।",
+    "urdu": "انہوں نے کہا کہ اے قوم! دیکھو تو اگر میں اپنے پروردگار کی طرف سے دلیل روشن پر ہوں اور اس نے اپنے ہاں سے مجھے نیک روزی دی ہو (تو کیا میں ان کے خلاف کروں گا؟) اور میں نہیں چاہتا کہ جس امر سے میں تمہیں منع کروں خود اس کو کرنے لگوں۔ میں تو جہاں تک مجھ سے ہوسکے (تمہارے معاملات کی) اصلاح چاہتا ہوں اور (اس بارے میں) مجھے توفیق کا ملنا خدا ہی (کے فضل) سے ہے۔ میں اسی پر بھروسہ رکھتا ہوں اور اس کی طرف رجوع کرتا ہوں"
+}

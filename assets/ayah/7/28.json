@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 28,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/7_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/007028.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/7_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/007028.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/7_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/007028.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/7_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/007028.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/7_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/007028.mp3"
+        }
+    },
+    "english": "Whenever they commit a shameful deed, they say, “We found our forefathers doing it and Allah has commanded us to do it.” Say, “No! Allah never commands what is shameful. How can you attribute to Allah what you do not know?”",
+    "arabic1": "وَإِذَا فَعَلُوا۟ فَـٰحِشَةً قَالُوا۟ وَجَدْنَا عَلَيْهَآ ءَابَآءَنَا وَٱللَّهُ أَمَرَنَا بِهَا ۗ قُلْ إِنَّ ٱللَّهَ لَا يَأْمُرُ بِٱلْفَحْشَآءِ ۖ أَتَقُولُونَ عَلَى ٱللَّهِ مَا لَا تَعْلَمُونَ",
+    "arabic2": "واذا فعلوا فاحشة قالوا وجدنا عليها اباءنا والله امرنا بها قل ان الله لا يامر بالفحشاء اتقولون على الله ما لا تعلمون",
+    "bengali": "আর যখন তারা কোন অশ্লীল কাজ করে তখন বলে, ‘আমরা এতে আমাদের পিতৃপুরুষদেরকে পেয়েছি এবং আল্লাহ আমাদেরকে এর নির্দেশ দিয়েছেন’। বল, ‘নিশ্চয় আল্লাহ অশ্লীল কাজের নির্দেশ দেন না। তোমরা কি আল্লাহর ব্যাপারে এমন কিছু বলছ, যা তোমরা জান না’?",
+    "urdu": "اور جب کوئی بے حیائی کا کام کرتے ہیں تو کہتے ہیں کہ ہم نے اپنے بزرگوں کو اسی طرح کرتے دیکھا ہے اور خدا نے بھی ہم کو یہی حکم دیا ہے۔ کہہ دو خدا بےحیائی کے کام کرنے کا ہرگز حکم نہیں دیتا۔ بھلا تم خدا کی نسبت ایسی بات کیوں کہتے ہو جس کا تمہیں علم نہیں"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nahl",
+    "surahNameArabic": "النحل",
+    "surahNameArabicLong": "سورة النحل",
+    "surahNameTranslation": "The Bee",
+    "revelationPlace": "Mecca",
+    "totalAyah": 128,
+    "surahNo": 16,
+    "ayahNo": 11,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/16_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/016011.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/16_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/016011.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/16_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/016011.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/16_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/016011.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/16_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/016011.mp3"
+        }
+    },
+    "english": "With it He produces for you ˹various˺ crops, olives, palm trees, grapevines, and every type of fruit. Surely in this is a sign for those who reflect.",
+    "arabic1": "يُنۢبِتُ لَكُم بِهِ ٱلزَّرْعَ وَٱلزَّيْتُونَ وَٱلنَّخِيلَ وَٱلْأَعْنَـٰبَ وَمِن كُلِّ ٱلثَّمَرَٰتِ ۗ إِنَّ فِى ذَٰلِكَ لَـَٔايَةً لِّقَوْمٍ يَتَفَكَّرُونَ",
+    "arabic2": "ينبت لكم به الزرع والزيتون والنخيل والاعناب ومن كل الثمرات ان في ذلك لاية لقوم يتفكرون",
+    "bengali": "তার মাধ্যমে তিনি তোমাদের জন্য উৎপন্ন করেন ফসল, যাইতুন, খেজুর গাছ, আঙ্গুর এবং সকল ফল-ফলাদি। নিশ্চয় এতে নিদর্শন রয়েছে এমন কওমের জন্য, যারা চিন্তা করে।",
+    "urdu": "اسی پانی سے وہ تمہارے لیے کھیتی اور زیتون اور کھجور اور انگور (اور بےشمار درخت) اُگاتا ہے۔ اور ہر طرح کے پھل (پیدا کرتا ہے) غور کرنے والوں کے لیے اس میں (قدرتِ خدا کی بڑی) نشانی ہے"
+}

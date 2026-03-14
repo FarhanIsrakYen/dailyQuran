@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Maaida",
+    "surahNameArabic": "المائدة",
+    "surahNameArabicLong": "سورة المائدة",
+    "surahNameTranslation": "The Table",
+    "revelationPlace": "Madina",
+    "totalAyah": 120,
+    "surahNo": 5,
+    "ayahNo": 108,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/5_108.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/005108.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/5_108.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/005108.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/5_108.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/005108.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/5_108.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/005108.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/5_108.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/005108.mp3"
+        }
+    },
+    "english": "In this way it is more likely that witnesses will give true testimony or else fear that their oaths could be refuted by those of the heirs. Be mindful of Allah and obey. For Allah does not guide the rebellious people.",
+    "arabic1": "ذَٰلِكَ أَدْنَىٰٓ أَن يَأْتُوا۟ بِٱلشَّهَـٰدَةِ عَلَىٰ وَجْهِهَآ أَوْ يَخَافُوٓا۟ أَن تُرَدَّ أَيْمَـٰنٌۢ بَعْدَ أَيْمَـٰنِهِمْ ۗ وَٱتَّقُوا۟ ٱللَّهَ وَٱسْمَعُوا۟ ۗ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلْفَـٰسِقِينَ",
+    "arabic2": "ذلك ادنى ان ياتوا بالشهادة على وجهها او يخافوا ان ترد ايمان بعد ايمانهم واتقوا الله واسمعوا والله لا يهدي القوم الفاسقين",
+    "bengali": "এটি নিকটতম যে, তারা সাক্ষ্য সঠিকভাবে উপস্থাপন করবে অথবা তারা (মিথ্যা সাক্ষ্য প্রদানকারীরা) ভয় করবে যে, তাদের (নিকটাত্মীয়দের) কসমের পর (পূর্বোক্ত) কসম প্রত্যাখ্যান করা হবে। আর আল্লাহর তাকওয়া অবলম্বন কর এবং শুন! আর আল্লাহ ফাসিক কওমকে হিদায়াত করেন না।",
+    "urdu": "اس طریق سے بہت قریب ہے کہ یہ لوگ صحیح صحیح شہادت دیں یا اس بات سے خوف کریں کہ (ہماری) قسمیں ان کی قسموں کے بعد رد کر دی جائیں گی اور خدا سے ڈرو اور اس کے حکموں کو (گوشِ ہوش سے) سنو اور خدا نافرمان لوگوں کو ہدایت نہیں دیتا"
+}

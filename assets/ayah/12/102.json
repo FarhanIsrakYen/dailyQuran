@@ -1,0 +1,42 @@
+{
+    "surahName": "Yusuf",
+    "surahNameArabic": "يوسف",
+    "surahNameArabicLong": "سورة يوسف",
+    "surahNameTranslation": "Joseph",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 12,
+    "ayahNo": 102,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/12_102.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/012102.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/12_102.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/012102.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/12_102.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/012102.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/12_102.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/012102.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/12_102.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/012102.mp3"
+        }
+    },
+    "english": "That is from the stories of the unseen which We reveal to you ˹O Prophet˺. You were not present when they ˹all˺ made up their minds, and when they plotted ˹against Joseph˺.",
+    "arabic1": "ذَٰلِكَ مِنْ أَنۢبَآءِ ٱلْغَيْبِ نُوحِيهِ إِلَيْكَ ۖ وَمَا كُنتَ لَدَيْهِمْ إِذْ أَجْمَعُوٓا۟ أَمْرَهُمْ وَهُمْ يَمْكُرُونَ",
+    "arabic2": "ذلك من انباء الغيب نوحيه اليك وما كنت لديهم اذ اجمعوا امرهم وهم يمكرون",
+    "bengali": "এগুলো গায়েবের সংবাদ, যা আমি তোমার কাছে ওহী করছি। তুমি তো তাদের নিকট ছিলে না যখন তারা তাদের সিদ্ধান্তে একমত হয়েছিল অথচ তারা ষড়যন্ত্র করছিল।",
+    "urdu": "(اے پیغمبر) یہ اخبار غیب میں سے ہیں جو ہم تمہاری طرف بھیجتے ہیں اور جب برادران یوسف نے اپنی بات پر اتفاق کیا تھا اور وہ فریب کر رہے تھے تو تم ان کے پاس تو نہ تھے"
+}

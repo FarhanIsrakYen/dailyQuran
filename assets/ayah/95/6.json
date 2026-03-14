@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Tin",
+    "surahNameArabic": "التين",
+    "surahNameArabicLong": "سورة التين",
+    "surahNameTranslation": "The Fig",
+    "revelationPlace": "Mecca",
+    "totalAyah": 8,
+    "surahNo": 95,
+    "ayahNo": 6,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/95_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/095006.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/95_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/095006.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/95_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/095006.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/95_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/095006.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/95_6.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/095006.mp3"
+        }
+    },
+    "english": "except those who believe and do good—they will have a never-ending reward.",
+    "arabic1": "إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ فَلَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ",
+    "arabic2": "الا الذين امنوا وعملوا الصالحات فلهم اجر غير ممنون",
+    "bengali": "তবে যারা ঈমান এনেছে এবং সৎকর্ম করেছে, তাদের জন্য রয়েছে নিরবচ্ছিন্ন পুরস্কার।",
+    "urdu": "مگر جو لوگ ایمان لائے اور نیک عمل کرتے رہے انکے لیے بےانتہا اجر ہے"
+}

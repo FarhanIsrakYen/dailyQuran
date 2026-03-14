@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Najm",
+    "surahNameArabic": "النجم",
+    "surahNameArabicLong": "سورة النجم",
+    "surahNameTranslation": "The Star",
+    "revelationPlace": "Mecca",
+    "totalAyah": 62,
+    "surahNo": 53,
+    "ayahNo": 27,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/53_27.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/053027.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/53_27.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/053027.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/53_27.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/053027.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/53_27.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/053027.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/53_27.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/053027.mp3"
+        }
+    },
+    "english": "Indeed, those who do not believe in the Hereafter label angels as female",
+    "arabic1": "إِنَّ ٱلَّذِينَ لَا يُؤْمِنُونَ بِٱلْـَٔاخِرَةِ لَيُسَمُّونَ ٱلْمَلَـٰٓئِكَةَ تَسْمِيَةَ ٱلْأُنثَىٰ",
+    "arabic2": "ان الذين لا يؤمنون بالاخرة ليسمون الملائكة تسمية الانثى",
+    "bengali": "নিশ্চয় যারা আখিরাতে বিশ্বাস করে না, তারাই ফেরেশতাদেরকে নারীবাচক নামে নামকরণ করে থাকে।",
+    "urdu": "جو لوگ آخرت پر ایمان نہیں لاتے وہ فرشتوں کو (خدا کی) لڑکیوں کے نام سے موسوم کرتے ہیں"
+}

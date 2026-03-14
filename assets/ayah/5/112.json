@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Maaida",
+    "surahNameArabic": "المائدة",
+    "surahNameArabicLong": "سورة المائدة",
+    "surahNameTranslation": "The Table",
+    "revelationPlace": "Madina",
+    "totalAyah": 120,
+    "surahNo": 5,
+    "ayahNo": 112,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/5_112.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/005112.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/5_112.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/005112.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/5_112.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/005112.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/5_112.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/005112.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/5_112.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/005112.mp3"
+        }
+    },
+    "english": "˹Remember˺ when the disciples asked, “O Jesus, son of Mary! Would your Lord be willing to send down to us a table spread with food from heaven?” Jesus answered, “Fear Allah if you are ˹truly˺ believers.”",
+    "arabic1": "إِذْ قَالَ ٱلْحَوَارِيُّونَ يَـٰعِيسَى ٱبْنَ مَرْيَمَ هَلْ يَسْتَطِيعُ رَبُّكَ أَن يُنَزِّلَ عَلَيْنَا مَآئِدَةً مِّنَ ٱلسَّمَآءِ ۖ قَالَ ٱتَّقُوا۟ ٱللَّهَ إِن كُنتُم مُّؤْمِنِينَ",
+    "arabic2": "اذ قال الحواريون يا عيسى ابن مريم هل يستطيع ربك ان ينزل علينا مائدة من السماء قال اتقوا الله ان كنتم مؤمنين",
+    "bengali": "যখন হাওয়ারীগণ বলেছিল, ‘হে মারইয়ামের পুত্র ঈসা, তোমার রব কি পারে আমাদের উপর আসমান থেকে খাবারপূর্ণ দস্তরখান নাযিল করতে?’ সে বলেছিল, ‘আল্লাহর তাকওয়া অবলম্বন কর, যদি তোমরা মুমিন হও’।",
+    "urdu": "(وہ قصہ بھی یاد کرو) جب حواریوں نے کہا کہ اے عیسیٰ بن مریم! کیا تمہارا پروردگار ایسا کر سکتا ہے کہ ہم پر آسمان سے (طعام کا) خوان نازل کرے؟ انہوں نے کہا کہ اگر ایمان رکھتے ہو تو خدا سے ڈرو"
+}

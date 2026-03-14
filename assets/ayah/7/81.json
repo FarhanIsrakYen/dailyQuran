@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 81,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/7_81.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/007081.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/7_81.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/007081.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/7_81.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/007081.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/7_81.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/007081.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/7_81.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/007081.mp3"
+        }
+    },
+    "english": "You lust after men instead of women! You are certainly transgressors.”",
+    "arabic1": "إِنَّكُمْ لَتَأْتُونَ ٱلرِّجَالَ شَهْوَةً مِّن دُونِ ٱلنِّسَآءِ ۚ بَلْ أَنتُمْ قَوْمٌ مُّسْرِفُونَ",
+    "arabic2": "انكم لتاتون الرجال شهوة من دون النساء بل انتم قوم مسرفون",
+    "bengali": "‘তোমরা তো নারীদের ছাড়া পুরুষদের সাথে কামনা পূর্ণ করছ, বরং তোমরা সীমালঙ্ঘনকারী কওম’।",
+    "urdu": "یعنی خواہش نفسانی پورا کرنے کے لیے عورتوں کو چھوڑ کر لونڈوں پر گرتے ہو۔ حقیقت یہ ہے کہ تم لوگ حد سے نکل جانے والے ہو"
+}

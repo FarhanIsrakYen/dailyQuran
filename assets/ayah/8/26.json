@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Anfaal",
+    "surahNameArabic": "الأنفال",
+    "surahNameArabicLong": "سورة الأنفال",
+    "surahNameTranslation": "The Spoils of War",
+    "revelationPlace": "Madina",
+    "totalAyah": 75,
+    "surahNo": 8,
+    "ayahNo": 26,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/8_26.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/008026.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/8_26.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/008026.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/8_26.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/008026.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/8_26.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/008026.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/8_26.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/008026.mp3"
+        }
+    },
+    "english": "Remember when you had been vastly outnumbered and oppressed in the land, constantly in fear of attacks by your enemy, then He sheltered you, strengthened you with His help, and provided you with good things so perhaps you would be thankful.",
+    "arabic1": "وَٱذْكُرُوٓا۟ إِذْ أَنتُمْ قَلِيلٌ مُّسْتَضْعَفُونَ فِى ٱلْأَرْضِ تَخَافُونَ أَن يَتَخَطَّفَكُمُ ٱلنَّاسُ فَـَٔاوَىٰكُمْ وَأَيَّدَكُم بِنَصْرِهِۦ وَرَزَقَكُم مِّنَ ٱلطَّيِّبَـٰتِ لَعَلَّكُمْ تَشْكُرُونَ",
+    "arabic2": "واذكروا اذ انتم قليل مستضعفون في الارض تخافون ان يتخطفكم الناس فاواكم وايدكم بنصره ورزقكم من الطيبات لعلكم تشكرون",
+    "bengali": "আর স্মরণ কর, যখন তোমরা ছিলে অল্প, তোমাদেরকে দুর্বল মনে করা হত যমীনে। তোমরা আশঙ্কা করতে যে, লোকেরা তোমাদেরকে ছোঁ মেরে তুলে নিয়ে যাবে। অতঃপর তিনি তোমাদেরকে আশ্রয় দিয়েছেন, নিজ সাহায্য দ্বারা তোমাদেরকে শক্তিশালী করেছেন এবং তোমাদেরকে পবিত্র রিয্ক দান করেছেন। যাতে তোমরা শুকরিয়া আদায় কর।",
+    "urdu": "اور اس وقت کو یاد کرو جب تم زمین (مکہ) میں قلیل اور ضعیف سمجھے جاتے تھے اور ڈرتے رہتے تھے کہ لوگ تمہیں اُڑا (نہ) لے جائیں (یعنی بےخان وماں نہ کردیں) تو اس نے تم کو جگہ دی اور اپنی مدد سے تم کو تقویت بخشی اور پاکیزہ چیزیں کھانے کو دیں تاکہ (اس کا) شکر کرو"
+}

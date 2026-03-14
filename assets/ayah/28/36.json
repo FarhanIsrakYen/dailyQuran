@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Qasas",
+    "surahNameArabic": "القصص",
+    "surahNameArabicLong": "سورة القصص",
+    "surahNameTranslation": "The Stories",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 28,
+    "ayahNo": 36,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/28_36.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/028036.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/28_36.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/028036.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/28_36.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/028036.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/28_36.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/028036.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/28_36.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/028036.mp3"
+        }
+    },
+    "english": "But when Moses came to them with Our clear signs, they said ˹arrogantly˺, “This is nothing but conjured magic ˹tricks˺. We have never heard of this in ˹the history of˺ our forefathers.”",
+    "arabic1": "فَلَمَّا جَآءَهُم مُّوسَىٰ بِـَٔايَـٰتِنَا بَيِّنَـٰتٍ قَالُوا۟ مَا هَـٰذَآ إِلَّا سِحْرٌ مُّفْتَرًى وَمَا سَمِعْنَا بِهَـٰذَا فِىٓ ءَابَآئِنَا ٱلْأَوَّلِينَ",
+    "arabic2": "فلما جاءهم موسى باياتنا بينات قالوا ما هذا الا سحر مفترى وما سمعنا بهذا في ابائنا الاولين",
+    "bengali": "অতঃপর মূসা যখন তাদের কাছে আমার সুস্পষ্ট নিদর্শনগুলো নিয়ে আসল, তখন তারা বলল, ‘এ তো মিথ্যা যাদু ছাড়া আর কিছুই নয় এবং এরূপ কথা আমাদের পিতৃপুরুষদের মধ্যেও শুনিনি’।",
+    "urdu": "اور جب موسٰی اُن کے پاس ہماری کھلی نشانیاں لےکر آئے تو وہ کہنے لگے کہ یہ جادو ہے جو اُس نے بنا کھڑا کیا ہے اور یہ باتیں ہم نے اپنے اگلے باپ دادا میں تو (کبھی) سنی نہیں"
+}

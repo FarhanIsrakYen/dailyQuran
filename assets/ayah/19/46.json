@@ -1,0 +1,42 @@
+{
+    "surahName": "Maryam",
+    "surahNameArabic": "مريم",
+    "surahNameArabicLong": "سورة مريم",
+    "surahNameTranslation": "Mary",
+    "revelationPlace": "Mecca",
+    "totalAyah": 98,
+    "surahNo": 19,
+    "ayahNo": 46,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/19_46.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/019046.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/19_46.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/019046.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/19_46.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/019046.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/19_46.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/019046.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/19_46.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/019046.mp3"
+        }
+    },
+    "english": "He threatened, “How dare you reject my idols, O  Abraham! If you do not desist, I will certainly stone you ˹to death˺. So be gone from me for a long time!”",
+    "arabic1": "قَالَ أَرَاغِبٌ أَنتَ عَنْ ءَالِهَتِى يَـٰٓإِبْرَٰهِيمُ ۖ لَئِن لَّمْ تَنتَهِ لَأَرْجُمَنَّكَ ۖ وَٱهْجُرْنِى مَلِيًّا",
+    "arabic2": "قال اراغب انت عن الهتي يا ابراهيم لئن لم تنته لارجمنك واهجرني مليا",
+    "bengali": "সে বলল, ‘হে ইবরাহীম, তুমি কি আমার উপাস্যদের থেকে বিমুখ? যদি তুমি বিরত না হও, তবে অবশ্যই আমি তোমাকে পাথর মেরে হত্যা করব। আর তুমি চিরতরে আমাকে ছেড়ে যাও’।* \n* ইবনে আব্বাসের মতে এ আয়াতের অর্থ হল তুমি আমার কাছ থেকে নিরাপদে সরে যাও। কেউ কেউ এ আয়াতের অর্থে বলেছেন, ‘তুমি আমার সাথে দীর্ঘ সময়ের জন্য কথা বলবে না’। (আত্-তাফসীর আল-মুয়াস্‌সার)",
+    "urdu": "اس نے کہا ابراہیم کیا تو میرے معبودوں سے برگشتہ ہے؟ اگر تو باز نہ آئے گا تو میں تجھے سنگسار کردوں گا اور تو ہمیشہ کے لئے مجھ سے دور ہوجا"
+}

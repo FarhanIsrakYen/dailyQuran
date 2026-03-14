@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 116,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/9_116.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/009116.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/9_116.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/009116.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/9_116.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/009116.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/9_116.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/009116.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/9_116.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/009116.mp3"
+        }
+    },
+    "english": "Indeed, to Allah ˹alone˺ belongs the kingdom of the heavens and the earth. He gives life and causes death. And besides Allah you have no guardian or helper.",
+    "arabic1": "إِنَّ ٱللَّهَ لَهُۥ مُلْكُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۖ يُحْىِۦ وَيُمِيتُ ۚ وَمَا لَكُم مِّن دُونِ ٱللَّهِ مِن وَلِىٍّ وَلَا نَصِيرٍ",
+    "arabic2": "ان الله له ملك السماوات والارض يحيي ويميت وما لكم من دون الله من ولي ولا نصير",
+    "bengali": "নিশ্চয় আল্লাহ, তাঁর জন্যই আসমানসমূহ ও যমীনের রাজত্ব। তিনি জীবন দান করেন ও মৃত্যু ঘটান। আর আল্লাহ ছাড়া তোমাদের জন্য না আছে কোন অভিভাবক, না আছে কোন সাহায্যকারী।",
+    "urdu": "خدا ہی ہے جس کے لیے آسمانوں اور زمینوں کی بادشاہت ہے۔ وہی زندگانی بخشتا ہے (وہی) موت دیتا ہے اور خدا کے سوا تمہارا کوئی دوست اور مددگار نہیں ہے"
+}

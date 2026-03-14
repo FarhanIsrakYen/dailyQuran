@@ -1,0 +1,42 @@
+{
+    "surahName": "Maryam",
+    "surahNameArabic": "مريم",
+    "surahNameArabicLong": "سورة مريم",
+    "surahNameTranslation": "Mary",
+    "revelationPlace": "Mecca",
+    "totalAyah": 98,
+    "surahNo": 19,
+    "ayahNo": 58,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/19_58.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/019058.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/19_58.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/019058.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/19_58.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/019058.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/19_58.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/019058.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/19_58.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/019058.mp3"
+        }
+    },
+    "english": "Those were ˹some of˺ the prophets who Allah has blessed from among the descendants of Adam, and of those We carried with Noah ˹in the Ark˺, and of the descendants of Abraham and Israel, and of those We ˹rightly˺ guided and chose. Whenever the revelations of the Most Compassionate were recited to them, they fell down, prostrating and weeping.",
+    "arabic1": "أُو۟لَـٰٓئِكَ ٱلَّذِينَ أَنْعَمَ ٱللَّهُ عَلَيْهِم مِّنَ ٱلنَّبِيِّـۧنَ مِن ذُرِّيَّةِ ءَادَمَ وَمِمَّنْ حَمَلْنَا مَعَ نُوحٍ وَمِن ذُرِّيَّةِ إِبْرَٰهِيمَ وَإِسْرَٰٓءِيلَ وَمِمَّنْ هَدَيْنَا وَٱجْتَبَيْنَآ ۚ إِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَـٰتُ ٱلرَّحْمَـٰنِ خَرُّوا۟ سُجَّدًا وَبُكِيًّا ۩",
+    "arabic2": "اولئك الذين انعم الله عليهم من النبيين من ذرية ادم وممن حملنا مع نوح ومن ذرية ابراهيم واسرائيل وممن هدينا واجتبينا اذا تتلى عليهم ايات الرحمن خروا سجدا وبكيا",
+    "bengali": "এরাই সে সব নবী, আদম সন্তানের মধ্য থেকে যাদের উপর আল্লাহ অনুগ্রহ করেছেন এবং যাদের আমি নূহের সাথে নৌকায় আরোহণ করিয়েছিলাম। আর ইবরাহীম ও ইসরাঈলের বংশোদ্ভূত এবং যাদেরকে আমি পথ প্রদর্শন করেছিলাম ও মনোনীত করেছিলাম। যখন তাদের কাছে পরম করুণাময়ের আয়াতসমূহ পাঠ করা হত, তারা কাঁদতে কাঁদতে সিজদায় লুটিয়ে পড়ত।[সাজদাহ]",
+    "urdu": "یہ وہ لوگ ہیں جن پر خدا نے اپنے پیغمبروں میں سے فضل کیا۔ (یعنی) اولاد آدم میں سے اور ان لوگوں میں سے جن کو نوح کے ساتھ (کشتی میں) سوار کیا اور ابراہیم اور یعقوب کی اولاد میں سے اور ان لوگوں میں سے جن کو ہم نے ہدایت دی اور برگزیدہ کیا۔ جب ان کے سامنے ہماری آیتیں پڑھی جاتی تھیں تو سجدے میں گر پڑتے اور روتے رہتے تھے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 66,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/17_66.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/017066.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/17_66.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/017066.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/17_66.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/017066.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/17_66.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/017066.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/17_66.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/017066.mp3"
+        }
+    },
+    "english": "It is your Lord Who steers the ships for you through the sea, so that you may seek His bounty. Surely He is ever Merciful to you.",
+    "arabic1": "رَّبُّكُمُ ٱلَّذِى يُزْجِى لَكُمُ ٱلْفُلْكَ فِى ٱلْبَحْرِ لِتَبْتَغُوا۟ مِن فَضْلِهِۦٓ ۚ إِنَّهُۥ كَانَ بِكُمْ رَحِيمًا",
+    "arabic2": "ربكم الذي يزجي لكم الفلك في البحر لتبتغوا من فضله انه كان بكم رحيما",
+    "bengali": "তোমাদের রব তিনি, যিনি তোমাদের জন্য সমুদ্রে চালিত করেন নৌযান, যাতে তোমরা তাঁর অনুগ্রহ সন্ধান করতে পার। নিশ্চয় তিনি তোমাদের প্রতি পরম দয়ালু।",
+    "urdu": "تمہارا پروردگار وہ ہے جو تمہارے لئے دریا میں کشتیاں چلاتا ہے تاکہ تم اس کے فضل سے (روزی) تلاش کرو۔ بےشک وہ تم پر مہربان ہے"
+}

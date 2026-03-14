@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Kahf",
+    "surahNameArabic": "الكهف",
+    "surahNameArabicLong": "سورة الكهف",
+    "surahNameTranslation": "The Cave",
+    "revelationPlace": "Mecca",
+    "totalAyah": 110,
+    "surahNo": 18,
+    "ayahNo": 55,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/18_55.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/018055.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/18_55.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/018055.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/18_55.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/018055.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/18_55.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/018055.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/18_55.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/018055.mp3"
+        }
+    },
+    "english": "And nothing prevents people from believing when guidance comes to them and from seeking their Lord’s forgiveness except ˹their demand˺ to meet the same fate of earlier deniers or that the torment would confront them face to face.",
+    "arabic1": "وَمَا مَنَعَ ٱلنَّاسَ أَن يُؤْمِنُوٓا۟ إِذْ جَآءَهُمُ ٱلْهُدَىٰ وَيَسْتَغْفِرُوا۟ رَبَّهُمْ إِلَّآ أَن تَأْتِيَهُمْ سُنَّةُ ٱلْأَوَّلِينَ أَوْ يَأْتِيَهُمُ ٱلْعَذَابُ قُبُلًا",
+    "arabic2": "وما منع الناس ان يؤمنوا اذ جاءهم الهدى ويستغفروا ربهم الا ان تاتيهم سنة الاولين او ياتيهم العذاب قبلا",
+    "bengali": "আর যখন মানুষের নিকট হিদায়াত এসেছে, তখন তাদেরকে ঈমান আনতে কিংবা তাদের রবের কাছে ইস্তিগফার করতে বাধা প্রদান করেছে কেবল এ বিষয়টিই যে, পূর্ববর্তীদের (ব্যাপারে আমার নির্ধারিত) রীতি তাদের উপর পুনরায় নেমে আসবে কিংবা তাদের উপর আযাব সরাসরি এসে উপস্থিত হবে।",
+    "urdu": "اور لوگوں کے پاس جب ہدایت آگئی تو ان کو کس چیز نے منع کیا کہ ایمان لائیں۔ اور اپنے پروردگار سے بخشش مانگیں۔ بجز اس کے کہ (اس بات کے منتظر ہوں کہ) انہیں بھی پہلوں کا سا معاملہ پیش آئے یا ان پر عذاب سامنے آموجود ہو"
+}

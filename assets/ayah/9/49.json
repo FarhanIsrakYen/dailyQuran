@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 49,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/9_49.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/009049.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/9_49.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/009049.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/9_49.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/009049.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/9_49.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/009049.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/9_49.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/009049.mp3"
+        }
+    },
+    "english": "There are some of them who say, “Exempt me and do not expose me to temptation.” They have already fallen into temptation. And Hell will surely engulf the disbelievers.",
+    "arabic1": "وَمِنْهُم مَّن يَقُولُ ٱئْذَن لِّى وَلَا تَفْتِنِّىٓ ۚ أَلَا فِى ٱلْفِتْنَةِ سَقَطُوا۟ ۗ وَإِنَّ جَهَنَّمَ لَمُحِيطَةٌۢ بِٱلْكَـٰفِرِينَ",
+    "arabic2": "ومنهم من يقول ائذن لي ولا تفتني الا في الفتنة سقطوا وان جهنم لمحيطة بالكافرين",
+    "bengali": "আর তাদের মধ্যে কেউ কেউ বলে, ‘আমাকে অনুমতি দিন এবং আমাকে ফিতনায় ফেলবেন না’। শুনে রাখ, তারা ফিতনাতেই পড়ে আছে। আর নিশ্চয় জাহান্নাম কাফিরদের বেষ্টনকারী।",
+    "urdu": "اور ان میں کوئی ایسا بھی ہے جو کہتا ہے کہ مجھے تو اجازت ہی دیجئے اور آفت میں نہ ڈالئے۔ دیکھو یہ آفت میں پڑگئے ہیں اور دوزخ سب کافروں کو گھیرے ہوئے ہے"
+}

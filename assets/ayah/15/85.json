@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Hijr",
+    "surahNameArabic": "الحجر",
+    "surahNameArabicLong": "سورة الحجر",
+    "surahNameTranslation": "The Rock",
+    "revelationPlace": "Mecca",
+    "totalAyah": 99,
+    "surahNo": 15,
+    "ayahNo": 85,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/15_85.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/015085.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/15_85.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/015085.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/15_85.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/015085.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/15_85.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/015085.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/15_85.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/015085.mp3"
+        }
+    },
+    "english": "We have not created the heavens and the earth and everything in between except for a purpose. And the Hour is certain to come, so forgive graciously.",
+    "arabic1": "وَمَا خَلَقْنَا ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ وَمَا بَيْنَهُمَآ إِلَّا بِٱلْحَقِّ ۗ وَإِنَّ ٱلسَّاعَةَ لَـَٔاتِيَةٌ ۖ فَٱصْفَحِ ٱلصَّفْحَ ٱلْجَمِيلَ",
+    "arabic2": "وما خلقنا السماوات والارض وما بينهما الا بالحق وان الساعة لاتية فاصفح الصفح الجميل",
+    "bengali": "আর আমি আসমানসমূহ, যমীন ও এ দুয়ের মধ্যে যা আছে, তা যথার্থতা ছাড়া সৃষ্টি করিনি এবং নিশ্চয় কিয়ামত আসবে। সুতরাং তুমি সুন্দরভাবে তাদেরকে এড়িয়ে যাও।",
+    "urdu": "اور ہم نے آسمانوں اور زمین کو اور جو (مخلوقات) ان میں ہے اس کو تدبیر کے ساتھ پیدا کیا ہے۔ اور قیامت تو ضرور آکر رہے گی تو تم (ان لوگوں سے) اچھی طرح سے درگزر کرو"
+}

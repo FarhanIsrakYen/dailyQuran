@@ -1,0 +1,42 @@
+{
+    "surahName": "As-Saff",
+    "surahNameArabic": "الصف",
+    "surahNameArabicLong": "سورة الصف",
+    "surahNameTranslation": "The Ranks",
+    "revelationPlace": "Madina",
+    "totalAyah": 14,
+    "surahNo": 61,
+    "ayahNo": 8,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/61_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/061008.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/61_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/061008.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/61_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/061008.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/61_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/061008.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/61_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/061008.mp3"
+        }
+    },
+    "english": "They wish to extinguish Allah’s light with their mouths, but Allah will ˹certainly˺ perfect His light, even to the dismay of the disbelievers.",
+    "arabic1": "يُرِيدُونَ لِيُطْفِـُٔوا۟ نُورَ ٱللَّهِ بِأَفْوَٰهِهِمْ وَٱللَّهُ مُتِمُّ نُورِهِۦ وَلَوْ كَرِهَ ٱلْكَـٰفِرُونَ",
+    "arabic2": "يريدون ليطفئوا نور الله بافواههم والله متم نوره ولو كره الكافرون",
+    "bengali": "তারা তাদের মুখের ফুৎকারে আল্লাহর নূরকে নিভিয়ে দিতে চায়, কিন্তু আল্লাহ তাঁর নূরকে পূর্ণতাদানকারী। যদিও কাফিররা তা অপছন্দ করে।",
+    "urdu": "یہ چاہتے ہیں کہ خدا کے (چراغ) کی روشنی کو منہ سے (پھونک مار کر) بجھا دیں۔ حالانکہ خدا اپنی روشنی کو پورا کرکے رہے گا خواہ کافر ناخوش ہی ہوں"
+}

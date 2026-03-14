@@ -1,0 +1,42 @@
+{
+    "surahName": "Yunus",
+    "surahNameArabic": "يونس",
+    "surahNameArabicLong": "سورة يونس",
+    "surahNameTranslation": "Jonas",
+    "revelationPlace": "Mecca",
+    "totalAyah": 109,
+    "surahNo": 10,
+    "ayahNo": 65,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/10_65.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/010065.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/10_65.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/010065.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/10_65.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/010065.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/10_65.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/010065.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/10_65.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/010065.mp3"
+        }
+    },
+    "english": "Do not let their words grieve you ˹O Prophet˺. Surely all honour and power belongs to Allah. He is the All-Hearing, All-Knowing.",
+    "arabic1": "وَلَا يَحْزُنكَ قَوْلُهُمْ ۘ إِنَّ ٱلْعِزَّةَ لِلَّهِ جَمِيعًا ۚ هُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+    "arabic2": "ولا يحزنك قولهم ان العزة لله جميعا هو السميع العليم",
+    "bengali": "আর তাদের কথা যেন তোমাকে দুঃখ না দেয়। নিশ্চয় সকল মর্যাদা আল্লাহর। তিনি সর্বশ্রোতা, সর্বজ্ঞানী।",
+    "urdu": "اور (اے پیغمبر) ان لوگوں کی باتوں سے آزردہ نہ ہونا (کیونکہ) عزت سب خدا ہی کی ہے وہ (سب کچھ) سنتا (اور) جانتا ہے"
+}

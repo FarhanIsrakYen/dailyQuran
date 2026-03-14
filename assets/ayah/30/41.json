@@ -1,0 +1,42 @@
+{
+    "surahName": "Ar-Room",
+    "surahNameArabic": "الروم",
+    "surahNameArabicLong": "سورة الروم",
+    "surahNameTranslation": "The Romans",
+    "revelationPlace": "Mecca",
+    "totalAyah": 60,
+    "surahNo": 30,
+    "ayahNo": 41,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/30_41.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/030041.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/30_41.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/030041.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/30_41.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/030041.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/30_41.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/030041.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/30_41.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/030041.mp3"
+        }
+    },
+    "english": "Corruption has spread on land and sea as a result of what people’s hands have done, so that Allah may cause them to taste ˹the consequences of˺ some of their deeds and perhaps they might return ˹to the Right Path˺.",
+    "arabic1": "ظَهَرَ ٱلْفَسَادُ فِى ٱلْبَرِّ وَٱلْبَحْرِ بِمَا كَسَبَتْ أَيْدِى ٱلنَّاسِ لِيُذِيقَهُم بَعْضَ ٱلَّذِى عَمِلُوا۟ لَعَلَّهُمْ يَرْجِعُونَ",
+    "arabic2": "ظهر الفساد في البر والبحر بما كسبت ايدي الناس ليذيقهم بعض الذي عملوا لعلهم يرجعون",
+    "bengali": "মানুষের কৃতকর্মের দরুন স্থলে ও সমুদ্রে ফাসাদ প্রকাশ পায়। যার ফলে আল্লাহ তাদের কতিপয় কৃতকর্মের স্বাদ তাদেরকে আস্বাদন করান, যাতে তারা ফিরে আসে।",
+    "urdu": "خشکی اور تری میں لوگوں کے اعمال کے سبب فساد پھیل گیا ہے تاکہ خدا اُن کو اُن کے بعض اعمال کا مزہ چکھائے عجب نہیں کہ وہ باز آجائیں"
+}

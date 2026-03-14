@@ -1,0 +1,42 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 86,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/9_86.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/009086.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/9_86.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/009086.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/9_86.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/009086.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/9_86.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/009086.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/9_86.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/009086.mp3"
+        }
+    },
+    "english": "Whenever a sûrah is revealed stating, “Believe in Allah and struggle along with His Messenger,” the rich among them would ask to be exempt, saying, “Leave us with those who remain behind.”",
+    "arabic1": "وَإِذَآ أُنزِلَتْ سُورَةٌ أَنْ ءَامِنُوا۟ بِٱللَّهِ وَجَـٰهِدُوا۟ مَعَ رَسُولِهِ ٱسْتَـْٔذَنَكَ أُو۟لُوا۟ ٱلطَّوْلِ مِنْهُمْ وَقَالُوا۟ ذَرْنَا نَكُن مَّعَ ٱلْقَـٰعِدِينَ",
+    "arabic2": "واذا انزلت سورة ان امنوا بالله وجاهدوا مع رسوله استاذنك اولو الطول منهم وقالوا ذرنا نكن مع القاعدين",
+    "bengali": "আর যখন কোন সূরা এ মর্মে নাযিল করা হয় যে, ‘তোমরা আল্লাহর প্রতি ঈমান আন এবং তাঁর রাসূলের সাথে জিহাদ কর’, তখন তাদের সামর্থ্যবান লোকেরা তোমার কাছে অনুমতি চায় এবং বলে, ‘আমাদেরকে ছেড়ে দাও, আমরা বসে থাকা লোকদের সাথে থাকব’।",
+    "urdu": "اور جب کوئی سورت نازل ہوتی ہے کہ خدا پر ایمان لاؤ اور اس کے رسول کے ساتھ ہو کر لڑائی کرو تو جو ان میں دولت مند ہیں وہ تم سے اجازت طلب کرتے ہیں اور کہتے ہیں کہ ہمیں تو رہنے ہی دیجیئے کہ جو لوگ گھروں میں رہیں گے ہم بھی ان کے ساتھ رہیں"
+}

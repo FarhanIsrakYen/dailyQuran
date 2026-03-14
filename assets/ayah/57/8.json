@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Hadid",
+    "surahNameArabic": "الحديد",
+    "surahNameArabicLong": "سورة الحديد",
+    "surahNameTranslation": "The Iron",
+    "revelationPlace": "Madina",
+    "totalAyah": 29,
+    "surahNo": 57,
+    "ayahNo": 8,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/57_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/057008.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/57_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/057008.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/57_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/057008.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/57_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/057008.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/57_8.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/057008.mp3"
+        }
+    },
+    "english": "Why do you not believe in Allah while the Messenger is inviting you to have faith in your Lord, although He has already taken your covenant, if you will ever believe.",
+    "arabic1": "وَمَا لَكُمْ لَا تُؤْمِنُونَ بِٱللَّهِ ۙ وَٱلرَّسُولُ يَدْعُوكُمْ لِتُؤْمِنُوا۟ بِرَبِّكُمْ وَقَدْ أَخَذَ مِيثَـٰقَكُمْ إِن كُنتُم مُّؤْمِنِينَ",
+    "arabic2": "وما لكم لا تؤمنون بالله والرسول يدعوكم لتؤمنوا بربكم وقد اخذ ميثاقكم ان كنتم مؤمنين",
+    "bengali": "আর তোমাদের কী হলো যে, তোমরা আল্লাহর প্রতি ঈমান আনছ না? অথচ রাসূল তোমাদেরকে তোমাদের রবের প্রতি ঈমান আনতে আহবান করছে। আর তিনি তোমাদের কাছ থেকে অঙ্গীকার গ্রহণ করেছেন, যদি তোমরা মুমিন হও।",
+    "urdu": "اور تم کیسے لوگ ہو کہ خدا پر ایمان نہیں لاتے۔ حالانکہ (اس کے) پیغمبر تمہیں بلا رہے ہیں کہ اپنے پروردگار پر ایمان لاؤ اور اگر تم کو باور ہو تو وہ تم سے (اس کا) عہد بھی لے چکا ہے"
+}

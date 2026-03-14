@@ -1,0 +1,42 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 110,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/3_110.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/003110.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/3_110.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/003110.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/3_110.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/003110.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/3_110.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/003110.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/3_110.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/003110.mp3"
+        }
+    },
+    "english": "You are the best community ever raised for humanity—you encourage good, forbid evil, and believe in Allah. Had the People of the Book believed, it would have been better for them. Some of them are faithful, but most are rebellious.",
+    "arabic1": "كُنتُمْ خَيْرَ أُمَّةٍ أُخْرِجَتْ لِلنَّاسِ تَأْمُرُونَ بِٱلْمَعْرُوفِ وَتَنْهَوْنَ عَنِ ٱلْمُنكَرِ وَتُؤْمِنُونَ بِٱللَّهِ ۗ وَلَوْ ءَامَنَ أَهْلُ ٱلْكِتَـٰبِ لَكَانَ خَيْرًا لَّهُم ۚ مِّنْهُمُ ٱلْمُؤْمِنُونَ وَأَكْثَرُهُمُ ٱلْفَـٰسِقُونَ",
+    "arabic2": "كنتم خير امة اخرجت للناس تامرون بالمعروف وتنهون عن المنكر وتؤمنون بالله ولو امن اهل الكتاب لكان خيرا لهم منهم المؤمنون واكثرهم الفاسقون",
+    "bengali": "তোমরাই হলে সর্বোত্তম উম্মত,যাদেরকে মানুষের জন্য বের করা হয়েছে। তোমরা ভাল কাজের আদেশ দেবে এবং মন্দ কাজ থেকে বারণ করবে, আর আল্লাহর প্রতি ঈমান পোষণ করবে। আর যদি আহলে কিতাব ঈমান আনত, তবে অবশ্যই তা তাদের জন্য কল্যাণকর হত। তাদের কতক ঈমানদার। তাদের অধিকাংশই ফাসিক।",
+    "urdu": "(مومنو) جتنی امتیں (یعنی قومیں) لوگوں میں پیدا ہوئیں تم ان سب سے بہتر ہو کہ نیک کام کرنے کو کہتے ہو اور برے کاموں سے منع کرتے ہو اور خدا پر ایمان رکھتے ہو اور اگر اہلِ کتاب بھی ایمان لے آتے تو ان کے لیے بہت اچھا ہوتا ان میں ایمان لانے والے بھی ہیں (لیکن تھوڑے) اور اکثر نافرمان ہیں"
+}

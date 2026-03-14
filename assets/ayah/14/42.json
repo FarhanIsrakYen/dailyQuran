@@ -1,0 +1,42 @@
+{
+    "surahName": "Ibrahim",
+    "surahNameArabic": "ابراهيم",
+    "surahNameArabicLong": "سورة ابراهيم",
+    "surahNameTranslation": "Abraham",
+    "revelationPlace": "Mecca",
+    "totalAyah": 52,
+    "surahNo": 14,
+    "ayahNo": 42,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/14_42.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/014042.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/14_42.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/014042.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/14_42.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/014042.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/14_42.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/014042.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/14_42.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/014042.mp3"
+        }
+    },
+    "english": "Do not think ˹O Prophet˺ that Allah is unaware of what the wrongdoers do. He only delays them until a Day when ˹their˺ eyes will stare in horror—",
+    "arabic1": "وَلَا تَحْسَبَنَّ ٱللَّهَ غَـٰفِلًا عَمَّا يَعْمَلُ ٱلظَّـٰلِمُونَ ۚ إِنَّمَا يُؤَخِّرُهُمْ لِيَوْمٍ تَشْخَصُ فِيهِ ٱلْأَبْصَـٰرُ",
+    "arabic2": "ولا تحسبن الله غافلا عما يعمل الظالمون انما يؤخرهم ليوم تشخص فيه الابصار",
+    "bengali": "আর যালিমরা যা করছে, আল্লাহকে তুমি সে বিষয়ে মোটেই গাফেল মনে করো না, আল্লাহ তো তাদের অবকাশ দিচ্ছেন, ঐ দিন পর্যন্ত যে দিন চোখ পলকহীন তাকিয়ে থাকবে।",
+    "urdu": "اور (مومنو) مت خیال کرنا کہ یہ ظالم جو عمل کر رہے ہیں خدا ان سے بےخبر ہے۔ وہ ان کو اس دن تک مہلت دے رہا ہے جب کہ (دہشت کے سبب) آنکھیں کھلی کی کھلی رہ جائیں گی"
+}

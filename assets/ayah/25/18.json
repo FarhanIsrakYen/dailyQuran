@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Furqaan",
+    "surahNameArabic": "الفرقان",
+    "surahNameArabicLong": "سورة الفرقان",
+    "surahNameTranslation": "The Criterion",
+    "revelationPlace": "Mecca",
+    "totalAyah": 77,
+    "surahNo": 25,
+    "ayahNo": 18,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/25_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/025018.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/25_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/025018.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/25_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/025018.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/25_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/025018.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/25_18.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/025018.mp3"
+        }
+    },
+    "english": "They will say, “Glory be to You! It was not right for ˹others like˺ us to take any lords besides You, but You allowed enjoyment for them and their forefathers ˹for so long˺ that they forgot ˹Your˺ remembrance and became a doomed people.”",
+    "arabic1": "قَالُوا۟ سُبْحَـٰنَكَ مَا كَانَ يَنۢبَغِى لَنَآ أَن نَّتَّخِذَ مِن دُونِكَ مِنْ أَوْلِيَآءَ وَلَـٰكِن مَّتَّعْتَهُمْ وَءَابَآءَهُمْ حَتَّىٰ نَسُوا۟ ٱلذِّكْرَ وَكَانُوا۟ قَوْمًۢا بُورًا",
+    "arabic2": "قالوا سبحانك ما كان ينبغي لنا ان نتخذ من دونك من اولياء ولكن متعتهم واباءهم حتى نسوا الذكر وكانوا قوما بورا",
+    "bengali": "তারা বলবে, ‘আপনি পবিত্র মহান! আপনি ছাড়া অন্য কাউকে অভিভাবক হিসেবে গ্রহণ করা আমাদের উচিত নয়, বরং আপনি তাদেরকে ও তাদের পিতৃপুরুষদেরকে ভোগসম্ভার দিয়েছেন, অবশেষে আপনার স্মরণকে তারা ভুলে গিয়েছিল এবং ধ্বংসপ্রাপ্ত কওমে পরিণত হয়েছিল।’",
+    "urdu": "وہ کہیں گے تو پاک ہے ہمیں یہ بات شایان نہ تھی کہ تیرے سوا اوروں کو دوست بناتے۔ لیکن تو نے ہی ان کو اور ان کے باپ دادا کو برتنے کو نعمتیں دیں یہاں تک کہ وہ تیری یاد کو بھول گئے۔ اور یہ ہلاک ہونے والے لوگ تھے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 272,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_272.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002272.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_272.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002272.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_272.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002272.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_272.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002272.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_272.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002272.mp3"
+        }
+    },
+    "english": "You are not responsible for people’s guidance ˹O Prophet˺—it is Allah Who guides whoever He wills. Whatever you ˹believers˺ spend in charity, it is for your own good—as long as you do so seeking the pleasure of Allah. Whatever you donate will be paid back to you in full, and you will not be wronged.",
+    "arabic1": "۞ لَّيْسَ عَلَيْكَ هُدَىٰهُمْ وَلَـٰكِنَّ ٱللَّهَ يَهْدِى مَن يَشَآءُ ۗ وَمَا تُنفِقُوا۟ مِنْ خَيْرٍ فَلِأَنفُسِكُمْ ۚ وَمَا تُنفِقُونَ إِلَّا ٱبْتِغَآءَ وَجْهِ ٱللَّهِ ۚ وَمَا تُنفِقُوا۟ مِنْ خَيْرٍ يُوَفَّ إِلَيْكُمْ وَأَنتُمْ لَا تُظْلَمُونَ",
+    "arabic2": "ليس عليك هداهم ولكن الله يهدي من يشاء وما تنفقوا من خير فلانفسكم وما تنفقون الا ابتغاء وجه الله وما تنفقوا من خير يوف اليكم وانتم لا تظلمون",
+    "bengali": "তাদেরকে হিদায়াত করার দায়িত্ব তোমার নয়, কিন্তু আল্লাহ যাকে চান হিদায়াত করেন এবং তোমরা যে সম্পদ ব্যয় কর, তা তোমাদের নিজদের জন্যই। আর তোমরা তো আল্লাহর সন্তুষ্টির উদ্দেশ্যে ব্যয় কর এবং তোমরা কোন উত্তম ব্যয় করলে তা তোমাদেরকে পরিপূর্ণভাবে দেয়া হবে। আর তোমাদের প্রতি যুলম করা হবে না।",
+    "urdu": "(اے محمدﷺ) تم ان لوگوں کی ہدایت کے ذمہ دار نہیں ہو بلکہ خدا ہی جس کو چاہتا ہے ہدایت بخشتا ہے۔ اور (مومنو) تم جو مال خرچ کرو گے تو اس کا فائدہ تمہیں کو ہے اور تم جو خرچ کرو گے خدا کی خوشنودی کے لئے کرو گے۔ اور جو مال تم خرچ کرو گے وہ تمہیں پورا پورا دے دیا جائے گا اور تمہارا کچھ نقصان نہیں کیا جائے گا،"
+}

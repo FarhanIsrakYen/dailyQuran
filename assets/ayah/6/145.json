@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 145,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/6_145.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/006145.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/6_145.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/006145.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/6_145.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/006145.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/6_145.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/006145.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/6_145.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/006145.mp3"
+        }
+    },
+    "english": "Say, ˹O Prophet,˺ “I do not find in what has been revealed to me anything forbidden to eat except carrion, running blood, swine—which is impure—or a sinful offering in the name of any other than Allah. But if someone is compelled by necessity—neither driven by desire nor exceeding immediate need—then surely your Lord is All-Forgiving, Most Merciful.”",
+    "arabic1": "قُل لَّآ أَجِدُ فِى مَآ أُوحِىَ إِلَىَّ مُحَرَّمًا عَلَىٰ طَاعِمٍ يَطْعَمُهُۥٓ إِلَّآ أَن يَكُونَ مَيْتَةً أَوْ دَمًا مَّسْفُوحًا أَوْ لَحْمَ خِنزِيرٍ فَإِنَّهُۥ رِجْسٌ أَوْ فِسْقًا أُهِلَّ لِغَيْرِ ٱللَّهِ بِهِۦ ۚ فَمَنِ ٱضْطُرَّ غَيْرَ بَاغٍ وَلَا عَادٍ فَإِنَّ رَبَّكَ غَفُورٌ رَّحِيمٌ",
+    "arabic2": "قل لا اجد في ما اوحي الي محرما على طاعم يطعمه الا ان يكون ميتة او دما مسفوحا او لحم خنزير فانه رجس او فسقا اهل لغير الله به فمن اضطر غير باغ ولا عاد فان ربك غفور رحيم",
+    "bengali": "বল, ‘আমার নিকট যে ওহী পাঠানো হয়, তাতে আমি আহারকারীর উপর কোন হারাম পাই না, যা সে আহার করে। তবে যদি মৃত কিংবা প্রবাহিত রক্ত অথবা শূকরের গোশ্ত হয়- কারণ, নিশ্চয় তা অপবিত্র কিংবা এমন অবৈধ যা আল্লাহ ছাড়া অন্য কারো জন্য যবেহ করা হয়েছে। তবে যে ব্যক্তি নিরুপায় হয়ে অবাধ্য ও সীমালঙ্ঘনকারী না হয়ে তা গ্রহণে বাধ্য হয়েছে, তাহলে নিশ্চয় তোমার রব ক্ষমাশীল, পরম দয়ালু।",
+    "urdu": "کہو کہ جو احکام مجھ پر نازل ہوئے ہیں ان میں کوئی چیز جسے کھانے والا کھائے حرام نہیں پاتا بجز اس کے کہ وہ مرا ہوا جانور یا بہتا لہو یا سور کا گوشت کہ یہ سب ناپاک ہیں یا کوئی گناہ کی چیز ہو کہ اس پر خدا کے سوا کسی اور کا نام لیا گیا ہو اور اگر کوئی مجبور ہو جائے لیکن نہ تو نافرمانی کرے اور نہ حد سے باہر نکل جائے تو تمہارا پروردگار بخشنے والا مہربان ہے"
+}

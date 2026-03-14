@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Insaan",
+    "surahNameArabic": "الانسان",
+    "surahNameArabicLong": "سورة الانسان",
+    "surahNameTranslation": "Man",
+    "revelationPlace": "Madina",
+    "totalAyah": 31,
+    "surahNo": 76,
+    "ayahNo": 10,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/76_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/076010.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/76_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/076010.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/76_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/076010.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/76_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/076010.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/76_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/076010.mp3"
+        }
+    },
+    "english": "We fear from our Lord a horribly distressful Day.”",
+    "arabic1": "إِنَّا نَخَافُ مِن رَّبِّنَا يَوْمًا عَبُوسًا قَمْطَرِيرًا",
+    "arabic2": "انا نخاف من ربنا يوما عبوسا قمطريرا",
+    "bengali": "আমরা আমাদের রবের পক্ষ থেকে এক ভয়ংকর ভীতিপ্রদ দিবসের ভয় করি।",
+    "urdu": "ہم کو اپنے پروردگار سے اس دن کا ڈر لگتا ہے (جو چہروں کو) کریہہ المنظر اور (دلوں کو) سخت (مضطر کر دینے والا) ہے"
+}

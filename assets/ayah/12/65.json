@@ -1,0 +1,42 @@
+{
+    "surahName": "Yusuf",
+    "surahNameArabic": "يوسف",
+    "surahNameArabicLong": "سورة يوسف",
+    "surahNameTranslation": "Joseph",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 12,
+    "ayahNo": 65,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/12_65.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/012065.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/12_65.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/012065.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/12_65.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/012065.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/12_65.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/012065.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/12_65.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/012065.mp3"
+        }
+    },
+    "english": "When they opened their bags, they discovered that their money had been returned to them. They argued, “O our father! What more can we ask for? Here is our money, fully returned to us. Now we can buy more food for our family. We will watch over our brother, and obtain an extra camel-load of grain. That load can be easily secured.”",
+    "arabic1": "وَلَمَّا فَتَحُوا۟ مَتَـٰعَهُمْ وَجَدُوا۟ بِضَـٰعَتَهُمْ رُدَّتْ إِلَيْهِمْ ۖ قَالُوا۟ يَـٰٓأَبَانَا مَا نَبْغِى ۖ هَـٰذِهِۦ بِضَـٰعَتُنَا رُدَّتْ إِلَيْنَا ۖ وَنَمِيرُ أَهْلَنَا وَنَحْفَظُ أَخَانَا وَنَزْدَادُ كَيْلَ بَعِيرٍ ۖ ذَٰلِكَ كَيْلٌ يَسِيرٌ",
+    "arabic2": "ولما فتحوا متاعهم وجدوا بضاعتهم ردت اليهم قالوا يا ابانا ما نبغي هذه بضاعتنا ردت الينا ونمير اهلنا ونحفظ اخانا ونزداد كيل بعير ذلك كيل يسير",
+    "bengali": "আর যখন তারা তাদের মাল-পত্র খুলল, তখন তারা দেখতে পেল তাদের পণ্যমূল্য তাদের কাছে ফেরত দেয়া হয়েছে। তারা বলল, ‘হে আমাদের পিতা, আমরা আর কী চাই? এই আমাদের পণ্যমূল্য, তা আমাদেরকে ফেরৎ দেয়া হয়েছে। আর আমরা আমাদের পরিবারবর্গের জন্য খাদ্যসামগ্রী নিয়ে আসব, আমাদের ভাইকে হেফাযত করব এবং আরো এক উট বোঝাই রসদ বেশি আনব, (বাদশাহ্র জন্য) ঐ রসদ (প্রদান) খুবই সহজ’।",
+    "urdu": "اور جب انہوں نے اپنا اسباب کھولا تو دیکھا کہ ان کا سرمایہ واپس کر دیا گیا ہے۔ کہنے لگے ابّا ہمیں (اور) کیا چاہیئے (دیکھیے) یہ ہماری پونجی بھی ہمیں واپس کر دی گئی ہے۔ اب ہم اپنے اہل وعیال کے لیے پھر غلّہ لائیں گے اور اپنے بھائی کی نگہبانی کریں گے اور ایک بار شتر زیادہ لائیں گے (کہ) یہ غلّہ جو ہم لائے ہیں تھوڑا ہے"
+}

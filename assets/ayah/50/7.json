@@ -1,0 +1,42 @@
+{
+    "surahName": "Qaaf",
+    "surahNameArabic": "ق",
+    "surahNameArabicLong": "سورة ق",
+    "surahNameTranslation": "The letter Qaaf",
+    "revelationPlace": "Mecca",
+    "totalAyah": 45,
+    "surahNo": 50,
+    "ayahNo": 7,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/50_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/050007.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/50_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/050007.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/50_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/050007.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/50_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/050007.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/50_7.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/050007.mp3"
+        }
+    },
+    "english": "As for the earth, We spread it out and placed upon it firm mountains, and produced in it every type of pleasant plant—",
+    "arabic1": "وَٱلْأَرْضَ مَدَدْنَـٰهَا وَأَلْقَيْنَا فِيهَا رَوَٰسِىَ وَأَنۢبَتْنَا فِيهَا مِن كُلِّ زَوْجٍۭ بَهِيجٍ",
+    "arabic2": "والارض مددناها والقينا فيها رواسي وانبتنا فيها من كل زوج بهيج",
+    "bengali": "আর আমি যমীনকে বিস্তৃত করেছি, তাতে পর্বতমালা স্থাপন করেছি এবং তাতে প্রত্যেক প্রকারের সুদৃশ্য উদ্ভিদ উদগত করেছি।",
+    "urdu": "اور زمین کو (دیکھو اسے) ہم نے پھیلایا اور اس میں پہاڑ رکھ دیئے اور اس میں ہر طرح کی خوشنما چیزیں اُگائیں"
+}

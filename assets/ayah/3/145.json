@@ -1,0 +1,42 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 145,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/3_145.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/003145.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/3_145.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/003145.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/3_145.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/003145.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/3_145.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/003145.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/3_145.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/003145.mp3"
+        }
+    },
+    "english": "No soul can ever die without Allah’s Will at the destined time. Those who desire worldly gain, We will let them have it, and those who desire heavenly reward, We will grant it to them. And We will reward those who are grateful.",
+    "arabic1": "وَمَا كَانَ لِنَفْسٍ أَن تَمُوتَ إِلَّا بِإِذْنِ ٱللَّهِ كِتَـٰبًا مُّؤَجَّلًا ۗ وَمَن يُرِدْ ثَوَابَ ٱلدُّنْيَا نُؤْتِهِۦ مِنْهَا وَمَن يُرِدْ ثَوَابَ ٱلْـَٔاخِرَةِ نُؤْتِهِۦ مِنْهَا ۚ وَسَنَجْزِى ٱلشَّـٰكِرِينَ",
+    "arabic2": "وما كان لنفس ان تموت الا باذن الله كتابا مؤجلا ومن يرد ثواب الدنيا نؤته منها ومن يرد ثواب الاخرة نؤته منها وسنجزي الشاكرين",
+    "bengali": "আর কোন প্রাণী আল্লাহর অনুমতি ছাড়া মারা যায় না, তা নির্দিষ্টভাবে লিখিত আছে। আর যে দুনিয়ার প্রতিদান চায়, আমি তা থেকে তাকে দিয়ে দেই, আর যে আখিরাতের বিনিময় চায়, আমি তা থেকে তাকেও দেই এবং আমি অচিরেই কৃতজ্ঞদের প্রতিদান দেব।",
+    "urdu": "اور کسی شخص میں طاقت نہیں کہ خدا کے حکم کے بغیر مر جائے (اس نے موت کا) وقت مقرر کر کے لکھ رکھا ہے اور جو شخص دنیا میں (اپنے اعمال کا) بدلہ چاہے اس کو ہم یہیں بدلہ دے دیں گے اور جو آخرت میں طالبِ ثواب ہو اس کو وہاں اجر عطا کریں گے اور ہم شکر گزاروں کو عنقریب (بہت اچھا) صلہ دیں گے"
+}

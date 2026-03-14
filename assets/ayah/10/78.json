@@ -1,0 +1,42 @@
+{
+    "surahName": "Yunus",
+    "surahNameArabic": "يونس",
+    "surahNameArabicLong": "سورة يونس",
+    "surahNameTranslation": "Jonas",
+    "revelationPlace": "Mecca",
+    "totalAyah": 109,
+    "surahNo": 10,
+    "ayahNo": 78,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/10_78.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/010078.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/10_78.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/010078.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/10_78.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/010078.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/10_78.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/010078.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/10_78.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/010078.mp3"
+        }
+    },
+    "english": "They argued, “Have you come to turn us away from the faith of our forefathers so that the two of you may become supreme in the land? We will never believe in you!”",
+    "arabic1": "قَالُوٓا۟ أَجِئْتَنَا لِتَلْفِتَنَا عَمَّا وَجَدْنَا عَلَيْهِ ءَابَآءَنَا وَتَكُونَ لَكُمَا ٱلْكِبْرِيَآءُ فِى ٱلْأَرْضِ وَمَا نَحْنُ لَكُمَا بِمُؤْمِنِينَ",
+    "arabic2": "قالوا اجئتنا لتلفتنا عما وجدنا عليه اباءنا وتكون لكما الكبرياء في الارض وما نحن لكما بمؤمنين",
+    "bengali": "তারা বলল, ‘তুমি কি এসেছ আমরা আমাদের পিতৃপুরুষদেরকে যাতে পেয়েছি তা থেকে আমাদেরকে ফেরাতে এবং যেন যমীনে তোমাদের প্রতিপত্তি প্রতিষ্ঠিত হয়? আর আমরা তো তোমাদের প্রতি বিশ্বাসী নই’।",
+    "urdu": "وہ بولے کیا تم ہمارے پاس اس لئے آئے ہو کہ جس (راہ) پر ہم اپنے باپ دادا کو پاتے رہے ہیں اس سے ہم کو پھیردو۔ اور (اس) ملک میں تم دونوں کی ہی سرداری ہوجائے اور ہم تم پر ایمان لانے والے نہیں ہیں"
+}

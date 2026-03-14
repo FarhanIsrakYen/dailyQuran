@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 129,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/6_129.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/006129.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/6_129.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/006129.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/6_129.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/006129.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/6_129.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/006129.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/6_129.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/006129.mp3"
+        }
+    },
+    "english": "This is how We make the wrongdoers ˹destructive˺ allies of one another because of their misdeeds.",
+    "arabic1": "وَكَذَٰلِكَ نُوَلِّى بَعْضَ ٱلظَّـٰلِمِينَ بَعْضًۢا بِمَا كَانُوا۟ يَكْسِبُونَ",
+    "arabic2": "وكذلك نولي بعض الظالمين بعضا بما كانوا يكسبون",
+    "bengali": "আর এভাবেই আমি যালিমদের কতককে কতকের বন্ধু বানিয়ে দেই, তারা যা অর্জন করত সে কারণে।",
+    "urdu": "اور اسی طرح ہم ظالموں کو ان کے اعمال کے سبب جو وہ کرتے تھے ایک دوسرے پر مسلط کر دیتے ہیں"
+}

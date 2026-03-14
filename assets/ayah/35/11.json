@@ -1,0 +1,42 @@
+{
+    "surahName": "Faatir",
+    "surahNameArabic": "فاطر",
+    "surahNameArabicLong": "سورة فاطر",
+    "surahNameTranslation": "The Originator",
+    "revelationPlace": "Mecca",
+    "totalAyah": 45,
+    "surahNo": 35,
+    "ayahNo": 11,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/35_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/035011.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/35_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/035011.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/35_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/035011.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/35_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/035011.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/35_11.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/035011.mp3"
+        }
+    },
+    "english": "And ˹it is˺ Allah ˹Who˺ created you from dust, then ˹developed you˺ from a sperm-drop, then made you into pairs. No female ever conceives or delivers without His knowledge. And no one’s life is made long or cut short but is ˹written˺ in a Record. That is certainly easy for Allah.",
+    "arabic1": "وَٱللَّهُ خَلَقَكُم مِّن تُرَابٍ ثُمَّ مِن نُّطْفَةٍ ثُمَّ جَعَلَكُمْ أَزْوَٰجًا ۚ وَمَا تَحْمِلُ مِنْ أُنثَىٰ وَلَا تَضَعُ إِلَّا بِعِلْمِهِۦ ۚ وَمَا يُعَمَّرُ مِن مُّعَمَّرٍ وَلَا يُنقَصُ مِنْ عُمُرِهِۦٓ إِلَّا فِى كِتَـٰبٍ ۚ إِنَّ ذَٰلِكَ عَلَى ٱللَّهِ يَسِيرٌ",
+    "arabic2": "والله خلقكم من تراب ثم من نطفة ثم جعلكم ازواجا وما تحمل من انثى ولا تضع الا بعلمه وما يعمر من معمر ولا ينقص من عمره الا في كتاب ان ذلك على الله يسير",
+    "bengali": "আর আল্লাহ তোমাদেরকে সৃষ্টি করেছেন মাটি থেকে তারপর শুক্রবিন্দু থেকে তারপর তোমাদেরকে জোড়ায় জোড়ায় সৃষ্টি করেছেন এবং নারী তার গর্ভে যা ধারণ করে আর যা প্রসব করে তা আল্লাহর জ্ঞাতসারেই হয়। আর কোন বয়স্ক ব্যক্তির বয়স বাড়ানো হয় না কিংবা কমানো হয় না কিন্তু তা তো রয়েছে কিতাবে*; নিশ্চয় তা আল্লাহর জন্য সহজ। \n* ‘কিতাব’ বলতে এখানে ‘লওহে মাহফুয’ বা সংরক্ষিত ফলককে বুঝানো হয়েছে।",
+    "urdu": "اور خدا ہی نے تم کو مٹی سے پیدا کیا پھر نطفے سے پھر تم کو جوڑا جوڑا بنا دیا۔ اور کوئی عورت نہ حاملہ ہوتی ہے اور نہ جنتی ہے مگر اس کے علم سے۔ اور نہ کسی بڑی عمر والے کو عمر زیادہ دی جاتی ہے اور نہ اس کی عمر کم کی جاتی ہے مگر (سب کچھ) کتاب میں (لکھا ہوا) ہے۔ بےشک یہ خدا کو آسان ہے"
+}

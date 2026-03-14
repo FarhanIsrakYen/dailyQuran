@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Maaida",
+    "surahNameArabic": "المائدة",
+    "surahNameArabicLong": "سورة المائدة",
+    "surahNameTranslation": "The Table",
+    "revelationPlace": "Madina",
+    "totalAyah": 120,
+    "surahNo": 5,
+    "ayahNo": 36,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/5_36.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/005036.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/5_36.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/005036.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/5_36.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/005036.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/5_36.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/005036.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/5_36.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/005036.mp3"
+        }
+    },
+    "english": "As for the disbelievers, even if they were to possess everything in the world twice over ˹and offer it all˺ to ransom themselves from the punishment of the Day of Judgment, it would never be accepted from them. And they will suffer a painful punishment.",
+    "arabic1": "إِنَّ ٱلَّذِينَ كَفَرُوا۟ لَوْ أَنَّ لَهُم مَّا فِى ٱلْأَرْضِ جَمِيعًا وَمِثْلَهُۥ مَعَهُۥ لِيَفْتَدُوا۟ بِهِۦ مِنْ عَذَابِ يَوْمِ ٱلْقِيَـٰمَةِ مَا تُقُبِّلَ مِنْهُمْ ۖ وَلَهُمْ عَذَابٌ أَلِيمٌ",
+    "arabic2": "ان الذين كفروا لو ان لهم ما في الارض جميعا ومثله معه ليفتدوا به من عذاب يوم القيامة ما تقبل منهم ولهم عذاب اليم",
+    "bengali": "নিশ্চয় যারা কুফরী করেছে, যদি যমীনে যা আছে তার সব ও তার সাথে সমপরিমাণও তাদের জন্য থাকে, যাতে তারা তার মাধ্যমে কিয়ামতের আযাব থেকে রক্ষার মুক্তিপণ দিতে পারে, তাহলেও তাদের থেকে তা গ্রহণ করা হবে না এবং তাদের জন্য রয়েছে যন্ত্রণাদায়ক আযাব।",
+    "urdu": "جو لوگ کافر ہیں اگر ان کے پاس روئے زمین (کے تمام خزانے اور اس) کا سب مال ومتاع ہو اور اس کے ساتھ اسی قدر اور بھی ہو تاکہ قیامت کے روز عذاب (سے رستگاری حاصل کرنے) کا بدلہ دیں تو ان سے قبول نہیں کیا جائے گا اور ان کو درد دینے والا عذاب ہوگا"
+}

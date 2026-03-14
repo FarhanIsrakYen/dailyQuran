@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Anbiyaa",
+    "surahNameArabic": "الأنبياء",
+    "surahNameArabicLong": "سورة الأنبياء",
+    "surahNameTranslation": "The Prophets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 112,
+    "surahNo": 21,
+    "ayahNo": 39,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/21_39.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/021039.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/21_39.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/021039.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/21_39.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/021039.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/21_39.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/021039.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/21_39.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/021039.mp3"
+        }
+    },
+    "english": "If only the disbelievers knew that a time will come when they will not be able to keep the Fire off their faces or backs, nor will they be helped.",
+    "arabic1": "لَوْ يَعْلَمُ ٱلَّذِينَ كَفَرُوا۟ حِينَ لَا يَكُفُّونَ عَن وُجُوهِهِمُ ٱلنَّارَ وَلَا عَن ظُهُورِهِمْ وَلَا هُمْ يُنصَرُونَ",
+    "arabic2": "لو يعلم الذين كفروا حين لا يكفون عن وجوههم النار ولا عن ظهورهم ولا هم ينصرون",
+    "bengali": "হায়, কাফিররা যদি সে সময়ের কথা জানত, যখন তারা তাদের সামনে ও পেছন থেকে আগুন ফিরাতে পারবে না। আর তাদেরকে সাহায্যও করা হবে না;",
+    "urdu": "اے کاش کافر اس وقت کو جانیں جب وہ اپنے مونہوں پر سے (دوزخ کی) آگ کو روک نہ سکیں گے اور نہ اپنی پیٹھوں پر سے اور نہ ان کا کوئی مددگار ہوگا"
+}

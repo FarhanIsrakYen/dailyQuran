@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Ahzaab",
+    "surahNameArabic": "الأحزاب",
+    "surahNameArabicLong": "سورة الأحزاب",
+    "surahNameTranslation": "The Clans",
+    "revelationPlace": "Madina",
+    "totalAyah": 73,
+    "surahNo": 33,
+    "ayahNo": 22,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/33_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/033022.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/33_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/033022.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/33_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/033022.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/33_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/033022.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/33_22.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/033022.mp3"
+        }
+    },
+    "english": "When the believers saw the enemy alliance, they said, “This is what Allah and His Messenger had promised us. The promise of Allah and His Messenger has come true.” And this only increased them in faith and submission.",
+    "arabic1": "وَلَمَّا رَءَا ٱلْمُؤْمِنُونَ ٱلْأَحْزَابَ قَالُوا۟ هَـٰذَا مَا وَعَدَنَا ٱللَّهُ وَرَسُولُهُۥ وَصَدَقَ ٱللَّهُ وَرَسُولُهُۥ ۚ وَمَا زَادَهُمْ إِلَّآ إِيمَـٰنًا وَتَسْلِيمًا",
+    "arabic2": "ولما راى المؤمنون الاحزاب قالوا هذا ما وعدنا الله ورسوله وصدق الله ورسوله وما زادهم الا ايمانا وتسليما",
+    "bengali": "আর মুমিনগণ যখন সম্মিলিত বাহিনীকে দেখল তখন তারা বলল, ‘আল্লাহ ও তাঁর রাসূল আমাদের যে ওয়াদা দিয়েছেন এটি তো তাই। আর আল্লাহ ও তাঁর রাসূল সত্যই বলেছেন’। এতে তাদের ঈমান ও আত্মসমর্পণই বৃদ্ধি পেল।",
+    "urdu": "اور جب مومنوں نے (کافروں کے) لشکر کو دیکھا تو کہنے لگے یہ وہی ہے جس کا خدا اور اس کے پیغمبر نے ہم سے وعدہ کیا تھا اور خدا اور اس کے پیغمبر نے سچ کہا تھا۔ اور اس سے ان کا ایمان اور اطاعت اور زیادہ ہوگئی"
+}

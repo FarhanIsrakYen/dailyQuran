@@ -1,0 +1,42 @@
+{
+    "surahName": "Yunus",
+    "surahNameArabic": "يونس",
+    "surahNameArabicLong": "سورة يونس",
+    "surahNameTranslation": "Jonas",
+    "revelationPlace": "Mecca",
+    "totalAyah": 109,
+    "surahNo": 10,
+    "ayahNo": 91,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/10_91.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/010091.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/10_91.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/010091.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/10_91.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/010091.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/10_91.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/010091.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/10_91.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/010091.mp3"
+        }
+    },
+    "english": "˹He was told,˺ “Now ˹you believe˺? But you always disobeyed and were one of the corruptors.",
+    "arabic1": "ءَآلْـَٔـٰنَ وَقَدْ عَصَيْتَ قَبْلُ وَكُنتَ مِنَ ٱلْمُفْسِدِينَ",
+    "arabic2": "الان وقد عصيت قبل وكنت من المفسدين",
+    "bengali": "‘এখন অথচ ইতঃপূর্বে তুমি নাফরমানী করেছ, আর তুমি ছিলে ফাসাদকারীদের অন্তর্ভুক্ত’।",
+    "urdu": "(جواب ملا کہ) اب (ایمان لاتا ہے) حالانکہ تو پہلے نافرمانی کرتا رہا اور مفسد بنا رہا"
+}

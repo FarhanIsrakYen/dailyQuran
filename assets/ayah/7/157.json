@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 157,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/7_157.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/007157.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/7_157.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/007157.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/7_157.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/007157.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/7_157.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/007157.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/7_157.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/007157.mp3"
+        }
+    },
+    "english": "“˹They are˺ the ones who follow the Messenger, the unlettered Prophet, whose description they find in their Torah and the Gospel. He commands them to do good and forbids them from evil, permits for them what is lawful and forbids to them what is impure, and relieves them from their burdens and the shackles that bound them. ˹Only˺ those who believe in him, honour and support him, and follow the light sent down to him will be successful.”",
+    "arabic1": "ٱلَّذِينَ يَتَّبِعُونَ ٱلرَّسُولَ ٱلنَّبِىَّ ٱلْأُمِّىَّ ٱلَّذِى يَجِدُونَهُۥ مَكْتُوبًا عِندَهُمْ فِى ٱلتَّوْرَىٰةِ وَٱلْإِنجِيلِ يَأْمُرُهُم بِٱلْمَعْرُوفِ وَيَنْهَىٰهُمْ عَنِ ٱلْمُنكَرِ وَيُحِلُّ لَهُمُ ٱلطَّيِّبَـٰتِ وَيُحَرِّمُ عَلَيْهِمُ ٱلْخَبَـٰٓئِثَ وَيَضَعُ عَنْهُمْ إِصْرَهُمْ وَٱلْأَغْلَـٰلَ ٱلَّتِى كَانَتْ عَلَيْهِمْ ۚ فَٱلَّذِينَ ءَامَنُوا۟ بِهِۦ وَعَزَّرُوهُ وَنَصَرُوهُ وَٱتَّبَعُوا۟ ٱلنُّورَ ٱلَّذِىٓ أُنزِلَ مَعَهُۥٓ ۙ أُو۟لَـٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ",
+    "arabic2": "الذين يتبعون الرسول النبي الامي الذي يجدونه مكتوبا عندهم في التوراة والانجيل يامرهم بالمعروف وينهاهم عن المنكر ويحل لهم الطيبات ويحرم عليهم الخبائث ويضع عنهم اصرهم والاغلال التي كانت عليهم فالذين امنوا به وعزروه ونصروه واتبعوا النور الذي انزل معه اولئك هم المفلحون",
+    "bengali": "যারা অনুসরণ করে রাসূলের, যে উম্মী নবী; যার গুণাবলী তারা নিজদের কাছে তাওরাত ও ইঞ্জিলে লিখিত পায়, যে তাদেরকে সৎ কাজের আদেশ দেয় ও বারণ করে অসৎ কাজ থেকে এবং তাদের জন্য পবিত্র বস্তু হালাল করে আর অপবিত্র বস্তু হারাম করে। আর তাদের থেকে বোঝা ও শৃংখল- যা তাদের উপরে ছিল- অপসারণ করে। সুতরাং যারা তার প্রতি ঈমান আনে, তাকে সম্মান করে, তাকে সাহায্য করে এবং তার সাথে যে নূর নাযিল করা হয়েছে তা অনুসরণ করে তারাই সফলকাম।",
+    "urdu": "وہ جو (محمدﷺ) رسول (الله) کی جو نبی اُمی ہیں پیروی کرتے ہیں جن (کے اوصاف) کو وہ اپنے ہاں تورات اور انجیل میں لکھا ہوا پاتے ہیں۔ وہ انہیں نیک کام کا حکم دیتے ہیں اور برے کام سے روکتے ہیں۔ اور پاک چیزوں کو ان کے لیے حلال کرتے ہیں اور ناپاک چیزوں کو ان پر حرام ٹہراتے ہیں اور ان پر سے بوجھ اور طوق جو ان (کے سر) پر (اور گلے میں) تھے اتارتے ہیں۔ تو جو لوگ ان پر ایمان لائے اور ان کی رفاقت کی اور انہیں مدد دی۔ اور جو نور ان کے ساتھ نازل ہوا ہے اس کی پیروی کی۔ وہی مراد پانے والے ہیں"
+}

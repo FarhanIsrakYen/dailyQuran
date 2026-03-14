@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Maaida",
+    "surahNameArabic": "المائدة",
+    "surahNameArabicLong": "سورة المائدة",
+    "surahNameTranslation": "The Table",
+    "revelationPlace": "Madina",
+    "totalAyah": 120,
+    "surahNo": 5,
+    "ayahNo": 54,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/5_54.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/005054.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/5_54.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/005054.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/5_54.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/005054.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/5_54.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/005054.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/5_54.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/005054.mp3"
+        }
+    },
+    "english": "O believers! Whoever among you abandons their faith, Allah will replace them with others who love Him and are loved by Him. They will be humble with the believers but firm towards the disbelievers, struggling in the Way of Allah; fearing no blame from anyone. This is the favour of Allah. He grants it to whoever He wills. And Allah is All-Bountiful, All-Knowing.",
+    "arabic1": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ مَن يَرْتَدَّ مِنكُمْ عَن دِينِهِۦ فَسَوْفَ يَأْتِى ٱللَّهُ بِقَوْمٍ يُحِبُّهُمْ وَيُحِبُّونَهُۥٓ أَذِلَّةٍ عَلَى ٱلْمُؤْمِنِينَ أَعِزَّةٍ عَلَى ٱلْكَـٰفِرِينَ يُجَـٰهِدُونَ فِى سَبِيلِ ٱللَّهِ وَلَا يَخَافُونَ لَوْمَةَ لَآئِمٍ ۚ ذَٰلِكَ فَضْلُ ٱللَّهِ يُؤْتِيهِ مَن يَشَآءُ ۚ وَٱللَّهُ وَٰسِعٌ عَلِيمٌ",
+    "arabic2": "يا ايها الذين امنوا من يرتد منكم عن دينه فسوف ياتي الله بقوم يحبهم ويحبونه اذلة على المؤمنين اعزة على الكافرين يجاهدون في سبيل الله ولا يخافون لومة لائم ذلك فضل الله يؤتيه من يشاء والله واسع عليم",
+    "bengali": "হে মুমিনগণ, তোমাদের মধ্যে যে ব্যক্তি তার দীন থেকে ফিরে যাবে তাহলে অচিরেই আল্লাহ এমন কওমকে আনবেন, যাদেরকে তিনি ভালবাসবেন এবং তারা তাঁকে ভালবাসবে। তারা মুমিনদের উপর বিনম্র এবং কাফিরদের উপর কঠোর হবে। আল্লাহর রাস্তায় তারা জিহাদ করবে এবং কোন কটাক্ষকারীর কটাক্ষকে ভয় করবে না। এটি আল্লাহর অনুগ্রহ, যাকে ইচ্ছা তিনি তাকে তা দান করেন। আর আল্লাহ প্রাচুর্যময়, সর্বজ্ঞ।",
+    "urdu": "اے ایمان والو اگر کوئی تم میں سے اپنے دین سے پھر جائے گا تو خدا ایسے لوگ پیدا کر دے گا جن کو وہ دوست رکھے اور جسے وہ دوست رکھیں اور جو مومنوں کے حق میں نرمی کریں اور کافروں سے سختی سے پیش آئیں خدا کی راہ میں جہاد کریں اور کسی ملامت کرنے والی کی ملامت سے نہ ڈریں یہ خدا کا فضل ہے وہ جسے چاہتا ہے دیتا ہے اور الله بڑی کشائش والا اور جاننے والا ہے"
+}

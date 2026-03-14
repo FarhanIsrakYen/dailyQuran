@@ -1,0 +1,42 @@
+{
+    "surahName": "Ash-Shura",
+    "surahNameArabic": "الشورى",
+    "surahNameArabicLong": "سورة الشورى",
+    "surahNameTranslation": "Consultation",
+    "revelationPlace": "Mecca",
+    "totalAyah": 53,
+    "surahNo": 42,
+    "ayahNo": 31,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/42_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/042031.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/42_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/042031.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/42_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/042031.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/42_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/042031.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/42_31.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/042031.mp3"
+        }
+    },
+    "english": "You can never escape ˹Him˺ on earth, nor do you have any protector or helper besides Allah.",
+    "arabic1": "وَمَآ أَنتُم بِمُعْجِزِينَ فِى ٱلْأَرْضِ ۖ وَمَا لَكُم مِّن دُونِ ٱللَّهِ مِن وَلِىٍّ وَلَا نَصِيرٍ",
+    "arabic2": "وما انتم بمعجزين في الارض وما لكم من دون الله من ولي ولا نصير",
+    "bengali": "তোমরা যমীনে (আল্লাহর কর্ম পরিকল্পনাকে) ব্যর্থ করতে পারবে না। আর আল্লাহ ছাড়া তোমাদের কোন অভিভাবক নেই এবং কোন সাহায্যকারীও নেই।",
+    "urdu": "اور تم زمین میں (خدا کو) عاجز نہیں کرسکتے۔ اور خدا کے سوا نہ تمہارا کوئی دوست ہے اور نہ مددگار"
+}

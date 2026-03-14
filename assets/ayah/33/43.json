@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Ahzaab",
+    "surahNameArabic": "الأحزاب",
+    "surahNameArabicLong": "سورة الأحزاب",
+    "surahNameTranslation": "The Clans",
+    "revelationPlace": "Madina",
+    "totalAyah": 73,
+    "surahNo": 33,
+    "ayahNo": 43,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/33_43.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/033043.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/33_43.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/033043.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/33_43.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/033043.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/33_43.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/033043.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/33_43.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/033043.mp3"
+        }
+    },
+    "english": "He is the One Who showers His blessings upon you—and His angels pray for you—so that He may bring you out of darkness and into light. For He is ever Merciful to the believers.",
+    "arabic1": "هُوَ ٱلَّذِى يُصَلِّى عَلَيْكُمْ وَمَلَـٰٓئِكَتُهُۥ لِيُخْرِجَكُم مِّنَ ٱلظُّلُمَـٰتِ إِلَى ٱلنُّورِ ۚ وَكَانَ بِٱلْمُؤْمِنِينَ رَحِيمًا",
+    "arabic2": "هو الذي يصلي عليكم وملائكته ليخرجكم من الظلمات الى النور وكان بالمؤمنين رحيما",
+    "bengali": "তিনিই তোমাদের প্রতি অনুগ্রহ করেন এবং তাঁর ফেরেশতারা তোমাদের জন্য দো‘আ করে, তোমাদেরকে অন্ধকার থেকে আলোয় আনার জন্য; আর তিনি মুমিনদের প্রতি অতীব দয়ালু।",
+    "urdu": "وہی تو ہے جو تم پر رحمت بھیجتا ہے اور اس کے فرشتے بھی۔ تاکہ تم کو اندھیروں سے نکال کر روشنی کی طرف لے جائے۔ اور خدا مومنوں پر مہربان ہے"
+}

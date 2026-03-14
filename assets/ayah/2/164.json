@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 164,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/2_164.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/002164.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/2_164.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/002164.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/2_164.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/002164.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/2_164.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/002164.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/2_164.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/002164.mp3"
+        }
+    },
+    "english": "Indeed, in the creation of the heavens and the earth; the alternation of the day and the night; the ships that sail the sea for the benefit of humanity; the rain sent down by Allah from the skies, reviving the earth after its death; the scattering of all kinds of creatures throughout; the shifting of the winds; and the clouds drifting between the heavens and the earth—˹in all of this˺ are surely signs for people of understanding.",
+    "arabic1": "إِنَّ فِى خَلْقِ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَٱخْتِلَـٰفِ ٱلَّيْلِ وَٱلنَّهَارِ وَٱلْفُلْكِ ٱلَّتِى تَجْرِى فِى ٱلْبَحْرِ بِمَا يَنفَعُ ٱلنَّاسَ وَمَآ أَنزَلَ ٱللَّهُ مِنَ ٱلسَّمَآءِ مِن مَّآءٍ فَأَحْيَا بِهِ ٱلْأَرْضَ بَعْدَ مَوْتِهَا وَبَثَّ فِيهَا مِن كُلِّ دَآبَّةٍ وَتَصْرِيفِ ٱلرِّيَـٰحِ وَٱلسَّحَابِ ٱلْمُسَخَّرِ بَيْنَ ٱلسَّمَآءِ وَٱلْأَرْضِ لَـَٔايَـٰتٍ لِّقَوْمٍ يَعْقِلُونَ",
+    "arabic2": "ان في خلق السماوات والارض واختلاف الليل والنهار والفلك التي تجري في البحر بما ينفع الناس وما انزل الله من السماء من ماء فاحيا به الارض بعد موتها وبث فيها من كل دابة وتصريف الرياح والسحاب المسخر بين السماء والارض لايات لقوم يعقلون",
+    "bengali": "নিশ্চয় আসমানসমূহ ও যমীনের সৃষ্টিতে, রাত ও দিনের বিবর্তনে, সে নৌকায় যা সমুদ্রে মানুষের জন্য কল্যাণকর বস্ত্ত নিয়ে চলে এবং আসমান থেকে আল্লাহ যে বৃষ্টি বর্ষণ করেছেন অতঃপর তার মাধ্যমে মরে যাওয়ার পর যমীনকে জীবিত করেছেন এবং তাতে ছড়িয়ে দিয়েছেন সকল প্রকার বিচরণশীল প্রাণী ও বাতাসের পরিবর্তনে এবং আসমান ও যমীনের মধ্যবর্তী স্থানে নিয়োজিত মেঘমালায় রয়েছে নিদর্শনসমূহ এমন কওমের জন্য, যারা বিবেকবান।",
+    "urdu": "بےشک آسمانوں اور زمین کے پیدا کرنے میں اور رات اور دن کے ایک دوسرے کے پیچھے آنے جانے میں اور کشتیوں اور جہازوں میں جو دریا میں لوگوں کے فائدے کی چیزیں لے کر رواں ہیں اور مینہ میں جس کو خدا آسمان سے برساتا اور اس سے زمین کو مرنے کے بعد زندہ (یعنی خشک ہوئے پیچھے سرسبز) کردیتا ہے اور زمین پر ہر قسم کے جانور پھیلانے میں اور ہواؤں کے چلانےمیں اور بادلوں میں جو آسمان اور زمین کے درمیان گھرے رہتے ہیں۔ عقلمندوں کے لئے (خدا کی قدرت کی) نشانیاں ہیں"
+}

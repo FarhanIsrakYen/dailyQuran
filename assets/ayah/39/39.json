@@ -1,0 +1,42 @@
+{
+    "surahName": "Az-Zumar",
+    "surahNameArabic": "الزمر",
+    "surahNameArabicLong": "سورة الزمر",
+    "surahNameTranslation": "The Groups",
+    "revelationPlace": "Mecca",
+    "totalAyah": 75,
+    "surahNo": 39,
+    "ayahNo": 39,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/39_39.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/039039.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/39_39.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/039039.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/39_39.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/039039.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/39_39.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/039039.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/39_39.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/039039.mp3"
+        }
+    },
+    "english": "Say, ˹O Prophet,˺ “O my people! Persist in your ways, for I ˹too˺ will persist in mine. You will soon come to know",
+    "arabic1": "قُلْ يَـٰقَوْمِ ٱعْمَلُوا۟ عَلَىٰ مَكَانَتِكُمْ إِنِّى عَـٰمِلٌ ۖ فَسَوْفَ تَعْلَمُونَ",
+    "arabic2": "قل يا قوم اعملوا على مكانتكم اني عامل فسوف تعلمون",
+    "bengali": "বল, ‘হে আমার কওম, তোমরা তোমাদের স্থলে কাজ করে যাও, নিশ্চয় আমিও আমার কাজ করব। অতঃপর শীঘ্রই তোমরা জানতে পারবে’।",
+    "urdu": "کہہ دو کہ اے قوم تم اپنی جگہ عمل کئے جاؤ میں (اپنی جگہ) عمل کئے جاتا ہوں۔ عنقریب تم کو معلوم ہوجائے گا"
+}

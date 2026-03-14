@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Ankaboot",
+    "surahNameArabic": "العنكبوت",
+    "surahNameArabicLong": "سورة العنكبوت",
+    "surahNameTranslation": "The Spider",
+    "revelationPlace": "Mecca",
+    "totalAyah": 69,
+    "surahNo": 29,
+    "ayahNo": 10,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/29_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/029010.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/29_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/029010.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/29_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/029010.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/29_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/029010.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/29_10.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/029010.mp3"
+        }
+    },
+    "english": "There are some who say, “We believe in Allah,” but when they suffer in the cause of Allah, they mistake ˹this˺ persecution at the hands of people for the punishment of Allah. But when victory comes from your Lord, they surely say ˹to the believers˺, “We have always been with you.” Does Allah not know best what is in the hearts of all beings?",
+    "arabic1": "وَمِنَ ٱلنَّاسِ مَن يَقُولُ ءَامَنَّا بِٱللَّهِ فَإِذَآ أُوذِىَ فِى ٱللَّهِ جَعَلَ فِتْنَةَ ٱلنَّاسِ كَعَذَابِ ٱللَّهِ وَلَئِن جَآءَ نَصْرٌ مِّن رَّبِّكَ لَيَقُولُنَّ إِنَّا كُنَّا مَعَكُمْ ۚ أَوَلَيْسَ ٱللَّهُ بِأَعْلَمَ بِمَا فِى صُدُورِ ٱلْعَـٰلَمِينَ",
+    "arabic2": "ومن الناس من يقول امنا بالله فاذا اوذي في الله جعل فتنة الناس كعذاب الله ولئن جاء نصر من ربك ليقولن انا كنا معكم اوليس الله باعلم بما في صدور العالمين",
+    "bengali": "আর কিছু লোক আছে যারা বলে, ‘আমরা আল্লাহর প্রতি ঈমান এনেছি’, অতঃপর যখন আল্লাহর ব্যাপারে তাদের কষ্ট দেয়া হয়, তখন তারা মানুষের নিপীড়নকে আল্লাহর আযাবের মত গণ্য করে। আর যদি তোমার রবের পক্ষ থেকে কোন বিজয় আসে, তখন অবশ্যই তারা বলে, ‘নিশ্চয় আমরা তোমাদের সাথে ছিলাম’। সৃষ্টিকুলের অন্তরসমূহে যা কিছু আছে আল্লাহ কি তা সম্পর্কে সম্যক অবগত নন?",
+    "urdu": "اور بعض لوگ ایسے ہیں جو کہتے ہیں کہ ہم خدا پر ایمان لائے جب اُن کو خدا (کے رستے) میں کوئی ایذا پہنچتی ہے تو لوگوں کی ایذا کو (یوں) سمجھتے ہیں جیسے خدا کا عذاب۔ اگر تمہارے پروردگار کی طرف سے مدد پہنچے تو کہتے ہیں کہ ہم تمہارے ساتھ تھے۔ کیا جو اہل عالم کے سینوں میں ہے خدا اس سے واقف نہیں؟"
+}

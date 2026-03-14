@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nahl",
+    "surahNameArabic": "النحل",
+    "surahNameArabicLong": "سورة النحل",
+    "surahNameTranslation": "The Bee",
+    "revelationPlace": "Mecca",
+    "totalAyah": 128,
+    "surahNo": 16,
+    "ayahNo": 28,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/16_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/016028.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/16_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/016028.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/16_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/016028.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/16_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/016028.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/16_28.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/016028.mp3"
+        }
+    },
+    "english": "Those whose souls the angels seize while they wrong themselves will then offer ˹full˺ submission ˹and say falsely,˺ “We did not do any evil.” ˹The angels will say,˺ “No! Surely Allah fully knows what you used to do.",
+    "arabic1": "ٱلَّذِينَ تَتَوَفَّىٰهُمُ ٱلْمَلَـٰٓئِكَةُ ظَالِمِىٓ أَنفُسِهِمْ ۖ فَأَلْقَوُا۟ ٱلسَّلَمَ مَا كُنَّا نَعْمَلُ مِن سُوٓءٍۭ ۚ بَلَىٰٓ إِنَّ ٱللَّهَ عَلِيمٌۢ بِمَا كُنتُمْ تَعْمَلُونَ",
+    "arabic2": "الذين تتوفاهم الملائكة ظالمي انفسهم فالقوا السلم ما كنا نعمل من سوء بلى ان الله عليم بما كنتم تعملون",
+    "bengali": "নিজদের উপর যুলমকারী থাকা অবস্থায় ফেরেশতারা যাদের মৃত্যু ঘটাবে। অতঃপর তারা আত্মসমর্পণ করে বলবে, ‘আমরা কোন পাপ করতাম না।’ হ্যাঁ, নিশ্চয় তোমরা যা করতে সে বিষয়ে আল্লাহ সম্যক জ্ঞাত।",
+    "urdu": "(ان کا حال یہ ہے کہ) جب فرشتے ان کی روحیں قبض کرنے لگتے ہیں (اور یہ) اپنے ہی حق میں ظلم کرنے والے (ہوتے ہیں) تو مطیع ومنقاد ہوجاتے ہیں (اور کہتے ہیں) کہ ہم کوئی برا کام نہیں کرتے تھے۔ ہاں جو کچھ تم کیا کرتے تھے خدا اسے خوب جانتا ہے"
+}

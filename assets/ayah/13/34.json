@@ -1,0 +1,42 @@
+{
+    "surahName": "Ar-Ra'd",
+    "surahNameArabic": "الرعد",
+    "surahNameArabicLong": "سورة الرعد",
+    "surahNameTranslation": "The Thunder",
+    "revelationPlace": "Madina",
+    "totalAyah": 43,
+    "surahNo": 13,
+    "ayahNo": 34,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/13_34.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/013034.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/13_34.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/013034.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/13_34.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/013034.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/13_34.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/013034.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/13_34.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/013034.mp3"
+        }
+    },
+    "english": "For them is punishment in this worldly life, but the punishment of the Hereafter is truly far worse. And none can shield them from Allah.",
+    "arabic1": "لَّهُمْ عَذَابٌ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا ۖ وَلَعَذَابُ ٱلْـَٔاخِرَةِ أَشَقُّ ۖ وَمَا لَهُم مِّنَ ٱللَّهِ مِن وَاقٍ",
+    "arabic2": "لهم عذاب في الحياة الدنيا ولعذاب الاخرة اشق وما لهم من الله من واق",
+    "bengali": "তাদের জন্যই রয়েছে দুনিয়ার জীবনে আযাব, আর আখিরাতের আযাব তো আরো কঠিন। আল্লাহর আযাব থেকে তাদের কোন রক্ষাকারী নেই।",
+    "urdu": "ان کو دنیا کی زندگی میں بھی عذاب ہے اور آخرت کا عذاب تو بہت ہی سخت ہے۔ اور ان کو خدا (کے عذاب سے) کوئی بھی بچانے والا نہیں"
+}

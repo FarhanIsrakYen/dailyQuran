@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Naml",
+    "surahNameArabic": "النمل",
+    "surahNameArabicLong": "سورة النمل",
+    "surahNameTranslation": "The Ant",
+    "revelationPlace": "Mecca",
+    "totalAyah": 93,
+    "surahNo": 27,
+    "ayahNo": 14,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/27_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/027014.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/27_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/027014.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/27_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/027014.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/27_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/027014.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/27_14.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/027014.mp3"
+        }
+    },
+    "english": "And, although their hearts were convinced the signs were true, they still denied them wrongfully and arrogantly. See then what was the end of the corruptors!",
+    "arabic1": "وَجَحَدُوا۟ بِهَا وَٱسْتَيْقَنَتْهَآ أَنفُسُهُمْ ظُلْمًا وَعُلُوًّا ۚ فَٱنظُرْ كَيْفَ كَانَ عَـٰقِبَةُ ٱلْمُفْسِدِينَ",
+    "arabic2": "وجحدوا بها واستيقنتها انفسهم ظلما وعلوا فانظر كيف كان عاقبة المفسدين",
+    "bengali": "আর তারা অন্যায় ও উদ্ধতভাবে নিদর্শনগুলোকে প্রত্যাখ্যান করল। অথচ তাদের অন্তর তা নিশ্চিত বিশ্বাস করেছিল। অতএব দেখ, ফাসাদ সৃষ্টিকারীদের পরিণাম কেমন হয়েছিল।",
+    "urdu": "اور بےانصافی اور غرور سے ان سے انکار کیا لیکن ان کے دل ان کو مان چکے تھے۔ سو دیکھ لو فساد کرنے والوں کا انجام کیسا ہوا"
+}

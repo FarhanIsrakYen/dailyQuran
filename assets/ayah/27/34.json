@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Naml",
+    "surahNameArabic": "النمل",
+    "surahNameArabicLong": "سورة النمل",
+    "surahNameTranslation": "The Ant",
+    "revelationPlace": "Mecca",
+    "totalAyah": 93,
+    "surahNo": 27,
+    "ayahNo": 34,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/27_34.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/027034.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/27_34.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/027034.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/27_34.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/027034.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/27_34.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/027034.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/27_34.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/027034.mp3"
+        }
+    },
+    "english": "She reasoned, “Indeed, when kings invade a land, they ruin it and debase its nobles. They really do so!",
+    "arabic1": "قَالَتْ إِنَّ ٱلْمُلُوكَ إِذَا دَخَلُوا۟ قَرْيَةً أَفْسَدُوهَا وَجَعَلُوٓا۟ أَعِزَّةَ أَهْلِهَآ أَذِلَّةً ۖ وَكَذَٰلِكَ يَفْعَلُونَ",
+    "arabic2": "قالت ان الملوك اذا دخلوا قرية افسدوها وجعلوا اعزة اهلها اذلة وكذلك يفعلون",
+    "bengali": "সে বলল, ‘নিশ্চয় রাজা-বাদশাহরা যখন কোন জনপদে প্রবেশ করে তখন তাকে বিপর্যস্ত করে এবং সেখানকার সম্মানিত অধিবাসীদেরকে অপদস্থ করে। আর তা-ই তারা করবে’।",
+    "urdu": "اس نے کہا کہ بادشاہ جب کسی شہر میں داخل ہوتے ہیں تو اس کو تباہ کر دیتے ہیں اور وہاں کے عزت والوں کو ذلیل کر دیا کرتے ہیں اور اسی طرح یہ بھی کریں گے"
+}

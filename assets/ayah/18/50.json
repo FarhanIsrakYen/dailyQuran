@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Kahf",
+    "surahNameArabic": "الكهف",
+    "surahNameArabicLong": "سورة الكهف",
+    "surahNameTranslation": "The Cave",
+    "revelationPlace": "Mecca",
+    "totalAyah": 110,
+    "surahNo": 18,
+    "ayahNo": 50,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/18_50.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/018050.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/18_50.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/018050.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/18_50.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/018050.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/18_50.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/018050.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/18_50.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/018050.mp3"
+        }
+    },
+    "english": "And ˹remember˺ when We said to the angels, “Prostrate before Adam,” so they all did—but not Iblîs, who was one of the jinn, but he rebelled against the command of his Lord. Would you then take him and his descendants as patrons instead of Me, although they are your enemy? What an evil alternative for the wrongdoers ˹to choose˺!",
+    "arabic1": "وَإِذْ قُلْنَا لِلْمَلَـٰٓئِكَةِ ٱسْجُدُوا۟ لِـَٔادَمَ فَسَجَدُوٓا۟ إِلَّآ إِبْلِيسَ كَانَ مِنَ ٱلْجِنِّ فَفَسَقَ عَنْ أَمْرِ رَبِّهِۦٓ ۗ أَفَتَتَّخِذُونَهُۥ وَذُرِّيَّتَهُۥٓ أَوْلِيَآءَ مِن دُونِى وَهُمْ لَكُمْ عَدُوٌّۢ ۚ بِئْسَ لِلظَّـٰلِمِينَ بَدَلًا",
+    "arabic2": "واذ قلنا للملائكة اسجدوا لادم فسجدوا الا ابليس كان من الجن ففسق عن امر ربه افتتخذونه وذريته اولياء من دوني وهم لكم عدو بئس للظالمين بدلا",
+    "bengali": "আর যখন আমি ফেরেশতাদের বলেছিলাম, তোমরা আদমকে সিজদা কর। অতঃপর তারা সিজদা করল, ইবলীস ছাড়া। সে ছিল জিনদের একজন। সে তার রবের নির্দেশ অমান্য করল। তোমরা কি তাকে ও তার বংশকে আমার পরিবর্তে অভিভাবক হিসেবে গ্রহণ করবে, অথচ তারা তোমাদের শত্রু? যালিমদের জন্য কী মন্দ বিনিময়!",
+    "urdu": "اور جب ہم نے فرشتوں کو حکم دیا کہ آدم کو سجدہ کرو تو سب نے سجدہ کیا مگر ابلیس (نے نہ کیا) وہ جنات میں سے تھا تو اپنے پروردگار کے حکم سے باہر ہوگیا۔ کیا تم اس کو اور اس کی اولاد کو میرے سوا دوست بناتے ہو۔ حالانکہ وہ تمہارے دشمن ہیں (اور شیطان کی دوستی) ظالموں کے لئے (خدا کی دوستی کا) برا بدل ہے"
+}

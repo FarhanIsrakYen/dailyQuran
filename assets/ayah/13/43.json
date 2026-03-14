@@ -1,0 +1,42 @@
+{
+    "surahName": "Ar-Ra'd",
+    "surahNameArabic": "الرعد",
+    "surahNameArabicLong": "سورة الرعد",
+    "surahNameTranslation": "The Thunder",
+    "revelationPlace": "Madina",
+    "totalAyah": 43,
+    "surahNo": 13,
+    "ayahNo": 43,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/13_43.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/013043.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/13_43.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/013043.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/13_43.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/013043.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/13_43.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/013043.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/13_43.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/013043.mp3"
+        }
+    },
+    "english": "The disbelievers say, “You ˹Muḥammad˺ are no messenger.” Say, ˹O Prophet,˺ “Allah is sufficient as a Witness between me and you, as is whoever has knowledge of the Scripture.”",
+    "arabic1": "وَيَقُولُ ٱلَّذِينَ كَفَرُوا۟ لَسْتَ مُرْسَلًا ۚ قُلْ كَفَىٰ بِٱللَّهِ شَهِيدًۢا بَيْنِى وَبَيْنَكُمْ وَمَنْ عِندَهُۥ عِلْمُ ٱلْكِتَـٰبِ",
+    "arabic2": "ويقول الذين كفروا لست مرسلا قل كفى بالله شهيدا بيني وبينكم ومن عنده علم الكتاب",
+    "bengali": "আর যারা কুফরী করে, তারা বলে, ‘তুমি রাসূল নও’। বল, ‘আল্লাহ আমার ও তোমাদের মধ্যে সাক্ষী হিসেবে যথেষ্ট এবং যার নিকট কিতাবের জ্ঞান আছে সেও‘।",
+    "urdu": "اور کافر لوگ کہتے ہیں کہ تم (خدا کے) رسول نہیں ہو۔ کہہ دو کہ میرے اور تمہارے درمیان خدا اور وہ شخص جس کے پاس کتاب (آسمانی) کا علم ہے گواہ کافی ہیں"
+}

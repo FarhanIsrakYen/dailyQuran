@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Anfaal",
+    "surahNameArabic": "الأنفال",
+    "surahNameArabicLong": "سورة الأنفال",
+    "surahNameTranslation": "The Spoils of War",
+    "revelationPlace": "Madina",
+    "totalAyah": 75,
+    "surahNo": 8,
+    "ayahNo": 44,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/8_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/008044.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/8_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/008044.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/8_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/008044.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/8_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/008044.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/8_44.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/008044.mp3"
+        }
+    },
+    "english": "Then when your armies met, Allah made them appear as few in your eyes, and made you appear as few in theirs, so Allah may establish what He had destined. And to Allah ˹all˺ matters will be returned ˹for judgment˺.",
+    "arabic1": "وَإِذْ يُرِيكُمُوهُمْ إِذِ ٱلْتَقَيْتُمْ فِىٓ أَعْيُنِكُمْ قَلِيلًا وَيُقَلِّلُكُمْ فِىٓ أَعْيُنِهِمْ لِيَقْضِىَ ٱللَّهُ أَمْرًا كَانَ مَفْعُولًا ۗ وَإِلَى ٱللَّهِ تُرْجَعُ ٱلْأُمُورُ",
+    "arabic2": "واذ يريكموهم اذ التقيتم في اعينكم قليلا ويقللكم في اعينهم ليقضي الله امرا كان مفعولا والى الله ترجع الامور",
+    "bengali": "আর যখন তোমরা মুখোমুখি হয়েছিলে, তিনি তোমাদের চোখে তাদেরকে স্বল্প দেখিয়েছিলেন এবং তাদের চোখেও তোমাদেরকে স্বল্প দেখিয়েছিলেন যাতে আল্লাহ সম্পন্ন করেন এমন কাজ যা হওয়ারই ছিল এবং আল্লাহর দিকেই সকল বিষয় ফেরানো হবে।",
+    "urdu": "اور اس وقت جب تم ایک دوسرے کے مقابل ہوئے تو کافروں کو تمہاری نظروں میں تھوڑا کر کے دکھاتا تھا اور تم کو ان کی نگاہوں میں تھوڑا کر کے دکھاتا تھا تاکہ خدا کو جو کام منظور کرنا تھا اسے کر ڈالے۔ اور سب کاموں کا رجوع خدا کی طرف ہے"
+}

@@ -1,0 +1,42 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 185,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/3_185.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/003185.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/3_185.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/003185.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/3_185.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/003185.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/3_185.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/003185.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/3_185.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/003185.mp3"
+        }
+    },
+    "english": "Every soul will taste death. And you will only receive your full reward on the Day of Judgment. Whoever is spared from the Fire and is admitted into Paradise will ˹indeed˺ triumph, whereas the life of this world is no more than the delusion of enjoyment.",
+    "arabic1": "كُلُّ نَفْسٍ ذَآئِقَةُ ٱلْمَوْتِ ۗ وَإِنَّمَا تُوَفَّوْنَ أُجُورَكُمْ يَوْمَ ٱلْقِيَـٰمَةِ ۖ فَمَن زُحْزِحَ عَنِ ٱلنَّارِ وَأُدْخِلَ ٱلْجَنَّةَ فَقَدْ فَازَ ۗ وَمَا ٱلْحَيَوٰةُ ٱلدُّنْيَآ إِلَّا مَتَـٰعُ ٱلْغُرُورِ",
+    "arabic2": "كل نفس ذائقة الموت وانما توفون اجوركم يوم القيامة فمن زحزح عن النار وادخل الجنة فقد فاز وما الحياة الدنيا الا متاع الغرور",
+    "bengali": "প্রতিটি প্রাণী মৃত্যুর স্বাদ গ্রহণ করবে। আর ‘অবশ্যই কিয়ামতের দিনে তাদের প্রতিদান পরিপূর্ণভাবে দেয়া হবে। সুতরাং যাকে জাহান্নাম থেকে দূরে রাখা হবে এবং জান্নাতে প্রবেশ করানো হবে সে-ই সফলতা পাবে। আর দুনিয়ার জীবন শুধু ধোঁকার সামগ্রী।",
+    "urdu": "ہر متنفس کو موت کا مزا چکھنا ہے اور تم کو قیامت کے دن تمہارے اعمال کا پورا پورا بدلا دیا جائے گا۔ تو جو شخص آتش جہنم سے دور رکھا گیا اور بہشت میں داخل کیا گیا وہ مراد کو پہنچ گیا اور دنیا کی زندگی تو دھوکے کا سامان ہے"
+}

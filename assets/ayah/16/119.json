@@ -1,0 +1,42 @@
+{
+    "surahName": "An-Nahl",
+    "surahNameArabic": "النحل",
+    "surahNameArabicLong": "سورة النحل",
+    "surahNameTranslation": "The Bee",
+    "revelationPlace": "Mecca",
+    "totalAyah": 128,
+    "surahNo": 16,
+    "ayahNo": 119,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/16_119.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/016119.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/16_119.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/016119.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/16_119.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/016119.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/16_119.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/016119.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/16_119.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/016119.mp3"
+        }
+    },
+    "english": "As for those who commit evil ignorantly ˹or recklessly˺, then repent afterwards and mend their ways, then your Lord is surely All-Forgiving, Most Merciful.",
+    "arabic1": "ثُمَّ إِنَّ رَبَّكَ لِلَّذِينَ عَمِلُوا۟ ٱلسُّوٓءَ بِجَهَـٰلَةٍ ثُمَّ تَابُوا۟ مِنۢ بَعْدِ ذَٰلِكَ وَأَصْلَحُوٓا۟ إِنَّ رَبَّكَ مِنۢ بَعْدِهَا لَغَفُورٌ رَّحِيمٌ",
+    "arabic2": "ثم ان ربك للذين عملوا السوء بجهالة ثم تابوا من بعد ذلك واصلحوا ان ربك من بعدها لغفور رحيم",
+    "bengali": "তারপর নিশ্চয় তোমার রব তাদের জন্য, যারা অজ্ঞাতসারে মন্দ কাজ করেছে, এরপর তারা তওবা করেছে এবং পরিশুদ্ধ হয়েছে। নিশ্চয় তোমার রব এসবের পর পরম ক্ষমাশীল, পরম দয়ালু।",
+    "urdu": "پھر جن لوگوں نے نادانی سے برا کام کیا۔ پھر اس کے بعد توبہ کی اور نیکوکار ہوگئے تو تمہارا پروردگار (ان کو) توبہ کرنے اور نیکوکار ہوجانے کے بعد بخشنے والا اور ان پر رحمت کرنے والا ہے"
+}

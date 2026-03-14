@@ -1,0 +1,42 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 140,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/3_140.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/003140.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/3_140.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/003140.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/3_140.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/003140.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/3_140.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/003140.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/3_140.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/003140.mp3"
+        }
+    },
+    "english": "If you have suffered injuries ˹at Uḥud˺, they suffered similarly ˹at Badr˺. We alternate these days ˹of victory and defeat˺ among people so that Allah may reveal the ˹true˺ believers, choose martyrs from among you—and Allah does not like the wrongdoers—",
+    "arabic1": "إِن يَمْسَسْكُمْ قَرْحٌ فَقَدْ مَسَّ ٱلْقَوْمَ قَرْحٌ مِّثْلُهُۥ ۚ وَتِلْكَ ٱلْأَيَّامُ نُدَاوِلُهَا بَيْنَ ٱلنَّاسِ وَلِيَعْلَمَ ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ وَيَتَّخِذَ مِنكُمْ شُهَدَآءَ ۗ وَٱللَّهُ لَا يُحِبُّ ٱلظَّـٰلِمِينَ",
+    "arabic2": "ان يمسسكم قرح فقد مس القوم قرح مثله وتلك الايام نداولها بين الناس وليعلم الله الذين امنوا ويتخذ منكم شهداء والله لا يحب الظالمين",
+    "bengali": "যদি তোমাদেরকে কোন আঘাত স্পর্শ করে থাকে তবে তার অনুরূপ আঘাত উক্ত কওমকেও স্পর্শ করেছে। আর এইসব দিন আমি মানুষের মধ্যে পালাক্রমে আবর্তন করি এবং যাতে আল্লাহ ঈমানদারদেরকে জেনে নেন এবং তোমাদের মধ্য থেকে শহীদদেরকে গ্রহণ করেন। আর আল্লাহ যালিমদেরকে ভালবাসেন না।",
+    "urdu": "اگر تمہیں زخم (شکست) لگا ہے تو ان لوگوں کو بھی ایسا زخم لگ چکا ہے اور یہ دن ہیں کہ ہم ان کو لوگوں میں بدلتے رہتے ہیں اور اس سے یہ بھی مقصود تھا کہ خدا ایمان والوں کو متمیز کر دے اور تم میں سے گواہ بنائے اور خدا بےانصافوں کو پسند نہیں کرتا"
+}

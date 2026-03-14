@@ -1,0 +1,42 @@
+{
+    "surahName": "Al-Anbiyaa",
+    "surahNameArabic": "الأنبياء",
+    "surahNameArabicLong": "سورة الأنبياء",
+    "surahNameTranslation": "The Prophets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 112,
+    "surahNo": 21,
+    "ayahNo": 41,
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al Afasy",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/1/21_41.mp3",
+            "originalUrl": "https://everyayah.com/data/Alafasy_128kbps/021041.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al Shatri",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/2/21_41.mp3",
+            "originalUrl": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/021041.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/3/21_41.mp3",
+            "originalUrl": "https://everyayah.com/data/Nasser_Alqatami_128kbps/021041.mp3"
+        },
+        "4": {
+            "reciter": "Yasser Al Dosari",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/4/21_41.mp3",
+            "originalUrl": "https://everyayah.com/data/Yasser_Ad-Dussary_128kbps/021041.mp3"
+        },
+        "5": {
+            "reciter": "Hani Ar Rifai",
+            "url": "https://the-quran-project.github.io/Quran-Audio/Data/5/21_41.mp3",
+            "originalUrl": "https://everyayah.com/data/Hani_Rifai_192kbps/021041.mp3"
+        }
+    },
+    "english": "˹Other˺ messengers had already been ridiculed before you ˹O Prophet˺, but those who mocked them were overtaken by what they used to ridicule.",
+    "arabic1": "وَلَقَدِ ٱسْتُهْزِئَ بِرُسُلٍ مِّن قَبْلِكَ فَحَاقَ بِٱلَّذِينَ سَخِرُوا۟ مِنْهُم مَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+    "arabic2": "ولقد استهزئ برسل من قبلك فحاق بالذين سخروا منهم ما كانوا به يستهزئون",
+    "bengali": "আর তোমার পূর্বেও অনেক রাসূলকে ঠাট্টা-বিদ্রূপ করা হয়েছিল; পরিণামে তারা যা নিয়ে ঠাট্টা করত তাই বিদ্রূপকারীদেরকে ঘিরে ফেলেছিল।* \n* রাসূলগণ আযাব আসার ভয় দেখালে কাফিররা ঠাট্টা-বিদ্রূপ করত। পরিশেষে তাদের ঠাট্টার বস্ত্ত অর্থাৎ আযাব এসে তাদেরকে ঘিরে ফেলত এবং সে আযাবই তাদেরকে গ্রাস করত।",
+    "urdu": "اور تم سے پہلے بھی پیغمبروں کے ساتھ استہزاء ہوتا رہا ہے تو جو لوگ ان میں سے تمسخر کیا کرتے تھے ان کو اسی (عذاب) نے جس کی ہنسی اُڑاتے تھے آگھیرا"
+}
